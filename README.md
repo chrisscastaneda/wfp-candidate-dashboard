@@ -5,6 +5,8 @@ A dashboard of Working Families Party 2026 endorsements: a tile grid map of the
 below it, and the matching candidates and ballot measures on the right. The
 design spec is in [wfp-candidate-dashboard.md](wfp-candidate-dashboard.md).
 
+Live version: [chrisscastaneda.github.io/wfp-candidate-dashboard](https://chrisscastaneda.github.io/wfp-candidate-dashboard/)
+
 ## Data
 
 `candidates.json` / `candidates.csv` are produced by the scraper:
