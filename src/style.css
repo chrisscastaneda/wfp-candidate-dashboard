@@ -1,0 +1,17 @@
+@import 'tailwindcss';
+
+/* WFP style guide */
+@theme {
+  --color-wfp-orange: #f4563c;
+  --color-wfp-marigold: #fecc08;
+  --color-wfp-purple: #461f82;
+  --color-wfp-yellow: #eaf96e;
+  --color-wfp-gray: #e9e7df;
+
+  --font-headline: 'Barlow Condensed', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --font-sans: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+body {
+  @apply bg-white font-sans text-neutral-900 antialiased;
+}

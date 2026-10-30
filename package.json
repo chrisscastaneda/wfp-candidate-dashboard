@@ -1,0 +1,25 @@
+{
+  "name": "wfp-candidate-dashboard",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "vue-tsc --noEmit"
+  },
+  "dependencies": {
+    "vue": "^3.5.44"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.8",
+    "@types/node": "^20.17.50",
+    "@vitejs/plugin-vue": "^5.2.4",
+    "tailwindcss": "^4.1.8",
+    "typescript": "^5.8.3",
+    "vite": "^6.4.5",
+    "vite-plugin-singlefile": "^2.2.0",
+    "vue-tsc": "^2.2.10"
+  }
+}
