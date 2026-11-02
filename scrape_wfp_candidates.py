@@ -31,7 +31,7 @@ CELL_FIELDS = {
 }
 DISTRICT_RE = re.compile(
     r"\b((?:Legislative |Congressional |Council |Senate |House |Assembly )?"
-    r"(?:District|Ward|Trustee Area|Area|Seat|Position|Precinct|Zone|Division|Subdistrict)"
+    r"(?:District|Ward|Trustee Area|Area|Seat|Office|Position|Precinct|Zone|Division|Subdistrict)"
     r"\s+(?:\d[\w-]*|[A-Z])|[Aa]t[- ][Ll]arge|Citywide|Countywide)\b"
 )
 
@@ -74,7 +74,7 @@ STATE_EXECUTIVE_RE = re.compile(
     r"Superintendent\s+of\s+Public\s+Instruction|(?:Labor|Insurance|Land|Agriculture)\s+Commissioner|"
     r"Commissioner\s+of\s+(?:Public\s+Lands|Labor|Insurance|Agriculture)|"
     r"Corporation\s+Commission(?:er)?|Public\s+Service\s+Commission(?:er)?|"
-    r"Railroad\s+Commission(?:er)?|Board\s+of\s+Education|Board\s+of\s+Regents|"
+    r"Railroad\s+Commission(?:er)?|Board\s+of\s+Education|Board\s+of\s+Regents|Board\s+of\s+Equalization|"
     r"University\s+(?:of\s+\w+\s+)?Regents?)"
     r"(?:\s*,.*)?$",
     re.I,
@@ -96,6 +96,18 @@ LOCAL_MARKER_RE = re.compile(
 )
 # "Board of Education" without "State" is a county/school board, not the state board.
 STATE_BOARD_NEEDS_STATE_RE = re.compile(r"^(?:Board\s+of\s+Education|Board\s+of\s+Regents)", re.I)
+
+# Offices the site lists too vaguely to tell which jurisdiction holds the race,
+# keyed by (state slug, candidate, office as listed). Each was identified by
+# looking up the candidate. If the site's text changes, the override stops
+# applying and the listed text is used as-is.
+OFFICE_OVERRIDES = {
+    ("california", "Jose Salazar", "Superior Courts, Judge Seat 7"): "Fresno County Superior Court, Seat 7",
+    ("california", "Andrea Garcia", "Judge of the Superior Court, #10"): "Riverside County Superior Court, Seat 10",
+    ("california", "David Ross", "Judge of the Superior Court"): "Los Angeles County Superior Court, Office 131",
+    ("california", "Justin Clayton", "Judge of the Superior Court"): "Los Angeles County Superior Court, Office 65",
+    ("california", "Jevon Price", "Healthcare District, Area 3"): "Tulare Local Healthcare District, Area 3",
+}
 
 def classify_office(office):
     """Return (office_category, office_level) for an office title."""
@@ -251,6 +263,7 @@ def scrape():
                 # "Long Island"); it applies to the rows that follow it.
                 heading_region = row["name"]
                 continue
+            office = OFFICE_OVERRIDES.get((state["slug"], row["name"], office), office)
             category, level = classify_office(office)
             records.append(record(row["name"], office, category, level, "Endorsed",
                                   parse_district(office), state,
