@@ -1,6 +1,6 @@
 # Election Results Sources: Nov 3, 2026 General
 
-Where to pull live and final results for every WFP endorsement in `candidates.json`
+Where to pull live and final results for every WFP endorsement in [`data/candidates.json`](../data/candidates.json)
 (1,194 rows: 1,129 candidates + 65 ballot measures, across 31 states + DC; scraped Nov 2, 2026).
 Research done Nov 1–2, 2026. Each source below was loaded and inspected unless marked otherwise.
 
@@ -195,7 +195,7 @@ show "results pending" until their states post.
 
 | Column | Meaning |
 |---|---|
-| `id`, `name`, `office`, `office_category`, `state` | From `candidates.json` |
+| `id`, `name`, `office`, `office_category`, `state` | From `data/candidates.json` |
 | `results_level` | `state`; `local (via state source)`; `county (via state Clarity)`; `county`; `county (unconfirmed)` |
 | `county` | County (or district) whose office reports the race, when not statewide |
 | `source_name`, `source_url` | Human-facing results page (`TBD` = still to find) |

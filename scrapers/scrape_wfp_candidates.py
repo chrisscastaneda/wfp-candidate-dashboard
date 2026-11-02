@@ -4,9 +4,10 @@
 The page shows the first 10 candidates per state; the rest are loaded by the
 "View More" button through WordPress admin-ajax (action=more_candidates).
 This script fetches both, adds each state's ballot measures, classifies every
-office, then writes candidates.csv and candidates.json.
+office, then writes candidates.csv and candidates.json to the repo's data/
+directory (or to output_dir if given).
 
-Usage: python3 scrape_wfp_candidates.py [output_dir]
+Usage: python3 scrapers/scrape_wfp_candidates.py [output_dir]
 Standard library only.
 """
 import csv
@@ -23,6 +24,7 @@ from pathlib import Path
 PAGE_URL = "https://workingfamilies.org/candidates/"
 AJAX_URL = "https://workingfamilies.org/wp-admin/admin-ajax.php"
 UA = "Mozilla/5.0 (compatible; wfp-candidate-scraper/1.0)"
+DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 
 CELL_FIELDS = {
     "state-cands__name": "name",
@@ -265,7 +267,7 @@ def scrape():
 
 
 def main():
-    out_dir = Path(sys.argv[1] if len(sys.argv) > 1 else ".")
+    out_dir = Path(sys.argv[1]) if len(sys.argv) > 1 else DATA_DIR
     out_dir.mkdir(parents=True, exist_ok=True)
     records = scrape()
 

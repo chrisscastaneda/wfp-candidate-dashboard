@@ -1,4 +1,4 @@
-import rawData from '../../candidates.json'
+import rawData from '../../data/candidates.json'
 import { CATEGORIES } from './categories'
 import { STATE_GRID } from './stateGrid'
 import type { Candidate, CandidateFile, StateTileData } from './types'
@@ -25,4 +25,4 @@ export const STATE_TILES: StateTileData[] = STATE_GRID.map((entry) => {
 /** Candidate states missing from the grid would silently never show on the map. */
 const gridNames = new Set(STATE_GRID.map((s) => s.state_name))
 const unmapped = [...new Set(CANDIDATES.map((c) => c.state))].filter((s) => !gridNames.has(s))
-if (unmapped.length) console.warn('States in candidates.json missing from STATE_GRID:', unmapped)
+if (unmapped.length) console.warn('States in data/candidates.json missing from STATE_GRID:', unmapped)

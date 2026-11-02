@@ -3,19 +3,31 @@
 A dashboard of Working Families Party 2026 endorsements: a tile grid map of the
 50 states + DC on the left (click a state to filter), office-type checkboxes
 below it, and the matching candidates and ballot measures on the right. The
-design spec is in [wfp-candidate-dashboard.md](wfp-candidate-dashboard.md).
+design spec is in [prompts/wfp-candidate-dashboard.md](prompts/wfp-candidate-dashboard.md).
 
 Live version: [chrisscastaneda.github.io/wfp-candidate-dashboard](https://chrisscastaneda.github.io/wfp-candidate-dashboard/)
 
+## Project layout
+
+| Folder | Contents |
+|---|---|
+| `scrapers/` | Python scripts that collect data (standard library only) |
+| `data/` | Everything the scrapers produce. Scrapers write here by default, wherever they're run from |
+| `docs/` | Project documentation, such as the [election results source map](docs/election-results-sources.md) |
+| `src/` | The dashboard (Vue + TypeScript) |
+
+New scrapers go in `scrapers/` and write their output to `data/`; new documentation goes in `docs/`.
+
 ## Data
 
-`candidates.json` / `candidates.csv` are produced by the scraper:
+`data/candidates.json` / `data/candidates.csv` are produced by the scraper:
 
 ```bash
-python3 scrape_wfp_candidates.py
+python3 scrapers/scrape_wfp_candidates.py
 ```
 
-The dashboard bundles `candidates.json` at build time, so rebuild after re-scraping.
+Pass a folder as the first argument to write somewhere else. The dashboard
+bundles `data/candidates.json` at build time, so rebuild after re-scraping.
 
 ## Development
 
@@ -41,7 +53,7 @@ host. Only the Google Fonts stylesheet is loaded from the network.
 | `src/components/MapLegend.vue` | Explains the notches |
 | `src/components/CategoryToggles.vue` | Office-type checkboxes with counts |
 | `src/components/CandidateList.vue` / `CandidateCard.vue` | Results grouped by state, then office type |
-| `src/data/candidates.ts` | Loads `candidates.json` and derives each state's `has_*` tile flags |
+| `src/data/candidates.ts` | Loads `data/candidates.json` and derives each state's `has_*` tile flags |
 
 ## Deploying to GitHub Pages
 

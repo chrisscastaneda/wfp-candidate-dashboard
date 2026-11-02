@@ -10,7 +10,7 @@ export type OfficeCategory =
 
 export type OfficeLevel = 'Federal' | 'State' | 'Local' | 'Ballot'
 
-/** One row of candidates.json (a candidate or a ballot measure). */
+/** One row of data/candidates.json (a candidate or a ballot measure). */
 export interface Candidate {
   id: number
   name: string
