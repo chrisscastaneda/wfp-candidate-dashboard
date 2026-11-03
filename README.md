@@ -11,9 +11,11 @@ Live version: [chrisscastaneda.github.io/wfp-candidate-dashboard](https://chriss
 
 | Folder | Contents |
 |---|---|
-| `scrapers/` | Python scripts that collect data (standard library only) |
+| `scrapers/` | Python scripts that collect data. `scrapers/elex/` is the election results package |
 | `data/` | Everything the scrapers produce. Scrapers write here by default, wherever they're run from |
 | `docs/` | Project documentation, such as the [election results source map](docs/election-results-sources.md) |
+| `logs/` | A log for every scraper run (git-ignored) |
+| `tests/` | Results scraper tests, run offline against saved feed responses in `tests/fixtures/` |
 | `src/` | The dashboard (Vue + TypeScript) |
 
 New scrapers go in `scrapers/` and write their output to `data/`; new documentation goes in `docs/`.
@@ -28,6 +30,35 @@ python3 scrapers/scrape_wfp_candidates.py
 
 Pass a folder as the first argument to write somewhere else. The dashboard
 bundles `data/candidates.json` at build time, so rebuild after re-scraping.
+Each run is logged to `logs/candidates/`, including the rows added and removed
+since the previous scrape (handy for [docs/candidate-changes.md](docs/candidate-changes.md)).
+
+### Election results
+
+`scrapers/scrape_results.py` pulls official results feeds, matches them to the
+endorsements, and writes `data/results/wfp_results.json` for the dashboard. The
+design and election-night runbook are in
+[docs/election-results-scraper-plan.md](docs/election-results-scraper-plan.md).
+It needs a virtualenv:
+
+```bash
+python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
+.venv/bin/python scrapers/scrape_results.py                  # pull everything once
+.venv/bin/python scrapers/scrape_results.py --states CA,PA   # some states
+.venv/bin/python scrapers/scrape_results.py --watch 5        # every 5 minutes until Ctrl-C
+.venv/bin/python scrapers/scrape_results.py list             # sources and their last status
+.venv/bin/python scrapers/scrape_results.py match            # re-match after editing matches.csv
+.venv/bin/python scrapers/scrape_results.py manual-template  # rows to fill in by hand
+.venv/bin/python -m pytest                                   # tests (offline)
+```
+
+| File in `data/results/` | What it is |
+|---|---|
+| `wfp_results.json` | The dashboard's file: one entry per endorsement, keyed by candidate `id` |
+| `matches.csv` | Which contest and choice each endorsement matched. Review `needs_review` rows; set `status` to `confirmed`, or fix the ids and set `method` to `manual`. The matcher never changes those rows |
+| `manual_entries.csv` | Hand-entered results for races no scraper covers. Add a row per candidate (same `contest_id`) and fill in `votes` |
+| `latest/<source>.json` | Newest normalized contests from each source |
+| `history/` | A snapshot each time a source's contests change (git-ignored) |
 
 ## Development
 

@@ -12,21 +12,22 @@ Written Nov 2, 2026, the night before the election. No production code yet; two 
 ## Contents
 
 1. [Decisions so far](#decisions-so-far)
-2. [What the probes found](#what-the-probes-found)
-3. [Design principles](#design-principles)
-4. [Architecture](#architecture)
-5. [Core modules](#core-modules)
-6. [The normalized result model](#the-normalized-result-model)
-7. [Matching results to endorsements](#matching-results-to-endorsements)
-8. [Data contract for the dashboard](#data-contract-for-the-dashboard)
-9. [Command-line interface](#command-line-interface)
-10. [Files, history and logs](#files-history-and-logs)
-11. [Scraper catalog](#scraper-catalog)
-12. [Phases and coverage](#phases-and-coverage)
-13. [Blocked and feed-less states](#blocked-and-feed-less-states)
-14. [Testing](#testing)
-15. [Election-night runbook](#election-night-runbook)
-16. [Resolved and open questions](#resolved-and-open-questions)
+2. [Phase 1 status](#phase-1-status)
+3. [What the probes found](#what-the-probes-found)
+4. [Design principles](#design-principles)
+5. [Architecture](#architecture)
+6. [Core modules](#core-modules)
+7. [The normalized result model](#the-normalized-result-model)
+8. [Matching results to endorsements](#matching-results-to-endorsements)
+9. [Data contract for the dashboard](#data-contract-for-the-dashboard)
+10. [Command-line interface](#command-line-interface)
+11. [Files, history and logs](#files-history-and-logs)
+12. [Scraper catalog](#scraper-catalog)
+13. [Phases and coverage](#phases-and-coverage)
+14. [Blocked and feed-less states](#blocked-and-feed-less-states)
+15. [Testing](#testing)
+16. [Election-night runbook](#election-night-runbook)
+17. [Resolved and open questions](#resolved-and-open-questions)
 
 ## Decisions so far
 
@@ -47,6 +48,44 @@ Written Nov 2, 2026, the night before the election. No production code yet; two 
 | Where it runs | On your machine on election night. A scheduled GitHub Action can come later |
 | Manual entries | Every federal race without a working scraper on Nov 3 night, including MI and FL (see [Manual federal races](#manual-federal-races)) |
 | Feed requests | Not asking NY BOE or AZ SoS for media feeds for now |
+
+## Phase 1 status
+
+Built Nov 2–3 overnight. Ten sources are registered: `ca`, `pa`, `nc`, `ga`, `ut`, `wa`, `ri`, `nm`, `ne` and
+`manual`. A live run takes about 18 seconds. The 23 tests run offline against the saved Nov 3 contest lists in
+`tests/fixtures/`.
+
+**Live check, 1am ET Nov 3:** 8 of 9 state sources returned their Nov 3 contests. Washington's site has opened
+since the Nov 2 probe. Georgia's responds but doesn't list Nov 3 yet, so it reports `not_published` and needs no
+change when it appears. Pennsylvania's per-office method turned out to be `GetOfficeData` with
+`methodName=GetOfficeDetails`; the site's pages sit behind a bot check, but its JSON API answers scripts.
+
+**Matching, before any votes:**
+
+| Status | Rows | What it means |
+|---|---:|---|
+| `auto` | 164 | Every scraped state's federal, state and statewide-measure endorsements, plus local races the state feeds carry (NC sheriffs and DA, NM county commissions, Providence, Salt Lake County, King County, Seattle). Spot-checked: no false matches |
+| `needs_review` | 5 | Connolly (WFP lists SD 12, he's on SD 2); "Cari Power" is Cari Leann **Powell** on the NM ballot; "Jackie" Goldman and "Libby" Merrill are Jacqueline and Elizabeth on the RI ballot; Tarkenton's office is "Prosecuting Attorney" in the feed |
+| `unmatched` | 3 | **Not on Rhode Island's Nov 3 ballot:** Matt McCoy (HD 31, only James Sheehan is listed), Gena Felix (SD 8, only Lori Urso), Jonathan Jacobs (East Providence Ward 1). Probably primary losses; worth checking with WFP |
+| `no_source` | 1,032 | States without a scraper yet, and local races in CA and NE, whose state feeds don't carry them |
+| `not_on_ballot` | 12 | From `results_sources.csv` |
+
+`manual-template` wrote 35 races to `manual_entries.csv`: the 34 in [Manual federal races](#manual-federal-races)
+plus Georgia's House 1 while Georgia isn't publishing. Washington's House 7 is covered by its scraper now.
+
+**Where the build differs from the layout above:**
+
+- The Enhanced Voting and results-CSV states are configured in two modules, `states/enhanced_voting_states.py` and
+  `states/results_csv_states.py`, instead of one file each. Each source is a few lines.
+- `elex/endorsements.py` joins `candidates.json` with `results_sources.csv`. It keys rows by state + name + office,
+  because candidate ids shift when WFP's list changes.
+- Sources declare `local_races`. Where a state's feeds don't carry local races (CA, NE), unmatched local and judicial
+  rows are `no_source` instead of `unmatched`, so `unmatched` stays a short list worth reading.
+- `matches.csv` also uses `no_source`, plus a `near_name` method for nickname and misspelling matches. Those only
+  count when the contest shares a place name with the WFP office, and they always go to review.
+- In Utah, single-county legislative districts are only on county sub-sites, so `ut` also reads Salt Lake and Utah
+  counties. North Carolina's county races come from its per-county files (Alamance, Durham, Mecklenburg).
+- The candidate scraper logs each run to `logs/candidates/`, including rows added and removed since the last scrape.
 
 ## What the probes found
 

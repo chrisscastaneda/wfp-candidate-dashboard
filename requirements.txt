@@ -1,0 +1,4 @@
+# Election results scrapers (scrapers/scrape_results.py). Install into a virtualenv:
+#   python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
+requests==2.34.2
+pytest==9.2.0
