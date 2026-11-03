@@ -37,27 +37,29 @@ def first_name(name: str) -> str:
 # Ordered: the first pattern that matches the folded text wins. Federal before state, lieutenant before governor.
 _OFFICE_PATTERNS = [
     ("federal_senate", r"\b(u ?s|united states) senat|\bsenator in congress\b|\bus senator\b"),
-    ("federal_house", r"\b(u ?s|united states) (house|rep)|\bin congress\b|\bcongressional\b|\bus house\b"),
-    ("governor", r"^governor and lieutenant governor"),  # joint tickets (NM): both names are on one choice
+    ("federal_house", r"\b(u ?s|united states) (house|rep|congress)|\b(in|to) congress\b|\bcongressional\b"
+                      r"|\bus house\b"),
+    # Joint tickets (NM "Governor and Lieutenant Governor", MD "Governor / Lt. Governor"): both names on one choice.
+    ("governor", r"^governor (and )?(lieutenant|lt) governor"),
     ("lt_governor", r"\blieutenant governor\b|\blt governor\b"),
     ("governor", r"\bgovernor\b"),
     ("attorney_general", r"\battorney general\b"),
     ("secretary_of_state", r"\bsecretary of (the )?state\b"),
     ("treasurer", r"\btreasurer\b"),
     ("controller", r"\b(controller|comptroller)\b"),
-    ("auditor", r"\bstate auditor\b"),
+    ("auditor", r"\bstate auditor\b|\bauditor of state\b"),
     ("insurance_commissioner", r"\binsurance commissioner\b"),
     ("board_of_equalization", r"\bequalization\b"),
     ("public_lands", r"\bpublic lands\b"),
     ("superintendent", r"\bsuperintendent of public instruction\b"),
-    ("labor_commissioner", r"\blabor commissioner\b|\bcommissioner of labor\b"),
+    ("labor_commissioner", r"\blabor commissioner\b|\bcommissioner of labor\b|\bbureau of labor\b"),
     ("public_service_commission", r"\bpublic service commission\b"),
     ("corporation_commission", r"\bcorporation commission\b"),
     ("state_senate", r"\bstate senat|\bsenator in (the )?general assembly\b|\bnc senate\b|\bsenate district\b"
                      r"|^senate\b|\bstate senator\b"),
     ("state_house", r"\bstate (house|assembly|representative)|\bsate assembly\b|\bgeneral assembly\b"
                     r"|\bhouse of representatives\b|\bassembly district\b|\bhouse district\b|^assembly\b"
-                    r"|\blegislature\b|\bstate rep"),
+                    r"|\blegislature\b|\bstate rep|\bhouse of delegates\b"),
     ("judicial", r"\bcourt\b|\bjudge\b|\bjustice\b|\bjudicial\b"),
 ]
 
@@ -82,6 +84,8 @@ def wfp_office_type(row: dict) -> str:
     kind = office_type(row["office"])
     if category == "Local Office" and kind not in ("judicial",):
         return "local"
+    if category == "State Executive" and kind == "local":
+        return "state_other"  # a statewide office office_type() doesn't know ("Auditor", "Land Commissioner")
     return kind
 
 
@@ -122,11 +126,11 @@ def party(label: str | None) -> str | None:
     """Short party code: 'Democratic', 'DEMOCRAT', 'Dem' -> 'DEM'."""
     if not label:
         return None
-    folded = fold(label)
+    folded = re.sub(r"\s+party$", "", fold(label))
     table = {"dem": "DEM", "democrat": "DEM", "democratic": "DEM", "rep": "REP", "republican": "REP",
              "lib": "LIB", "libertarian": "LIB", "gre": "GRE", "green": "GRE", "ind": "IND", "independent": "IND",
              "wor": "WFP", "working families": "WFP", "wfp": "WFP", "una": "UNA", "unaffiliated": "UNA",
-             "non": None, "nonpartisan": None, "np": None}
+             "non": None, "nonpartisan": None, "np": None, "write in": "WRITE-IN"}
     return table.get(folded, label.strip().upper()[:12] or None)
 
 

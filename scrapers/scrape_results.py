@@ -84,8 +84,9 @@ def cmd_match(args) -> int:
 
 def cmd_manual_template(args) -> int:
     # Federal races in states whose scraper is missing, blocked or not yet publishing are entered by hand.
-    working = {s.state for s in registry.ALL if s.state and (store.load(s.id) or {}).get("status") == "ok"}
-    untested = registry.covered_states() - working - {s.state for s in registry.ALL if store.load(s.id)}
+    state_sources = [s for s in registry.ALL if s.state and s.level == "state"]
+    working = {s.state for s in state_sources if (store.load(s.id) or {}).get("status") == "ok"}
+    untested = {s.state for s in state_sources} - working - {s.state for s in state_sources if store.load(s.id)}
     covered = working | untested
     added, ids = manual.write_template(covered, force=args.force)
     print(f"{config.MANUAL_FILE.relative_to(config.REPO)}: added {added} races" + (f": {', '.join(ids)}" if ids

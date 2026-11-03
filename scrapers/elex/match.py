@@ -16,6 +16,7 @@ Review: set `status` to `confirmed`, or fix source/contest_id/choice_id and set 
 confirmed or manual are never changed by the matcher; everything else is re-evaluated on every run.
 """
 import csv
+import re
 from collections import defaultdict
 from dataclasses import dataclass
 
@@ -60,6 +61,10 @@ _OFFICE_WORDS = {"council", "board", "school", "committee", "commission", "commi
                  "judge", "sheriff", "attorney", "unified", "union", "high", "elementary", "director", "directors"}
 
 
+_MEASURE_WORDS = _OFFICE_WORDS | {"ballot", "issue", "question", "measure", "amendment", "prop", "proposition",
+                                  "referendum", "initiative", "yes", "no"}
+
+
 def _overlap(office: str, title: str, ignore=frozenset()) -> int:
     skip = _STOP | ignore
     return len((set(names.tokens(office)) - skip) & (set(names.tokens(title)) - skip))
@@ -80,6 +85,17 @@ def _pick(hits: list[tuple[Contest, Choice]], row: dict) -> tuple[tuple[Contest,
     return None, "ambiguous: " + "; ".join(f"{c.title} / {ch.name}" for c, ch in hits[:4])
 
 
+def _is_local_measure(contest: Contest) -> bool:
+    return bool(re.search(r"\bcounty$", contest.jurisdiction or "", re.I)
+                or re.search(r"\b(city|village|township|county|school district)\b", contest.title, re.I))
+
+
+def _position(row: dict) -> str:
+    """WFP's side on a measure: "Yes" unless its position says No."""
+    position = names.yes_no(row.get("position") or "Yes")
+    return position if position in ("Yes", "No") else "Yes"
+
+
 def _surname_hits(contests, surname):
     return [(c, ch) for c in contests for ch in c.choices if _has_surname(ch, surname)]
 
@@ -90,11 +106,31 @@ def match_one(row: dict, contests: list[Contest]) -> Match:
     if kind == "measure":
         ident = names.measure_id(row["name"])
         hits = [c for c in contests if c.office_type == "measure" and ident and c.district == ident]
+        if len(hits) > 1:
+            # Local measures reuse numbers ("1A" in several Colorado counties): keep the ones whose title or
+            # jurisdiction shares a place name with WFP's name for the measure.
+            scores = [_overlap(row["name"], f"{c.title} {c.jurisdiction or ''}", _MEASURE_WORDS) for c in hits]
+            best = max(scores)
+            hits = [c for c, s in zip(hits, scores) if s == best and s > 0]
+        # A local measure's number only means something within its place, so it needs a shared place name too
+        # ("Columbus Issue 8" isn't Hamilton County's measure 8).
+        hits = [c for c in hits if not _is_local_measure(c)
+                or _overlap(row["name"], f"{c.title} {c.jurisdiction or ''}", _MEASURE_WORDS)]
+        if not ident:
+            # WFP sometimes names a measure without its number ("Your 2 Cents"): look for a measure whose title
+            # shares at least two distinctive words, and send it to review.
+            measures = [c for c in contests if c.office_type == "measure"]
+            scores = [_overlap(row["name"], f"{c.title} {c.jurisdiction or ''}", _MEASURE_WORDS) for c in measures]
+            best = max(scores, default=0)
+            hits = [c for c, s in zip(measures, scores) if s == best and s >= 2]
+            if len(hits) == 1:
+                choice = next((ch for ch in hits[0].choices if ch.name == _position(row)), None)
+                return Match(NEEDS_REVIEW, "measure_words", hits[0], choice,
+                             note="no measure number in WFP's name; matched by title words")
         if len(hits) != 1:
             return Match(UNMATCHED if not hits else NEEDS_REVIEW,
                          note=f"measure {ident!r}: " + ("not found" if not hits else f"{len(hits)} contests"))
-        position = names.yes_no(row.get("position") or "Yes")
-        position = position if position in ("Yes", "No") else "Yes"
+        position = _position(row)
         choice = next((ch for ch in hits[0].choices if ch.name == position), None)
         if choice is None:
             return Match(NEEDS_REVIEW, "measure_number", hits[0], note=f"no {position!r} choice in contest")
@@ -118,6 +154,14 @@ def match_one(row: dict, contests: list[Contest]) -> Match:
             if picked:
                 return Match(AUTO, "district_surname", *picked)
             return Match(NEEDS_REVIEW, "district_surname", note=note)
+        # Same race, name spelled differently ("Angeline Nicole Basett" is "Nicole Bassett" on the ballot):
+        # one choice in the listed district sharing another name of WFP's.
+        if wanted_district and in_district:
+            given = set(names.tokens(row["name"])) - {surname} - names.SUFFIXES - names.TITLES
+            near = [(c, ch) for c in in_district for ch in c.choices if given & set(names.tokens(ch.name))]
+            if len(near) == 1:
+                return Match(NEEDS_REVIEW, "near_name", *near[0],
+                             note=f"name differs: WFP {row['name']!r}, feed {near[0][1].name!r}")
         hits = _surname_hits(same_type, surname)
         if hits:
             picked, note = _pick(hits, row)
@@ -174,12 +218,15 @@ def _row_for(e: dict, m: Match) -> dict:
 
 
 def match_all(endorsements: list[dict], contests: list[Contest], previous: dict[str, dict],
-              local_states: set[str] = frozenset()) -> list[dict]:
+              local_states: set[str] = frozenset(), statewide_states: set[str] | None = None) -> list[dict]:
     """The full review table: kept rows for confirmed/manual entries, fresh matches for everything else.
-    `local_states` are states with a source that carries local races; elsewhere an unmatched local or judicial
-    race is `no_source`, not `unmatched`."""
+    An unmatched row is `no_source` instead of `unmatched` when nothing could have matched it: a local or
+    judicial race outside `local_states` (states with a source that carries local races), or a federal or state
+    race outside `statewide_states` (states with a state-level source; None means every state with contests)."""
     scraped, manual = defaultdict(list), defaultdict(list)
     for c in contests:
+        if c.scope == "partial":  # one county's share of a larger race; summing partials is Phase 3
+            continue
         (manual if c.source == "manual" else scraped)[c.state].append(c)
     out = []
     for e in endorsements:
@@ -201,9 +248,11 @@ def match_all(endorsements: list[dict], contests: list[Contest], previous: dict[
                 m = manual_match
         if m.status == UNMATCHED and not scraped[state]:
             m = Match(NO_SOURCE, note=f"no scraper for {state}; not in manual entries")
-        elif m.status == UNMATCHED and state not in local_states and names.wfp_office_type(e) in ("local",
-                                                                                                   "judicial"):
-            m = Match(NO_SOURCE, note=f"{state}'s scraped sources don't carry local races yet")
+        elif m.status == UNMATCHED and names.wfp_office_type(e) in ("local", "judicial"):
+            if state not in local_states:
+                m = Match(NO_SOURCE, note=f"{state}'s scraped sources don't carry local races yet")
+        elif m.status == UNMATCHED and statewide_states is not None and state not in statewide_states:
+            m = Match(NO_SOURCE, note=f"{state} has only county sources so far")
         out.append(_row_for(e, m))
     return out
 

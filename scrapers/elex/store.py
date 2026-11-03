@@ -27,7 +27,10 @@ def write_json_atomic(path: Path, payload) -> None:
 
 
 def _hash(contests: list[dict]) -> str:
-    return hashlib.sha256(json.dumps(contests, sort_keys=True).encode()).hexdigest()[:16]
+    # Feed timestamps are left out: some feeds stamp every response with the current time (Nebraska's CSV), and
+    # only a change in votes, choices or reporting should count as new results.
+    stable = [{k: v for k, v in c.items() if k != "feed_updated_at"} for c in contests]
+    return hashlib.sha256(json.dumps(stable, sort_keys=True).encode()).hexdigest()[:16]
 
 
 def load(source_id: str) -> dict | None:

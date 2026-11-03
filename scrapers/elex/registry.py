@@ -2,10 +2,11 @@
 SOURCES here.
 """
 from .source import Source
-from .states import ca, enhanced_voting_states, manual, nc, pa, results_csv_states
+from .states import ca, clarity_states, ct, de, enhanced_voting_states, manual, md, nc, oh, or_, pa, results_csv_states
 
 ALL: list[Source] = [
     *ca.SOURCES, *pa.SOURCES, *nc.SOURCES, *enhanced_voting_states.SOURCES, *results_csv_states.SOURCES,
+    *clarity_states.SOURCES, *ct.SOURCES, *or_.SOURCES, *oh.SOURCES, *de.SOURCES, *md.SOURCES,
     *manual.SOURCES,
 ]
 
@@ -37,6 +38,3 @@ def select(states=None, level="all", counties=None, ids=None) -> list[Source]:
         chosen = [s for s in chosen if s.state in wanted_states or not s.state]
     return chosen
 
-
-def covered_states() -> set[str]:
-    return {s.state for s in ALL if s.state}

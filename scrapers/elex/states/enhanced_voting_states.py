@@ -2,7 +2,7 @@
 
 Georgia and Washington returned 403 on Nov 2 (WA: "final launch preparations"). They report `blocked` until the
 sites open, then work with no code changes. Their locality names are resolved against the site's own county list
-at run time; if a name doesn't match, the pull reports `not_published` with the name, so fix it here.
+at run time; a name that doesn't match is skipped, and its races show up as unmatched in matches.csv.
 """
 from ..platforms.enhanced_voting import EnhancedVotingSource
 

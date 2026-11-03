@@ -17,6 +17,9 @@ PUBLISH_FILE = RESULTS_DIR / "wfp_results.json"
 SOURCES_CSV = REPO / "docs" / "results_sources.csv"
 LOG_DIR = REPO / "logs"
 
+# Seconds between requests to one host (default 1). Ohio's API needs one request per contest, so it gets less.
+HOST_GAPS = {"liveresults.ohiosos.gov": 0.25}
+
 USER_AGENT = "wfp-results-scraper/0.1 (+https://github.com/; election results for WFP endorsements)"
 
 STATE_CODES = {

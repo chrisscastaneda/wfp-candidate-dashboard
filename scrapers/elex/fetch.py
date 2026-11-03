@@ -56,15 +56,15 @@ class Fetcher:
         with self._locks_guard:
             return self._host_locks.setdefault(host, threading.Lock())
 
-    def _request(self, url: str, params: dict | None, log: list) -> bytes:
+    def _request(self, url: str, params: dict | None, log: list, data: dict | None = None) -> bytes:
         host = urlsplit(url).netloc
         with self._host_lock(host):  # one request at a time per host, min_gap apart
             for attempt in range(1, self.retries + 1):
-                wait = self.min_gap - (time.monotonic() - self._host_last.get(host, 0))
+                wait = config.HOST_GAPS.get(host, self.min_gap) - (time.monotonic() - self._host_last.get(host, 0))
                 if wait > 0:
                     time.sleep(wait)
                 cache_key = url + "?" + json.dumps(params, sort_keys=True) if params else url
-                cached = self._cache.get(cache_key)
+                cached = None if data else self._cache.get(cache_key)
                 headers = {}
                 if cached:
                     if cached[0]:
@@ -72,9 +72,12 @@ class Fetcher:
                     if cached[1]:
                         headers["If-Modified-Since"] = cached[1]
                 start = time.monotonic()
-                entry = {"url": url, "params": params, "attempt": attempt}
+                entry = {"url": url, "params": params, "attempt": attempt, **({"method": "POST"} if data else {})}
                 try:
-                    resp = self.session.get(url, params=params, headers=headers, timeout=self.timeout)
+                    if data:
+                        resp = self.session.post(url, params=params, data=data, timeout=self.timeout)
+                    else:
+                        resp = self.session.get(url, params=params, headers=headers, timeout=self.timeout)
                 except requests.RequestException as e:
                     entry.update(status=None, error=type(e).__name__, seconds=round(time.monotonic() - start, 2))
                     log.append(entry)
@@ -105,7 +108,7 @@ class Fetcher:
                 if any(marker in head for marker in _CHALLENGE_MARKERS):
                     raise Blocked(f"{url}: bot-challenge page")
                 etag, modified = resp.headers.get("ETag"), resp.headers.get("Last-Modified")
-                if etag or modified:
+                if (etag or modified) and not data:
                     self._cache[cache_key] = (etag, modified, resp.content)
                 return resp.content
         raise FetchError(f"{url}: no response")  # not reached
@@ -121,7 +124,14 @@ class SourceFetcher:
 
     def get(self, url: str, *, params: dict | None = None, expect: str = "json"):
         """Return the body decoded as `expect`: "json", "text" or "bytes"."""
-        body = self._fetcher._request(url, params, self.requests)
+        return self._decode(url, self._fetcher._request(url, params, self.requests), expect)
+
+    def post(self, url: str, data: dict, *, params: dict | None = None, expect: str = "text"):
+        """POST a form (an ASP.NET postback, say) and return the body decoded as `expect`."""
+        return self._decode(url, self._fetcher._request(url, params, self.requests, data=data), expect)
+
+    @staticmethod
+    def _decode(url: str, body: bytes, expect: str):
         if expect == "bytes":
             return body
         text = body.decode("utf-8-sig", "replace")

@@ -1,12 +1,27 @@
 wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id,choice,note
 93,CA,Damon Connolly,"State Senate, District 12",needs_review,surname_any_district,ca,state-senate/2,State Senate District 2,Damon Connolly,Damon Connolly,district differs from WFP listing (12 -> 2)
 494,NM,Cari Power,"Socorro County Commission, District 1",needs_review,near_name,nm,11279,County Commissioner by Commissioner District - Socorro - Socorro District 1,20001,CARI LEANN POWELL,"surname differs: WFP 'Cari Power', feed 'CARI LEANN POWELL'"
+925,OH,Annette Blackwell,Auditor,needs_review,name_in_state,oh,_55A742EA54E009A3E0633390EE0AE290,Auditor of State,Annette Blackwell,Annette Blackwell,found by name only; check the office (Auditor of State)
+986,OR,Angeline Nicole Basett,State Senate District 26,needs_review,near_name,or,300038717,"State Senator, 26th District",Nicole Bassett,Nicole Bassett,"name differs: WFP 'Angeline Nicole Basett', feed 'Nicole Bassett'"
+1022,OR,Joe Hagedorn,Multnomah County Circuit Court Judge Position 14,needs_review,near_name,or,300038778,"Judge of the Circuit Court, 4th District, Position 14",Joseph Hagedorn,Joseph Hagedorn,"first name differs: WFP 'Joe Hagedorn', feed 'Joseph Hagedorn'"
+1212,OR,Astoria Vacant Homes,Ballot Measure,needs_review,measure_words,or,300001741,04-247 City of Astoria: Excise tax on homes kept vacant most of the year.,Yes,Yes,no measure number in WFP's name; matched by title words
+1213,OR,Eugene Clean Energy Fund,Ballot Measure,needs_review,measure_words,or,300001791,20-388 City of Eugene: Licensure of Large Retailers to Finance a Clean Energy Fund,Yes,Yes,no measure number in WFP's name; matched by title words
+1214,OR,Hood River Affordable Housing Bond,Ballot Measure,needs_review,measure_words,or,300001744,14-85 City of Hood River: City of Hood River bonds to fund affordable housing,Yes,Yes,no measure number in WFP's name; matched by title words
 1076,RI,Jackie Goldman,"Providence City Council, Ward 5",needs_review,near_name,ri,01000000-59ac-daed-6be1-08df1e27bc63,Providence: City Council Ward 5,01000000-59ac-daed-ed3e-08df1e27bc6b,Jacqueline Goldman,"first name differs: WFP 'Jackie Goldman', feed 'Jacqueline Goldman'"
 1080,RI,Libby Merrill,"East Providence School Committee, Ward 3",needs_review,near_name,ri,01000000-59ac-daed-cb6d-08df1e27af35,East Providence: Non-Partisan School Committee Ward 3,01000000-59ac-daed-7134-08df1e27af3e,Elizabeth Merrill,"first name differs: WFP 'Libby Merrill', feed 'Elizabeth Merrill'"
 1112,WA,Danny Tarkenton,Spokane County Prosecutor,needs_review,name_in_state,wa,01000000-bd5d-c14f-aefb-08df12b2898e,Prosecuting Attorney,01000000-bd5d-c14f-afad-08df12b2898e,Danny Tarkenton,found by name only; check the office (Prosecuting Attorney)
+1210,OH,"Columbus, OH | Issue 8: Our City, Our Say",Ballot Measure,unmatched,,,,,,,measure '8': not found
+1211,OH,Ohio | Senate Bill 396: Paid Family and Medical Leave Act,Ballot Measure,unmatched,,,,,,,measure None: not found
+989,OR,Christina Stephenson,Oregon Labor Commissioner,unmatched,,,,,,,no 'stephenson' in any OR contest loaded
+1216,OR,Your 2 Cents,Ballot Measure,unmatched,,,,,,,measure None: not found
 1068,RI,Matt McCoy,"Rhode Island State House, District 31",unmatched,,,,,,,no 'mccoy' in any RI contest loaded
 1070,RI,Gena Felix,"Rhode Island State Senate, District 8",unmatched,,,,,,,no 'felix' in any RI contest loaded
 1079,RI,Jonathan Jacobs,"East Providence City Council, Ward 1",unmatched,,,,,,,no 'jacobs' in any RI contest loaded
+1091,TX,James “Jim” Bethke,Bexar County District Attorney,unmatched,,,,,,,no 'bethke' in any TX contest loaded
+1092,TX,John Cruezot,Dallas County District Attorney,unmatched,,,,,,,no 'cruezot' in any TX contest loaded
+1096,TX,Dr. Jared Williams,"Tarrant County Commissioner, Precinct 2",unmatched,,,,,,,no 'williams' in any TX contest loaded
+1097,TX,Nydia Cardenas,"Tarrant County Commissioner, Precinct 4",unmatched,,,,,,,no 'cardenas' in any TX contest loaded
+1101,TX,Andrew Hairston,"Travis County Justice of the Peace, Precinct 1",unmatched,,,,,,,no 'hairston' in any TX contest loaded
 30,CA,Sally Lieber,"Board of Equalization, District 2",auto,district_surname,ca,board-of-equalization/2,Board of Equalization District 2,Sally J. Lieber,Sally J. Lieber,
 88,CA,Chris Rogers,"State Assembly, District 2",auto,district_surname,ca,state-assembly/2,State Assembly District 2,Chris Rogers,Chris Rogers,
 89,CA,Jackie Elward,"State Assembly, District 12",auto,district_surname,ca,state-assembly/12,State Assembly District 12,Jackie Elward,Jackie Elward,
@@ -50,6 +65,110 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 1169,CA,Prop 43: Protect Local Funding,Ballot Measure,auto,measure_number,ca,prop/43,Proposition 43: Limits Voters' Ability To Raise Revenues For Local Government Services. Legislative Constitutional Amendment.,No,No,
 1170,CA,Prop 44: Protect Community Health Clinics,Ballot Measure,auto,measure_number,ca,prop/44,Proposition 44: Requires Community Health Clinics Spend 90% Of Revenue On Program Services. Initiative Statute.,No,No,
 1171,CA,Prop 45: Reject Corporate Polluting Projects,Ballot Measure,auto,measure_number,ca,prop/45,Proposition 45: Modifies Environmental Review For Certain Projects. Initiative Statute.,No,No,
+295,CT,Jahana Hayes,"U.S. House of Representatives, District 5",auto,district_surname,ct,19670,Representative in Congress 5,Jahana Hayes,Jahana Hayes,
+296,CT,Ned Lamont,Governor,auto,district_surname,ct,19663,Governor and Lieutenant Governor,Ned Lamont and Susan Bysiewicz,Ned Lamont and Susan Bysiewicz,
+297,CT,Susan Bysiewicz,Lt Governor,auto,district_surname,ct,19663,Governor and Lieutenant Governor,Ned Lamont and Susan Bysiewicz,Ned Lamont and Susan Bysiewicz,
+298,CT,Stephanie Thomas,Secretary of State,auto,district_surname,ct,19664,Secretary of the State,Stephanie Thomas,Stephanie Thomas,
+299,CT,William Tong,Attorney General,auto,district_surname,ct,19661,Attorney General,William Tong,William Tong,
+300,CT,Sean Scanlon,Comptroller,auto,district_surname,ct,19662,Comptroller,Sean Scanlon,Sean Scanlon,
+301,CT,Erick Russell,Treasurer,auto,district_surname,ct,19665,Treasurer,Erick Russell,Erick Russell,
+302,CT,Francis Lombard,"State House, District 8",auto,district_surname,ct,19681,State Representative 8,Francis Lombard,Francis Lombard,
+303,CT,Angie Parkinson,"State House, District 10",auto,district_surname,ct,19683,State Representative 10,Angie Parkinson,Angie Parkinson,
+304,CT,Geoffrey Luxenberg,"State House, District 12",auto,district_surname,ct,19685,State Representative 12,Geoffrey Luxenberg,Geoffrey Luxenberg,
+305,CT,Eleni Kavros DeGraw,"State House, District 17",auto,district_surname,ct,19690,State Representative 17,Eleni Kavros DeGraw,Eleni Kavros DeGraw,
+306,CT,Kate Farrar,"State House, District 20",auto,district_surname,ct,19693,State Representative 20,Kate Farrar,Kate Farrar,
+307,CT,Mike Demicco,"State House, District 21",auto,district_surname,ct,19694,State Representative 21,Mike Demicco,Mike Demicco,
+308,CT,Rebecca Martinez,"State House, District 22",auto,district_surname,ct,19695,State Representative 22,Rebecca Martinez,Rebecca Martinez,
+309,CT,Jane Wisialowski,"State House, District 23",auto,district_surname,ct,19696,State Representative 23,Jane Wisialowski,Jane Wisialowski,
+310,CT,Emmanuel “Manny” Sanchez,"State House, District 24",auto,district_surname,ct,19697,State Representative 24,"Emmanuel ""Manny"" Sanchez","Emmanuel ""Manny"" Sanchez",
+311,CT,David DeFronzo,"State House, District 26",auto,district_surname,ct,19699,State Representative 26,David DeFronzo,David DeFronzo,
+312,CT,Gary Turco,"State House, District 27",auto,district_surname,ct,19700,State Representative 27,Gary Turco,Gary Turco,
+313,CT,Amy Morrin Bello,"State House, District 28",auto,district_surname,ct,19701,State Representative 28,Amy Morrin Bello,Amy Morrin Bello,
+314,CT,Moise ‘Moses” Carelus,"State House, District 31",auto,district_surname,ct,19704,State Representative 31,"Moise ""Moses"" Carelus","Moise ""Moses"" Carelus",
+315,CT,Cinzia Lettieri,"State House, District 35",auto,district_surname,ct,19708,State Representative 35,Cinzia Lettieri,Cinzia Lettieri,
+316,CT,Nick Menapace,"State House, District 37",auto,district_surname,ct,19710,State Representative 37,Nick Menapace,Nick Menapace,
+317,CT,Nick Gauthier,"State House, District 38",auto,district_surname,ct,19711,State Representative 38,Nick Gauthier,Nick Gauthier,
+318,CT,Dan Gaiewski,"State House, District 40",auto,district_surname,ct,19713,State Representative 40,Dan Gaiewski,Dan Gaiewski,
+319,CT,Aundre Bumgardner,"State House, District 41",auto,district_surname,ct,19714,State Representative 41,Aundre Bumgardner,Aundre Bumgardner,
+320,CT,Samantha Derenthal,"State House, District 44",auto,district_surname,ct,19717,State Representative 44,Samantha Derenthal,Samantha Derenthal,
+321,CT,Derell Q Wilson,"State House, District 46",auto,district_surname,ct,19719,State Representative 46,Derell Q Wilson,Derell Q Wilson,
+322,CT,Bob Fernandez,"State House, District 48",auto,district_surname,ct,19721,State Representative 48,Bob Fernandez,Bob Fernandez,
+323,CT,Susan Johnson,"State House, District 49",auto,district_surname,ct,19722,State Representative 49,Susan Johnson,Susan Johnson,
+324,CT,Michelle Doucette Cunningham,"State House, District 53",auto,district_surname,ct,19726,State Representative 53,Michelle Doucette Cunningham,Michelle Doucette Cunningham,
+325,CT,Gregg Haddad,"State House, District 54",auto,district_surname,ct,19727,State Representative 54,Gregg Haddad,Gregg Haddad,
+326,CT,Ellen Paul,"State House, District 55",auto,district_surname,ct,19728,State Representative 55,Ellen Paul,Ellen Paul,
+327,CT,Kevin Brown,"State House, District 56",auto,district_surname,ct,19729,State Representative 56,Kevin Brown,Kevin Brown,
+328,CT,Jane Garibay,"State House, District 60",auto,district_surname,ct,19733,State Representative 60,Jane Garibay,Jane Garibay,
+329,CT,Kim Becker,"State House, District 62",auto,district_surname,ct,19735,State Representative 62,Kim Becker,Kim Becker,
+330,CT,Maria Horn,"State House, District 64",auto,district_surname,ct,19737,State Representative 64,Maria Horn,Maria Horn,
+331,CT,Edward M Corey,"State House, District 65",auto,district_surname,ct,19738,State Representative 65,Edward M. Corey,Edward M. Corey,
+332,CT,Suzanne Lovig,"State House, District 66",auto,district_surname,ct,19739,State Representative 66,Suzanne Lovig,Suzanne Lovig,
+333,CT,Ronald Napoli Jr.,"State House, District 73",auto,district_surname,ct,19745,State Representative 73,"Ronald Napoli, Jr.","Ronald Napoli, Jr.",
+334,CT,DeWayne K Wynn Jr,"State House, District 77",auto,district_surname,ct,19750,State Representative 77,"DeWayne K. Wynn, Jr.","DeWayne K. Wynn, Jr.",
+335,CT,Nate Brown,"State House, District 78",auto,district_surname,ct,19751,State Representative 78,Nate Brown,Nate Brown,
+336,CT,Mary B Fortier,"State House, District 79",auto,district_surname,ct,19752,State Representative 79,Mary B. Fortier,Mary B. Fortier,
+337,CT,Chad Cardillo,"State House, District 83",auto,district_surname,ct,19756,State Representative 83,Chad Cardillo,Chad Cardillo,
+338,CT,Kathleen Kimball,"State House, District 87",auto,district_surname,ct,19760,State Representative 87,Kathleen Kimball,Kathleen Kimball,
+339,CT,Joshua Elliott,"State House, District 88",auto,district_surname,ct,19761,State Representative 88,Josh Elliott,Josh Elliott,
+340,CT,Laurie Sweet,"State House, District 91",auto,district_surname,ct,19764,State Representative 91,Laurie Sweet,Laurie Sweet,
+341,CT,Steven Winter,"State House, District 94",auto,district_surname,ct,19767,State Representative 94,Steven Winter,Steven Winter,
+342,CT,Moira Rader,"State House, District 98",auto,district_surname,ct,19771,State Representative 98,Moira Rader,Moira Rader,
+343,CT,Karen A Martin,"State House, District 99",auto,district_surname,ct,19772,State Representative 99,Karen A. Martin,Karen A. Martin,
+344,CT,Robin Comey,"State House, District 102",auto,district_surname,ct,19775,State Representative 102,Robin Comey,Robin Comey,
+345,CT,Kara Rochelle,"State House, District 104",auto,district_surname,ct,19777,State Representative 104,Kara Rochelle,Kara Rochelle,
+346,CT,Michelle Embree Ku,"State House, District 106",auto,district_surname,ct,19779,State Representative 106,Michelle Embree Ku,Michelle Embree Ku,
+347,CT,Anne Weisberg,"State House, District 108",auto,district_surname,ct,19781,State Representative 108,Anne Weisberg,Anne Weisberg,
+348,CT,Farley A. Santos,"State House, District 109",auto,district_surname,ct,19782,State Representative 109,Farley A. Santos,Farley A. Santos,
+349,CT,Bob Godfrey,"State House, District 110",auto,district_surname,ct,19783,State Representative 110,Bob Godfrey,Bob Godfrey,
+350,CT,MJ Shannon,"State House, District 117",auto,district_surname,ct,19790,State Representative 117,MJ Shannon,MJ Shannon,
+351,CT,Toni Lombardi,"State House, District 118",auto,district_surname,ct,19791,State Representative 118,Toni Lombardi,Toni Lombardi,
+352,CT,Kaitlyn Shake,"State House, District 120",auto,district_surname,ct,19793,State Representative 120,Kaitlyn Shake,Kaitlyn Shake,
+353,CT,Cristin McCarthy Vahey,"State House, District 133",auto,district_surname,ct,19806,State Representative 133,Cristin McCarthy Vahey,Cristin McCarthy Vahey,
+354,CT,Sarah Keitt,"State House, District 134",auto,district_surname,ct,19807,State Representative 134,Sarah Keitt,Sarah Keitt,
+355,CT,Anne M Hughes,"State House, District 135",auto,district_surname,ct,19808,State Representative 135,Anne M. Hughes,Anne M. Hughes,
+356,CT,Kadeem Roberts,"State House, District 137",auto,district_surname,ct,19810,State Representative 137,Kadeem Roberts,Kadeem Roberts,
+357,CT,Ken Gucker,"State House, District 138",auto,district_surname,ct,19811,State Representative 138,Kenneth Gucker,Kenneth Gucker,
+358,CT,Larry Pemberton Jr,"State House, District 139",auto,district_surname,ct,19812,State Representative 139,"Larry Pemberton, Jr.","Larry Pemberton, Jr.",
+359,CT,Dominique Johnson,"State House, District 143",auto,district_surname,ct,19816,State Representative 143,Dominique Johnson,Dominique Johnson,
+360,CT,Corey Paris,"State House, District 145",auto,district_surname,ct,19818,State Representative 145,Corey P. Paris,Corey P. Paris,
+361,CT,Maryam Khan,"State Senate, District 2",auto,district_surname,ct,19826,State Senator 2,Maryam Khan,Maryam Khan,
+362,CT,Saud Anwar,"State Senate, District 3",auto,district_surname,ct,19827,State Senator 3,Saud Anwar,Saud Anwar,
+363,CT,MD Rahman,"State Senate, District 4",auto,district_surname,ct,19828,State Senator 4,MD Rahman,MD Rahman,
+364,CT,Rick Lopes,"State Senate, District 6",auto,district_surname,ct,19830,State Senator 6,Rick Lopes,Rick Lopes,
+365,CT,David Kiner,"State Senate, District 7",auto,district_surname,ct,19831,State Senator 7,David W. Kiner,David W. Kiner,
+366,CT,Matt Lesser,"State Senate, District 9",auto,district_surname,ct,19832,State Senator 9,Matt Lesser,Matt Lesser,
+367,CT,Gary Winfield,"State Senate, District 10",auto,district_surname,ct,19834,State Senator 10,Gary Winfield,Gary Winfield,
+368,CT,Christine Cohen,"State Senate, District 12",auto,district_surname,ct,19836,State Senator 12,Christine Cohen,Christine Cohen,
+369,CT,Jack Fazzino,"State Senate, District 13",auto,district_surname,ct,19837,State Senator 13,Jack Fazzino,Jack Fazzino,
+370,CT,Jorge Cabrera,"State Senate, District 17",auto,district_surname,ct,19841,State Senator 17,Jorge Cabrera,Jorge Cabrera,
+371,CT,Catherine A Osten,"State Senate, District 19",auto,district_surname,ct,19843,State Senator 19,Catherine Osten,Catherine Osten,
+372,CT,Martha Marx,"State Senate, District 20",auto,district_surname,ct,19844,State Senator 20,Martha E. Marx,Martha E. Marx,
+373,CT,Julie Kushner,"State Senate, District 24",auto,district_surname,ct,19849,State Senator 24,Julie Kushner,Julie Kushner,
+374,CT,Mae Flexer,"State Senate, District 29",auto,district_surname,ct,19854,State Senator 29,Mae Flexer,Mae Flexer,
+375,CT,Brandi Mandato,"State Senate, District 34",auto,district_surname,ct,19859,State Senator 34,Brandi Mandato,Brandi Mandato,
+376,CT,Ethan Werstler,"State Senate, District 35",auto,district_surname,ct,19860,State Senator 35,Ethan Werstler,Ethan Werstler,
+377,DE,Kira Alejandro,"New Castle County Council, District 3",auto,name_in_state,de,New Castle County Council District 3,New Castle County Council District 3,627534,KIRA ALEJANDRO,
+378,DE,Michelle Booker,"State Representative, District 2",auto,district_surname,de,State Representative District 2,State Representative District 2,443084,MICHELLE H. BOOKER,
+379,DE,Branden Fletcher Dominguez,"State Representative, District 3",auto,district_surname,de,State Representative District 3,State Representative District 3,445563,BRANDEN FLETCHER-DOMINGUEZ,
+380,DE,Rae Krantz,"State Representative, District 6",auto,district_surname,de,State Representative District 6,State Representative District 6,451089,"RACHEL ""RAE"" KRANTZ",
+381,DE,Larry Lambert,"State Representative, District 7",auto,district_surname,de,State Representative District 7,State Representative District 7,453281,LARRY LAMBERT,
+382,DE,Sherae’a Moore,"State Representative, District 8",auto,district_surname,de,State Representative District 8,State Representative District 8,455332,"SHERAE'A ""RAE"" MOORE",
+383,DE,Kamela Smith,"State Representative, District 15",auto,district_surname,de,State Representative District 15,State Representative District 15,468581,KAMELA T. SMITH,
+384,DE,Pamela Salaam,"State Representative, District 16",auto,district_surname,de,State Representative District 16,State Representative District 16,469910,PAMELA SALAAM,
+385,DE,Sophie Phillips,"State Representative, District 18",auto,district_surname,de,State Representative District 18,State Representative District 18,473494,SOPHIE PHILLIPS,
+386,DE,Frank Burns,"State Representative, District 21",auto,district_surname,de,State Representative District 21,State Representative District 21,478413,FRANK BURNS,
+387,DE,Madinah Wilson-Anton,"State Representative, District 26",auto,district_surname,de,State Representative District 26,State Representative District 26,486654,MADINAH WILSON-ANTON,
+388,DE,Tyeisha Grier,"State Representative, District 28",auto,district_surname,de,State Representative District 28,State Representative District 28,490086,"TYEISHA ""TYE"" GRIER",
+389,DE,Shay Frisby,"State Senate, District 5",auto,district_surname,de,State Senator District 5,State Senator District 5,406554,SHAY FRISBY,
+434,MD,Sarah David,Baltimore County State’s Attorney,auto,name_in_state,md,county-4/State's Attorney,State's Attorney,Sarah R. David,Sarah R. David,
+435,MD,Karl Bickel,Frederick County Sheriff,auto,name_in_state,md,county-11/Sheriff,Sheriff,Karl Bickel,Karl Bickel,
+436,MD,Janssen Evelyn,"Howard County Council, District 4",auto,name_in_state,md,county-14/County Council District 4,County Council District 4,Janssen Evelyn,Janssen Evelyn,
+437,MD,Chuck Cook,"Maryland House of Delegates, District 33B",auto,district_surname,md,hod-33B/House of Delegates District 33B,House of Delegates District 33B,Chuck Cook,Chuck Cook,
+438,MD,Will Jawando,Montgomery County Executive,auto,name_in_state,md,county-16/County Executive,County Executive,Will Jawando,Will Jawando,
+439,MD,Michelle García,"Prince George’s County Council, District 1",auto,name_in_state,md,county-17/County Council District 1,County Council District 1,Michelle García,Michelle García,
+440,MD,Victor Ramirez,"Prince George’s County Council, District 2",auto,name_in_state,md,county-17/County Council District 2,County Council District 2,Victor Ramirez,Victor Ramirez,
+441,MD,Shayla Adams-Stafford,"Prince George’s County Council, District 5",auto,name_in_state,md,county-17/County Council District 5,County Council District 5,Shayla D. Adams-Stafford,Shayla D. Adams-Stafford,
+442,MD,Tamara Davis Brown,"Prince George’s County Council, District 9",auto,name_in_state,md,county-17/County Council District 9,County Council District 9,Tamara Davis Brown,Tamara Davis Brown,
 916,NC,Shannon Long,Alamance County Sheriff,auto,name_in_state,nc,3:ALAMANCE COUNTY SHERIFF,Alamance County Sheriff,Shannon Long,Shannon Long,
 917,NC,Anita Earls,North Carolina Supreme Court,auto,name_in_state,nc,1368:NC SUPREME COURT ASSOCIATE JUSTICE SEAT 01,Nc Supreme Court Associate Justice Seat 01,Anita Earls,Anita Earls,
 918,NC,Marcia Morey,"State House, District 30",auto,district_surname,nc,1198:NC HOUSE OF REPRESENTATIVES DISTRICT 030,Nc House Of Representatives District 030,Marcia Morey,Marcia Morey,
@@ -96,6 +215,102 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 523,NM,Sarah Silva,"State Representative, District 53",auto,district_surname,nm,11229,State Representative District 53,19880,SARAH ANGELINA SILVA,
 524,NM,Luke Jungmann,"State Representative, District 60",auto,district_surname,nm,11206,State Representative District 60,19771,LUKE NICHOLAS JUNGMANN,
 525,NM,Charlotte Little,"State Representative, District 68",auto,district_surname,nm,11263,State Representative District 68,19995,CHARLOTTE L LITTLE,
+926,OH,Brian Poindexter,"U.S. House of Representatives, District 7",auto,district_surname,oh,_55A742EA571A09A3E0633390EE0AE290,Representative to Congress - District 07,Brian Poindexter,Brian Poindexter,
+927,OH,Vanessa Enoch,"U.S. House of Representatives, District 8",auto,district_surname,oh,_55A742EA574109A3E0633390EE0AE290,Representative to Congress - District 08,Vanessa Enoch,Vanessa Enoch,
+928,OH,Alison Hatheway,Hamilton County Court of Common Pleas,auto,name_in_state,oh.hamilton,30,For Judge of the Court of Common Pleas (Full term commencing 2-13-2027),Alison Hatheway,Alison Hatheway,
+929,OH,Nicole L. Sanders,Hamilton County Drug Court,auto,name_in_state,oh.hamilton,31,For Judge of the Court of Common Pleas (Drug Court) (Full term commencing 1-3-2027),Nicole L. Sanders,Nicole L. Sanders,
+930,OH,Kari L. Bloom,Hamilton County Juvenile Court Judge,auto,name_in_state,oh.hamilton,33,For Judge of the Court of Common Pleas (Juvenile Division) (Full term commencing 2-14-2027),Kari L. Bloom,Kari L. Bloom,
+931,OH,Charity Martin King,"Ohio House of Representatives, District 2",auto,district_surname,oh,_55A742EA589909A3E0633390EE0AE290,State Representative - District 02,Charity Martin King,Charity Martin King,
+932,OH,Meredith Ruth Lawson-Rowe,"Ohio House of Representatives, District 5",auto,district_surname,oh,_55A742EA58F909A3E0633390EE0AE290,State Representative - District 05,Meredith R Lawson Rowe,Meredith R Lawson Rowe,
+933,OH,Munira Abdullahi,"Ohio House of Representatives, District 9",auto,district_surname,oh,_55A742EA594D09A3E0633390EE0AE290,State Representative - District 09,Munira Yasin Abdullahi,Munira Yasin Abdullahi,
+934,OH,Tristan Rader,"Ohio House of Representatives, District 13",auto,district_surname,oh,_55A742EA594509A3E0633390EE0AE290,State Representative - District 13,Tristan W. Rader,Tristan W. Rader,
+935,OH,Davida Russell,"Ohio House of Representatives, District 18",auto,district_surname,oh,_55A742EA598409A3E0633390EE0AE290,State Representative - District 18,Davida Russell,Davida Russell,
+936,OH,Karen Brownlee,"Ohio House of Representatives, District 28",auto,district_surname,oh,_55A742EA58E909A3E0633390EE0AE290,State Representative - District 28,Karen Brownlee,Karen Brownlee,
+937,OH,Jonathan Bradner,"Ohio House of Representatives, District 29",auto,district_surname,oh,_55A742EA58ED09A3E0633390EE0AE290,State Representative - District 29,Jonathan R. Bradner,Jonathan R. Bradner,
+938,OH,Caleb Price,"Ohio House of Representatives, District 30",auto,district_surname,oh,_55A742EA58F109A3E0633390EE0AE290,State Representative - District 30,Caleb Price,Caleb Price,
+939,OH,Rose Lounsbury,"Ohio House of Representatives, District 36",auto,district_surname,oh,_55A742EA590509A3E0633390EE0AE290,State Representative - District 36,Rose Lounsbury,Rose Lounsbury,
+940,OH,Tom Herner,"Ohio House of Representatives, District 37",auto,district_surname,oh,_55A742EA590909A3E0633390EE0AE290,State Representative - District 37,Tom Herner,Tom Herner,
+941,OH,Daquan Neal,"Ohio House of Representatives, District 39",auto,district_surname,oh,_55A742EA58AC09A3E0633390EE0AE290,State Representative - District 39,Daquan Neal,Daquan Neal,
+942,OH,Jayson Ameer Rasheed,"Ohio House of Representatives, District 45",auto,district_surname,oh,_55A742EA5A2609A3E0633390EE0AE290,State Representative - District 45,Jayson Ameer Rasheed,Jayson Ameer Rasheed,
+943,OH,Mike Baker,"Ohio House of Representatives, District 52",auto,district_surname,oh,_55A742EA5A0709A3E0633390EE0AE290,State Representative - District 52,Mike Baker,Mike Baker,
+944,OH,Laalitya Acharya,"Ohio House of Representatives, District 56",auto,district_surname,oh,_55A742EA599709A3E0633390EE0AE290,State Representative - District 56,Laalitya Acharya,Laalitya Acharya,
+945,OH,Ian Schwartz,"Ohio House of Representatives, District 62",auto,district_surname,oh,_55A742EA58C309A3E0633390EE0AE290,State Representative - District 62,Ian Schwartz,Ian Schwartz,
+946,OH,Katie Koehler Wagner,"Ohio House of Representatives, District 80",auto,district_surname,oh,_55A742EA599F09A3E0633390EE0AE290,State Representative - District 80,Katie Koehler Wagner,Katie Koehler Wagner,
+947,OH,Cara Jacob,"Ohio State Senate, District 7",auto,district_surname,oh,_55A742EA586C09A3E0633390EE0AE290,State Senator - District 07,Cara Jacob,Cara Jacob,
+1208,OH,"Cincinnati, OH | Issue 4: Cincinnati Public Schools Levy",Ballot Measure,auto,measure_number,oh.hamilton,55,4  PROPOSED TAX LEVY (ADDITIONAL) CINCINNATI CITY SCHOOL DISTRICT,Yes,Yes,
+1209,OH,"Cincinnati, OH | Issue 9: Winton Woods School Levy",Ballot Measure,auto,measure_number,oh.hamilton,52,9  PROPOSED TAX LEVY (ADDITIONAL) WINTON WOODS CITY SCHOOL DISTRICT,Yes,Yes,
+948,OR,Tina Kotek,Governor,auto,district_surname,or,300038702,Governor,Tina Kotek,Tina Kotek,
+949,OR,Jeff Merkley,U.S. Senate,auto,district_surname,or,300038695,US Senator,Jeff Merkley,Jeff Merkley,
+950,OR,Suzanne Bonamici,"U.S. House of Representatives, District 1",auto,district_surname,or,300038696,"US Representative, 1st District",Suzanne Bonamici,Suzanne Bonamici,
+951,OR,Val Hoyle,"U.S. House of Representatives, District 4",auto,district_surname,or,300038699,"US Representative, 4th District",Val Hoyle,Val Hoyle,
+952,OR,Sean Davis,Astoria Mayor,auto,name_in_state,or,300038676,"City of Astoria, Mayor",Sean Davis,Sean Davis,
+953,OR,Evelyn Kocher,"Beaverton City Council, Position 1",auto,name_in_state,or,300038382,"City of Beaverton, Council Member, Position 1",Evelyn Kocher,Evelyn Kocher,
+954,OR,Michelle Valigura,Cannon Beach City Council,auto,name_in_state,or,300038679,"City of Cannon Beach, Councilor, At Large",Michelle Valigura,Michelle Valigura,
+955,OR,Bre Irish,"Corvallis City Council, Ward 1",auto,name_in_state,or,300038357,"City of Corvallis, Ward 1 City Council",Bre Irish,Bre Irish,
+956,OR,Charles Maughan,Corvallis Mayor,auto,name_in_state,or,300038356,City of Corvallis Mayor - 1st Choice,Charles Maughan,Charles Maughan,
+957,OR,Steph Routh,East Multnomah Soil & Water Conservation District,auto,name_in_state,or,300038659,"East Multnomah Soil and Water Conservation District, Director, At-Large, Position 2",Steph Routh,Steph Routh,
+958,OR,Jennifer Smith,"Eugene City Council, Ward 3",auto,name_in_state,or,300038983,City of Eugene Councilor Ward 3,Jennifer Smith,Jennifer Smith,
+959,OR,Athena Aguiar,"Eugene City Council, Ward 5",auto,name_in_state,or,300038985,City of Eugene Councilor Ward 5,Athena Aguiar,Athena Aguiar,
+960,OR,Mallory Hiefield,"Forest Grove City Council, At-Large",auto,name_in_state,or,300038386,"City of Forest Grove, Council Members (Vote For 3)",Mallory Hiefield,Mallory Hiefield,
+961,OR,Marchelle Paholsky,"Happy Valley City Council, Position 1",auto,name_in_state,or,300038445,"City of Happy Valley, Councilor, Position 1",Marchelle Paholsky,Marchelle Paholsky,
+962,OR,Karim Delgado,"Hillsboro City Council, Ward 2",auto,name_in_state,or,300038393,"City of Hillsboro, Council Member, Ward 2, Position A",Karim Delgado,Karim Delgado,
+963,OR,Dorian Russell,"Hillsboro City Council, Ward 3",auto,name_in_state,or,300038394,"City of Hillsboro, Council Member, Ward 3, Position A",Dorian Russell,Dorian Russell,
+964,OR,Diana Jackson,"Hillsboro City Council, Ward 1, Position A",auto,name_in_state,or,300038392,"City of Hillsboro, Council Member, Ward 1, Position A",Diana Jackson,Diana Jackson,
+965,OR,Shannon Corr,Independence City Council,auto,name_in_state,or,300039241,"City of Independence, Council Member, Position 1",Shannon Corr,Shannon Corr,
+966,OR,Diane S. Sykes,"Judge of the Circuit Court, 4th District, Position 2",auto,name_in_state,or,300038779,"Judge of the Circuit Court, 4th District, Position 2",Diane S Sykes,Diane S Sykes,
+967,OR,Heather Buch,"Lane County Commissioner, Position 5",auto,name_in_state,or,300038969,East Commissioner Position 5,Heather Buch,Heather Buch,
+968,OR,Richard Smith Savage,"McMinnville Council, Ward 3",auto,name_in_state,or,300038285,"City of McMinnville, Councilor, Ward 3",Richard Smith Savage,Richard Smith Savage,
+969,OR,Allie Ball,"Milwaukie City Council, Position 2",auto,name_in_state,or,300038460,"City of Milwaukie, Councilor, Position 2",Allie Ball,Allie Ball,
+970,OR,Will Anderson,Milwaukie Mayor,auto,name_in_state,or,300038462,"City of Milwaukie, Mayor",Will Anderson,Will Anderson,
+971,OR,Shannon Singleton,Multnomah County Chair,auto,name_in_state,or,900038516,"Multnomah County Commission, Chair",Shannon Singleton,Shannon Singleton,
+972,OR,Nathan Ong Norris,"Multnomah County Commission, District 2",auto,name_in_state,or,900038518,"Multnomah County Commissioner, District 2",Nathan Ong Norris,Nathan Ong Norris,
+973,OR,Bri Williams,"Multnomah County Commissioner, District 2",auto,name_in_state,or,900038518,"Multnomah County Commissioner, District 2",Bri Williams,Bri Williams,
+974,OR,Callee Ackland,"Springfield City Council, Ward 4",auto,name_in_state,or,300039231,City of Springfield Councilor Ward 4,Callee Ackland,Callee Ackland,
+975,OR,Roy Kaufmann,State House District 18,auto,district_surname,or,300038735,"State Representative, 18th District",Roy Kaufmann,Roy Kaufmann,
+976,OR,Thomas Andersen,State House District 19,auto,district_surname,or,300038736,"State Representative, 19th District",Tom Andersen,Tom Andersen,
+977,OR,Paul Evans,State House District 20,auto,district_surname,or,300038737,"State Representative, 20th District",Paul Evans,Paul Evans,
+978,OR,Michael Welsh,State House District 21,auto,district_surname,or,300038738,"State Representative, 21st District",Michael Welsh,Michael Welsh,
+979,OR,Nathan Sosa,State House District 30,auto,district_surname,or,300038747,"State Representative, 30th District",Nathan Sosa,Nathan Sosa,
+980,OR,Thuy Tran,State House District 45,auto,district_surname,or,300038762,"State Representative, 45th District",Thuy Tran,Thuy Tran,
+981,OR,Will Chotzen,State House District 46,auto,district_surname,or,300038763,"State Representative, 46th District",Willy Chotzen,Willy Chotzen,
+982,OR,Lamar Wise,State House District 48,auto,district_surname,or,300038765,"State Representative, 48th District",Lamar Wise,Lamar Wise,
+983,OR,Darla Mead,State House District 51,auto,district_surname,or,300038768,"State Representative, 51st District",Darla Mead,Darla Mead,
+984,OR,Sierrah C. Williams,State Senate District 6,auto,district_surname,or,300038705,"State Senator, 6th District",Sierrah Williams,Sierrah Williams,
+985,OR,Courtney Neron-Misslin,State Senate District 13,auto,district_surname,or,300038710,"State Senator, 13th District",Courtney Neron Misslin,Courtney Neron Misslin,
+987,OR,"James I. Manning, Jr.","State Senate, District 7",auto,district_surname,or,300038706,"State Senator, 7th District",James I Manning Jr,James I Manning Jr,
+988,OR,Kipperlyn R. Sinclair,"Washington County Commissioner, District 4",auto,name_in_state,or,300038377,"Washington County Commissioner, District 4",Kipperlyn Sinclair,Kipperlyn Sinclair,
+990,OR,Kori Rodley,State House District 7,auto,district_surname,or,300038724,"State Representative, 7th District",Kori Rodley,Kori Rodley,
+991,OR,Ivan Maluski,State House District 11,auto,district_surname,or,300038728,"State Representative, 11th District",Ivan Maluski,Ivan Maluski,
+992,OR,Joanna Robinson,State House District 15,auto,district_surname,or,300038732,"State Representative, 15th District",Joanna Robinson,Joanna Robinson,
+993,OR,Rep. Lesly Muñoz,State House District 22,auto,district_surname,or,300038739,"State Representative, 22nd District",Lesly M Munoz,Lesly M Munoz,
+994,OR,Ben Bowman,State House District 25,auto,district_surname,or,300038742,"State Representative, 25th District",Ben Bowman,Ben Bowman,
+995,OR,Tammy Rose Carpenter,State House District 27,auto,district_surname,or,300038744,"State Representative, 27th District",Tammy Carpenter,Tammy Carpenter,
+996,OR,Dacia Grayber,State House District 28,auto,district_surname,or,300038745,"State Representative, 28th District",Dacia Grayber,Dacia Grayber,
+997,OR,Cyrus Javadi,State House District 32,auto,district_surname,or,300038749,"State Representative, 32nd District",Cyrus Javadi,Cyrus Javadi,
+998,OR,Farrah Chaichi,State House District 35,auto,district_surname,or,300038752,"State Representative, 35th District",Farrah Chaichi,Farrah Chaichi,
+999,OR,Jules Walters,State House District 37,auto,district_surname,or,300038754,"State Representative, 37th District",Jules Walters,Jules Walters,
+1000,OR,Michael Sugar,State House District 40,auto,district_surname,or,300038757,"State Representative, 40th District",Michael W Sugar,Michael W Sugar,
+1001,OR,Mark Gamba,State House District 41,auto,district_surname,or,300038758,"State Representative, 41st District",Mark Gamba,Mark Gamba,
+1002,OR,Travis Nelson,State House District 44,auto,district_surname,or,300038761,"State Representative, 44th District",Travis Nelson,Travis Nelson,
+1003,OR,Zach Hudson,State House District 49,auto,district_surname,or,300038766,"State Representative, 49th District",Zach Hudson,Zach Hudson,
+1004,OR,Deb Patterson,State Senate District 10,auto,district_surname,or,300038708,"State Senator, 10th District",Deb Patterson,Deb Patterson,
+1005,OR,Virginia Stapleton,State Senate District 11,auto,district_surname,or,300038709,"State Senator, 11th District",Virginia Stapleton,Virginia Stapleton,
+1006,OR,Myrna Arely Muñoz,State Senate District 15,auto,district_surname,or,300038711,"State Senator, 15th District",Myrna A Munoz,Myrna A Munoz,
+1007,OR,Kayse Jama,State Senate District 24,auto,district_surname,or,300038716,"State Senator, 24th District",Kayse Jama,Kayse Jama,
+1008,OR,Nafisa Fai,"Washington County Commission, Chair",auto,name_in_state,or,300038376,"Washington County Commissioner, District At-Large",Nafisa Fai,Nafisa Fai,
+1009,OR,Morgan Schmidt,"Deschutes County Commission, Position 5",auto,name_in_state,or,300038863,"Deschutes County Commissioner, Position 5",Morgan Schmidt,Morgan Schmidt,
+1010,OR,Jeremy Gordon,"Polk County County Commissioner, Position 3",auto,name_in_state,or,300039236,"Polk County Commissioner, Position 3",Jeremy Gordon,Jeremy Gordon,
+1011,OR,Sara Duncan,"Marion County Commissioner, Position 1",auto,name_in_state,or,300038534,"Marion County Commissioner, Position 1",Sara Duncan,Sara Duncan,
+1012,OR,Maria Hinojos Pressey,"Marion County Commissioner, Position 2",auto,name_in_state,or,300038535,"Marion County Commissioner, Position 2",Maria Hinojos Pressey,Maria Hinojos Pressey,
+1013,OR,Isabella Lee Tibbetts,Jackson County County Commissioner Position 3,auto,name_in_state,or,300038349,"Jackson County Commissioner, Position 3",Isabella Lee Tibbetts,Isabella Lee Tibbetts,
+1014,OR,Evelyn Kocher,"Beaverton City Council, Position 1",auto,name_in_state,or,300038382,"City of Beaverton, Council Member, Position 1",Evelyn Kocher,Evelyn Kocher,
+1015,OR,Angelita Morillo,"Portland City Council, District 3",auto,name_in_state,or,900038520,"City of Portland, Councilor, District 3",Angelita Morillo,Angelita Morillo,
+1016,OR,Tiffany Koyama Lane,"Portland City Council, District 3",auto,name_in_state,or,900038520,"City of Portland, Councilor, District 3",Tiffany Koyama Lane,Tiffany Koyama Lane,
+1017,OR,Jamey Evenstar,"Portland City Council, District 4",auto,name_in_state,or,900038521,"City of Portland, Councilor, District 4",Jamey Evenstar,Jamey Evenstar,
+1018,OR,Jeremy Beausoleil Smith,"Portland City Council, District 4",auto,name_in_state,or,900038521,"City of Portland, Councilor, District 4",Jeremy Beausoleil Smith,Jeremy Beausoleil Smith,
+1019,OR,Mitch Green,"Portland City Council, District 4",auto,name_in_state,or,900038521,"City of Portland, Councilor, District 4",Mitch Green,Mitch Green,
+1020,OR,Heather Coleman-Cox,"Gresham City Council, Position 2",auto,name_in_state,or,300038651,"City of Gresham, Councilor, Position 2",Heather Coleman-Cox,Heather Coleman-Cox,
+1021,OR,Teo Ramirez,"Gresham City Council, Position 4",auto,name_in_state,or,300038652,"City of Gresham, Councilor, Position 4",Teo Ramirez,Teo Ramirez,
 1023,PA,Chris Rabb,"U.S. House of Representatives, District 3",auto,district_surname,pa,USC/4,Representative in Congress 3rd Congressional District,Chris Rabb,Chris Rabb,
 1024,PA,Bob Brooks,"U.S. House of Representatives, District 7",auto,district_surname,pa,USC/8,Representative in Congress 7th Congressional District,Bob Brooks,Bob Brooks,
 1025,PA,Summer Lee,"U.S. House of Representatives, District 12",auto,district_surname,pa,USC/13,Representative in Congress 12th Congressional District,Summer Lee,Summer Lee,
@@ -149,6 +364,7 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 1075,RI,Justin Roias,"Providence City Council, Ward 4",auto,name_in_state,ri,01000000-59ac-daed-4104-08df1e27bc53,Providence: City Council Ward 4,01000000-59ac-daed-6c1e-08df1e27bc5b,Justin M. Roias,
 1077,RI,Miguel Sanchez,"Providence City Council, Ward 6",auto,name_in_state,ri,01000000-59ac-daed-389b-08df1e27bc74,Providence: City Council Ward 6,01000000-59ac-daed-ea08-08df1e27bc7c,Miguel Angel Sanchez,
 1078,RI,AnnaJane (AJ) Yolken,"Providence City Council, Ward 13",auto,name_in_state,ri,01000000-59ac-daed-d1b7-08df1e27bcea,Providence: City Council Ward 13,01000000-59ac-daed-c9ec-08df1e27bcf3,Annajane E. Yolken,
+1095,TX,Michelle Butler,"Denton County Justice of the Peace, Precinct 6",auto,name_in_state,tx.denton,58,"Justice of the Peace, Precinct No. 6",Michelle Butler,Michelle Butler,
 1102,UT,Luke Maynes,"Salt Lake County Council, District 3",auto,name_in_state,ut,01000000-68b8-edcd-804b-08df2650840f,COUNTY COUNCIL DISTRICT 3,01000000-68b8-edcd-8072-08df2650840f,LUKE MAYNES,
 1103,UT,Rosie Rivera,Salt Lake County Sheriff,auto,name_in_state,ut,01000000-68b8-edcd-81d2-08df2650840f,COUNTY SHERIFF,01000000-68b8-edcd-8215-08df2650840f,ROSIE RIVERA,
 1104,UT,Stephen Otterstrom,"State House, District 21",auto,district_surname,ut,01000000-68b8-edcd-76a0-08df2650840f,STATE HOUSE DISTRICT 21,01000000-68b8-edcd-76c3-08df2650840f,STEPHEN OTTERSTROM,
@@ -470,88 +686,6 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 1198,CO,Pueblo Ballot Issue 6A,Ballot Measure,no_source,,,,,,,no source covers CO yet
 1199,CO,Pueblo Ballot Question 2B,Ballot Measure,no_source,,,,,,,no source covers CO yet
 1200,CO,Pueblo West Ballot Issue 6C,Ballot Measure,no_source,,,,,,,no source covers CO yet
-295,CT,Jahana Hayes,"U.S. House of Representatives, District 5",no_source,,,,,,,no source covers CT yet
-296,CT,Ned Lamont,Governor,no_source,,,,,,,no source covers CT yet
-297,CT,Susan Bysiewicz,Lt Governor,no_source,,,,,,,no source covers CT yet
-298,CT,Stephanie Thomas,Secretary of State,no_source,,,,,,,no source covers CT yet
-299,CT,William Tong,Attorney General,no_source,,,,,,,no source covers CT yet
-300,CT,Sean Scanlon,Comptroller,no_source,,,,,,,no source covers CT yet
-301,CT,Erick Russell,Treasurer,no_source,,,,,,,no source covers CT yet
-302,CT,Francis Lombard,"State House, District 8",no_source,,,,,,,no source covers CT yet
-303,CT,Angie Parkinson,"State House, District 10",no_source,,,,,,,no source covers CT yet
-304,CT,Geoffrey Luxenberg,"State House, District 12",no_source,,,,,,,no source covers CT yet
-305,CT,Eleni Kavros DeGraw,"State House, District 17",no_source,,,,,,,no source covers CT yet
-306,CT,Kate Farrar,"State House, District 20",no_source,,,,,,,no source covers CT yet
-307,CT,Mike Demicco,"State House, District 21",no_source,,,,,,,no source covers CT yet
-308,CT,Rebecca Martinez,"State House, District 22",no_source,,,,,,,no source covers CT yet
-309,CT,Jane Wisialowski,"State House, District 23",no_source,,,,,,,no source covers CT yet
-310,CT,Emmanuel “Manny” Sanchez,"State House, District 24",no_source,,,,,,,no source covers CT yet
-311,CT,David DeFronzo,"State House, District 26",no_source,,,,,,,no source covers CT yet
-312,CT,Gary Turco,"State House, District 27",no_source,,,,,,,no source covers CT yet
-313,CT,Amy Morrin Bello,"State House, District 28",no_source,,,,,,,no source covers CT yet
-314,CT,Moise ‘Moses” Carelus,"State House, District 31",no_source,,,,,,,no source covers CT yet
-315,CT,Cinzia Lettieri,"State House, District 35",no_source,,,,,,,no source covers CT yet
-316,CT,Nick Menapace,"State House, District 37",no_source,,,,,,,no source covers CT yet
-317,CT,Nick Gauthier,"State House, District 38",no_source,,,,,,,no source covers CT yet
-318,CT,Dan Gaiewski,"State House, District 40",no_source,,,,,,,no source covers CT yet
-319,CT,Aundre Bumgardner,"State House, District 41",no_source,,,,,,,no source covers CT yet
-320,CT,Samantha Derenthal,"State House, District 44",no_source,,,,,,,no source covers CT yet
-321,CT,Derell Q Wilson,"State House, District 46",no_source,,,,,,,no source covers CT yet
-322,CT,Bob Fernandez,"State House, District 48",no_source,,,,,,,no source covers CT yet
-323,CT,Susan Johnson,"State House, District 49",no_source,,,,,,,no source covers CT yet
-324,CT,Michelle Doucette Cunningham,"State House, District 53",no_source,,,,,,,no source covers CT yet
-325,CT,Gregg Haddad,"State House, District 54",no_source,,,,,,,no source covers CT yet
-326,CT,Ellen Paul,"State House, District 55",no_source,,,,,,,no source covers CT yet
-327,CT,Kevin Brown,"State House, District 56",no_source,,,,,,,no source covers CT yet
-328,CT,Jane Garibay,"State House, District 60",no_source,,,,,,,no source covers CT yet
-329,CT,Kim Becker,"State House, District 62",no_source,,,,,,,no source covers CT yet
-330,CT,Maria Horn,"State House, District 64",no_source,,,,,,,no source covers CT yet
-331,CT,Edward M Corey,"State House, District 65",no_source,,,,,,,no source covers CT yet
-332,CT,Suzanne Lovig,"State House, District 66",no_source,,,,,,,no source covers CT yet
-333,CT,Ronald Napoli Jr.,"State House, District 73",no_source,,,,,,,no source covers CT yet
-334,CT,DeWayne K Wynn Jr,"State House, District 77",no_source,,,,,,,no source covers CT yet
-335,CT,Nate Brown,"State House, District 78",no_source,,,,,,,no source covers CT yet
-336,CT,Mary B Fortier,"State House, District 79",no_source,,,,,,,no source covers CT yet
-337,CT,Chad Cardillo,"State House, District 83",no_source,,,,,,,no source covers CT yet
-338,CT,Kathleen Kimball,"State House, District 87",no_source,,,,,,,no source covers CT yet
-339,CT,Joshua Elliott,"State House, District 88",no_source,,,,,,,no source covers CT yet
-340,CT,Laurie Sweet,"State House, District 91",no_source,,,,,,,no source covers CT yet
-341,CT,Steven Winter,"State House, District 94",no_source,,,,,,,no source covers CT yet
-342,CT,Moira Rader,"State House, District 98",no_source,,,,,,,no source covers CT yet
-343,CT,Karen A Martin,"State House, District 99",no_source,,,,,,,no source covers CT yet
-344,CT,Robin Comey,"State House, District 102",no_source,,,,,,,no source covers CT yet
-345,CT,Kara Rochelle,"State House, District 104",no_source,,,,,,,no source covers CT yet
-346,CT,Michelle Embree Ku,"State House, District 106",no_source,,,,,,,no source covers CT yet
-347,CT,Anne Weisberg,"State House, District 108",no_source,,,,,,,no source covers CT yet
-348,CT,Farley A. Santos,"State House, District 109",no_source,,,,,,,no source covers CT yet
-349,CT,Bob Godfrey,"State House, District 110",no_source,,,,,,,no source covers CT yet
-350,CT,MJ Shannon,"State House, District 117",no_source,,,,,,,no source covers CT yet
-351,CT,Toni Lombardi,"State House, District 118",no_source,,,,,,,no source covers CT yet
-352,CT,Kaitlyn Shake,"State House, District 120",no_source,,,,,,,no source covers CT yet
-353,CT,Cristin McCarthy Vahey,"State House, District 133",no_source,,,,,,,no source covers CT yet
-354,CT,Sarah Keitt,"State House, District 134",no_source,,,,,,,no source covers CT yet
-355,CT,Anne M Hughes,"State House, District 135",no_source,,,,,,,no source covers CT yet
-356,CT,Kadeem Roberts,"State House, District 137",no_source,,,,,,,no source covers CT yet
-357,CT,Ken Gucker,"State House, District 138",no_source,,,,,,,no source covers CT yet
-358,CT,Larry Pemberton Jr,"State House, District 139",no_source,,,,,,,no source covers CT yet
-359,CT,Dominique Johnson,"State House, District 143",no_source,,,,,,,no source covers CT yet
-360,CT,Corey Paris,"State House, District 145",no_source,,,,,,,no source covers CT yet
-361,CT,Maryam Khan,"State Senate, District 2",no_source,,,,,,,no source covers CT yet
-362,CT,Saud Anwar,"State Senate, District 3",no_source,,,,,,,no source covers CT yet
-363,CT,MD Rahman,"State Senate, District 4",no_source,,,,,,,no source covers CT yet
-364,CT,Rick Lopes,"State Senate, District 6",no_source,,,,,,,no source covers CT yet
-365,CT,David Kiner,"State Senate, District 7",no_source,,,,,,,no source covers CT yet
-366,CT,Matt Lesser,"State Senate, District 9",no_source,,,,,,,no source covers CT yet
-367,CT,Gary Winfield,"State Senate, District 10",no_source,,,,,,,no source covers CT yet
-368,CT,Christine Cohen,"State Senate, District 12",no_source,,,,,,,no source covers CT yet
-369,CT,Jack Fazzino,"State Senate, District 13",no_source,,,,,,,no source covers CT yet
-370,CT,Jorge Cabrera,"State Senate, District 17",no_source,,,,,,,no source covers CT yet
-371,CT,Catherine A Osten,"State Senate, District 19",no_source,,,,,,,no source covers CT yet
-372,CT,Martha Marx,"State Senate, District 20",no_source,,,,,,,no source covers CT yet
-373,CT,Julie Kushner,"State Senate, District 24",no_source,,,,,,,no source covers CT yet
-374,CT,Mae Flexer,"State Senate, District 29",no_source,,,,,,,no source covers CT yet
-375,CT,Brandi Mandato,"State Senate, District 34",no_source,,,,,,,no source covers CT yet
-376,CT,Ethan Werstler,"State Senate, District 35",no_source,,,,,,,no source covers CT yet
 390,DC,Robert White,U.S. House of Representatives,no_source,,,,,,,no source covers DC yet
 391,DC,Janeese Lewis George,D.C. Mayor,no_source,,,,,,,no source covers DC yet
 392,DC,Brian Schwalb,Attorney General,no_source,,,,,,,no source covers DC yet
@@ -560,19 +694,6 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 395,DC,Zachary Parker,"District Council, Ward 5",no_source,,,,,,,no source covers DC yet
 396,DC,Charles Allen,"District Council, Ward 6",no_source,,,,,,,no source covers DC yet
 397,DC,Oye Olowela,"District Council, At-Large",no_source,,,,,,,no source covers DC yet
-377,DE,Kira Alejandro,"New Castle County Council, District 3",no_source,,,,,,,no source covers DE yet
-378,DE,Michelle Booker,"State Representative, District 2",no_source,,,,,,,no source covers DE yet
-379,DE,Branden Fletcher Dominguez,"State Representative, District 3",no_source,,,,,,,no source covers DE yet
-380,DE,Rae Krantz,"State Representative, District 6",no_source,,,,,,,no source covers DE yet
-381,DE,Larry Lambert,"State Representative, District 7",no_source,,,,,,,no source covers DE yet
-382,DE,Sherae’a Moore,"State Representative, District 8",no_source,,,,,,,no source covers DE yet
-383,DE,Kamela Smith,"State Representative, District 15",no_source,,,,,,,no source covers DE yet
-384,DE,Pamela Salaam,"State Representative, District 16",no_source,,,,,,,no source covers DE yet
-385,DE,Sophie Phillips,"State Representative, District 18",no_source,,,,,,,no source covers DE yet
-386,DE,Frank Burns,"State Representative, District 21",no_source,,,,,,,no source covers DE yet
-387,DE,Madinah Wilson-Anton,"State Representative, District 26",no_source,,,,,,,no source covers DE yet
-388,DE,Tyeisha Grier,"State Representative, District 28",no_source,,,,,,,no source covers DE yet
-389,DE,Shay Frisby,"State Senate, District 5",no_source,,,,,,,no source covers DE yet
 398,FL,Angie Nixon,U.S. Senate,no_source,,,,,,,no source covers FL yet
 399,GA,Gabriel Sanchez,"Georgia State House, District 42",no_source,,,,,,,no source covers GA yet
 400,GA,Amanda Hollowell,"U.S. House of Representatives, District 1",no_source,,,,,,,no source covers GA yet
@@ -627,15 +748,6 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 1205,MA,Question 5,Ballot Measure,no_source,,,,,,,no source covers MA yet
 1206,MA,Question 8,Ballot Measure,no_source,,,,,,,no source covers MA yet
 1207,MA,Question 9,Ballot Measure,no_source,,,,,,,no source covers MA yet
-434,MD,Sarah David,Baltimore County State’s Attorney,no_source,,,,,,,no source covers MD yet
-435,MD,Karl Bickel,Frederick County Sheriff,no_source,,,,,,,no source covers MD yet
-436,MD,Janssen Evelyn,"Howard County Council, District 4",no_source,,,,,,,no source covers MD yet
-437,MD,Chuck Cook,"Maryland House of Delegates, District 33B",no_source,,,,,,,no source covers MD yet
-438,MD,Will Jawando,Montgomery County Executive,no_source,,,,,,,no source covers MD yet
-439,MD,Michelle García,"Prince George’s County Council, District 1",no_source,,,,,,,no source covers MD yet
-440,MD,Victor Ramirez,"Prince George’s County Council, District 2",no_source,,,,,,,no source covers MD yet
-441,MD,Shayla Adams-Stafford,"Prince George’s County Council, District 5",no_source,,,,,,,no source covers MD yet
-442,MD,Tamara Davis Brown,"Prince George’s County Council, District 9",no_source,,,,,,,no source covers MD yet
 432,ME,Troy Jackson,U.S. Senate,no_source,,,,,,,no source covers ME yet
 433,ME,Jacqueline Sartoris,Cumberland County District Attorney,no_source,,,,,,,no source covers ME yet
 456,MI,Abdul El-Sayed,U.S. Senate,no_source,,,,,,,no source covers MI yet
@@ -1051,112 +1163,6 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 913,NY,Ann Marie Sitter-Tompkins,"Olean City Council Member, Ward 5",no_source,,,,,,,no source covers NY yet
 914,NY,Susan Wilks,"Chemung County Legislature, District 7",no_source,,,,,,,no source covers NY yet
 915,NY,Meg Magnusen,"Chemung County Legislature, District 9",no_source,,,,,,,no source covers NY yet
-925,OH,Annette Blackwell,Auditor,no_source,,,,,,,no source covers OH yet
-926,OH,Brian Poindexter,"U.S. House of Representatives, District 7",no_source,,,,,,,no source covers OH yet
-927,OH,Vanessa Enoch,"U.S. House of Representatives, District 8",no_source,,,,,,,no source covers OH yet
-928,OH,Alison Hatheway,Hamilton County Court of Common Pleas,no_source,,,,,,,no source covers OH yet
-929,OH,Nicole L. Sanders,Hamilton County Drug Court,no_source,,,,,,,no source covers OH yet
-930,OH,Kari L. Bloom,Hamilton County Juvenile Court Judge,no_source,,,,,,,no source covers OH yet
-931,OH,Charity Martin King,"Ohio House of Representatives, District 2",no_source,,,,,,,no source covers OH yet
-932,OH,Meredith Ruth Lawson-Rowe,"Ohio House of Representatives, District 5",no_source,,,,,,,no source covers OH yet
-933,OH,Munira Abdullahi,"Ohio House of Representatives, District 9",no_source,,,,,,,no source covers OH yet
-934,OH,Tristan Rader,"Ohio House of Representatives, District 13",no_source,,,,,,,no source covers OH yet
-935,OH,Davida Russell,"Ohio House of Representatives, District 18",no_source,,,,,,,no source covers OH yet
-936,OH,Karen Brownlee,"Ohio House of Representatives, District 28",no_source,,,,,,,no source covers OH yet
-937,OH,Jonathan Bradner,"Ohio House of Representatives, District 29",no_source,,,,,,,no source covers OH yet
-938,OH,Caleb Price,"Ohio House of Representatives, District 30",no_source,,,,,,,no source covers OH yet
-939,OH,Rose Lounsbury,"Ohio House of Representatives, District 36",no_source,,,,,,,no source covers OH yet
-940,OH,Tom Herner,"Ohio House of Representatives, District 37",no_source,,,,,,,no source covers OH yet
-941,OH,Daquan Neal,"Ohio House of Representatives, District 39",no_source,,,,,,,no source covers OH yet
-942,OH,Jayson Ameer Rasheed,"Ohio House of Representatives, District 45",no_source,,,,,,,no source covers OH yet
-943,OH,Mike Baker,"Ohio House of Representatives, District 52",no_source,,,,,,,no source covers OH yet
-944,OH,Laalitya Acharya,"Ohio House of Representatives, District 56",no_source,,,,,,,no source covers OH yet
-945,OH,Ian Schwartz,"Ohio House of Representatives, District 62",no_source,,,,,,,no source covers OH yet
-946,OH,Katie Koehler Wagner,"Ohio House of Representatives, District 80",no_source,,,,,,,no source covers OH yet
-947,OH,Cara Jacob,"Ohio State Senate, District 7",no_source,,,,,,,no source covers OH yet
-1208,OH,"Cincinnati, OH | Issue 4: Cincinnati Public Schools Levy",Ballot Measure,no_source,,,,,,,no source covers OH yet
-1209,OH,"Cincinnati, OH | Issue 9: Winton Woods School Levy",Ballot Measure,no_source,,,,,,,no source covers OH yet
-1210,OH,"Columbus, OH | Issue 8: Our City, Our Say",Ballot Measure,no_source,,,,,,,no source covers OH yet
-1211,OH,Ohio | Senate Bill 396: Paid Family and Medical Leave Act,Ballot Measure,no_source,,,,,,,no source covers OH yet
-948,OR,Tina Kotek,Governor,no_source,,,,,,,no source covers OR yet
-949,OR,Jeff Merkley,U.S. Senate,no_source,,,,,,,no source covers OR yet
-950,OR,Suzanne Bonamici,"U.S. House of Representatives, District 1",no_source,,,,,,,no source covers OR yet
-951,OR,Val Hoyle,"U.S. House of Representatives, District 4",no_source,,,,,,,no source covers OR yet
-952,OR,Sean Davis,Astoria Mayor,no_source,,,,,,,no source covers OR yet
-953,OR,Evelyn Kocher,"Beaverton City Council, Position 1",no_source,,,,,,,no source covers OR yet
-954,OR,Michelle Valigura,Cannon Beach City Council,no_source,,,,,,,no source covers OR yet
-955,OR,Bre Irish,"Corvallis City Council, Ward 1",no_source,,,,,,,no source covers OR yet
-956,OR,Charles Maughan,Corvallis Mayor,no_source,,,,,,,no source covers OR yet
-957,OR,Steph Routh,East Multnomah Soil & Water Conservation District,no_source,,,,,,,no source covers OR yet
-958,OR,Jennifer Smith,"Eugene City Council, Ward 3",no_source,,,,,,,no source covers OR yet
-959,OR,Athena Aguiar,"Eugene City Council, Ward 5",no_source,,,,,,,no source covers OR yet
-960,OR,Mallory Hiefield,"Forest Grove City Council, At-Large",no_source,,,,,,,no source covers OR yet
-961,OR,Marchelle Paholsky,"Happy Valley City Council, Position 1",no_source,,,,,,,no source covers OR yet
-962,OR,Karim Delgado,"Hillsboro City Council, Ward 2",no_source,,,,,,,no source covers OR yet
-963,OR,Dorian Russell,"Hillsboro City Council, Ward 3",no_source,,,,,,,no source covers OR yet
-964,OR,Diana Jackson,"Hillsboro City Council, Ward 1, Position A",no_source,,,,,,,no source covers OR yet
-965,OR,Shannon Corr,Independence City Council,no_source,,,,,,,no source covers OR yet
-966,OR,Diane S. Sykes,"Judge of the Circuit Court, 4th District, Position 2",no_source,,,,,,,no source covers OR yet
-967,OR,Heather Buch,"Lane County Commissioner, Position 5",no_source,,,,,,,no source covers OR yet
-968,OR,Richard Smith Savage,"McMinnville Council, Ward 3",no_source,,,,,,,no source covers OR yet
-969,OR,Allie Ball,"Milwaukie City Council, Position 2",no_source,,,,,,,no source covers OR yet
-970,OR,Will Anderson,Milwaukie Mayor,no_source,,,,,,,no source covers OR yet
-971,OR,Shannon Singleton,Multnomah County Chair,no_source,,,,,,,no source covers OR yet
-972,OR,Nathan Ong Norris,"Multnomah County Commission, District 2",no_source,,,,,,,no source covers OR yet
-973,OR,Bri Williams,"Multnomah County Commissioner, District 2",no_source,,,,,,,no source covers OR yet
-974,OR,Callee Ackland,"Springfield City Council, Ward 4",no_source,,,,,,,no source covers OR yet
-975,OR,Roy Kaufmann,State House District 18,no_source,,,,,,,no source covers OR yet
-976,OR,Thomas Andersen,State House District 19,no_source,,,,,,,no source covers OR yet
-977,OR,Paul Evans,State House District 20,no_source,,,,,,,no source covers OR yet
-978,OR,Michael Welsh,State House District 21,no_source,,,,,,,no source covers OR yet
-979,OR,Nathan Sosa,State House District 30,no_source,,,,,,,no source covers OR yet
-980,OR,Thuy Tran,State House District 45,no_source,,,,,,,no source covers OR yet
-981,OR,Will Chotzen,State House District 46,no_source,,,,,,,no source covers OR yet
-982,OR,Lamar Wise,State House District 48,no_source,,,,,,,no source covers OR yet
-983,OR,Darla Mead,State House District 51,no_source,,,,,,,no source covers OR yet
-984,OR,Sierrah C. Williams,State Senate District 6,no_source,,,,,,,no source covers OR yet
-985,OR,Courtney Neron-Misslin,State Senate District 13,no_source,,,,,,,no source covers OR yet
-986,OR,Angeline Nicole Basett,State Senate District 26,no_source,,,,,,,no source covers OR yet
-987,OR,"James I. Manning, Jr.","State Senate, District 7",no_source,,,,,,,no source covers OR yet
-988,OR,Kipperlyn R. Sinclair,"Washington County Commissioner, District 4",no_source,,,,,,,no source covers OR yet
-989,OR,Christina Stephenson,Oregon Labor Commissioner,no_source,,,,,,,no source covers OR yet
-990,OR,Kori Rodley,State House District 7,no_source,,,,,,,no source covers OR yet
-991,OR,Ivan Maluski,State House District 11,no_source,,,,,,,no source covers OR yet
-992,OR,Joanna Robinson,State House District 15,no_source,,,,,,,no source covers OR yet
-993,OR,Rep. Lesly Muñoz,State House District 22,no_source,,,,,,,no source covers OR yet
-994,OR,Ben Bowman,State House District 25,no_source,,,,,,,no source covers OR yet
-995,OR,Tammy Rose Carpenter,State House District 27,no_source,,,,,,,no source covers OR yet
-996,OR,Dacia Grayber,State House District 28,no_source,,,,,,,no source covers OR yet
-997,OR,Cyrus Javadi,State House District 32,no_source,,,,,,,no source covers OR yet
-998,OR,Farrah Chaichi,State House District 35,no_source,,,,,,,no source covers OR yet
-999,OR,Jules Walters,State House District 37,no_source,,,,,,,no source covers OR yet
-1000,OR,Michael Sugar,State House District 40,no_source,,,,,,,no source covers OR yet
-1001,OR,Mark Gamba,State House District 41,no_source,,,,,,,no source covers OR yet
-1002,OR,Travis Nelson,State House District 44,no_source,,,,,,,no source covers OR yet
-1003,OR,Zach Hudson,State House District 49,no_source,,,,,,,no source covers OR yet
-1004,OR,Deb Patterson,State Senate District 10,no_source,,,,,,,no source covers OR yet
-1005,OR,Virginia Stapleton,State Senate District 11,no_source,,,,,,,no source covers OR yet
-1006,OR,Myrna Arely Muñoz,State Senate District 15,no_source,,,,,,,no source covers OR yet
-1007,OR,Kayse Jama,State Senate District 24,no_source,,,,,,,no source covers OR yet
-1008,OR,Nafisa Fai,"Washington County Commission, Chair",no_source,,,,,,,no source covers OR yet
-1009,OR,Morgan Schmidt,"Deschutes County Commission, Position 5",no_source,,,,,,,no source covers OR yet
-1010,OR,Jeremy Gordon,"Polk County County Commissioner, Position 3",no_source,,,,,,,no source covers OR yet
-1011,OR,Sara Duncan,"Marion County Commissioner, Position 1",no_source,,,,,,,no source covers OR yet
-1012,OR,Maria Hinojos Pressey,"Marion County Commissioner, Position 2",no_source,,,,,,,no source covers OR yet
-1013,OR,Isabella Lee Tibbetts,Jackson County County Commissioner Position 3,no_source,,,,,,,no source covers OR yet
-1014,OR,Evelyn Kocher,"Beaverton City Council, Position 1",no_source,,,,,,,no source covers OR yet
-1015,OR,Angelita Morillo,"Portland City Council, District 3",no_source,,,,,,,no source covers OR yet
-1016,OR,Tiffany Koyama Lane,"Portland City Council, District 3",no_source,,,,,,,no source covers OR yet
-1017,OR,Jamey Evenstar,"Portland City Council, District 4",no_source,,,,,,,no source covers OR yet
-1018,OR,Jeremy Beausoleil Smith,"Portland City Council, District 4",no_source,,,,,,,no source covers OR yet
-1019,OR,Mitch Green,"Portland City Council, District 4",no_source,,,,,,,no source covers OR yet
-1020,OR,Heather Coleman-Cox,"Gresham City Council, Position 2",no_source,,,,,,,no source covers OR yet
-1021,OR,Teo Ramirez,"Gresham City Council, Position 4",no_source,,,,,,,no source covers OR yet
-1022,OR,Joe Hagedorn,Multnomah County Circuit Court Judge Position 14,no_source,,,,,,,no source covers OR yet
-1212,OR,Astoria Vacant Homes,Ballot Measure,no_source,,,,,,,no source covers OR yet
-1213,OR,Eugene Clean Energy Fund,Ballot Measure,no_source,,,,,,,no source covers OR yet
-1214,OR,Hood River Affordable Housing Bond,Ballot Measure,no_source,,,,,,,no source covers OR yet
-1216,OR,Your 2 Cents,Ballot Measure,no_source,,,,,,,no source covers OR yet
 1081,SC,Courtney McClain,"U.S. House of Representatives, District 4",no_source,,,,,,,no source covers SC yet
 1082,SC,Jumelle Brooks,"South Carolina State House, District 12",no_source,,,,,,,no source covers SC yet
 1083,SC,Keishan Scott,"South Carolina State House, District 50",no_source,,,,,,,no source covers SC yet
@@ -1167,15 +1173,9 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 1088,TN,Allie Phillips,"State House, District 75",no_source,,,,,,,no source covers TN yet
 1089,TN,Jesse Huseth,"State House, District 97",no_source,,,,,,,no source covers TN yet
 1090,TN,Charlane Oliver,"State Senate, District 19",no_source,,,,,,,no source covers TN yet
-1091,TX,James “Jim” Bethke,Bexar County District Attorney,no_source,,,,,,,no source covers TX yet
-1092,TX,John Cruezot,Dallas County District Attorney,no_source,,,,,,,no source covers TX yet
-1095,TX,Michelle Butler,"Denton County Justice of the Peace, Precinct 6",no_source,,,,,,,no source covers TX yet
-1096,TX,Dr. Jared Williams,"Tarrant County Commissioner, Precinct 2",no_source,,,,,,,no source covers TX yet
-1097,TX,Nydia Cardenas,"Tarrant County Commissioner, Precinct 4",no_source,,,,,,,no source covers TX yet
-1098,TX,Montserrat Garibay,"Texas House, District 49",no_source,,,,,,,no source covers TX yet
-1099,TX,Jeremy B. Hendrinks,"Texas House, District 50",no_source,,,,,,,no source covers TX yet
-1100,TX,Jose Loya,Texas Land Commissioner,no_source,,,,,,,no source covers TX yet
-1101,TX,Andrew Hairston,"Travis County Justice of the Peace, Precinct 1",no_source,,,,,,,no source covers TX yet
+1098,TX,Montserrat Garibay,"Texas House, District 49",no_source,,,,,,,TX has only county sources so far
+1099,TX,Jeremy B. Hendrinks,"Texas House, District 50",no_source,,,,,,,TX has only county sources so far
+1100,TX,Jose Loya,Texas Land Commissioner,no_source,,,,,,,TX has only county sources so far
 1125,WI,David Crowley,Governor,no_source,,,,,,,no source covers WI yet
 1126,WI,JoCasta Zamarripa,Secretary of State,no_source,,,,,,,no source covers WI yet
 1127,WI,Chris Larson,"State Senate, District 7",no_source,,,,,,,no source covers WI yet

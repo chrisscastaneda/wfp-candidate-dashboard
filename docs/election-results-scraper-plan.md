@@ -12,7 +12,7 @@ Written Nov 2, 2026, the night before the election. No production code yet; two 
 ## Contents
 
 1. [Decisions so far](#decisions-so-far)
-2. [Phase 1 status](#phase-1-status)
+2. [Phase 1 status](#phase-1-status) and [Phase 2 status](#phase-2-status)
 3. [What the probes found](#what-the-probes-found)
 4. [Design principles](#design-principles)
 5. [Architecture](#architecture)
@@ -86,6 +86,66 @@ plus Georgia's House 1 while Georgia isn't publishing. Washington's House 7 is c
 - In Utah, single-county legislative districts are only on county sub-sites, so `ut` also reads Salt Lake and Utah
   counties. North Carolina's county races come from its per-county files (Alamance, Durham, Mecklenburg).
 - The candidate scraper logs each run to `logs/candidates/`, including rows added and removed since the last scrape.
+
+## Phase 2 status
+
+Built early Nov 3. Sixteen more sources, for 26 in all:
+
+- **State sources:** `co`, `sc`, `fl` (Clarity), `ct`, `or`, `oh`, `de`, `md`.
+- **County sources:** Clarity county sites `tx.bexar`, `tx.dallas`, `tx.denton`, `tx.tarrant`, `tx.travis`,
+  `nj.hudson`, `nj.middlesex` and `oh.hamilton`.
+
+A full live run takes about 70 seconds, mostly Ohio. The 30 offline tests pass.
+
+**Live check, about 2am ET Nov 3:**
+
+| Source | Status | Notes |
+|---|---|---|
+| Connecticut | ok, 82 of 82 matched | Static JSON under `ng-app/data/election/<id>/<version>/`. Fusion lines (DEM + WFP) are combined into one choice per candidate, with per-line votes in `party_lines` |
+| Oregon | ok, 77 matched | CSV export is off, so this parses the results pages. House districts 31–60 need a form post-back (the "31 - 60" button), so the fetcher now supports POST |
+| Ohio | ok, 25 matched | `getContestList` + `GetContestDetailsObject`, one request per contest (162), summed over counties. `HOST_GAPS` spaces those requests 0.25s apart |
+| Delaware | ok, 13 of 13 | `Election_StatewideResults_ID_GE2026.json` has every contest, county races included |
+| Maryland | ok, 9 of 9 | One page per House of Delegates district, plus county pages for county races |
+| Denton County TX, Hamilton County OH | ok | Their Nov 3 elections are posted |
+| Colorado, South Carolina, Florida, other TX and NJ counties | `not_published` | No Nov 3 election listed yet. They start working when it's posted. Colorado (85 rows) is the big one |
+
+**Matching now:** 365 auto, 11 needs_review, 12 unmatched, 816 no_source, 12 not_on_ballot.
+
+New review items and findings:
+
+- **Oregon:**
+  - "Angeline Nicole Basett" is Nicole **Bassett** on the SD 26 ballot.
+  - Joe Hagedorn is Joseph on the ballot.
+  - Three local measures (Astoria, Eugene, Hood River) were matched by title words, since WFP's names have no
+    numbers.
+  - **"Your 2 Cents" is measure 26-267** (Portland participatory budgeting). Its title shares no words with WFP's
+    name, so set it by hand in `matches.csv`.
+  - **Christina Stephenson** (Labor Commissioner) isn't on any Oregon results page. The office is nonpartisan, so
+    she likely won outright in May.
+- **Ohio:**
+  - **"Senate Bill 396: Paid Family and Medical Leave"** isn't on the ballot; the only statewide issue is Issue 3.
+  - **Columbus Issue 8** is in Franklin County, which has no source yet.
+  - Cincinnati Issues 4 and 9 matched Hamilton County's numbered measures.
+- **Texas:** the five county races (Bexar, Dallas, Tarrant, Travis) are unmatched until those counties post Nov 3.
+
+**Blocked or deferred:**
+
+- **Texas statewide** (`results.texas-election.com`) now serves a Cloudflare challenge. That's 1 row: Land
+  Commissioner.
+- **Minnesota** now redirects scripts to a Radware bot-manager check (2 rows).
+- **DC** pushes results over SignalR behind a Cloudflare script (8 rows). Robert White is in the manual entries.
+- **Louisiana** hasn't posted its Nov 3 files, and **Arkansas** has an open API but only 1 row. Both are left for
+  later.
+
+**Design changes in Phase 2:**
+
+- County sources mark their share of state and federal contests `partial`, and the matcher ignores partial contests.
+- Measures with the same number are told apart by place name: several Colorado counties have a "1A". A local measure
+  also needs a shared place name, so "Columbus Issue 8" doesn't match Hamilton County's measure 8.
+- A state with only county sources reports its statewide rows as `no_source`, not `unmatched`.
+- A missing county or locality no longer fails the whole source. Its races just show as unmatched.
+- The change hash ignores feed timestamps, so Nebraska's per-request timestamp doesn't write a history snapshot on
+  every poll.
 
 ## What the probes found
 
@@ -623,8 +683,8 @@ laptop does.
    1. Update `manual_entries.csv` from the official pages for the manual federal races.
    2. Run `scrape_results.py match` so `wfp_results.json` includes the manual entries.
    3. Rebuild the dashboard, then commit and push.
-4. **Every hour or so:** `list` to see which sources moved from `not_published` to `ok` (CO, SC, TX, GA, WA are the
-   ones to watch). Check the latest summary in `logs/results/` for new `unmatched` rows.
+4. **Every hour or so:** `list` to see which sources moved from `not_published` to `ok` (CO, SC, FL, GA and the TX
+   and NJ county sites are the ones to watch). Check the latest summary in `logs/results/` for new `unmatched` rows.
 5. **Late night:** switch to `--watch 15`. CA, WA and OR count for days, so daily runs and rebuilds after Nov 4 are
    enough.
 

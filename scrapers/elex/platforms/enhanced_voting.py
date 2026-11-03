@@ -90,7 +90,7 @@ class EnhancedVotingSource(Source):
         for locality in self.localities:
             short = by_name.get(names.fold(locality))
             if not short:
-                raise NotPublished(f"locality {locality!r} not listed under {self.jurisdiction}")
+                continue  # not listed (yet, or misspelled here); its races show as unmatched in matches.csv
             local = fetch.get(self._api(f"elections/{short}/{election_id}/data"))
             contests += parse(local, source_id=self.id, state=self.state, jurisdiction=locality, skip_titles=seen)
         return contests

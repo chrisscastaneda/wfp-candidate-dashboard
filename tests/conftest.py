@@ -18,6 +18,10 @@ class FakeFetch:
         self.routes = routes
         self.requests = []
 
+    def post(self, url, data, *, params=None, expect="text"):
+        return self.get(url, params={**(params or {}), **{k: v for k, v in data.items() if not k.startswith("__")}},
+                        expect=expect)
+
     def get(self, url, *, params=None, expect="json"):
         key = url + ("?" + "&".join(f"{k}={v}" for k, v in sorted((params or {}).items())) if params else "")
         self.requests.append(key)
