@@ -50,13 +50,13 @@ const percent = (pct: number | null | undefined) => (pct == null ? '–' : `${pc
   <li class="rounded border-l-4 border-wfp-orange bg-white px-3 py-2 shadow-sm ring-1 ring-black/5">
     <div class="flex items-start justify-between gap-3">
       <div class="min-w-0">
-        <p class="font-semibold leading-snug">{{ candidate.name }}</p>
-        <p v-if="!isMeasure" class="text-sm leading-snug text-neutral-600">{{ candidate.office }}</p>
+        <p class="font-semibold leading-snug lg:text-lg">{{ candidate.name }}</p>
+        <p v-if="!isMeasure" class="text-sm leading-snug text-neutral-600 lg:text-base">{{ candidate.office }}</p>
         <div v-if="chips.length" class="mt-1 flex flex-wrap gap-1">
           <span
             v-for="chip in chips"
             :key="chip"
-            class="rounded-sm bg-wfp-gray px-1.5 py-0.5 text-xs text-neutral-700"
+            class="rounded-sm bg-wfp-gray px-1.5 py-0.5 text-xs text-neutral-700 lg:text-sm"
           >
             {{ chip }}
           </span>
@@ -65,14 +65,14 @@ const percent = (pct: number | null | undefined) => (pct == null ? '–' : `${pc
       <div class="flex shrink-0 flex-col items-end gap-1">
         <span
           v-if="isMeasure"
-          class="rounded px-2 py-0.5 font-headline text-base font-bold uppercase"
+          class="rounded px-2 py-0.5 font-headline text-base font-bold uppercase lg:text-lg"
           :class="candidate.position === 'Yes' ? 'bg-wfp-purple text-white' : 'bg-wfp-orange text-white'"
         >
           Vote {{ candidate.position }}
         </span>
         <span
           v-if="pill"
-          class="rounded-full px-2 py-0.5 font-headline text-sm font-bold uppercase tracking-wide"
+          class="rounded-full px-2 py-0.5 font-headline text-sm font-bold uppercase tracking-wide lg:text-base"
           :class="pill.class"
         >
           {{ pill.text }}
@@ -81,11 +81,11 @@ const percent = (pct: number | null | undefined) => (pct == null ? '–' : `${pc
     </div>
 
     <!-- Results summary -->
-    <p v-if="quietNote" class="mt-1.5 text-xs text-neutral-500">{{ quietNote }}</p>
+    <p v-if="quietNote" class="mt-1.5 text-xs text-neutral-500 lg:text-sm">{{ quietNote }}</p>
     <button
       v-else-if="result"
       type="button"
-      class="mt-1.5 flex w-full items-center gap-2 rounded text-left text-sm hover:bg-[#f7f6f2]"
+      class="mt-1.5 flex w-full items-center gap-2 rounded text-left text-sm hover:bg-[#f7f6f2] lg:text-base"
       :aria-expanded="expanded"
       @click="expanded = !expanded"
     >

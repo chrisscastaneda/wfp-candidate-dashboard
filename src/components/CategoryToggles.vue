@@ -32,11 +32,11 @@ function setAll(on: boolean) {
         </button>
       </div>
     </div>
-    <div class="grid grid-cols-1 gap-1.5 min-[420px]:grid-cols-2">
+    <div class="grid grid-cols-2 gap-1.5 sm:grid-cols-4">
       <label
         v-for="c in CATEGORIES"
         :key="c.category"
-        class="flex cursor-pointer items-center gap-2 rounded border-2 px-2.5 py-1.5 text-sm transition-colors select-none"
+        class="flex cursor-pointer items-center gap-1.5 rounded border-2 px-2 py-1 text-sm leading-tight lg:text-xs transition-colors select-none"
         :class="
           enabled.has(c.category)
             ? 'border-wfp-orange bg-[#fde4df] text-neutral-900'
@@ -45,7 +45,7 @@ function setAll(on: boolean) {
       >
         <input
           type="checkbox"
-          class="size-4 accent-wfp-orange"
+          class="size-4 shrink-0 accent-wfp-orange lg:size-3.5"
           :checked="enabled.has(c.category)"
           @change="toggle(c.category)"
         />

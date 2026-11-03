@@ -10,15 +10,15 @@ const ITEMS = [
 </script>
 
 <template>
-  <div class="flex flex-wrap items-center gap-x-4 gap-y-2 text-sm text-neutral-700">
-    <div v-for="item in ITEMS" :key="item.label" class="flex items-center gap-1.5">
-      <div class="pointer-events-none w-6" aria-hidden="true">
+  <div class="flex flex-wrap items-center gap-x-4 gap-y-2 text-sm text-neutral-700 lg:gap-x-3 lg:text-xs">
+    <div v-for="item in ITEMS" :key="item.label" class="flex items-center gap-1.5 whitespace-nowrap lg:gap-1">
+      <div class="pointer-events-none w-6 lg:w-5" aria-hidden="true">
         <Tile label="" :notches="item.notches" :notch-size="0.5" tabindex="-1" />
       </div>
       {{ item.label }}
     </div>
-    <div class="flex items-center gap-1.5">
-      <div class="pointer-events-none w-6" aria-hidden="true">
+    <div class="flex items-center gap-1.5 whitespace-nowrap lg:gap-1">
+      <div class="pointer-events-none w-6 lg:w-5" aria-hidden="true">
         <Tile label="" tone="muted" tabindex="-1" />
       </div>
       No endorsements

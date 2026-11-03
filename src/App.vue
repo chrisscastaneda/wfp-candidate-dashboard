@@ -88,10 +88,12 @@ const resultsTime = new Date(RESULTS_GENERATED_AT).toLocaleString('en-US', {
     </header>
     <AboutDialog ref="about" />
 
-    <main class="grid flex-1 lg:min-h-0 lg:grid-cols-2">
+    <!-- Each panel scrolls on its own on desktop. They're `relative` so absolutely positioned descendants (the
+         cards' sr-only text) are clipped by the panel instead of stretching the whole page. -->
+    <main class="grid flex-1 lg:min-h-0 lg:grid-cols-[45fr_55fr]">
       <!-- Map + filters -->
       <section
-        class="space-y-6 border-wfp-gray bg-[#f7f6f2] px-4 py-5 sm:px-6 lg:overflow-y-auto lg:border-r-2"
+        class="relative space-y-6 border-wfp-gray bg-[#f7f6f2] px-4 py-5 sm:px-6 lg:overflow-y-auto lg:overscroll-contain lg:border-r-2"
         aria-label="Filters"
       >
         <div>
@@ -126,7 +128,7 @@ const resultsTime = new Date(RESULTS_GENERATED_AT).toLocaleString('en-US', {
       </section>
 
       <!-- Candidate list -->
-      <section class="px-4 pb-8 sm:px-6 lg:overflow-y-auto" aria-label="Endorsements">
+      <section class="relative px-4 pb-8 sm:px-6 lg:overflow-y-auto lg:overscroll-contain" aria-label="Endorsements">
         <div class="sticky top-0 z-20 -mx-4 bg-white px-4 pt-5 pb-3 sm:-mx-6 sm:px-6">
           <label class="sr-only" for="search">Search endorsements</label>
           <input

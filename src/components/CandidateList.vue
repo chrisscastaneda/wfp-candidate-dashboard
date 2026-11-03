@@ -35,15 +35,15 @@ const groups = computed(() => {
   <div class="space-y-8">
     <section v-for="group in groups" :key="group.state">
       <h2
-        class="mb-3 flex items-baseline justify-between border-b-2 border-wfp-purple py-1.5 font-headline text-2xl font-bold uppercase tracking-wide text-wfp-purple"
+        class="mb-3 flex items-baseline justify-between border-b-2 border-wfp-purple py-1.5 font-headline text-2xl font-bold uppercase tracking-wide text-wfp-purple lg:text-3xl"
       >
         {{ group.state }}
-        <span class="font-sans text-sm font-normal normal-case tracking-normal text-neutral-500">
+        <span class="font-sans text-sm font-normal normal-case tracking-normal text-neutral-500 lg:text-base">
           {{ group.count }}
         </span>
       </h2>
       <div v-for="[label, rows] in group.categories" :key="label" class="mb-4">
-        <h3 class="mb-1.5 font-headline text-lg font-light uppercase tracking-wider text-neutral-700">
+        <h3 class="mb-1.5 font-headline text-lg font-light uppercase tracking-wider text-neutral-700 lg:text-xl">
           {{ label }}
         </h3>
         <ul class="space-y-1.5">
