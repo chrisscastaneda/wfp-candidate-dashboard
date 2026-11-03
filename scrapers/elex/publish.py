@@ -29,7 +29,8 @@ def build(endorsements: list[dict], match_rows: list[dict], latest: dict[str, di
     for e in endorsements:
         m = by_key.get(e["key"])
         status = m["status"] if m else match.NO_SOURCE
-        entry = {"status": status, "match_status": status}
+        # The name lets the dashboard spot a results file built from an older candidates.json (ids shift).
+        entry = {"name": e["name"], "status": status, "match_status": status}
         contest = contests.get((m["source"], m["contest_id"])) if m and m["contest_id"] else None
         if status in (match.NOT_ON_BALLOT, match.NO_SOURCE, match.UNMATCHED) or contest is None:
             if status not in (match.NOT_ON_BALLOT, match.NO_SOURCE):

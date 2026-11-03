@@ -3,13 +3,16 @@ import { computed, ref } from 'vue'
 import CandidateList from './components/CandidateList.vue'
 import CategoryToggles from './components/CategoryToggles.vue'
 import MapLegend from './components/MapLegend.vue'
+import StatusToggles from './components/StatusToggles.vue'
 import TileMap from './components/TileMap.vue'
 import { CATEGORIES } from './data/categories'
 import { CANDIDATES, SCRAPED_AT, SOURCE_URL, STATE_TILES } from './data/candidates'
-import type { OfficeCategory } from './data/types'
+import { displayStatus, RESULTS_GENERATED_AT, STATUSES } from './data/results'
+import type { DisplayStatus, OfficeCategory } from './data/types'
 
 const selectedState = ref<string | null>(null)
 const enabledCategories = ref(new Set<OfficeCategory>(CATEGORIES.map((c) => c.category)))
+const enabledStatuses = ref(new Set<DisplayStatus>(STATUSES.map((s) => s.status)))
 const search = ref('')
 
 const selectedTile = computed(
@@ -33,11 +36,21 @@ const categoryCounts = computed(() => {
   return counts
 })
 
+const statusCounts = computed(() => {
+  const counts = new Map<DisplayStatus, number>()
+  for (const c of inScope.value) {
+    const s = displayStatus(c)
+    counts.set(s, (counts.get(s) ?? 0) + 1)
+  }
+  return counts
+})
+
 const visible = computed(() => {
   const q = search.value.trim().toLowerCase()
   return inScope.value.filter(
     (c) =>
       enabledCategories.value.has(c.office_category) &&
+      enabledStatuses.value.has(displayStatus(c)) &&
       (!q || [c.name, c.office, c.district, c.region].some((f) => f.toLowerCase().includes(q))),
   )
 })
@@ -46,6 +59,13 @@ const scrapedDate = new Date(SCRAPED_AT).toLocaleDateString('en-US', {
   year: 'numeric',
   month: 'long',
   day: 'numeric',
+})
+const resultsTime = new Date(RESULTS_GENERATED_AT).toLocaleString('en-US', {
+  month: 'long',
+  day: 'numeric',
+  hour: 'numeric',
+  minute: '2-digit',
+  timeZoneName: 'short',
 })
 </script>
 
@@ -87,10 +107,13 @@ const scrapedDate = new Date(SCRAPED_AT).toLocaleDateString('en-US', {
 
         <CategoryToggles v-model="enabledCategories" :counts="categoryCounts" />
 
+        <StatusToggles v-model="enabledStatuses" :counts="statusCounts" />
+
         <p class="text-xs text-neutral-500">
           Data from
           <a :href="SOURCE_URL" class="underline" target="_blank" rel="noopener">workingfamilies.org</a>,
-          updated {{ scrapedDate }}.
+          updated {{ scrapedDate }}. Unofficial results from state and county election offices, updated
+          {{ resultsTime }}.
         </p>
       </section>
 

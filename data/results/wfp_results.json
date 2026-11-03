@@ -1,7 +1,7 @@
 {
  "election_date": "2026-11-03",
- "generated_at": "2026-11-03T07:21:27+00:00",
- "run_id": "20261103T072014Z",
+ "generated_at": "2026-11-03T07:33:41+00:00",
+ "run_id": "20261103T073341Z",
  "sources": {
   "ca": {
    "status": "ok",
@@ -204,151 +204,181 @@
  },
  "results": {
   "1": {
+   "name": "Clara Pratte",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers AZ yet"
   },
   "2": {
+   "name": "Jonathon Hill",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers AZ yet"
   },
   "3": {
+   "name": "Junelle Cavero",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers AZ yet"
   },
   "4": {
+   "name": "Sarah Ligouri",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers AZ yet"
   },
   "5": {
+   "name": "Brian Garcia",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers AZ yet"
   },
   "6": {
+   "name": "Lorena Austin",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers AZ yet"
   },
   "7": {
+   "name": "Oscar De Los Santos",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers AZ yet"
   },
   "8": {
+   "name": "Miranda Lopez",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers AZ yet"
   },
   "9": {
+   "name": "Mariana Sandoval",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers AZ yet"
   },
   "10": {
+   "name": "Alberto Flores",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers AZ yet"
   },
   "11": {
+   "name": "Lisbeth Arescurenaga",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers AZ yet"
   },
   "12": {
+   "name": "Quanta Crews",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers AZ yet"
   },
   "13": {
+   "name": "Lauren Kuby",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers AZ yet"
   },
   "14": {
+   "name": "Priya Sunderashan",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers AZ yet"
   },
   "15": {
+   "name": "Analise Ortiz",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers AZ yet"
   },
   "16": {
+   "name": "Ed Hermes",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers AZ yet"
   },
   "17": {
+   "name": "Bobby Forrest Jr.",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers AR yet"
   },
   "18": {
+   "name": "Tamisha Torres Walker",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'walker' in any CA contest loaded"
   },
   "19": {
+   "name": "Monica Wilson",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'wilson' in any CA contest loaded"
   },
   "20": {
+   "name": "Brandon Dawkins",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'dawkins' in any CA contest loaded"
   },
   "21": {
+   "name": "Daria Wrubel",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Alameda local races yet"
   },
   "22": {
+   "name": "Moni Gangopadhyay",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Alameda local races yet"
   },
   "23": {
+   "name": "Syrak Micael",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Alameda local races yet"
   },
   "24": {
+   "name": "Avery Arbaugh",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Alameda local races yet"
   },
   "25": {
+   "name": "Derek Rodriguez",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Alameda local races yet"
   },
   "26": {
+   "name": "Ida Martinac",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Alameda local races yet"
   },
   "27": {
+   "name": "Nathan Mizell",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Alameda local races yet"
   },
   "28": {
+   "name": "Vylma Ortiz",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Alameda local races yet"
   },
   "29": {
+   "name": "Jaria Jaug",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'jaug' in any CA contest loaded"
   },
   "30": {
+   "name": "Sally Lieber",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -379,291 +409,349 @@
    ]
   },
   "31": {
+   "name": "Bunny McFadden",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Francisco local races yet"
   },
   "32": {
+   "name": "Jeremy Lee",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Francisco local races yet"
   },
   "33": {
+   "name": "Leah LaCroix",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Francisco local races yet"
   },
   "34": {
+   "name": "Jenny Wong",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Alameda local races yet"
   },
   "35": {
+   "name": "Laura Nakamura",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'nakamura' in any CA contest loaded"
   },
   "36": {
+   "name": "Cameron Sasai",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'sasai' in any CA contest loaded"
   },
   "37": {
+   "name": "Rebecca Barrett",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'barrett' in any CA contest loaded"
   },
   "38": {
+   "name": "Rod Daus-Magbual",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Mateo local races yet"
   },
   "39": {
+   "name": "Seema Badar",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Alameda local races yet"
   },
   "40": {
+   "name": "Ofelia Bello",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Mateo local races yet"
   },
   "41": {
+   "name": "Ruben Abrica",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Mateo local races yet"
   },
   "42": {
+   "name": "Mer Currey Nunez",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'nunez' in any CA contest loaded"
   },
   "43": {
+   "name": "Anthony Montes",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'montes' in any CA contest loaded"
   },
   "44": {
+   "name": "Alexander Gvatua",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'gvatua' in any CA contest loaded"
   },
   "45": {
+   "name": "Phoebe Shin Venkat",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Mateo local races yet"
   },
   "46": {
+   "name": "Rebeca Armendariz",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'armendariz' in any CA contest loaded"
   },
   "47": {
+   "name": "George Syrop",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Alameda local races yet"
   },
   "48": {
+   "name": "Michelle Fernellius",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Alameda local races yet"
   },
   "49": {
+   "name": "Chris Herrod",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'herrod' in any CA contest loaded"
   },
   "50": {
+   "name": "Aaron Burnett",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'burnett' in any CA contest loaded"
   },
   "51": {
+   "name": "Seema Kanani",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'kanani' in any CA contest loaded"
   },
   "52": {
+   "name": "Erik Poicon",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'poicon' in any CA contest loaded"
   },
   "53": {
+   "name": "IdaRose Sylvester",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'sylvester' in any CA contest loaded"
   },
   "54": {
+   "name": "Barbara Lee",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Alameda local races yet"
   },
   "55": {
+   "name": "Jennifer Brouhard",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Alameda local races yet"
   },
   "56": {
+   "name": "Valarie Bachelor",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Alameda local races yet"
   },
   "57": {
+   "name": "Christine Boles",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Mateo local races yet"
   },
   "58": {
+   "name": "Sam Casillas",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Mateo local races yet"
   },
   "59": {
+   "name": "Eric Vazquez",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'vazquez' in any CA contest loaded"
   },
   "60": {
+   "name": "Sarah Seitchik Sebastian",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'sebastian' in any CA contest loaded"
   },
   "61": {
+   "name": "Truc “Christy” Lam-Julian",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'julian' in any CA contest loaded"
   },
   "62": {
+   "name": "Destiny Briscoe",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'briscoe' in any CA contest loaded"
   },
   "63": {
+   "name": "Chris Sturken",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Mateo local races yet"
   },
   "64": {
+   "name": "Claudia Jimenez",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'jimenez' in any CA contest loaded"
   },
   "65": {
+   "name": "Marty Medina",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Mateo local races yet"
   },
   "66": {
+   "name": "Gary McCoy",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Francisco local races yet"
   },
   "67": {
+   "name": "Michael Nguyen",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Francisco local races yet"
   },
   "68": {
+   "name": "Dion-Jay (DJ) Brookter",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Francisco local races yet"
   },
   "69": {
+   "name": "JR Eppler",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Francisco local races yet"
   },
   "70": {
+   "name": "Reina Tello",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Francisco local races yet"
   },
   "71": {
+   "name": "Ryan Hazelton",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Francisco local races yet"
   },
   "72": {
+   "name": "Virginia Cheung",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Francisco local races yet"
   },
   "73": {
+   "name": "Peter Ortiz",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'ortiz' in any CA contest loaded"
   },
   "74": {
+   "name": "Gordon Chester",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'chester' in any CA contest loaded"
   },
   "75": {
+   "name": "Michael Melillo",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'melillo' in any CA contest loaded"
   },
   "76": {
+   "name": "Dana Johnson",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Mateo local races yet"
   },
   "77": {
+   "name": "Mark Nagales",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Mateo local races yet"
   },
   "78": {
+   "name": "Diana Harris",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Mateo local races yet"
   },
   "79": {
+   "name": "Allyson Chan",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Mateo local races yet"
   },
   "80": {
+   "name": "Kevin Park",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'park' in any CA contest loaded"
   },
   "81": {
+   "name": "Melanie Jones-Carter",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'carter' in any CA contest loaded"
   },
   "82": {
+   "name": "Joanna Paun",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'paun' in any CA contest loaded"
   },
   "83": {
+   "name": "Melanie Bagby",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'bagby' in any CA contest loaded"
   },
   "84": {
+   "name": "Caitlin Quinn",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'quinn' in any CA contest loaded"
   },
   "85": {
+   "name": "Aysha Dominguez Pamukcu",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Francisco local races yet"
   },
   "86": {
+   "name": "Melanie Olson",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Francisco local races yet"
   },
   "87": {
+   "name": "Eddie Flores",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Francisco local races yet"
   },
   "88": {
+   "name": "Chris Rogers",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -694,6 +782,7 @@
    ]
   },
   "89": {
+   "name": "Jackie Elward",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -724,6 +813,7 @@
    ]
   },
   "90": {
+   "name": "Liz Ortega",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -754,6 +844,7 @@
    ]
   },
   "91": {
+   "name": "Alex Lee",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -784,6 +875,7 @@
    ]
   },
   "92": {
+   "name": "Ash Kalra",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -814,6 +906,7 @@
    ]
   },
   "93": {
+   "name": "Damon Connolly",
    "status": "awaiting",
    "match_status": "needs_review",
    "source": "ca",
@@ -844,6 +937,7 @@
    ]
   },
   "94": {
+   "name": "Connie Chan",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -874,6 +968,7 @@
    ]
   },
   "95": {
+   "name": "Lateefah Simon",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -904,6 +999,7 @@
    ]
   },
   "96": {
+   "name": "Aisha Wahab",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -934,6 +1030,7 @@
    ]
   },
   "97": {
+   "name": "Ro Khanna",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -964,151 +1061,181 @@
    ]
   },
   "98": {
+   "name": "Brianna Rogers",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Solano local races yet"
   },
   "99": {
+   "name": "Gabriel Garcia",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Kern local races yet"
   },
   "100": {
+   "name": "Jose Luis Garcia",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Kern local races yet"
   },
   "101": {
+   "name": "Manpreet Kaur",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Kern local races yet"
   },
   "102": {
+   "name": "Kristina Pine",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'pine' in any CA contest loaded"
   },
   "103": {
+   "name": "Carla Meade",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Santa Barbara local races yet"
   },
   "104": {
+   "name": "David Silva",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Santa Barbara local races yet"
   },
   "105": {
+   "name": "Susie Nava",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Tulare local races yet"
   },
   "106": {
+   "name": "Naindeep Singh",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Fresno local races yet"
   },
   "107": {
+   "name": "Ariana Martinez Lott",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Fresno local races yet"
   },
   "108": {
+   "name": "Veva Islas",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Fresno local races yet"
   },
   "109": {
+   "name": "Jevon Price",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Tulare local races yet"
   },
   "110": {
+   "name": "Anastasia Hopper",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Kern local races yet"
   },
   "111": {
+   "name": "David Wescott",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Kern local races yet"
   },
   "112": {
+   "name": "Juan Telles",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Stanislaus local races yet"
   },
   "113": {
+   "name": "Jasmine Duron",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'duron' in any CA contest loaded"
   },
   "114": {
+   "name": "Eriberto Estrada",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Santa Cruz local races yet"
   },
   "115": {
+   "name": "Jeanette Reyes",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Stanislaus local races yet"
   },
   "116": {
+   "name": "Sammi Martinez",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Stanislaus local races yet"
   },
   "117": {
+   "name": "Flo Cofer",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Sacramento local races yet"
   },
   "118": {
+   "name": "Gabe Escobedo",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Santa Barbara local races yet"
   },
   "119": {
+   "name": "Devon Wardlow",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Santa Barbara local races yet"
   },
   "120": {
+   "name": "Ian Baucke",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Santa Barbara local races yet"
   },
   "121": {
+   "name": "Ricardo Valencia",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Santa Barbara local races yet"
   },
   "122": {
+   "name": "Justin Cummings",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Santa Cruz local races yet"
   },
   "123": {
+   "name": "Ami Chen Mills",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Santa Cruz local races yet"
   },
   "124": {
+   "name": "Gloria Soto",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Santa Barbara local races yet"
   },
   "125": {
+   "name": "Sam Cohen",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'cohen' in any CA contest loaded"
   },
   "126": {
+   "name": "Josh Gray",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'gray' in any CA contest loaded"
   },
   "127": {
+   "name": "Sean Frame",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -1139,11 +1266,13 @@
    ]
   },
   "128": {
+   "name": "Jose Salazar",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Fresno local races yet"
   },
   "129": {
+   "name": "Mai Vang",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -1174,6 +1303,7 @@
    ]
   },
   "130": {
+   "name": "Randy Villegas",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -1204,126 +1334,151 @@
    ]
   },
   "131": {
+   "name": "Liz Campos",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'campos' in any CA contest loaded"
   },
   "132": {
+   "name": "Karba Eckley",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'eckley' in any CA contest loaded"
   },
   "133": {
+   "name": "Emmanuel Soto",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Tulare local races yet"
   },
   "134": {
+   "name": "Wences Sosa",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Tulare local races yet"
   },
   "135": {
+   "name": "Stevevonna Evans",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Bernardino local races yet"
   },
   "136": {
+   "name": "Marco Santana",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Riverside local races yet"
   },
   "137": {
+   "name": "Chris Castorena",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Riverside local races yet"
   },
   "138": {
+   "name": "Anyse Smith",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Riverside local races yet"
   },
   "139": {
+   "name": "Nathan Urena",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Riverside local races yet"
   },
   "140": {
+   "name": "Nubia Diaz",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Bernardino local races yet"
   },
   "141": {
+   "name": "Luz Perez",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Bernardino local races yet"
   },
   "142": {
+   "name": "Joz Sida",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Bernardino local races yet"
   },
   "143": {
+   "name": "Andrea Garcia",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Riverside local races yet"
   },
   "144": {
+   "name": "Edgar Castelan",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Riverside local races yet"
   },
   "145": {
+   "name": "Ulises Cabrera",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Riverside local races yet"
   },
   "146": {
+   "name": "Sammie Luna",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Riverside local races yet"
   },
   "147": {
+   "name": "Justin Jackson",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Riverside local races yet"
   },
   "148": {
+   "name": "Abel Chavez",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Riverside local races yet"
   },
   "149": {
+   "name": "Denise Davis",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Bernardino local races yet"
   },
   "150": {
+   "name": "Ryan Schavrien",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Bernardino local races yet"
   },
   "151": {
+   "name": "Ana Gonzalez",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Bernardino local races yet"
   },
   "152": {
+   "name": "Aram Ayra",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Riverside local races yet"
   },
   "153": {
+   "name": "Christian Shaughnessy",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Bernardino local races yet"
   },
   "154": {
+   "name": "Joe Salas",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Bernardino local races yet"
   },
   "155": {
+   "name": "Leila Namvar",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -1354,6 +1509,7 @@
    ]
   },
   "156": {
+   "name": "Clarissa Cervantes",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -1384,6 +1540,7 @@
    ]
   },
   "157": {
+   "name": "Corey Jackson",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -1414,11 +1571,13 @@
    ]
   },
   "158": {
+   "name": "Derek Marshall",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Bernardino local races yet"
   },
   "159": {
+   "name": "Samuel Sukaton",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -1449,6 +1608,7 @@
    ]
   },
   "160": {
+   "name": "Mike Van Gorder",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.los_angeles",
@@ -1556,6 +1716,7 @@
    ]
   },
   "161": {
+   "name": "Nikki Perez",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.los_angeles",
@@ -1663,6 +1824,7 @@
    ]
   },
   "162": {
+   "name": "Nolan Southerland",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.los_angeles",
@@ -1770,11 +1932,13 @@
    ]
   },
   "163": {
+   "name": "Estefany Castañeda",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'castaneda' in any CA contest loaded"
   },
   "164": {
+   "name": "Cynthia Gonzalez",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.los_angeles",
@@ -1826,6 +1990,7 @@
    ]
   },
   "165": {
+   "name": "Thomas Small",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.los_angeles",
@@ -1877,6 +2042,7 @@
    ]
   },
   "166": {
+   "name": "Brian Guerrero",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.los_angeles",
@@ -1921,6 +2087,7 @@
    ]
   },
   "167": {
+   "name": "Stephanie Loredo",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.los_angeles",
@@ -1965,11 +2132,13 @@
    ]
   },
   "168": {
+   "name": "Andrew Yam",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'yam' in any CA contest loaded"
   },
   "169": {
+   "name": "Nancy Martiz",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.los_angeles",
@@ -2007,6 +2176,7 @@
    ]
   },
   "170": {
+   "name": "David Ross",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.los_angeles",
@@ -2037,6 +2207,7 @@
    ]
   },
   "171": {
+   "name": "Justin Clayton",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.los_angeles",
@@ -2067,6 +2238,7 @@
    ]
   },
   "172": {
+   "name": "Marissa Roy",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.los_angeles",
@@ -2097,6 +2269,7 @@
    ]
   },
   "173": {
+   "name": "Estuardo Mazariegos",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.los_angeles",
@@ -2127,6 +2300,7 @@
    ]
   },
   "174": {
+   "name": "Darryn Harris",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.los_angeles",
@@ -2192,6 +2366,7 @@
    ]
   },
   "175": {
+   "name": "Nithya Raman",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.los_angeles",
@@ -2222,6 +2397,7 @@
    ]
   },
   "176": {
+   "name": "Emiliano Arellano",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.los_angeles",
@@ -2280,6 +2456,7 @@
    ]
   },
   "177": {
+   "name": "Juan Munoz-Guevara",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.los_angeles",
@@ -2338,6 +2515,7 @@
    ]
   },
   "178": {
+   "name": "Mishaun Watkins",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.los_angeles",
@@ -2396,6 +2574,7 @@
    ]
   },
   "179": {
+   "name": "Mayra Alejandra Aguiluz",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.los_angeles",
@@ -2475,6 +2654,7 @@
    ]
   },
   "180": {
+   "name": "Steven Kung",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.los_angeles",
@@ -2505,11 +2685,13 @@
    ]
   },
   "181": {
+   "name": "Alton Wang",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'wang' in any CA contest loaded"
   },
   "182": {
+   "name": "Brandon Macias",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.los_angeles",
@@ -2547,6 +2729,7 @@
    ]
   },
   "183": {
+   "name": "Caroline Torosis",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.los_angeles",
@@ -2647,6 +2830,7 @@
    ]
   },
   "184": {
+   "name": "Nick Schultz",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -2677,6 +2861,7 @@
    ]
   },
   "185": {
+   "name": "Isaac Bryan",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -2707,6 +2892,7 @@
    ]
   },
   "186": {
+   "name": "Sade Elhawary",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -2737,6 +2923,7 @@
    ]
   },
   "187": {
+   "name": "Tina McKinnor",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -2767,6 +2954,7 @@
    ]
   },
   "188": {
+   "name": "Caroline Menjivar",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -2797,6 +2985,7 @@
    ]
   },
   "189": {
+   "name": "John Erickson",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -2827,6 +3016,7 @@
    ]
   },
   "190": {
+   "name": "Sarah Rascón",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -2857,6 +3047,7 @@
    ]
   },
   "191": {
+   "name": "Lola Smallwood-Cuevas",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -2887,6 +3078,7 @@
    ]
   },
   "192": {
+   "name": "Angela Gonzales-Torres",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -2917,6 +3109,7 @@
    ]
   },
   "193": {
+   "name": "Leslie Garcia",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.los_angeles",
@@ -2954,6 +3147,7 @@
    ]
   },
   "194": {
+   "name": "Helen Kreiger",
    "status": "awaiting",
    "match_status": "needs_review",
    "source": "ca.los_angeles",
@@ -3068,6 +3262,7 @@
    ]
   },
   "195": {
+   "name": "Stephen Post",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.los_angeles",
@@ -3182,6 +3377,7 @@
    ]
   },
   "196": {
+   "name": "Chelsea Byers",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.los_angeles",
@@ -3296,6 +3492,7 @@
    ]
   },
   "197": {
+   "name": "Rebecca Hamburg Cappy",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.los_angeles",
@@ -3354,11 +3551,13 @@
    ]
   },
   "198": {
+   "name": "Tiffany Ackley",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'ackley' in any CA contest loaded"
   },
   "199": {
+   "name": "Steven Von der Porten",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.orange",
@@ -3389,6 +3588,7 @@
    ]
   },
   "200": {
+   "name": "Marie Tsaasan",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.orange",
@@ -3419,6 +3619,7 @@
    ]
   },
   "201": {
+   "name": "Juan Alvarez",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.orange",
@@ -3449,6 +3650,7 @@
    ]
   },
   "202": {
+   "name": "Alva Alvarez",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.orange",
@@ -3479,6 +3681,7 @@
    ]
   },
   "203": {
+   "name": "Jessica Guerrero",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.orange",
@@ -3523,6 +3726,7 @@
    ]
   },
   "204": {
+   "name": "Angely Andrade Vallarta",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.orange",
@@ -3553,6 +3757,7 @@
    ]
   },
   "205": {
+   "name": "Kelly Brown",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.orange",
@@ -3583,6 +3788,7 @@
    ]
   },
   "206": {
+   "name": "Shana Charles",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.orange",
@@ -3613,6 +3819,7 @@
    ]
   },
   "207": {
+   "name": "Jozef Maldonado",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.orange",
@@ -3650,6 +3857,7 @@
    ]
   },
   "208": {
+   "name": "Hieu Nguyen",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.orange",
@@ -3694,6 +3902,7 @@
    ]
   },
   "209": {
+   "name": "Sukhee Kang",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.orange",
@@ -3731,6 +3940,7 @@
    ]
   },
   "210": {
+   "name": "Betty Martinez Franco",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.orange",
@@ -3782,6 +3992,7 @@
    ]
   },
   "211": {
+   "name": "Jennifer Engle",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.orange",
@@ -3847,6 +4058,7 @@
    ]
   },
   "212": {
+   "name": "Benjamin Vazquez",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.orange",
@@ -3877,6 +4089,7 @@
    ]
   },
   "213": {
+   "name": "Sandra De Anda",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.orange",
@@ -3907,6 +4120,7 @@
    ]
   },
   "214": {
+   "name": "Isuri Ramos",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.orange",
@@ -3937,6 +4151,7 @@
    ]
   },
   "215": {
+   "name": "Katelyn Brazer Aceves",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.orange",
@@ -3967,6 +4182,7 @@
    ]
   },
   "216": {
+   "name": "Hector Bustos",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.orange",
@@ -3997,6 +4213,7 @@
    ]
   },
   "217": {
+   "name": "Donald Torres",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.orange",
@@ -4027,6 +4244,7 @@
    ]
   },
   "218": {
+   "name": "Marlon-Ray Velasco",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca.orange",
@@ -4064,6 +4282,7 @@
    ]
   },
   "219": {
+   "name": "Jessie Lopez",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -4094,6 +4313,7 @@
    ]
   },
   "220": {
+   "name": "Chris Kluwe",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -4124,71 +4344,85 @@
    ]
   },
   "221": {
+   "name": "Alexander Kraft",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Diego local races yet"
   },
   "222": {
+   "name": "Liliana Soriano",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Diego local races yet"
   },
   "223": {
+   "name": "Jose Lopez",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Diego local races yet"
   },
   "224": {
+   "name": "Joe Smith",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Diego local races yet"
   },
   "225": {
+   "name": "Krystle Johnson",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Diego local races yet"
   },
   "226": {
+   "name": "Cindy Lopez",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Diego local races yet"
   },
   "227": {
+   "name": "Jose Rodriguez",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Diego local races yet"
   },
   "228": {
+   "name": "Eric Joyce",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Diego local races yet"
   },
   "229": {
+   "name": "Emily Gonzales",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Diego local races yet"
   },
   "230": {
+   "name": "Nicole Crosby",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Diego local races yet"
   },
   "231": {
+   "name": "Henry Foster",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Diego local races yet"
   },
   "232": {
+   "name": "Monica Montgomery Steppe",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Diego local races yet"
   },
   "233": {
+   "name": "Hayden Gore",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Diego local races yet"
   },
   "234": {
+   "name": "Lashae Sharp-Collins",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -4219,21 +4453,25 @@
    ]
   },
   "235": {
+   "name": "Kayla Lauriano",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Diego local races yet"
   },
   "236": {
+   "name": "Corinna Contreras",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Diego local races yet"
   },
   "237": {
+   "name": "Kenneth Zuniga",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries San Diego local races yet"
   },
   "238": {
+   "name": "Jane Kim",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -4264,286 +4502,343 @@
    ]
   },
   "239": {
+   "name": "Melat Kiros",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "240": {
+   "name": "Amanda Gonzalez",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "241": {
+   "name": "Jena Griswold",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "242": {
+   "name": "Jamie Jeffery",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "243": {
+   "name": "Aaron Gutierrez",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "244": {
+   "name": "Emily Sirota",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "245": {
+   "name": "Javier Mabrey",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "246": {
+   "name": "Scott Baldermann",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "247": {
+   "name": "Gena Ozols",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "248": {
+   "name": "Justine Sandoval",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "249": {
+   "name": "Iris Halpern",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "250": {
+   "name": "Monica VanBuskirk",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "251": {
+   "name": "Junie Joseph",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "252": {
+   "name": "Consuelo Redhorse",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "253": {
+   "name": "Alexis Hoffkling",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "254": {
+   "name": "Tammy Story",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "255": {
+   "name": "Gabriel Cervantes",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "256": {
+   "name": "Chris VanDijk",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "257": {
+   "name": "Kenny Nguyen",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "258": {
+   "name": "Jenny Willford",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "259": {
+   "name": "Jamie Jackson",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "260": {
+   "name": "Michael Clarkson",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "261": {
+   "name": "Vic Meyers",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "262": {
+   "name": "Jacki Marsh",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "263": {
+   "name": "Yara Zokaie",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "264": {
+   "name": "Mallory Martin",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "265": {
+   "name": "Elizabeth Velasco",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "266": {
+   "name": "Iman Jodeh",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "267": {
+   "name": "Chela Garcia Irlando",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "268": {
+   "name": "Lisa Escárcega",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "269": {
+   "name": "Karla Esser",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "270": {
+   "name": "Thomas Swingle",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "271": {
+   "name": "Emma Pinter",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "272": {
+   "name": "PK Kaiser",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "273": {
+   "name": "Jessica Campbell",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "274": {
+   "name": "Leslie Summey",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "275": {
+   "name": "Michael Westerberg",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "276": {
+   "name": "Taishya Adams",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "277": {
+   "name": "Jamillah Richmond",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "278": {
+   "name": "Rachel Rose Isaacson",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "279": {
+   "name": "Ryan Schuchard",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "280": {
+   "name": "Melissa Mejía",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "281": {
+   "name": "Irene Bonham",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "282": {
+   "name": "David “Muka” Traenkle",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "283": {
+   "name": "Gavin Rainey",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "284": {
+   "name": "Jonathan Godes",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "285": {
+   "name": "Andy Kerr",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "286": {
+   "name": "Nicole Hensel",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "287": {
+   "name": "Bob Overbeck",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "288": {
+   "name": "Shane Atkinson",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "289": {
+   "name": "Naseem Zubi",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "290": {
+   "name": "Angela Giron",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "291": {
+   "name": "Allen Medina",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "292": {
+   "name": "Michael Farrington",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "293": {
+   "name": "Jack Rosenthal",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "294": {
+   "name": "Liza Marron",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "295": {
+   "name": "Jahana Hayes",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -4581,6 +4876,7 @@
    ]
   },
   "296": {
+   "name": "Ned Lamont",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -4632,6 +4928,7 @@
    ]
   },
   "297": {
+   "name": "Susan Bysiewicz",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -4683,6 +4980,7 @@
    ]
   },
   "298": {
+   "name": "Stephanie Thomas",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -4720,6 +5018,7 @@
    ]
   },
   "299": {
+   "name": "William Tong",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -4750,6 +5049,7 @@
    ]
   },
   "300": {
+   "name": "Sean Scanlon",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -4780,6 +5080,7 @@
    ]
   },
   "301": {
+   "name": "Erick Russell",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -4810,6 +5111,7 @@
    ]
   },
   "302": {
+   "name": "Francis Lombard",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -4840,6 +5142,7 @@
    ]
   },
   "303": {
+   "name": "Angie Parkinson",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -4877,6 +5180,7 @@
    ]
   },
   "304": {
+   "name": "Geoffrey Luxenberg",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -4907,6 +5211,7 @@
    ]
   },
   "305": {
+   "name": "Eleni Kavros DeGraw",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -4937,6 +5242,7 @@
    ]
   },
   "306": {
+   "name": "Kate Farrar",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -4960,6 +5266,7 @@
    ]
   },
   "307": {
+   "name": "Mike Demicco",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -4990,6 +5297,7 @@
    ]
   },
   "308": {
+   "name": "Rebecca Martinez",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -5020,6 +5328,7 @@
    ]
   },
   "309": {
+   "name": "Jane Wisialowski",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -5050,6 +5359,7 @@
    ]
   },
   "310": {
+   "name": "Emmanuel “Manny” Sanchez",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -5080,6 +5390,7 @@
    ]
   },
   "311": {
+   "name": "David DeFronzo",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -5110,6 +5421,7 @@
    ]
   },
   "312": {
+   "name": "Gary Turco",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -5133,6 +5445,7 @@
    ]
   },
   "313": {
+   "name": "Amy Morrin Bello",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -5163,6 +5476,7 @@
    ]
   },
   "314": {
+   "name": "Moise ‘Moses” Carelus",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -5193,6 +5507,7 @@
    ]
   },
   "315": {
+   "name": "Cinzia Lettieri",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -5223,6 +5538,7 @@
    ]
   },
   "316": {
+   "name": "Nick Menapace",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -5253,6 +5569,7 @@
    ]
   },
   "317": {
+   "name": "Nick Gauthier",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -5283,6 +5600,7 @@
    ]
   },
   "318": {
+   "name": "Dan Gaiewski",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -5313,6 +5631,7 @@
    ]
   },
   "319": {
+   "name": "Aundre Bumgardner",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -5343,6 +5662,7 @@
    ]
   },
   "320": {
+   "name": "Samantha Derenthal",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -5373,6 +5693,7 @@
    ]
   },
   "321": {
+   "name": "Derell Q Wilson",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -5403,6 +5724,7 @@
    ]
   },
   "322": {
+   "name": "Bob Fernandez",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -5433,6 +5755,7 @@
    ]
   },
   "323": {
+   "name": "Susan Johnson",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -5463,6 +5786,7 @@
    ]
   },
   "324": {
+   "name": "Michelle Doucette Cunningham",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -5493,6 +5817,7 @@
    ]
   },
   "325": {
+   "name": "Gregg Haddad",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -5516,6 +5841,7 @@
    ]
   },
   "326": {
+   "name": "Ellen Paul",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -5546,6 +5872,7 @@
    ]
   },
   "327": {
+   "name": "Kevin Brown",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -5576,6 +5903,7 @@
    ]
   },
   "328": {
+   "name": "Jane Garibay",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -5606,6 +5934,7 @@
    ]
   },
   "329": {
+   "name": "Kim Becker",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -5636,6 +5965,7 @@
    ]
   },
   "330": {
+   "name": "Maria Horn",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -5666,6 +5996,7 @@
    ]
   },
   "331": {
+   "name": "Edward M Corey",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -5696,6 +6027,7 @@
    ]
   },
   "332": {
+   "name": "Suzanne Lovig",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -5726,6 +6058,7 @@
    ]
   },
   "333": {
+   "name": "Ronald Napoli Jr.",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -5756,6 +6089,7 @@
    ]
   },
   "334": {
+   "name": "DeWayne K Wynn Jr",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -5786,6 +6120,7 @@
    ]
   },
   "335": {
+   "name": "Nate Brown",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -5816,6 +6151,7 @@
    ]
   },
   "336": {
+   "name": "Mary B Fortier",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -5846,6 +6182,7 @@
    ]
   },
   "337": {
+   "name": "Chad Cardillo",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -5876,6 +6213,7 @@
    ]
   },
   "338": {
+   "name": "Kathleen Kimball",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -5906,6 +6244,7 @@
    ]
   },
   "339": {
+   "name": "Joshua Elliott",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -5936,6 +6275,7 @@
    ]
   },
   "340": {
+   "name": "Laurie Sweet",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -5959,6 +6299,7 @@
    ]
   },
   "341": {
+   "name": "Steven Winter",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -5982,6 +6323,7 @@
    ]
   },
   "342": {
+   "name": "Moira Rader",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -6012,6 +6354,7 @@
    ]
   },
   "343": {
+   "name": "Karen A Martin",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -6042,6 +6385,7 @@
    ]
   },
   "344": {
+   "name": "Robin Comey",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -6072,6 +6416,7 @@
    ]
   },
   "345": {
+   "name": "Kara Rochelle",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -6102,6 +6447,7 @@
    ]
   },
   "346": {
+   "name": "Michelle Embree Ku",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -6132,6 +6478,7 @@
    ]
   },
   "347": {
+   "name": "Anne Weisberg",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -6162,6 +6509,7 @@
    ]
   },
   "348": {
+   "name": "Farley A. Santos",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -6192,6 +6540,7 @@
    ]
   },
   "349": {
+   "name": "Bob Godfrey",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -6222,6 +6571,7 @@
    ]
   },
   "350": {
+   "name": "MJ Shannon",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -6252,6 +6602,7 @@
    ]
   },
   "351": {
+   "name": "Toni Lombardi",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -6282,6 +6633,7 @@
    ]
   },
   "352": {
+   "name": "Kaitlyn Shake",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -6312,6 +6664,7 @@
    ]
   },
   "353": {
+   "name": "Cristin McCarthy Vahey",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -6342,6 +6695,7 @@
    ]
   },
   "354": {
+   "name": "Sarah Keitt",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -6372,6 +6726,7 @@
    ]
   },
   "355": {
+   "name": "Anne M Hughes",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -6402,6 +6757,7 @@
    ]
   },
   "356": {
+   "name": "Kadeem Roberts",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -6432,6 +6788,7 @@
    ]
   },
   "357": {
+   "name": "Ken Gucker",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -6462,6 +6819,7 @@
    ]
   },
   "358": {
+   "name": "Larry Pemberton Jr",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -6499,6 +6857,7 @@
    ]
   },
   "359": {
+   "name": "Dominique Johnson",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -6529,6 +6888,7 @@
    ]
   },
   "360": {
+   "name": "Corey Paris",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -6552,6 +6912,7 @@
    ]
   },
   "361": {
+   "name": "Maryam Khan",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -6582,6 +6943,7 @@
    ]
   },
   "362": {
+   "name": "Saud Anwar",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -6612,6 +6974,7 @@
    ]
   },
   "363": {
+   "name": "MD Rahman",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -6642,6 +7005,7 @@
    ]
   },
   "364": {
+   "name": "Rick Lopes",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -6672,6 +7036,7 @@
    ]
   },
   "365": {
+   "name": "David Kiner",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -6702,6 +7067,7 @@
    ]
   },
   "366": {
+   "name": "Matt Lesser",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -6739,6 +7105,7 @@
    ]
   },
   "367": {
+   "name": "Gary Winfield",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -6762,6 +7129,7 @@
    ]
   },
   "368": {
+   "name": "Christine Cohen",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -6792,6 +7160,7 @@
    ]
   },
   "369": {
+   "name": "Jack Fazzino",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -6822,6 +7191,7 @@
    ]
   },
   "370": {
+   "name": "Jorge Cabrera",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -6852,6 +7222,7 @@
    ]
   },
   "371": {
+   "name": "Catherine A Osten",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -6882,6 +7253,7 @@
    ]
   },
   "372": {
+   "name": "Martha Marx",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -6912,6 +7284,7 @@
    ]
   },
   "373": {
+   "name": "Julie Kushner",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -6942,6 +7315,7 @@
    ]
   },
   "374": {
+   "name": "Mae Flexer",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -6972,6 +7346,7 @@
    ]
   },
   "375": {
+   "name": "Brandi Mandato",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -7002,6 +7377,7 @@
    ]
   },
   "376": {
+   "name": "Ethan Werstler",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ct",
@@ -7032,6 +7408,7 @@
    ]
   },
   "377": {
+   "name": "Kira Alejandro",
    "status": "awaiting",
    "match_status": "auto",
    "source": "de",
@@ -7062,6 +7439,7 @@
    ]
   },
   "378": {
+   "name": "Michelle Booker",
    "status": "awaiting",
    "match_status": "auto",
    "source": "de",
@@ -7085,6 +7463,7 @@
    ]
   },
   "379": {
+   "name": "Branden Fletcher Dominguez",
    "status": "awaiting",
    "match_status": "auto",
    "source": "de",
@@ -7122,6 +7501,7 @@
    ]
   },
   "380": {
+   "name": "Rae Krantz",
    "status": "awaiting",
    "match_status": "auto",
    "source": "de",
@@ -7152,6 +7532,7 @@
    ]
   },
   "381": {
+   "name": "Larry Lambert",
    "status": "awaiting",
    "match_status": "auto",
    "source": "de",
@@ -7182,6 +7563,7 @@
    ]
   },
   "382": {
+   "name": "Sherae’a Moore",
    "status": "awaiting",
    "match_status": "auto",
    "source": "de",
@@ -7212,6 +7594,7 @@
    ]
   },
   "383": {
+   "name": "Kamela Smith",
    "status": "awaiting",
    "match_status": "auto",
    "source": "de",
@@ -7235,6 +7618,7 @@
    ]
   },
   "384": {
+   "name": "Pamela Salaam",
    "status": "awaiting",
    "match_status": "auto",
    "source": "de",
@@ -7265,6 +7649,7 @@
    ]
   },
   "385": {
+   "name": "Sophie Phillips",
    "status": "awaiting",
    "match_status": "auto",
    "source": "de",
@@ -7288,6 +7673,7 @@
    ]
   },
   "386": {
+   "name": "Frank Burns",
    "status": "awaiting",
    "match_status": "auto",
    "source": "de",
@@ -7311,6 +7697,7 @@
    ]
   },
   "387": {
+   "name": "Madinah Wilson-Anton",
    "status": "awaiting",
    "match_status": "auto",
    "source": "de",
@@ -7334,6 +7721,7 @@
    ]
   },
   "388": {
+   "name": "Tyeisha Grier",
    "status": "awaiting",
    "match_status": "auto",
    "source": "de",
@@ -7357,6 +7745,7 @@
    ]
   },
   "389": {
+   "name": "Shay Frisby",
    "status": "awaiting",
    "match_status": "auto",
    "source": "de",
@@ -7394,226 +7783,271 @@
    ]
   },
   "390": {
+   "name": "Robert White",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers DC yet"
   },
   "391": {
+   "name": "Janeese Lewis George",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers DC yet"
   },
   "392": {
+   "name": "Brian Schwalb",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers DC yet"
   },
   "393": {
+   "name": "Aparna Raj",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers DC yet"
   },
   "394": {
+   "name": "Rashida Brown",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers DC yet"
   },
   "395": {
+   "name": "Zachary Parker",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers DC yet"
   },
   "396": {
+   "name": "Charles Allen",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers DC yet"
   },
   "397": {
+   "name": "Oye Olowela",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers DC yet"
   },
   "398": {
+   "name": "Angie Nixon",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers FL yet"
   },
   "399": {
+   "name": "Gabriel Sanchez",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers GA yet"
   },
   "400": {
+   "name": "Amanda Hollowell",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers GA yet"
   },
   "401": {
+   "name": "Nikki Porcher",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers GA yet"
   },
   "402": {
+   "name": "Peter Hubbard",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers GA yet"
   },
   "403": {
+   "name": "Shelia Edwards",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers GA yet"
   },
   "404": {
+   "name": "Cynthia Starke-Jones",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers GA yet"
   },
   "405": {
+   "name": "Danielle Bell",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers GA yet"
   },
   "406": {
+   "name": "Michelle Schreiner",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers GA yet"
   },
   "407": {
+   "name": "Dumont Walker",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers GA yet"
   },
   "408": {
+   "name": "Bryce Berry",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers GA yet"
   },
   "409": {
+   "name": "Mathewos Samson",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers GA yet"
   },
   "410": {
+   "name": "Kenn Collier",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers GA yet"
   },
   "411": {
+   "name": "Kim Schofield",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers GA yet"
   },
   "412": {
+   "name": "Bentley Hudgins",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers GA yet"
   },
   "413": {
+   "name": "Jyot Singh",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers GA yet"
   },
   "414": {
+   "name": "Marvin Lim",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers GA yet"
   },
   "415": {
+   "name": "Michelle Kang",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers GA yet"
   },
   "416": {
+   "name": "Akbar Ali",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers GA yet"
   },
   "417": {
+   "name": "Juan Estrada",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers GA yet"
   },
   "418": {
+   "name": "Regina Lewis-Ward",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers GA yet"
   },
   "419": {
+   "name": "El-Mahdi Holly",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers GA yet"
   },
   "420": {
+   "name": "Suzanna Karatassos",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers GA yet"
   },
   "421": {
+   "name": "Anissa Jones",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers GA yet"
   },
   "422": {
+   "name": "Ethan Wolfe",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers GA yet"
   },
   "423": {
+   "name": "Keyanna Jones Moore",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers GA yet"
   },
   "424": {
+   "name": "Stephanie Burgess",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers GA yet"
   },
   "425": {
+   "name": "Ruwa Romman",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers GA yet"
   },
   "426": {
+   "name": "Nikki Merritt",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers GA yet"
   },
   "427": {
+   "name": "Kenya Wicks",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers GA yet"
   },
   "428": {
+   "name": "Jodi Merriday",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers GA yet"
   },
   "429": {
+   "name": "Rohit Malhotra",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers GA yet"
   },
   "430": {
+   "name": "Charles Booker",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers KY yet"
   },
   "431": {
+   "name": "Simone Levine",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers LA yet"
   },
   "432": {
+   "name": "Troy Jackson",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers ME yet"
   },
   "433": {
+   "name": "Jacqueline Sartoris",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers ME yet"
   },
   "434": {
+   "name": "Sarah David",
    "status": "awaiting",
    "match_status": "auto",
    "source": "md",
@@ -7637,6 +8071,7 @@
    ]
   },
   "435": {
+   "name": "Karl Bickel",
    "status": "awaiting",
    "match_status": "auto",
    "source": "md",
@@ -7667,6 +8102,7 @@
    ]
   },
   "436": {
+   "name": "Janssen Evelyn",
    "status": "awaiting",
    "match_status": "auto",
    "source": "md",
@@ -7690,6 +8126,7 @@
    ]
   },
   "437": {
+   "name": "Chuck Cook",
    "status": "awaiting",
    "match_status": "auto",
    "source": "md",
@@ -7720,6 +8157,7 @@
    ]
   },
   "438": {
+   "name": "Will Jawando",
    "status": "awaiting",
    "match_status": "auto",
    "source": "md",
@@ -7750,6 +8188,7 @@
    ]
   },
   "439": {
+   "name": "Michelle García",
    "status": "awaiting",
    "match_status": "auto",
    "source": "md",
@@ -7773,6 +8212,7 @@
    ]
   },
   "440": {
+   "name": "Victor Ramirez",
    "status": "awaiting",
    "match_status": "auto",
    "source": "md",
@@ -7796,6 +8236,7 @@
    ]
   },
   "441": {
+   "name": "Shayla Adams-Stafford",
    "status": "awaiting",
    "match_status": "auto",
    "source": "md",
@@ -7819,6 +8260,7 @@
    ]
   },
   "442": {
+   "name": "Tamara Davis Brown",
    "status": "awaiting",
    "match_status": "auto",
    "source": "md",
@@ -7849,231 +8291,277 @@
    ]
   },
   "443": {
+   "name": "Lorena Betts",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MA yet"
   },
   "444": {
+   "name": "Jack Richardson",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MA yet"
   },
   "445": {
+   "name": "Tom Hendrickson",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MA yet"
   },
   "446": {
+   "name": "Lora Wondolowski",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MA yet"
   },
   "447": {
+   "name": "Celina Reyes",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MA yet"
   },
   "448": {
+   "name": "Johnnie McKnight",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MA yet"
   },
   "449": {
+   "name": "John Drinkwater",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MA yet"
   },
   "450": {
+   "name": "Tara Hong",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MA yet"
   },
   "451": {
+   "name": "Ben Ewen-Campen",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MA yet"
   },
   "452": {
+   "name": "Shannon Teabo",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MA yet"
   },
   "453": {
+   "name": "Latoya Gayle",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MA yet"
   },
   "454": {
+   "name": "Daniel Lander",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MA yet"
   },
   "455": {
+   "name": "Carey McDonald",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MA yet"
   },
   "456": {
+   "name": "Abdul El-Sayed",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MI yet"
   },
   "457": {
+   "name": "William Lawrence",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MI yet"
   },
   "458": {
+   "name": "Rashida Tlaib",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MI yet"
   },
   "459": {
+   "name": "Donavan McKinney",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MI yet"
   },
   "460": {
+   "name": "Garlin Gilchrist",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MI yet"
   },
   "461": {
+   "name": "Eli Savit",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MI yet"
   },
   "462": {
+   "name": "Tonya Meyers Phillips",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MI yet"
   },
   "463": {
+   "name": "Chris Gilmer-Hill",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MI yet"
   },
   "464": {
+   "name": "Kimberly Fisher",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MI yet"
   },
   "465": {
+   "name": "Jason Morgan",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MI yet"
   },
   "466": {
+   "name": "Dylan Wegela",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MI yet"
   },
   "467": {
+   "name": "Jaime Churches",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MI yet"
   },
   "468": {
+   "name": "Katrina Manetta",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MI yet"
   },
   "469": {
+   "name": "Emily Dievendorf",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MI yet"
   },
   "470": {
+   "name": "Abbas Alawieh",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MI yet"
   },
   "471": {
+   "name": "Yousef Rabhi",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MI yet"
   },
   "472": {
+   "name": "Ryan Bartholomew",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MI yet"
   },
   "473": {
+   "name": "Kenzie Colton",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MI yet"
   },
   "474": {
+   "name": "Chris Runberg",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MI yet"
   },
   "475": {
+   "name": "Jeffrey Sheridan",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MN yet"
   },
   "476": {
+   "name": "Cedrick Frazier",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MN yet"
   },
   "477": {
+   "name": "Makayla Danner",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Douglas local races yet"
   },
   "478": {
+   "name": "Mark Martinez",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Douglas local races yet"
   },
   "479": {
+   "name": "Randall Ritnour",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source carries Lancaster local races yet"
   },
   "480": {
+   "name": "LaMonica McIver",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NJ yet"
   },
   "481": {
+   "name": "Analilia Mejia",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NJ yet"
   },
   "482": {
+   "name": "Ras Baraka",
    "status": "not_on_ballot",
    "match_status": "not_on_ballot",
    "note": "Decided May 12, 2026: Baraka won a fourth term (~70%)."
   },
   "483": {
+   "name": "Ron Bautista",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NJ yet"
   },
   "484": {
+   "name": "Bill O’Dea",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NJ yet"
   },
   "485": {
+   "name": "Pam Johnson",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NJ yet"
   },
   "486": {
+   "name": "Alex Valdez",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NJ yet"
   },
   "487": {
+   "name": "Shantell Cherry",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NJ yet"
   },
   "488": {
+   "name": "Deb Haaland",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -8104,6 +8592,7 @@
    ]
   },
   "489": {
+   "name": "Stephanie Garcia Richard",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -8134,6 +8623,7 @@
    ]
   },
   "490": {
+   "name": "Amanda Lopez Askin",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -8164,6 +8654,7 @@
    ]
   },
   "491": {
+   "name": "Juan De Jesus Sanchez III",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -8194,6 +8685,7 @@
    ]
   },
   "492": {
+   "name": "Gabe Vasquez",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -8224,6 +8716,7 @@
    ]
   },
   "493": {
+   "name": "Eric Olivas",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -8254,6 +8747,7 @@
    ]
   },
   "494": {
+   "name": "Cari Power",
    "status": "awaiting",
    "match_status": "needs_review",
    "source": "nm",
@@ -8284,6 +8778,7 @@
    ]
   },
   "495": {
+   "name": "Daisy Maldonado",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -8314,6 +8809,7 @@
    ]
   },
   "496": {
+   "name": "Elouise Brown",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -8351,6 +8847,7 @@
    ]
   },
   "497": {
+   "name": "Paul Madrid",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -8381,6 +8878,7 @@
    ]
   },
   "498": {
+   "name": "Frank Smith",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -8411,6 +8909,7 @@
    ]
   },
   "499": {
+   "name": "Katherine Gauer",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -8441,6 +8940,7 @@
    ]
   },
   "500": {
+   "name": "G. Andres Romero",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -8471,6 +8971,7 @@
    ]
   },
   "501": {
+   "name": "Javier Martinez",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -8494,6 +8995,7 @@
    ]
   },
   "502": {
+   "name": "Patricia Roybal Caballero",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -8517,6 +9019,7 @@
    ]
   },
   "503": {
+   "name": "Miguel Garcia",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -8547,6 +9050,7 @@
    ]
   },
   "504": {
+   "name": "Marianna Anaya",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -8570,6 +9074,7 @@
    ]
   },
   "505": {
+   "name": "Janelle Anyanonu",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -8593,6 +9098,7 @@
    ]
   },
   "506": {
+   "name": "Liz Thomson",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -8616,6 +9122,7 @@
    ]
   },
   "507": {
+   "name": "Cristina Parajón",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -8646,6 +9153,7 @@
    ]
   },
   "508": {
+   "name": "Eleanor Chávez",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -8676,6 +9184,7 @@
    ]
   },
   "509": {
+   "name": "Abby Foster",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -8706,6 +9215,7 @@
    ]
   },
   "510": {
+   "name": "Pamelya Herndon",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -8736,6 +9246,7 @@
    ]
   },
   "511": {
+   "name": "Joy Garratt",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -8766,6 +9277,7 @@
    ]
   },
   "512": {
+   "name": "Elizabeth Diane Torrez-Velasquez",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -8796,6 +9308,7 @@
    ]
   },
   "513": {
+   "name": "Laura Parra",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -8826,6 +9339,7 @@
    ]
   },
   "514": {
+   "name": "Micaela Lara Cadena",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -8856,6 +9370,7 @@
    ]
   },
   "515": {
+   "name": "Angelica Rubio",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -8879,6 +9394,7 @@
    ]
   },
   "516": {
+   "name": "Lori Martinez",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -8909,6 +9425,7 @@
    ]
   },
   "517": {
+   "name": "David Mooney",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -8939,6 +9456,7 @@
    ]
   },
   "518": {
+   "name": "Kristina Ortez",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -8962,6 +9480,7 @@
    ]
   },
   "519": {
+   "name": "Kathleen Cates",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -8992,6 +9511,7 @@
    ]
   },
   "520": {
+   "name": "Linda Serrato",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -9015,6 +9535,7 @@
    ]
   },
   "521": {
+   "name": "Andrea Romero",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -9038,6 +9559,7 @@
    ]
   },
   "522": {
+   "name": "Reena Szczepanski",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -9061,6 +9583,7 @@
    ]
   },
   "523": {
+   "name": "Sarah Silva",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -9091,6 +9614,7 @@
    ]
   },
   "524": {
+   "name": "Luke Jungmann",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -9121,6 +9645,7 @@
    ]
   },
   "525": {
+   "name": "Charlotte Little",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nm",
@@ -9151,1956 +9676,2347 @@
    ]
   },
   "526": {
+   "name": "Kathy Hochul",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "527": {
+   "name": "Adrienne Adams",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "528": {
+   "name": "Letitia James",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "529": {
+   "name": "Tom DiNapoli",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "530": {
+   "name": "Chris Gallant",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "531": {
+   "name": "Pat Halpin",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "532": {
+   "name": "Claire Valdez",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "533": {
+   "name": "Brad Lander",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "534": {
+   "name": "Darializa Avila Chevalier",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "535": {
+   "name": "Alexandria Ocasio-Cortez",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "536": {
+   "name": "Cait Conley",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "537": {
+   "name": "Pat Ryan",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "538": {
+   "name": "Josh Riley",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "539": {
+   "name": "Paul Tonko",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "540": {
+   "name": "John Mannion",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "541": {
+   "name": "Aaron Gies",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "542": {
+   "name": "Alissa Ellman",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "543": {
+   "name": "Joe Morelle",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "544": {
+   "name": "Tim Kennedy",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "545": {
+   "name": "Christopher Murray",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "546": {
+   "name": "Antonio Vargas",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "547": {
+   "name": "Monica Martinez",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "548": {
+   "name": "Siela Bynoe",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "549": {
+   "name": "Joshua Taveras",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "550": {
+   "name": "Thomas J. Schiavoni",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "551": {
+   "name": "Joshua Slaughter",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "552": {
+   "name": "Philip R Ramos",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "553": {
+   "name": "Patricia Kopp",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "554": {
+   "name": "Craig Herskowitz",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "555": {
+   "name": "Noah Burroughs",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "556": {
+   "name": "Michaelle C Solages",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "557": {
+   "name": "Carrie Solages",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "558": {
+   "name": "Kathee Burke-Gonzalez",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "559": {
+   "name": "James Mack",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "560": {
+   "name": "Sara Topping",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "561": {
+   "name": "Joseph McLoughlin",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "562": {
+   "name": "Matthew Parsons",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "563": {
+   "name": "James Sanders",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "564": {
+   "name": "Jessica González-Rojas",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "565": {
+   "name": "Aber Kawas",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "566": {
+   "name": "John Liu",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "567": {
+   "name": "Julia Salazar",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "568": {
+   "name": "Zellnor Myrie",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "569": {
+   "name": "Jabari Brisport",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "570": {
+   "name": "Andrew Gounardes",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "571": {
+   "name": "Grace Lee",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "572": {
+   "name": "Jose Serrano",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "573": {
+   "name": "Cordell Cleare",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "574": {
+   "name": "Robert Jackson",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "575": {
+   "name": "Gustavo Rivera",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "576": {
+   "name": "Nathalia Fernandez",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "577": {
+   "name": "Erik Bottcher",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "578": {
+   "name": "Kristen Gonzalez",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "579": {
+   "name": "Andrew Hevesi",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "580": {
+   "name": "Alicia Hyndman",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "581": {
+   "name": "Khaleel Anderson",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "582": {
+   "name": "Brian Romero",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "583": {
+   "name": "Larinda Hooks",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "584": {
+   "name": "Diana Moreno",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "585": {
+   "name": "Samantha Kattan",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "586": {
+   "name": "David Orkin",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "587": {
+   "name": "Catalina Cruz",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "588": {
+   "name": "Ron Kim",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "589": {
+   "name": "Brian Cunningham",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "590": {
+   "name": "Robert Carroll",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "591": {
+   "name": "Chris McCreight",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "592": {
+   "name": "Emily Gallagher",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "593": {
+   "name": "Marcela Mitaynes",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "594": {
+   "name": "Jo Anne Simon",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "595": {
+   "name": "Christian Celeste Tate",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "596": {
+   "name": "Latrice Walker",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "597": {
+   "name": "Eon Huntley",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "598": {
+   "name": "Phara Souffrant Forrest",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "599": {
+   "name": "Monique Chandler-Waterman",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "600": {
+   "name": "Illapa Sairitupac",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "601": {
+   "name": "David Siffert",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "602": {
+   "name": "Linda Rosenthal",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "603": {
+   "name": "Diana Ayala",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "604": {
+   "name": "Eli Northrup",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "605": {
+   "name": "Al Taylor",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "606": {
+   "name": "Manny de los Santos",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "607": {
+   "name": "Vanessa Aronson",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "608": {
+   "name": "Tony Simone",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "609": {
+   "name": "Rebecca Seawright",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "610": {
+   "name": "George Alvarez",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "611": {
+   "name": "Amanda Septimo",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "612": {
+   "name": "Emérita Torres",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "613": {
+   "name": "Karines Reyes",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "614": {
+   "name": "Janice Purvis",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "615": {
+   "name": "Andrea Stewart-Cousins",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "616": {
+   "name": "Shelley Mayer",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "617": {
+   "name": "Joe Rand",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "618": {
+   "name": "Peter Harckham",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "619": {
+   "name": "Lisa Kaul",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "620": {
+   "name": "Michelle Hinchey",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "621": {
+   "name": "James Skoufis",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "622": {
+   "name": "Michele Frazier",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "623": {
+   "name": "Amy Paulin",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "624": {
+   "name": "Steven Otis",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "625": {
+   "name": "MaryJane Shimsky",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "626": {
+   "name": "Dana Levenberg",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "627": {
+   "name": "Patrick Carroll",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "628": {
+   "name": "Chris Eachus",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "629": {
+   "name": "Sarahana Shrestha",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "630": {
+   "name": "Jonathan Jacobson",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "631": {
+   "name": "Colin Smith",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "632": {
+   "name": "Erika Pierce",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "633": {
+   "name": "Jennifer Puja",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "634": {
+   "name": "Emiljana Ulaj",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "635": {
+   "name": "David Imamura",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "636": {
+   "name": "Kisha Skipper",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "637": {
+   "name": "Leslye Oquendo-Thomas",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "638": {
+   "name": "Elizabeth Feldman",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "639": {
+   "name": "Richard Becker",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "640": {
+   "name": "Paul Feiner",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "641": {
+   "name": "Ellen Calves",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "642": {
+   "name": "Antonio Goncalves",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "643": {
+   "name": "Kevin Hansan",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "644": {
+   "name": "Catherine Sayles",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "645": {
+   "name": "Maria Slippen",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "646": {
+   "name": "Len Simon",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "647": {
+   "name": "Ali Raza Jaffery",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "648": {
+   "name": "Paul Rinaldi",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "649": {
+   "name": "Morgen Fleisig",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "650": {
+   "name": "Reid Kornman",
    "status": "not_on_ballot",
    "match_status": "not_on_ballot",
    "note": "Eastchester UFSD board election was held in May 2026."
   },
   "651": {
+   "name": "Brett Yarris",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "652": {
+   "name": "Maia Gilleo",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "653": {
+   "name": "Alex Sewell",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "654": {
+   "name": "Eugene Bondar",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "655": {
+   "name": "Greg Sheehan",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "656": {
+   "name": "Joe Damiani",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "657": {
+   "name": "Sylke Jackson",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "658": {
+   "name": "Susan Bloom",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "659": {
+   "name": "Gina DeFelice",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "660": {
+   "name": "Bernard Rivers",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "661": {
+   "name": "Steven Krasner",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "662": {
+   "name": "Jennifer Knox",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "663": {
+   "name": "Kenyon Trachte",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "664": {
+   "name": "Josh Wojehowski",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "665": {
+   "name": "Scott Teresi",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "666": {
+   "name": "Joseph Cocchiara",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "667": {
+   "name": "Michele Marte-Indzonka",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "668": {
+   "name": "Jean Day",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "669": {
+   "name": "Don Sileo",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "670": {
+   "name": "Steven Vinella",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "671": {
+   "name": "Ashley Dmitrieff",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "672": {
+   "name": "Robert Courtenay",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "673": {
+   "name": "Stephen Diffley",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "674": {
+   "name": "Ryan Senning",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "675": {
+   "name": "Samuel Bergsohn",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "676": {
+   "name": "Robert Middlemiss",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "677": {
+   "name": "Stephanie Vandemark",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "678": {
+   "name": "Phil Howard",
    "status": "not_on_ballot",
    "match_status": "not_on_ballot",
    "note": "Decided May 19, 2026 (Newburgh ECSD); reported re-elected."
   },
   "679": {
+   "name": "Letitia Politi",
    "status": "not_on_ballot",
    "match_status": "not_on_ballot",
    "note": "Decided May 19, 2026 (Newburgh ECSD); reported re-elected."
   },
   "680": {
+   "name": "Ramiro Burgarelli",
    "status": "not_on_ballot",
    "match_status": "not_on_ballot",
    "note": "Decided May 19, 2026 (Newburgh ECSD); reported re-elected."
   },
   "681": {
+   "name": "Trevor Redl",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "682": {
+   "name": "Emma Arnoff",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "683": {
+   "name": "David Siegel",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "684": {
+   "name": "Brandan Lawler",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "685": {
+   "name": "Annuja Shah",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "686": {
+   "name": "Trish Prunty",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "687": {
+   "name": "Craig Brendli",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "688": {
+   "name": "Barrington Atkins",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "689": {
+   "name": "Nakia Simmons",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "690": {
+   "name": "Brennan Kearney",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "691": {
+   "name": "Keith Odums",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "692": {
+   "name": "Alix Winsby",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "693": {
+   "name": "Kyle Fendrich",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "694": {
+   "name": "Yvette Valdés Smith",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "695": {
+   "name": "Mike Schade",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "696": {
+   "name": "Molly Rhodes",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "697": {
+   "name": "Christopher Drago",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "698": {
+   "name": "Kristofer Munn",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "699": {
+   "name": "Francine Caracappa",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "700": {
+   "name": "Heidi Tucci",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "701": {
+   "name": "Martin Mygan",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "702": {
+   "name": "August Uribe",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "703": {
+   "name": "Eric Alexander",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "704": {
+   "name": "Rebecca Edwards",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "705": {
+   "name": "Linzy Dineen",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "706": {
+   "name": "Shanthakumar Thangiah",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "707": {
+   "name": "Emily Watson",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "708": {
+   "name": "Ryan Sharpe",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "709": {
+   "name": "Ann Shershin",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "710": {
+   "name": "Marc Prine",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "711": {
+   "name": "Greg Komar",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "712": {
+   "name": "Paul Donnelly",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "713": {
+   "name": "Rogerrio Rodriguez",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "714": {
+   "name": "Rosanna Hamm",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "715": {
+   "name": "Meghan Murphy-Borland",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "716": {
+   "name": "Julia Descoteaux",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "717": {
+   "name": "Heather O’Dell",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "718": {
+   "name": "Juan Figueroa",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "719": {
+   "name": "Ann Peters",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "720": {
+   "name": "Kate Leon",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "721": {
+   "name": "Michael Berardi",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "722": {
+   "name": "Abe Uchitelle",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "723": {
+   "name": "Greg McCollough",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "724": {
+   "name": "Peter Criswell",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "725": {
+   "name": "Joseph Donaldson",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "726": {
+   "name": "Amy Dooley",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "727": {
+   "name": "Dominick Marino",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "728": {
+   "name": "Laura Donovan",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "729": {
+   "name": "Marisa McClinton",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "730": {
+   "name": "Adrienne Gelfand-Perine",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "731": {
+   "name": "Debra Clinton",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "732": {
+   "name": "Pierette Farber",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "733": {
+   "name": "Eric Stewart",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "734": {
+   "name": "Lindsey Grossman",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "735": {
+   "name": "Kenneth Stephens",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "736": {
+   "name": "Robert Drake",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "737": {
+   "name": "Jeffery Collins",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "738": {
+   "name": "Fred Costello",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "739": {
+   "name": "Alexandria Smith",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "740": {
+   "name": "Alexandria Wojcik",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "741": {
+   "name": "Al Lanzetta",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "742": {
+   "name": "Rolando Garcia",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "743": {
+   "name": "Hayden Kellermeyer",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "744": {
+   "name": "Roscoe Pecora",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "745": {
+   "name": "Charlotte Smiseth",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "746": {
+   "name": "Lynn Corcoran-Johnston",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "747": {
+   "name": "Devin Lander",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "748": {
+   "name": "Sarah Rogerson",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "749": {
+   "name": "Melissa T Seale",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "750": {
+   "name": "Pat Fahy",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "751": {
+   "name": "Janet Tweed",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "752": {
+   "name": "Chloe Pierce",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "753": {
+   "name": "Gabriella Romero",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "754": {
+   "name": "Phil Steck",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "755": {
+   "name": "Mario Fantini",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "756": {
+   "name": "John Gunther",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "757": {
+   "name": "Michael Cashman",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "758": {
+   "name": "Racquel Saddler",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "759": {
+   "name": "Peter Barber",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "760": {
+   "name": "Bryan Clenahan",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "761": {
+   "name": "Lisa Renee Williams",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "762": {
+   "name": "Deanna Rizzo",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "763": {
+   "name": "Justin Chaires",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "764": {
+   "name": "Brian Zweig",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "765": {
+   "name": "James McCarthy",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "766": {
+   "name": "Kristen Kelley",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "767": {
+   "name": "Sonja Renee Okun",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "768": {
+   "name": "Marty O’Connor",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "769": {
+   "name": "Ram Lalukota",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "770": {
+   "name": "Caitlin Fantini",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "771": {
+   "name": "Lee Jamison",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "772": {
+   "name": "Keith Bruno",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "773": {
+   "name": "Jaime A Douthat",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "774": {
+   "name": "Marvin Shaw",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "775": {
+   "name": "Charles Kostyk",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "776": {
+   "name": "Ilona Selzer-Kelting",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "777": {
+   "name": "Jay White",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "778": {
+   "name": "Kaitlin Parker",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "779": {
+   "name": "Ellen McHale",
    "status": "not_on_ballot",
    "match_status": "not_on_ballot",
    "note": "Not on the Nov 3 ballot. Won a Charleston council seat in Nov 2025 (182 votes, 44 on the WFP line). The 2026 Charleston ballot has only an unexpired-term council seat (Nicholas R. Quill, R, unopposed)"
   },
   "780": {
+   "name": "James Michael Sienkiewycz",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "781": {
+   "name": "Rachel May",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "782": {
+   "name": "Cassie L. Robbins-Forbus",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "783": {
+   "name": "Chris Ryan",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "784": {
+   "name": "Lea Webb",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "785": {
+   "name": "Mandi E. Drake",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "786": {
+   "name": "Dennis Gordon",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "787": {
+   "name": "Jonathan Lipe",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "788": {
+   "name": "Ihor Semko",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "789": {
+   "name": "Andrew G Fagan",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "790": {
+   "name": "Anna Kelles",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "791": {
+   "name": "Ian Phillips",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "792": {
+   "name": "Al Stirpe",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "793": {
+   "name": "Pam Hunter",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "794": {
+   "name": "Maurice Brown",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "795": {
+   "name": "Justin Neal",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "796": {
+   "name": "Jeremiah Thompson",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "797": {
+   "name": "Ellen Block",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "798": {
+   "name": "Gregory Eriksen",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "799": {
+   "name": "Chad Ryan",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "800": {
+   "name": "Erica Nicole Watts",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "801": {
+   "name": "Elaine Denton",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "802": {
+   "name": "Phil Dilmore",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "803": {
+   "name": "Blake Carter",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "804": {
+   "name": "Jessica Dapson",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "805": {
+   "name": "Joseph Bennett",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "806": {
+   "name": "Charlene Tarver",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "807": {
+   "name": "Nodesia Hernandez",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "808": {
+   "name": "Jeffrey Leibo",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "809": {
+   "name": "Sara Wall Bollinger",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "810": {
+   "name": "Brett Edkins",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "811": {
+   "name": "Rob Santucci",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "812": {
+   "name": "Heidi McElwee",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "813": {
+   "name": "Sydney Szczesniak",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "814": {
+   "name": "Frederick Page Steinhardt",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "815": {
+   "name": "John O’Hara",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "816": {
+   "name": "Rachel Graham",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "817": {
+   "name": "Michael D. Brown",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "818": {
+   "name": "Jacob T. Addington",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "819": {
+   "name": "Leslie Berliant",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "820": {
+   "name": "Thomas N. Theall",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "821": {
+   "name": "Maria McNiel",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "822": {
+   "name": "Joseph Furgol",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "823": {
+   "name": "Venice A. Ervin",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "824": {
+   "name": "Lori A. Washburn",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "825": {
+   "name": "Kellyann Mercurio Bianco",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "826": {
+   "name": "Matt Ryan",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "827": {
+   "name": "Jennings Terrell",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "828": {
+   "name": "Scott Wager",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "829": {
+   "name": "Autumn Lester",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "830": {
+   "name": "Chris Moore",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "831": {
+   "name": "Mary Kaminsky",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "832": {
+   "name": "Timothy Ames",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "833": {
+   "name": "Robert Egan",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "834": {
+   "name": "Lisa Smith",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "835": {
+   "name": "Meggan Taylor",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "836": {
+   "name": "Meghan Jacobs",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "837": {
+   "name": "Joshua Shapiro",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "838": {
+   "name": "Leona Perreault",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "839": {
+   "name": "Joseph Picalila",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "840": {
+   "name": "Manford Benjamin Susman",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "841": {
+   "name": "Heather J. McGregor",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "842": {
+   "name": "Samra Brouk",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "843": {
+   "name": "Jeremy Cooney",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "844": {
+   "name": "Victoria Guite-Williams",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "845": {
+   "name": "Jonathan Rivera",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "846": {
+   "name": "Thomas Arida",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "847": {
+   "name": "April McCants-Baskin",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "848": {
+   "name": "Kurtis VanWuyckhuyse",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "849": {
+   "name": "Jennifer Lunsford",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "850": {
+   "name": "Sarah Clark",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "851": {
+   "name": "Demond Meeks",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "852": {
+   "name": "Harry Bronson",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "853": {
+   "name": "William “Bill” Conrad",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "854": {
+   "name": "Patrick Burke",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "855": {
+   "name": "Ryan Taughrin",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "856": {
+   "name": "Donna L Dye Sholk",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "857": {
+   "name": "Adam Bojak",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "858": {
+   "name": "Thomas Carle",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "859": {
+   "name": "Steven Meyer",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "860": {
+   "name": "Lawrence Dupre",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "861": {
+   "name": "Taisha St. Jean Tard",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "862": {
+   "name": "Jeanne Vinal",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "863": {
+   "name": "Bharathy (Rathi) S Ravichandran (Ravi)",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "864": {
+   "name": "Timothy Meyers",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "865": {
+   "name": "Sara Marmion",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "866": {
+   "name": "John Gilmour",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "867": {
+   "name": "Zachary L Beaudoin",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "868": {
+   "name": "Raymond Wrazen",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "869": {
+   "name": "Molly Flynn",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "870": {
+   "name": "Rachel Martinez",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "871": {
+   "name": "Nathaniel V Salzman",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "872": {
+   "name": "John Perticone",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "873": {
+   "name": "Kathryn Walker",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "874": {
+   "name": "Maximillian Gordon",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "875": {
+   "name": "Alex Scialdone",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "876": {
+   "name": "Kevin Berry",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "877": {
+   "name": "Nicholas Coffee",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "878": {
+   "name": "Emily Wallace-Kalouch",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "879": {
+   "name": "Ryan McDonald",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "880": {
+   "name": "Frank Femia",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "881": {
+   "name": "Amorette Miller",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "882": {
+   "name": "Jennifer Townsend",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "883": {
+   "name": "Catherine Dean",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "884": {
+   "name": "Sarah Nazarian",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "885": {
+   "name": "Heidi Woika",
    "status": "not_on_ballot",
    "match_status": "not_on_ballot",
    "note": "Fairport village elections were March 18, 2026 (Monroe County list)."
   },
   "886": {
+   "name": "Matthew Brown",
    "status": "not_on_ballot",
    "match_status": "not_on_ballot",
    "note": "Fairport village elections were March 18, 2026 (Monroe County list)."
   },
   "887": {
+   "name": "Adam Bonosky",
    "status": "not_on_ballot",
    "match_status": "not_on_ballot",
    "note": "Fairport village elections were March 18, 2026 (Monroe County list)."
   },
   "888": {
+   "name": "Matthew Chavez",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "889": {
+   "name": "Jeffrey Elder",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "890": {
+   "name": "Johnny Parks",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "891": {
+   "name": "Sam Farruggia II",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "892": {
+   "name": "Doug Mooradian",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "893": {
+   "name": "Matthew Kennedy",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "894": {
+   "name": "John Lavelle",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "895": {
+   "name": "Carla Speranza",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "896": {
+   "name": "Jocelyn Welton",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "897": {
+   "name": "Maria Fabrizio",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "898": {
+   "name": "Duncan Ross",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "899": {
+   "name": "Alexandria Moss",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "900": {
+   "name": "Marcus Sam Buchanan",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "901": {
+   "name": "Robert Bankoski",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "902": {
+   "name": "Michael Lee",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "903": {
+   "name": "Kevin K O’Connell",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "904": {
+   "name": "Carla Michelle Rodriguez",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "905": {
+   "name": "Julie Jackson-Forsberg",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "906": {
+   "name": "Frederick Larson",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "907": {
+   "name": "Thomas Nelson",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "908": {
+   "name": "Christopher Deblass",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "909": {
+   "name": "Melissa First",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "910": {
+   "name": "John Hamels",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "911": {
+   "name": "EvaDawn Bashaw",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "912": {
+   "name": "Kristin Colburn",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "913": {
+   "name": "Ann Marie Sitter-Tompkins",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "914": {
+   "name": "Susan Wilks",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "915": {
+   "name": "Meg Magnusen",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers NY yet"
   },
   "916": {
+   "name": "Shannon Long",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nc",
@@ -11131,6 +12047,7 @@
    ]
   },
   "917": {
+   "name": "Anita Earls",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nc",
@@ -11161,6 +12078,7 @@
    ]
   },
   "918": {
+   "name": "Marcia Morey",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nc",
@@ -11191,6 +12109,7 @@
    ]
   },
   "919": {
+   "name": "Alma Adams",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nc",
@@ -11221,6 +12140,7 @@
    ]
   },
   "920": {
+   "name": "Renée Ann Price",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nc",
@@ -11244,6 +12164,7 @@
    ]
   },
   "921": {
+   "name": "Rodney Pierce",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nc",
@@ -11274,6 +12195,7 @@
    ]
   },
   "922": {
+   "name": "Rev. Rodney Sadler",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nc",
@@ -11297,6 +12219,7 @@
    ]
   },
   "923": {
+   "name": "Satana Deberry",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nc",
@@ -11320,6 +12243,7 @@
    ]
   },
   "924": {
+   "name": "Garry McFadden",
    "status": "awaiting",
    "match_status": "auto",
    "source": "nc",
@@ -11343,6 +12267,7 @@
    ]
   },
   "925": {
+   "name": "Annette Blackwell",
    "status": "awaiting",
    "match_status": "needs_review",
    "source": "oh",
@@ -11373,6 +12298,7 @@
    ]
   },
   "926": {
+   "name": "Brian Poindexter",
    "status": "awaiting",
    "match_status": "auto",
    "source": "oh",
@@ -11403,6 +12329,7 @@
    ]
   },
   "927": {
+   "name": "Vanessa Enoch",
    "status": "awaiting",
    "match_status": "auto",
    "source": "oh",
@@ -11433,6 +12360,7 @@
    ]
   },
   "928": {
+   "name": "Alison Hatheway",
    "status": "awaiting",
    "match_status": "auto",
    "source": "oh.hamilton",
@@ -11456,6 +12384,7 @@
    ]
   },
   "929": {
+   "name": "Nicole L. Sanders",
    "status": "awaiting",
    "match_status": "auto",
    "source": "oh.hamilton",
@@ -11479,6 +12408,7 @@
    ]
   },
   "930": {
+   "name": "Kari L. Bloom",
    "status": "awaiting",
    "match_status": "auto",
    "source": "oh.hamilton",
@@ -11509,6 +12439,7 @@
    ]
   },
   "931": {
+   "name": "Charity Martin King",
    "status": "awaiting",
    "match_status": "auto",
    "source": "oh",
@@ -11532,6 +12463,7 @@
    ]
   },
   "932": {
+   "name": "Meredith Ruth Lawson-Rowe",
    "status": "awaiting",
    "match_status": "auto",
    "source": "oh",
@@ -11562,6 +12494,7 @@
    ]
   },
   "933": {
+   "name": "Munira Abdullahi",
    "status": "awaiting",
    "match_status": "auto",
    "source": "oh",
@@ -11592,6 +12525,7 @@
    ]
   },
   "934": {
+   "name": "Tristan Rader",
    "status": "awaiting",
    "match_status": "auto",
    "source": "oh",
@@ -11622,6 +12556,7 @@
    ]
   },
   "935": {
+   "name": "Davida Russell",
    "status": "awaiting",
    "match_status": "auto",
    "source": "oh",
@@ -11652,6 +12587,7 @@
    ]
   },
   "936": {
+   "name": "Karen Brownlee",
    "status": "awaiting",
    "match_status": "auto",
    "source": "oh",
@@ -11682,6 +12618,7 @@
    ]
   },
   "937": {
+   "name": "Jonathan Bradner",
    "status": "awaiting",
    "match_status": "auto",
    "source": "oh",
@@ -11712,6 +12649,7 @@
    ]
   },
   "938": {
+   "name": "Caleb Price",
    "status": "awaiting",
    "match_status": "auto",
    "source": "oh",
@@ -11742,6 +12680,7 @@
    ]
   },
   "939": {
+   "name": "Rose Lounsbury",
    "status": "awaiting",
    "match_status": "auto",
    "source": "oh",
@@ -11779,6 +12718,7 @@
    ]
   },
   "940": {
+   "name": "Tom Herner",
    "status": "awaiting",
    "match_status": "auto",
    "source": "oh",
@@ -11809,6 +12749,7 @@
    ]
   },
   "941": {
+   "name": "Daquan Neal",
    "status": "awaiting",
    "match_status": "auto",
    "source": "oh",
@@ -11839,6 +12780,7 @@
    ]
   },
   "942": {
+   "name": "Jayson Ameer Rasheed",
    "status": "awaiting",
    "match_status": "auto",
    "source": "oh",
@@ -11869,6 +12811,7 @@
    ]
   },
   "943": {
+   "name": "Mike Baker",
    "status": "awaiting",
    "match_status": "auto",
    "source": "oh",
@@ -11899,6 +12842,7 @@
    ]
   },
   "944": {
+   "name": "Laalitya Acharya",
    "status": "awaiting",
    "match_status": "auto",
    "source": "oh",
@@ -11929,6 +12873,7 @@
    ]
   },
   "945": {
+   "name": "Ian Schwartz",
    "status": "awaiting",
    "match_status": "auto",
    "source": "oh",
@@ -11966,6 +12911,7 @@
    ]
   },
   "946": {
+   "name": "Katie Koehler Wagner",
    "status": "awaiting",
    "match_status": "auto",
    "source": "oh",
@@ -11996,6 +12942,7 @@
    ]
   },
   "947": {
+   "name": "Cara Jacob",
    "status": "awaiting",
    "match_status": "auto",
    "source": "oh",
@@ -12026,6 +12973,7 @@
    ]
   },
   "948": {
+   "name": "Tina Kotek",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -12063,6 +13011,7 @@
    ]
   },
   "949": {
+   "name": "Jeff Merkley",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -12107,6 +13056,7 @@
    ]
   },
   "950": {
+   "name": "Suzanne Bonamici",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -12137,6 +13087,7 @@
    ]
   },
   "951": {
+   "name": "Val Hoyle",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -12174,6 +13125,7 @@
    ]
   },
   "952": {
+   "name": "Sean Davis",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -12218,6 +13170,7 @@
    ]
   },
   "953": {
+   "name": "Evelyn Kocher",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -12248,6 +13201,7 @@
    ]
   },
   "954": {
+   "name": "Michelle Valigura",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -12285,6 +13239,7 @@
    ]
   },
   "955": {
+   "name": "Bre Irish",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -12315,6 +13270,7 @@
    ]
   },
   "956": {
+   "name": "Charles Maughan",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -12359,6 +13315,7 @@
    ]
   },
   "957": {
+   "name": "Steph Routh",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -12403,6 +13360,7 @@
    ]
   },
   "958": {
+   "name": "Jennifer Smith",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -12426,6 +13384,7 @@
    ]
   },
   "959": {
+   "name": "Athena Aguiar",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -12456,6 +13415,7 @@
    ]
   },
   "960": {
+   "name": "Mallory Hiefield",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -12521,6 +13481,7 @@
    ]
   },
   "961": {
+   "name": "Marchelle Paholsky",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -12551,6 +13512,7 @@
    ]
   },
   "962": {
+   "name": "Karim Delgado",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -12581,6 +13543,7 @@
    ]
   },
   "963": {
+   "name": "Dorian Russell",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -12618,6 +13581,7 @@
    ]
   },
   "964": {
+   "name": "Diana Jackson",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -12662,6 +13626,7 @@
    ]
   },
   "965": {
+   "name": "Shannon Corr",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -12692,6 +13657,7 @@
    ]
   },
   "966": {
+   "name": "Diane S. Sykes",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -12722,6 +13688,7 @@
    ]
   },
   "967": {
+   "name": "Heather Buch",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -12752,6 +13719,7 @@
    ]
   },
   "968": {
+   "name": "Richard Smith Savage",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -12789,6 +13757,7 @@
    ]
   },
   "969": {
+   "name": "Allie Ball",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -12826,6 +13795,7 @@
    ]
   },
   "970": {
+   "name": "Will Anderson",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -12863,6 +13833,7 @@
    ]
   },
   "971": {
+   "name": "Shannon Singleton",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -12900,6 +13871,7 @@
    ]
   },
   "972": {
+   "name": "Nathan Ong Norris",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -12965,6 +13937,7 @@
    ]
   },
   "973": {
+   "name": "Bri Williams",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -13030,6 +14003,7 @@
    ]
   },
   "974": {
+   "name": "Callee Ackland",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -13060,6 +14034,7 @@
    ]
   },
   "975": {
+   "name": "Roy Kaufmann",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -13097,6 +14072,7 @@
    ]
   },
   "976": {
+   "name": "Thomas Andersen",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -13127,6 +14103,7 @@
    ]
   },
   "977": {
+   "name": "Paul Evans",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -13164,6 +14141,7 @@
    ]
   },
   "978": {
+   "name": "Michael Welsh",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -13194,6 +14172,7 @@
    ]
   },
   "979": {
+   "name": "Nathan Sosa",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -13224,6 +14203,7 @@
    ]
   },
   "980": {
+   "name": "Thuy Tran",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -13254,6 +14234,7 @@
    ]
   },
   "981": {
+   "name": "Will Chotzen",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -13284,6 +14265,7 @@
    ]
   },
   "982": {
+   "name": "Lamar Wise",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -13314,6 +14296,7 @@
    ]
   },
   "983": {
+   "name": "Darla Mead",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -13344,6 +14327,7 @@
    ]
   },
   "984": {
+   "name": "Sierrah C. Williams",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -13381,6 +14365,7 @@
    ]
   },
   "985": {
+   "name": "Courtney Neron-Misslin",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -13418,6 +14403,7 @@
    ]
   },
   "986": {
+   "name": "Angeline Nicole Basett",
    "status": "awaiting",
    "match_status": "needs_review",
    "source": "or",
@@ -13448,6 +14434,7 @@
    ]
   },
   "987": {
+   "name": "James I. Manning, Jr.",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -13478,6 +14465,7 @@
    ]
   },
   "988": {
+   "name": "Kipperlyn R. Sinclair",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -13508,11 +14496,13 @@
    ]
   },
   "989": {
+   "name": "Christina Stephenson",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'stephenson' in any OR contest loaded"
   },
   "990": {
+   "name": "Kori Rodley",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -13543,6 +14533,7 @@
    ]
   },
   "991": {
+   "name": "Ivan Maluski",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -13573,6 +14564,7 @@
    ]
   },
   "992": {
+   "name": "Joanna Robinson",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -13603,6 +14595,7 @@
    ]
   },
   "993": {
+   "name": "Rep. Lesly Muñoz",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -13633,6 +14626,7 @@
    ]
   },
   "994": {
+   "name": "Ben Bowman",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -13663,6 +14657,7 @@
    ]
   },
   "995": {
+   "name": "Tammy Rose Carpenter",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -13693,6 +14688,7 @@
    ]
   },
   "996": {
+   "name": "Dacia Grayber",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -13723,6 +14719,7 @@
    ]
   },
   "997": {
+   "name": "Cyrus Javadi",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -13753,6 +14750,7 @@
    ]
   },
   "998": {
+   "name": "Farrah Chaichi",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -13783,6 +14781,7 @@
    ]
   },
   "999": {
+   "name": "Jules Walters",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -13813,6 +14812,7 @@
    ]
   },
   "1000": {
+   "name": "Michael Sugar",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -13850,6 +14850,7 @@
    ]
   },
   "1001": {
+   "name": "Mark Gamba",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -13880,6 +14881,7 @@
    ]
   },
   "1002": {
+   "name": "Travis Nelson",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -13910,6 +14912,7 @@
    ]
   },
   "1003": {
+   "name": "Zach Hudson",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -13940,6 +14943,7 @@
    ]
   },
   "1004": {
+   "name": "Deb Patterson",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -13970,6 +14974,7 @@
    ]
   },
   "1005": {
+   "name": "Virginia Stapleton",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -14000,6 +15005,7 @@
    ]
   },
   "1006": {
+   "name": "Myrna Arely Muñoz",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -14030,6 +15036,7 @@
    ]
   },
   "1007": {
+   "name": "Kayse Jama",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -14053,6 +15060,7 @@
    ]
   },
   "1008": {
+   "name": "Nafisa Fai",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -14083,6 +15091,7 @@
    ]
   },
   "1009": {
+   "name": "Morgan Schmidt",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -14113,6 +15122,7 @@
    ]
   },
   "1010": {
+   "name": "Jeremy Gordon",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -14143,6 +15153,7 @@
    ]
   },
   "1011": {
+   "name": "Sara Duncan",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -14173,6 +15184,7 @@
    ]
   },
   "1012": {
+   "name": "Maria Hinojos Pressey",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -14203,6 +15215,7 @@
    ]
   },
   "1013": {
+   "name": "Isabella Lee Tibbetts",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -14233,6 +15246,7 @@
    ]
   },
   "1014": {
+   "name": "Evelyn Kocher",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -14263,6 +15277,7 @@
    ]
   },
   "1015": {
+   "name": "Angelita Morillo",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -14426,6 +15441,7 @@
    ]
   },
   "1016": {
+   "name": "Tiffany Koyama Lane",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -14589,6 +15605,7 @@
    ]
   },
   "1017": {
+   "name": "Jamey Evenstar",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -14689,6 +15706,7 @@
    ]
   },
   "1018": {
+   "name": "Jeremy Beausoleil Smith",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -14789,6 +15807,7 @@
    ]
   },
   "1019": {
+   "name": "Mitch Green",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -14889,6 +15908,7 @@
    ]
   },
   "1020": {
+   "name": "Heather Coleman-Cox",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -14919,6 +15939,7 @@
    ]
   },
   "1021": {
+   "name": "Teo Ramirez",
    "status": "awaiting",
    "match_status": "auto",
    "source": "or",
@@ -14963,6 +15984,7 @@
    ]
   },
   "1022": {
+   "name": "Joe Hagedorn",
    "status": "awaiting",
    "match_status": "needs_review",
    "source": "or",
@@ -14993,6 +16015,7 @@
    ]
   },
   "1023": {
+   "name": "Chris Rabb",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15023,6 +16046,7 @@
    ]
   },
   "1024": {
+   "name": "Bob Brooks",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15053,6 +16077,7 @@
    ]
   },
   "1025": {
+   "name": "Summer Lee",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15083,6 +16108,7 @@
    ]
   },
   "1026": {
+   "name": "Chris Deluzio",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15113,6 +16139,7 @@
    ]
   },
   "1027": {
+   "name": "Aerion Abney",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15136,6 +16163,7 @@
    ]
   },
   "1028": {
+   "name": "Lindsay Powell",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15159,6 +16187,7 @@
    ]
   },
   "1029": {
+   "name": "Ce-Ce Gerlach",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15189,6 +16218,7 @@
    ]
   },
   "1030": {
+   "name": "La’Tasha D. Mayes",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15212,6 +16242,7 @@
    ]
   },
   "1031": {
+   "name": "Jon Lloyd",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15242,6 +16273,7 @@
    ]
   },
   "1032": {
+   "name": "Brad Chambers",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15272,6 +16304,7 @@
    ]
   },
   "1033": {
+   "name": "Jen Mazzocco",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15295,6 +16328,7 @@
    ]
   },
   "1034": {
+   "name": "Hadley Haas",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15325,6 +16359,7 @@
    ]
   },
   "1035": {
+   "name": "Brittany Bloam",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15355,6 +16390,7 @@
    ]
   },
   "1036": {
+   "name": "Izzy Smith Wade-El",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15385,6 +16421,7 @@
    ]
   },
   "1037": {
+   "name": "Caleb McCoy",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15415,6 +16452,7 @@
    ]
   },
   "1038": {
+   "name": "Paul Takac",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15445,6 +16483,7 @@
    ]
   },
   "1039": {
+   "name": "Sara Agerton",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15475,6 +16514,7 @@
    ]
   },
   "1040": {
+   "name": "Nikki Rivera",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15505,6 +16545,7 @@
    ]
   },
   "1041": {
+   "name": "Fern Leard",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15535,6 +16576,7 @@
    ]
   },
   "1042": {
+   "name": "Johanny Cepeda-Freytiz",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15558,6 +16600,7 @@
    ]
   },
   "1043": {
+   "name": "Meriam Sabih",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15588,6 +16631,7 @@
    ]
   },
   "1044": {
+   "name": "Megan Griffin-Shelley",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15611,6 +16655,7 @@
    ]
   },
   "1045": {
+   "name": "Carol Kazeem",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15641,6 +16686,7 @@
    ]
   },
   "1046": {
+   "name": "Heather Boyd",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15664,6 +16710,7 @@
    ]
   },
   "1047": {
+   "name": "Rob Gurtcheff",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15694,6 +16741,7 @@
    ]
   },
   "1048": {
+   "name": "Thomas Kucer",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15724,6 +16772,7 @@
    ]
   },
   "1049": {
+   "name": "Joe Hohenstein",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15754,6 +16803,7 @@
    ]
   },
   "1050": {
+   "name": "Malcolm Kenyatta",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15777,6 +16827,7 @@
    ]
   },
   "1051": {
+   "name": "Elizabeth Fiedler",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15800,6 +16851,7 @@
    ]
   },
   "1052": {
+   "name": "Rachel Cuevas",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15830,6 +16882,7 @@
    ]
   },
   "1053": {
+   "name": "Rick Krajewski",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15853,6 +16906,7 @@
    ]
   },
   "1054": {
+   "name": "Roni Green",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15876,6 +16930,7 @@
    ]
   },
   "1055": {
+   "name": "Tarik Khan",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15899,6 +16954,7 @@
    ]
   },
   "1056": {
+   "name": "Sierra McNeil",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15922,6 +16978,7 @@
    ]
   },
   "1057": {
+   "name": "Danilo Burgos",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15945,6 +17002,7 @@
    ]
   },
   "1058": {
+   "name": "Chris Johnson",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15968,6 +17026,7 @@
    ]
   },
   "1059": {
+   "name": "Andre Carroll",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -15991,6 +17050,7 @@
    ]
   },
   "1060": {
+   "name": "Art Haywood",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -16021,6 +17081,7 @@
    ]
   },
   "1061": {
+   "name": "Mark Pinsley",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -16051,6 +17112,7 @@
    ]
   },
   "1062": {
+   "name": "Jackie Baker",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -16081,6 +17143,7 @@
    ]
   },
   "1063": {
+   "name": "Chris Thomas",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -16118,6 +17181,7 @@
    ]
   },
   "1064": {
+   "name": "Lindsey Williams",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -16148,6 +17212,7 @@
    ]
   },
   "1065": {
+   "name": "Katie Muth",
    "status": "awaiting",
    "match_status": "auto",
    "source": "pa",
@@ -16178,6 +17243,7 @@
    ]
   },
   "1066": {
+   "name": "Amy Santiago",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ri",
@@ -16208,6 +17274,7 @@
    ]
   },
   "1067": {
+   "name": "Zakary Pereira",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ri",
@@ -16238,11 +17305,13 @@
    ]
   },
   "1068": {
+   "name": "Matt McCoy",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'mccoy' in any RI contest loaded"
   },
   "1069": {
+   "name": "Veronicka Vega",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ri",
@@ -16273,11 +17342,13 @@
    ]
   },
   "1070": {
+   "name": "Gena Felix",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'felix' in any RI contest loaded"
   },
   "1071": {
+   "name": "Nelly Burdette",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ri",
@@ -16322,6 +17393,7 @@
    ]
   },
   "1072": {
+   "name": "David Morales",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ri",
@@ -16352,6 +17424,7 @@
    ]
   },
   "1073": {
+   "name": "Miguel Martinez Youngs",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ri",
@@ -16375,6 +17448,7 @@
    ]
   },
   "1074": {
+   "name": "Yulyana Torres",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ri",
@@ -16398,6 +17472,7 @@
    ]
   },
   "1075": {
+   "name": "Justin Roias",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ri",
@@ -16421,6 +17496,7 @@
    ]
   },
   "1076": {
+   "name": "Jackie Goldman",
    "status": "awaiting",
    "match_status": "needs_review",
    "source": "ri",
@@ -16458,6 +17534,7 @@
    ]
   },
   "1077": {
+   "name": "Miguel Sanchez",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ri",
@@ -16488,6 +17565,7 @@
    ]
   },
   "1078": {
+   "name": "AnnaJane (AJ) Yolken",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ri",
@@ -16511,11 +17589,13 @@
    ]
   },
   "1079": {
+   "name": "Jonathan Jacobs",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'jacobs' in any RI contest loaded"
   },
   "1080": {
+   "name": "Libby Merrill",
    "status": "awaiting",
    "match_status": "needs_review",
    "source": "ri",
@@ -16546,76 +17626,91 @@
    ]
   },
   "1081": {
+   "name": "Courtney McClain",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers SC yet"
   },
   "1082": {
+   "name": "Jumelle Brooks",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers SC yet"
   },
   "1083": {
+   "name": "Keishan Scott",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers SC yet"
   },
   "1084": {
+   "name": "Julie Zimmerman",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers SC yet"
   },
   "1085": {
+   "name": "Sonja Ogletree Satani",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers SC yet"
   },
   "1086": {
+   "name": "Justin J. Pearson",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers TN yet"
   },
   "1087": {
+   "name": "Aftyn Behn",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers TN yet"
   },
   "1088": {
+   "name": "Allie Phillips",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers TN yet"
   },
   "1089": {
+   "name": "Jesse Huseth",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers TN yet"
   },
   "1090": {
+   "name": "Charlane Oliver",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers TN yet"
   },
   "1091": {
+   "name": "James “Jim” Bethke",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'bethke' in any TX contest loaded"
   },
   "1092": {
+   "name": "John Cruezot",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'cruezot' in any TX contest loaded"
   },
   "1093": {
+   "name": "Nick Stevens",
    "status": "not_on_ballot",
    "match_status": "not_on_ballot",
    "note": "Decided May 2, 2026: Stevens won District 2 (82.8%)."
   },
   "1094": {
+   "name": "George Ferrie",
    "status": "not_on_ballot",
    "match_status": "not_on_ballot",
    "note": "Decided June 13, 2026 runoff: Ferrie won Place 5 (50.4%)."
   },
   "1095": {
+   "name": "Michelle Butler",
    "status": "awaiting",
    "match_status": "auto",
    "source": "tx.denton",
@@ -16646,36 +17741,43 @@
    ]
   },
   "1096": {
+   "name": "Dr. Jared Williams",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'williams' in any TX contest loaded"
   },
   "1097": {
+   "name": "Nydia Cardenas",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'cardenas' in any TX contest loaded"
   },
   "1098": {
+   "name": "Montserrat Garibay",
    "status": "no_source",
    "match_status": "no_source",
    "note": "TX has only county sources so far"
   },
   "1099": {
+   "name": "Jeremy B. Hendrinks",
    "status": "no_source",
    "match_status": "no_source",
    "note": "TX has only county sources so far"
   },
   "1100": {
+   "name": "Jose Loya",
    "status": "no_source",
    "match_status": "no_source",
    "note": "TX has only county sources so far"
   },
   "1101": {
+   "name": "Andrew Hairston",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "no 'hairston' in any TX contest loaded"
   },
   "1102": {
+   "name": "Luke Maynes",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ut",
@@ -16706,6 +17808,7 @@
    ]
   },
   "1103": {
+   "name": "Rosie Rivera",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ut",
@@ -16736,6 +17839,7 @@
    ]
   },
   "1104": {
+   "name": "Stephen Otterstrom",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ut",
@@ -16759,6 +17863,7 @@
    ]
   },
   "1105": {
+   "name": "Sahara Hayes",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ut",
@@ -16789,6 +17894,7 @@
    ]
   },
   "1106": {
+   "name": "Rosalba Dominguez",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ut",
@@ -16819,6 +17925,7 @@
    ]
   },
   "1107": {
+   "name": "David Chappell",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ut",
@@ -16849,6 +17956,7 @@
    ]
   },
   "1108": {
+   "name": "Pramila Jayapal",
    "status": "awaiting",
    "match_status": "auto",
    "source": "wa",
@@ -16879,6 +17987,7 @@
    ]
   },
   "1109": {
+   "name": "Jorge Baron",
    "status": "awaiting",
    "match_status": "auto",
    "source": "wa",
@@ -16902,6 +18011,7 @@
    ]
   },
   "1110": {
+   "name": "Teresa Mosqueda",
    "status": "awaiting",
    "match_status": "auto",
    "source": "wa",
@@ -16932,6 +18042,7 @@
    ]
   },
   "1111": {
+   "name": "Nilu Jenks",
    "status": "awaiting",
    "match_status": "auto",
    "source": "wa",
@@ -16969,6 +18080,7 @@
    ]
   },
   "1112": {
+   "name": "Danny Tarkenton",
    "status": "awaiting",
    "match_status": "needs_review",
    "source": "wa",
@@ -16999,6 +18111,7 @@
    ]
   },
   "1113": {
+   "name": "Kelabe Tewolde",
    "status": "awaiting",
    "match_status": "auto",
    "source": "wa",
@@ -17029,6 +18142,7 @@
    ]
   },
   "1114": {
+   "name": "Natasha Hill",
    "status": "awaiting",
    "match_status": "auto",
    "source": "wa",
@@ -17059,6 +18173,7 @@
    ]
   },
   "1115": {
+   "name": "Luc Jasmin III",
    "status": "awaiting",
    "match_status": "auto",
    "source": "wa",
@@ -17089,6 +18204,7 @@
    ]
   },
   "1116": {
+   "name": "Chelsea Dimas",
    "status": "awaiting",
    "match_status": "auto",
    "source": "wa",
@@ -17119,6 +18235,7 @@
    ]
   },
   "1117": {
+   "name": "Edwin Obras",
    "status": "awaiting",
    "match_status": "auto",
    "source": "wa",
@@ -17149,6 +18266,7 @@
    ]
   },
   "1118": {
+   "name": "Mia Gregerson",
    "status": "awaiting",
    "match_status": "auto",
    "source": "wa",
@@ -17179,6 +18297,7 @@
    ]
   },
   "1119": {
+   "name": "Jaelynn Scott",
    "status": "awaiting",
    "match_status": "auto",
    "source": "wa",
@@ -17209,6 +18328,7 @@
    ]
   },
   "1120": {
+   "name": "Shaun Scott",
    "status": "awaiting",
    "match_status": "auto",
    "source": "wa",
@@ -17232,6 +18352,7 @@
    ]
   },
   "1121": {
+   "name": "Darya Farivar",
    "status": "awaiting",
    "match_status": "auto",
    "source": "wa",
@@ -17262,6 +18383,7 @@
    ]
   },
   "1122": {
+   "name": "Jessica Forsythe",
    "status": "awaiting",
    "match_status": "auto",
    "source": "wa",
@@ -17292,6 +18414,7 @@
    ]
   },
   "1123": {
+   "name": "Noel Frame",
    "status": "awaiting",
    "match_status": "auto",
    "source": "wa",
@@ -17322,6 +18445,7 @@
    ]
   },
   "1124": {
+   "name": "Hannah Sabio-Howell",
    "status": "awaiting",
    "match_status": "auto",
    "source": "wa",
@@ -17352,176 +18476,211 @@
    ]
   },
   "1125": {
+   "name": "David Crowley",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers WI yet"
   },
   "1126": {
+   "name": "JoCasta Zamarripa",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers WI yet"
   },
   "1127": {
+   "name": "Chris Larson",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers WI yet"
   },
   "1128": {
+   "name": "Jenna Jacobson",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers WI yet"
   },
   "1129": {
+   "name": "Trevor Jung",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers WI yet"
   },
   "1130": {
+   "name": "Jeff Smith",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers WI yet"
   },
   "1131": {
+   "name": "Robyn Vining",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers WI yet"
   },
   "1132": {
+   "name": "Ismael Luna",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers WI yet"
   },
   "1133": {
+   "name": "Sequanna Taylor",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers WI yet"
   },
   "1134": {
+   "name": "Amy Zimmerman",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers WI yet"
   },
   "1135": {
+   "name": "Angelito Tenorio",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers WI yet"
   },
   "1136": {
+   "name": "Margaret Arney",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers WI yet"
   },
   "1137": {
+   "name": "Ryan Clancy",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers WI yet"
   },
   "1138": {
+   "name": "Christine Sinicki",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers WI yet"
   },
   "1139": {
+   "name": "Dan Bukiewicz",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers WI yet"
   },
   "1140": {
+   "name": "Ben Gruber",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers WI yet"
   },
   "1141": {
+   "name": "Becky Nichols",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers WI yet"
   },
   "1142": {
+   "name": "Ben Brist",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers WI yet"
   },
   "1143": {
+   "name": "Angelina Cruz",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers WI yet"
   },
   "1144": {
+   "name": "Eddie Phanichkul",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers WI yet"
   },
   "1145": {
+   "name": "Tip McGuire",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers WI yet"
   },
   "1146": {
+   "name": "Ben DeSmidt",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers WI yet"
   },
   "1147": {
+   "name": "Angela Stroud",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers WI yet"
   },
   "1148": {
+   "name": "Dina Nina Martinez-Rutherford",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers WI yet"
   },
   "1149": {
+   "name": "Amaad Rivera-Wagner",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers WI yet"
   },
   "1150": {
+   "name": "Christian Phelps",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers WI yet"
   },
   "1151": {
+   "name": "Aaron Appelhans",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers WY yet"
   },
   "1152": {
+   "name": "Prop 141",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers AZ yet"
   },
   "1153": {
+   "name": "Prop 142",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers AZ yet"
   },
   "1154": {
+   "name": "Prop 144",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers AZ yet"
   },
   "1155": {
+   "name": "Prop 317",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers AZ yet"
   },
   "1156": {
+   "name": "Prop 318",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers AZ yet"
   },
   "1157": {
+   "name": "Prop 319",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers AZ yet"
   },
   "1158": {
+   "name": "Prop 320",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers AZ yet"
   },
   "1159": {
+   "name": "Prop – 1: Invest in Affordable Homes",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -17552,6 +18711,7 @@
    ]
   },
   "1160": {
+   "name": "Prop – 2: Strengthen California’s Rainy Day Fund",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -17582,6 +18742,7 @@
    ]
   },
   "1161": {
+   "name": "Prop – 3: Keep the Wealthy Paying Their Fair Share",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -17612,6 +18773,7 @@
    ]
   },
   "1162": {
+   "name": "Prop – 4: Small-Donor Democracy Over Big Money in Politics",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -17642,6 +18804,7 @@
    ]
   },
   "1163": {
+   "name": "Prop – 5: Reform Recall Elections",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -17672,6 +18835,7 @@
    ]
   },
   "1164": {
+   "name": "Prop 38: Fund Life-Saving Medical Research",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -17702,6 +18866,7 @@
    ]
   },
   "1165": {
+   "name": "Prop 39: Reject Voter Suppression",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -17732,6 +18897,7 @@
    ]
   },
   "1166": {
+   "name": "Prop 40: Tax Billionaires to Fund Healthcare & Education",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -17762,6 +18928,7 @@
    ]
   },
   "1167": {
+   "name": "Prop 41: Billionaire Tax Poison Pill",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -17792,6 +18959,7 @@
    ]
   },
   "1168": {
+   "name": "Prop 42: Billionaire Tax Poison Pill",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -17822,6 +18990,7 @@
    ]
   },
   "1169": {
+   "name": "Prop 43: Protect Local Funding",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -17852,6 +19021,7 @@
    ]
   },
   "1170": {
+   "name": "Prop 44: Protect Community Health Clinics",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -17882,6 +19052,7 @@
    ]
   },
   "1171": {
+   "name": "Prop 45: Reject Corporate Polluting Projects",
    "status": "awaiting",
    "match_status": "auto",
    "source": "ca",
@@ -17912,186 +19083,223 @@
    ]
   },
   "1172": {
+   "name": "Amendment 81: Expand Cooperation with ICE",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "1173": {
+   "name": "Amendment 82: Protection for Corporate Polluters",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "1174": {
+   "name": "Amendment 83: Legalize Cruel Practices in Hunting and Fishing",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "1175": {
+   "name": "Amendment 84: Make it Harder to Vote By Mail",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "1176": {
+   "name": "Amendment 85: Misleading Ballot Descriptions",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "1177": {
+   "name": "Amendment 86: Protect Republicans in Redistricting",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "1178": {
+   "name": "Amendment 87: Tax the Rich",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "1179": {
+   "name": "Aurora Ballot Issue 3B",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "1180": {
+   "name": "Aurora Ballot Question 3D",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "1181": {
+   "name": "Boulder County Ballot Issue 1A",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "1182": {
+   "name": "City of Boulder Ballot Issue 2J",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "1183": {
+   "name": "City of Boulder Ballot Question 2L",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "1184": {
+   "name": "Denver Public Schools Ballot Issue 4A",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "1185": {
+   "name": "El Paso County Ballot Issue 1A",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "1186": {
+   "name": "Front Range Passenger Rail District Ballot Issue 7A",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "1187": {
+   "name": "Greeley Ballot Measure 2F",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "1188": {
+   "name": "Larimer County Ballot Issue 1A",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "1189": {
+   "name": "Longmont Amendment 3C",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "1190": {
+   "name": "Longmont Amendment 3D",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "1191": {
+   "name": "Proposition 132: Private Prison Cash Grab",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "1192": {
+   "name": "Proposition 133: An Undercover Attack on Reproductive Freedom",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "1193": {
+   "name": "Proposition 134: Puts Kids in Harm’s Way",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "1194": {
+   "name": "Proposition 135: A Threat to Family Rights",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "1195": {
+   "name": "Proposition 136: The Millionaire Protection Act",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "1196": {
+   "name": "Proposition 137: Directing Taxes from Sporting Goods to Conservation",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "1197": {
+   "name": "Proposition NN: Yes for Colorado Kids",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "1198": {
+   "name": "Pueblo Ballot Issue 6A",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "1199": {
+   "name": "Pueblo Ballot Question 2B",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "1200": {
+   "name": "Pueblo West Ballot Issue 6C",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers CO yet"
   },
   "1201": {
+   "name": "Question 1",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MA yet"
   },
   "1202": {
+   "name": "Question 2",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MA yet"
   },
   "1203": {
+   "name": "Question 3",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MA yet"
   },
   "1204": {
+   "name": "Question 4",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MA yet"
   },
   "1205": {
+   "name": "Question 5",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MA yet"
   },
   "1206": {
+   "name": "Question 8",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MA yet"
   },
   "1207": {
+   "name": "Question 9",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers MA yet"
   },
   "1208": {
+   "name": "Cincinnati, OH | Issue 4: Cincinnati Public Schools Levy",
    "status": "awaiting",
    "match_status": "auto",
    "source": "oh.hamilton",
@@ -18122,6 +19330,7 @@
    ]
   },
   "1209": {
+   "name": "Cincinnati, OH | Issue 9: Winton Woods School Levy",
    "status": "awaiting",
    "match_status": "auto",
    "source": "oh.hamilton",
@@ -18152,16 +19361,19 @@
    ]
   },
   "1210": {
+   "name": "Columbus, OH | Issue 8: Our City, Our Say",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "measure '8': not found"
   },
   "1211": {
+   "name": "Ohio | Senate Bill 396: Paid Family and Medical Leave Act",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "measure None: not found"
   },
   "1212": {
+   "name": "Astoria Vacant Homes",
    "status": "awaiting",
    "match_status": "needs_review",
    "source": "or",
@@ -18192,6 +19404,7 @@
    ]
   },
   "1213": {
+   "name": "Eugene Clean Energy Fund",
    "status": "awaiting",
    "match_status": "needs_review",
    "source": "or",
@@ -18222,6 +19435,7 @@
    ]
   },
   "1214": {
+   "name": "Hood River Affordable Housing Bond",
    "status": "awaiting",
    "match_status": "needs_review",
    "source": "or",
@@ -18252,11 +19466,13 @@
    ]
   },
   "1215": {
+   "name": "Initiative Petition 9-2026-I-01",
    "status": "not_on_ballot",
    "match_status": "not_on_ballot",
    "note": "Did not qualify: 'Voices for All of Deschutes' (proportional ranked-choice voting for county commission) missed the Aug 5 signature deadline (Bend Bulletin, Aug 14, 2026). Organizers are collecting fo"
   },
   "1216": {
+   "name": "Your 2 Cents",
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "measure None: not found"

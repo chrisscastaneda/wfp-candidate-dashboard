@@ -41,7 +41,7 @@ def test_publish_leading_and_statuses():
                 choices=[Choice("A", 10), Choice("B", 5)])
     rows = [{"state": "CA", "name": "A", "office": "o", "status": "auto", "source": "x", "contest_id": "1",
              "choice_id": "A", "choice": "A", "note": ""}]
-    e = [{"id": 7, "key": "CA|A|o"}]
+    e = [{"id": 7, "key": "CA|A|o", "name": "A"}]
     out = publish.build(e, rows, {"x": {"contests": [c], "status": "ok"}}, "r")
     assert out["results"]["7"]["status"] == "counting" and out["results"]["7"]["wfp_leading"] is True
 

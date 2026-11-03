@@ -54,7 +54,7 @@ python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 
 | File in `data/results/` | What it is |
 |---|---|
-| `wfp_results.json` | The dashboard's file: one entry per endorsement, keyed by candidate `id` |
+| `wfp_results.json` | The dashboard's file: one entry per endorsement, keyed by candidate `id`. The dashboard bundles it at build time, so rebuild after each results run. If it was built from an older `candidates.json`, mismatched entries are dropped with a console warning; rerun `scrape_results.py match` |
 | `matches.csv` | Which contest and choice each endorsement matched. Review `needs_review` rows; set `status` to `confirmed`, or fix the ids and set `method` to `manual`. The matcher never changes those rows |
 | `manual_entries.csv` | Hand-entered results for races no scraper covers. Add a row per candidate (same `contest_id`) and fill in `votes` |
 | `latest/<source>.json` | Newest normalized contests from each source |
@@ -85,6 +85,9 @@ host. Only the Google Fonts stylesheet is loaded from the network.
 | `src/components/CategoryToggles.vue` | Office-type checkboxes with counts |
 | `src/components/CandidateList.vue` / `CandidateCard.vue` | Results grouped by state, then office type |
 | `src/data/candidates.ts` | Loads `data/candidates.json` and derives each state's `has_*` tile flags |
+| `src/data/results.ts` | Loads `data/results/wfp_results.json`, looks up each candidate's result by id, and derives the display status (leading, trailing, awaiting, not tracked, not on ballot) |
+| `src/components/ResultDetail.vue` | A card's expanded results: every choice with a bar, percentage and votes |
+| `src/components/StatusToggles.vue` | Result-status checkboxes with counts |
 
 ## Deploying to GitHub Pages
 
