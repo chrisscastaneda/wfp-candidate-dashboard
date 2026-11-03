@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { computed, ref } from 'vue'
+import AboutDialog from './components/AboutDialog.vue'
 import CandidateList from './components/CandidateList.vue'
 import CategoryToggles from './components/CategoryToggles.vue'
 import MapLegend from './components/MapLegend.vue'
@@ -10,6 +11,7 @@ import { CANDIDATES, SCRAPED_AT, SOURCE_URL, STATE_TILES } from './data/candidat
 import { displayStatus, RESULTS_GENERATED_AT, STATUSES } from './data/results'
 import type { DisplayStatus, OfficeCategory } from './data/types'
 
+const about = ref<InstanceType<typeof AboutDialog> | null>(null)
 const selectedState = ref<string | null>(null)
 const enabledCategories = ref(new Set<OfficeCategory>(CATEGORIES.map((c) => c.category)))
 const enabledStatuses = ref(new Set<DisplayStatus>(STATUSES.map((s) => s.status)))
@@ -73,12 +75,18 @@ const resultsTime = new Date(RESULTS_GENERATED_AT).toLocaleString('en-US', {
   <div class="flex min-h-dvh flex-col lg:h-dvh">
     <header class="flex items-center justify-between gap-4 bg-wfp-orange px-4 py-3 text-white sm:px-6">
       <h1 class="font-headline text-2xl leading-none font-bold uppercase tracking-wide sm:text-3xl">
-        WFP Candidate Dashboard
+        2026 WFP Election Results Dashboard
       </h1>
-      <p class="hidden font-headline text-lg font-light uppercase tracking-wider sm:block">
-        2026 Endorsements
-      </p>
+      <button
+        type="button"
+        class="shrink-0 rounded px-2 py-1 font-headline text-lg font-light uppercase tracking-wider underline-offset-4 hover:underline focus-visible:outline-2 focus-visible:outline-white"
+        aria-haspopup="dialog"
+        @click="about?.open()"
+      >
+        About
+      </button>
     </header>
+    <AboutDialog ref="about" />
 
     <main class="grid flex-1 lg:min-h-0 lg:grid-cols-2">
       <!-- Map + filters -->
