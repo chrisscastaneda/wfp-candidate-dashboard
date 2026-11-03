@@ -63,9 +63,10 @@ def match_and_publish(latest: dict, log: RunLog, *, write: bool, do_publish: boo
     rows_in = endorsements.load()
     previous = match.read_review_file()
     contests = [c for rec in latest.values() for c in rec.get("contests", [])]
-    local_states = {s.state for s in registry.ALL if s.state and s.local_races}
+    local_states = {s.state for s in registry.ALL if s.state and s.level == "state" and s.local_races}
+    local_counties = {(s.state, s.county) for s in registry.ALL if s.level == "county"}
     statewide_states = {s.state for s in registry.ALL if s.state and s.level == "state"}
-    rows = match.match_all(rows_in, contests, previous, local_states, statewide_states)
+    rows = match.match_all(rows_in, contests, previous, local_states, statewide_states, local_counties)
     for line in match.changes(previous, rows):
         log.info(line)
     counts = match.counts(rows)

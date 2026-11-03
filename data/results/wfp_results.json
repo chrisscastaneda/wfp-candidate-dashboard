@@ -1,13 +1,55 @@
 {
  "election_date": "2026-11-03",
- "generated_at": "2026-11-03T07:04:43+00:00",
- "run_id": "20261103T070443Z",
+ "generated_at": "2026-11-03T07:21:27+00:00",
+ "run_id": "20261103T072014Z",
  "sources": {
   "ca": {
    "status": "ok",
-   "fetched_at": "2026-11-03T07:02:50+00:00",
-   "contests_changed_at": "2026-11-03T06:00:22+00:00",
+   "fetched_at": "2026-11-03T07:20:14+00:00",
+   "contests_changed_at": "2026-11-03T07:20:14+00:00",
    "message": null
+  },
+  "ca.contra_costa": {
+   "status": "not_published",
+   "fetched_at": null,
+   "contests_changed_at": null,
+   "message": "no 2026-11-03 election listed"
+  },
+  "ca.los_angeles": {
+   "status": "ok",
+   "fetched_at": "2026-11-03T07:20:26+00:00",
+   "contests_changed_at": "2026-11-03T07:16:46+00:00",
+   "message": null
+  },
+  "ca.marin": {
+   "status": "not_published",
+   "fetched_at": null,
+   "contests_changed_at": null,
+   "message": "no 2026-11-03 election listed"
+  },
+  "ca.orange": {
+   "status": "ok",
+   "fetched_at": "2026-11-03T07:20:27+00:00",
+   "contests_changed_at": "2026-11-03T07:18:53+00:00",
+   "message": null
+  },
+  "ca.santa_clara": {
+   "status": "not_published",
+   "fetched_at": null,
+   "contests_changed_at": null,
+   "message": "no 2026-11-03 election listed"
+  },
+  "ca.sonoma": {
+   "status": "not_published",
+   "fetched_at": null,
+   "contests_changed_at": null,
+   "message": "no 2026-11-03 election listed"
+  },
+  "ca.ventura": {
+   "status": "not_published",
+   "fetched_at": null,
+   "contests_changed_at": null,
+   "message": "no 2026-11-03 election listed"
   },
   "co": {
    "status": "not_published",
@@ -17,14 +59,14 @@
   },
   "ct": {
    "status": "ok",
-   "fetched_at": "2026-11-03T07:02:57+00:00",
-   "contests_changed_at": "2026-11-03T06:52:21+00:00",
+   "fetched_at": "2026-11-03T07:20:22+00:00",
+   "contests_changed_at": "2026-11-03T07:20:22+00:00",
    "message": null
   },
   "de": {
    "status": "ok",
-   "fetched_at": "2026-11-03T07:03:00+00:00",
-   "contests_changed_at": "2026-11-03T06:57:39+00:00",
+   "fetched_at": "2026-11-03T07:20:25+00:00",
+   "contests_changed_at": "2026-11-03T07:20:25+00:00",
    "message": null
   },
   "fl": {
@@ -41,25 +83,25 @@
   },
   "manual": {
    "status": "ok",
-   "fetched_at": "2026-11-03T07:03:02+00:00",
+   "fetched_at": "2026-11-03T07:20:34+00:00",
    "contests_changed_at": "2026-11-03T06:00:23+00:00",
    "message": null
   },
   "md": {
    "status": "ok",
-   "fetched_at": "2026-11-03T07:03:01+00:00",
-   "contests_changed_at": "2026-11-03T07:03:01+00:00",
+   "fetched_at": "2026-11-03T07:20:26+00:00",
+   "contests_changed_at": "2026-11-03T07:20:26+00:00",
    "message": null
   },
   "nc": {
    "status": "ok",
-   "fetched_at": "2026-11-03T07:02:50+00:00",
-   "contests_changed_at": "2026-11-03T06:00:22+00:00",
+   "fetched_at": "2026-11-03T07:20:14+00:00",
+   "contests_changed_at": "2026-11-03T07:20:14+00:00",
    "message": null
   },
   "ne": {
    "status": "ok",
-   "fetched_at": "2026-11-03T07:04:14+00:00",
+   "fetched_at": "2026-11-03T07:20:15+00:00",
    "contests_changed_at": "2026-11-03T07:04:12+00:00",
    "message": null
   },
@@ -77,38 +119,38 @@
   },
   "nm": {
    "status": "ok",
-   "fetched_at": "2026-11-03T07:02:50+00:00",
-   "contests_changed_at": "2026-11-03T06:00:22+00:00",
+   "fetched_at": "2026-11-03T07:20:14+00:00",
+   "contests_changed_at": "2026-11-03T07:20:14+00:00",
    "message": null
   },
   "oh": {
    "status": "ok",
-   "fetched_at": "2026-11-03T07:02:59+00:00",
-   "contests_changed_at": "2026-11-03T06:57:39+00:00",
+   "fetched_at": "2026-11-03T07:20:24+00:00",
+   "contests_changed_at": "2026-11-03T07:20:24+00:00",
    "message": null
   },
   "oh.hamilton": {
    "status": "ok",
-   "fetched_at": "2026-11-03T07:02:56+00:00",
-   "contests_changed_at": "2026-11-03T06:59:01+00:00",
+   "fetched_at": "2026-11-03T07:20:21+00:00",
+   "contests_changed_at": "2026-11-03T07:20:21+00:00",
    "message": null
   },
   "or": {
    "status": "ok",
-   "fetched_at": "2026-11-03T07:02:58+00:00",
-   "contests_changed_at": "2026-11-03T06:54:47+00:00",
+   "fetched_at": "2026-11-03T07:20:23+00:00",
+   "contests_changed_at": "2026-11-03T07:20:23+00:00",
    "message": null
   },
   "pa": {
    "status": "ok",
-   "fetched_at": "2026-11-03T07:02:50+00:00",
-   "contests_changed_at": "2026-11-03T06:00:22+00:00",
+   "fetched_at": "2026-11-03T07:20:14+00:00",
+   "contests_changed_at": "2026-11-03T07:20:14+00:00",
    "message": null
   },
   "ri": {
    "status": "ok",
-   "fetched_at": "2026-11-03T07:02:50+00:00",
-   "contests_changed_at": "2026-11-03T06:00:22+00:00",
+   "fetched_at": "2026-11-03T07:20:14+00:00",
+   "contests_changed_at": "2026-11-03T07:20:14+00:00",
    "message": null
   },
   "sc": {
@@ -131,8 +173,8 @@
   },
   "tx.denton": {
    "status": "ok",
-   "fetched_at": "2026-11-03T07:02:54+00:00",
-   "contests_changed_at": "2026-11-03T06:52:21+00:00",
+   "fetched_at": "2026-11-03T07:20:19+00:00",
+   "contests_changed_at": "2026-11-03T07:20:19+00:00",
    "message": null
   },
   "tx.tarrant": {
@@ -149,14 +191,14 @@
   },
   "ut": {
    "status": "ok",
-   "fetched_at": "2026-11-03T07:02:50+00:00",
-   "contests_changed_at": "2026-11-03T06:01:45+00:00",
+   "fetched_at": "2026-11-03T07:20:14+00:00",
+   "contests_changed_at": "2026-11-03T07:20:14+00:00",
    "message": null
   },
   "wa": {
    "status": "ok",
-   "fetched_at": "2026-11-03T07:02:50+00:00",
-   "contests_changed_at": "2026-11-03T06:00:22+00:00",
+   "fetched_at": "2026-11-03T07:20:14+00:00",
+   "contests_changed_at": "2026-11-03T07:20:14+00:00",
    "message": null
   }
  },
@@ -247,64 +289,64 @@
    "note": "no source covers AR yet"
   },
   "18": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'walker' in any CA contest loaded"
   },
   "19": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'wilson' in any CA contest loaded"
   },
   "20": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'dawkins' in any CA contest loaded"
   },
   "21": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Alameda local races yet"
   },
   "22": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Alameda local races yet"
   },
   "23": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Alameda local races yet"
   },
   "24": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Alameda local races yet"
   },
   "25": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Alameda local races yet"
   },
   "26": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Alameda local races yet"
   },
   "27": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Alameda local races yet"
   },
   "28": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Alameda local races yet"
   },
   "29": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'jaug' in any CA contest loaded"
   },
   "30": {
    "status": "awaiting",
@@ -339,287 +381,287 @@
   "31": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Francisco local races yet"
   },
   "32": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Francisco local races yet"
   },
   "33": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Francisco local races yet"
   },
   "34": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Alameda local races yet"
   },
   "35": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'nakamura' in any CA contest loaded"
   },
   "36": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'sasai' in any CA contest loaded"
   },
   "37": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'barrett' in any CA contest loaded"
   },
   "38": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Mateo local races yet"
   },
   "39": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Alameda local races yet"
   },
   "40": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Mateo local races yet"
   },
   "41": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Mateo local races yet"
   },
   "42": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'nunez' in any CA contest loaded"
   },
   "43": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'montes' in any CA contest loaded"
   },
   "44": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'gvatua' in any CA contest loaded"
   },
   "45": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Mateo local races yet"
   },
   "46": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'armendariz' in any CA contest loaded"
   },
   "47": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Alameda local races yet"
   },
   "48": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Alameda local races yet"
   },
   "49": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'herrod' in any CA contest loaded"
   },
   "50": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'burnett' in any CA contest loaded"
   },
   "51": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'kanani' in any CA contest loaded"
   },
   "52": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'poicon' in any CA contest loaded"
   },
   "53": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'sylvester' in any CA contest loaded"
   },
   "54": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Alameda local races yet"
   },
   "55": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Alameda local races yet"
   },
   "56": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Alameda local races yet"
   },
   "57": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Mateo local races yet"
   },
   "58": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Mateo local races yet"
   },
   "59": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'vazquez' in any CA contest loaded"
   },
   "60": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'sebastian' in any CA contest loaded"
   },
   "61": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'julian' in any CA contest loaded"
   },
   "62": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'briscoe' in any CA contest loaded"
   },
   "63": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Mateo local races yet"
   },
   "64": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'jimenez' in any CA contest loaded"
   },
   "65": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Mateo local races yet"
   },
   "66": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Francisco local races yet"
   },
   "67": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Francisco local races yet"
   },
   "68": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Francisco local races yet"
   },
   "69": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Francisco local races yet"
   },
   "70": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Francisco local races yet"
   },
   "71": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Francisco local races yet"
   },
   "72": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Francisco local races yet"
   },
   "73": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'ortiz' in any CA contest loaded"
   },
   "74": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'chester' in any CA contest loaded"
   },
   "75": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'melillo' in any CA contest loaded"
   },
   "76": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Mateo local races yet"
   },
   "77": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Mateo local races yet"
   },
   "78": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Mateo local races yet"
   },
   "79": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Mateo local races yet"
   },
   "80": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'park' in any CA contest loaded"
   },
   "81": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'carter' in any CA contest loaded"
   },
   "82": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'paun' in any CA contest loaded"
   },
   "83": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'bagby' in any CA contest loaded"
   },
   "84": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'quinn' in any CA contest loaded"
   },
   "85": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Francisco local races yet"
   },
   "86": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Francisco local races yet"
   },
   "87": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Francisco local races yet"
   },
   "88": {
    "status": "awaiting",
@@ -924,147 +966,147 @@
   "98": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Solano local races yet"
   },
   "99": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Kern local races yet"
   },
   "100": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Kern local races yet"
   },
   "101": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Kern local races yet"
   },
   "102": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'pine' in any CA contest loaded"
   },
   "103": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Santa Barbara local races yet"
   },
   "104": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Santa Barbara local races yet"
   },
   "105": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Tulare local races yet"
   },
   "106": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Fresno local races yet"
   },
   "107": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Fresno local races yet"
   },
   "108": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Fresno local races yet"
   },
   "109": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Tulare local races yet"
   },
   "110": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Kern local races yet"
   },
   "111": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Kern local races yet"
   },
   "112": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Stanislaus local races yet"
   },
   "113": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'duron' in any CA contest loaded"
   },
   "114": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Santa Cruz local races yet"
   },
   "115": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Stanislaus local races yet"
   },
   "116": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Stanislaus local races yet"
   },
   "117": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Sacramento local races yet"
   },
   "118": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Santa Barbara local races yet"
   },
   "119": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Santa Barbara local races yet"
   },
   "120": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Santa Barbara local races yet"
   },
   "121": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Santa Barbara local races yet"
   },
   "122": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Santa Cruz local races yet"
   },
   "123": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Santa Cruz local races yet"
   },
   "124": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Santa Barbara local races yet"
   },
   "125": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'cohen' in any CA contest loaded"
   },
   "126": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'gray' in any CA contest loaded"
   },
   "127": {
    "status": "awaiting",
@@ -1099,7 +1141,7 @@
   "128": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Fresno local races yet"
   },
   "129": {
    "status": "awaiting",
@@ -1162,124 +1204,124 @@
    ]
   },
   "131": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'campos' in any CA contest loaded"
   },
   "132": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'eckley' in any CA contest loaded"
   },
   "133": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Tulare local races yet"
   },
   "134": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Tulare local races yet"
   },
   "135": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Bernardino local races yet"
   },
   "136": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Riverside local races yet"
   },
   "137": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Riverside local races yet"
   },
   "138": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Riverside local races yet"
   },
   "139": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Riverside local races yet"
   },
   "140": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Bernardino local races yet"
   },
   "141": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Bernardino local races yet"
   },
   "142": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Bernardino local races yet"
   },
   "143": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Riverside local races yet"
   },
   "144": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Riverside local races yet"
   },
   "145": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Riverside local races yet"
   },
   "146": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Riverside local races yet"
   },
   "147": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Riverside local races yet"
   },
   "148": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Riverside local races yet"
   },
   "149": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Bernardino local races yet"
   },
   "150": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Bernardino local races yet"
   },
   "151": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Bernardino local races yet"
   },
   "152": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries Riverside local races yet"
   },
   "153": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Bernardino local races yet"
   },
   "154": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Bernardino local races yet"
   },
   "155": {
    "status": "awaiting",
@@ -1374,7 +1416,7 @@
   "158": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Bernardino local races yet"
   },
   "159": {
    "status": "awaiting",
@@ -1407,124 +1449,1202 @@
    ]
   },
   "160": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.los_angeles",
+   "contest": "CITY OF BURBANK GENERAL MUNICIPAL ELECTION Member of the City Council",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:26+00:00",
+   "wfp_choice": "MIKE VAN GORDER",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "CHRIS YOOSEFI",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "DAVID PHILLIP DONAHUE",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "EDDY POLON",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "HOVANES \"HOV\" TONOYAN",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "JACKIE WALTMAN",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "JONATHAN ONTIVEROS",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "JT PARR",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "MIKE VAN GORDER",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    },
+    {
+     "name": "NIKKI PEREZ",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "NOLAN SOUTHERLAND",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "ROBBIE BRODY",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "SAMANTHA WICK",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "TAMALA TAKAHASHI",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    }
+   ]
   },
   "161": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.los_angeles",
+   "contest": "CITY OF BURBANK GENERAL MUNICIPAL ELECTION Member of the City Council",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:26+00:00",
+   "wfp_choice": "NIKKI PEREZ",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "CHRIS YOOSEFI",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "DAVID PHILLIP DONAHUE",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "EDDY POLON",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "HOVANES \"HOV\" TONOYAN",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "JACKIE WALTMAN",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "JONATHAN ONTIVEROS",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "JT PARR",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "MIKE VAN GORDER",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "NIKKI PEREZ",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    },
+    {
+     "name": "NOLAN SOUTHERLAND",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "ROBBIE BRODY",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "SAMANTHA WICK",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "TAMALA TAKAHASHI",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    }
+   ]
   },
   "162": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.los_angeles",
+   "contest": "CITY OF BURBANK GENERAL MUNICIPAL ELECTION Member of the City Council",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:26+00:00",
+   "wfp_choice": "NOLAN SOUTHERLAND",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "CHRIS YOOSEFI",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "DAVID PHILLIP DONAHUE",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "EDDY POLON",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "HOVANES \"HOV\" TONOYAN",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "JACKIE WALTMAN",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "JONATHAN ONTIVEROS",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "JT PARR",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "MIKE VAN GORDER",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "NIKKI PEREZ",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "NOLAN SOUTHERLAND",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    },
+    {
+     "name": "ROBBIE BRODY",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "SAMANTHA WICK",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "TAMALA TAKAHASHI",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    }
+   ]
   },
   "163": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'castaneda' in any CA contest loaded"
   },
   "164": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.los_angeles",
+   "contest": "CITY OF CUDAHY GENERAL MUNICIPAL ELECTION Member of the City Council",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:26+00:00",
+   "wfp_choice": "CYNTHIA GONZALEZ",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "CYNTHIA GONZALEZ",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    },
+    {
+     "name": "CYNTHIA ROMO",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "JOSE R. GONZALEZ",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "MARTIN U. FUENTES",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "RICHARD CORVERA HERNANDEZ",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    }
+   ]
   },
   "165": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.los_angeles",
+   "contest": "CITY OF CULVER CITY GENERAL MUNICIPAL ELECTION Member of the City Council",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:26+00:00",
+   "wfp_choice": "THOMAS AUJERO SMALL",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "FRANKLIN CARVAJAL",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "FREDDY PUZA",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "JEANNINE WISNOSKY STEHLIN",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "KIMBERLEY \"KIM\" GRIFFIN",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "THOMAS AUJERO SMALL",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    }
+   ]
   },
   "166": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.los_angeles",
+   "contest": "CULVER CITY UNIFIED SCHOOL DISTRICT Governing Board Member",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:26+00:00",
+   "wfp_choice": "BRIAN GUERRERO",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "BRIAN GUERRERO",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    },
+    {
+     "name": "DARREL MENTHE",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "STEPHANIE LOREDO",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "TRISTON EZIDORE",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    }
+   ]
   },
   "167": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.los_angeles",
+   "contest": "CULVER CITY UNIFIED SCHOOL DISTRICT Governing Board Member",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:26+00:00",
+   "wfp_choice": "STEPHANIE LOREDO",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "BRIAN GUERRERO",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "DARREL MENTHE",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "STEPHANIE LOREDO",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    },
+    {
+     "name": "TRISTON EZIDORE",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    }
+   ]
   },
   "168": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'yam' in any CA contest loaded"
   },
   "169": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.los_angeles",
+   "contest": "CITY OF HUNTINGTON PARK GENERAL MUNICIPAL ELECTION Member of the City Council, 2nd District (Unexpired term ending December 8, 2028)",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:26+00:00",
+   "wfp_choice": "NANCY CINDY MARTIZ",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "KARINA MACIAS",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "KARINA MIKETTA",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "NANCY CINDY MARTIZ",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    }
+   ]
   },
   "170": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.los_angeles",
+   "contest": "JUDGE OF THE SUPERIOR COURT Office No. 131",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:26+00:00",
+   "wfp_choice": "DAVID ROSS",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "DAVID ROSS",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    },
+    {
+     "name": "DONNA TRYFMAN",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    }
+   ]
   },
   "171": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.los_angeles",
+   "contest": "JUDGE OF THE SUPERIOR COURT Office No. 65",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:26+00:00",
+   "wfp_choice": "JUSTIN ALLEN CLAYTON",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "ANNA SLOTKY REITANO",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "JUSTIN ALLEN CLAYTON",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    }
+   ]
   },
   "172": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.los_angeles",
+   "contest": "LOS ANGELES CITY GENERAL MUNICIPAL ELECTION City Attorney",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:26+00:00",
+   "wfp_choice": "MARISSA ROY",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "JOHN MCKINNEY",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "MARISSA ROY",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    }
+   ]
   },
   "173": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.los_angeles",
+   "contest": "LOS ANGELES CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 9th District",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:26+00:00",
+   "wfp_choice": "ESTUARDO MAZARIEGOS",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "ESTUARDO MAZARIEGOS",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    },
+    {
+     "name": "JOSE UGARTE",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    }
+   ]
   },
   "174": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.los_angeles",
+   "contest": "LOS ANGELES COMMUNITY COLLEGE DISTRICT Member of the Board of Trustees, Seat 4",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:26+00:00",
+   "wfp_choice": "DARRYN HARRIS",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "ADAM BRUNO",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "DARRYN HARRIS",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    },
+    {
+     "name": "ELAINE ALANIZ",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "ISIDRO J. ARMENTA",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "JASON R. AULA",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "NANCY PEARLMAN",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "PRISCILLA UMANA",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    }
+   ]
   },
   "175": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.los_angeles",
+   "contest": "LOS ANGELES CITY GENERAL MUNICIPAL ELECTION Mayor",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:26+00:00",
+   "wfp_choice": "NITHYA RAMAN",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "KAREN RUTH BASS",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "NITHYA RAMAN",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    }
+   ]
   },
   "176": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.los_angeles",
+   "contest": "CITY OF LYNWOOD GENERAL MUNICIPAL ELECTION Member of the City Council",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:26+00:00",
+   "wfp_choice": "EMILIANO ARELLANO",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "ALFONSO MORALES",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "EMILIANO ARELLANO",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    },
+    {
+     "name": "GABRIELA CAMACHO",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "JUAN MUÑOZ-GUEVARA",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "LUIS GERARDO CUELLAR",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "MISHAUN WATKINS",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    }
+   ]
   },
   "177": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.los_angeles",
+   "contest": "CITY OF LYNWOOD GENERAL MUNICIPAL ELECTION Member of the City Council",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:26+00:00",
+   "wfp_choice": "JUAN MUÑOZ-GUEVARA",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "ALFONSO MORALES",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "EMILIANO ARELLANO",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "GABRIELA CAMACHO",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "JUAN MUÑOZ-GUEVARA",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    },
+    {
+     "name": "LUIS GERARDO CUELLAR",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "MISHAUN WATKINS",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    }
+   ]
   },
   "178": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.los_angeles",
+   "contest": "CITY OF LYNWOOD GENERAL MUNICIPAL ELECTION Member of the City Council",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:26+00:00",
+   "wfp_choice": "MISHAUN WATKINS",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "ALFONSO MORALES",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "EMILIANO ARELLANO",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "GABRIELA CAMACHO",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "JUAN MUÑOZ-GUEVARA",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "LUIS GERARDO CUELLAR",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "MISHAUN WATKINS",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    }
+   ]
   },
   "179": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.los_angeles",
+   "contest": "CITY OF MAYWOOD GENERAL MUNICIPAL ELECTION Member of the City Council",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:26+00:00",
+   "wfp_choice": "MAYRA AGUILUZ",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "ALEYDA LEMUS",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "EDITH RODRIGUEZ",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "EDUARDO \"EDDIE\" DE LA RIVA",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "GABRIELA A. BERNAL",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "GUSTAVO VILLA",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "MARITZA CRUZ",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "MAYRA AGUILUZ",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    },
+    {
+     "name": "THOMAS RAMON MARTIN",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "VERONICA PERAL BERNABE",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    }
+   ]
   },
   "180": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.los_angeles",
+   "contest": "CITY OF MONTEREY PARK GENERAL MUNICIPAL ELECTION Member of the City Council, 5th District",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:26+00:00",
+   "wfp_choice": "STEVEN KUNG",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "STEVEN KUNG",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    },
+    {
+     "name": "VINH T. NGO",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    }
+   ]
   },
   "181": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'wang' in any CA contest loaded"
   },
   "182": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.los_angeles",
+   "contest": "ROWLAND UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area No. 3",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:26+00:00",
+   "wfp_choice": "BRANDON M. MACIAS",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "BRANDON M. MACIAS",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    },
+    {
+     "name": "CARY C. CHEN",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "JEANNETTE C. ALVARADO",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    }
+   ]
   },
   "183": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.los_angeles",
+   "contest": "CITY OF SANTA MONICA GENERAL MUNICIPAL ELECTION Member of the City Council",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:26+00:00",
+   "wfp_choice": "CAROLINE M. TOROSIS",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "ASHLEY OELSEN",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "BRETT MORROW",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "CAROLINE M. TOROSIS",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    },
+    {
+     "name": "DANIEL IVANOV",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "DERRICK TOWNSEND",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "DOUG TRUSSLER",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "ELI GILL",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "ERICKA LESLEY",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "LANA NEGRETE",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "LINDSAY DAVIS",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "PHIL BROCK",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "WADE KELLEY",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    }
+   ]
   },
   "184": {
    "status": "awaiting",
@@ -1797,134 +2917,1151 @@
    ]
   },
   "193": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.los_angeles",
+   "contest": "CITY OF WEST COVINA GENERAL MUNICIPAL ELECTION Member of the City Council, 2nd District",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:26+00:00",
+   "wfp_choice": "LESLIE H. GARCIA",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "CARLOS YADO",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "LESLIE H. GARCIA",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    },
+    {
+     "name": "LETTY LOPEZ",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    }
+   ]
   },
   "194": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "needs_review",
+   "source": "ca.los_angeles",
+   "contest": "CITY OF WEST HOLLYWOOD GENERAL MUNICIPAL ELECTION Member of the City Council",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:26+00:00",
+   "wfp_choice": "HELEN KRIEGER",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "ALDEN \"MARLON\" GOBEL",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "CHELSEA BYERS",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "CHUKWUDUBEM \"CHIEDU\" EGBUNIWE",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "HELEN KRIEGER",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    },
+    {
+     "name": "JÖEL ZALDÍVAR",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "JOHN DURAN",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "JONATHAN COTTRELL",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "KEVIN L. LIGON",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "KODY CHRISTIANSEN",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "KYLE BRAZEAL",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "LARRY BLOCK",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "STEPHEN J. POST",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "TATYANA \"TANYA\" TSIKANOVSKY",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "TOM DEMILLE",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    }
+   ]
   },
   "195": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.los_angeles",
+   "contest": "CITY OF WEST HOLLYWOOD GENERAL MUNICIPAL ELECTION Member of the City Council",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:26+00:00",
+   "wfp_choice": "STEPHEN J. POST",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "ALDEN \"MARLON\" GOBEL",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "CHELSEA BYERS",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "CHUKWUDUBEM \"CHIEDU\" EGBUNIWE",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "HELEN KRIEGER",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "JÖEL ZALDÍVAR",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "JOHN DURAN",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "JONATHAN COTTRELL",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "KEVIN L. LIGON",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "KODY CHRISTIANSEN",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "KYLE BRAZEAL",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "LARRY BLOCK",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "STEPHEN J. POST",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    },
+    {
+     "name": "TATYANA \"TANYA\" TSIKANOVSKY",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "TOM DEMILLE",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    }
+   ]
   },
   "196": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.los_angeles",
+   "contest": "CITY OF WEST HOLLYWOOD GENERAL MUNICIPAL ELECTION Member of the City Council",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:26+00:00",
+   "wfp_choice": "CHELSEA BYERS",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "ALDEN \"MARLON\" GOBEL",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "CHELSEA BYERS",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    },
+    {
+     "name": "CHUKWUDUBEM \"CHIEDU\" EGBUNIWE",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "HELEN KRIEGER",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "JÖEL ZALDÍVAR",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "JOHN DURAN",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "JONATHAN COTTRELL",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "KEVIN L. LIGON",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "KODY CHRISTIANSEN",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "KYLE BRAZEAL",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "LARRY BLOCK",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "STEPHEN J. POST",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "TATYANA \"TANYA\" TSIKANOVSKY",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "TOM DEMILLE",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    }
+   ]
   },
   "197": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.los_angeles",
+   "contest": "WISEBURN UNIFIED SCHOOL DISTRICT Governing Board Member",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:26+00:00",
+   "wfp_choice": "REBECCA HAMBURG CAPPY",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "DAWSON BRUCKMAN",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "GRACE ATHENA BOLAND BADER",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "JEANNE OGAR",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "NELSON E. MARTINEZ",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "REBECCA HAMBURG CAPPY",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    },
+    {
+     "name": "ROGELIO \"ROGER\" BAÑUELOS",
+     "party": "NON PARTISAN",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    }
+   ]
   },
   "198": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "unmatched",
+   "match_status": "unmatched",
+   "note": "no 'ackley' in any CA contest loaded"
   },
   "199": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.orange",
+   "contest": "CITY OF ALISO VIEJO Member, City Council District 2",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:27+00:00",
+   "wfp_choice": "STEVEN VON DER PORTEN",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "STEVEN VON DER PORTEN",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    },
+    {
+     "name": "MAX DUNCAN",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    }
+   ]
   },
   "200": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.orange",
+   "contest": "CITY OF ALISO VIEJO Member, City Council District 3, Short Term",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:27+00:00",
+   "wfp_choice": "MARIE TSAASAN",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "MARIE TSAASAN",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    },
+    {
+     "name": "GARRETT DWYER",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    }
+   ]
   },
   "201": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.orange",
+   "contest": "ANAHEIM ELEMENTARY SCHOOL DISTRICT Governing Board Member, Trustee Area 2",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:27+00:00",
+   "wfp_choice": "JUAN GABRIEL ALVAREZ",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "JEFF COLE",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "JUAN GABRIEL ALVAREZ",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    }
+   ]
   },
   "202": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.orange",
+   "contest": "ANAHEIM ELEMENTARY SCHOOL DISTRICT Governing Board Member, Trustee Area 4",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:27+00:00",
+   "wfp_choice": "ALVA ALVAREZ",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "ALVA ALVAREZ",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    },
+    {
+     "name": "MARK LOPEZ",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    }
+   ]
   },
   "203": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.orange",
+   "contest": "ANAHEIM UNION HIGH SCHOOL DISTRICT Governing Board Member, Trustee Area 1",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:27+00:00",
+   "wfp_choice": "JESSICA GUERRERO",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "GERMAINE NEUMANN",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "JESSICA GUERRERO",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    },
+    {
+     "name": "LINDA MARTINEZ QUIJANO",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "ALFONSO RODRIGUEZ",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    }
+   ]
   },
   "204": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.orange",
+   "contest": "CITY OF COSTA MESA Member, City Council District 4",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:27+00:00",
+   "wfp_choice": "ANGELY ANDRADE VALLARTA",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "FISHER DERDERIAN",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "ANGELY ANDRADE VALLARTA",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    }
+   ]
   },
   "205": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.orange",
+   "contest": "CITY OF COSTA MESA Member, City Council District 5",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:27+00:00",
+   "wfp_choice": "KELLY BROWN",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "STEVE SMITH",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "KELLY BROWN",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    }
+   ]
   },
   "206": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.orange",
+   "contest": "CITY OF FULLERTON Member, City Council District 3",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:27+00:00",
+   "wfp_choice": "SHANA CHARLES",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "SHANA CHARLES",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    },
+    {
+     "name": "DANIEL H. KIM",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    }
+   ]
   },
   "207": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.orange",
+   "contest": "CITY OF FULLERTON Member, City Council District 5",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:27+00:00",
+   "wfp_choice": "JOZEF MALDONADO",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "OSCAR VALADEZ",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "JOZEF MALDONADO",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    },
+    {
+     "name": "DAVID FISCHBEIN",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    }
+   ]
   },
   "208": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.orange",
+   "contest": "CITY OF GARDEN GROVE Member, City Council District 4",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:27+00:00",
+   "wfp_choice": "HIEU NGUYEN",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "HIEU NGUYEN",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    },
+    {
+     "name": "JOE DOVINH",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "AMANDA MOHR",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "PATRICK PHAT BUI",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    }
+   ]
   },
   "209": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.orange",
+   "contest": "CITY OF IRVINE Member, City Council District 1",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:27+00:00",
+   "wfp_choice": "SUKHEE KANG",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "MELINDA LIU",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "JOHN PARK",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "SUKHEE KANG",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    }
+   ]
   },
   "210": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.orange",
+   "contest": "CITY OF IRVINE Member, City Council District 5",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:27+00:00",
+   "wfp_choice": "BETTY MARTINEZ FRANCO",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "BETTY MARTINEZ FRANCO",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    },
+    {
+     "name": "ANTHONY KUO",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "STEVEN ALVES",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "JULIE GLOSSBRENNER",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "BYRON SALVATIERRA",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    }
+   ]
   },
   "211": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.orange",
+   "contest": "MOULTON NIGUEL WATER DISTRICT Director, Full Term",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:27+00:00",
+   "wfp_choice": "JENNIFER ENGLE",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "WILLIAM \"BILL\" MOORHEAD",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "JENNIFER ENGLE",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    },
+    {
+     "name": "BRIAN PARKER",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "PATRICIA \"TRISH\" KELLEY",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "KURT LIND",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "MICHAEL CRUIKSHANK",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "LEENA RAY",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    }
+   ]
   },
   "212": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.orange",
+   "contest": "CITY OF SANTA ANA Member, City Council Ward 2",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:27+00:00",
+   "wfp_choice": "BENJAMIN VAZQUEZ",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "SELICA DIAZ",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "BENJAMIN VAZQUEZ",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    }
+   ]
   },
   "213": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.orange",
+   "contest": "CITY OF SANTA ANA Member, City Council Ward 4",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:27+00:00",
+   "wfp_choice": "SANDRA DE ANDA",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "PHIL BACERRA",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "SANDRA DE ANDA",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    }
+   ]
   },
   "214": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.orange",
+   "contest": "CITY OF SANTA ANA Member, City Council Ward 6",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:27+00:00",
+   "wfp_choice": "ISURI S. RAMOS",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "GIOVANNI CHAVEZ",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "ISURI S. RAMOS",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    }
+   ]
   },
   "215": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.orange",
+   "contest": "SANTA ANA UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area 4",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:27+00:00",
+   "wfp_choice": "KATELYN BRAZER ACEVES",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "SYLVIA IGLESIAS",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "KATELYN BRAZER ACEVES",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    }
+   ]
   },
   "216": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.orange",
+   "contest": "SANTA ANA UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area 5",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:27+00:00",
+   "wfp_choice": "HECTOR BUSTOS",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "HECTOR BUSTOS",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    },
+    {
+     "name": "ALEJANDRA RODRIGUEZ",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    }
+   ]
   },
   "217": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.orange",
+   "contest": "CITY OF STANTON Member, City Council District 1",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:27+00:00",
+   "wfp_choice": "DONALD TORRES",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "THOMAS M. FRAZIER",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "DONALD TORRES",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    }
+   ]
   },
   "218": {
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "ca.orange",
+   "contest": "CITY OF STANTON Member, City Council District 3",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T07:20:27+00:00",
+   "wfp_choice": "MARLON-RAY VELASCO",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "DEWAYNE A. NORMAND",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "MARLON-RAY VELASCO",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    },
+    {
+     "name": "DEBORA DONATHAN",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    }
+   ]
   },
   "219": {
    "status": "awaiting",
@@ -1989,67 +4126,67 @@
   "221": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Diego local races yet"
   },
   "222": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Diego local races yet"
   },
   "223": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Diego local races yet"
   },
   "224": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Diego local races yet"
   },
   "225": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Diego local races yet"
   },
   "226": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Diego local races yet"
   },
   "227": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Diego local races yet"
   },
   "228": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Diego local races yet"
   },
   "229": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Diego local races yet"
   },
   "230": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Diego local races yet"
   },
   "231": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Diego local races yet"
   },
   "232": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Diego local races yet"
   },
   "233": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Diego local races yet"
   },
   "234": {
    "status": "awaiting",
@@ -2084,17 +4221,17 @@
   "235": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Diego local races yet"
   },
   "236": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Diego local races yet"
   },
   "237": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "CA's scraped sources don't carry local races yet"
+   "note": "no source carries San Diego local races yet"
   },
   "238": {
    "status": "awaiting",
@@ -2416,7 +4553,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Jahana Hayes",
    "wfp_leading": null,
    "choices": [
@@ -2453,7 +4590,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Ned Lamont and Susan Bysiewicz",
    "wfp_leading": null,
    "choices": [
@@ -2504,7 +4641,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Ned Lamont and Susan Bysiewicz",
    "wfp_leading": null,
    "choices": [
@@ -2555,7 +4692,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Stephanie Thomas",
    "wfp_leading": null,
    "choices": [
@@ -2592,7 +4729,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "William Tong",
    "wfp_leading": null,
    "choices": [
@@ -2622,7 +4759,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Sean Scanlon",
    "wfp_leading": null,
    "choices": [
@@ -2652,7 +4789,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Erick Russell",
    "wfp_leading": null,
    "choices": [
@@ -2682,7 +4819,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Francis Lombard",
    "wfp_leading": null,
    "choices": [
@@ -2712,7 +4849,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Angie Parkinson",
    "wfp_leading": null,
    "choices": [
@@ -2749,7 +4886,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Geoffrey Luxenberg",
    "wfp_leading": null,
    "choices": [
@@ -2779,7 +4916,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Eleni Kavros DeGraw",
    "wfp_leading": null,
    "choices": [
@@ -2809,7 +4946,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Kate Farrar",
    "wfp_leading": null,
    "choices": [
@@ -2832,7 +4969,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Mike Demicco",
    "wfp_leading": null,
    "choices": [
@@ -2862,7 +4999,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Rebecca Martinez",
    "wfp_leading": null,
    "choices": [
@@ -2892,7 +5029,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Jane Wisialowski",
    "wfp_leading": null,
    "choices": [
@@ -2922,7 +5059,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Emmanuel \"Manny\" Sanchez",
    "wfp_leading": null,
    "choices": [
@@ -2952,7 +5089,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "David DeFronzo",
    "wfp_leading": null,
    "choices": [
@@ -2982,7 +5119,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Gary Turco",
    "wfp_leading": null,
    "choices": [
@@ -3005,7 +5142,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Amy Morrin Bello",
    "wfp_leading": null,
    "choices": [
@@ -3035,7 +5172,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Moise \"Moses\" Carelus",
    "wfp_leading": null,
    "choices": [
@@ -3065,7 +5202,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Cinzia Lettieri",
    "wfp_leading": null,
    "choices": [
@@ -3095,7 +5232,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Nick Menapace",
    "wfp_leading": null,
    "choices": [
@@ -3125,7 +5262,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Nick Gauthier",
    "wfp_leading": null,
    "choices": [
@@ -3155,7 +5292,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Dan Gaiewski",
    "wfp_leading": null,
    "choices": [
@@ -3185,7 +5322,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Aundre Bumgardner",
    "wfp_leading": null,
    "choices": [
@@ -3215,7 +5352,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Samantha Derenthal",
    "wfp_leading": null,
    "choices": [
@@ -3245,7 +5382,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Derell Q Wilson",
    "wfp_leading": null,
    "choices": [
@@ -3275,7 +5412,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Bob Fernandez",
    "wfp_leading": null,
    "choices": [
@@ -3305,7 +5442,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Susan Johnson",
    "wfp_leading": null,
    "choices": [
@@ -3335,7 +5472,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Michelle Doucette Cunningham",
    "wfp_leading": null,
    "choices": [
@@ -3365,7 +5502,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Gregg Haddad",
    "wfp_leading": null,
    "choices": [
@@ -3388,7 +5525,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Ellen Paul",
    "wfp_leading": null,
    "choices": [
@@ -3418,7 +5555,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Kevin Brown",
    "wfp_leading": null,
    "choices": [
@@ -3448,7 +5585,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Jane Garibay",
    "wfp_leading": null,
    "choices": [
@@ -3478,7 +5615,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Kim Becker",
    "wfp_leading": null,
    "choices": [
@@ -3508,7 +5645,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Maria Horn",
    "wfp_leading": null,
    "choices": [
@@ -3538,7 +5675,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Edward M. Corey",
    "wfp_leading": null,
    "choices": [
@@ -3568,7 +5705,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Suzanne Lovig",
    "wfp_leading": null,
    "choices": [
@@ -3598,7 +5735,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Ronald Napoli, Jr.",
    "wfp_leading": null,
    "choices": [
@@ -3628,7 +5765,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "DeWayne K. Wynn, Jr.",
    "wfp_leading": null,
    "choices": [
@@ -3658,7 +5795,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Nate Brown",
    "wfp_leading": null,
    "choices": [
@@ -3688,7 +5825,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Mary B. Fortier",
    "wfp_leading": null,
    "choices": [
@@ -3718,7 +5855,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Chad Cardillo",
    "wfp_leading": null,
    "choices": [
@@ -3748,7 +5885,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Kathleen Kimball",
    "wfp_leading": null,
    "choices": [
@@ -3778,7 +5915,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Josh Elliott",
    "wfp_leading": null,
    "choices": [
@@ -3808,7 +5945,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Laurie Sweet",
    "wfp_leading": null,
    "choices": [
@@ -3831,7 +5968,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Steven Winter",
    "wfp_leading": null,
    "choices": [
@@ -3854,7 +5991,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Moira Rader",
    "wfp_leading": null,
    "choices": [
@@ -3884,7 +6021,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Karen A. Martin",
    "wfp_leading": null,
    "choices": [
@@ -3914,7 +6051,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Robin Comey",
    "wfp_leading": null,
    "choices": [
@@ -3944,7 +6081,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Kara Rochelle",
    "wfp_leading": null,
    "choices": [
@@ -3974,7 +6111,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Michelle Embree Ku",
    "wfp_leading": null,
    "choices": [
@@ -4004,7 +6141,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Anne Weisberg",
    "wfp_leading": null,
    "choices": [
@@ -4034,7 +6171,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Farley A. Santos",
    "wfp_leading": null,
    "choices": [
@@ -4064,7 +6201,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Bob Godfrey",
    "wfp_leading": null,
    "choices": [
@@ -4094,7 +6231,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "MJ Shannon",
    "wfp_leading": null,
    "choices": [
@@ -4124,7 +6261,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Toni Lombardi",
    "wfp_leading": null,
    "choices": [
@@ -4154,7 +6291,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Kaitlyn Shake",
    "wfp_leading": null,
    "choices": [
@@ -4184,7 +6321,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Cristin McCarthy Vahey",
    "wfp_leading": null,
    "choices": [
@@ -4214,7 +6351,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Sarah Keitt",
    "wfp_leading": null,
    "choices": [
@@ -4244,7 +6381,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Anne M. Hughes",
    "wfp_leading": null,
    "choices": [
@@ -4274,7 +6411,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Kadeem Roberts",
    "wfp_leading": null,
    "choices": [
@@ -4304,7 +6441,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Kenneth Gucker",
    "wfp_leading": null,
    "choices": [
@@ -4334,7 +6471,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Larry Pemberton, Jr.",
    "wfp_leading": null,
    "choices": [
@@ -4371,7 +6508,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Dominique Johnson",
    "wfp_leading": null,
    "choices": [
@@ -4401,7 +6538,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Corey P. Paris",
    "wfp_leading": null,
    "choices": [
@@ -4424,7 +6561,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Maryam Khan",
    "wfp_leading": null,
    "choices": [
@@ -4454,7 +6591,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Saud Anwar",
    "wfp_leading": null,
    "choices": [
@@ -4484,7 +6621,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "MD Rahman",
    "wfp_leading": null,
    "choices": [
@@ -4514,7 +6651,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Rick Lopes",
    "wfp_leading": null,
    "choices": [
@@ -4544,7 +6681,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "David W. Kiner",
    "wfp_leading": null,
    "choices": [
@@ -4574,7 +6711,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Matt Lesser",
    "wfp_leading": null,
    "choices": [
@@ -4611,7 +6748,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Gary Winfield",
    "wfp_leading": null,
    "choices": [
@@ -4634,7 +6771,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Christine Cohen",
    "wfp_leading": null,
    "choices": [
@@ -4664,7 +6801,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Jack Fazzino",
    "wfp_leading": null,
    "choices": [
@@ -4694,7 +6831,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Jorge Cabrera",
    "wfp_leading": null,
    "choices": [
@@ -4724,7 +6861,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Catherine Osten",
    "wfp_leading": null,
    "choices": [
@@ -4754,7 +6891,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Martha E. Marx",
    "wfp_leading": null,
    "choices": [
@@ -4784,7 +6921,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Julie Kushner",
    "wfp_leading": null,
    "choices": [
@@ -4814,7 +6951,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Mae Flexer",
    "wfp_leading": null,
    "choices": [
@@ -4844,7 +6981,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Brandi Mandato",
    "wfp_leading": null,
    "choices": [
@@ -4874,7 +7011,7 @@
     "pct": 0.0,
     "text": "0 of 779 (0%)"
    },
-   "updated_at": "2026-11-03T07:02:57+00:00",
+   "updated_at": "2026-11-03T07:20:22+00:00",
    "wfp_choice": "Ethan Werstler",
    "wfp_leading": null,
    "choices": [
@@ -5486,7 +7623,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:03:01+00:00",
+   "updated_at": "2026-11-03T07:20:26+00:00",
    "wfp_choice": "Sarah R. David",
    "wfp_leading": null,
    "choices": [
@@ -5509,7 +7646,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:03:01+00:00",
+   "updated_at": "2026-11-03T07:20:26+00:00",
    "wfp_choice": "Karl Bickel",
    "wfp_leading": null,
    "choices": [
@@ -5539,7 +7676,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:03:01+00:00",
+   "updated_at": "2026-11-03T07:20:26+00:00",
    "wfp_choice": "Janssen Evelyn",
    "wfp_leading": null,
    "choices": [
@@ -5562,7 +7699,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:03:01+00:00",
+   "updated_at": "2026-11-03T07:20:26+00:00",
    "wfp_choice": "Chuck Cook",
    "wfp_leading": null,
    "choices": [
@@ -5592,7 +7729,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:03:01+00:00",
+   "updated_at": "2026-11-03T07:20:26+00:00",
    "wfp_choice": "Will Jawando",
    "wfp_leading": null,
    "choices": [
@@ -5622,7 +7759,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:03:01+00:00",
+   "updated_at": "2026-11-03T07:20:26+00:00",
    "wfp_choice": "Michelle García",
    "wfp_leading": null,
    "choices": [
@@ -5645,7 +7782,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:03:01+00:00",
+   "updated_at": "2026-11-03T07:20:26+00:00",
    "wfp_choice": "Victor Ramirez",
    "wfp_leading": null,
    "choices": [
@@ -5668,7 +7805,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:03:01+00:00",
+   "updated_at": "2026-11-03T07:20:26+00:00",
    "wfp_choice": "Shayla D. Adams-Stafford",
    "wfp_leading": null,
    "choices": [
@@ -5691,7 +7828,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:03:01+00:00",
+   "updated_at": "2026-11-03T07:20:26+00:00",
    "wfp_choice": "Tamara Davis Brown",
    "wfp_leading": null,
    "choices": [
@@ -5884,17 +8021,17 @@
   "477": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "NE's scraped sources don't carry local races yet"
+   "note": "no source carries Douglas local races yet"
   },
   "478": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "NE's scraped sources don't carry local races yet"
+   "note": "no source carries Douglas local races yet"
   },
   "479": {
    "status": "no_source",
    "match_status": "no_source",
-   "note": "NE's scraped sources don't carry local races yet"
+   "note": "no source carries Lancaster local races yet"
   },
   "480": {
    "status": "no_source",
@@ -5946,7 +8083,7 @@
     "pct": 0.0,
     "text": "0 of 2204 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "DEB HAALAND AND STEPHANIE GARCIA RICHARD",
    "wfp_leading": null,
    "choices": [
@@ -5976,7 +8113,7 @@
     "pct": 0.0,
     "text": "0 of 2204 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "DEB HAALAND AND STEPHANIE GARCIA RICHARD",
    "wfp_leading": null,
    "choices": [
@@ -6006,7 +8143,7 @@
     "pct": 0.0,
     "text": "0 of 2204 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "AMANDA LÓPEZ ASKIN",
    "wfp_leading": null,
    "choices": [
@@ -6036,7 +8173,7 @@
     "pct": 0.0,
     "text": "0 of 2204 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "JUAN DE JESUS SANCHEZ III",
    "wfp_leading": null,
    "choices": [
@@ -6066,7 +8203,7 @@
     "pct": 0.0,
     "text": "0 of 663 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "GABRIEL VASQUEZ",
    "wfp_leading": null,
    "choices": [
@@ -6096,7 +8233,7 @@
     "pct": 0.0,
     "text": "0 of 698 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "ERIC OLIVAS",
    "wfp_leading": null,
    "choices": [
@@ -6126,7 +8263,7 @@
     "pct": 0.0,
     "text": "0 of 27 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "CARI LEANN POWELL",
    "wfp_leading": null,
    "choices": [
@@ -6156,7 +8293,7 @@
     "pct": 0.0,
     "text": "0 of 190 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "DAISY ANN MALDONADO",
    "wfp_leading": null,
    "choices": [
@@ -6186,7 +8323,7 @@
     "pct": 0.0,
     "text": "0 of 113 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "ELOUISE BROWN",
    "wfp_leading": null,
    "choices": [
@@ -6223,7 +8360,7 @@
     "pct": 0.0,
     "text": "0 of 165 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "PAUL J MADRID",
    "wfp_leading": null,
    "choices": [
@@ -6253,7 +8390,7 @@
     "pct": 0.0,
     "text": "0 of 165 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "FRANK JAMES SMITH JR",
    "wfp_leading": null,
    "choices": [
@@ -6283,7 +8420,7 @@
     "pct": 0.0,
     "text": "0 of 27 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "KATHERINE JOANNA GAUER",
    "wfp_leading": null,
    "choices": [
@@ -6313,7 +8450,7 @@
     "pct": 0.0,
     "text": "0 of 29 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "G ANDRES ROMERO",
    "wfp_leading": null,
    "choices": [
@@ -6343,7 +8480,7 @@
     "pct": 0.0,
     "text": "0 of 34 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "JAVIER I MARTINEZ",
    "wfp_leading": null,
    "choices": [
@@ -6366,7 +8503,7 @@
     "pct": 0.0,
     "text": "0 of 22 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "PATRICIA A ROYBAL CABALLERO",
    "wfp_leading": null,
    "choices": [
@@ -6389,7 +8526,7 @@
     "pct": 0.0,
     "text": "0 of 29 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "MIGUEL P GARCIA",
    "wfp_leading": null,
    "choices": [
@@ -6419,7 +8556,7 @@
     "pct": 0.0,
     "text": "0 of 35 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "MARIANNA A ANAYA",
    "wfp_leading": null,
    "choices": [
@@ -6442,7 +8579,7 @@
     "pct": 0.0,
     "text": "0 of 25 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "JANELLE I ANYANONU",
    "wfp_leading": null,
    "choices": [
@@ -6465,7 +8602,7 @@
     "pct": 0.0,
     "text": "0 of 38 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "ELIZABETH L THOMSON",
    "wfp_leading": null,
    "choices": [
@@ -6488,7 +8625,7 @@
     "pct": 0.0,
     "text": "0 of 36 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "CRISTINA S PARAJON",
    "wfp_leading": null,
    "choices": [
@@ -6518,7 +8655,7 @@
     "pct": 0.0,
     "text": "0 of 23 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "ELEANOR CHAVEZ",
    "wfp_leading": null,
    "choices": [
@@ -6548,7 +8685,7 @@
     "pct": 0.0,
     "text": "0 of 38 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "ABBY CHRISTINE FOSTER",
    "wfp_leading": null,
    "choices": [
@@ -6578,7 +8715,7 @@
     "pct": 0.0,
     "text": "0 of 38 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "PAMELYA PAULETTE HERNDON",
    "wfp_leading": null,
    "choices": [
@@ -6608,7 +8745,7 @@
     "pct": 0.0,
     "text": "0 of 36 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "JOY I GARRATT",
    "wfp_leading": null,
    "choices": [
@@ -6638,7 +8775,7 @@
     "pct": 0.0,
     "text": "0 of 34 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "ELIZABETH DIANE TORRES-VELASQUEZ",
    "wfp_leading": null,
    "choices": [
@@ -6668,7 +8805,7 @@
     "pct": 0.0,
     "text": "0 of 31 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "LAURA MAIREL PARRA",
    "wfp_leading": null,
    "choices": [
@@ -6698,7 +8835,7 @@
     "pct": 0.0,
     "text": "0 of 26 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "MICAELA LARA CADENA",
    "wfp_leading": null,
    "choices": [
@@ -6728,7 +8865,7 @@
     "pct": 0.0,
     "text": "0 of 29 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "ANGELICA RUBIO",
    "wfp_leading": null,
    "choices": [
@@ -6751,7 +8888,7 @@
     "pct": 0.0,
     "text": "0 of 27 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "LORI A MARTINEZ",
    "wfp_leading": null,
    "choices": [
@@ -6781,7 +8918,7 @@
     "pct": 0.0,
     "text": "0 of 30 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "DAVID L MOONEY",
    "wfp_leading": null,
    "choices": [
@@ -6811,7 +8948,7 @@
     "pct": 0.0,
     "text": "0 of 41 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "KRISTINA ORTEZ",
    "wfp_leading": null,
    "choices": [
@@ -6834,7 +8971,7 @@
     "pct": 0.0,
     "text": "0 of 36 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "KATHLEEN M CATES",
    "wfp_leading": null,
    "choices": [
@@ -6864,7 +9001,7 @@
     "pct": 0.0,
     "text": "0 of 33 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "LINDA MICHELLE SERRATO",
    "wfp_leading": null,
    "choices": [
@@ -6887,7 +9024,7 @@
     "pct": 0.0,
     "text": "0 of 40 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "ANDREA D ROMERO",
    "wfp_leading": null,
    "choices": [
@@ -6910,7 +9047,7 @@
     "pct": 0.0,
     "text": "0 of 44 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "REENA C SZCZEPANSKI",
    "wfp_leading": null,
    "choices": [
@@ -6933,7 +9070,7 @@
     "pct": 0.0,
     "text": "0 of 25 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "SARAH ANGELINA SILVA",
    "wfp_leading": null,
    "choices": [
@@ -6963,7 +9100,7 @@
     "pct": 0.0,
     "text": "0 of 27 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "LUKE NICHOLAS JUNGMANN",
    "wfp_leading": null,
    "choices": [
@@ -6993,7 +9130,7 @@
     "pct": 0.0,
     "text": "0 of 32 precincts"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "CHARLOTTE L LITTLE",
    "wfp_leading": null,
    "choices": [
@@ -8973,7 +11110,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Shannon Long",
    "wfp_leading": null,
    "choices": [
@@ -9003,7 +11140,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Anita Earls",
    "wfp_leading": null,
    "choices": [
@@ -9033,7 +11170,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Marcia Morey",
    "wfp_leading": null,
    "choices": [
@@ -9063,7 +11200,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Alma S. Adams",
    "wfp_leading": null,
    "choices": [
@@ -9093,7 +11230,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Renee A. Price",
    "wfp_leading": null,
    "choices": [
@@ -9116,7 +11253,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Rodney D. Pierce",
    "wfp_leading": null,
    "choices": [
@@ -9146,7 +11283,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Rodney Sadler",
    "wfp_leading": null,
    "choices": [
@@ -9169,7 +11306,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Satana Deberry",
    "wfp_leading": null,
    "choices": [
@@ -9192,7 +11329,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Garry L. McFadden",
    "wfp_leading": null,
    "choices": [
@@ -9215,7 +11352,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:59+00:00",
+   "updated_at": "2026-11-03T07:20:24+00:00",
    "wfp_choice": "Annette Blackwell",
    "wfp_leading": null,
    "choices": [
@@ -9245,7 +11382,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:59+00:00",
+   "updated_at": "2026-11-03T07:20:24+00:00",
    "wfp_choice": "Brian Poindexter",
    "wfp_leading": null,
    "choices": [
@@ -9275,7 +11412,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:59+00:00",
+   "updated_at": "2026-11-03T07:20:24+00:00",
    "wfp_choice": "Vanessa Enoch",
    "wfp_leading": null,
    "choices": [
@@ -9305,7 +11442,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:56+00:00",
+   "updated_at": "2026-11-03T07:20:21+00:00",
    "wfp_choice": "Alison Hatheway",
    "wfp_leading": null,
    "choices": [
@@ -9328,7 +11465,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:56+00:00",
+   "updated_at": "2026-11-03T07:20:21+00:00",
    "wfp_choice": "Nicole L. Sanders",
    "wfp_leading": null,
    "choices": [
@@ -9351,7 +11488,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:56+00:00",
+   "updated_at": "2026-11-03T07:20:21+00:00",
    "wfp_choice": "Kari L. Bloom",
    "wfp_leading": null,
    "choices": [
@@ -9381,7 +11518,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:59+00:00",
+   "updated_at": "2026-11-03T07:20:24+00:00",
    "wfp_choice": "Charity Martin King",
    "wfp_leading": null,
    "choices": [
@@ -9404,7 +11541,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:59+00:00",
+   "updated_at": "2026-11-03T07:20:24+00:00",
    "wfp_choice": "Meredith R Lawson Rowe",
    "wfp_leading": null,
    "choices": [
@@ -9434,7 +11571,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:59+00:00",
+   "updated_at": "2026-11-03T07:20:24+00:00",
    "wfp_choice": "Munira Yasin Abdullahi",
    "wfp_leading": null,
    "choices": [
@@ -9464,7 +11601,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:59+00:00",
+   "updated_at": "2026-11-03T07:20:24+00:00",
    "wfp_choice": "Tristan W. Rader",
    "wfp_leading": null,
    "choices": [
@@ -9494,7 +11631,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:59+00:00",
+   "updated_at": "2026-11-03T07:20:24+00:00",
    "wfp_choice": "Davida Russell",
    "wfp_leading": null,
    "choices": [
@@ -9524,7 +11661,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:59+00:00",
+   "updated_at": "2026-11-03T07:20:24+00:00",
    "wfp_choice": "Karen Brownlee",
    "wfp_leading": null,
    "choices": [
@@ -9554,7 +11691,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:59+00:00",
+   "updated_at": "2026-11-03T07:20:24+00:00",
    "wfp_choice": "Jonathan R. Bradner",
    "wfp_leading": null,
    "choices": [
@@ -9584,7 +11721,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:59+00:00",
+   "updated_at": "2026-11-03T07:20:24+00:00",
    "wfp_choice": "Caleb Price",
    "wfp_leading": null,
    "choices": [
@@ -9614,7 +11751,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:59+00:00",
+   "updated_at": "2026-11-03T07:20:24+00:00",
    "wfp_choice": "Rose Lounsbury",
    "wfp_leading": null,
    "choices": [
@@ -9651,7 +11788,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:59+00:00",
+   "updated_at": "2026-11-03T07:20:24+00:00",
    "wfp_choice": "Tom Herner",
    "wfp_leading": null,
    "choices": [
@@ -9681,7 +11818,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:59+00:00",
+   "updated_at": "2026-11-03T07:20:24+00:00",
    "wfp_choice": "Daquan Neal",
    "wfp_leading": null,
    "choices": [
@@ -9711,7 +11848,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:59+00:00",
+   "updated_at": "2026-11-03T07:20:24+00:00",
    "wfp_choice": "Jayson Ameer Rasheed",
    "wfp_leading": null,
    "choices": [
@@ -9741,7 +11878,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:59+00:00",
+   "updated_at": "2026-11-03T07:20:24+00:00",
    "wfp_choice": "Mike Baker",
    "wfp_leading": null,
    "choices": [
@@ -9771,7 +11908,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:59+00:00",
+   "updated_at": "2026-11-03T07:20:24+00:00",
    "wfp_choice": "Laalitya Acharya",
    "wfp_leading": null,
    "choices": [
@@ -9801,7 +11938,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:59+00:00",
+   "updated_at": "2026-11-03T07:20:24+00:00",
    "wfp_choice": "Ian Schwartz",
    "wfp_leading": null,
    "choices": [
@@ -9838,7 +11975,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:59+00:00",
+   "updated_at": "2026-11-03T07:20:24+00:00",
    "wfp_choice": "Katie Koehler Wagner",
    "wfp_leading": null,
    "choices": [
@@ -9868,7 +12005,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:59+00:00",
+   "updated_at": "2026-11-03T07:20:24+00:00",
    "wfp_choice": "Cara Jacob",
    "wfp_leading": null,
    "choices": [
@@ -9898,7 +12035,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Tina Kotek",
    "wfp_leading": null,
    "choices": [
@@ -9935,7 +12072,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Jeff Merkley",
    "wfp_leading": null,
    "choices": [
@@ -9979,7 +12116,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Suzanne Bonamici",
    "wfp_leading": null,
    "choices": [
@@ -10009,7 +12146,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Val Hoyle",
    "wfp_leading": null,
    "choices": [
@@ -10046,7 +12183,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Sean Davis",
    "wfp_leading": null,
    "choices": [
@@ -10090,7 +12227,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Evelyn Kocher",
    "wfp_leading": null,
    "choices": [
@@ -10120,7 +12257,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Michelle Valigura",
    "wfp_leading": null,
    "choices": [
@@ -10157,7 +12294,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Bre Irish",
    "wfp_leading": null,
    "choices": [
@@ -10187,7 +12324,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Charles Maughan",
    "wfp_leading": null,
    "choices": [
@@ -10231,7 +12368,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Steph Routh",
    "wfp_leading": null,
    "choices": [
@@ -10275,7 +12412,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Jennifer Smith",
    "wfp_leading": null,
    "choices": [
@@ -10298,7 +12435,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Athena Aguiar",
    "wfp_leading": null,
    "choices": [
@@ -10328,7 +12465,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Mallory Hiefield",
    "wfp_leading": null,
    "choices": [
@@ -10393,7 +12530,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Marchelle Paholsky",
    "wfp_leading": null,
    "choices": [
@@ -10423,7 +12560,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Karim Delgado",
    "wfp_leading": null,
    "choices": [
@@ -10453,7 +12590,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Dorian Russell",
    "wfp_leading": null,
    "choices": [
@@ -10490,7 +12627,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Diana Jackson",
    "wfp_leading": null,
    "choices": [
@@ -10534,7 +12671,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Shannon Corr",
    "wfp_leading": null,
    "choices": [
@@ -10564,7 +12701,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Diane S Sykes",
    "wfp_leading": null,
    "choices": [
@@ -10594,7 +12731,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Heather Buch",
    "wfp_leading": null,
    "choices": [
@@ -10624,7 +12761,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Richard Smith Savage",
    "wfp_leading": null,
    "choices": [
@@ -10661,7 +12798,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Allie Ball",
    "wfp_leading": null,
    "choices": [
@@ -10698,7 +12835,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Will Anderson",
    "wfp_leading": null,
    "choices": [
@@ -10735,7 +12872,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Shannon Singleton",
    "wfp_leading": null,
    "choices": [
@@ -10772,7 +12909,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Nathan Ong Norris",
    "wfp_leading": null,
    "choices": [
@@ -10837,7 +12974,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Bri Williams",
    "wfp_leading": null,
    "choices": [
@@ -10902,7 +13039,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Callee Ackland",
    "wfp_leading": null,
    "choices": [
@@ -10932,7 +13069,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Roy Kaufmann",
    "wfp_leading": null,
    "choices": [
@@ -10969,7 +13106,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Tom Andersen",
    "wfp_leading": null,
    "choices": [
@@ -10999,7 +13136,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Paul Evans",
    "wfp_leading": null,
    "choices": [
@@ -11036,7 +13173,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Michael Welsh",
    "wfp_leading": null,
    "choices": [
@@ -11066,7 +13203,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Nathan Sosa",
    "wfp_leading": null,
    "choices": [
@@ -11096,7 +13233,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Thuy Tran",
    "wfp_leading": null,
    "choices": [
@@ -11126,7 +13263,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Willy Chotzen",
    "wfp_leading": null,
    "choices": [
@@ -11156,7 +13293,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Lamar Wise",
    "wfp_leading": null,
    "choices": [
@@ -11186,7 +13323,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Darla Mead",
    "wfp_leading": null,
    "choices": [
@@ -11216,7 +13353,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Sierrah Williams",
    "wfp_leading": null,
    "choices": [
@@ -11253,7 +13390,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Courtney Neron Misslin",
    "wfp_leading": null,
    "choices": [
@@ -11290,7 +13427,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Nicole Bassett",
    "wfp_leading": null,
    "choices": [
@@ -11320,7 +13457,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "James I Manning Jr",
    "wfp_leading": null,
    "choices": [
@@ -11350,7 +13487,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Kipperlyn Sinclair",
    "wfp_leading": null,
    "choices": [
@@ -11385,7 +13522,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Kori Rodley",
    "wfp_leading": null,
    "choices": [
@@ -11415,7 +13552,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Ivan Maluski",
    "wfp_leading": null,
    "choices": [
@@ -11445,7 +13582,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Joanna Robinson",
    "wfp_leading": null,
    "choices": [
@@ -11475,7 +13612,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Lesly M Munoz",
    "wfp_leading": null,
    "choices": [
@@ -11505,7 +13642,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Ben Bowman",
    "wfp_leading": null,
    "choices": [
@@ -11535,7 +13672,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Tammy Carpenter",
    "wfp_leading": null,
    "choices": [
@@ -11565,7 +13702,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Dacia Grayber",
    "wfp_leading": null,
    "choices": [
@@ -11595,7 +13732,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Cyrus Javadi",
    "wfp_leading": null,
    "choices": [
@@ -11625,7 +13762,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Farrah Chaichi",
    "wfp_leading": null,
    "choices": [
@@ -11655,7 +13792,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Jules Walters",
    "wfp_leading": null,
    "choices": [
@@ -11685,7 +13822,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Michael W Sugar",
    "wfp_leading": null,
    "choices": [
@@ -11722,7 +13859,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Mark Gamba",
    "wfp_leading": null,
    "choices": [
@@ -11752,7 +13889,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Travis Nelson",
    "wfp_leading": null,
    "choices": [
@@ -11782,7 +13919,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Zach Hudson",
    "wfp_leading": null,
    "choices": [
@@ -11812,7 +13949,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Deb Patterson",
    "wfp_leading": null,
    "choices": [
@@ -11842,7 +13979,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Virginia Stapleton",
    "wfp_leading": null,
    "choices": [
@@ -11872,7 +14009,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Myrna A Munoz",
    "wfp_leading": null,
    "choices": [
@@ -11902,7 +14039,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Kayse Jama",
    "wfp_leading": null,
    "choices": [
@@ -11925,7 +14062,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Nafisa Fai",
    "wfp_leading": null,
    "choices": [
@@ -11955,7 +14092,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Morgan Schmidt",
    "wfp_leading": null,
    "choices": [
@@ -11985,7 +14122,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Jeremy Gordon",
    "wfp_leading": null,
    "choices": [
@@ -12015,7 +14152,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Sara Duncan",
    "wfp_leading": null,
    "choices": [
@@ -12045,7 +14182,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Maria Hinojos Pressey",
    "wfp_leading": null,
    "choices": [
@@ -12075,7 +14212,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Isabella Lee Tibbetts",
    "wfp_leading": null,
    "choices": [
@@ -12105,7 +14242,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Evelyn Kocher",
    "wfp_leading": null,
    "choices": [
@@ -12135,7 +14272,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Angelita Morillo",
    "wfp_leading": null,
    "choices": [
@@ -12298,7 +14435,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Tiffany Koyama Lane",
    "wfp_leading": null,
    "choices": [
@@ -12461,7 +14598,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Jamey Evenstar",
    "wfp_leading": null,
    "choices": [
@@ -12561,7 +14698,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Jeremy Beausoleil Smith",
    "wfp_leading": null,
    "choices": [
@@ -12661,7 +14798,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Mitch Green",
    "wfp_leading": null,
    "choices": [
@@ -12761,7 +14898,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Heather Coleman-Cox",
    "wfp_leading": null,
    "choices": [
@@ -12791,7 +14928,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Teo Ramirez",
    "wfp_leading": null,
    "choices": [
@@ -12835,7 +14972,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Joseph Hagedorn",
    "wfp_leading": null,
    "choices": [
@@ -12865,7 +15002,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Chris Rabb",
    "wfp_leading": null,
    "choices": [
@@ -12895,7 +15032,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Bob Brooks",
    "wfp_leading": null,
    "choices": [
@@ -12925,7 +15062,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Summer Lee",
    "wfp_leading": null,
    "choices": [
@@ -12955,7 +15092,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Chris Deluzio",
    "wfp_leading": null,
    "choices": [
@@ -12985,7 +15122,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Aerion Andrew Abney",
    "wfp_leading": null,
    "choices": [
@@ -13008,7 +15145,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Lindsay Powell",
    "wfp_leading": null,
    "choices": [
@@ -13031,7 +15168,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Ce-Ce Gerlach",
    "wfp_leading": null,
    "choices": [
@@ -13061,7 +15198,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "La'Tasha D Mayes",
    "wfp_leading": null,
    "choices": [
@@ -13084,7 +15221,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Jon Lloyd",
    "wfp_leading": null,
    "choices": [
@@ -13114,7 +15251,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Brad Chambers",
    "wfp_leading": null,
    "choices": [
@@ -13144,7 +15281,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Jen Mazzocco",
    "wfp_leading": null,
    "choices": [
@@ -13167,7 +15304,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Hadley Haas",
    "wfp_leading": null,
    "choices": [
@@ -13197,7 +15334,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Brittany Bloam",
    "wfp_leading": null,
    "choices": [
@@ -13227,7 +15364,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Izzy Smith-Wade-El",
    "wfp_leading": null,
    "choices": [
@@ -13257,7 +15394,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Caleb Mccoy",
    "wfp_leading": null,
    "choices": [
@@ -13287,7 +15424,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Paul Takac",
    "wfp_leading": null,
    "choices": [
@@ -13317,7 +15454,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Sara Agerton",
    "wfp_leading": null,
    "choices": [
@@ -13347,7 +15484,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Nikki Rivera",
    "wfp_leading": null,
    "choices": [
@@ -13377,7 +15514,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Fern Leard",
    "wfp_leading": null,
    "choices": [
@@ -13407,7 +15544,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Johanny Cepeda-Freytiz",
    "wfp_leading": null,
    "choices": [
@@ -13430,7 +15567,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Meriam Sabih",
    "wfp_leading": null,
    "choices": [
@@ -13460,7 +15597,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Megan Griffin-Shelley",
    "wfp_leading": null,
    "choices": [
@@ -13483,7 +15620,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Carol Kazeem",
    "wfp_leading": null,
    "choices": [
@@ -13513,7 +15650,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Heather Boyd",
    "wfp_leading": null,
    "choices": [
@@ -13536,7 +15673,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Rob Gurtcheff",
    "wfp_leading": null,
    "choices": [
@@ -13566,7 +15703,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Thomas Kucer",
    "wfp_leading": null,
    "choices": [
@@ -13596,7 +15733,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Joe Hohenstein",
    "wfp_leading": null,
    "choices": [
@@ -13626,7 +15763,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Malcolm Kenyatta",
    "wfp_leading": null,
    "choices": [
@@ -13649,7 +15786,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Elizabeth Fiedler",
    "wfp_leading": null,
    "choices": [
@@ -13672,7 +15809,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Rachel Cuevas",
    "wfp_leading": null,
    "choices": [
@@ -13702,7 +15839,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Rick Krajewski",
    "wfp_leading": null,
    "choices": [
@@ -13725,7 +15862,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Roni Green",
    "wfp_leading": null,
    "choices": [
@@ -13748,7 +15885,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Tarik Khan",
    "wfp_leading": null,
    "choices": [
@@ -13771,7 +15908,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Sierra Mcneil",
    "wfp_leading": null,
    "choices": [
@@ -13794,7 +15931,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Danilo Burgos",
    "wfp_leading": null,
    "choices": [
@@ -13817,7 +15954,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Chris Johnson",
    "wfp_leading": null,
    "choices": [
@@ -13840,7 +15977,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Andre D Carroll",
    "wfp_leading": null,
    "choices": [
@@ -13863,7 +16000,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Art Haywood",
    "wfp_leading": null,
    "choices": [
@@ -13893,7 +16030,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Mark Pinsley",
    "wfp_leading": null,
    "choices": [
@@ -13923,7 +16060,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Jackie Baker",
    "wfp_leading": null,
    "choices": [
@@ -13953,7 +16090,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Chris Thomas",
    "wfp_leading": null,
    "choices": [
@@ -13990,7 +16127,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Lindsey Williams",
    "wfp_leading": null,
    "choices": [
@@ -14020,7 +16157,7 @@
     "pct": 0.45,
     "text": "41 Out of 9,066 Districts (0.45%)  - IN PERSON BALLOT REPORTING ONLY"
    },
-   "updated_at": "2026-11-03T07:02:50+00:00",
+   "updated_at": "2026-11-03T07:20:14+00:00",
    "wfp_choice": "Katie Muth",
    "wfp_leading": null,
    "choices": [
@@ -14488,7 +16625,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:54+00:00",
+   "updated_at": "2026-11-03T07:20:19+00:00",
    "wfp_choice": "Michelle Butler",
    "wfp_leading": null,
    "choices": [
@@ -15964,7 +18101,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:56+00:00",
+   "updated_at": "2026-11-03T07:20:21+00:00",
    "wfp_choice": "Yes",
    "wfp_leading": null,
    "choices": [
@@ -15994,7 +18131,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:56+00:00",
+   "updated_at": "2026-11-03T07:20:21+00:00",
    "wfp_choice": "Yes",
    "wfp_leading": null,
    "choices": [
@@ -16034,7 +18171,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Yes",
    "wfp_leading": null,
    "choices": [
@@ -16064,7 +18201,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Yes",
    "wfp_leading": null,
    "choices": [
@@ -16094,7 +18231,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-03T07:02:58+00:00",
+   "updated_at": "2026-11-03T07:20:23+00:00",
    "wfp_choice": "Yes",
    "wfp_leading": null,
    "choices": [

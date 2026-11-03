@@ -1,5 +1,6 @@
 wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id,choice,note
 93,CA,Damon Connolly,"State Senate, District 12",needs_review,surname_any_district,ca,state-senate/2,State Senate District 2,Damon Connolly,Damon Connolly,district differs from WFP listing (12 -> 2)
+194,CA,Helen Kreiger,West Hollywood City Council,needs_review,near_name,ca.los_angeles,10533,CITY OF WEST HOLLYWOOD GENERAL MUNICIPAL ELECTION Member of the City Council,26655,HELEN KRIEGER,"surname differs: WFP 'Helen Kreiger', feed 'HELEN KRIEGER'"
 494,NM,Cari Power,"Socorro County Commission, District 1",needs_review,near_name,nm,11279,County Commissioner by Commissioner District - Socorro - Socorro District 1,20001,CARI LEANN POWELL,"surname differs: WFP 'Cari Power', feed 'CARI LEANN POWELL'"
 925,OH,Annette Blackwell,Auditor,needs_review,name_in_state,oh,_55A742EA54E009A3E0633390EE0AE290,Auditor of State,Annette Blackwell,Annette Blackwell,found by name only; check the office (Auditor of State)
 986,OR,Angeline Nicole Basett,State Senate District 26,needs_review,near_name,or,300038717,"State Senator, 26th District",Nicole Bassett,Nicole Bassett,"name differs: WFP 'Angeline Nicole Basett', feed 'Nicole Bassett'"
@@ -10,6 +11,45 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 1076,RI,Jackie Goldman,"Providence City Council, Ward 5",needs_review,near_name,ri,01000000-59ac-daed-6be1-08df1e27bc63,Providence: City Council Ward 5,01000000-59ac-daed-ed3e-08df1e27bc6b,Jacqueline Goldman,"first name differs: WFP 'Jackie Goldman', feed 'Jacqueline Goldman'"
 1080,RI,Libby Merrill,"East Providence School Committee, Ward 3",needs_review,near_name,ri,01000000-59ac-daed-cb6d-08df1e27af35,East Providence: Non-Partisan School Committee Ward 3,01000000-59ac-daed-7134-08df1e27af3e,Elizabeth Merrill,"first name differs: WFP 'Libby Merrill', feed 'Elizabeth Merrill'"
 1112,WA,Danny Tarkenton,Spokane County Prosecutor,needs_review,name_in_state,wa,01000000-bd5d-c14f-aefb-08df12b2898e,Prosecuting Attorney,01000000-bd5d-c14f-afad-08df12b2898e,Danny Tarkenton,found by name only; check the office (Prosecuting Attorney)
+18,CA,Tamisha Torres Walker,"Antioch City Council, District 1",unmatched,,,,,,,no 'walker' in any CA contest loaded
+19,CA,Monica Wilson,"Antioch City Council, District 4",unmatched,,,,,,,no 'wilson' in any CA contest loaded
+20,CA,Brandon Dawkins,"Antioch Unified School District Board of Education, Trustee Area 5",unmatched,,,,,,,no 'dawkins' in any CA contest loaded
+29,CA,Jaria Jaug,"Berryessa Union School District Board of Trustees, At-large",unmatched,,,,,,,no 'jaug' in any CA contest loaded
+35,CA,Laura Nakamura,"Concord City Council, District 5",unmatched,,,,,,,no 'nakamura' in any CA contest loaded
+36,CA,Cameron Sasai,"Contra Costa Community College Governing Board, Ward 1",unmatched,,,,,,,no 'sasai' in any CA contest loaded
+37,CA,Rebecca Barrett,"Contra Costa Community College Governing Board, Ward 3",unmatched,,,,,,,no 'barrett' in any CA contest loaded
+42,CA,Mer Currey Nunez,"East Side Union High School District Board of Trustees, Area 1",unmatched,,,,,,,no 'nunez' in any CA contest loaded
+43,CA,Anthony Montes,"East Side Union High School District Board of Trustees, Area 2",unmatched,,,,,,,no 'montes' in any CA contest loaded
+44,CA,Alexander Gvatua,"Foothill De Anza Community College District Board of Trustees, Area 2",unmatched,,,,,,,no 'gvatua' in any CA contest loaded
+46,CA,Rebeca Armendariz,"Gilroy City Council, District 6",unmatched,,,,,,,no 'armendariz' in any CA contest loaded
+49,CA,Chris Herrod,"Healdsburg City Council, District 4",unmatched,,,,,,,no 'herrod' in any CA contest loaded
+50,CA,Aaron Burnett,"Larkspur City Council, At-large",unmatched,,,,,,,no 'burnett' in any CA contest loaded
+51,CA,Seema Kanani,"Milpitas City Council, At-large",unmatched,,,,,,,no 'kanani' in any CA contest loaded
+52,CA,Erik Poicon,"Mountain View City Council, At-large",unmatched,,,,,,,no 'poicon' in any CA contest loaded
+53,CA,IdaRose Sylvester,"Mountain View City Council, At-large",unmatched,,,,,,,no 'sylvester' in any CA contest loaded
+59,CA,Eric Vazquez,"Petaluma City Council, District 3",unmatched,,,,,,,no 'vazquez' in any CA contest loaded
+60,CA,Sarah Seitchik Sebastian,"Petaluma City Schools Board of Trustees, Area 5",unmatched,,,,,,,no 'sebastian' in any CA contest loaded
+61,CA,Truc “Christy” Lam-Julian,"Pinole City Council, At-large",unmatched,,,,,,,no 'julian' in any CA contest loaded
+62,CA,Destiny Briscoe,"Pittsburg Unified School District Board of Education, At-large",unmatched,,,,,,,no 'briscoe' in any CA contest loaded
+64,CA,Claudia Jimenez,Richmond Mayor,unmatched,,,,,,,no 'jimenez' in any CA contest loaded
+73,CA,Peter Ortiz,"San Jose City Council, District 5",unmatched,,,,,,,no 'ortiz' in any CA contest loaded
+74,CA,Gordon Chester,"San Jose City Council, District 9",unmatched,,,,,,,no 'chester' in any CA contest loaded
+75,CA,Michael Melillo,"San Jose Unified School District Board of Trustees, Area 4",unmatched,,,,,,,no 'melillo' in any CA contest loaded
+80,CA,Kevin Park,Santa Clara Mayor,unmatched,,,,,,,no 'park' in any CA contest loaded
+81,CA,Melanie Jones-Carter,"Santa Rosa City Council, District 4",unmatched,,,,,,,no 'carter' in any CA contest loaded
+82,CA,Joanna Paun,"Sonoma County Board of Supervisors, District 2",unmatched,,,,,,,no 'paun' in any CA contest loaded
+83,CA,Melanie Bagby,"Sonoma County Board of Supervisors, District 4",unmatched,,,,,,,no 'bagby' in any CA contest loaded
+84,CA,Caitlin Quinn,"Sonoma County Office of Education, District 2",unmatched,,,,,,,no 'quinn' in any CA contest loaded
+102,CA,Kristina Pine,"Ventura County Board of Education, Trustee Area 4",unmatched,,,,,,,no 'pine' in any CA contest loaded
+113,CA,Jasmine Duron,"Oxnard School Board Trustee, Area 2",unmatched,,,,,,,no 'duron' in any CA contest loaded
+125,CA,Sam Cohen,"Simi Valley City Council, Distrcit 2",unmatched,,,,,,,no 'cohen' in any CA contest loaded
+126,CA,Josh Gray,"Simi Valley City Council, District 4",unmatched,,,,,,,no 'gray' in any CA contest loaded
+131,CA,Liz Campos,"Ventura City Council, Distcit 1",unmatched,,,,,,,no 'campos' in any CA contest loaded
+132,CA,Karba Eckley,"Ventura City Council, District 6",unmatched,,,,,,,no 'eckley' in any CA contest loaded
+163,CA,Estefany Castañeda,"Centinela Valley Union High School District, Trustee Area 5",unmatched,,,,,,,no 'castaneda' in any CA contest loaded
+168,CA,Andrew Yam,Garvey Unified School District,unmatched,,,,,,,no 'yam' in any CA contest loaded
+181,CA,Alton Wang,"Pasadena Area Community College District, Trustee Area No. 7",unmatched,,,,,,,no 'wang' in any CA contest loaded
+198,CA,Tiffany Ackley,"Aliso Viejo City Council, At-large",unmatched,,,,,,,no 'ackley' in any CA contest loaded
 1210,OH,"Columbus, OH | Issue 8: Our City, Our Say",Ballot Measure,unmatched,,,,,,,measure '8': not found
 1211,OH,Ohio | Senate Bill 396: Paid Family and Medical Leave Act,Ballot Measure,unmatched,,,,,,,measure None: not found
 989,OR,Christina Stephenson,Oregon Labor Commissioner,unmatched,,,,,,,no 'stephenson' in any OR contest loaded
@@ -39,6 +79,27 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 156,CA,Clarissa Cervantes,"State Assembly, District 58",auto,district_surname,ca,state-assembly/58,State Assembly District 58,Clarissa Cervantes,Clarissa Cervantes,
 157,CA,Corey Jackson,"State Assembly, District 60",auto,district_surname,ca,state-assembly/60,State Assembly District 60,Corey A Jackson,Corey A Jackson,
 159,CA,Samuel Sukaton,"Board of Equalization, District 3",auto,district_surname,ca,board-of-equalization/3,Board of Equalization District 3,Samuel P. Sukaton,Samuel P. Sukaton,
+160,CA,Mike Van Gorder,Burbank City Council,auto,name_in_state,ca.los_angeles,10425,CITY OF BURBANK GENERAL MUNICIPAL ELECTION Member of the City Council,26688,MIKE VAN GORDER,
+161,CA,Nikki Perez,Burbank City Council,auto,name_in_state,ca.los_angeles,10425,CITY OF BURBANK GENERAL MUNICIPAL ELECTION Member of the City Council,26681,NIKKI PEREZ,
+162,CA,Nolan Southerland,Burbank City Council,auto,name_in_state,ca.los_angeles,10425,CITY OF BURBANK GENERAL MUNICIPAL ELECTION Member of the City Council,26685,NOLAN SOUTHERLAND,
+164,CA,Cynthia Gonzalez,Cudahy City Council,auto,name_in_state,ca.los_angeles,10438,CITY OF CUDAHY GENERAL MUNICIPAL ELECTION Member of the City Council,26673,CYNTHIA GONZALEZ,
+165,CA,Thomas Small,Culver City Council,auto,name_in_state,ca.los_angeles,10439,CITY OF CULVER CITY GENERAL MUNICIPAL ELECTION Member of the City Council,26696,THOMAS AUJERO SMALL,
+166,CA,Brian Guerrero,Culver City Unified School District,auto,name_in_state,ca.los_angeles,10636,CULVER CITY UNIFIED SCHOOL DISTRICT Governing Board Member,26182,BRIAN GUERRERO,
+167,CA,Stephanie Loredo,Culver City Unified School District,auto,name_in_state,ca.los_angeles,10636,CULVER CITY UNIFIED SCHOOL DISTRICT Governing Board Member,26060,STEPHANIE LOREDO,
+169,CA,Nancy Martiz,"Huntington Park City Council, District 2",auto,name_in_state,ca.los_angeles,10462,"CITY OF HUNTINGTON PARK GENERAL MUNICIPAL ELECTION Member of the City Council, 2nd District (Unexpired term ending December 8, 2028)",26598,NANCY CINDY MARTIZ,
+170,CA,David Ross,"Los Angeles County Superior Court, Office 131",auto,name_in_state,ca.los_angeles,10827,JUDGE OF THE SUPERIOR COURT Office No. 131,25645,DAVID ROSS,
+171,CA,Justin Clayton,"Los Angeles County Superior Court, Office 65",auto,name_in_state,ca.los_angeles,10825,JUDGE OF THE SUPERIOR COURT Office No. 65,25641,JUSTIN ALLEN CLAYTON,
+172,CA,Marissa Roy,"Los Angeles City Attorney, Citywide",auto,name_in_state,ca.los_angeles,10768,LOS ANGELES CITY GENERAL MUNICIPAL ELECTION City Attorney,25529,MARISSA ROY,
+173,CA,Estuardo Mazariegos,"Los Angeles City Council, District 9",auto,name_in_state,ca.los_angeles,10771,"LOS ANGELES CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 9th District",25534,ESTUARDO MAZARIEGOS,
+174,CA,Darryn Harris,"Los Angeles Community College District, Seat 4",auto,name_in_state,ca.los_angeles,10589,"LOS ANGELES COMMUNITY COLLEGE DISTRICT Member of the Board of Trustees, Seat 4",25813,DARRYN HARRIS,
+175,CA,Nithya Raman,Los Angeles Mayor,auto,name_in_state,ca.los_angeles,10767,LOS ANGELES CITY GENERAL MUNICIPAL ELECTION Mayor,25526,NITHYA RAMAN,
+176,CA,Emiliano Arellano,Lynwood City Council,auto,name_in_state,ca.los_angeles,10477,CITY OF LYNWOOD GENERAL MUNICIPAL ELECTION Member of the City Council,26521,EMILIANO ARELLANO,
+177,CA,Juan Munoz-Guevara,Lynwood City Council,auto,name_in_state,ca.los_angeles,10477,CITY OF LYNWOOD GENERAL MUNICIPAL ELECTION Member of the City Council,26519,JUAN MUÑOZ-GUEVARA,
+178,CA,Mishaun Watkins,Lynwood City Council,auto,name_in_state,ca.los_angeles,10477,CITY OF LYNWOOD GENERAL MUNICIPAL ELECTION Member of the City Council,26516,MISHAUN WATKINS,
+179,CA,Mayra Alejandra Aguiluz,Maywood City Council,auto,name_in_state,ca.los_angeles,10480,CITY OF MAYWOOD GENERAL MUNICIPAL ELECTION Member of the City Council,26564,MAYRA AGUILUZ,
+180,CA,Steven Kung,Monterey Park City Council,auto,name_in_state,ca.los_angeles,10491,"CITY OF MONTEREY PARK GENERAL MUNICIPAL ELECTION Member of the City Council, 5th District",26522,STEVEN KUNG,
+182,CA,Brandon Macias,"Rowland Unified School Board, Trustee – District 3",auto,name_in_state,ca.los_angeles,10667,"ROWLAND UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area No. 3",25877,BRANDON M. MACIAS,
+183,CA,Caroline Torosis,Santa Monica City Council,auto,name_in_state,ca.los_angeles,10514,CITY OF SANTA MONICA GENERAL MUNICIPAL ELECTION Member of the City Council,26648,CAROLINE M. TOROSIS,
 184,CA,Nick Schultz,"State Assembly, District 44",auto,district_surname,ca,state-assembly/44,State Assembly District 44,"Nicholas ""Nick"" Schultz","Nicholas ""Nick"" Schultz",
 185,CA,Isaac Bryan,"State Assembly, District 55",auto,district_surname,ca,state-assembly/55,State Assembly District 55,Isaac G. Bryan,Isaac G. Bryan,
 186,CA,Sade Elhawary,"State Assembly, District 57",auto,district_surname,ca,state-assembly/57,State Assembly District 57,Sade Elhawary,Sade Elhawary,
@@ -48,6 +109,30 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 190,CA,Sarah Rascón,"State Senate, District 26",auto,district_surname,ca,state-senate/26,State Senate District 26,Sarah Rascón,Sarah Rascón,
 191,CA,Lola Smallwood-Cuevas,"State Senate, District 28",auto,district_surname,ca,state-senate/28,State Senate District 28,Lola Smallwood-Cuevas,Lola Smallwood-Cuevas,
 192,CA,Angela Gonzales-Torres,"U.S. House of Representatives, District 34",auto,district_surname,ca,us-rep/34,U.S. House of Representatives District 34,Angela Gonzales-Torres,Angela Gonzales-Torres,
+193,CA,Leslie Garcia,"West Covina City Council, District 2",auto,name_in_state,ca.los_angeles,10527,"CITY OF WEST COVINA GENERAL MUNICIPAL ELECTION Member of the City Council, 2nd District",26777,LESLIE H. GARCIA,
+195,CA,Stephen Post,West Hollywood City Council,auto,name_in_state,ca.los_angeles,10533,CITY OF WEST HOLLYWOOD GENERAL MUNICIPAL ELECTION Member of the City Council,26658,STEPHEN J. POST,
+196,CA,Chelsea Byers,"West Hollywood City Council, At-large",auto,name_in_state,ca.los_angeles,10533,CITY OF WEST HOLLYWOOD GENERAL MUNICIPAL ELECTION Member of the City Council,26669,CHELSEA BYERS,
+197,CA,Rebecca Hamburg Cappy,Wiseburn USD School Board,auto,name_in_state,ca.los_angeles,10678,WISEBURN UNIFIED SCHOOL DISTRICT Governing Board Member,25809,REBECCA HAMBURG CAPPY,
+199,CA,Steven Von der Porten,"Aliso Viejo City Council, District 2",auto,name_in_state,ca.orange,4902,"CITY OF ALISO VIEJO Member, City Council District 2",13038,STEVEN VON DER PORTEN,
+200,CA,Marie Tsaasan,"Aliso Viejo City Council, District 3",auto,name_in_state,ca.orange,4903,"CITY OF ALISO VIEJO Member, City Council District 3, Short Term",12851,MARIE TSAASAN,
+201,CA,Juan Alvarez,"Anaheim Elementary School District, Area 2",auto,name_in_state,ca.orange,3254,"ANAHEIM ELEMENTARY SCHOOL DISTRICT Governing Board Member, Trustee Area 2",12926,JUAN GABRIEL ALVAREZ,
+202,CA,Alva Alvarez,"Anaheim Elementary School District, Area 4",auto,name_in_state,ca.orange,3256,"ANAHEIM ELEMENTARY SCHOOL DISTRICT Governing Board Member, Trustee Area 4",12930,ALVA ALVAREZ,
+203,CA,Jessica Guerrero,"Anaheim Union High School District, Area 1",auto,name_in_state,ca.orange,3223,"ANAHEIM UNION HIGH SCHOOL DISTRICT Governing Board Member, Trustee Area 1",12839,JESSICA GUERRERO,
+204,CA,Angely Andrade Vallarta,"Costa Mesa City Council, District 4",auto,name_in_state,ca.orange,5037,"CITY OF COSTA MESA Member, City Council District 4",13249,ANGELY ANDRADE VALLARTA,
+205,CA,Kelly Brown,"Costa Mesa City Council, District 5",auto,name_in_state,ca.orange,5038,"CITY OF COSTA MESA Member, City Council District 5",13182,KELLY BROWN,
+206,CA,Shana Charles,"Fullerton City Council, District 3",auto,name_in_state,ca.orange,5073,"CITY OF FULLERTON Member, City Council District 3",13215,SHANA CHARLES,
+207,CA,Jozef Maldonado,"Fullerton City Council, District 5",auto,name_in_state,ca.orange,5075,"CITY OF FULLERTON Member, City Council District 5",13264,JOZEF MALDONADO,
+208,CA,Hieu Nguyen,"Garden Grove City Council, District 4",auto,name_in_state,ca.orange,5087,"CITY OF GARDEN GROVE Member, City Council District 4",12885,HIEU NGUYEN,
+209,CA,Sukhee Kang,"Irvine City Council, District 1",auto,name_in_state,ca.orange,5102,"CITY OF IRVINE Member, City Council District 1",13029,SUKHEE KANG,
+210,CA,Betty Martinez Franco,"Irvine City Council, District 5",auto,name_in_state,ca.orange,5106,"CITY OF IRVINE Member, City Council District 5",12951,BETTY MARTINEZ FRANCO,
+211,CA,Jennifer Engle,Moulton Niguel Water Board Director,auto,name_in_state,ca.orange,6177,"MOULTON NIGUEL WATER DISTRICT Director, Full Term",12807,JENNIFER ENGLE,
+212,CA,Benjamin Vazquez,"Santa Ana City Council, Ward 2",auto,name_in_state,ca.orange,5223,"CITY OF SANTA ANA Member, City Council Ward 2",13231,BENJAMIN VAZQUEZ,
+213,CA,Sandra De Anda,"Santa Ana City Council, Ward 4",auto,name_in_state,ca.orange,5225,"CITY OF SANTA ANA Member, City Council Ward 4",13217,SANDRA DE ANDA,
+214,CA,Isuri Ramos,"Santa Ana City Council, Ward 6",auto,name_in_state,ca.orange,5227,"CITY OF SANTA ANA Member, City Council Ward 6",13245,ISURI S. RAMOS,
+215,CA,Katelyn Brazer Aceves,"Santa Ana Unified School District, Area 4",auto,name_in_state,ca.orange,3205,"SANTA ANA UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area 4",13141,KATELYN BRAZER ACEVES,
+216,CA,Hector Bustos,"SAUSD School Board, Area 5",auto,name_in_state,ca.orange,3206,"SANTA ANA UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area 5",12968,HECTOR BUSTOS,
+217,CA,Donald Torres,"Stanton City Council, District 1",auto,name_in_state,ca.orange,5241,"CITY OF STANTON Member, City Council District 1",13131,DONALD TORRES,
+218,CA,Marlon-Ray Velasco,"Stanton City Council, District 3",auto,name_in_state,ca.orange,5243,"CITY OF STANTON Member, City Council District 3",13062,MARLON-RAY VELASCO,
 219,CA,Jessie Lopez,"State Assembly, District 68",auto,district_surname,ca,state-assembly/68,State Assembly District 68,Jessie Lopez,Jessie Lopez,
 220,CA,Chris Kluwe,"State Assembly, District 72",auto,district_surname,ca,state-assembly/72,State Assembly District 72,Chris Kluwe,Chris Kluwe,
 234,CA,Lashae Sharp-Collins,"State Assembly, District 79",auto,district_surname,ca,state-assembly/79,State Assembly District 79,LaShae Sharp-Collins,LaShae Sharp-Collins,
@@ -411,196 +496,111 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 1156,AZ,Prop 318,Ballot Measure,no_source,,,,,,,no source covers AZ yet
 1157,AZ,Prop 319,Ballot Measure,no_source,,,,,,,no source covers AZ yet
 1158,AZ,Prop 320,Ballot Measure,no_source,,,,,,,no source covers AZ yet
-18,CA,Tamisha Torres Walker,"Antioch City Council, District 1",no_source,,,,,,,CA's scraped sources don't carry local races yet
-19,CA,Monica Wilson,"Antioch City Council, District 4",no_source,,,,,,,CA's scraped sources don't carry local races yet
-20,CA,Brandon Dawkins,"Antioch Unified School District Board of Education, Trustee Area 5",no_source,,,,,,,CA's scraped sources don't carry local races yet
-21,CA,Daria Wrubel,"Berkeley City Council, District 4",no_source,,,,,,,CA's scraped sources don't carry local races yet
-22,CA,Moni Gangopadhyay,"Berkeley City Council, District 4",no_source,,,,,,,CA's scraped sources don't carry local races yet
-23,CA,Syrak Micael,"Berkeley City Council, District 7",no_source,,,,,,,CA's scraped sources don't carry local races yet
-24,CA,Avery Arbaugh,"Berkeley Rent Stabilization Board, At-large",no_source,,,,,,,CA's scraped sources don't carry local races yet
-25,CA,Derek Rodriguez,"Berkeley Rent Stabilization Board, At-large",no_source,,,,,,,CA's scraped sources don't carry local races yet
-26,CA,Ida Martinac,"Berkeley Rent Stabilization Board, At-large",no_source,,,,,,,CA's scraped sources don't carry local races yet
-27,CA,Nathan Mizell,"Berkeley Rent Stabilization Board, At-large",no_source,,,,,,,CA's scraped sources don't carry local races yet
-28,CA,Vylma Ortiz,"Berkeley Rent Stabilization Board, At-large",no_source,,,,,,,CA's scraped sources don't carry local races yet
-29,CA,Jaria Jaug,"Berryessa Union School District Board of Trustees, At-large",no_source,,,,,,,CA's scraped sources don't carry local races yet
-31,CA,Bunny McFadden,"City College of San Francisco Board of Trustees, At-large",no_source,,,,,,,CA's scraped sources don't carry local races yet
-32,CA,Jeremy Lee,"City College of San Francisco Board of Trustees, At-large",no_source,,,,,,,CA's scraped sources don't carry local races yet
-33,CA,Leah LaCroix,"City College of San Francisco Board of Trustees, At-large",no_source,,,,,,,CA's scraped sources don't carry local races yet
-34,CA,Jenny Wong,"City of Berkeley Auditor, Citywide",no_source,,,,,,,CA's scraped sources don't carry local races yet
-35,CA,Laura Nakamura,"Concord City Council, District 5",no_source,,,,,,,CA's scraped sources don't carry local races yet
-36,CA,Cameron Sasai,"Contra Costa Community College Governing Board, Ward 1",no_source,,,,,,,CA's scraped sources don't carry local races yet
-37,CA,Rebecca Barrett,"Contra Costa Community College Governing Board, Ward 3",no_source,,,,,,,CA's scraped sources don't carry local races yet
-38,CA,Rod Daus-Magbual,"Daly City City Council, At-large",no_source,,,,,,,CA's scraped sources don't carry local races yet
-39,CA,Seema Badar,"Dublin Unified School District Board of Trustees, Area 5",no_source,,,,,,,CA's scraped sources don't carry local races yet
-40,CA,Ofelia Bello,"East Palo Alto City Council, At-large",no_source,,,,,,,CA's scraped sources don't carry local races yet
-41,CA,Ruben Abrica,"East Palo Alto City Council, At-large",no_source,,,,,,,CA's scraped sources don't carry local races yet
-42,CA,Mer Currey Nunez,"East Side Union High School District Board of Trustees, Area 1",no_source,,,,,,,CA's scraped sources don't carry local races yet
-43,CA,Anthony Montes,"East Side Union High School District Board of Trustees, Area 2",no_source,,,,,,,CA's scraped sources don't carry local races yet
-44,CA,Alexander Gvatua,"Foothill De Anza Community College District Board of Trustees, Area 2",no_source,,,,,,,CA's scraped sources don't carry local races yet
-45,CA,Phoebe Shin Venkat,"Foster City Council, District 1",no_source,,,,,,,CA's scraped sources don't carry local races yet
-46,CA,Rebeca Armendariz,"Gilroy City Council, District 6",no_source,,,,,,,CA's scraped sources don't carry local races yet
-47,CA,George Syrop,"Hayward City Council, District 1",no_source,,,,,,,CA's scraped sources don't carry local races yet
-48,CA,Michelle Fernellius,"Hayward Unified School District Board of Trustee, Area 4",no_source,,,,,,,CA's scraped sources don't carry local races yet
-49,CA,Chris Herrod,"Healdsburg City Council, District 4",no_source,,,,,,,CA's scraped sources don't carry local races yet
-50,CA,Aaron Burnett,"Larkspur City Council, At-large",no_source,,,,,,,CA's scraped sources don't carry local races yet
-51,CA,Seema Kanani,"Milpitas City Council, At-large",no_source,,,,,,,CA's scraped sources don't carry local races yet
-52,CA,Erik Poicon,"Mountain View City Council, At-large",no_source,,,,,,,CA's scraped sources don't carry local races yet
-53,CA,IdaRose Sylvester,"Mountain View City Council, At-large",no_source,,,,,,,CA's scraped sources don't carry local races yet
-54,CA,Barbara Lee,Oakland Mayor,no_source,,,,,,,CA's scraped sources don't carry local races yet
-55,CA,Jennifer Brouhard,"OUSD School Board, District 2",no_source,,,,,,,CA's scraped sources don't carry local races yet
-56,CA,Valarie Bachelor,"OUSD School Board, District 6",no_source,,,,,,,CA's scraped sources don't carry local races yet
-57,CA,Christine Boles,"Pacifica City Council, District 2",no_source,,,,,,,CA's scraped sources don't carry local races yet
-58,CA,Sam Casillas,"Pacifica City Council, District 5",no_source,,,,,,,CA's scraped sources don't carry local races yet
-59,CA,Eric Vazquez,"Petaluma City Council, District 3",no_source,,,,,,,CA's scraped sources don't carry local races yet
-60,CA,Sarah Seitchik Sebastian,"Petaluma City Schools Board of Trustees, Area 5",no_source,,,,,,,CA's scraped sources don't carry local races yet
-61,CA,Truc “Christy” Lam-Julian,"Pinole City Council, At-large",no_source,,,,,,,CA's scraped sources don't carry local races yet
-62,CA,Destiny Briscoe,"Pittsburg Unified School District Board of Education, At-large",no_source,,,,,,,CA's scraped sources don't carry local races yet
-63,CA,Chris Sturken,"Redwood City Council, District 2",no_source,,,,,,,CA's scraped sources don't carry local races yet
-64,CA,Claudia Jimenez,Richmond Mayor,no_source,,,,,,,CA's scraped sources don't carry local races yet
-65,CA,Marty Medina,"San Bruno City Council, District 4",no_source,,,,,,,CA's scraped sources don't carry local races yet
-66,CA,Gary McCoy,"San Francisco Board of Supervisors, District 8",no_source,,,,,,,CA's scraped sources don't carry local races yet
-67,CA,Michael Nguyen,"San Francisco Board of Supervisors, District 8",no_source,,,,,,,CA's scraped sources don't carry local races yet
-68,CA,Dion-Jay (DJ) Brookter,"San Francisco Board of Supervisors, District 10",no_source,,,,,,,CA's scraped sources don't carry local races yet
-69,CA,JR Eppler,"San Francisco Board of Supervisors, District 10",no_source,,,,,,,CA's scraped sources don't carry local races yet
-70,CA,Reina Tello,"San Francisco Unified School District Board of Education, At-large",no_source,,,,,,,CA's scraped sources don't carry local races yet
-71,CA,Ryan Hazelton,"San Francisco Unified School District Board of Education, At-large",no_source,,,,,,,CA's scraped sources don't carry local races yet
-72,CA,Virginia Cheung,"San Francisco Unified School District Board of Education, At-large",no_source,,,,,,,CA's scraped sources don't carry local races yet
-73,CA,Peter Ortiz,"San Jose City Council, District 5",no_source,,,,,,,CA's scraped sources don't carry local races yet
-74,CA,Gordon Chester,"San Jose City Council, District 9",no_source,,,,,,,CA's scraped sources don't carry local races yet
-75,CA,Michael Melillo,"San Jose Unified School District Board of Trustees, Area 4",no_source,,,,,,,CA's scraped sources don't carry local races yet
-76,CA,Dana Johnson,"San Mateo County Board of Education, District 2",no_source,,,,,,,CA's scraped sources don't carry local races yet
-77,CA,Mark Nagales,"San Mateo County Board of Supervisors, District 5",no_source,,,,,,,CA's scraped sources don't carry local races yet
-78,CA,Diana Harris,"San Mateo Union High School District Board of Trustees, Area 3",no_source,,,,,,,CA's scraped sources don't carry local races yet
-79,CA,Allyson Chan,"San Mateo-Foster City School District, District 1",no_source,,,,,,,CA's scraped sources don't carry local races yet
-80,CA,Kevin Park,Santa Clara Mayor,no_source,,,,,,,CA's scraped sources don't carry local races yet
-81,CA,Melanie Jones-Carter,"Santa Rosa City Council, District 4",no_source,,,,,,,CA's scraped sources don't carry local races yet
-82,CA,Joanna Paun,"Sonoma County Board of Supervisors, District 2",no_source,,,,,,,CA's scraped sources don't carry local races yet
-83,CA,Melanie Bagby,"Sonoma County Board of Supervisors, District 4",no_source,,,,,,,CA's scraped sources don't carry local races yet
-84,CA,Caitlin Quinn,"Sonoma County Office of Education, District 2",no_source,,,,,,,CA's scraped sources don't carry local races yet
-85,CA,Aysha Dominguez Pamukcu,"South San Francisco City Council, District 1",no_source,,,,,,,CA's scraped sources don't carry local races yet
-86,CA,Melanie Olson,"South San Francisco City Council, District 3",no_source,,,,,,,CA's scraped sources don't carry local races yet
-87,CA,Eddie Flores,"South San Francisco City Council, District 5",no_source,,,,,,,CA's scraped sources don't carry local races yet
-98,CA,Brianna Rogers,"Vallejo City Council, District 4",no_source,,,,,,,CA's scraped sources don't carry local races yet
-99,CA,Gabriel Garcia,"Arvin Ctiy Council, At-large",no_source,,,,,,,CA's scraped sources don't carry local races yet
-100,CA,Jose Luis Garcia,"Arvin Ctiy Council, At-large",no_source,,,,,,,CA's scraped sources don't carry local races yet
-101,CA,Manpreet Kaur,"Bakersfield City Council, Ward 7",no_source,,,,,,,CA's scraped sources don't carry local races yet
-102,CA,Kristina Pine,"Ventura County Board of Education, Trustee Area 4",no_source,,,,,,,CA's scraped sources don't carry local races yet
-103,CA,Carla Meade,"Buellton City Council, District 4",no_source,,,,,,,CA's scraped sources don't carry local races yet
-104,CA,David Silva,Buellton City Mayor,no_source,,,,,,,CA's scraped sources don't carry local races yet
-105,CA,Susie Nava,"College Of Sequias Board, Ward 5",no_source,,,,,,,CA's scraped sources don't carry local races yet
-106,CA,Naindeep Singh,"Fresno City Council, District 1",no_source,,,,,,,CA's scraped sources don't carry local races yet
-107,CA,Ariana Martinez Lott,"Fresno City Council, District 7",no_source,,,,,,,CA's scraped sources don't carry local races yet
-108,CA,Veva Islas,"Fresno Unified School District, Area 4",no_source,,,,,,,CA's scraped sources don't carry local races yet
-109,CA,Jevon Price,"Tulare Local Healthcare District, Area 3",no_source,,,,,,,CA's scraped sources don't carry local races yet
-110,CA,Anastasia Hopper,"Kern Board of Education, Area 1",no_source,,,,,,,CA's scraped sources don't carry local races yet
-111,CA,David Wescott,"Kern High School District, Area 1",no_source,,,,,,,CA's scraped sources don't carry local races yet
-112,CA,Juan Telles,"Modesto City Council, Distrcit 2",no_source,,,,,,,CA's scraped sources don't carry local races yet
-113,CA,Jasmine Duron,"Oxnard School Board Trustee, Area 2",no_source,,,,,,,CA's scraped sources don't carry local races yet
-114,CA,Eriberto Estrada,"PVUSD Board, Distrcit 4",no_source,,,,,,,CA's scraped sources don't carry local races yet
-115,CA,Jeanette Reyes,"Riverbank City Council, Distrcit 1",no_source,,,,,,,CA's scraped sources don't carry local races yet
-116,CA,Sammi Martinez,"Riverbank City Council, Distrcit 3",no_source,,,,,,,CA's scraped sources don't carry local races yet
-117,CA,Flo Cofer,"Sacramento County Board of Supervisors, Distrcit 1",no_source,,,,,,,CA's scraped sources don't carry local races yet
-118,CA,Gabe Escobedo,"Santa Barbara City Council, Distrcit 6",no_source,,,,,,,CA's scraped sources don't carry local races yet
-119,CA,Devon Wardlow,"Santa Barbara City Council, District 4",no_source,,,,,,,CA's scraped sources don't carry local races yet
-120,CA,Ian Baucke,"Santa Barbara City Council, District 5",no_source,,,,,,,CA's scraped sources don't carry local races yet
-121,CA,Ricardo Valencia,"Santa Barbara County Board of Supervisors, District 5",no_source,,,,,,,CA's scraped sources don't carry local races yet
-122,CA,Justin Cummings,"Santa Cruz County Board of Supervisors, District 3",no_source,,,,,,,CA's scraped sources don't carry local races yet
-123,CA,Ami Chen Mills,Santa Cruz Mayor,no_source,,,,,,,CA's scraped sources don't carry local races yet
-124,CA,Gloria Soto,"Santa Maria City Council, Distrcit 3",no_source,,,,,,,CA's scraped sources don't carry local races yet
-125,CA,Sam Cohen,"Simi Valley City Council, Distrcit 2",no_source,,,,,,,CA's scraped sources don't carry local races yet
-126,CA,Josh Gray,"Simi Valley City Council, District 4",no_source,,,,,,,CA's scraped sources don't carry local races yet
-128,CA,Jose Salazar,"Fresno County Superior Court, Seat 7",no_source,,,,,,,CA's scraped sources don't carry local races yet
-131,CA,Liz Campos,"Ventura City Council, Distcit 1",no_source,,,,,,,CA's scraped sources don't carry local races yet
-132,CA,Karba Eckley,"Ventura City Council, District 6",no_source,,,,,,,CA's scraped sources don't carry local races yet
-133,CA,Emmanuel Soto,"Visalia City Council, Distrcit 4",no_source,,,,,,,CA's scraped sources don't carry local races yet
-134,CA,Wences Sosa,"Visalia City Council, Distrcit 5",no_source,,,,,,,CA's scraped sources don't carry local races yet
-135,CA,Stevevonna Evans,"Adelanto Mayor, At-large",no_source,,,,,,,CA's scraped sources don't carry local races yet
-136,CA,Marco Santana,"Banning City Council, District 4",no_source,,,,,,,CA's scraped sources don't carry local races yet
-137,CA,Chris Castorena,"Banning City Council, District 5",no_source,,,,,,,CA's scraped sources don't carry local races yet
-138,CA,Anyse Smith,"Desert Healthcare District, Zone 5",no_source,,,,,,,CA's scraped sources don't carry local races yet
-139,CA,Nathan Urena,"Eastern Municipal Water District, District 5",no_source,,,,,,,CA's scraped sources don't carry local races yet
-140,CA,Nubia Diaz,"Fontana City Council, District 1",no_source,,,,,,,CA's scraped sources don't carry local races yet
-141,CA,Luz Perez,"Fontana City Council, District 4",no_source,,,,,,,CA's scraped sources don't carry local races yet
-142,CA,Joz Sida,Fontana City Mayor,no_source,,,,,,,CA's scraped sources don't carry local races yet
-143,CA,Andrea Garcia,"Riverside County Superior Court, Seat 10",no_source,,,,,,,CA's scraped sources don't carry local races yet
-144,CA,Edgar Castelan,"Jurupa Valley City Council, District 3",no_source,,,,,,,CA's scraped sources don't carry local races yet
-145,CA,Ulises Cabrera,"Moreno Valley Mayor, At-large",no_source,,,,,,,CA's scraped sources don't carry local races yet
-146,CA,Sammie Luna,"Moreno Valley School Baord, Trustee Area 1",no_source,,,,,,,CA's scraped sources don't carry local races yet
-147,CA,Justin Jackson,"Moreno Valley School Baord, Trustee Area 3",no_source,,,,,,,CA's scraped sources don't carry local races yet
-148,CA,Abel Chavez,"Nuevo Union School Board, At-large",no_source,,,,,,,CA's scraped sources don't carry local races yet
-149,CA,Denise Davis,"Redlands City Council, District 1",no_source,,,,,,,CA's scraped sources don't carry local races yet
-150,CA,Ryan Schavrien,"Redlands USD, Trustee Area 2",no_source,,,,,,,CA's scraped sources don't carry local races yet
-151,CA,Ana Gonzalez,"Rialto City Council, At-large",no_source,,,,,,,CA's scraped sources don't carry local races yet
-152,CA,Aram Ayra,"Riverside City Council, Ward 2",no_source,,,,,,,CA's scraped sources don't carry local races yet
-153,CA,Christian Shaughnessy,"San Bernardino City Council, Ward 2",no_source,,,,,,,CA's scraped sources don't carry local races yet
-154,CA,Joe Salas,"San Bernardino City Council, Ward 4",no_source,,,,,,,CA's scraped sources don't carry local races yet
-158,CA,Derek Marshall,"Victorville City Council, District 4",no_source,,,,,,,CA's scraped sources don't carry local races yet
-160,CA,Mike Van Gorder,Burbank City Council,no_source,,,,,,,CA's scraped sources don't carry local races yet
-161,CA,Nikki Perez,Burbank City Council,no_source,,,,,,,CA's scraped sources don't carry local races yet
-162,CA,Nolan Southerland,Burbank City Council,no_source,,,,,,,CA's scraped sources don't carry local races yet
-163,CA,Estefany Castañeda,"Centinela Valley Union High School District, Trustee Area 5",no_source,,,,,,,CA's scraped sources don't carry local races yet
-164,CA,Cynthia Gonzalez,Cudahy City Council,no_source,,,,,,,CA's scraped sources don't carry local races yet
-165,CA,Thomas Small,Culver City Council,no_source,,,,,,,CA's scraped sources don't carry local races yet
-166,CA,Brian Guerrero,Culver City Unified School District,no_source,,,,,,,CA's scraped sources don't carry local races yet
-167,CA,Stephanie Loredo,Culver City Unified School District,no_source,,,,,,,CA's scraped sources don't carry local races yet
-168,CA,Andrew Yam,Garvey Unified School District,no_source,,,,,,,CA's scraped sources don't carry local races yet
-169,CA,Nancy Martiz,"Huntington Park City Council, District 2",no_source,,,,,,,CA's scraped sources don't carry local races yet
-170,CA,David Ross,"Los Angeles County Superior Court, Office 131",no_source,,,,,,,CA's scraped sources don't carry local races yet
-171,CA,Justin Clayton,"Los Angeles County Superior Court, Office 65",no_source,,,,,,,CA's scraped sources don't carry local races yet
-172,CA,Marissa Roy,"Los Angeles City Attorney, Citywide",no_source,,,,,,,CA's scraped sources don't carry local races yet
-173,CA,Estuardo Mazariegos,"Los Angeles City Council, District 9",no_source,,,,,,,CA's scraped sources don't carry local races yet
-174,CA,Darryn Harris,"Los Angeles Community College District, Seat 4",no_source,,,,,,,CA's scraped sources don't carry local races yet
-175,CA,Nithya Raman,Los Angeles Mayor,no_source,,,,,,,CA's scraped sources don't carry local races yet
-176,CA,Emiliano Arellano,Lynwood City Council,no_source,,,,,,,CA's scraped sources don't carry local races yet
-177,CA,Juan Munoz-Guevara,Lynwood City Council,no_source,,,,,,,CA's scraped sources don't carry local races yet
-178,CA,Mishaun Watkins,Lynwood City Council,no_source,,,,,,,CA's scraped sources don't carry local races yet
-179,CA,Mayra Alejandra Aguiluz,Maywood City Council,no_source,,,,,,,CA's scraped sources don't carry local races yet
-180,CA,Steven Kung,Monterey Park City Council,no_source,,,,,,,CA's scraped sources don't carry local races yet
-181,CA,Alton Wang,"Pasadena Area Community College District, Trustee Area No. 7",no_source,,,,,,,CA's scraped sources don't carry local races yet
-182,CA,Brandon Macias,"Rowland Unified School Board, Trustee – District 3",no_source,,,,,,,CA's scraped sources don't carry local races yet
-183,CA,Caroline Torosis,Santa Monica City Council,no_source,,,,,,,CA's scraped sources don't carry local races yet
-193,CA,Leslie Garcia,"West Covina City Council, District 2",no_source,,,,,,,CA's scraped sources don't carry local races yet
-194,CA,Helen Kreiger,West Hollywood City Council,no_source,,,,,,,CA's scraped sources don't carry local races yet
-195,CA,Stephen Post,West Hollywood City Council,no_source,,,,,,,CA's scraped sources don't carry local races yet
-196,CA,Chelsea Byers,"West Hollywood City Council, At-large",no_source,,,,,,,CA's scraped sources don't carry local races yet
-197,CA,Rebecca Hamburg Cappy,Wiseburn USD School Board,no_source,,,,,,,CA's scraped sources don't carry local races yet
-198,CA,Tiffany Ackley,"Aliso Viejo City Council, At-large",no_source,,,,,,,CA's scraped sources don't carry local races yet
-199,CA,Steven Von der Porten,"Aliso Viejo City Council, District 2",no_source,,,,,,,CA's scraped sources don't carry local races yet
-200,CA,Marie Tsaasan,"Aliso Viejo City Council, District 3",no_source,,,,,,,CA's scraped sources don't carry local races yet
-201,CA,Juan Alvarez,"Anaheim Elementary School District, Area 2",no_source,,,,,,,CA's scraped sources don't carry local races yet
-202,CA,Alva Alvarez,"Anaheim Elementary School District, Area 4",no_source,,,,,,,CA's scraped sources don't carry local races yet
-203,CA,Jessica Guerrero,"Anaheim Union High School District, Area 1",no_source,,,,,,,CA's scraped sources don't carry local races yet
-204,CA,Angely Andrade Vallarta,"Costa Mesa City Council, District 4",no_source,,,,,,,CA's scraped sources don't carry local races yet
-205,CA,Kelly Brown,"Costa Mesa City Council, District 5",no_source,,,,,,,CA's scraped sources don't carry local races yet
-206,CA,Shana Charles,"Fullerton City Council, District 3",no_source,,,,,,,CA's scraped sources don't carry local races yet
-207,CA,Jozef Maldonado,"Fullerton City Council, District 5",no_source,,,,,,,CA's scraped sources don't carry local races yet
-208,CA,Hieu Nguyen,"Garden Grove City Council, District 4",no_source,,,,,,,CA's scraped sources don't carry local races yet
-209,CA,Sukhee Kang,"Irvine City Council, District 1",no_source,,,,,,,CA's scraped sources don't carry local races yet
-210,CA,Betty Martinez Franco,"Irvine City Council, District 5",no_source,,,,,,,CA's scraped sources don't carry local races yet
-211,CA,Jennifer Engle,Moulton Niguel Water Board Director,no_source,,,,,,,CA's scraped sources don't carry local races yet
-212,CA,Benjamin Vazquez,"Santa Ana City Council, Ward 2",no_source,,,,,,,CA's scraped sources don't carry local races yet
-213,CA,Sandra De Anda,"Santa Ana City Council, Ward 4",no_source,,,,,,,CA's scraped sources don't carry local races yet
-214,CA,Isuri Ramos,"Santa Ana City Council, Ward 6",no_source,,,,,,,CA's scraped sources don't carry local races yet
-215,CA,Katelyn Brazer Aceves,"Santa Ana Unified School District, Area 4",no_source,,,,,,,CA's scraped sources don't carry local races yet
-216,CA,Hector Bustos,"SAUSD School Board, Area 5",no_source,,,,,,,CA's scraped sources don't carry local races yet
-217,CA,Donald Torres,"Stanton City Council, District 1",no_source,,,,,,,CA's scraped sources don't carry local races yet
-218,CA,Marlon-Ray Velasco,"Stanton City Council, District 3",no_source,,,,,,,CA's scraped sources don't carry local races yet
-221,CA,Alexander Kraft,El Cajon Mayor,no_source,,,,,,,CA's scraped sources don't carry local races yet
-222,CA,Liliana Soriano,"Helix Water District, Division 4",no_source,,,,,,,CA's scraped sources don't carry local races yet
-223,CA,Jose Lopez,"Imperial Beach, District 1",no_source,,,,,,,CA's scraped sources don't carry local races yet
-224,CA,Joe Smith,"Lemon Grove City Council, At large",no_source,,,,,,,CA's scraped sources don't carry local races yet
-225,CA,Krystle Johnson,"Lemon Grove City Council, At large",no_source,,,,,,,CA's scraped sources don't carry local races yet
-226,CA,Cindy Lopez,"National City Council, District 1",no_source,,,,,,,CA's scraped sources don't carry local races yet
-227,CA,Jose Rodriguez,National City Mayor,no_source,,,,,,,CA's scraped sources don't carry local races yet
-228,CA,Eric Joyce,"Oceanside City Council, District 1",no_source,,,,,,,CA's scraped sources don't carry local races yet
-229,CA,Emily Gonzales,"Oceanside City Council, District 2",no_source,,,,,,,CA's scraped sources don't carry local races yet
-230,CA,Nicole Crosby,"San Diego City Council, District 2",no_source,,,,,,,CA's scraped sources don't carry local races yet
-231,CA,Henry Foster,"San Diego City Council, District 4",no_source,,,,,,,CA's scraped sources don't carry local races yet
-232,CA,Monica Montgomery Steppe,"San Diego County Board of Supervisors, District 4",no_source,,,,,,,CA's scraped sources don't carry local races yet
-233,CA,Hayden Gore,"SDUSD Board, District C",no_source,,,,,,,CA's scraped sources don't carry local races yet
-235,CA,Kayla Lauriano,"Tri-City Healthcare District Board, Zone 2",no_source,,,,,,,CA's scraped sources don't carry local races yet
-236,CA,Corinna Contreras,"Vista City Council, District 1",no_source,,,,,,,CA's scraped sources don't carry local races yet
-237,CA,Kenneth Zuniga,Vista Mayor,no_source,,,,,,,CA's scraped sources don't carry local races yet
+21,CA,Daria Wrubel,"Berkeley City Council, District 4",no_source,,,,,,,no source carries Alameda local races yet
+22,CA,Moni Gangopadhyay,"Berkeley City Council, District 4",no_source,,,,,,,no source carries Alameda local races yet
+23,CA,Syrak Micael,"Berkeley City Council, District 7",no_source,,,,,,,no source carries Alameda local races yet
+24,CA,Avery Arbaugh,"Berkeley Rent Stabilization Board, At-large",no_source,,,,,,,no source carries Alameda local races yet
+25,CA,Derek Rodriguez,"Berkeley Rent Stabilization Board, At-large",no_source,,,,,,,no source carries Alameda local races yet
+26,CA,Ida Martinac,"Berkeley Rent Stabilization Board, At-large",no_source,,,,,,,no source carries Alameda local races yet
+27,CA,Nathan Mizell,"Berkeley Rent Stabilization Board, At-large",no_source,,,,,,,no source carries Alameda local races yet
+28,CA,Vylma Ortiz,"Berkeley Rent Stabilization Board, At-large",no_source,,,,,,,no source carries Alameda local races yet
+31,CA,Bunny McFadden,"City College of San Francisco Board of Trustees, At-large",no_source,,,,,,,no source carries San Francisco local races yet
+32,CA,Jeremy Lee,"City College of San Francisco Board of Trustees, At-large",no_source,,,,,,,no source carries San Francisco local races yet
+33,CA,Leah LaCroix,"City College of San Francisco Board of Trustees, At-large",no_source,,,,,,,no source carries San Francisco local races yet
+34,CA,Jenny Wong,"City of Berkeley Auditor, Citywide",no_source,,,,,,,no source carries Alameda local races yet
+38,CA,Rod Daus-Magbual,"Daly City City Council, At-large",no_source,,,,,,,no source carries San Mateo local races yet
+39,CA,Seema Badar,"Dublin Unified School District Board of Trustees, Area 5",no_source,,,,,,,no source carries Alameda local races yet
+40,CA,Ofelia Bello,"East Palo Alto City Council, At-large",no_source,,,,,,,no source carries San Mateo local races yet
+41,CA,Ruben Abrica,"East Palo Alto City Council, At-large",no_source,,,,,,,no source carries San Mateo local races yet
+45,CA,Phoebe Shin Venkat,"Foster City Council, District 1",no_source,,,,,,,no source carries San Mateo local races yet
+47,CA,George Syrop,"Hayward City Council, District 1",no_source,,,,,,,no source carries Alameda local races yet
+48,CA,Michelle Fernellius,"Hayward Unified School District Board of Trustee, Area 4",no_source,,,,,,,no source carries Alameda local races yet
+54,CA,Barbara Lee,Oakland Mayor,no_source,,,,,,,no source carries Alameda local races yet
+55,CA,Jennifer Brouhard,"OUSD School Board, District 2",no_source,,,,,,,no source carries Alameda local races yet
+56,CA,Valarie Bachelor,"OUSD School Board, District 6",no_source,,,,,,,no source carries Alameda local races yet
+57,CA,Christine Boles,"Pacifica City Council, District 2",no_source,,,,,,,no source carries San Mateo local races yet
+58,CA,Sam Casillas,"Pacifica City Council, District 5",no_source,,,,,,,no source carries San Mateo local races yet
+63,CA,Chris Sturken,"Redwood City Council, District 2",no_source,,,,,,,no source carries San Mateo local races yet
+65,CA,Marty Medina,"San Bruno City Council, District 4",no_source,,,,,,,no source carries San Mateo local races yet
+66,CA,Gary McCoy,"San Francisco Board of Supervisors, District 8",no_source,,,,,,,no source carries San Francisco local races yet
+67,CA,Michael Nguyen,"San Francisco Board of Supervisors, District 8",no_source,,,,,,,no source carries San Francisco local races yet
+68,CA,Dion-Jay (DJ) Brookter,"San Francisco Board of Supervisors, District 10",no_source,,,,,,,no source carries San Francisco local races yet
+69,CA,JR Eppler,"San Francisco Board of Supervisors, District 10",no_source,,,,,,,no source carries San Francisco local races yet
+70,CA,Reina Tello,"San Francisco Unified School District Board of Education, At-large",no_source,,,,,,,no source carries San Francisco local races yet
+71,CA,Ryan Hazelton,"San Francisco Unified School District Board of Education, At-large",no_source,,,,,,,no source carries San Francisco local races yet
+72,CA,Virginia Cheung,"San Francisco Unified School District Board of Education, At-large",no_source,,,,,,,no source carries San Francisco local races yet
+76,CA,Dana Johnson,"San Mateo County Board of Education, District 2",no_source,,,,,,,no source carries San Mateo local races yet
+77,CA,Mark Nagales,"San Mateo County Board of Supervisors, District 5",no_source,,,,,,,no source carries San Mateo local races yet
+78,CA,Diana Harris,"San Mateo Union High School District Board of Trustees, Area 3",no_source,,,,,,,no source carries San Mateo local races yet
+79,CA,Allyson Chan,"San Mateo-Foster City School District, District 1",no_source,,,,,,,no source carries San Mateo local races yet
+85,CA,Aysha Dominguez Pamukcu,"South San Francisco City Council, District 1",no_source,,,,,,,no source carries San Francisco local races yet
+86,CA,Melanie Olson,"South San Francisco City Council, District 3",no_source,,,,,,,no source carries San Francisco local races yet
+87,CA,Eddie Flores,"South San Francisco City Council, District 5",no_source,,,,,,,no source carries San Francisco local races yet
+98,CA,Brianna Rogers,"Vallejo City Council, District 4",no_source,,,,,,,no source carries Solano local races yet
+99,CA,Gabriel Garcia,"Arvin Ctiy Council, At-large",no_source,,,,,,,no source carries Kern local races yet
+100,CA,Jose Luis Garcia,"Arvin Ctiy Council, At-large",no_source,,,,,,,no source carries Kern local races yet
+101,CA,Manpreet Kaur,"Bakersfield City Council, Ward 7",no_source,,,,,,,no source carries Kern local races yet
+103,CA,Carla Meade,"Buellton City Council, District 4",no_source,,,,,,,no source carries Santa Barbara local races yet
+104,CA,David Silva,Buellton City Mayor,no_source,,,,,,,no source carries Santa Barbara local races yet
+105,CA,Susie Nava,"College Of Sequias Board, Ward 5",no_source,,,,,,,no source carries Tulare local races yet
+106,CA,Naindeep Singh,"Fresno City Council, District 1",no_source,,,,,,,no source carries Fresno local races yet
+107,CA,Ariana Martinez Lott,"Fresno City Council, District 7",no_source,,,,,,,no source carries Fresno local races yet
+108,CA,Veva Islas,"Fresno Unified School District, Area 4",no_source,,,,,,,no source carries Fresno local races yet
+109,CA,Jevon Price,"Tulare Local Healthcare District, Area 3",no_source,,,,,,,no source carries Tulare local races yet
+110,CA,Anastasia Hopper,"Kern Board of Education, Area 1",no_source,,,,,,,no source carries Kern local races yet
+111,CA,David Wescott,"Kern High School District, Area 1",no_source,,,,,,,no source carries Kern local races yet
+112,CA,Juan Telles,"Modesto City Council, Distrcit 2",no_source,,,,,,,no source carries Stanislaus local races yet
+114,CA,Eriberto Estrada,"PVUSD Board, Distrcit 4",no_source,,,,,,,no source carries Santa Cruz local races yet
+115,CA,Jeanette Reyes,"Riverbank City Council, Distrcit 1",no_source,,,,,,,no source carries Stanislaus local races yet
+116,CA,Sammi Martinez,"Riverbank City Council, Distrcit 3",no_source,,,,,,,no source carries Stanislaus local races yet
+117,CA,Flo Cofer,"Sacramento County Board of Supervisors, Distrcit 1",no_source,,,,,,,no source carries Sacramento local races yet
+118,CA,Gabe Escobedo,"Santa Barbara City Council, Distrcit 6",no_source,,,,,,,no source carries Santa Barbara local races yet
+119,CA,Devon Wardlow,"Santa Barbara City Council, District 4",no_source,,,,,,,no source carries Santa Barbara local races yet
+120,CA,Ian Baucke,"Santa Barbara City Council, District 5",no_source,,,,,,,no source carries Santa Barbara local races yet
+121,CA,Ricardo Valencia,"Santa Barbara County Board of Supervisors, District 5",no_source,,,,,,,no source carries Santa Barbara local races yet
+122,CA,Justin Cummings,"Santa Cruz County Board of Supervisors, District 3",no_source,,,,,,,no source carries Santa Cruz local races yet
+123,CA,Ami Chen Mills,Santa Cruz Mayor,no_source,,,,,,,no source carries Santa Cruz local races yet
+124,CA,Gloria Soto,"Santa Maria City Council, Distrcit 3",no_source,,,,,,,no source carries Santa Barbara local races yet
+128,CA,Jose Salazar,"Fresno County Superior Court, Seat 7",no_source,,,,,,,no source carries Fresno local races yet
+133,CA,Emmanuel Soto,"Visalia City Council, Distrcit 4",no_source,,,,,,,no source carries Tulare local races yet
+134,CA,Wences Sosa,"Visalia City Council, Distrcit 5",no_source,,,,,,,no source carries Tulare local races yet
+135,CA,Stevevonna Evans,"Adelanto Mayor, At-large",no_source,,,,,,,no source carries San Bernardino local races yet
+136,CA,Marco Santana,"Banning City Council, District 4",no_source,,,,,,,no source carries Riverside local races yet
+137,CA,Chris Castorena,"Banning City Council, District 5",no_source,,,,,,,no source carries Riverside local races yet
+138,CA,Anyse Smith,"Desert Healthcare District, Zone 5",no_source,,,,,,,no source carries Riverside local races yet
+139,CA,Nathan Urena,"Eastern Municipal Water District, District 5",no_source,,,,,,,no source carries Riverside local races yet
+140,CA,Nubia Diaz,"Fontana City Council, District 1",no_source,,,,,,,no source carries San Bernardino local races yet
+141,CA,Luz Perez,"Fontana City Council, District 4",no_source,,,,,,,no source carries San Bernardino local races yet
+142,CA,Joz Sida,Fontana City Mayor,no_source,,,,,,,no source carries San Bernardino local races yet
+143,CA,Andrea Garcia,"Riverside County Superior Court, Seat 10",no_source,,,,,,,no source carries Riverside local races yet
+144,CA,Edgar Castelan,"Jurupa Valley City Council, District 3",no_source,,,,,,,no source carries Riverside local races yet
+145,CA,Ulises Cabrera,"Moreno Valley Mayor, At-large",no_source,,,,,,,no source carries Riverside local races yet
+146,CA,Sammie Luna,"Moreno Valley School Baord, Trustee Area 1",no_source,,,,,,,no source carries Riverside local races yet
+147,CA,Justin Jackson,"Moreno Valley School Baord, Trustee Area 3",no_source,,,,,,,no source carries Riverside local races yet
+148,CA,Abel Chavez,"Nuevo Union School Board, At-large",no_source,,,,,,,no source carries Riverside local races yet
+149,CA,Denise Davis,"Redlands City Council, District 1",no_source,,,,,,,no source carries San Bernardino local races yet
+150,CA,Ryan Schavrien,"Redlands USD, Trustee Area 2",no_source,,,,,,,no source carries San Bernardino local races yet
+151,CA,Ana Gonzalez,"Rialto City Council, At-large",no_source,,,,,,,no source carries San Bernardino local races yet
+152,CA,Aram Ayra,"Riverside City Council, Ward 2",no_source,,,,,,,no source carries Riverside local races yet
+153,CA,Christian Shaughnessy,"San Bernardino City Council, Ward 2",no_source,,,,,,,no source carries San Bernardino local races yet
+154,CA,Joe Salas,"San Bernardino City Council, Ward 4",no_source,,,,,,,no source carries San Bernardino local races yet
+158,CA,Derek Marshall,"Victorville City Council, District 4",no_source,,,,,,,no source carries San Bernardino local races yet
+221,CA,Alexander Kraft,El Cajon Mayor,no_source,,,,,,,no source carries San Diego local races yet
+222,CA,Liliana Soriano,"Helix Water District, Division 4",no_source,,,,,,,no source carries San Diego local races yet
+223,CA,Jose Lopez,"Imperial Beach, District 1",no_source,,,,,,,no source carries San Diego local races yet
+224,CA,Joe Smith,"Lemon Grove City Council, At large",no_source,,,,,,,no source carries San Diego local races yet
+225,CA,Krystle Johnson,"Lemon Grove City Council, At large",no_source,,,,,,,no source carries San Diego local races yet
+226,CA,Cindy Lopez,"National City Council, District 1",no_source,,,,,,,no source carries San Diego local races yet
+227,CA,Jose Rodriguez,National City Mayor,no_source,,,,,,,no source carries San Diego local races yet
+228,CA,Eric Joyce,"Oceanside City Council, District 1",no_source,,,,,,,no source carries San Diego local races yet
+229,CA,Emily Gonzales,"Oceanside City Council, District 2",no_source,,,,,,,no source carries San Diego local races yet
+230,CA,Nicole Crosby,"San Diego City Council, District 2",no_source,,,,,,,no source carries San Diego local races yet
+231,CA,Henry Foster,"San Diego City Council, District 4",no_source,,,,,,,no source carries San Diego local races yet
+232,CA,Monica Montgomery Steppe,"San Diego County Board of Supervisors, District 4",no_source,,,,,,,no source carries San Diego local races yet
+233,CA,Hayden Gore,"SDUSD Board, District C",no_source,,,,,,,no source carries San Diego local races yet
+235,CA,Kayla Lauriano,"Tri-City Healthcare District Board, Zone 2",no_source,,,,,,,no source carries San Diego local races yet
+236,CA,Corinna Contreras,"Vista City Council, District 1",no_source,,,,,,,no source carries San Diego local races yet
+237,CA,Kenneth Zuniga,Vista Mayor,no_source,,,,,,,no source carries San Diego local races yet
 239,CO,Melat Kiros,"U.S. House of Representatives, District 1",no_source,,,,,,,no source covers CO yet
 240,CO,Amanda Gonzalez,Colorado Secretary of State,no_source,,,,,,,no source covers CO yet
 241,CO,Jena Griswold,Attorney General,no_source,,,,,,,no source covers CO yet
@@ -771,9 +771,9 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 474,MI,Chris Runberg,Bay City Commission Ward 7,no_source,,,,,,,no source covers MI yet
 475,MN,Jeffrey Sheridan,Dakota County Attorney,no_source,,,,,,,no source covers MN yet
 476,MN,Cedrick Frazier,Hennepin County Attorney,no_source,,,,,,,no source covers MN yet
-477,NE,Makayla Danner,Douglas County District Attorney,no_source,,,,,,,NE's scraped sources don't carry local races yet
-478,NE,Mark Martinez,Douglas County Sheriff,no_source,,,,,,,NE's scraped sources don't carry local races yet
-479,NE,Randall Ritnour,Lancaster County District Attorney,no_source,,,,,,,NE's scraped sources don't carry local races yet
+477,NE,Makayla Danner,Douglas County District Attorney,no_source,,,,,,,no source carries Douglas local races yet
+478,NE,Mark Martinez,Douglas County Sheriff,no_source,,,,,,,no source carries Douglas local races yet
+479,NE,Randall Ritnour,Lancaster County District Attorney,no_source,,,,,,,no source carries Lancaster local races yet
 480,NJ,LaMonica McIver,"U.S. House of Representatives, District 10",no_source,,,,,,,no source covers NJ yet
 481,NJ,Analilia Mejia,"U.S. House of Representatives, District 11",no_source,,,,,,,no source covers NJ yet
 483,NJ,Ron Bautista,Hudson County Commissioner District 5,no_source,,,,,,,no source covers NJ yet

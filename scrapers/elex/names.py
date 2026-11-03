@@ -141,6 +141,19 @@ def to_int(value) -> int:
     return int(float(str(value).replace(",", "")))
 
 
+_NUMBER_WORDS = {"one": 1, "two": 2, "three": 3, "four": 4, "five": 5, "six": 6, "seven": 7, "eight": 8, "nine": 9,
+                 "ten": 10}
+
+
+def vote_for(value) -> int:
+    """Seats in a contest from 3, "3", "Vote for 3" or "Vote for no more than three". Defaults to 1."""
+    text = fold(str(value or ""))
+    m = re.search(r"\d+", text)
+    if m:
+        return int(m.group())
+    return next((n for word, n in _NUMBER_WORDS.items() if re.search(rf"\b{word}\b", text)), 1)
+
+
 def to_float(value) -> float | None:
     if value in (None, ""):
         return None

@@ -1,12 +1,14 @@
 """Every results source, and selection by state, level, county or id. Adding a scraper means adding its module's
 SOURCES here.
 """
+from .counties import ca as ca_counties
 from .source import Source
 from .states import ca, clarity_states, ct, de, enhanced_voting_states, manual, md, nc, oh, or_, pa, results_csv_states
 
 ALL: list[Source] = [
     *ca.SOURCES, *pa.SOURCES, *nc.SOURCES, *enhanced_voting_states.SOURCES, *results_csv_states.SOURCES,
     *clarity_states.SOURCES, *ct.SOURCES, *or_.SOURCES, *oh.SOURCES, *de.SOURCES, *md.SOURCES,
+    *ca_counties.SOURCES,
     *manual.SOURCES,
 ]
 

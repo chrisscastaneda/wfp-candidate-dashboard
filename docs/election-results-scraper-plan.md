@@ -12,7 +12,7 @@ Written Nov 2, 2026, the night before the election. No production code yet; two 
 ## Contents
 
 1. [Decisions so far](#decisions-so-far)
-2. [Phase 1 status](#phase-1-status) and [Phase 2 status](#phase-2-status)
+2. [Phase 1 status](#phase-1-status), [Phase 2 status](#phase-2-status) and [Phase 3 status](#phase-3-status)
 3. [What the probes found](#what-the-probes-found)
 4. [Design principles](#design-principles)
 5. [Architecture](#architecture)
@@ -146,6 +146,49 @@ New review items and findings:
 - A missing county or locality no longer fails the whole source. Its races just show as unmatched.
 - The change hash ignores feed timestamps, so Nebraska's per-request timestamp doesn't write a history snapshot on
   every poll.
+
+## Phase 3 status
+
+Started early Nov 3. Phase 3 is **partly built**: most county sites, and NYC's ENR, don't show their Nov 3 results
+format until results start tonight. Parsers written blind would be guesses, so those counties are listed below with
+what to check when they go live.
+
+**Built (7 county sources, 34 tests passing):**
+
+| Source | Status | Notes |
+|---|---|---|
+| `ca.los_angeles` | ok, 24 of 29 matched | `results.lavote.gov/ElectionResults/GetElectionData`, JSON with the full Nov 3 ballot already loaded |
+| `ca.orange` | ok, 20 of 21 matched | New platform module `platforms/livevoterturnout.py`. The results page link (with a random token) is read from ocvote.gov, newest election first |
+| `ca.santa_clara`, `ca.contra_costa`, `ca.sonoma`, `ca.ventura`, `ca.marin` | `not_published` | Clarity configuration only (35 rows). Their `elections.json` lists are empty until they post |
+
+**Probably not on the ballot:**
+
+- **Los Angeles:** Estefany Castañeda (Centinela Valley UHSD), Andrew Yam (Garvey USD) and Alton Wang (Pasadena CCD
+  Area 7). Their contests aren't on LA's Nov 3 ballot. California cancels uncontested races and appoints the
+  candidate in lieu of election, so these are probably already decided.
+- **Orange County:** Tiffany Ackley (Aliso Viejo at-large). The city's Nov 3 races are by district.
+
+**Matching changes:**
+
+- Local races only match contests from their own county, using the `county` column of `results_sources.csv`. This
+  stopped "Michael Nguyen" (SF supervisor) from matching an LA city clerk.
+- A local race in a county with no source is `no_source`, not `unmatched`.
+- A county's copy of a state proposition is marked partial.
+
+**Still to build, on election night** (county, rows, and where results will appear):
+
+| County | Rows | What we know |
+|---|---:|---|
+| NYC (`enr.boenyc.gov`) | NYC's share of 140 state/federal rows | Redirects to vote.nyc until results start. The ENR is HTML per contest; build the parser once it's live. NYC districts wholly inside the city then match directly. Districts that cross into Nassau or Westchester need the partial-summing step, which waits on those county sources |
+| Westchester | 19 | `westchestercountyny.gov/boe99/` says results start after 9:00pm |
+| Erie (and Onondaga) | 12 (21) | Results Caster JavaScript app (`erie.resultscaster.com/r/<election>`). June's was `Prim26`. Find its data request in the browser's network tab tonight |
+| San Diego, Alameda, San Bernardino, San Mateo, Santa Barbara | 16, 15, 10, 12, 7 | Each county's Nov 3 page has no results link yet. Alameda posted June results as PDF/XLSX canvasses |
+| San Francisco | 13 | `sfelections.org/results/20261103w/` returns 403 to scripts. Blocked: use manual entries |
+| Dutchess, Ulster | 38, 28 | Cumulative PDFs; needs `pdfplumber` |
+| Riverside, Kern, Fresno, Tulare; Orange NY, Onondaga, Rockland | | Blocked to scripts (from the source research) |
+
+Until then, the high-priority rows stay with the [manual federal races](#manual-federal-races), and New York's state
+legislative races have no source.
 
 ## What the probes found
 

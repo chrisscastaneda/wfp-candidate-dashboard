@@ -90,6 +90,16 @@ def _is_local_measure(contest: Contest) -> bool:
                 or re.search(r"\b(city|village|township|county|school district)\b", contest.title, re.I))
 
 
+def _in_row_county(row: dict, contests: list[Contest]) -> list[Contest]:
+    """For a local race, drop county contests from other counties ("Michael Nguyen" for SF supervisor isn't a
+    San Gabriel city clerk in LA). Statewide-source contests, and rows with no single known county, are kept."""
+    counties = [names.fold(c) for c in (row.get("county") or "").split("/") if c.strip()]
+    if not counties or any("multi" in c for c in counties):
+        return contests
+    return [c for c in contests if not re.search(r"\bcounty\b", c.jurisdiction or "", re.I)
+            or any(county in names.fold(c.jurisdiction) for county in counties)]
+
+
 def _position(row: dict) -> str:
     """WFP's side on a measure: "Yes" unless its position says No."""
     position = names.yes_no(row.get("position") or "Yes")
@@ -136,6 +146,8 @@ def match_one(row: dict, contests: list[Contest]) -> Match:
             return Match(NEEDS_REVIEW, "measure_number", hits[0], note=f"no {position!r} choice in contest")
         return Match(AUTO, "measure_number", hits[0], choice)
 
+    if kind in ("local", "judicial"):
+        contests = _in_row_county(row, contests)
     surname = names.surname(row["name"])
     if not surname:
         return Match(UNMATCHED, note="no surname in WFP name")
@@ -218,11 +230,13 @@ def _row_for(e: dict, m: Match) -> dict:
 
 
 def match_all(endorsements: list[dict], contests: list[Contest], previous: dict[str, dict],
-              local_states: set[str] = frozenset(), statewide_states: set[str] | None = None) -> list[dict]:
+              local_states: set[str] = frozenset(), statewide_states: set[str] | None = None,
+              local_counties: set[tuple[str, str]] = frozenset()) -> list[dict]:
     """The full review table: kept rows for confirmed/manual entries, fresh matches for everything else.
     An unmatched row is `no_source` instead of `unmatched` when nothing could have matched it: a local or
-    judicial race outside `local_states` (states with a source that carries local races), or a federal or state
-    race outside `statewide_states` (states with a state-level source; None means every state with contests)."""
+    judicial race outside `local_states` (states with a state-level source that carries local races) and outside
+    `local_counties` ((state, county) pairs with a county source), or a federal or state race outside
+    `statewide_states` (states with a state-level source; None means every state with contests)."""
     scraped, manual = defaultdict(list), defaultdict(list)
     for c in contests:
         if c.scope == "partial":  # one county's share of a larger race; summing partials is Phase 3
@@ -249,8 +263,8 @@ def match_all(endorsements: list[dict], contests: list[Contest], previous: dict[
         if m.status == UNMATCHED and not scraped[state]:
             m = Match(NO_SOURCE, note=f"no scraper for {state}; not in manual entries")
         elif m.status == UNMATCHED and names.wfp_office_type(e) in ("local", "judicial"):
-            if state not in local_states:
-                m = Match(NO_SOURCE, note=f"{state}'s scraped sources don't carry local races yet")
+            if state not in local_states and (state, e.get("county", "")) not in local_counties:
+                m = Match(NO_SOURCE, note=f"no source carries {e.get('county') or state} local races yet")
         elif m.status == UNMATCHED and statewide_states is not None and state not in statewide_states:
             m = Match(NO_SOURCE, note=f"{state} has only county sources so far")
         out.append(_row_for(e, m))

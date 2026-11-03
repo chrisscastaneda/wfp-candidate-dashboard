@@ -28,5 +28,6 @@ def load() -> list[dict]:
         code = config.STATE_CODES.get(row["state"], row["state"][:2].upper())
         out.append({**row, "state_code": code, "key": key_for(code, row["name"], row["office"]),
                     "nov3_ballot": info.get("nov3_ballot", "expected"), "nov3_note": info.get("nov3_note", ""),
+                    "county": info.get("county", ""),
                     "official_source_url": info.get("source_url", "")})
     return out
