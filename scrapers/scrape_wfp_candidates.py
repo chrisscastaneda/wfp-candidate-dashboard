@@ -4,9 +4,11 @@
 The page shows the first 10 candidates per state; the rest are loaded by the
 "View More" button through WordPress admin-ajax (action=more_candidates).
 This script fetches both, adds each state's ballot measures, classifies every
-office, then writes candidates.csv and candidates.json.
+office, then writes candidates.csv and candidates.json to the repo's data/
+directory (or to output_dir if given). Each run is logged to logs/candidates/<run_id>.log and .json, including
+the rows added and removed since the previous scrape (for docs/candidate-changes.md).
 
-Usage: python3 scrape_wfp_candidates.py [output_dir]
+Usage: python3 scrapers/scrape_wfp_candidates.py [output_dir]
 Standard library only.
 """
 import csv
@@ -20,9 +22,12 @@ from datetime import datetime, timezone
 from html.parser import HTMLParser
 from pathlib import Path
 
+from elex.runlog import RunLog
+
 PAGE_URL = "https://workingfamilies.org/candidates/"
 AJAX_URL = "https://workingfamilies.org/wp-admin/admin-ajax.php"
 UA = "Mozilla/5.0 (compatible; wfp-candidate-scraper/1.0)"
+DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 
 CELL_FIELDS = {
     "state-cands__name": "name",
@@ -74,7 +79,7 @@ STATE_EXECUTIVE_RE = re.compile(
     r"Superintendent\s+of\s+Public\s+Instruction|(?:Labor|Insurance|Land|Agriculture)\s+Commissioner|"
     r"Commissioner\s+of\s+(?:Public\s+Lands|Labor|Insurance|Agriculture)|"
     r"Corporation\s+Commission(?:er)?|Public\s+Service\s+Commission(?:er)?|"
-    r"Railroad\s+Commission(?:er)?|Board\s+of\s+Education|Board\s+of\s+Regents|Board\s+of\s+Equalization|"
+    r"Railroad\s+Commission(?:er)?|Board\s+of\s+Equalization|Board\s+of\s+Education|Board\s+of\s+Regents|"
     r"University\s+(?:of\s+\w+\s+)?Regents?)"
     r"(?:\s*,.*)?$",
     re.I,
@@ -97,16 +102,19 @@ LOCAL_MARKER_RE = re.compile(
 # "Board of Education" without "State" is a county/school board, not the state board.
 STATE_BOARD_NEEDS_STATE_RE = re.compile(r"^(?:Board\s+of\s+Education|Board\s+of\s+Regents)", re.I)
 
-# Offices the site lists too vaguely to tell which jurisdiction holds the race,
-# keyed by (state slug, candidate, office as listed). Each was identified by
-# looking up the candidate. If the site's text changes, the override stops
-# applying and the listed text is used as-is.
+# Offices the site lists too vaguely (or misspelled) to tell which jurisdiction
+# holds the race, keyed by (state slug, candidate, office as listed). Each was
+# identified by looking up the candidate; see docs/election-results-sources.md.
+# If the site's text changes, the override stops applying and the listed text
+# is used as-is.
 OFFICE_OVERRIDES = {
     ("california", "Jose Salazar", "Superior Courts, Judge Seat 7"): "Fresno County Superior Court, Seat 7",
     ("california", "Andrea Garcia", "Judge of the Superior Court, #10"): "Riverside County Superior Court, Seat 10",
     ("california", "David Ross", "Judge of the Superior Court"): "Los Angeles County Superior Court, Office 131",
     ("california", "Justin Clayton", "Judge of the Superior Court"): "Los Angeles County Superior Court, Office 65",
     ("california", "Jevon Price", "Healthcare District, Area 3"): "Tulare Local Healthcare District, Area 3",
+    ("california", "Kristina Pine", "Board of Education"): "Ventura County Board of Education, Trustee Area 4",
+    ("new-york", "Ellen McHale", "Charlestown Town Council"): "Charleston Town Council",
 }
 
 def classify_office(office):
@@ -129,11 +137,18 @@ def classify_office(office):
     return LOCAL_OFFICE, "Local"
 
 
+REQUESTS = []  # (method, url, params, status, bytes, seconds) for the run log
+
+
 def fetch(url, data=None):
     body = urllib.parse.urlencode(data).encode() if data else None
     req = urllib.request.Request(url, data=body, headers={"User-Agent": UA})
+    start = time.monotonic()
     with urllib.request.urlopen(req, timeout=30) as resp:
-        return resp.read().decode("utf-8", errors="replace")
+        text = resp.read().decode("utf-8", errors="replace")
+        REQUESTS.append(("POST" if data else "GET", url, data, resp.status, len(text),
+                         round(time.monotonic() - start, 2)))
+        return text
 
 
 def clean(text):
@@ -277,34 +292,60 @@ def scrape():
     return [{"id": r.pop("id"), **r} for r in records]
 
 
+def _key(r):
+    return (r["state"], r["name"], r["office"])
+
+
+def changes_since(previous_file, records):
+    """Rows added and removed since the scrape in previous_file, keyed on state + name + office."""
+    if not previous_file.exists():
+        return [], []
+    before = {_key(r): r for r in json.loads(previous_file.read_text(encoding="utf-8"))["candidates"]}
+    after = {_key(r): r for r in records}
+    return [after[k] for k in after.keys() - before.keys()], [before[k] for k in before.keys() - after.keys()]
+
+
 def main():
-    out_dir = Path(sys.argv[1] if len(sys.argv) > 1 else ".")
+    out_dir = Path(sys.argv[1]) if len(sys.argv) > 1 else DATA_DIR
     out_dir.mkdir(parents=True, exist_ok=True)
-    records = scrape()
+    with RunLog("candidates", command="scrape_wfp_candidates.py " + " ".join(sys.argv[1:])) as log:
+        try:
+            records = scrape()
+        finally:
+            for method, url, params, status, size, seconds in REQUESTS:
+                log.info(f"{method} {url} {params or ''} -> {status} {size}B {seconds}s")
+            log.summary["requests"] = len(REQUESTS)
+        added, removed = changes_since(out_dir / "candidates.json", records)
 
-    fields = list(records[0].keys())
-    with open(out_dir / "candidates.csv", "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fields)
-        writer.writeheader()
+        fields = list(records[0].keys())
+        with open(out_dir / "candidates.csv", "w", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(f, fieldnames=fields)
+            writer.writeheader()
+            for r in records:
+                writer.writerow({k: str(v).lower() if isinstance(v, bool) else v for k, v in r.items()})
+
+        counts = {}
         for r in records:
-            writer.writerow({k: str(v).lower() if isinstance(v, bool) else v for k, v in r.items()})
+            counts[r["office_category"]] = counts.get(r["office_category"], 0) + 1
+        payload = {
+            "source": PAGE_URL,
+            "scraped_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+            "count": len(records),
+            "counts_by_category": counts,
+            "candidates": records,
+        }
+        with open(out_dir / "candidates.json", "w", encoding="utf-8") as f:
+            json.dump(payload, f, indent=2, ensure_ascii=False)
 
-    counts = {}
-    for r in records:
-        counts[r["office_category"]] = counts.get(r["office_category"], 0) + 1
-    payload = {
-        "source": PAGE_URL,
-        "scraped_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-        "count": len(records),
-        "counts_by_category": counts,
-        "candidates": records,
-    }
-    with open(out_dir / "candidates.json", "w", encoding="utf-8") as f:
-        json.dump(payload, f, indent=2, ensure_ascii=False)
-
-    print(f"Wrote {len(records)} records to {out_dir.resolve()}")
-    for category, n in sorted(counts.items(), key=lambda kv: -kv[1]):
-        print(f"  {category:<16} {n}")
+        log.info(f"Wrote {len(records)} records to {out_dir.resolve()}", echo=True)
+        for category, n in sorted(counts.items(), key=lambda kv: -kv[1]):
+            log.info(f"  {category:<16} {n}", echo=True)
+        log.info(f"Since the previous scrape: {len(added)} added, {len(removed)} removed", echo=True)
+        for label, rows in (("added", added), ("removed", removed)):
+            for r in sorted(rows, key=_key):
+                log.info(f"  {label}: {r['state']} | {r['name']} | {r['office']}", echo=True)
+        log.summary.update(count=len(records), counts_by_category=counts,
+                           added=[list(_key(r)) for r in added], removed=[list(_key(r)) for r in removed])
 
 
 if __name__ == "__main__":

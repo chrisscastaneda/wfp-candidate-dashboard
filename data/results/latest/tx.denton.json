@@ -1,0 +1,3256 @@
+{
+ "source": "tx.denton",
+ "contests": [
+  {
+   "source": "tx.denton",
+   "contest_id": "2",
+   "state": "TX",
+   "title": "United States Senator",
+   "office_type": "federal_senate",
+   "district": null,
+   "jurisdiction": "Denton",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Ken Paxton",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Ken Paxton",
+     "party_lines": null
+    },
+    {
+     "name": "James Talarico",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "James Talarico",
+     "party_lines": null
+    },
+    {
+     "name": "Ted Brown",
+     "votes": 0,
+     "party": "LIB",
+     "pct": 0.0,
+     "choice_id": "Ted Brown",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "3",
+   "state": "TX",
+   "title": "United States Representative, District 4",
+   "office_type": "federal_house",
+   "district": "4",
+   "jurisdiction": "Denton",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 23,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Pat Fallon",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Pat Fallon",
+     "party_lines": null
+    },
+    {
+     "name": "Jason Pearce",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Jason Pearce",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "4",
+   "state": "TX",
+   "title": "United States Representative, District 13",
+   "office_type": "federal_house",
+   "district": "13",
+   "jurisdiction": "Denton",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 42,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Ronny Jackson",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Ronny Jackson",
+     "party_lines": null
+    },
+    {
+     "name": "Mark Nair",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Mark Nair",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "5",
+   "state": "TX",
+   "title": "United States Representative, District 26",
+   "office_type": "federal_house",
+   "district": "26",
+   "jurisdiction": "Denton",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 187,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Brandon Gill",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Brandon Gill",
+     "party_lines": null
+    },
+    {
+     "name": "Steven Shook",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Steven Shook",
+     "party_lines": null
+    },
+    {
+     "name": "Phil Gray",
+     "votes": 0,
+     "party": "LIB",
+     "pct": 0.0,
+     "choice_id": "Phil Gray",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "6",
+   "state": "TX",
+   "title": "Governor",
+   "office_type": "governor",
+   "district": null,
+   "jurisdiction": "Denton",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Greg Abbott",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Greg Abbott",
+     "party_lines": null
+    },
+    {
+     "name": "Gina Hinojosa",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Gina Hinojosa",
+     "party_lines": null
+    },
+    {
+     "name": "Pat Dixon",
+     "votes": 0,
+     "party": "LIB",
+     "pct": 0.0,
+     "choice_id": "Pat Dixon",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "7",
+   "state": "TX",
+   "title": "Lieutenant Governor",
+   "office_type": "lt_governor",
+   "district": null,
+   "jurisdiction": "Denton",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Dan Patrick",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Dan Patrick",
+     "party_lines": null
+    },
+    {
+     "name": "Vikki Goodwin",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Vikki Goodwin",
+     "party_lines": null
+    },
+    {
+     "name": "Anthony Cristo",
+     "votes": 0,
+     "party": "LIB",
+     "pct": 0.0,
+     "choice_id": "Anthony Cristo",
+     "party_lines": null
+    },
+    {
+     "name": "Kevin McCormick",
+     "votes": 0,
+     "party": "GRN",
+     "pct": 0.0,
+     "choice_id": "Kevin McCormick",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "8",
+   "state": "TX",
+   "title": "Attorney General",
+   "office_type": "attorney_general",
+   "district": null,
+   "jurisdiction": "Denton",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Mayes Middleton",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Mayes Middleton",
+     "party_lines": null
+    },
+    {
+     "name": "Nathan Johnson",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Nathan Johnson",
+     "party_lines": null
+    },
+    {
+     "name": "Tom Oxford",
+     "votes": 0,
+     "party": "LIB",
+     "pct": 0.0,
+     "choice_id": "Tom Oxford",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "9",
+   "state": "TX",
+   "title": "Comptroller of Public Accounts",
+   "office_type": "controller",
+   "district": null,
+   "jurisdiction": "Denton",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Don Huffines",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Don Huffines",
+     "party_lines": null
+    },
+    {
+     "name": "Sarah Eckhardt",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Sarah Eckhardt",
+     "party_lines": null
+    },
+    {
+     "name": "V. Alonzo Echavarria-Garza",
+     "votes": 0,
+     "party": "LIB",
+     "pct": 0.0,
+     "choice_id": "V. Alonzo Echavarria-Garza",
+     "party_lines": null
+    },
+    {
+     "name": "Shehla Faizi",
+     "votes": 0,
+     "party": "GRN",
+     "pct": 0.0,
+     "choice_id": "Shehla Faizi",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "10",
+   "state": "TX",
+   "title": "Commissioner of the General Land Office",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Dawn Buckingham",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Dawn Buckingham",
+     "party_lines": null
+    },
+    {
+     "name": "Benjamin Flores",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Benjamin Flores",
+     "party_lines": null
+    },
+    {
+     "name": "Neill Snider",
+     "votes": 0,
+     "party": "LIB",
+     "pct": 0.0,
+     "choice_id": "Neill Snider",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "11",
+   "state": "TX",
+   "title": "Commissioner of Agriculture",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Nate Sheets",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Nate Sheets",
+     "party_lines": null
+    },
+    {
+     "name": "Clayton Tucker",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Clayton Tucker",
+     "party_lines": null
+    },
+    {
+     "name": "Austin R. Kelly",
+     "votes": 0,
+     "party": "LIB",
+     "pct": 0.0,
+     "choice_id": "Austin R. Kelly",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "12",
+   "state": "TX",
+   "title": "Railroad Commissioner",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Bo French",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Bo French",
+     "party_lines": null
+    },
+    {
+     "name": "Jon Rosenthal",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Jon Rosenthal",
+     "party_lines": null
+    },
+    {
+     "name": "Arthur DiBianca",
+     "votes": 0,
+     "party": "LIB",
+     "pct": 0.0,
+     "choice_id": "Arthur DiBianca",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "13",
+   "state": "TX",
+   "title": "Chief Justice, Supreme Court",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jimmy Blacklock",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Jimmy Blacklock",
+     "party_lines": null
+    },
+    {
+     "name": "Maggie Ellis",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Maggie Ellis",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "14",
+   "state": "TX",
+   "title": "Justice, Supreme Court, Place 2, Unexpired Term",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "James P. Sullivan",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "James P. Sullivan",
+     "party_lines": null
+    },
+    {
+     "name": "Chari Kelly",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Chari Kelly",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "15",
+   "state": "TX",
+   "title": "Justice, Supreme Court, Place 7",
+   "office_type": "judicial",
+   "district": "7",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Kyle Hawkins",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Kyle Hawkins",
+     "party_lines": null
+    },
+    {
+     "name": "Kristen Hawkins",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Kristen Hawkins",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "16",
+   "state": "TX",
+   "title": "Justice, Supreme Court, Place 8",
+   "office_type": "judicial",
+   "district": "8",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Brett Busby",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Brett Busby",
+     "party_lines": null
+    },
+    {
+     "name": "Gisela D. Triana",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Gisela D. Triana",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "17",
+   "state": "TX",
+   "title": "Judge, Court of Criminal Appeals, Place 3",
+   "office_type": "judicial",
+   "district": "3",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Thomas Smith",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Thomas Smith",
+     "party_lines": null
+    },
+    {
+     "name": "Okey Anyiam",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Okey Anyiam",
+     "party_lines": null
+    },
+    {
+     "name": "Mark Ash",
+     "votes": 0,
+     "party": "LIB",
+     "pct": 0.0,
+     "choice_id": "Mark Ash",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "18",
+   "state": "TX",
+   "title": "Judge, Court of Criminal Appeals, Place 4",
+   "office_type": "judicial",
+   "district": "4",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Kevin Patrick Yeary",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Kevin Patrick Yeary",
+     "party_lines": null
+    },
+    {
+     "name": "Audra Riley",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Audra Riley",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "19",
+   "state": "TX",
+   "title": "Judge, Court of Criminal Appeals, Place 9",
+   "office_type": "judicial",
+   "district": "9",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "John Messinger",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "John Messinger",
+     "party_lines": null
+    },
+    {
+     "name": "Holly Taylor",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Holly Taylor",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "20",
+   "state": "TX",
+   "title": "Member, State Board of Education, District 14",
+   "office_type": "local",
+   "district": "14",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 225,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Mindy Bumgarner",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Mindy Bumgarner",
+     "party_lines": null
+    },
+    {
+     "name": "Amy Taylor",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Amy Taylor",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "21",
+   "state": "TX",
+   "title": "State Representative, District 57",
+   "office_type": "state_house",
+   "district": "57",
+   "jurisdiction": "Denton",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 55,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Richard Hayes",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Richard Hayes",
+     "party_lines": null
+    },
+    {
+     "name": "Ray Stith",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Ray Stith",
+     "party_lines": null
+    },
+    {
+     "name": "Darren Hamilton",
+     "votes": 0,
+     "party": "LIB",
+     "pct": 0.0,
+     "choice_id": "Darren Hamilton",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "22",
+   "state": "TX",
+   "title": "State Representative, District 63",
+   "office_type": "state_house",
+   "district": "63",
+   "jurisdiction": "Denton",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 44,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Ben Bumgarner",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Ben Bumgarner",
+     "party_lines": null
+    },
+    {
+     "name": "Denise Wooten",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Denise Wooten",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "23",
+   "state": "TX",
+   "title": "State Representative, District 64",
+   "office_type": "state_house",
+   "district": "64",
+   "jurisdiction": "Denton",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 35,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Andy Hopper",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Andy Hopper",
+     "party_lines": null
+    },
+    {
+     "name": "Julie Evans",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Julie Evans",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "24",
+   "state": "TX",
+   "title": "State Representative, District 65",
+   "office_type": "state_house",
+   "district": "65",
+   "jurisdiction": "Denton",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 54,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Mitch Little",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Mitch Little",
+     "party_lines": null
+    },
+    {
+     "name": "Detrick DeBurr",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Detrick DeBurr",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "25",
+   "state": "TX",
+   "title": "State Representative, District 106",
+   "office_type": "state_house",
+   "district": "106",
+   "jurisdiction": "Denton",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 64,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jared Patterson",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Jared Patterson",
+     "party_lines": null
+    },
+    {
+     "name": "Joe Mayes",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Joe Mayes",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "26",
+   "state": "TX",
+   "title": "Chief Justice, 15th Court of Appeals District",
+   "office_type": "judicial",
+   "district": "15",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Scott Brister",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Scott Brister",
+     "party_lines": null
+    },
+    {
+     "name": "Jerry Zimmerer",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Jerry Zimmerer",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "27",
+   "state": "TX",
+   "title": "Justice, 15th Court of Appeals District, Place 2",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Scott K. Field",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Scott K. Field",
+     "party_lines": null
+    },
+    {
+     "name": "Tom Baker",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Tom Baker",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "28",
+   "state": "TX",
+   "title": "Justice, 15th Court of Appeals District, Place 3",
+   "office_type": "judicial",
+   "district": "3",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "April Farris",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "April Farris",
+     "party_lines": null
+    },
+    {
+     "name": "Marc M. Meyer",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Marc M. Meyer",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "29",
+   "state": "TX",
+   "title": "Justice, 2nd Court of Appeals District, Place 2",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Chris Taylor",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Chris Taylor",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "30",
+   "state": "TX",
+   "title": "Justice, 2nd Court of Appeals District, Place 7",
+   "office_type": "judicial",
+   "district": "7",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Brian Walker",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Brian Walker",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "31",
+   "state": "TX",
+   "title": "District Judge, 158th Judicial District",
+   "office_type": "judicial",
+   "district": "158",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Steve Burgess",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Steve Burgess",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "32",
+   "state": "TX",
+   "title": "District Judge, 211th Judicial District",
+   "office_type": "judicial",
+   "district": "211",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Brody Shanklin",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Brody Shanklin",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "33",
+   "state": "TX",
+   "title": "District Judge, 367th Judicial District",
+   "office_type": "judicial",
+   "district": "367",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Brent Hill",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Brent Hill",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "34",
+   "state": "TX",
+   "title": "District Judge, 467th Judicial District",
+   "office_type": "judicial",
+   "district": "467",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Derbha Jones",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Derbha Jones",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "35",
+   "state": "TX",
+   "title": "District Judge, 477th Judicial District",
+   "office_type": "judicial",
+   "district": "477",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Michael Dickens",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Michael Dickens",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "36",
+   "state": "TX",
+   "title": "District Judge, 481st Judicial District",
+   "office_type": "judicial",
+   "district": "481",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Crystal Edmonson Levonius",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Crystal Edmonson Levonius",
+     "party_lines": null
+    },
+    {
+     "name": "Seth Fuller",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Seth Fuller",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "37",
+   "state": "TX",
+   "title": "Criminal District Attorney Denton County",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Paul Johnson",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Paul Johnson",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "38",
+   "state": "TX",
+   "title": "County Judge",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Andy Eads",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Andy Eads",
+     "party_lines": null
+    },
+    {
+     "name": "Nick Pappas",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Nick Pappas",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "39",
+   "state": "TX",
+   "title": "Judge, County Court at Law No. 1",
+   "office_type": "judicial",
+   "district": "1",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Kimberly McCary",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Kimberly McCary",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "40",
+   "state": "TX",
+   "title": "Judge, County Court at Law No. 2",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Robert Ramirez",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Robert Ramirez",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "41",
+   "state": "TX",
+   "title": "Judge, County Criminal Court at Law No. 1",
+   "office_type": "judicial",
+   "district": "1",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Lauri Ragland",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Lauri Ragland",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "42",
+   "state": "TX",
+   "title": "Judge, County Criminal Court at Law No. 2",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Susan Piel",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Susan Piel",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "43",
+   "state": "TX",
+   "title": "Judge, County Criminal Court at Law No. 3",
+   "office_type": "judicial",
+   "district": "3",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Forrest C. Beadle",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Forrest C. Beadle",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "44",
+   "state": "TX",
+   "title": "Judge, County Criminal Court at Law No. 4",
+   "office_type": "judicial",
+   "district": "4",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Chance Oliver",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Chance Oliver",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "45",
+   "state": "TX",
+   "title": "Judge, County Criminal Court at Law No. 5",
+   "office_type": "judicial",
+   "district": "5",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Coby Waddill",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Coby Waddill",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "46",
+   "state": "TX",
+   "title": "Judge, County Probate Court No. 1",
+   "office_type": "judicial",
+   "district": "1",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "David Jahn",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "David Jahn",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "47",
+   "state": "TX",
+   "title": "Judge, County Probate Court No. 2",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Christopher J. Everett",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Christopher J. Everett",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "48",
+   "state": "TX",
+   "title": "District Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "David Trantham",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "David Trantham",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "49",
+   "state": "TX",
+   "title": "County Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Juli Luke",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Juli Luke",
+     "party_lines": null
+    },
+    {
+     "name": "Dale Frey",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Dale Frey",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "50",
+   "state": "TX",
+   "title": "County Treasurer",
+   "office_type": "treasurer",
+   "district": null,
+   "jurisdiction": "Denton",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Cindy Yeatts Brown",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Cindy Yeatts Brown",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "51",
+   "state": "TX",
+   "title": "County Commissioner, Precinct No. 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 54,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Kevin Falconer",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Kevin Falconer",
+     "party_lines": null
+    },
+    {
+     "name": "Candace Valenzuela",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Candace Valenzuela",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "52",
+   "state": "TX",
+   "title": "County Commissioner, Precinct No. 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 67,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "David Wylie",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "David Wylie",
+     "party_lines": null
+    },
+    {
+     "name": "Stephanie Draper",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Stephanie Draper",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "53",
+   "state": "TX",
+   "title": "Justice of the Peace, Precinct No. 1",
+   "office_type": "judicial",
+   "district": "1",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 40,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Alan Wheeler",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Alan Wheeler",
+     "party_lines": null
+    },
+    {
+     "name": "Brandon Chase McGee",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Brandon Chase McGee",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "54",
+   "state": "TX",
+   "title": "Justice of the Peace, Precinct No. 2",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 51,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Chris Pochyla",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Chris Pochyla",
+     "party_lines": null
+    },
+    {
+     "name": "Katrina D. Moore",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Katrina D. Moore",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "55",
+   "state": "TX",
+   "title": "Justice of the Peace, Precinct No. 3",
+   "office_type": "judicial",
+   "district": "3",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 32,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "James Kerbow",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "James Kerbow",
+     "party_lines": null
+    },
+    {
+     "name": "Trista Willeford",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Trista Willeford",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "56",
+   "state": "TX",
+   "title": "Justice of the Peace, Precinct No. 4",
+   "office_type": "judicial",
+   "district": "4",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 53,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Harris Hughey",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Harris Hughey",
+     "party_lines": null
+    },
+    {
+     "name": "Will Robertson",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Will Robertson",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "57",
+   "state": "TX",
+   "title": "Justice of the Peace, Precinct No. 5",
+   "office_type": "judicial",
+   "district": "5",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 50,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Vince Handler",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Vince Handler",
+     "party_lines": null
+    },
+    {
+     "name": "Patrece Perry",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Patrece Perry",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "58",
+   "state": "TX",
+   "title": "Justice of the Peace, Precinct No. 6",
+   "office_type": "judicial",
+   "district": "6",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 26,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Blanca Oliver",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Blanca Oliver",
+     "party_lines": null
+    },
+    {
+     "name": "Michelle Butler",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Michelle Butler",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "59",
+   "state": "TX",
+   "title": "Constable, Precinct No. 1 (Unexpired Term)",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 40,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Trevor Krueger",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Trevor Krueger",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "60",
+   "state": "TX",
+   "title": "Denton Central Appraisal District Board of Directors - Place 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Angie Cox",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Angie Cox",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "61",
+   "state": "TX",
+   "title": "Denton Central Appraisal District Board of Directors - Place 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Curtiss Welker",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Curtiss Welker",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "62",
+   "state": "TX",
+   "title": "Denton Central Appraisal District Board of Directors - Place 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 252,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Rick Guzman",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Rick Guzman",
+     "party_lines": null
+    },
+    {
+     "name": "Edwin Irungu",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Edwin Irungu",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "63",
+   "state": "TX",
+   "title": "Town of Bartonville Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "64",
+   "state": "TX",
+   "title": "CITY OF DALLAS PROPOSITION A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "65",
+   "state": "TX",
+   "title": "Town of Double Oak Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "66",
+   "state": "TX",
+   "title": "Town of Flower Mound Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 19,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "67",
+   "state": "TX",
+   "title": "Town of Hickory Creek Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "68",
+   "state": "TX",
+   "title": "City of Justin Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "69",
+   "state": "TX",
+   "title": "City of Lake Dallas Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "70",
+   "state": "TX",
+   "title": "CITY OF PLANO PROPOSITION A: THIS IS A TAX INCREASE",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "71",
+   "state": "TX",
+   "title": "City of Denton Councilmember, District 1 (Unexpired Term)",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Ward Franz",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Ward Franz",
+     "party_lines": null
+    },
+    {
+     "name": "Sunny Busby",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Sunny Busby",
+     "party_lines": null
+    },
+    {
+     "name": "Michael Herron",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Michael Herron",
+     "party_lines": null
+    },
+    {
+     "name": "Kris Cox",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Kris Cox",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "72",
+   "state": "TX",
+   "title": "City of The Colony Place 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Brian R. Wade",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Brian R. Wade",
+     "party_lines": null
+    },
+    {
+     "name": "Eldon J. Pipes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Eldon J. Pipes",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "73",
+   "state": "TX",
+   "title": "City of The Colony Place 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Dan McNew",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Dan McNew",
+     "party_lines": null
+    },
+    {
+     "name": "Dan Rainey",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Dan Rainey",
+     "party_lines": null
+    },
+    {
+     "name": "Tim Costello",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Tim Costello",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "74",
+   "state": "TX",
+   "title": "City of The Colony Place 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Perry Schrag",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Perry Schrag",
+     "party_lines": null
+    },
+    {
+     "name": "Matthew Michaelson",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Matthew Michaelson",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "75",
+   "state": "TX",
+   "title": "City of The Colony Place 6",
+   "office_type": "local",
+   "district": "6",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Matthew Wheeler",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Matthew Wheeler",
+     "party_lines": null
+    },
+    {
+     "name": "Joel Marks",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Joel Marks",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "76",
+   "state": "TX",
+   "title": "Brookfield Water Control and Improvement District of Denton County Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "77",
+   "state": "TX",
+   "title": "Cole Ranch Improvement District No. 2 of Denton County, Texas Proposition A THIS IS A TAX INCREASE",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "78",
+   "state": "TX",
+   "title": "Cole Ranch Improvement District No. 2 of Denton County, Texas Proposition B THIS IS A TAX INCREASE",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "79",
+   "state": "TX",
+   "title": "Denton County Municipal Utility District No. 7 Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "88",
+   "state": "TX",
+   "title": "Denton County Municipal Utility District No. 7 Proposition B",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "89",
+   "state": "TX",
+   "title": "Denton County Municipal Utility District No. 7 Proposition C",
+   "office_type": "measure",
+   "district": "c",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "90",
+   "state": "TX",
+   "title": "Denton County Municipal Utility District No. 7 Proposition D",
+   "office_type": "measure",
+   "district": "d",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "80",
+   "state": "TX",
+   "title": "Northlake Fresh Water Supply District No. 1 of Denton County Proposition A THIS IS A TAX INCREASE",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "81",
+   "state": "TX",
+   "title": "Northlake Fresh Water Supply District No. 1 of Denton County Proposition B THIS IS A TAX INCREASE",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "82",
+   "state": "TX",
+   "title": "Northlake Fresh Water Supply District No. 1 of Denton County Proposition C THIS IS A TAX INCREASE",
+   "office_type": "measure",
+   "district": "c",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "83",
+   "state": "TX",
+   "title": "Northlake Fresh Water Supply District No. 1 of Denton County Proposition D THIS IS A TAX INCREASE",
+   "office_type": "measure",
+   "district": "d",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "84",
+   "state": "TX",
+   "title": "Sanctuary Municipal Utility District No. 2 of Denton County Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "85",
+   "state": "TX",
+   "title": "Sanctuary Municipal Utility District No. 2 of Denton County Proposition B",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "86",
+   "state": "TX",
+   "title": "Sanctuary Municipal Utility District No. 2 of Denton County Proposition C",
+   "office_type": "measure",
+   "district": "c",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ]
+  },
+  {
+   "source": "tx.denton",
+   "contest_id": "87",
+   "state": "TX",
+   "title": "Sanctuary Municipal Utility District No. 2 of Denton County Proposition D",
+   "office_type": "measure",
+   "district": "d",
+   "jurisdiction": "Denton",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ]
+  }
+ ],
+ "contests_hash": "9f1bb6c8f60eb647",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-03T07:20:19+00:00",
+ "fetched_at": "2026-11-03T07:20:19+00:00",
+ "contests_changed_at": "2026-11-03T07:20:19+00:00"
+}

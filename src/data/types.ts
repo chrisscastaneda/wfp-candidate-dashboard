@@ -10,7 +10,7 @@ export type OfficeCategory =
 
 export type OfficeLevel = 'Federal' | 'State' | 'Local' | 'Ballot'
 
-/** One row of candidates.json (a candidate or a ballot measure). */
+/** One row of data/candidates.json (a candidate or a ballot measure). */
 export interface Candidate {
   id: number
   name: string
@@ -58,3 +58,41 @@ export interface StateTileData extends StateGridEntry {
   has_ballot_measure: boolean
   endorsement_count: number
 }
+
+/** Endorsement statuses in data/results/wfp_results.json (see docs/election-results-scraper-plan.md). */
+export type ResultStatus = 'awaiting' | 'counting' | 'final' | 'not_on_ballot' | 'no_source' | 'unmatched'
+
+export interface ResultChoice {
+  name: string
+  party: string | null
+  votes: number
+  pct: number | null
+  is_wfp: boolean
+}
+
+/** One endorsement's entry in wfp_results.json. Contest fields are absent unless a race was matched. */
+export interface CandidateResult {
+  name: string
+  status: ResultStatus
+  match_status: string
+  note?: string
+  source?: string
+  contest?: string
+  scope?: string
+  reporting?: { pct: number | null; text: string | null }
+  updated_at?: string | null
+  wfp_choice?: string
+  /** Whether WFP's choice is in a winning position; null before any votes. Not a race call. */
+  wfp_leading?: boolean | null
+  choices?: ResultChoice[]
+}
+
+export interface ResultsFile {
+  election_date: string
+  generated_at: string
+  run_id: string
+  results: Record<string, CandidateResult>
+}
+
+/** What the dashboard shows and filters by, derived from a result. */
+export type DisplayStatus = 'leading' | 'trailing' | 'awaiting' | 'not_tracked' | 'not_on_ballot'
