@@ -11,6 +11,8 @@ const ITEMS = [
 
 <template>
   <div class="flex flex-wrap items-center gap-x-4 gap-y-2 text-sm text-neutral-700 lg:gap-x-3 lg:text-xs">
+    <!-- Full width on phones so the items start on the next line; inline from sm up. -->
+    <p class="w-full sm:w-auto">WFP Endorsement Key:</p>
     <div v-for="item in ITEMS" :key="item.label" class="flex items-center gap-1.5 whitespace-nowrap lg:gap-1">
       <div class="pointer-events-none w-6 lg:w-5" aria-hidden="true">
         <Tile label="" :notches="item.notches" :notch-size="0.5" tabindex="-1" />
