@@ -17,14 +17,14 @@ const updated = computed(() => {
 </script>
 
 <template>
-  <div class="mt-2 border-t border-wfp-gray pt-2 text-sm">
-    <p class="mb-1.5 text-xs text-neutral-600">{{ result.contest }}</p>
+  <div class="mt-2 border-t border-wfp-gray pt-2 text-sm lg:text-base">
+    <p class="mb-1.5 text-xs text-neutral-600 lg:text-sm">{{ result.contest }}</p>
     <table class="w-full">
       <tbody>
         <tr v-for="c in choices" :key="c.name" :class="c.is_wfp ? 'font-semibold' : ''">
           <td class="py-0.5 pr-2">
             {{ c.name }}
-            <span v-if="c.party" class="text-xs font-normal text-neutral-500">{{ c.party }}</span>
+            <span v-if="c.party" class="text-xs font-normal text-neutral-500 lg:text-sm">{{ c.party }}</span>
           </td>
           <td class="w-2/5 py-0.5 pr-2">
             <div class="h-2 rounded-full bg-wfp-gray" aria-hidden="true">
@@ -40,7 +40,7 @@ const updated = computed(() => {
         </tr>
       </tbody>
     </table>
-    <p class="mt-1.5 text-xs text-neutral-500">
+    <p class="mt-1.5 text-xs text-neutral-500 lg:text-sm">
       <span v-if="result.reporting?.text">{{ result.reporting.text }}. </span>
       <span v-if="updated">Updated {{ updated }}. </span>
       Unofficial results; races aren't called here.
