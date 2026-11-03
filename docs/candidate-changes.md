@@ -9,6 +9,29 @@ affects `docs/results_sources.csv`, the entry says so.
 
 ---
 
+## Nov 3, 2026 (evening): 1,219 rows, 1 swapped
+
+Scraped 2026-11-03 23:04 UTC (6:04pm ET, election day), compared with the 08:11 UTC scrape. 1 row was added and 1
+removed, both in New Jersey, so the total is unchanged.
+
+### Added (1)
+
+- **Adam Hamawy, U.S. House District 12 (New Jersey)**
+
+### Removed (1)
+
+- Ras Baraka, Mayor of Newark. His row already said he won a fourth term on May 12, so WFP likely dropped a race
+  that's already decided.
+
+### Notes
+
+- The new row took Baraka's place in the list, so Hamawy has id 482 and no other ids changed.
+- `docs/results_sources.csv` was updated to match: row 482 is now Hamawy's NJ-12 race, with the same source as the
+  other New Jersey House races (county Clarity sites; no statewide election-night feed).
+- `scrape_results.py manual-template` added `nj.us-house.12` to `data/results/manual_entries.csv`.
+
+---
+
 ## Nov 3, 2026 (early morning): 1,216 → 1,219 rows
 
 Scraped 2026-11-03 08:11 UTC (3:11am ET, election day), compared with the 00:18 UTC scrape. 4 rows were added and

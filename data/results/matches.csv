@@ -1,6 +1,10 @@
 wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id,choice,note
 93,CA,Damon Connolly,"State Senate, District 12",needs_review,surname_any_district,ca,state-senate/2,State Senate District 2,Damon Connolly,Damon Connolly,district differs from WFP listing (12 -> 2)
 194,CA,Helen Kreiger,West Hollywood City Council,needs_review,near_name,ca.los_angeles,10533,CITY OF WEST HOLLYWOOD GENERAL MUNICIPAL ELECTION Member of the City Council,26655,HELEN KRIEGER,"surname differs: WFP 'Helen Kreiger', feed 'HELEN KRIEGER'"
+402,GA,Peter Hubbard,Public Service Commission,needs_review,name_in_state,ga,01000000-3a82-a359-c4c2-08df23e5ff63,PSC - District 3,01000000-3a82-a359-c4fc-08df23e5ff63,Peter Hubbard (I),found by name only; check the office (PSC - District 3)
+403,GA,Shelia Edwards,Public Service Commission,needs_review,name_in_state,ga,01000000-3a82-a359-4e6b-08df23e5ff65,PSC - District 5,01000000-3a82-a359-4e97-08df23e5ff65,Shelia Edwards,found by name only; check the office (PSC - District 5)
+428,GA,Jodi Merriday,"Fulton County Commission, District 3",needs_review,name_in_state,ga,01000000-3a82-a359-0573-08df23e6c6c9,County Commissioner - District 3,01000000-3a82-a359-062c-08df23e6c6c9,Jodi Merriday,found by name only; check the office (County Commissioner - District 3)
+429,GA,Rohit Malhotra,"Fulton County Commission, District 4",needs_review,name_in_state,ga,01000000-3a82-a359-2c80-08df23e6c683,Special County Commissioner - District 4,01000000-3a82-a359-2ca2-08df23e6c683,Rohit Malhotra,found by name only; check the office (Special County Commissioner - District 4)
 494,NM,Cari Power,"Socorro County Commission, District 1",needs_review,near_name,nm,11279,County Commissioner by Commissioner District - Socorro - Socorro District 1,20001,CARI LEANN POWELL,"surname differs: WFP 'Cari Power', feed 'CARI LEANN POWELL'"
 925,OH,Annette Blackwell,Auditor,needs_review,name_in_state,oh,_55A742EA54E009A3E0633390EE0AE290,Auditor of State,Annette Blackwell,Annette Blackwell,found by name only; check the office (Auditor of State)
 986,OR,Angeline Nicole Basett,State Senate District 26,needs_review,near_name,or,300038717,"State Senator, 26th District",Nicole Bassett,Nicole Bassett,"name differs: WFP 'Angeline Nicole Basett', feed 'Nicole Bassett'"
@@ -50,6 +54,7 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 168,CA,Andrew Yam,Garvey Unified School District,unmatched,,,,,,,no 'yam' in any CA contest loaded
 181,CA,Alton Wang,"Pasadena Area Community College District, Trustee Area No. 7",unmatched,,,,,,,no 'wang' in any CA contest loaded
 198,CA,Tiffany Ackley,"Aliso Viejo City Council, At-large",unmatched,,,,,,,no 'ackley' in any CA contest loaded
+276,CO,Taishya Adams,Boulder Mayor,unmatched,,,,,,,no 'adams' in any CO contest loaded
 1210,OH,"Columbus, OH | Issue 8: Our City, Our Say",Ballot Measure,unmatched,,,,,,,measure '8': not found
 1211,OH,Ohio | Senate Bill 396: Paid Family and Medical Leave Act,Ballot Measure,unmatched,,,,,,,measure None: not found
 989,OR,Christina Stephenson,Oregon Labor Commissioner,unmatched,,,,,,,no 'stephenson' in any OR contest loaded
@@ -150,6 +155,90 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 1169,CA,Prop 43: Protect Local Funding,Ballot Measure,auto,measure_number,ca,prop/43,Proposition 43: Limits Voters' Ability To Raise Revenues For Local Government Services. Legislative Constitutional Amendment.,No,No,
 1170,CA,Prop 44: Protect Community Health Clinics,Ballot Measure,auto,measure_number,ca,prop/44,Proposition 44: Requires Community Health Clinics Spend 90% Of Revenue On Program Services. Initiative Statute.,No,No,
 1171,CA,Prop 45: Reject Corporate Polluting Projects,Ballot Measure,auto,measure_number,ca,prop/45,Proposition 45: Modifies Environmental Review For Certain Projects. Initiative Statute.,No,No,
+239,CO,Melat Kiros,"U.S. House of Representatives, District 1",auto,district_surname,co,110,Representative to the 120th United States Congress - District 1,Melat Kiros,Melat Kiros,
+240,CO,Amanda Gonzalez,Colorado Secretary of State,auto,district_surname,co,220,Secretary of State,Amanda Gonzalez,Amanda Gonzalez,
+241,CO,Jena Griswold,Attorney General,auto,district_surname,co,240,Attorney General,Jena Griswold,Jena Griswold,
+242,CO,Jamie Jeffery,"Colorado State Senate, District 1",auto,district_surname,co,1010,State Senator - District 1,Jamie Jeffery,Jamie Jeffery,
+243,CO,Aaron Gutierrez,"Colorado State Senate, District 3",auto,district_surname,co,1030,State Senator - District 3,Aaron Gutierrez,Aaron Gutierrez,
+244,CO,Emily Sirota,"Colorado State Senate, District 32",auto,district_surname,co,1232,State Senator - District 32,Emily Sirota,Emily Sirota,
+245,CO,Javier Mabrey,"Colorado State House, District 1",auto,district_surname,co,2001,State Representative - District 1,Javier Mabrey,Javier Mabrey,
+246,CO,Scott Baldermann,"Colorado State House, District 2",auto,district_surname,co,2002,State Representative - District 2,Scott Baldermann,Scott Baldermann,
+247,CO,Gena Ozols,"Colorado State House, District 3",auto,district_surname,co,2003,State Representative - District 3,Gena Ozols,Gena Ozols,
+248,CO,Justine Sandoval,"Colorado State House, District 5",auto,district_surname,co,2005,State Representative - District 5,Justine Sandoval,Justine Sandoval,
+249,CO,Iris Halpern,"Colorado State House, District 6",auto,district_surname,co,2006,State Representative - District 6,Iris Halpern,Iris Halpern,
+250,CO,Monica VanBuskirk,"Colorado State House, District 9",auto,district_surname,co,2009,State Representative - District 9,Monica VanBuskirk,Monica VanBuskirk,
+251,CO,Junie Joseph,"Colorado State House, District 10",auto,district_surname,co,2010,State Representative - District 10,Junie Joseph,Junie Joseph,
+252,CO,Consuelo Redhorse,"Colorado State House, District 13",auto,district_surname,co,2013,State Representative - District 13,Consuelo Redhorse,Consuelo Redhorse,
+253,CO,Alexis Hoffkling,"Colorado State House, District 23",auto,district_surname,co,2023,State Representative - District 23,Alexis Hoffkling,Alexis Hoffkling,
+254,CO,Tammy Story,"Colorado State House, District 25",auto,district_surname,co,2025,State Representative - District 25,Tammy Story,Tammy Story,
+255,CO,Gabriel Cervantes,"Colorado State House, District 31",auto,district_surname,co,2031,State Representative - District 31,Gabriel Cervantes,Gabriel Cervantes,
+256,CO,Chris VanDijk,"Colorado State House, District 32",auto,district_surname,co,2032,State Representative - District 32,Chris VanDijk,Chris VanDijk,
+257,CO,Kenny Nguyen,"Colorado State House, District 33",auto,district_surname,co,2033,State Representative - District 33,Kenny Van Nguyen,Kenny Van Nguyen,
+258,CO,Jenny Willford,"Colorado State House, District 34",auto,district_surname,co,2034,State Representative - District 34,Jenny Willford,Jenny Willford,
+259,CO,Jamie Jackson,"Colorado State House, District 41",auto,district_surname,co,2041,State Representative - District 41,Jamie Jackson,Jamie Jackson,
+260,CO,Michael Clarkson,"Colorado State House, District 45",auto,district_surname,co,2045,State Representative - District 45,Michael Clarkson,Michael Clarkson,
+261,CO,Vic Meyers,"Colorado State House, District 47",auto,district_surname,co,2047,State Representative - District 47,Vic Meyers,Vic Meyers,
+262,CO,Jacki Marsh,"Colorado State House, District 51",auto,district_surname,co,2051,State Representative - District 51,Jacki Marsh,Jacki Marsh,
+263,CO,Yara Zokaie,"Colorado State House, District 52",auto,district_surname,co,2052,State Representative - District 52,Yara Zokaie,Yara Zokaie,
+264,CO,Mallory Martin,"Colorado State House, District 54",auto,district_surname,co,2054,State Representative - District 54,Mallory Martin,Mallory Martin,
+265,CO,Elizabeth Velasco,"Colorado State House, District 57",auto,district_surname,co,2057,State Representative - District 57,Elizabeth Velasco,Elizabeth Velasco,
+266,CO,Iman Jodeh,"Colorado State Senate, District 29",auto,district_surname,co,1229,State Senator - District 29,Iman M. Jodeh,Iman M. Jodeh,
+267,CO,Chela Garcia Irlando,"Colorado State Senate, District 34",auto,district_surname,co,1234,State Senator - District 34,Chela Garcia Irlando,Chela Garcia Irlando,
+268,CO,Lisa Escárcega,"Colorado State Board of Education, Congressional District 1",auto,district_surname,co,310,State Board of Education Member - Congressional District 1,Lisa Escárcega,Lisa Escárcega,
+269,CO,Karla Esser,"Colorado State Board of Education, Congressional District 7",auto,district_surname,co,370,State Board of Education Member - Congressional District 7,Karla Esser,Karla Esser,
+270,CO,Thomas Swingle,Adams County Assessor,auto,name_in_state,co,Adams/34,Adams County Assessor,Thomas Swingle,Thomas Swingle,
+271,CO,Emma Pinter,"Adams County Commission, District 3",auto,name_in_state,co,Adams/30,Adams County Commissioner - District 3,Emma Pinter,Emma Pinter,
+272,CO,PK Kaiser,Arapahoe County Assessor,auto,name_in_state,co,Arapahoe/30,Arapahoe County Assessor,PK Kaiser,PK Kaiser,
+273,CO,Jessica Campbell,"Arapahoe County Commission, District 2",auto,name_in_state,co,Arapahoe/26,Arapahoe County Commissioner - District 2,Jessica Campbell,Jessica Campbell,
+274,CO,Leslie Summey,"Arapahoe County Commission, District 4",auto,name_in_state,co,Arapahoe/27,Arapahoe County Commissioner - District 4,Leslie Summey,Leslie Summey,
+275,CO,Michael Westerberg,Arapahoe County Treasurer,auto,name_in_state,co,Arapahoe/29,Arapahoe County Treasurer,Michael Westerberg,Michael Westerberg,
+277,CO,Jamillah Richmond,Boulder City Council,auto,name_in_state,co,Boulder/24,City of Boulder Council Candidates,Jamillah Richmond,Jamillah Richmond,
+278,CO,Rachel Rose Isaacson,Boulder City Council,auto,name_in_state,co,Boulder/24,City of Boulder Council Candidates,Rachel Rose Isaacson,Rachel Rose Isaacson,
+279,CO,Ryan Schuchard,Boulder City Council,auto,name_in_state,co,Boulder/24,City of Boulder Council Candidates,Ryan Schuchard,Ryan Schuchard,
+280,CO,Melissa Mejía,"Denver City Council, At-Large, Seat B",auto,name_in_state,co,Denver/90,City and County of Denver Councilmember - At-Large -Seat B,Melissa Adriana Mejia,Melissa Adriana Mejia,
+281,CO,Irene Bonham,"Douglas County Commissioner, District 1",auto,name_in_state,co,Douglas/17,Douglas County Commissioner - District 1,Irene Bonham,Irene Bonham,
+282,CO,David “Muka” Traenkle,El Paso County Assessor,auto,name_in_state,co,El_Paso/27,El Paso County Assessor,David 'Muka' Traenkle,David 'Muka' Traenkle,
+283,CO,Gavin Rainey,"El Paso County Commission, District 1",auto,name_in_state,co,El_Paso/23,El Paso County Commissioner - District 1,Gavin Rainey,Gavin Rainey,
+284,CO,Jonathan Godes,"Garfield County Commission, District 1",auto,name_in_state,co,Garfield/10,Garfield County Commissioner - District 1,Jonathan Godes,Jonathan Godes,
+285,CO,Andy Kerr,Jefferson County Assessor,auto,name_in_state,co,Jefferson/35,Jefferson County Assessor,Andy Kerr,Andy Kerr,
+286,CO,Nicole Hensel,Jefferson County Clerk & Recorder,auto,name_in_state,co,Jefferson/33,Jefferson County Clerk and Recorder,Nicole Hensel,Nicole Hensel,
+287,CO,Bob Overbeck,Larimer County Assessor,auto,name_in_state,co,Larimer/20,Larimer County Assessor,Bob Overbeck,Bob Overbeck,
+288,CO,Shane Atkinson,"Larimer County Commission, District 1",auto,name_in_state,co,Larimer/17,Larimer County Commissioner - District 1,Shane Atkinson,Shane Atkinson,
+289,CO,Naseem Zubi,Pueblo County Assessor,auto,name_in_state,co,Pueblo/16,Pueblo County Assessor,Naseem Zubi,Naseem Zubi,
+290,CO,Angela Giron,"Pueblo County Commissioner, District 3",auto,name_in_state,co,Pueblo/13,Pueblo County Commissioner - District 3,Angela Giron,Angela Giron,
+291,CO,Allen Medina,Pueblo County Sheriff,auto,name_in_state,co,Pueblo/17,Pueblo County Sheriff,Allen Medina,Allen Medina,
+292,CO,Michael Farrington,"RTD Board of Directors, District K",auto,name_in_state,co,3540,Regional Transportation District Director - District K,Michael Farrington,Michael Farrington,
+293,CO,Jack Rosenthal,"RTD Board of Directors, District O",auto,name_in_state,co,3570,Regional Transportation District Director - District O,Jack Rosenthal,Jack Rosenthal,
+294,CO,Liza Marron,"Saguache County Commission, District 3",auto,name_in_state,co,Saguache/9,Saguache County Commissioner - District 3,Liza Marron,Liza Marron,
+1172,CO,Amendment 81: Expand Cooperation with ICE,Ballot Measure,auto,measure_number,co,6000,Amendment 81 (CONSTITUTIONAL),No,No,
+1173,CO,Amendment 82: Protection for Corporate Polluters,Ballot Measure,auto,measure_number,co,6010,Amendment 82 (CONSTITUTIONAL),No,No,
+1174,CO,Amendment 83: Legalize Cruel Practices in Hunting and Fishing,Ballot Measure,auto,measure_number,co,6020,Amendment 83 (CONSTITUTIONAL),No,No,
+1175,CO,Amendment 84: Make it Harder to Vote By Mail,Ballot Measure,auto,measure_number,co,6030,Amendment 84 (CONSTITUTIONAL),No,No,
+1176,CO,Amendment 85: Misleading Ballot Descriptions,Ballot Measure,auto,measure_number,co,6040,Amendment 85 (CONSTITUTIONAL),No,No,
+1177,CO,Amendment 86: Protect Republicans in Redistricting,Ballot Measure,auto,measure_number,co,6050,Amendment 86 (CONSTITUTIONAL),No,No,
+1178,CO,Amendment 87: Tax the Rich,Ballot Measure,auto,measure_number,co,6060,Amendment 87 (CONSTITUTIONAL),Yes,Yes,
+1179,CO,Aurora Ballot Issue 3B,Ballot Measure,auto,measure_number,co,7308,City of Aurora Ballot Issue 3B,No,No,
+1180,CO,Aurora Ballot Question 3D,Ballot Measure,auto,measure_number,co,7312,City of Aurora Ballot Question 3D,Yes,Yes,
+1181,CO,Boulder County Ballot Issue 1A,Ballot Measure,auto,measure_number,co,Boulder/56,Boulder County Ballot Issue 1A,Yes,Yes,
+1182,CO,City of Boulder Ballot Issue 2J,Ballot Measure,auto,measure_number,co,Boulder/59,City of Boulder Ballot Issue 2J,Yes,Yes,
+1183,CO,City of Boulder Ballot Question 2L,Ballot Measure,auto,measure_number,co,Boulder/61,City of Boulder Ballot Question 2L,Yes,Yes,
+1184,CO,Denver Public Schools Ballot Issue 4A,Ballot Measure,auto,measure_number,co,Denver/104,Denver Public Schools Ballot Issue 4A,Yes,Yes,
+1185,CO,El Paso County Ballot Issue 1A,Ballot Measure,auto,measure_number,co,El_Paso/71,El Paso County Ballot Issue 1A,No,No,
+1186,CO,Front Range Passenger Rail District Ballot Issue 7A,Ballot Measure,auto,measure_number,co,7720,Front Range Passenger Rail District Ballot Issue 7A,Yes,Yes,
+1187,CO,Greeley Ballot Measure 2F,Ballot Measure,auto,measure_number,co,Weld/81,City of Greeley Ballot Issue 2F,No,No,
+1188,CO,Larimer County Ballot Issue 1A,Ballot Measure,auto,measure_number,co,Larimer/49,Larimer County Ballot Issue 1A,Yes,Yes,
+1189,CO,Longmont Amendment 3C,Ballot Measure,auto,measure_number,co,7328,City of Longmont Ballot Question 3C,Yes,Yes,
+1190,CO,Longmont Amendment 3D,Ballot Measure,auto,measure_number,co,7330,City of Longmont Ballot Question 3D,Yes,Yes,
+1191,CO,Proposition 132: Private Prison Cash Grab,Ballot Measure,auto,measure_number,co,6080,Proposition 132 (STATUTORY),No,No,
+1192,CO,Proposition 133: An Undercover Attack on Reproductive Freedom,Ballot Measure,auto,measure_number,co,6090,Proposition 133 (STATUTORY),No,No,
+1193,CO,Proposition 134: Puts Kids in Harm’s Way,Ballot Measure,auto,measure_number,co,6100,Proposition 134 (STATUTORY),No,No,
+1194,CO,Proposition 135: A Threat to Family Rights,Ballot Measure,auto,measure_number,co,6110,Proposition 135 (STATUTORY),No,No,
+1195,CO,Proposition 136: The Millionaire Protection Act,Ballot Measure,auto,measure_number,co,6120,Proposition 136 (STATUTORY),No,No,
+1196,CO,Proposition 137: Directing Taxes from Sporting Goods to Conservation,Ballot Measure,auto,measure_number,co,6130,Proposition 137 (STATUTORY),Yes,Yes,
+1197,CO,Proposition NN: Yes for Colorado Kids,Ballot Measure,auto,measure_number,co,6070,Proposition NN (STATUTORY),Yes,Yes,
+1198,CO,Pueblo Ballot Issue 6A,Ballot Measure,auto,measure_number,co,Pueblo/46,Pueblo City-County Library District Ballot Issue 6A,Yes,Yes,
+1199,CO,Pueblo Ballot Question 2B,Ballot Measure,auto,measure_number,co,Pueblo/48,City of Pueblo Ballot Question 2B,Yes,Yes,
+1200,CO,Pueblo West Ballot Issue 6C,Ballot Measure,auto,measure_number,co,Pueblo/51,Pueblo West Metropolitan Ballot Issue  6C,Yes,Yes,
 295,CT,Jahana Hayes,"U.S. House of Representatives, District 5",auto,district_surname,ct,19670,Representative in Congress 5,Jahana Hayes,Jahana Hayes,
 296,CT,Ned Lamont,Governor,auto,district_surname,ct,19663,Governor and Lieutenant Governor,Ned Lamont and Susan Bysiewicz,Ned Lamont and Susan Bysiewicz,
 297,CT,Susan Bysiewicz,Lt Governor,auto,district_surname,ct,19663,Governor and Lieutenant Governor,Ned Lamont and Susan Bysiewicz,Ned Lamont and Susan Bysiewicz,
@@ -245,6 +334,33 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 387,DE,Madinah Wilson-Anton,"State Representative, District 26",auto,district_surname,de,State Representative District 26,State Representative District 26,486654,MADINAH WILSON-ANTON,
 388,DE,Tyeisha Grier,"State Representative, District 28",auto,district_surname,de,State Representative District 28,State Representative District 28,490086,"TYEISHA ""TYE"" GRIER",
 389,DE,Shay Frisby,"State Senate, District 5",auto,district_surname,de,State Senator District 5,State Senator District 5,406554,SHAY FRISBY,
+399,GA,Gabriel Sanchez,"Georgia State House, District 42",auto,district_surname,ga,01000000-3a82-a359-1c15-08df23e66433,State House of Representatives - District 42,01000000-3a82-a359-1c38-08df23e66433,Gabriel Sanchez (I),
+400,GA,Amanda Hollowell,"U.S. House of Representatives, District 1",auto,district_surname,ga,01000000-3a82-a359-9ca3-08df23e5ffce,US House of Representatives - District 1,01000000-3a82-a359-9cec-08df23e5ffce,Amanda Hollowell,
+401,GA,Nikki Porcher,Labor Commissioner,auto,district_surname,ga,01000000-3a82-a359-33e9-08df23e5ff62,Commissioner of Labor,01000000-3a82-a359-341a-08df23e5ff62,Nikki Porcher,
+404,GA,Cynthia Starke-Jones,"Georgia State House, District 19",auto,district_surname,ga,01000000-3a82-a359-32b6-08df23e61314,State House of Representatives - District 19,01000000-3a82-a359-32ed-08df23e61314,Cynthia Starke-Jones,
+405,GA,Danielle Bell,"Georgia State House, District 44",auto,district_surname,ga,01000000-3a82-a359-9ac5-08df23e64f51,State House of Representatives - District 44,01000000-3a82-a359-9adc-08df23e64f51,Danielle Bell,
+406,GA,Michelle Schreiner,"Georgia State House, District 45",auto,district_surname,ga,01000000-3a82-a359-d6a6-08df23e6641f,State House of Representatives - District 45,01000000-3a82-a359-d6bf-08df23e6641f,Michelle Schreiner,
+407,GA,Dumont Walker,"Georgia State House, District 46",auto,district_surname,ga,01000000-3a82-a359-990e-08df23e64f74,State House of Representatives - District 46,01000000-3a82-a359-9925-08df23e64f74,Dumont J. Walker,
+408,GA,Bryce Berry,"Georgia State House, District 56",auto,district_surname,ga,01000000-3a82-a359-0df2-08df23e6c6c9,State House of Representatives - District 56,01000000-3a82-a359-0e01-08df23e6c6c9,Bryce Berry (I),
+409,GA,Mathewos Samson,"Georgia State House, District 58",auto,district_surname,ga,01000000-3a82-a359-6652-08df23e6c6e0,State House of Representatives - District 58,01000000-3a82-a359-6675-08df23e6c6e0,Mathewos Samson,
+410,GA,Kenn Collier,"Georgia State House, District 62",auto,district_surname,ga,01000000-3a82-a359-4173-08df23e6c66b,State House of Representatives - District 62,01000000-3a82-a359-4183-08df23e6c66b,Kenn Collier,
+411,GA,Kim Schofield,"Georgia State House, District 63",auto,district_surname,ga,01000000-3a82-a359-429f-08df23e6c683,State House of Representatives - District 63,01000000-3a82-a359-42ae-08df23e6c683,Kim Schofield (I),
+412,GA,Bentley Hudgins,"Georgia State House, District 90",auto,district_surname,ga,01000000-3a82-a359-4dff-08df23e682bc,State House of Representatives - District 90,01000000-3a82-a359-4e16-08df23e682bc,Bentley Hudgins,
+413,GA,Jyot Singh,"Georgia State House, District 97",auto,district_surname,ga,01000000-3a82-a359-8934-08df23e6dbaf,State House of Representatives - District 97/ Para la Cámara de Representantes del Estado Distrito 97,01000000-3a82-a359-894b-08df23e6dbaf,Jyot Singh,
+414,GA,Marvin Lim,"Georgia State House, District 98",auto,district_surname,ga,01000000-3a82-a359-d620-08df23e6db96,State House of Representatives - District 98/ Para la Cámara de Representantes del Estado Distrito 98,01000000-3a82-a359-d631-08df23e6db96,Marvin Lim (I),
+415,GA,Michelle Kang,"Georgia State House, District 99",auto,district_surname,ga,01000000-3a82-a359-a84c-08df23e6da82,State House of Representatives - District 99/ Para la Cámara de Representantes del Estado Distrito 99,01000000-3a82-a359-a863-08df23e6da82,Michelle Kang,
+416,GA,Akbar Ali,"Georgia State House, District 106",auto,district_surname,ga,01000000-3a82-a359-2a6e-08df23e6db64,State House of Representatives - District 106/ Para la Cámara de Representantes del Estado Distrito 106,01000000-3a82-a359-2a7d-08df23e6db64,Akbar Ali (I),
+417,GA,Juan Estrada,"Georgia State House, District 109",auto,district_surname,ga,01000000-3a82-a359-d361-08df23e6db4a,State House of Representatives - District 109/ Para la Cámara de Representantes del Estado Distrito 109,01000000-3a82-a359-d372-08df23e6db4a,Juan Estrada,
+418,GA,Regina Lewis-Ward,"Georgia State House, District 115",auto,district_surname,ga,01000000-3a82-a359-4f31-08df23e60480,State House of Representatives - District 115,01000000-3a82-a359-4f70-08df23e60480,Regina Lewis-Ward (I),
+419,GA,El-Mahdi Holly,"Georgia State House, District 116",auto,district_surname,ga,01000000-3a82-a359-62ba-08df23e60483,State House of Representatives - District 116,01000000-3a82-a359-62e9-08df23e60483,El-Mahdi Holly (I),
+420,GA,Suzanna Karatassos,"Georgia State House, District 120",auto,district_surname,ga,01000000-3a82-a359-45d0-08df23e605d6,State House of Representatives - District 120,01000000-3a82-a359-460b-08df23e605d6,Suzanna Karatassos,
+421,GA,Anissa Jones,"Georgia State House, District 143",auto,district_surname,ga,01000000-3a82-a359-9f6b-08df23e60508,State House of Representatives - District 143,01000000-3a82-a359-9f94-08df23e60508,Anissa M. Jones (I),
+422,GA,Ethan Wolfe,"Georgia State House, District 151",auto,district_surname,ga,01000000-3a82-a359-6c52-08df23e60bed,State House of Representatives - District 151,01000000-3a82-a359-6c8a-08df23e60bed,Ethan Wolfe,
+423,GA,Keyanna Jones Moore,"DeKalb County Commission, District 3",auto,name_in_state,ga,01000000-3a82-a359-3ea7-08df23e68291,County Commission - District 3,01000000-3a82-a359-3f5d-08df23e68291,Keyanna Jones Moore,
+424,GA,Stephanie Burgess,"Georgia State House, District 164",auto,district_surname,ga,01000000-3a82-a359-f4d9-08df23e63be0,State House of Representatives - District 164,01000000-3a82-a359-f4ee-08df23e63be0,Stephanie O Burgess,
+425,GA,Ruwa Romman,"Georgia State Senate, District 7",auto,district_surname,ga,01000000-3a82-a359-b576-08df23e6dacd,State Senate - District 7/ Senador Estatal del Distrito 7,01000000-3a82-a359-b58f-08df23e6dacd,Ruwa Romman,
+426,GA,Nikki Merritt,"Georgia State Senate, District 9",auto,district_surname,ga,01000000-3a82-a359-7106-08df23e6da9b,State Senate - District 9/ Senador Estatal del Distrito 9,01000000-3a82-a359-711e-08df23e6da9b,Nikki Merritt (I),
+427,GA,Kenya Wicks,"Georgia State Senate, District 34",auto,district_surname,ga,01000000-3a82-a359-1a4a-08df23e657ad,State Senate - District 34,01000000-3a82-a359-1a66-08df23e657ad,Kenya Wicks (I),
 434,MD,Sarah David,Baltimore County State’s Attorney,auto,name_in_state,md,county-4/State's Attorney,State's Attorney,Sarah R. David,Sarah R. David,
 435,MD,Karl Bickel,Frederick County Sheriff,auto,name_in_state,md,county-11/Sheriff,Sheriff,Karl Bickel,Karl Bickel,
 436,MD,Janssen Evelyn,"Howard County Council, District 4",auto,name_in_state,md,county-14/County Council District 4,County Council District 4,Janssen Evelyn,Janssen Evelyn,
@@ -452,10 +568,10 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 1095,TX,Michelle Butler,"Denton County Justice of the Peace, Precinct 6",auto,name_in_state,tx.denton,58,"Justice of the Peace, Precinct No. 6",Michelle Butler,Michelle Butler,
 1102,UT,Luke Maynes,"Salt Lake County Council, District 3",auto,name_in_state,ut,01000000-68b8-edcd-804b-08df2650840f,COUNTY COUNCIL DISTRICT 3,01000000-68b8-edcd-8072-08df2650840f,LUKE MAYNES,
 1103,UT,Rosie Rivera,Salt Lake County Sheriff,auto,name_in_state,ut,01000000-68b8-edcd-81d2-08df2650840f,COUNTY SHERIFF,01000000-68b8-edcd-8215-08df2650840f,ROSIE RIVERA,
-1104,UT,Stephen Otterstrom,"State House, District 21",auto,district_surname,ut,01000000-68b8-edcd-76a0-08df2650840f,STATE HOUSE DISTRICT 21,01000000-68b8-edcd-76c3-08df2650840f,STEPHEN OTTERSTROM,
-1105,UT,Sahara Hayes,"State House, District 32",auto,district_surname,ut,01000000-68b8-edcd-794e-08df2650840f,STATE HOUSE DISTRICT 32,01000000-68b8-edcd-7974-08df2650840f,SAHARA HAYES,
-1106,UT,Rosalba Dominguez,"State House, District 35",auto,district_surname,ut,01000000-68b8-edcd-7a18-08df2650840f,STATE HOUSE DISTRICT 35,01000000-68b8-edcd-7a3e-08df2650840f,ROSALBA DOMINGUEZ,
-1107,UT,David Chappell,"State House, District 62",auto,district_surname,ut,01000000-e219-cce4-2b9d-08df2a14a656,State House District 62,01000000-e219-cce4-2bb6-08df2a14a656,DAVID CHAPPELL,
+1104,UT,Stephen Otterstrom,"State House, District 21",auto,district_surname,ut,b4e60000-c0a3-7204-8e58-08df3933fc5c,State House District 21,b4e60000-c0a3-7204-9050-08df3933fc5c,STEPHEN OTTERSTROM,
+1105,UT,Sahara Hayes,"State House, District 32",auto,district_surname,ut,b4e60000-c0a3-7204-58a9-08df3933fc5c,State House District 32,b4e60000-c0a3-7204-5abf-08df3933fc5c,SAHARA HAYES,
+1106,UT,Rosalba Dominguez,"State House, District 35",auto,district_surname,ut,b4e60000-c0a3-7204-4c1e-08df3933fc5c,State House District 35,b4e60000-c0a3-7204-4f5a-08df3933fc5c,ROSALBA DOMINGUEZ,
+1107,UT,David Chappell,"State House, District 62",auto,district_surname,ut,b4e60000-c0a3-7204-cd8f-08df3933fc5b,State House District 62,b4e60000-c0a3-7204-d0d2-08df3933fc5b,DAVID CHAPPELL,
 1108,WA,Pramila Jayapal,"U.S. House of Representatives, District 7",auto,district_surname,wa,54c40000-9064-bbec-97f2-08df15c0a82a,Congressional District 7 - U.S. Representative,54c40000-9064-bbec-a211-08df15c0a82a,Pramila Jayapal,
 1109,WA,Jorge Baron,"King County Council, District 4",auto,name_in_state,wa,01000000-f0b7-9b6a-7402-08df232198db,Metropolitan King County - Council District No. 4,01000000-f0b7-9b6a-7467-08df232198db,Jorge L. Barón,
 1110,WA,Teresa Mosqueda,"King County Council, District 8",auto,name_in_state,wa,01000000-f0b7-9b6a-74ea-08df232198db,Metropolitan King County - Council District No. 8,01000000-f0b7-9b6a-7502-08df232198db,Teresa Mosqueda,
@@ -601,91 +717,6 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 235,CA,Kayla Lauriano,"Tri-City Healthcare District Board, Zone 2",no_source,,,,,,,no source carries San Diego local races yet
 236,CA,Corinna Contreras,"Vista City Council, District 1",no_source,,,,,,,no source carries San Diego local races yet
 237,CA,Kenneth Zuniga,Vista Mayor,no_source,,,,,,,no source carries San Diego local races yet
-239,CO,Melat Kiros,"U.S. House of Representatives, District 1",no_source,,,,,,,no source covers CO yet
-240,CO,Amanda Gonzalez,Colorado Secretary of State,no_source,,,,,,,no source covers CO yet
-241,CO,Jena Griswold,Attorney General,no_source,,,,,,,no source covers CO yet
-242,CO,Jamie Jeffery,"Colorado State Senate, District 1",no_source,,,,,,,no source covers CO yet
-243,CO,Aaron Gutierrez,"Colorado State Senate, District 3",no_source,,,,,,,no source covers CO yet
-244,CO,Emily Sirota,"Colorado State Senate, District 32",no_source,,,,,,,no source covers CO yet
-245,CO,Javier Mabrey,"Colorado State House, District 1",no_source,,,,,,,no source covers CO yet
-246,CO,Scott Baldermann,"Colorado State House, District 2",no_source,,,,,,,no source covers CO yet
-247,CO,Gena Ozols,"Colorado State House, District 3",no_source,,,,,,,no source covers CO yet
-248,CO,Justine Sandoval,"Colorado State House, District 5",no_source,,,,,,,no source covers CO yet
-249,CO,Iris Halpern,"Colorado State House, District 6",no_source,,,,,,,no source covers CO yet
-250,CO,Monica VanBuskirk,"Colorado State House, District 9",no_source,,,,,,,no source covers CO yet
-251,CO,Junie Joseph,"Colorado State House, District 10",no_source,,,,,,,no source covers CO yet
-252,CO,Consuelo Redhorse,"Colorado State House, District 13",no_source,,,,,,,no source covers CO yet
-253,CO,Alexis Hoffkling,"Colorado State House, District 23",no_source,,,,,,,no source covers CO yet
-254,CO,Tammy Story,"Colorado State House, District 25",no_source,,,,,,,no source covers CO yet
-255,CO,Gabriel Cervantes,"Colorado State House, District 31",no_source,,,,,,,no source covers CO yet
-256,CO,Chris VanDijk,"Colorado State House, District 32",no_source,,,,,,,no source covers CO yet
-257,CO,Kenny Nguyen,"Colorado State House, District 33",no_source,,,,,,,no source covers CO yet
-258,CO,Jenny Willford,"Colorado State House, District 34",no_source,,,,,,,no source covers CO yet
-259,CO,Jamie Jackson,"Colorado State House, District 41",no_source,,,,,,,no source covers CO yet
-260,CO,Michael Clarkson,"Colorado State House, District 45",no_source,,,,,,,no source covers CO yet
-261,CO,Vic Meyers,"Colorado State House, District 47",no_source,,,,,,,no source covers CO yet
-262,CO,Jacki Marsh,"Colorado State House, District 51",no_source,,,,,,,no source covers CO yet
-263,CO,Yara Zokaie,"Colorado State House, District 52",no_source,,,,,,,no source covers CO yet
-264,CO,Mallory Martin,"Colorado State House, District 54",no_source,,,,,,,no source covers CO yet
-265,CO,Elizabeth Velasco,"Colorado State House, District 57",no_source,,,,,,,no source covers CO yet
-266,CO,Iman Jodeh,"Colorado State Senate, District 29",no_source,,,,,,,no source covers CO yet
-267,CO,Chela Garcia Irlando,"Colorado State Senate, District 34",no_source,,,,,,,no source covers CO yet
-268,CO,Lisa Escárcega,"Colorado State Board of Education, Congressional District 1",no_source,,,,,,,no source covers CO yet
-269,CO,Karla Esser,"Colorado State Board of Education, Congressional District 7",no_source,,,,,,,no source covers CO yet
-270,CO,Thomas Swingle,Adams County Assessor,no_source,,,,,,,no source covers CO yet
-271,CO,Emma Pinter,"Adams County Commission, District 3",no_source,,,,,,,no source covers CO yet
-272,CO,PK Kaiser,Arapahoe County Assessor,no_source,,,,,,,no source covers CO yet
-273,CO,Jessica Campbell,"Arapahoe County Commission, District 2",no_source,,,,,,,no source covers CO yet
-274,CO,Leslie Summey,"Arapahoe County Commission, District 4",no_source,,,,,,,no source covers CO yet
-275,CO,Michael Westerberg,Arapahoe County Treasurer,no_source,,,,,,,no source covers CO yet
-276,CO,Taishya Adams,Boulder Mayor,no_source,,,,,,,no source covers CO yet
-277,CO,Jamillah Richmond,Boulder City Council,no_source,,,,,,,no source covers CO yet
-278,CO,Rachel Rose Isaacson,Boulder City Council,no_source,,,,,,,no source covers CO yet
-279,CO,Ryan Schuchard,Boulder City Council,no_source,,,,,,,no source covers CO yet
-280,CO,Melissa Mejía,"Denver City Council, At-Large, Seat B",no_source,,,,,,,no source covers CO yet
-281,CO,Irene Bonham,"Douglas County Commissioner, District 1",no_source,,,,,,,no source covers CO yet
-282,CO,David “Muka” Traenkle,El Paso County Assessor,no_source,,,,,,,no source covers CO yet
-283,CO,Gavin Rainey,"El Paso County Commission, District 1",no_source,,,,,,,no source covers CO yet
-284,CO,Jonathan Godes,"Garfield County Commission, District 1",no_source,,,,,,,no source covers CO yet
-285,CO,Andy Kerr,Jefferson County Assessor,no_source,,,,,,,no source covers CO yet
-286,CO,Nicole Hensel,Jefferson County Clerk & Recorder,no_source,,,,,,,no source covers CO yet
-287,CO,Bob Overbeck,Larimer County Assessor,no_source,,,,,,,no source covers CO yet
-288,CO,Shane Atkinson,"Larimer County Commission, District 1",no_source,,,,,,,no source covers CO yet
-289,CO,Naseem Zubi,Pueblo County Assessor,no_source,,,,,,,no source covers CO yet
-290,CO,Angela Giron,"Pueblo County Commissioner, District 3",no_source,,,,,,,no source covers CO yet
-291,CO,Allen Medina,Pueblo County Sheriff,no_source,,,,,,,no source covers CO yet
-292,CO,Michael Farrington,"RTD Board of Directors, District K",no_source,,,,,,,no source covers CO yet
-293,CO,Jack Rosenthal,"RTD Board of Directors, District O",no_source,,,,,,,no source covers CO yet
-294,CO,Liza Marron,"Saguache County Commission, District 3",no_source,,,,,,,no source covers CO yet
-1172,CO,Amendment 81: Expand Cooperation with ICE,Ballot Measure,no_source,,,,,,,no source covers CO yet
-1173,CO,Amendment 82: Protection for Corporate Polluters,Ballot Measure,no_source,,,,,,,no source covers CO yet
-1174,CO,Amendment 83: Legalize Cruel Practices in Hunting and Fishing,Ballot Measure,no_source,,,,,,,no source covers CO yet
-1175,CO,Amendment 84: Make it Harder to Vote By Mail,Ballot Measure,no_source,,,,,,,no source covers CO yet
-1176,CO,Amendment 85: Misleading Ballot Descriptions,Ballot Measure,no_source,,,,,,,no source covers CO yet
-1177,CO,Amendment 86: Protect Republicans in Redistricting,Ballot Measure,no_source,,,,,,,no source covers CO yet
-1178,CO,Amendment 87: Tax the Rich,Ballot Measure,no_source,,,,,,,no source covers CO yet
-1179,CO,Aurora Ballot Issue 3B,Ballot Measure,no_source,,,,,,,no source covers CO yet
-1180,CO,Aurora Ballot Question 3D,Ballot Measure,no_source,,,,,,,no source covers CO yet
-1181,CO,Boulder County Ballot Issue 1A,Ballot Measure,no_source,,,,,,,no source covers CO yet
-1182,CO,City of Boulder Ballot Issue 2J,Ballot Measure,no_source,,,,,,,no source covers CO yet
-1183,CO,City of Boulder Ballot Question 2L,Ballot Measure,no_source,,,,,,,no source covers CO yet
-1184,CO,Denver Public Schools Ballot Issue 4A,Ballot Measure,no_source,,,,,,,no source covers CO yet
-1185,CO,El Paso County Ballot Issue 1A,Ballot Measure,no_source,,,,,,,no source covers CO yet
-1186,CO,Front Range Passenger Rail District Ballot Issue 7A,Ballot Measure,no_source,,,,,,,no source covers CO yet
-1187,CO,Greeley Ballot Measure 2F,Ballot Measure,no_source,,,,,,,no source covers CO yet
-1188,CO,Larimer County Ballot Issue 1A,Ballot Measure,no_source,,,,,,,no source covers CO yet
-1189,CO,Longmont Amendment 3C,Ballot Measure,no_source,,,,,,,no source covers CO yet
-1190,CO,Longmont Amendment 3D,Ballot Measure,no_source,,,,,,,no source covers CO yet
-1191,CO,Proposition 132: Private Prison Cash Grab,Ballot Measure,no_source,,,,,,,no source covers CO yet
-1192,CO,Proposition 133: An Undercover Attack on Reproductive Freedom,Ballot Measure,no_source,,,,,,,no source covers CO yet
-1193,CO,Proposition 134: Puts Kids in Harm’s Way,Ballot Measure,no_source,,,,,,,no source covers CO yet
-1194,CO,Proposition 135: A Threat to Family Rights,Ballot Measure,no_source,,,,,,,no source covers CO yet
-1195,CO,Proposition 136: The Millionaire Protection Act,Ballot Measure,no_source,,,,,,,no source covers CO yet
-1196,CO,Proposition 137: Directing Taxes from Sporting Goods to Conservation,Ballot Measure,no_source,,,,,,,no source covers CO yet
-1197,CO,Proposition NN: Yes for Colorado Kids,Ballot Measure,no_source,,,,,,,no source covers CO yet
-1198,CO,Pueblo Ballot Issue 6A,Ballot Measure,no_source,,,,,,,no source covers CO yet
-1199,CO,Pueblo Ballot Question 2B,Ballot Measure,no_source,,,,,,,no source covers CO yet
-1200,CO,Pueblo West Ballot Issue 6C,Ballot Measure,no_source,,,,,,,no source covers CO yet
 390,DC,Robert White,U.S. House of Representatives,no_source,,,,,,,no source covers DC yet
 391,DC,Janeese Lewis George,D.C. Mayor,no_source,,,,,,,no source covers DC yet
 392,DC,Brian Schwalb,Attorney General,no_source,,,,,,,no source covers DC yet
@@ -695,37 +726,6 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 396,DC,Charles Allen,"District Council, Ward 6",no_source,,,,,,,no source covers DC yet
 397,DC,Oye Olowela,"District Council, At-Large",no_source,,,,,,,no source covers DC yet
 398,FL,Angie Nixon,U.S. Senate,no_source,,,,,,,no source covers FL yet
-399,GA,Gabriel Sanchez,"Georgia State House, District 42",no_source,,,,,,,no source covers GA yet
-400,GA,Amanda Hollowell,"U.S. House of Representatives, District 1",no_source,,,,,,,no source covers GA yet
-401,GA,Nikki Porcher,Labor Commissioner,no_source,,,,,,,no source covers GA yet
-402,GA,Peter Hubbard,Public Service Commission,no_source,,,,,,,no source covers GA yet
-403,GA,Shelia Edwards,Public Service Commission,no_source,,,,,,,no source covers GA yet
-404,GA,Cynthia Starke-Jones,"Georgia State House, District 19",no_source,,,,,,,no source covers GA yet
-405,GA,Danielle Bell,"Georgia State House, District 44",no_source,,,,,,,no source covers GA yet
-406,GA,Michelle Schreiner,"Georgia State House, District 45",no_source,,,,,,,no source covers GA yet
-407,GA,Dumont Walker,"Georgia State House, District 46",no_source,,,,,,,no source covers GA yet
-408,GA,Bryce Berry,"Georgia State House, District 56",no_source,,,,,,,no source covers GA yet
-409,GA,Mathewos Samson,"Georgia State House, District 58",no_source,,,,,,,no source covers GA yet
-410,GA,Kenn Collier,"Georgia State House, District 62",no_source,,,,,,,no source covers GA yet
-411,GA,Kim Schofield,"Georgia State House, District 63",no_source,,,,,,,no source covers GA yet
-412,GA,Bentley Hudgins,"Georgia State House, District 90",no_source,,,,,,,no source covers GA yet
-413,GA,Jyot Singh,"Georgia State House, District 97",no_source,,,,,,,no source covers GA yet
-414,GA,Marvin Lim,"Georgia State House, District 98",no_source,,,,,,,no source covers GA yet
-415,GA,Michelle Kang,"Georgia State House, District 99",no_source,,,,,,,no source covers GA yet
-416,GA,Akbar Ali,"Georgia State House, District 106",no_source,,,,,,,no source covers GA yet
-417,GA,Juan Estrada,"Georgia State House, District 109",no_source,,,,,,,no source covers GA yet
-418,GA,Regina Lewis-Ward,"Georgia State House, District 115",no_source,,,,,,,no source covers GA yet
-419,GA,El-Mahdi Holly,"Georgia State House, District 116",no_source,,,,,,,no source covers GA yet
-420,GA,Suzanna Karatassos,"Georgia State House, District 120",no_source,,,,,,,no source covers GA yet
-421,GA,Anissa Jones,"Georgia State House, District 143",no_source,,,,,,,no source covers GA yet
-422,GA,Ethan Wolfe,"Georgia State House, District 151",no_source,,,,,,,no source covers GA yet
-423,GA,Keyanna Jones Moore,"DeKalb County Commission, District 3",no_source,,,,,,,no source covers GA yet
-424,GA,Stephanie Burgess,"Georgia State House, District 164",no_source,,,,,,,no source covers GA yet
-425,GA,Ruwa Romman,"Georgia State Senate, District 7",no_source,,,,,,,no source covers GA yet
-426,GA,Nikki Merritt,"Georgia State Senate, District 9",no_source,,,,,,,no source covers GA yet
-427,GA,Kenya Wicks,"Georgia State Senate, District 34",no_source,,,,,,,no source covers GA yet
-428,GA,Jodi Merriday,"Fulton County Commission, District 3",no_source,,,,,,,no source covers GA yet
-429,GA,Rohit Malhotra,"Fulton County Commission, District 4",no_source,,,,,,,no source covers GA yet
 430,KY,Charles Booker,U.S. Senate,no_source,,,,,,,no source covers KY yet
 431,LA,Simone Levine,"Judge, Criminal District Court, Section D, Orleans Parish",no_source,,,,,,,no source covers LA yet
 443,MA,Lorena Betts,"Massachusetts State House, 16th Middlesex District",no_source,,,,,,,no source covers MA yet
@@ -776,6 +776,7 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 479,NE,Randall Ritnour,Lancaster County District Attorney,no_source,,,,,,,no source carries Lancaster local races yet
 480,NJ,LaMonica McIver,"U.S. House of Representatives, District 10",no_source,,,,,,,no source covers NJ yet
 481,NJ,Analilia Mejia,"U.S. House of Representatives, District 11",no_source,,,,,,,no source covers NJ yet
+482,NJ,Adam Hamawy,"U.S. House of Representatives, District 12",no_source,,,,,,,no source covers NJ yet
 483,NJ,Ron Bautista,Hudson County Commissioner District 5,no_source,,,,,,,no source covers NJ yet
 484,NJ,Bill O’Dea,"Hudson County Commissioner, District 2",no_source,,,,,,,no source covers NJ yet
 485,NJ,Pam Johnson,"Hudson County Commissioner, District 3",no_source,,,,,,,no source covers NJ yet
@@ -1206,7 +1207,6 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 1218,WI,"Wisconsin Question 2, Freedom to Gather in Places of Worship During an Emergency Referendum",Ballot Measure,no_source,,,,,,,no source covers WI yet
 1219,WI,"Wisconsin Question 3, Governmental Entity Discrimination Prohibited Referendum",Ballot Measure,no_source,,,,,,,no source covers WI yet
 1151,WY,Aaron Appelhans,Albany County Sheriff,no_source,,,,,,,no source covers WY yet
-482,NJ,Ras Baraka,Mayor of Newark,not_on_ballot,,,,,,,"Decided May 12, 2026: Baraka won a fourth term (~70%)."
 650,NY,Reid Kornman,Eastchester School Board,not_on_ballot,,,,,,,Eastchester UFSD board election was held in May 2026.
 678,NY,Phil Howard,Newburgh School Board,not_on_ballot,,,,,,,"Decided May 19, 2026 (Newburgh ECSD); reported re-elected."
 679,NY,Letitia Politi,Newburgh School Board,not_on_ballot,,,,,,,"Decided May 19, 2026 (Newburgh ECSD); reported re-elected."
