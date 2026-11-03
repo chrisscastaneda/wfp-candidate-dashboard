@@ -1,7 +1,7 @@
 # Election Results Sources: Nov 3, 2026 General
 
 Where to pull live and final results for every WFP endorsement in [`data/candidates.json`](../data/candidates.json)
-(1,194 rows: 1,129 candidates + 65 ballot measures, across 31 states + DC; scraped Nov 2, 2026).
+(1,216 rows: 1,151 candidates + 65 ballot measures, across 31 states + DC; scraped Nov 2, 2026).
 Research done Nov 1–2, 2026. Each source below was loaded and inspected unless marked otherwise.
 
 The per-race mapping is in [`results_sources.csv`](results_sources.csv): one row per endorsement, with its source, URL,
@@ -19,32 +19,32 @@ data endpoint, format, and flags. Column definitions are at the bottom of this d
      South Carolina, Florida (mirror), and 14 relevant counties: Contra Costa, Santa Clara, Sonoma, Marin, Ventura (CA);
      Travis, Dallas, Tarrant, Bexar, Denton (TX); Hudson, Middlesex, Essex (NJ); Hamilton (OH).
    - **Same vendor, same layout**: Nebraska and New Mexico.
-3. **Local races are the hard part: 502 rows depend on ~60 county offices.** New York (249 rows across 30 counties) and
-   California (186 rows across 21 counties) dominate. NY counties mostly post HTML/PDF summaries, often slowly.
+3. **Local races are the hard part: 509 rows depend on ~60 county offices.** New York (250 rows across 31 counties) and
+   California (190 rows across 21 counties) dominate. NY counties mostly post HTML/PDF summaries, often slowly.
 4. **Four states have no usable official election-night source**: Massachusetts (the Secretary does not publish
    unofficial results), Michigan (county clerks only; state posts ~24h later), Wisconsin (72 county clerks; WEC doesn't
    compile), and Maine (slow spreadsheets; U.S. Senate is ranked-choice). Use AP or Decision Desk HQ there (64 rows, counting Kentucky's one U.S. Senate race, which is simpler via AP).
 5. **Several feeds are already live for Nov 3**: California API, North Carolina, Nebraska, New Mexico, Utah,
    Washington, Rhode Island, Louisiana, Delaware, Connecticut, Kentucky, Arkansas, plus Denton and Hamilton counties on
    Clarity. Still pending (as of Nov 1): Colorado, Georgia, Texas, and DC haven't posted their Nov 3 election IDs.
-6. **10 endorsements are not on the Nov 3 ballot.** Their races were decided earlier in 2026: Newark mayor (May 12),
+6. **12 endorsements are not on the Nov 3 ballot.** Ten races were decided earlier in 2026: Newark mayor (May 12),
    Denton city council (May 2 and June 13), Newburgh and Eastchester school boards (May 19), and Fairport village
-   (March 18). The `nov3_ballot` column marks them `no`, with the date and outcome. Show them as decided rather than
-   waiting for Nov 3 results. Another 5 rows are still `unconfirmed` (see below).
+   (March 18). Ellen McHale (Charleston Town Council, NY) won her seat in Nov 2025 and isn't up this year, and
+   Oregon's Initiative Petition 9-2026-I-01 didn't qualify. The `nov3_ballot` column marks all 12 `no`, with the reason.
+   Show them as decided or not on the ballot rather than waiting for Nov 3 results. No rows remain `unconfirmed`.
 
 ## Coverage summary
 
 | How results are reached | Rows | Notes |
 |---|---:|---|
-| State source, state/federal races | 597 | Includes 64 rows in MA/MI/WI/ME/KY where AP is recommended |
-| State source also covers the local race | 48 | DC, MD, MN, NE, NC, RI, GA, UT, WA, DE, LA, AR, AZ |
+| State source, state/federal races | 615 | Includes 64 rows in MA/MI/WI/ME/KY where AP is recommended |
+| State source also covers the local race | 52 | DC, MD, MN, NE, NC, RI, GA, UT, WA, DE, LA, AR, AZ |
 | County sub-sites under the state Clarity (Colorado) | 40 | Same platform as statewide |
-| Separate county/city source | 508 | ~60 county offices, mostly NY and CA |
-| County not yet identifiable | 1 | "Charlestown Town Council" (NY) |
+| Separate county/city source | 509 | ~60 county offices, mostly NY and CA |
 
-By URL status: 809 rows point to a source verified working, 292 to a source that exists but blocks scripted requests
-(Cloudflare/Akamai; needs a real browser or browser-like client), 92 to a URL found in research but not loaded,
-and 1 row has no source yet.
+By URL status: 832 rows point to a source verified working, 292 to a source that exists but blocks scripted requests
+(Cloudflare/Akamai; needs a real browser or browser-like client), and 92 to a URL found in research but not loaded.
+Every row has a source.
 
 ## State-by-state sources
 
@@ -71,7 +71,7 @@ Rows = WFP endorsements in that state. "Live" = updates through election night.
 | Nebraska | 3 | [electionresults.nebraska.gov](https://electionresults.nebraska.gov/) | HTML + `ResultsMedia.aspx` exports | Yes | Yes | Nov 3 configured |
 | New Jersey | 8 | county clerks (Clarity) | Clarity per county | Yes | County | Multi-county U.S. House districts need summing or AP |
 | New Mexico | 11 | [electionresults.sos.nm.gov](https://electionresults.sos.nm.gov/) | HTML + `ResultsMedia.aspx` exports | Yes | Yes | Nov 3 configured |
-| New York | 390 | [nyenr.elections.ny.gov](https://nyenr.elections.ny.gov/) | HTML (ASP.NET) | Yes | **No** | Federal/state/legislative only. Local: 30 county boards |
+| New York | 390 | [nyenr.elections.ny.gov](https://nyenr.elections.ny.gov/) | HTML (ASP.NET) | Yes | **No** | Federal/state/legislative only. Local: 31 county boards |
 | North Carolina | 9 | [er.ncsbe.gov](https://er.ncsbe.gov/) | **JSON** `enr/20261103/data/results_0.txt` + per-county files | Yes | Yes | Already live; every contest incl. DA and Supreme Court |
 | Ohio | 27 | [liveresults.ohiosos.gov](https://liveresults.ohiosos.gov/) | JSON `Api/v1/Contest/*` | Yes | No | Cloudflare. Local: Hamilton (Clarity), Franklin |
 | Oregon | 80 | [results.oregonvotes.gov](https://results.oregonvotes.gov/) | HTML | Partial | No | Live at 8pm Nov 3; mail counting runs 1–2 weeks. Local: counties |
@@ -160,30 +160,36 @@ show "results pending" until their states post.
 
 - **Board of Equalization** (CA, 2 rows) was classified as Local Office; the scraper now classifies it as
   State Executive.
-- **Vague CA offices** (6 rows) didn't name a county. Five were identified by candidate and are now rewritten by
-  the scraper's `OFFICE_OVERRIDES`. They are Fresno County Superior Court Seat 7 (Salazar), Riverside County
-  Superior Court Seat 10 (Garcia), Los Angeles County Superior Court Offices 131 and 65 (Ross, Clayton), and Tulare
-  Local Healthcare District Area 3 (Price). Kristina Pine's "Board of Education" stays as listed until her race is
-  confirmed (see below).
+- **Vague CA offices** (6 rows) didn't name a county. All six were identified by candidate, and the scraper's
+  `OFFICE_OVERRIDES` now rewrites them to the identified name: Fresno County Superior Court Seat 7 (Salazar), Riverside County
+  Superior Court Seat 10 (Garcia), Los Angeles County Superior Court Offices 131 and 65 (Ross, Clayton), Tulare
+  Local Healthcare District Area 3 (Price), and Ventura County Board of Education Trustee Area 4 (Pine).
+- **"Charlestown Town Council" (NY)** is the Town of Charleston, Montgomery County (also corrected by
+  `OFFICE_OVERRIDES`). Ellen McHale won a council seat
+  there in Nov 2025; the 2026 Charleston ballot has only an unexpired-term council seat, and she isn't on it.
 - **"Your 2 Cents" (OR)** is a City of Portland participatory-budgeting measure (Multnomah County).
 - **MA Questions 8 and 9 are real statewide questions.** Massachusetts has 9 this year: Q8 would ban retail
   marijuana sales, and Q9 is a veto referendum on the 2024 gun law.
 - **Columbus Issue 8** is confirmed on the ballot; the council's competing Issue 9 overrides it on conflicts if both pass.
 
-### Still unresolved (5 rows)
+### Resolved Nov 2 (5 rows)
 
-| Row | Question | How to settle |
+These were open questions until Nov 2. Each answer is recorded in the row's `nov3_note`.
+
+| Row | Answer | `nov3_ballot` |
 |---|---|---|
-| Ellen McHale, "Charlestown Town Council" (NY) | No NY town by that name, and no trace of the candidate | Ask WFP; possibly Charlton (Saratoga County) |
-| Kristina Pine, "Board of Education" (CA) | Resigned her Simi Valley USD seat in 2025; which board now? | Ventura County candidate list |
-| Kaitlin Parker, Malone Village Trustee (NY) | Malone votes in November, but her 2026 candidacy isn't confirmed | Franklin County BOE candidate list |
-| Morgen Fleisig, Hastings-on-Hudson Trustee (NY) | No 2026 trustee candidacy found (lost 2025 mayoral primary) | Westchester BOE candidate list |
-| Oregon "Initiative Petition 9-2026-I-01" | Identifier not found anywhere; "9-" suggests Deschutes County | Deschutes County voters' pamphlet |
+| Ellen McHale, "Charlestown Town Council" (NY) | Town of Charleston, Montgomery County. She won in Nov 2025 and isn't on the 2026 Charleston ballot | `no` |
+| Kristina Pine, "Board of Education" (CA) | Ventura County Board of Education, Trustee Area 4: an open seat, against Scott Dettorre | `confirmed` |
+| Kaitlin Parker, Malone Village Trustee (NY) | Running for one of two seats against incumbents Bonner and King | `confirmed` |
+| Morgen Fleisig, Hastings-on-Hudson Trustee (NY) | Incumbent; two candidates for up to two seats | `confirmed` |
+| Oregon "Initiative Petition 9-2026-I-01" | Deschutes County proportional ranked-choice petition; missed the Aug 5 signature deadline | `no` |
+
+The WFP site still lists McHale and the Deschutes petition, so both will come back on every re-scrape.
 
 ## Before election night
 
 1. Decide on an AP/DDHQ license; it changes how much official scraping is needed.
-2. Settle the 5 unresolved rows above.
+2. Ask WFP whether the McHale and Deschutes petition listings should come off the site.
 3. Capture election IDs as they post: Colorado Clarity EID, Georgia `publicElectionId`, Texas election ID,
    DC election entry, Maryland `general_results/` page.
 4. Plan for bot protection (AZ, OH, DC, KY, TN, Riverside, several NY counties): a headless browser or a browser-like
