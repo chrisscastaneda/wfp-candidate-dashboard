@@ -1,7 +1,7 @@
 {
  "election_date": "2026-11-03",
- "generated_at": "2026-11-03T07:33:41+00:00",
- "run_id": "20261103T073341Z",
+ "generated_at": "2026-11-03T08:12:19+00:00",
+ "run_id": "20261103T081219Z",
  "sources": {
   "ca": {
    "status": "ok",
@@ -18488,31 +18488,31 @@
    "note": "no source covers WI yet"
   },
   "1127": {
-   "name": "Chris Larson",
+   "name": "Robyn Vining",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers WI yet"
   },
   "1128": {
-   "name": "Jenna Jacobson",
+   "name": "Chris Larson",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers WI yet"
   },
   "1129": {
-   "name": "Trevor Jung",
+   "name": "Jenna Jacobson",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers WI yet"
   },
   "1130": {
-   "name": "Jeff Smith",
+   "name": "Trevor Jung",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers WI yet"
   },
   "1131": {
-   "name": "Robyn Vining",
+   "name": "Jeff Smith",
    "status": "no_source",
    "match_status": "no_source",
    "note": "no source covers WI yet"
@@ -19476,6 +19476,24 @@
    "status": "unmatched",
    "match_status": "unmatched",
    "note": "measure None: not found"
+  },
+  "1217": {
+   "name": "Wisconsin Question 1, Partial Veto Referendum",
+   "status": "no_source",
+   "match_status": "no_source",
+   "note": "no source covers WI yet"
+  },
+  "1218": {
+   "name": "Wisconsin Question 2, Freedom to Gather in Places of Worship During an Emergency Referendum",
+   "status": "no_source",
+   "match_status": "no_source",
+   "note": "no source covers WI yet"
+  },
+  "1219": {
+   "name": "Wisconsin Question 3, Governmental Entity Discrimination Prohibited Referendum",
+   "status": "no_source",
+   "match_status": "no_source",
+   "note": "no source covers WI yet"
   }
  }
 }

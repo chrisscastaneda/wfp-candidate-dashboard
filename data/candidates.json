@@ -1,7 +1,7 @@
 {
   "source": "https://workingfamilies.org/candidates/",
-  "scraped_at": "2026-11-03T00:18:22+00:00",
-  "count": 1216,
+  "scraped_at": "2026-11-03T08:11:47+00:00",
+  "count": 1219,
   "counts_by_category": {
     "State Executive": 35,
     "State House": 382,
@@ -10,7 +10,7 @@
     "Judicial": 37,
     "Federal House": 44,
     "Federal Senate": 5,
-    "Ballot Measure": 65
+    "Ballot Measure": 68
   },
   "candidates": [
     {
@@ -19157,6 +19157,23 @@
     },
     {
       "id": 1127,
+      "name": "Robyn Vining",
+      "office": "State Senate, District 5",
+      "office_category": "State Senate",
+      "office_level": "State",
+      "is_federal": false,
+      "is_state": true,
+      "is_local": false,
+      "position": "Endorsed",
+      "district": "District 5",
+      "state": "Wisconsin",
+      "state_slug": "wisconsin",
+      "region": "",
+      "state_wfp_page": "https://workingfamilies.org/state/wisconsin/",
+      "source_url": "https://workingfamilies.org/candidates/"
+    },
+    {
+      "id": 1128,
       "name": "Chris Larson",
       "office": "State Senate, District 7",
       "office_category": "State Senate",
@@ -19173,7 +19190,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1128,
+      "id": 1129,
       "name": "Jenna Jacobson",
       "office": "State Senate, District 17",
       "office_category": "State Senate",
@@ -19190,7 +19207,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1129,
+      "id": 1130,
       "name": "Trevor Jung",
       "office": "State Senate, District 21",
       "office_category": "State Senate",
@@ -19207,7 +19224,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1130,
+      "id": 1131,
       "name": "Jeff Smith",
       "office": "State Senate, District 31",
       "office_category": "State Senate",
@@ -19217,23 +19234,6 @@
       "is_local": false,
       "position": "Endorsed",
       "district": "District 31",
-      "state": "Wisconsin",
-      "state_slug": "wisconsin",
-      "region": "",
-      "state_wfp_page": "https://workingfamilies.org/state/wisconsin/",
-      "source_url": "https://workingfamilies.org/candidates/"
-    },
-    {
-      "id": 1131,
-      "name": "Robyn Vining",
-      "office": "State Senate, District 35",
-      "office_category": "State Senate",
-      "office_level": "State",
-      "is_federal": false,
-      "is_state": true,
-      "is_local": false,
-      "position": "Endorsed",
-      "district": "District 35",
       "state": "Wisconsin",
       "state_slug": "wisconsin",
       "region": "",
@@ -20683,6 +20683,57 @@
       "state_slug": "oregon",
       "region": "",
       "state_wfp_page": "https://workingfamilies.org/state/oregon/",
+      "source_url": "https://workingfamilies.org/candidates/"
+    },
+    {
+      "id": 1217,
+      "name": "Wisconsin Question 1, Partial Veto Referendum",
+      "office": "Ballot Measure",
+      "office_category": "Ballot Measure",
+      "office_level": "Ballot",
+      "is_federal": false,
+      "is_state": false,
+      "is_local": false,
+      "position": "No",
+      "district": "",
+      "state": "Wisconsin",
+      "state_slug": "wisconsin",
+      "region": "",
+      "state_wfp_page": "https://workingfamilies.org/state/wisconsin/",
+      "source_url": "https://workingfamilies.org/candidates/"
+    },
+    {
+      "id": 1218,
+      "name": "Wisconsin Question 2, Freedom to Gather in Places of Worship During an Emergency Referendum",
+      "office": "Ballot Measure",
+      "office_category": "Ballot Measure",
+      "office_level": "Ballot",
+      "is_federal": false,
+      "is_state": false,
+      "is_local": false,
+      "position": "No",
+      "district": "",
+      "state": "Wisconsin",
+      "state_slug": "wisconsin",
+      "region": "",
+      "state_wfp_page": "https://workingfamilies.org/state/wisconsin/",
+      "source_url": "https://workingfamilies.org/candidates/"
+    },
+    {
+      "id": 1219,
+      "name": "Wisconsin Question 3, Governmental Entity Discrimination Prohibited Referendum",
+      "office": "Ballot Measure",
+      "office_category": "Ballot Measure",
+      "office_level": "Ballot",
+      "is_federal": false,
+      "is_state": false,
+      "is_local": false,
+      "position": "No",
+      "district": "",
+      "state": "Wisconsin",
+      "state_slug": "wisconsin",
+      "region": "",
+      "state_wfp_page": "https://workingfamilies.org/state/wisconsin/",
       "source_url": "https://workingfamilies.org/candidates/"
     }
   ]

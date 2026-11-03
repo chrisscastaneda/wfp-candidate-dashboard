@@ -9,6 +9,40 @@ affects `docs/results_sources.csv`, the entry says so.
 
 ---
 
+## Nov 3, 2026 (early morning): 1,216 → 1,219 rows
+
+Scraped 2026-11-03 08:11 UTC (3:11am ET, election day), compared with the 00:18 UTC scrape. 4 rows were added and
+1 removed, all in Wisconsin, which went from 26 rows to 29.
+
+### Added (4)
+
+- **Wisconsin ballot measures (3).** WFP's position is **No** on all three:
+  - Question 1, Partial Veto Referendum
+  - Question 2, Freedom to Gather in Places of Worship During an Emergency Referendum
+  - Question 3, Governmental Entity Discrimination Prohibited Referendum
+- **Robyn Vining, State Senate District 5.** This replaces her District 35 listing (removed below), so it's likely a
+  correction on WFP's site, not a new endorsement.
+
+### Removed (1)
+
+- Robyn Vining, State Senate District 35 (now District 5, above)
+
+### Notes
+
+- These are WFP's first Wisconsin ballot measures. The candidate scraper's run log reported the same changes, so
+  WFP made them some time on Nov 2.
+- Vining's new row moves up in the list, so four Wisconsin State Senate rows got new ids: Larson, Jacobson, Jung and
+  Smith (1127–1130 → 1128–1131).
+- `docs/results_sources.csv` was updated to match:
+  - Vining's row now reads District 5.
+  - The three questions were added. Like the rest of Wisconsin they have no election-night feed, so they're
+    `no_source` until the certified canvass.
+  - Ids were realigned with the new scrape.
+- `data/results/wfp_results.json` was re-published (`scrape_results.py match`), so its ids match the new
+  `candidates.json`.
+
+---
+
 ## Nov 2, 2026 (evening): 1,194 → 1,216 rows
 
 Scraped 2026-11-03 00:18 UTC, compared with the earlier Nov 2 scrape. 36 rows were added and 14 removed. No existing
