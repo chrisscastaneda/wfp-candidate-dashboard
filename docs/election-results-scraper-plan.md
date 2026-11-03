@@ -26,7 +26,7 @@ Written Nov 2, 2026, the night before the election. No production code yet; two 
 13. [Blocked and feed-less states](#blocked-and-feed-less-states)
 14. [Testing](#testing)
 15. [Election-night runbook](#election-night-runbook)
-16. [Open questions](#open-questions)
+16. [Resolved and open questions](#resolved-and-open-questions)
 
 ## Decisions so far
 
@@ -43,6 +43,10 @@ Written Nov 2, 2026, the night before the election. No production code yet; two 
 | Storage | Latest results plus timestamped history snapshots, in `data/results/` |
 | Logs | A readable `.log` and a JSON summary for every run, in `logs/` |
 | Dashboard | This plan defines the results file the dashboard will read; the UI work gets its own plan |
+| Dashboard updates | You rebuild the dashboard and push a commit for each update. No runtime fetching |
+| Where it runs | On your machine on election night. A scheduled GitHub Action can come later |
+| Manual entries | Every federal race without a working scraper on Nov 3 night, including MI and FL (see [Manual federal races](#manual-federal-races)) |
+| Feed requests | Not asking NY BOE or AZ SoS for media feeds for now |
 
 ## What the probes found
 
@@ -333,12 +337,13 @@ to show "projected" outcomes is a dashboard decision, and unofficial counts shif
 
 ## Command-line interface
 
-`scrapers/scrape_results.py` has three subcommands. `run` is the default.
+`scrapers/scrape_results.py` has four subcommands. `run` is the default.
 
 ```
 python3 scrapers/scrape_results.py [run] [options]
 python3 scrapers/scrape_results.py list  [--states …] [--level …]
 python3 scrapers/scrape_results.py match [--states …]
+python3 scrapers/scrape_results.py manual-template [--force]
 ```
 
 **`run`: pull, store, match, publish, log**
@@ -356,6 +361,9 @@ python3 scrapers/scrape_results.py match [--states …]
 
 **`list`:** prints every registered source with its state, level, tiers, platform and current state (built, last
 status, last run time). It makes no network requests.
+
+**`manual-template`:** writes `data/results/manual_entries.csv` pre-filled for the
+[manual federal races](#manual-federal-races). It won't overwrite a file that has votes in it unless you pass `--force`.
 
 **`match`:** re-runs matching and publishing from `latest/` without fetching. Use it after editing `matches.csv`.
 
@@ -384,7 +392,7 @@ data/results/
   latest/<source>.json                     newest normalized contests per source (+ status, fetched_at)
   history/<source>/<run_id>.json           snapshot, written only when contests changed
   matches.csv                              review file (hand-edited rows are preserved)
-  manual_entries.csv                       hand-entered results (see below)
+  manual_entries.csv                       hand-entered results (see Manual federal races)
   wfp_results.json                         the dashboard's file
 logs/
   results/<run_id>.log                     readable run log
@@ -443,7 +451,7 @@ priority order: T1 federal, T2 state offices, T3 statewide measures, T4 local.
 | `oh` | `liveresults.ohiosos.gov` | discover | 2/18/1/0 | 2 | Page loads now; **discovery:** API path. Treat as best-effort |
 | `md`, `mn`, `la`, `ar`, `dc` | CSV/HTML (MD), delimited text (MN), JSON blobs (LA), TotalResults API (AR), JSON (DC) | per source | MD 0/1/0/8, others ≤2 rows | 2 | Small row counts; mostly local races that come free with the state feed |
 | `nj` | NJ county Clarity sites | via Clarity | 2/0/0/6 | 2 | U.S. House districts span counties, so the results are `partial` and need summing (see below) |
-| `manual` | `data/results/manual_entries.csv` | n/a | any | 1 | Hand-entered results for important races with no scrapeable source |
+| `manual` | `data/results/manual_entries.csv` | n/a | any | 1 | Hand-entered results for federal races with no working scraper (see Manual federal races) |
 
 ### County sources (Phase 3: CA and NY first)
 
@@ -487,13 +495,15 @@ Counts are WFP endorsements on the Nov 3 ballot (1,204 of 1,216).
 2. `run` and the driver CLI with `run`/`list`, tested end-to-end with the `manual` source.
 3. `ca` (verified feed, 44 rows to test matching on) and `match` + `publish`. Run matching tonight and review
    `matches.csv`.
-4. `platforms/enhanced_voting` + `ut`, `ri` (then `ga`, `wa` with no extra code).
-5. `nc`, then `platforms/results_csv` + `nm`, `ne`.
-6. `pa`, once its per-office method is found (43 rows, so worth the discovery time).
-7. Candidate scraper logging via `runlog`.
+4. `manual-template`, and fill in `manual_entries.csv` for the [manual federal races](#manual-federal-races).
+5. `platforms/enhanced_voting` + `ut`, `ri` (then `ga`, `wa` with no extra code).
+6. `nc`, then `platforms/results_csv` + `nm`, `ne`.
+7. `pa`, once its per-office method is found (43 rows, so worth the discovery time).
+8. Candidate scraper logging via `runlog`.
 
-If time runs short on Nov 3, steps 1–4 are the minimum useful set: 41 federal/state rows (82 if Georgia and
-Washington open their sites), plus CA props and RI/UT local races.
+If time runs short on Nov 3, steps 1–5 are the minimum useful set: 41 federal/state rows (82 if Georgia and
+Washington open their sites), plus CA props, RI/UT local races, and every remaining federal race by hand. With the
+manual entries, all 49 federal endorsements are covered on election night.
 
 ## Blocked and feed-less states
 
@@ -509,12 +519,47 @@ around it. The plan instead:
    county. NYC is the key piece: `ny.nyc` would cover a large share of the 140 rows.
 2. **Manual entries (Phase 1).** `manual_entries.csv` lets a person enter results read from any public page:
    source URL, time, contest, choices, votes, reporting. The `manual` source treats them like any other feed, so they
-   flow through matching and publishing. Good for a handful of high-profile races (MA, MI, WI, ME statewide; NY
-   congressional seats).
+   flow through matching and publishing. On Nov 3 that means every federal race without a working scraper; see
+   [Manual federal races](#manual-federal-races) below.
 3. **Certified results (Phase 4).** MA (PD43+), MI, WI and ME publish official canvass files days or weeks later.
    Those are easy to scrape and give every blocked state `final` results eventually.
-4. **Ask.** Some blocked agencies (NY BOE, AZ SoS) offer media or data feeds on request. A request costs nothing and
-   could be worth sending now.
+4. **Ask (deferred).** Some blocked agencies (NY BOE, AZ SoS) offer media or data feeds on request. We're holding
+   off for now; worth revisiting if the county route for New York falls short.
+
+### Manual federal races
+
+Every federal endorsement that has no working scraper on election night is entered by hand. That's 34 of the 49
+federal endorsements, or 36 if Georgia's and Washington's sites stay closed.
+
+| Why it's manual | State | Races |
+|---|---|---|
+| No scrapeable source on election night | Michigan (4) | U.S. Senate (El-Sayed); House 7 (Lawrence), 12 (Tlaib), 13 (McKinney). Results come from 83 county clerks; the state posts only after all have reported |
+| | New York (15) | House 1, 2, 7, 10, 13, 14, 17, 18, 19, 20, 22, 23, 24, 25, 26. The state ENR site is blocked to scripts but readable in a browser |
+| | Kentucky, Maine, Tennessee, Ohio (5) | KY and ME U.S. Senate (Booker, Jackson); TN House 9 (Pearson); OH House 7 and 8 (Poindexter, Enoch) |
+| Scraper not built until Phase 2 | Florida (1) | U.S. Senate (Nixon) |
+| | Colorado, Connecticut, DC, New Jersey, Oregon, South Carolina (9) | CO 1 (Kiros), CT 5 (Hayes), DC delegate (White), NJ 10 and 11 (McIver, Mejia), OR U.S. Senate (Merkley) and House 1 and 4 (Bonamici, Hoyle), SC 4 (McClain) |
+| Only if the site stays blocked | Georgia, Washington (2) | GA 1 (Hollowell), WA 7 (Jayapal) |
+
+**How entry works.** `scrape_results.py manual-template` writes `manual_entries.csv` with one row per manual race,
+already filled in with the contest and the WFP candidate. You add a row for each opponent once, then update votes and
+reporting from the official page as the night goes on, and run `match` (or let the next `run` pick it up).
+
+| Column | Example |
+|---|---|
+| `contest_id` | `mi.us-senate` (one ID per race; every candidate row in the race shares it) |
+| `state`, `office`, `district` | `MI`, `U.S. Senate`, blank |
+| `choice`, `party` | `Abdul El-Sayed`, `DEM` |
+| `votes` | `1204331` |
+| `reporting_pct` | `62` (blank if the page doesn't say) |
+| `source_url`, `as_of` | the page you read, and the time on it (or the time you read it) |
+
+**When a scraper and a manual entry both have a race,** the scraper wins: `publish` uses manual results only for
+endorsements no scraped source matched. So when `fl`, `co` and the other Phase 2 scrapers come online, their races
+move off the manual list on their own, and the manual rows stay as a fallback if a scraper breaks. NY's House races
+move to the county scrapers in Phase 3 the same way.
+
+**Workload.** About 34 races of two to four candidates each. Entering every race on every update isn't realistic, so
+the runbook updates them on each dashboard rebuild, not on each poll.
 
 ## Testing
 
@@ -527,26 +572,41 @@ around it. The plan instead:
   the run summary.
 - `pytest`, run with `python3 -m pytest`.
 
-## Election-night runbook
+Everything runs on your machine. Keep it plugged in and stop it from sleeping, since `--watch` stops when the
+laptop does.
 
 1. **Before 7pm ET:** re-scrape candidates (WFP's list keeps changing) and log the differences in
-   [candidate-changes.md](candidate-changes.md). Then run `match` and clear `needs_review` rows.
-2. **From 7pm ET:** `scrape_results.py --watch 5`. Watch the one-line-per-source output. A `blocked` or `error`
-   doesn't stop the loop.
-3. **Every hour or so:** `list` to see which sources moved from `not_published` to `ok` (CO, SC, TX, GA, WA are the
+   [candidate-changes.md](candidate-changes.md). Then run `match` and clear `needs_review` rows. Run
+   `manual-template` and add the opponents for each manual race.
+2. **From 7pm ET:** `scrape_results.py --watch 5` in one terminal. Watch the one-line-per-source output. A `blocked`
+   or `error` doesn't stop the loop.
+3. **Each dashboard update** (every 30–60 minutes is a reasonable pace):
+   1. Update `manual_entries.csv` from the official pages for the manual federal races.
+   2. Run `scrape_results.py match` so `wfp_results.json` includes the manual entries.
+   3. Rebuild the dashboard, then commit and push.
+4. **Every hour or so:** `list` to see which sources moved from `not_published` to `ok` (CO, SC, TX, GA, WA are the
    ones to watch). Check the latest summary in `logs/results/` for new `unmatched` rows.
-4. **Late night:** switch to `--watch 15`. CA, WA and OR count for days, so daily runs after Nov 4 are enough.
+5. **Late night:** switch to `--watch 15`. CA, WA and OR count for days, so daily runs and rebuilds after Nov 4 are
+   enough.
 
-## Open questions
+Since the dashboard only changes when you rebuild, polling faster than every 5 minutes buys nothing. The polls between
+rebuilds still matter: they fill the history and catch a source breaking before the next rebuild.
 
-1. **How will the dashboard get updates?** It bundles JSON at build time. Live results need either a rebuild and
-   deploy per update, which means a commit per update and you manage commits, or the page fetching
-   `wfp_results.json` at run time from somewhere. That's for the dashboard plan, but it affects how often polling is
-   worth it.
-2. **Where should the scrapers run on election night,** on your laptop or on a scheduled GitHub Action? The design
-   works either way. An Action would need to commit results, which again touches your commit workflow.
-3. **Should we ask NY BOE and AZ SoS** for media feed access now?
-4. **Manual entries:** which blocked races matter enough to enter by hand on Nov 3?
+## Resolved and open questions
+
+Answered Nov 2:
+
+1. **How will the dashboard get updates?** You rebuild it and push a commit for each update. The dashboard keeps
+   bundling JSON at build time and imports `data/results/wfp_results.json`. Each update's commit only needs that file
+   (and `matches.csv` if you changed it), so git-ignoring `logs/` and `data/results/history/` keeps those commits small.
+2. **Where should the scrapers run on election night?** On your machine. Nothing in the design ties it to one host, so
+   a scheduled GitHub Action can be added later if it's useful.
+3. **Should we ask NY BOE and AZ SoS for media feeds?** Not yet.
+4. **Which races get manual entries?** Michigan, Florida, and every other federal race without a working scraper on
+   election night: 34 races (36 if GA and WA stay blocked). See [Manual federal races](#manual-federal-races).
+
+Still open:
+
 5. **Data issue found:** WFP lists Damon Connolly (CA) for State Senate District 12; he's on the District 2 ballot.
-   The matcher handles it, but it's worth noting in [election-results-sources.md](election-results-sources.md), and
-   WFP may want to know.
+   The matcher handles it. You're looking into it; it's also worth noting in
+   [election-results-sources.md](election-results-sources.md), and WFP may want to know.
