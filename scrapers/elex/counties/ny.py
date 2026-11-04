@@ -23,6 +23,7 @@ from .. import config, names
 from ..model import Choice, Contest, Reporting
 from ..platforms.enhanced_voting import EnhancedVotingSource
 from ..platforms.resultscaster import ResultsCasterSource
+from ..platforms.nts_vic import NtsVicSource
 from ..platforms.summary_pdf import SummaryPdfSource
 from ..source import NotPublished, Source
 
@@ -389,4 +390,7 @@ SOURCES = [
                      "Saratoga County Board of Elections", layout="statement",
                      link=r"https://www\.saratogacountyny\.gov/wp/wp-content/uploads/\d{4}/\d{2}/"
                           rf"BoE-GeneralElection{config.ELECTION_DATE.year}-Unofficial(\d+)\.pdf"),
+    # Niagara moved from ny.votereporting.com (403 to scripts) to NTS; elections.niagaracounty.gov/election-results
+    # links election 297 for Nov 3, 2026.
+    NtsVicSource("ny.niagara", "NY", "Niagara", 297, "Niagara County Board of Elections"),
 ]

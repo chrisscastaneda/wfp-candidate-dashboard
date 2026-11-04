@@ -515,6 +515,7 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 536,NY,Cait Conley,"U.S. House of Representatives, District 17",auto,district_surname,ny.counties,federal_house.17,Representative in Congress 17th District,Cait Conley,Cait Conley,
 537,NY,Pat Ryan,"U.S. House of Representatives, District 18",auto,district_surname,ny.counties,federal_house.18,Member of the House of Representatives for 18th Congressional District,Pat Ryan,Pat Ryan,
 543,NY,Joe Morelle,"U.S. House of Representatives, District 25",auto,district_surname,ny.counties,federal_house.25,Representative in Congress 25th District,Joseph D. Morelle,Joseph D. Morelle,
+544,NY,Tim Kennedy,"U.S. House of Representatives, District 26",auto,district_surname,ny.counties,federal_house.26,Representative in Congress 26th,Timothy M. Kennedy,Timothy M. Kennedy,
 545,NY,Christopher Murray,"State Senate, District 1",auto,district_surname,ny.counties,state_senate.1,"State Senator, 1st Senatorial District",E Christopher Murray,E Christopher Murray,
 546,NY,Antonio Vargas,"State Senate, District 3",auto,district_surname,ny.counties,state_senate.3,"State Senator, 3rd Senatorial District",Antonio Vargas-Ayala,Antonio Vargas-Ayala,
 547,NY,Monica Martinez,"State Senate, District 4",auto,district_surname,ny.counties,state_senate.4,"State Senator, 4th Senatorial District",Monica R Martinez,Monica R Martinez,
@@ -758,8 +759,10 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 850,NY,Sarah Clark,"State Assembly, District 136",auto,district_surname,ny.counties,state_house.136,Member of Assembly 136th District,Sarah H Clark,Sarah H Clark,
 851,NY,Demond Meeks,"State Assembly, District 137",auto,district_surname,ny.counties,state_house.137,Member of Assembly 137th District,Demond L Meeks,Demond L Meeks,
 852,NY,Harry Bronson,"State Assembly, District 138",auto,district_surname,ny.counties,state_house.138,Member of Assembly 138th District,Harry B Bronson,Harry B Bronson,
+853,NY,William “Bill” Conrad,"State Assembly, District 140",auto,district_surname,ny.counties,state_house.140,Member of Assembly 140th,"William C. Conrad, III","William C. Conrad, III",
 854,NY,Patrick Burke,"State Assembly, District 142",auto,district_surname,ny.counties,state_house.142,Member of Assembly 142nd,Patrick B. Burke,Patrick B. Burke,
 855,NY,Ryan Taughrin,"State Assembly, District 143",auto,district_surname,ny.counties,state_house.143,Member of Assembly 143rd,Ryan J. Taughrin,Ryan J. Taughrin,
+856,NY,Donna L Dye Sholk,"State Assembly, District 144",auto,district_surname,ny.counties,state_house.144,Member of Assembly 144th District,Donna L. Dye Sholk,Donna L. Dye Sholk,
 857,NY,Adam Bojak,"State Assembly, District 149",auto,district_surname,ny.counties,state_house.149,Member of Assembly 149th,Adam L. Bojak,Adam L. Bojak,
 858,NY,Thomas Carle,"State Assembly, District 150",auto,district_surname,ny.counties,state_house.150,Member of Assembly District 150,Thomas A. Carle,Thomas A. Carle,
 859,NY,Steven Meyer,Erie County Clerk,auto,name_in_state,ny.erie,20,County Clerk,73,Steven G. Meyer,
@@ -783,6 +786,16 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 881,NY,Amorette Miller,"Greece Town Council Member, Ward 3",auto,name_in_state,ny.monroe,01000000-fff9-9fc1-f91d-08df1feafbfd,Member of Town Council Greece Ward 3,01000000-fff9-9fc1-f932-08df1feafbfd,Amorette Miller,
 883,NY,Catherine Dean,Penfield Town Council,auto,name_in_state,ny.monroe,01000000-fff9-9fc1-beb3-08df1feafbfd,Member of Town Council - 1 Year Term Penfield,01000000-fff9-9fc1-bed9-08df1feafbfd,Catherine Dean,
 884,NY,Sarah Nazarian,Fairport Town Trustee,auto,name_in_state,ny.monroe,01000000-fff9-9fc1-4584-08df1feafbfe,Village Trustee Fairport,01000000-fff9-9fc1-45c2-08df1feafbfe,Sarah Nazarian,
+888,NY,Matthew Chavez,"Niagara County Legislature, District 3",auto,name_in_state,ny.niagara,15,County Legislator District 3,26,Matthew J. Chavez,
+889,NY,Jeffrey Elder,"Niagara County Legislature, District 4",auto,name_in_state,ny.niagara,16,County Legislator District 4,28,Jeffrey Elder,
+890,NY,Johnny Parks,"Niagara County Legislature, District 5",auto,name_in_state,ny.niagara,17,County Legislator District 5,30,Johnny C. Parks,
+891,NY,Sam Farruggia II,"Niagara County Legislature, District 6",auto,name_in_state,ny.niagara,18,County Legislator District 6,32,"Sam R. Farruggia, II",
+893,NY,Matthew Kennedy,"Niagara County Legislature, District 8",auto,name_in_state,ny.niagara,20,County Legislator District 8,36,Matthew D. Kennedy,
+894,NY,John Lavelle,"Niagara County Legislature, District 10",auto,name_in_state,ny.niagara,22,County Legislator District 10,40,John P. Lavelle,
+895,NY,Carla Speranza,"Niagara County Legislature, District 12",auto,name_in_state,ny.niagara,24,County Legislator District 12,44,Carla L. Speranza,
+896,NY,Jocelyn Welton,"Niagara County Legislature, District 13",auto,name_in_state,ny.niagara,25,County Legislator District 13,46,Jocelyn E. Welton,
+897,NY,Maria Fabrizio,"Niagara County Legislature, District 15",auto,name_in_state,ny.niagara,27,County Legislator District 15,49,Maria R. Fabrizio,
+898,NY,Duncan Ross,Cambria Town Supervisor,auto,name_in_state,ny.niagara,51,Supervisor (To Fill Vacancy) (1 Year Term) - Town of Cambria,184,Duncan J. Ross,
 899,NY,Alexandria Moss,Chautauqua County Family Court Judge,auto,name_in_state,ny.chautauqua,119,County Family Court Judge,370,Alexandria B. Moss,
 900,NY,Marcus Sam Buchanan,"Chautauqua County Legislature, District 1",auto,name_in_state,ny.chautauqua,3,County Legislator District 1,5,Marcus Buchanan,
 901,NY,Robert Bankoski,"Chautauqua County Legislature, District 2",auto,name_in_state,ny.chautauqua,4,County Legislator District 2,6,Robert Bankoski,
@@ -1030,6 +1043,7 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 874,NY,Maximillian Gordon,Pittsford Town Supervisor,confirmed,near_name,ny.monroe,01000000-fff9-9fc1-59e8-08df1feafbfd,Supervisor Pittsford,01000000-fff9-9fc1-5a05-08df1feafbfd,Max Gordon,first-name variant (Max Gordon); same surname and district
 877,NY,Nicholas Coffee,Gates Town Supervisor,confirmed,near_name,ny.monroe,01000000-fff9-9fc1-fa8a-08df1feafbfc,Supervisor Gates,01000000-fff9-9fc1-faa5-08df1feafbfc,Nick Coffee,first-name variant (Nick Coffee); same surname and district
 882,NY,Jennifer Townsend,Perinton Town Supervisor,confirmed,near_name,ny.monroe,01000000-fff9-9fc1-4d5a-08df1feafbfd,Supervisor Perinton,01000000-fff9-9fc1-4d73-08df1feafbfd,Jenn Townsend,first-name variant (Jenn Townsend); same surname and district
+892,NY,Doug Mooradian,"Niagara County Legislature, District 7",confirmed,near_name,ny.niagara,19,County Legislator District 7,34,Douglas E. Mooradian,first-name variant (Douglas E. Mooradian); same district | confirmed Nov 4
 17,AR,Bobby Forrest Jr.,State Circuit Court District 6 Prosecuting Attorney,no_source,,,,,,,no source covers AR yet
 21,CA,Daria Wrubel,"Berkeley City Council, District 4",no_source,,,,,,,no source carries Alameda local races yet
 22,CA,Moni Gangopadhyay,"Berkeley City Council, District 4",no_source,,,,,,,no source carries Alameda local races yet
@@ -1132,7 +1146,6 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 540,NY,John Mannion,"U.S. House of Representatives, District 22",no_source,,,,,,,NY has only county sources so far
 541,NY,Aaron Gies,"U.S. House of Representatives, District 23",no_source,,,,,,,NY has only county sources so far
 542,NY,Alissa Ellman,"U.S. House of Representatives, District 24",no_source,,,,,,,NY has only county sources so far
-544,NY,Tim Kennedy,"U.S. House of Representatives, District 26",no_source,,,,,,,NY has only county sources so far
 620,NY,Michelle Hinchey,"State Senate, District 41",no_source,,,,,,,NY has only county sources so far
 622,NY,Michele Frazier,"State Senate, District 51",no_source,,,,,,,NY has only county sources so far
 747,NY,Devin Lander,"State Senate, District 43",no_source,,,,,,,NY has only county sources so far
@@ -1160,19 +1173,6 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 840,NY,Manford Benjamin Susman,Cayuga County Court Judge,no_source,,,,,,,no source carries Cayuga local races yet
 844,NY,Victoria Guite-Williams,"State Senate, District 57",no_source,,,,,,,NY has only county sources so far
 846,NY,Thomas Arida,"State Senate, District 62",no_source,,,,,,,NY has only county sources so far
-853,NY,William “Bill” Conrad,"State Assembly, District 140",no_source,,,,,,,NY has only county sources so far
-856,NY,Donna L Dye Sholk,"State Assembly, District 144",no_source,,,,,,,NY has only county sources so far
-888,NY,Matthew Chavez,"Niagara County Legislature, District 3",no_source,,,,,,,no source carries Niagara local races yet
-889,NY,Jeffrey Elder,"Niagara County Legislature, District 4",no_source,,,,,,,no source carries Niagara local races yet
-890,NY,Johnny Parks,"Niagara County Legislature, District 5",no_source,,,,,,,no source carries Niagara local races yet
-891,NY,Sam Farruggia II,"Niagara County Legislature, District 6",no_source,,,,,,,no source carries Niagara local races yet
-892,NY,Doug Mooradian,"Niagara County Legislature, District 7",no_source,,,,,,,no source carries Niagara local races yet
-893,NY,Matthew Kennedy,"Niagara County Legislature, District 8",no_source,,,,,,,no source carries Niagara local races yet
-894,NY,John Lavelle,"Niagara County Legislature, District 10",no_source,,,,,,,no source carries Niagara local races yet
-895,NY,Carla Speranza,"Niagara County Legislature, District 12",no_source,,,,,,,no source carries Niagara local races yet
-896,NY,Jocelyn Welton,"Niagara County Legislature, District 13",no_source,,,,,,,no source carries Niagara local races yet
-897,NY,Maria Fabrizio,"Niagara County Legislature, District 15",no_source,,,,,,,no source carries Niagara local races yet
-898,NY,Duncan Ross,Cambria Town Supervisor,no_source,,,,,,,no source carries Niagara local races yet
 1086,TN,Justin J. Pearson,"U.S. House of Representatives, District 9",no_source,,,,,,,no source covers TN yet
 1087,TN,Aftyn Behn,"State House, District 51",no_source,,,,,,,no source covers TN yet
 1088,TN,Allie Phillips,"State House, District 75",no_source,,,,,,,no source covers TN yet

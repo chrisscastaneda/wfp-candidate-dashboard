@@ -159,13 +159,13 @@ New review items and findings:
 
 | Source | Status | Notes |
 |---|---|---|
-| `ny.counties` | derived, 52 WFP races (91 districts summed) | `scrapers/elex/combine.py`, built in `run.py` after every pull from the stored county results. District-to-county lists in `data/ny_district_counties.json`, from the Census Bureau's block equivalency files. A district is summed only when every county in it has a working source; a county source without the district is taken to have no voters there |
+| `ny.counties` | derived, 55 WFP races (95 districts summed) | `scrapers/elex/combine.py`, built in `run.py` after every pull from the stored county results. District-to-county lists in `data/ny_district_counties.json`, from the Census Bureau's block equivalency files. A district is summed only when every county in it has a working source; a county source without the district is taken to have no voters there |
 | `ny.onondaga` | ok | Results Caster (`ongov` subdomain) |
 | `ny.jefferson`, `ny.livingston`, `ny.madison`, `ny.ontario`, `ny.steuben`, `ny.wayne` | ok | Enhanced Voting configuration, for district sums |
 | `ny.nassau` | ok | Election-night PDF rendered as HTML; text parser in `counties/ny.py` |
 | `ny.albany`, `ny.saratoga` | ok | `platforms/summary_pdf.py` (pdfplumber): "Election Summary" and "Statement of Votes Cast" PDF layouts |
 | `ny.schenectady` | ok | "Summary Results Report" HTML (`GE26.html`) |
-| Niagara | blocked | `ny.votereporting.com` returns 403 to scripts |
+| `ny.niagara` | ok | `platforms/nts_vic.py`, NTS's public JSON API (`vicapi.azurewebsites.net`); election id 297 set in the source |
 
 ## Phase 3 status
 

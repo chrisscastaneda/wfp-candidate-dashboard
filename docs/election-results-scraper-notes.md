@@ -40,8 +40,9 @@ See also [election-results-scraper-plan.md](election-results-scraper-plan.md) (d
 | 10:17am | 870 | 703 | Massachusetts (entered by hand from AP) |
 | 10:31am | 915 | 742 | NY districts summed from county results; NYC leader fix |
 | 10:44am | 958 | 777 | Onondaga, Nassau, Albany, Schenectady, Saratoga and 6 more NY counties (new sources) |
+| 10:52am | 972 | 782 | Niagara NY (new source) |
 
-Still missing at 10:44am: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
+Still missing at 10:52am: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
 
 ---
 
@@ -520,6 +521,21 @@ Fixes made while building:
   no readable results (Otsego, Washington, Cayuga 6 each; Delaware, Montgomery, Fulton, St. Lawrence, Herkimer,
   Chenango, Cortland 5 each).
 
+### 10:52am: Niagara
+
+- 972 races with results, WFP leading 782. 95 New York districts summed (55 WFP races, 46 leading); 31 New York races
+  still uncovered (4 statewide, 27 districts).
+- Niagara no longer uses `ny.votereporting.com` (the address that returned 403). Its results page
+  (elections.niagaracounty.gov/election-results) links NTS's "Voter Information Center"
+  (`vic.ntsdata.com/enr/Niagara/297/result`), backed by a public JSON API that scripts can read. New module
+  `platforms/nts_vic.py`; the election id (297) is set in the source and checked against the election date.
+- Added 13 Niagara local matches (all 11 county legislature and town races WFP lists, plus Doug Mooradian confirmed
+  by hand) and completed NY-26 (Tim Kennedy 65.5%), AD-140 (Bill Conrad 76.1%) and AD-144 (Donna Dye Sholk 39.8%,
+  trailing).
+- NTS's API also has records for most of the rural counties still blocking districts (Otsego, Washington, Cayuga,
+  Delaware ...), but none had a Nov 3 election near Niagara's id, and the list of a county's elections needs a login.
+  They probably use NTS for voter registration only.
+
 ## Feed quirks worth remembering
 
 | Source | Quirk | How it's handled |
@@ -555,6 +571,7 @@ Fixes made while building:
 | Albany County (NY) | PDF links added by JavaScript | PDF address set in the source |
 | Saratoga County (NY) | Numbered PDF uploads; page headers repeat mid-contest | Highest number taken; header rows skipped |
 | Nassau County (NY) | PDF rendered as HTML text runs | Text joined, page headers cut, parsed as one stream |
+| Niagara County (NY) | Moved to NTS; election list needs a login | Election id set in the source, date checked |
 | Oregon | Vote by mail; precincts-reporting stays at 0 while votes come in | Shown as reported; worth replacing with a count or hiding |
 
 ## Still open
@@ -578,4 +595,4 @@ Fixes made while building:
 - Eight California propositions stay in review: several county sources carry their own share, and the state API's
   copy doesn't match on its own.
 - New York districts are summed from county shares (`ny.counties`); 30 WFP district races still lack a county source,
-  mostly Niagara (blocked to scripts) and small rural counties. Wisconsin could reuse `combine.py` with its own mapping.
+  all because of small rural counties with no readable results (Otsego, Washington, Cayuga, Delaware ...). Wisconsin could reuse `combine.py` with its own mapping.

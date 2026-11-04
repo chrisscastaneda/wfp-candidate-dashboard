@@ -344,3 +344,24 @@ def test_nassau_and_schenectady_text():
     ad110, = ny.parse_schenectady(lines)
     assert [(c.name, c.votes) for c in ad110.choices] == [("Phillip G. Steck", 9316), ("Frank A. Mauriello", 3556)]
     assert ad110.reporting.text == "Countywide, 101 of 102 precincts reporting"
+
+
+def test_nts_vic_combines_party_lines():
+    from elex.platforms import nts_vic
+
+    def row(cid, name, party, votes):
+        return {"choiceId": cid, "choiceName": name, "ppAbb": party, "totalVot": votes}
+    details = {"textDate": "11/03/2026 00:00:00", "updatedDate": "2026-11-03T23:33:50.54",
+               "electionDayMessage": "Fully Reported", "absenteeMessage": "Partially Reported"}
+    result = {"oldContest": [
+        {"contestId": 7, "name": "State Senator 62nd District - SD 62", "choices": [
+            row(1, "Thomas E. Arida", "DEM", 27590), row(2, "Robert G. Ortt", "REP", 38808),
+            row(1, "Thomas E. Arida", "WOR", 2632), row(9, "Write-in", None, 0)]},
+        {"contestId": 13, "name": "County Legislator District 1 - LD 1", "choices": [row(3, "Irene M. Myers", "REP", 5)]}]}
+    senate, legislator = nts_vic.parse(details, result, source_id="ny.niagara", state="NY", county="Niagara")
+    assert (senate.title, senate.office_type, senate.district, senate.scope) == (
+        "State Senator 62nd District", "state_senate", "62", "partial")
+    arida = senate.choices[0]
+    assert (arida.votes, arida.party, arida.party_lines) == (30222, "DEM", {"DEM": 27590, "WFP": 2632})
+    assert len(senate.choices) == 2 and legislator.scope == "complete"
+    assert senate.reporting.text == "Countywide: election day fully reported, absentees partially reported"

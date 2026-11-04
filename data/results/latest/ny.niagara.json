@@ -1,0 +1,2488 @@
+{
+ "source": "ny.niagara",
+ "contests": [
+  {
+   "source": "ny.niagara",
+   "contest_id": "1",
+   "state": "NY",
+   "title": "Governor and Lieutenant Governor",
+   "office_type": "governor",
+   "district": null,
+   "jurisdiction": "Niagara County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Kathy C. Hochul",
+     "votes": 32965,
+     "party": "DEM",
+     "pct": 42.32,
+     "choice_id": "1",
+     "party_lines": {
+      "DEM": 30357,
+      "WFP": 2608
+     }
+    },
+    {
+     "name": "Bruce A. Blakeman",
+     "votes": 44734,
+     "party": "REP",
+     "pct": 57.43,
+     "choice_id": "2",
+     "party_lines": {
+      "REP": 37191,
+      "CON": 6769,
+      "VTA": 774
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 189,
+     "party": null,
+     "pct": 0.24,
+     "choice_id": "178",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "2",
+   "state": "NY",
+   "title": "Comptroller",
+   "office_type": "controller",
+   "district": null,
+   "jurisdiction": "Niagara County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Thomas P. DiNapoli",
+     "votes": 37175,
+     "party": "DEM",
+     "pct": 48.69,
+     "choice_id": "3",
+     "party_lines": {
+      "DEM": 33128,
+      "WFP": 4047
+     }
+    },
+    {
+     "name": "Joseph Hernandez",
+     "votes": 39148,
+     "party": "REP",
+     "pct": 51.27,
+     "choice_id": "4",
+     "party_lines": {
+      "REP": 32585,
+      "CON": 6563
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 34,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "168",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "3",
+   "state": "NY",
+   "title": "Attorney General",
+   "office_type": "attorney_general",
+   "district": null,
+   "jurisdiction": "Niagara County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Letitia A. James",
+     "votes": 33612,
+     "party": "DEM",
+     "pct": 43.72,
+     "choice_id": "5",
+     "party_lines": {
+      "DEM": 30528,
+      "WFP": 3084
+     }
+    },
+    {
+     "name": "Saritha Komatireddy",
+     "votes": 43228,
+     "party": "REP",
+     "pct": 56.23,
+     "choice_id": "6",
+     "party_lines": {
+      "REP": 35894,
+      "CON": 7334
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 38,
+     "party": null,
+     "pct": 0.05,
+     "choice_id": "154",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "4",
+   "state": "NY",
+   "title": "Representative in Congress 23rd District",
+   "office_type": "federal_house",
+   "district": "23",
+   "jurisdiction": "Niagara County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Aaron Gies",
+     "votes": 3641,
+     "party": "DEM",
+     "pct": 40.17,
+     "choice_id": "7",
+     "party_lines": {
+      "DEM": 3297,
+      "WFP": 344
+     }
+    },
+    {
+     "name": "Nicholas A. Langworthy",
+     "votes": 5419,
+     "party": "REP",
+     "pct": 59.79,
+     "choice_id": "8",
+     "party_lines": {
+      "REP": 4415,
+      "CON": 1004
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 4,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "161",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "5",
+   "state": "NY",
+   "title": "Representative in Congress 24th District",
+   "office_type": "federal_house",
+   "district": "24",
+   "jurisdiction": "Niagara County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Alissa J. Ellman",
+     "votes": 13504,
+     "party": "DEM",
+     "pct": 39.56,
+     "choice_id": "9",
+     "party_lines": {
+      "DEM": 12075,
+      "WFP": 1429
+     }
+    },
+    {
+     "name": "Claudia Tenney",
+     "votes": 20623,
+     "party": "REP",
+     "pct": 60.41,
+     "choice_id": "10",
+     "party_lines": {
+      "REP": 17207,
+      "CON": 3416
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 9,
+     "party": null,
+     "pct": 0.03,
+     "choice_id": "136",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "6",
+   "state": "NY",
+   "title": "Representative in Congress 26th District",
+   "office_type": "federal_house",
+   "district": "26",
+   "jurisdiction": "Niagara County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Timothy M. Kennedy",
+     "votes": 17610,
+     "party": "DEM",
+     "pct": 52.71,
+     "choice_id": "11",
+     "party_lines": {
+      "DEM": 17610
+     }
+    },
+    {
+     "name": "Dennis E. Hannon",
+     "votes": 15785,
+     "party": "REP",
+     "pct": 47.24,
+     "choice_id": "12",
+     "party_lines": {
+      "REP": 13199,
+      "CON": 2586
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 16,
+     "party": null,
+     "pct": 0.05,
+     "choice_id": "170",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "7",
+   "state": "NY",
+   "title": "State Senator 62nd District",
+   "office_type": "state_senate",
+   "district": "62",
+   "jurisdiction": "Niagara County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Thomas E. Arida",
+     "votes": 30222,
+     "party": "DEM",
+     "pct": 39.27,
+     "choice_id": "13",
+     "party_lines": {
+      "DEM": 27590,
+      "WFP": 2632
+     }
+    },
+    {
+     "name": "Robert G. Ortt",
+     "votes": 46706,
+     "party": "REP",
+     "pct": 60.69,
+     "choice_id": "14",
+     "party_lines": {
+      "REP": 38808,
+      "CON": 7898
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 30,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "167",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "8",
+   "state": "NY",
+   "title": "Member of Assembly 140th District",
+   "office_type": "state_house",
+   "district": "140",
+   "jurisdiction": "Niagara County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "William C. Conrad, III",
+     "votes": 4880,
+     "party": "DEM",
+     "pct": 65.93,
+     "choice_id": "15",
+     "party_lines": {
+      "DEM": 4080,
+      "WFP": 800
+     }
+    },
+    {
+     "name": "Mohammed H. Faisal",
+     "votes": 2512,
+     "party": "REP",
+     "pct": 33.94,
+     "choice_id": "16",
+     "party_lines": {
+      "REP": 2512
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 10,
+     "party": null,
+     "pct": 0.14,
+     "choice_id": "150",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "9",
+   "state": "NY",
+   "title": "Member of Assembly 144th District",
+   "office_type": "state_house",
+   "district": "144",
+   "jurisdiction": "Niagara County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Donna L. Dye Sholk",
+     "votes": 11688,
+     "party": "DEM",
+     "pct": 38.92,
+     "choice_id": "17",
+     "party_lines": {
+      "DEM": 10360,
+      "WFP": 1328
+     }
+    },
+    {
+     "name": "Paul A. Bologna",
+     "votes": 18336,
+     "party": "REP",
+     "pct": 61.05,
+     "choice_id": "18",
+     "party_lines": {
+      "REP": 15057,
+      "CON": 3279
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": null,
+     "pct": 0.03,
+     "choice_id": "145",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "10",
+   "state": "NY",
+   "title": "Member of Assembly 145th District",
+   "office_type": "state_house",
+   "district": "145",
+   "jurisdiction": "Niagara County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Nathan D. McMurray",
+     "votes": 17040,
+     "party": "DEM",
+     "pct": 44.13,
+     "choice_id": "19",
+     "party_lines": {
+      "DEM": 17040
+     }
+    },
+    {
+     "name": "Becky Wydysh",
+     "votes": 21554,
+     "party": "REP",
+     "pct": 55.82,
+     "choice_id": "20",
+     "party_lines": {
+      "REP": 18120,
+      "CON": 3434
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 20,
+     "party": null,
+     "pct": 0.05,
+     "choice_id": "158",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "11",
+   "state": "NY",
+   "title": "County Treasurer",
+   "office_type": "treasurer",
+   "district": null,
+   "jurisdiction": "Niagara County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Kyle R. Andrews",
+     "votes": 55828,
+     "party": "REP",
+     "pct": 98.89,
+     "choice_id": "21",
+     "party_lines": {
+      "REP": 42691,
+      "CON": 13137
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 629,
+     "party": null,
+     "pct": 1.11,
+     "choice_id": "156",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "12",
+   "state": "NY",
+   "title": "County Coroner District 1 - City of Niagara Falls",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Clayburn J. Powell",
+     "votes": 6424,
+     "party": "DEM",
+     "pct": 54.85,
+     "choice_id": "22",
+     "party_lines": {
+      "DEM": 6424
+     }
+    },
+    {
+     "name": "Amy J. Chmiel",
+     "votes": 5280,
+     "party": "REP",
+     "pct": 45.08,
+     "choice_id": "23",
+     "party_lines": {
+      "REP": 4509,
+      "CON": 771
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": null,
+     "pct": 0.07,
+     "choice_id": "177",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "13",
+   "state": "NY",
+   "title": "County Legislator District 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Irene M. Myers",
+     "votes": 4903,
+     "party": "REP",
+     "pct": 99.23,
+     "choice_id": "24",
+     "party_lines": {
+      "REP": 3768,
+      "CON": 1135
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 38,
+     "party": null,
+     "pct": 0.77,
+     "choice_id": "169",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "14",
+   "state": "NY",
+   "title": "County Legislator District 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Michael A. Casale",
+     "votes": 3847,
+     "party": "REP",
+     "pct": 98.72,
+     "choice_id": "25",
+     "party_lines": {
+      "REP": 3026,
+      "CON": 821
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 50,
+     "party": null,
+     "pct": 1.28,
+     "choice_id": "138",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "15",
+   "state": "NY",
+   "title": "County Legislator District 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Matthew J. Chavez",
+     "votes": 2152,
+     "party": "DEM",
+     "pct": 44.83,
+     "choice_id": "26",
+     "party_lines": {
+      "DEM": 1981,
+      "WFP": 171
+     }
+    },
+    {
+     "name": "Christopher J. McKimmie",
+     "votes": 2645,
+     "party": "REP",
+     "pct": 55.1,
+     "choice_id": "27",
+     "party_lines": {
+      "REP": 2286,
+      "CON": 359
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.06,
+     "choice_id": "142",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "16",
+   "state": "NY",
+   "title": "County Legislator District 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Jeffrey Elder",
+     "votes": 1299,
+     "party": "DEM",
+     "pct": 58.17,
+     "choice_id": "28",
+     "party_lines": {
+      "DEM": 1229,
+      "WFP": 70
+     }
+    },
+    {
+     "name": "Sean Mapp",
+     "votes": 934,
+     "party": "REP",
+     "pct": 41.83,
+     "choice_id": "29",
+     "party_lines": {
+      "REP": 784,
+      "CON": 150
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "17",
+   "state": "NY",
+   "title": "County Legislator District 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Johnny C. Parks",
+     "votes": 2310,
+     "party": "DEM",
+     "pct": 50.29,
+     "choice_id": "30",
+     "party_lines": {
+      "DEM": 2094,
+      "WFP": 216
+     }
+    },
+    {
+     "name": "Russell Petrozzi",
+     "votes": 2276,
+     "party": "REP",
+     "pct": 49.55,
+     "choice_id": "31",
+     "party_lines": {
+      "REP": 1934,
+      "CON": 342
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 7,
+     "party": null,
+     "pct": 0.15,
+     "choice_id": "139",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "18",
+   "state": "NY",
+   "title": "County Legislator District 6",
+   "office_type": "local",
+   "district": "6",
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Sam R. Farruggia, II",
+     "votes": 1702,
+     "party": "DEM",
+     "pct": 59.91,
+     "choice_id": "32",
+     "party_lines": {
+      "DEM": 1557,
+      "WFP": 145
+     }
+    },
+    {
+     "name": "Timothy E. Huether",
+     "votes": 1130,
+     "party": "REP",
+     "pct": 39.77,
+     "choice_id": "33",
+     "party_lines": {
+      "REP": 984,
+      "CON": 146
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 9,
+     "party": null,
+     "pct": 0.32,
+     "choice_id": "148",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "19",
+   "state": "NY",
+   "title": "County Legislator District 7",
+   "office_type": "local",
+   "district": "7",
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Douglas E. Mooradian",
+     "votes": 2576,
+     "party": "DEM",
+     "pct": 42.77,
+     "choice_id": "34",
+     "party_lines": {
+      "DEM": 2342,
+      "WFP": 234
+     }
+    },
+    {
+     "name": "Jesse P. Gooch",
+     "votes": 3442,
+     "party": "REP",
+     "pct": 57.15,
+     "choice_id": "35",
+     "party_lines": {
+      "REP": 2837,
+      "CON": 605
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 5,
+     "party": null,
+     "pct": 0.08,
+     "choice_id": "182",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "20",
+   "state": "NY",
+   "title": "County Legislator District 8",
+   "office_type": "local",
+   "district": "8",
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Matthew D. Kennedy",
+     "votes": 1909,
+     "party": "DEM",
+     "pct": 44.49,
+     "choice_id": "36",
+     "party_lines": {
+      "DEM": 1855,
+      "NVC": 54
+     }
+    },
+    {
+     "name": "Richard L. Andres, Jr.",
+     "votes": 2379,
+     "party": "REP",
+     "pct": 55.44,
+     "choice_id": "37",
+     "party_lines": {
+      "REP": 1900,
+      "CON": 479
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.07,
+     "choice_id": "163",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "21",
+   "state": "NY",
+   "title": "County Legislator District 9",
+   "office_type": "local",
+   "district": "9",
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Timothy S. Osborn",
+     "votes": 2785,
+     "party": "DEM",
+     "pct": 43.53,
+     "choice_id": "38",
+     "party_lines": {
+      "DEM": 2785
+     }
+    },
+    {
+     "name": "Randy R. Bradt",
+     "votes": 3609,
+     "party": "REP",
+     "pct": 56.41,
+     "choice_id": "39",
+     "party_lines": {
+      "REP": 2925,
+      "CON": 684
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 4,
+     "party": null,
+     "pct": 0.06,
+     "choice_id": "165",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "22",
+   "state": "NY",
+   "title": "County Legislator District 10",
+   "office_type": "local",
+   "district": "10",
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "John P. Lavelle",
+     "votes": 1967,
+     "party": "DEM",
+     "pct": 30.78,
+     "choice_id": "40",
+     "party_lines": {
+      "DEM": 1757,
+      "WFP": 210
+     }
+    },
+    {
+     "name": "David E. Godfrey",
+     "votes": 4420,
+     "party": "REP",
+     "pct": 69.16,
+     "choice_id": "41",
+     "party_lines": {
+      "REP": 3618,
+      "CON": 802
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 4,
+     "party": null,
+     "pct": 0.06,
+     "choice_id": "162",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "23",
+   "state": "NY",
+   "title": "County Legislator District 11",
+   "office_type": "local",
+   "district": "11",
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Bryan N. Thompson",
+     "votes": 1986,
+     "party": "DEM",
+     "pct": 36.85,
+     "choice_id": "42",
+     "party_lines": {
+      "DEM": 1986
+     }
+    },
+    {
+     "name": "Anthony J. Nemi",
+     "votes": 3402,
+     "party": "REP",
+     "pct": 63.12,
+     "choice_id": "43",
+     "party_lines": {
+      "REP": 2708,
+      "CON": 694
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "183",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "24",
+   "state": "NY",
+   "title": "County Legislator District 12",
+   "office_type": "local",
+   "district": "12",
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Carla L. Speranza",
+     "votes": 2481,
+     "party": "DEM",
+     "pct": 46.25,
+     "choice_id": "44",
+     "party_lines": {
+      "DEM": 2238,
+      "WFP": 243
+     }
+    },
+    {
+     "name": "James J. Slowey, Jr.",
+     "votes": 2883,
+     "party": "REP",
+     "pct": 53.75,
+     "choice_id": "45",
+     "party_lines": {
+      "REP": 2389,
+      "CON": 494
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "25",
+   "state": "NY",
+   "title": "County Legislator District 13",
+   "office_type": "local",
+   "district": "13",
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Jocelyn E. Welton",
+     "votes": 2360,
+     "party": "DEM",
+     "pct": 48.01,
+     "choice_id": "46",
+     "party_lines": {
+      "DEM": 2360
+     }
+    },
+    {
+     "name": "Richard E. Abbott",
+     "votes": 2554,
+     "party": "REP",
+     "pct": 51.95,
+     "choice_id": "47",
+     "party_lines": {
+      "REP": 1983,
+      "CON": 404,
+      "WFP": 167
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "141",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "26",
+   "state": "NY",
+   "title": "County Legislator District 14",
+   "office_type": "local",
+   "district": "14",
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Shawn A. Foti",
+     "votes": 4664,
+     "party": "REP",
+     "pct": 99.28,
+     "choice_id": "48",
+     "party_lines": {
+      "REP": 3610,
+      "CON": 1054
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 34,
+     "party": null,
+     "pct": 0.72,
+     "choice_id": "157",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "27",
+   "state": "NY",
+   "title": "County Legislator District 15",
+   "office_type": "local",
+   "district": "15",
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Maria R. Fabrizio",
+     "votes": 1778,
+     "party": "DEM",
+     "pct": 30.16,
+     "choice_id": "49",
+     "party_lines": {
+      "DEM": 1584,
+      "WFP": 194
+     }
+    },
+    {
+     "name": "Michael A. Hill",
+     "votes": 4111,
+     "party": "REP",
+     "pct": 69.73,
+     "choice_id": "50",
+     "party_lines": {
+      "REP": 3461,
+      "CON": 650
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 7,
+     "party": null,
+     "pct": 0.12,
+     "choice_id": "164",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "51",
+   "state": "NY",
+   "title": "Supervisor (To Fill Vacancy) (1 Year Term) - Town of Cambria",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Duncan J. Ross",
+     "votes": 955,
+     "party": "DEM",
+     "pct": 38.38,
+     "choice_id": "184",
+     "party_lines": {
+      "DEM": 785,
+      "WFP": 170
+     }
+    },
+    {
+     "name": "Matthew P. Foe",
+     "votes": 1528,
+     "party": "REP",
+     "pct": 61.41,
+     "choice_id": "185",
+     "party_lines": {
+      "REP": 1276,
+      "CON": 252
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 5,
+     "party": null,
+     "pct": 0.2,
+     "choice_id": "186",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "29",
+   "state": "NY",
+   "title": "Supervisor - Town of Lewiston",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Edward M. Lilly",
+     "votes": 2602,
+     "party": "REP",
+     "pct": 40.34,
+     "choice_id": "53",
+     "party_lines": {
+      "REP": 2602
+     }
+    },
+    {
+     "name": "Steve Broderick",
+     "votes": 2884,
+     "party": "CON",
+     "pct": 44.71,
+     "choice_id": "54",
+     "party_lines": {
+      "CON": 2884
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 964,
+     "party": null,
+     "pct": 14.95,
+     "choice_id": "143",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "30",
+   "state": "NY",
+   "title": "Superintendent of Highways (To Fill Vacancy) (1 Year Term) - Town of Lewiston",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Michael J. Weiss",
+     "votes": 5292,
+     "party": "REP",
+     "pct": 98.97,
+     "choice_id": "55",
+     "party_lines": {
+      "REP": 3911,
+      "CON": 1381
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 55,
+     "party": null,
+     "pct": 1.03,
+     "choice_id": "149",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "31",
+   "state": "NY",
+   "title": "Supervisor - Town of Lockport",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Paul W. Siejak",
+     "votes": 6021,
+     "party": "REP",
+     "pct": 98.11,
+     "choice_id": "56",
+     "party_lines": {
+      "REP": 4585,
+      "CON": 1436
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 116,
+     "party": null,
+     "pct": 1.89,
+     "choice_id": "160",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "32",
+   "state": "NY",
+   "title": "Council Member (To Fill Vacancy) (1 Year Term) - Town of Lockport",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Patrick G. Weidel",
+     "votes": 5981,
+     "party": "REP",
+     "pct": 98.86,
+     "choice_id": "57",
+     "party_lines": {
+      "REP": 4565,
+      "CON": 1416
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 69,
+     "party": null,
+     "pct": 1.14,
+     "choice_id": "175",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "33",
+   "state": "NY",
+   "title": "Supervisor - Town of Newfane",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "John Syracuse",
+     "votes": 3017,
+     "party": "REP",
+     "pct": 98.98,
+     "choice_id": "58",
+     "party_lines": {
+      "REP": 2349,
+      "CON": 668
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 31,
+     "party": null,
+     "pct": 1.02,
+     "choice_id": "166",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "34",
+   "state": "NY",
+   "title": "Supervisor - Town of Pendleton",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Joel M. Maerten",
+     "votes": 2535,
+     "party": "REP",
+     "pct": 98.41,
+     "choice_id": "59",
+     "party_lines": {
+      "REP": 1908,
+      "CON": 627
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 41,
+     "party": null,
+     "pct": 1.59,
+     "choice_id": "153",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "35",
+   "state": "NY",
+   "title": "Town Clerk (To Fill Vacancy) (1 Year Term) - Town of Pendleton",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Noreen E. Lemma",
+     "votes": 2603,
+     "party": "REP",
+     "pct": 99.58,
+     "choice_id": "60",
+     "party_lines": {
+      "REP": 1927,
+      "CON": 676
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 11,
+     "party": null,
+     "pct": 0.42,
+     "choice_id": "171",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "36",
+   "state": "NY",
+   "title": "Council Member (To Fill Vacancy) (1 Year Term) - Town of Pendleton",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Dylan R. Rumbold",
+     "votes": 2573,
+     "party": "REP",
+     "pct": 99.38,
+     "choice_id": "61",
+     "party_lines": {
+      "REP": 1905,
+      "CON": 668
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 16,
+     "party": null,
+     "pct": 0.62,
+     "choice_id": "155",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "37",
+   "state": "NY",
+   "title": "Superintendent of Highways - Town of Pendleton",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "David I. Fischer",
+     "votes": 2531,
+     "party": "REP",
+     "pct": 98.75,
+     "choice_id": "62",
+     "party_lines": {
+      "REP": 1870,
+      "CON": 661
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 32,
+     "party": null,
+     "pct": 1.25,
+     "choice_id": "174",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "38",
+   "state": "NY",
+   "title": "Supervisor - Town of Royalton",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Jeff Brown",
+     "votes": 2507,
+     "party": "REP",
+     "pct": 99.48,
+     "choice_id": "63",
+     "party_lines": {
+      "REP": 2009,
+      "CON": 498
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 13,
+     "party": null,
+     "pct": 0.52,
+     "choice_id": "159",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "39",
+   "state": "NY",
+   "title": "Supervisor - Town of Somerset",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Jeffrey M. Dewart",
+     "votes": 836,
+     "party": "REP",
+     "pct": 98.12,
+     "choice_id": "64",
+     "party_lines": {
+      "REP": 643,
+      "CON": 193
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 16,
+     "party": null,
+     "pct": 1.88,
+     "choice_id": "172",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "40",
+   "state": "NY",
+   "title": "Council Member (To Fill Vacancy) - Town of Somerset",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Jenny A. Lee",
+     "votes": 824,
+     "party": "REP",
+     "pct": 99.16,
+     "choice_id": "65",
+     "party_lines": {
+      "REP": 638,
+      "CON": 186
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 7,
+     "party": null,
+     "pct": 0.84,
+     "choice_id": "176",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "41",
+   "state": "NY",
+   "title": "Tax Collector - Town of Somerset",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Ruth H. Wendler",
+     "votes": 841,
+     "party": "REP",
+     "pct": 99.29,
+     "choice_id": "66",
+     "party_lines": {
+      "REP": 650,
+      "CON": 191
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 6,
+     "party": null,
+     "pct": 0.71,
+     "choice_id": "146",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "42",
+   "state": "NY",
+   "title": "Supervisor - Town of Wheatfield",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Don MacSwan",
+     "votes": 5982,
+     "party": "REP",
+     "pct": 98.63,
+     "choice_id": "67",
+     "party_lines": {
+      "REP": 4684,
+      "CON": 1298
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 83,
+     "party": null,
+     "pct": 1.37,
+     "choice_id": "137",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "43",
+   "state": "NY",
+   "title": "Supervisor - Town of Wilson",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "William Tony Evans",
+     "votes": 1419,
+     "party": "REP",
+     "pct": 60.69,
+     "choice_id": "68",
+     "party_lines": {
+      "REP": 1419
+     }
+    },
+    {
+     "name": "Charles J. Flynn",
+     "votes": 907,
+     "party": "CON",
+     "pct": 38.79,
+     "choice_id": "69",
+     "party_lines": {
+      "CON": 907
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 12,
+     "party": null,
+     "pct": 0.51,
+     "choice_id": "180",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "44",
+   "state": "NY",
+   "title": "Town Clerk/Tax Collector (To Fill Vacancy) (1 Year Term)- Town of Wilson",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Julie Evans",
+     "votes": 2066,
+     "party": "REP",
+     "pct": 96.45,
+     "choice_id": "70",
+     "party_lines": {
+      "REP": 1557,
+      "CON": 509
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 76,
+     "party": null,
+     "pct": 3.55,
+     "choice_id": "152",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "45",
+   "state": "NY",
+   "title": "State Supreme Court Justice 8th Judicial District",
+   "office_type": "judicial",
+   "district": "8",
+   "jurisdiction": "Niagara County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Anne E. Joynt",
+     "votes": 32983,
+     "party": "DEM",
+     "pct": 11.64,
+     "choice_id": "72",
+     "party_lines": {
+      "DEM": 29581,
+      "WFP": 3402
+     }
+    },
+    {
+     "name": "Craig R. Bucki",
+     "votes": 30830,
+     "party": "DEM",
+     "pct": 10.88,
+     "choice_id": "71",
+     "party_lines": {
+      "DEM": 27958,
+      "WFP": 2872
+     }
+    },
+    {
+     "name": "Robert N. Richardson",
+     "votes": 65834,
+     "party": "DEM",
+     "pct": 23.23,
+     "choice_id": "74",
+     "party_lines": {
+      "DEM": 27258,
+      "REP": 31319,
+      "CON": 7257
+     }
+    },
+    {
+     "name": "Michael L. Amodeo",
+     "votes": 60296,
+     "party": "DEM",
+     "pct": 21.27,
+     "choice_id": "73",
+     "party_lines": {
+      "DEM": 26671,
+      "REP": 30760,
+      "WFP": 2865
+     }
+    },
+    {
+     "name": "Deanne M. Tripi",
+     "votes": 44149,
+     "party": "REP",
+     "pct": 15.58,
+     "choice_id": "75",
+     "party_lines": {
+      "REP": 36140,
+      "CON": 8009
+     }
+    },
+    {
+     "name": "Jonathan S. Hickey",
+     "votes": 40370,
+     "party": "REP",
+     "pct": 14.24,
+     "choice_id": "76",
+     "party_lines": {
+      "REP": 33011,
+      "CON": 7359
+     }
+    },
+    {
+     "name": "Robert R. Vario",
+     "votes": 8711,
+     "party": "CON",
+     "pct": 3.07,
+     "choice_id": "135",
+     "party_lines": {
+      "CON": 8711
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 240,
+     "party": null,
+     "pct": 0.08,
+     "choice_id": "147",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "46",
+   "state": "NY",
+   "title": "City Court Judge - City of North Tonawanda",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Shawn P. Nickerson",
+     "votes": 10978,
+     "party": "DEM",
+     "pct": 99.52,
+     "choice_id": "77",
+     "party_lines": {
+      "DEM": 4797,
+      "REP": 4573,
+      "CON": 1077,
+      "WFP": 531
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 53,
+     "party": null,
+     "pct": 0.48,
+     "choice_id": "140",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "47",
+   "state": "NY",
+   "title": "Town Justice - Town of Pendleton",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Todd T. Ostrowski",
+     "votes": 3083,
+     "party": "DEM",
+     "pct": 99.77,
+     "choice_id": "78",
+     "party_lines": {
+      "DEM": 1044,
+      "REP": 1591,
+      "CON": 448
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 7,
+     "party": null,
+     "pct": 0.23,
+     "choice_id": "181",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "48",
+   "state": "NY",
+   "title": "Town Justice - Town of Somerset",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Pamela S. Rider",
+     "votes": 939,
+     "party": "DEM",
+     "pct": 99.58,
+     "choice_id": "79",
+     "party_lines": {
+      "DEM": 203,
+      "REP": 563,
+      "CON": 136,
+      "WFP": 37
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 4,
+     "party": null,
+     "pct": 0.42,
+     "choice_id": "144",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "49",
+   "state": "NY",
+   "title": "Proposal number one, City proposition one - City of North Tonawanda",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 7044,
+     "party": null,
+     "pct": 60.99,
+     "choice_id": "80",
+     "party_lines": {}
+    },
+    {
+     "name": "No",
+     "votes": 4506,
+     "party": null,
+     "pct": 39.01,
+     "choice_id": "82",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.niagara",
+   "contest_id": "50",
+   "state": "NY",
+   "title": "Proposal number one, Town proposition one - Town of Somerset",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Niagara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Countywide: election day fully reported, absentees partially reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 744,
+     "party": null,
+     "pct": 73.37,
+     "choice_id": "84",
+     "party_lines": {}
+    },
+    {
+     "name": "No",
+     "votes": 270,
+     "party": null,
+     "pct": 26.63,
+     "choice_id": "86",
+     "party_lines": {}
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  }
+ ],
+ "contests_hash": "c333ac924f41753a",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-04T15:53:16+00:00",
+ "fetched_at": "2026-11-04T15:53:16+00:00",
+ "contests_changed_at": "2026-11-04T15:51:32+00:00"
+}

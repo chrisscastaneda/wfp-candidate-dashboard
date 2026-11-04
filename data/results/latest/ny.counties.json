@@ -1755,7 +1755,7 @@
     "text": "Summed from Ulster and Dutchess county results",
     "as_percent": false
    },
-   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
    "choices": [
     {
      "name": "Sarahana Shrestha",
@@ -1809,7 +1809,7 @@
     "text": "Summed from Orange, Dutchess and Ulster county results",
     "as_percent": false
    },
-   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
    "choices": [
     {
      "name": "Jonathan G. Jacobson",
@@ -1852,7 +1852,7 @@
     "text": "Summed from Dutchess county results",
     "as_percent": false
    },
-   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "feed_updated_at": "2026-11-04T15:33:24.9186359Z",
    "choices": [
     {
      "name": "Brooklyn Talarico",
@@ -1905,7 +1905,7 @@
     "text": "Summed from Columbia and Dutchess county results",
     "as_percent": false
    },
-   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
    "choices": [
     {
      "name": "Didi Barrett",
@@ -2692,6 +2692,59 @@
   },
   {
    "source": "ny.counties",
+   "contest_id": "state_house.140",
+   "state": "NY",
+   "title": "Member of Assembly 140th",
+   "office_type": "state_house",
+   "district": "140",
+   "jurisdiction": "New York",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Summed from Erie and Niagara county results",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "William C. Conrad, III",
+     "votes": 34400,
+     "party": "DEM",
+     "pct": 76.08,
+     "choice_id": "William C. Conrad, III",
+     "party_lines": {
+      "DEM": 28997,
+      "WFP": 5403
+     }
+    },
+    {
+     "name": "Mohammed H. Faisal",
+     "votes": 10807,
+     "party": "REP",
+     "pct": 23.9,
+     "choice_id": "Mohammed H. Faisal",
+     "party_lines": {
+      "REP": 10807
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 10,
+     "party": null,
+     "pct": 0.02,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.counties",
    "contest_id": "state_house.141",
    "state": "NY",
    "title": "Member of Assembly 141st",
@@ -2708,7 +2761,7 @@
     "text": "Summed from Erie county results",
     "as_percent": false
    },
-   "feed_updated_at": "2026-11-04T05:07:47.9372185Z",
+   "feed_updated_at": "2026-11-04T15:47:36.0164979Z",
    "choices": [
     {
      "name": "Leah M. Halton-Pope",
@@ -2742,28 +2795,28 @@
     "text": "Summed from Erie county results",
     "as_percent": false
    },
-   "feed_updated_at": "2026-11-04T05:07:47.9372185Z",
+   "feed_updated_at": "2026-11-04T15:47:36.0164979Z",
    "choices": [
     {
      "name": "Patrick B. Burke",
-     "votes": 23830,
+     "votes": 24170,
      "party": "DEM",
-     "pct": 52.67,
+     "pct": 52.73,
      "choice_id": "Patrick B. Burke",
      "party_lines": {
-      "DEM": 21463,
-      "WFP": 2367
+      "DEM": 21775,
+      "WFP": 2395
      }
     },
     {
      "name": "Gary A. Dickson",
-     "votes": 21412,
+     "votes": 21665,
      "party": "REP",
-     "pct": 47.33,
+     "pct": 47.27,
      "choice_id": "Gary A. Dickson",
      "party_lines": {
-      "REP": 17174,
-      "CON": 4238
+      "REP": 17373,
+      "CON": 4292
      }
     }
    ],
@@ -2788,7 +2841,7 @@
     "text": "Summed from Erie county results",
     "as_percent": false
    },
-   "feed_updated_at": "2026-11-04T05:07:47.9372185Z",
+   "feed_updated_at": "2026-11-04T15:47:36.0164979Z",
    "choices": [
     {
      "name": "Ryan J. Taughrin",
@@ -2818,6 +2871,113 @@
   },
   {
    "source": "ny.counties",
+   "contest_id": "state_house.144",
+   "state": "NY",
+   "title": "Member of Assembly 144th District",
+   "office_type": "state_house",
+   "district": "144",
+   "jurisdiction": "New York",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Summed from Niagara and Erie county results",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Donna L. Dye Sholk",
+     "votes": 22908,
+     "party": "DEM",
+     "pct": 39.78,
+     "choice_id": "Donna L. Dye Sholk",
+     "party_lines": {
+      "DEM": 20728,
+      "WFP": 2180
+     }
+    },
+    {
+     "name": "Paul A. Bologna",
+     "votes": 34665,
+     "party": "REP",
+     "pct": 60.2,
+     "choice_id": "Paul A. Bologna",
+     "party_lines": {
+      "REP": 28253,
+      "CON": 6412
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": null,
+     "pct": 0.01,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.counties",
+   "contest_id": "state_house.145",
+   "state": "NY",
+   "title": "Member of Assembly 145th District",
+   "office_type": "state_house",
+   "district": "145",
+   "jurisdiction": "New York",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Summed from Niagara and Erie county results",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Nathan D. McMurray",
+     "votes": 21255,
+     "party": "DEM",
+     "pct": 43.71,
+     "choice_id": "Nathan D. McMurray",
+     "party_lines": {
+      "DEM": 21255
+     }
+    },
+    {
+     "name": "Becky Wydysh",
+     "votes": 27357,
+     "party": "REP",
+     "pct": 56.25,
+     "choice_id": "Becky Wydysh",
+     "party_lines": {
+      "REP": 22723,
+      "CON": 4634
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 20,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.counties",
    "contest_id": "state_house.146",
    "state": "NY",
    "title": "Member of Assembly 146th",
@@ -2834,27 +2994,27 @@
     "text": "Summed from Erie county results",
     "as_percent": false
    },
-   "feed_updated_at": "2026-11-04T05:07:47.9372185Z",
+   "feed_updated_at": "2026-11-04T15:47:36.0164979Z",
    "choices": [
     {
      "name": "Karen M. McMahon",
-     "votes": 29640,
+     "votes": 29933,
      "party": "DEM",
-     "pct": 61.67,
+     "pct": 61.76,
      "choice_id": "Karen M. McMahon",
      "party_lines": {
-      "DEM": 29640
+      "DEM": 29933
      }
     },
     {
      "name": "Terence G. McGuire",
-     "votes": 18424,
+     "votes": 18533,
      "party": "REP",
-     "pct": 38.33,
+     "pct": 38.24,
      "choice_id": "Terence G. McGuire",
      "party_lines": {
-      "REP": 14935,
-      "CON": 3489
+      "REP": 15026,
+      "CON": 3507
      }
     }
    ],
@@ -2879,7 +3039,7 @@
     "text": "Summed from Erie county results",
     "as_percent": false
    },
-   "feed_updated_at": "2026-11-04T05:07:47.9372185Z",
+   "feed_updated_at": "2026-11-04T15:47:36.0164979Z",
    "choices": [
     {
      "name": "Adam L. Bojak",
@@ -4065,7 +4225,7 @@
     "text": "Summed from Erie county results",
     "as_percent": false
    },
-   "feed_updated_at": "2026-11-04T05:07:47.9372185Z",
+   "feed_updated_at": "2026-11-04T15:47:36.0164979Z",
    "choices": [
     {
      "name": "Patrick M. Gallivan",
@@ -4100,17 +4260,17 @@
     "text": "Summed from Erie county results",
     "as_percent": false
    },
-   "feed_updated_at": "2026-11-04T05:07:47.9372185Z",
+   "feed_updated_at": "2026-11-04T15:47:36.0164979Z",
    "choices": [
     {
      "name": "Jonathan D. Rivera",
-     "votes": 81427,
+     "votes": 81756,
      "party": "DEM",
      "pct": 100.0,
      "choice_id": "Jonathan D. Rivera",
      "party_lines": {
-      "DEM": 67895,
-      "WFP": 13532
+      "DEM": 68180,
+      "WFP": 13576
      }
     }
    ],
@@ -4135,28 +4295,28 @@
     "text": "Summed from Erie county results",
     "as_percent": false
    },
-   "feed_updated_at": "2026-11-04T05:07:47.9372185Z",
+   "feed_updated_at": "2026-11-04T15:47:36.0164979Z",
    "choices": [
     {
      "name": "April N. McCants-Baskin",
-     "votes": 55146,
+     "votes": 55435,
      "party": "DEM",
-     "pct": 69.65,
+     "pct": 69.5,
      "choice_id": "April N. McCants-Baskin",
      "party_lines": {
-      "DEM": 49822,
-      "WFP": 5324
+      "DEM": 50085,
+      "WFP": 5350
      }
     },
     {
      "name": "Geoffrey M. Szymanski",
-     "votes": 24030,
+     "votes": 24323,
      "party": "REP",
-     "pct": 30.35,
+     "pct": 30.5,
      "choice_id": "Geoffrey M. Szymanski",
      "party_lines": {
-      "REP": 19659,
-      "CON": 4371
+      "REP": 19887,
+      "CON": 4436
      }
     }
    ],
@@ -4498,7 +4658,7 @@
     "text": "Summed from Orange, Dutchess and Ulster county results",
     "as_percent": false
    },
-   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
    "choices": [
     {
      "name": "Pat Ryan",
@@ -4587,12 +4747,65 @@
    ],
    "url": null,
    "uncontested": false
+  },
+  {
+   "source": "ny.counties",
+   "contest_id": "federal_house.26",
+   "state": "NY",
+   "title": "Representative in Congress 26th",
+   "office_type": "federal_house",
+   "district": "26",
+   "jurisdiction": "New York",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Summed from Erie and Niagara county results",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:33:50.54-05:00",
+   "choices": [
+    {
+     "name": "Timothy M. Kennedy",
+     "votes": 159395,
+     "party": "DEM",
+     "pct": 65.52,
+     "choice_id": "Timothy M. Kennedy",
+     "party_lines": {
+      "DEM": 159395
+     }
+    },
+    {
+     "name": "Dennis E. Hannon",
+     "votes": 83851,
+     "party": "REP",
+     "pct": 34.47,
+     "choice_id": "Dennis E. Hannon",
+     "party_lines": {
+      "REP": 68472,
+      "CON": 15379
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 16,
+     "party": null,
+     "pct": 0.01,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
   }
  ],
- "contests_hash": "8d930c3107d0154a",
+ "contests_hash": "a453db74af36cb88",
  "status": "ok",
  "message": "",
- "last_attempt_at": "2026-11-04T15:45:40+00:00",
- "fetched_at": "2026-11-04T15:45:40+00:00",
- "contests_changed_at": "2026-11-04T15:43:03+00:00"
+ "last_attempt_at": "2026-11-04T15:53:29+00:00",
+ "fetched_at": "2026-11-04T15:53:29+00:00",
+ "contests_changed_at": "2026-11-04T15:53:29+00:00"
 }
