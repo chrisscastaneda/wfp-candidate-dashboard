@@ -1,10 +1,10 @@
-"""Phase 2 parsers: Clarity, Connecticut, Oregon, Ohio, Delaware, Maryland."""
+"""Phase 2 parsers: Clarity, Connecticut, Oregon, Ohio, Delaware, Maryland, Florida."""
 from datetime import date
 
 from conftest import FakeFetch
 from elex import config, match
 from elex.platforms import clarity
-from elex.states import clarity_states, ct, de, md, oh, or_
+from elex.states import clarity_states, ct, de, fl, md, oh, or_
 
 CLARITY = {s.id: s for s in clarity_states.SOURCES}
 
@@ -101,3 +101,19 @@ def test_local_measure_needs_place_name():
     row = {"id": 1, "name": "Columbus, OH | Issue 8: Our City, Our Say", "office": "Ballot Measure",
            "office_category": "Ballot Measure", "state_code": "OH", "position": "Yes"}
     assert match.match_one(row, hamilton).status == "unmatched"
+
+
+def test_florida_sums_counties_and_reads_measures():
+    header = "RaceCode\tRaceName\tCountyName\tJuris1num\tJuris2num\tPrecincts\tPrecinctsReporting\t" \
+             "CanNameFirst\tCanNameMiddle\tCanNameLast\tPartyCode\tCanVotes"
+    rows = ["USS\tUnited States Senator\tAlachua\t   \t \t63\t61\tAngie\t\tNixon\tDEM\t100",
+            "USS\tUnited States Senator\tBaker\t   \t \t9\t9\tAngie\t\tNixon\tDEM\t20",
+            "USS\tUnited States Senator\tAlachua\t   \t \t63\t61\tAshley\t\tMoody\tREP\t80",
+            "USR\tRepresentative in Congress, District 10\tOrange\t010\t \t200\t150\tMaxwell\t\tFrost\tDEM\t5",
+            "AMD\tBudget Stabilization Fund\tAlachua\t\t\t63\t61\t \t \tNo for Rejection\tNOP\t7"]
+    senate, house, measure = fl.parse("\n".join([header, *rows]))
+    nixon = senate.choices[0]
+    assert (nixon.name, nixon.votes, nixon.party) == ("Angie Nixon", 120, "DEM")
+    assert senate.office_type == "federal_senate" and senate.reporting.units_total == 72
+    assert (house.office_type, house.district) == ("federal_house", "10")
+    assert measure.office_type == "measure" and measure.choices[0].name == "No"

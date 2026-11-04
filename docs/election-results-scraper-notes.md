@@ -190,6 +190,49 @@ Fixes made while building:
 
 ---
 
+### 10:59pm: Florida
+
+- The Clarity copy of Florida's results never listed Nov 3, and the state's archive site
+  (`results.elections.myflorida.com`) only lists past elections. Election-night results are on
+  **floridaelectionwatch.gov**, whose Downloads page links a tab-delimited file of every state-run contest by county.
+- New source `states/fl.py` replaces the Clarity entry. **The plain file URL serves a stale cached copy** (Nov 2's
+  zeros); the link on the Downloads page carries a `?v=` number that returns the current file, so the scraper reads
+  the link each run.
+- Totals match the site exactly. **Angie Nixon (U.S. Senate) trails:** Moody 4,194,216 (50.9%), Nixon 3,949,306
+  (47.9%), Gillespie 94,055 (1.1%), with 5,551 of 5,626 precincts in.
+- **Bug found on the way:** `names.yes_no` read Florida's "No for Rejection" as Yes, because "for" matched first. A
+  leading yes or no now decides.
+
+### 11:03pm: Wisconsin counties
+
+- Wisconsin doesn't compile election-night results, and we have no AP license, so the route is county sites. WFP's
+  26 legislative races are mostly in Milwaukee, Racine/Kenosha, Madison, Green Bay and Eau Claire.
+- **Dane County** has a public API (`api.danecounty.gov/api/v1/elections`): one call returns every race with
+  precincts reported. **Kenosha County** has a results page (`apps.kenoshacounty.org/ElectionResults_v4/?eid=70`).
+  New sources in `counties/wi.py`.
+- **Milwaukee County's** election-night page (512 of 521 wards at 9:43pm) returns 403 to scripts; not scraped.
+  Racine and Brown post PDFs.
+- Only districts wholly inside one county count as complete: AD-76 (Dane), AD-64 and AD-65 (Kenosha). The three
+  statewide questions, SD-17 and AD-51 are partial from Dane alone.
+- Results: Dina Nina Martinez-Rutherford (AD-76) 91.8% at 89% of precincts; Tip McGuire (AD-64) 58.5%; Ben DeSmidt
+  (AD-65) 56.8%. Kenosha's page gives no precincts-reporting count.
+
+### 11:05pm: Milwaukee County by hand
+
+- Six Milwaukee races entered in `data/results/manual_entries.csv` from the county's election-night page (last
+  updated 9:43pm CT): AD-8 Ismael Luna 85.1%, AD-11 Sequanna Taylor 90.5%, AD-14 Angelito Tenorio 59.8%, AD-18
+  Margaret Arney 86.1%, AD-19 Ryan Clancy 85.8%, AD-20 Christine Sinicki 67.4%. All lead.
+- Only districts shown to lie entirely in Milwaukee County were entered. Left out:
+  - **AD-13 (Zimmerman) and SD-5 (Vining):** Waukesha County's results list both. SD-5's 49 Milwaukee wards are
+    exactly AD-13 plus AD-14; its third district, AD-15, is in Waukesha.
+  - **SD-21 (Jung):** Milwaukee lists AD-61 and AD-63, so it's split with Racine County.
+  - **AD-21 (Bukiewicz) and SD-7 (Larson):** AD-21 borders Racine County, whose site returns 403 to scripts, so it
+    couldn't be confirmed. SD-7 is AD-19 + 20 + 21 (its 88 wards match), so it depends on AD-21.
+- No reporting percentage was entered. Milwaukee's "wards reporting" excludes absentee ballots counted centrally
+  (the City of Milwaukee counts that way), so "100%" would overstate it. The ward counts are in each row's note.
+- These numbers only change when someone re-enters them. After editing the file, run
+  `scrape_results.py run --sources manual` (plain `match` reuses the last stored pull).
+
 ## Feed quirks worth remembering
 
 | Source | Quirk | How it's handled |
@@ -204,10 +247,14 @@ Fixes made while building:
 | NYC ENR | "*" marks the city's share of cross-city races | Marked partial |
 | Erie Results Caster | Nov 3 election slug is `testgen`, titled "test" | Found by date; non-test titles preferred if one appears |
 | NYS BOE | 403 to scripts | No source; state legislative races outside NYC stay `no_source` |
+| Florida results file | Plain URL is a stale cached copy | Link (with `?v=`) read from the Downloads page each run |
+| Florida measures | "No for Rejection" contains "for" | `yes_no` checks the first word first |
+| Milwaukee County (WI) | Election-night page returns 403 to scripts | Manual entries |
+| Kenosha County (WI) | Election id is a number in the URL (`eid=70` for Nov 3) | Hard-coded per election; the page's date is checked |
 
 ## Still open
 
-- Florida, South Carolina, three Texas counties, two New Jersey counties and five California Clarity counties
+- South Carolina, three Texas counties, two New Jersey counties and five California Clarity counties
   hadn't posted a Nov 3 election by 10:26pm.
 - Dutchess and Ulster (66 NY races) post PDFs; not built.
 - Onondaga (21 NY races) uses Results Caster and may work with `platforms/resultscaster.py` if its site is

@@ -162,6 +162,7 @@ what to check when they go live.
 | `ca.santa_clara`, `ca.contra_costa`, `ca.sonoma`, `ca.ventura`, `ca.marin` | `not_published` | Clarity configuration only (35 rows). Their `elections.json` lists are empty until they post |
 | `ny.nyc` | ok, 55 matched | Built on election night (`counties/ny.py`). `enr.boenyc.gov` has an "Expand List" page per office with every district, each candidate's party lines, and "Percentage of Scanners Reported". A "*" after a title marks the city's share of a race that crosses the city line (statewide offices, NY-3, NY-16, SD-34, SD-36); those are partial. NYC is a county-level source for "NYC", so its state legislative contests match NYC districts only |
 | `ny.westchester` | ok, 19 matched (9 confirmed by hand) | Westchester's results are on Enhanced Voting's shared host (`app.enhancedvoting.com/results/public/westchester-county-ny`), so it's configuration. Its state and federal contests, including the 8 Assembly districts, are marked partial |
+| `wi.dane`, `wi.kenosha` | ok, 3 matched | Built on election night (`counties/wi.py`). Dane has a public API (`api.danecounty.gov/api/v1/elections`); Kenosha's results page is `apps.kenoshacounty.org/ElectionResults_v4/?eid=70`. Only districts wholly inside the county stay complete: AD-76 (Dane), AD-64 and AD-65 (Kenosha). The statewide questions and multi-county districts are partial |
 | `ny.erie` | ok, 12 matched (Rathi Ravi by hand) | New platform module `platforms/resultscaster.py`, a JSON API under `erie.resultscaster.com/api/resultscasts/`. Erie's Nov 3 election is titled "General Election 2026 test" (slug `testgen`) but holds the real ballot. Onondaga can reuse the module if its site is reachable |
 
 **Probably not on the ballot:**
@@ -183,6 +184,8 @@ what to check when they go live.
 | County | Rows | What we know |
 |---|---:|---|
 | Onondaga | 21 | Results Caster, like Erie: try `platforms/resultscaster.py` with its subdomain |
+| Wisconsin: Milwaukee | ~10 (AD 8–21, SD 5, 7) | The county's election-night page has full results but returns 403 to scripts. Manual entries |
+| Wisconsin: Racine, Brown, Eau Claire, Douglas | AD 61–63, 90, 93, 73; SD 21, 31 | Racine and Brown post PDFs; the others weren't checked. Several of these districts cross county lines |
 | San Diego, Alameda, San Bernardino, San Mateo, Santa Barbara | 16, 15, 10, 12, 7 | Each county's Nov 3 page has no results link yet. Alameda posted June results as PDF/XLSX canvasses |
 | San Francisco | 13 | `sfelections.org/results/20261103w/` returns 403 to scripts. Blocked: use manual entries |
 | Dutchess, Ulster | 38, 28 | Cumulative PDFs; needs `pdfplumber` |
@@ -599,7 +602,8 @@ priority order: T1 federal, T2 state offices, T3 statewide measures, T4 local.
 | `ga`, `wa` | Enhanced Voting | by date | GA 1/27/0/3, WA 1/12/0/4 | 1 | 403 tonight (WA "launch preparations"). Same module, so they work the moment the sites open; otherwise `blocked` |
 | `nm`, `ne` | `results_csv` platform | current election only | NM 1/31/0/6, NE 0/0/0/3 | 1 | Verified tonight. NM county commission races are in the CSVs |
 | `co` | Clarity (state + county sub-sites) | by date, from `elections.json` | 1/30/14/40 | 2 | Nov 3 EID not posted yet. County sub-sites cover local races and measures |
-| `sc`, `fl` | Clarity | by date | SC 1/4/0/0, FL 1/0/0/0 | 2 | SC lists no elections yet. FL only for the U.S. Senate race |
+| `sc` | Clarity | by date | SC 1/4/0/0 | 2 | SC lists no elections yet |
+| `fl` | FL results file | Downloads page link | FL 1/0/0/0 | 2 | Rebuilt on election night: the Clarity mirror never posted Nov 3. `states/fl.py` reads the tab-delimited file linked from floridaelectionwatch.gov's Downloads page (the plain file URL serves a stale cached copy) and sums county rows. U.S. Senate (Nixon) only |
 | `tx` | `results.texas-election.com/static/data/election/<id>/<ver>/{Federal,StateWide,Districted}.json` | discover via `Home.json`/`Lookups.json` | 0/3/0/0 | 2 | Nov 3 not listed yet. Local rows go to TX county Clarity sites |
 | `or_` | `results.oregonvotes.gov` exports (`ResultsExport.aspx` form) or `ResultsAjax.svc` | current election | 3/33/0/44 | 2 | **Discovery:** the export is an ASP.NET postback. Per-county exports may cover OR's 44 local rows |
 | `ct` | `ctemspublic.tgstg.net` static JSON | discover | 1/81/0/0 | 2 | **Discovery:** data path. 81 State House/Senate rows, so a high payoff |

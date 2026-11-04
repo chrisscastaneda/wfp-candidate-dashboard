@@ -115,6 +115,10 @@ def measure_id(text: str) -> str | None:
 def yes_no(label: str) -> str:
     """Map a measure's choice label to Yes/No ('FOR', 'Bonds, Yes' -> 'Yes')."""
     folded = fold(label)
+    # The first word decides when it's yes or no: Florida's "No for Rejection" also contains "for".
+    first = folded.split()[0] if folded.split() else ""
+    if first in ("yes", "no"):
+        return first.capitalize()
     if re.search(r"\b(yes|for|approve|approved|si)\b", folded):
         return "Yes"
     if re.search(r"\b(no|against|reject|rejected)\b", folded):

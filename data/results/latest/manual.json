@@ -1,10 +1,245 @@
 {
  "source": "manual",
- "contests": [],
- "contests_hash": "4f53cda18c2baa0c",
+ "contests": [
+  {
+   "source": "manual",
+   "contest_id": "wi.assembly.8",
+   "state": "WI",
+   "title": "State Assembly District 8",
+   "office_type": "state_house",
+   "district": "8",
+   "jurisdiction": "WI",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-03T21:43:00-06:00",
+   "choices": [
+    {
+     "name": "Ismael Luna",
+     "votes": 5962,
+     "party": "DEM",
+     "pct": 85.1,
+     "choice_id": "Ismael Luna",
+     "party_lines": null
+    },
+    {
+     "name": "Angel Sanchez",
+     "votes": 1044,
+     "party": "REP",
+     "pct": 14.9,
+     "choice_id": "Angel Sanchez",
+     "party_lines": null
+    }
+   ],
+   "url": "https://county.milwaukee.gov/EN/County-Clerk/Off-Nav/Election-Results/11-3-26-General-Election--Unofficial-Results-Election-Night-Website"
+  },
+  {
+   "source": "manual",
+   "contest_id": "wi.assembly.11",
+   "state": "WI",
+   "title": "State Assembly District 11",
+   "office_type": "state_house",
+   "district": "11",
+   "jurisdiction": "WI",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-03T21:43:00-06:00",
+   "choices": [
+    {
+     "name": "Sequanna Taylor",
+     "votes": 10173,
+     "party": "DEM",
+     "pct": 90.47,
+     "choice_id": "Sequanna Taylor",
+     "party_lines": null
+    },
+    {
+     "name": "Shandowlyon Reaves",
+     "votes": 1071,
+     "party": "REP",
+     "pct": 9.53,
+     "choice_id": "Shandowlyon Reaves",
+     "party_lines": null
+    }
+   ],
+   "url": "https://county.milwaukee.gov/EN/County-Clerk/Off-Nav/Election-Results/11-3-26-General-Election--Unofficial-Results-Election-Night-Website"
+  },
+  {
+   "source": "manual",
+   "contest_id": "wi.assembly.14",
+   "state": "WI",
+   "title": "State Assembly District 14",
+   "office_type": "state_house",
+   "district": "14",
+   "jurisdiction": "WI",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-03T21:43:00-06:00",
+   "choices": [
+    {
+     "name": "Angelito Tenorio",
+     "votes": 8902,
+     "party": "DEM",
+     "pct": 59.84,
+     "choice_id": "Angelito Tenorio",
+     "party_lines": null
+    },
+    {
+     "name": "AmyRose Murphy",
+     "votes": 5975,
+     "party": "REP",
+     "pct": 40.16,
+     "choice_id": "AmyRose Murphy",
+     "party_lines": null
+    }
+   ],
+   "url": "https://county.milwaukee.gov/EN/County-Clerk/Off-Nav/Election-Results/11-3-26-General-Election--Unofficial-Results-Election-Night-Website"
+  },
+  {
+   "source": "manual",
+   "contest_id": "wi.assembly.18",
+   "state": "WI",
+   "title": "State Assembly District 18",
+   "office_type": "state_house",
+   "district": "18",
+   "jurisdiction": "WI",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-03T21:43:00-06:00",
+   "choices": [
+    {
+     "name": "Margaret Arney",
+     "votes": 11020,
+     "party": "DEM",
+     "pct": 86.06,
+     "choice_id": "Margaret Arney",
+     "party_lines": null
+    },
+    {
+     "name": "Joel Richmond",
+     "votes": 1785,
+     "party": "REP",
+     "pct": 13.94,
+     "choice_id": "Joel Richmond",
+     "party_lines": null
+    }
+   ],
+   "url": "https://county.milwaukee.gov/EN/County-Clerk/Off-Nav/Election-Results/11-3-26-General-Election--Unofficial-Results-Election-Night-Website"
+  },
+  {
+   "source": "manual",
+   "contest_id": "wi.assembly.19",
+   "state": "WI",
+   "title": "State Assembly District 19",
+   "office_type": "state_house",
+   "district": "19",
+   "jurisdiction": "WI",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-03T21:43:00-06:00",
+   "choices": [
+    {
+     "name": "Ryan Clancy",
+     "votes": 16700,
+     "party": "DEM",
+     "pct": 85.82,
+     "choice_id": "Ryan Clancy",
+     "party_lines": null
+    },
+    {
+     "name": "Yasmine B. Outlaw",
+     "votes": 2759,
+     "party": "REP",
+     "pct": 14.18,
+     "choice_id": "Yasmine B. Outlaw",
+     "party_lines": null
+    }
+   ],
+   "url": "https://county.milwaukee.gov/EN/County-Clerk/Off-Nav/Election-Results/11-3-26-General-Election--Unofficial-Results-Election-Night-Website"
+  },
+  {
+   "source": "manual",
+   "contest_id": "wi.assembly.20",
+   "state": "WI",
+   "title": "State Assembly District 20",
+   "office_type": "state_house",
+   "district": "20",
+   "jurisdiction": "WI",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-03T21:43:00-06:00",
+   "choices": [
+    {
+     "name": "Christine M. Sinicki",
+     "votes": 15119,
+     "party": "DEM",
+     "pct": 67.43,
+     "choice_id": "Christine M. Sinicki",
+     "party_lines": null
+    },
+    {
+     "name": "Kyle Cleary",
+     "votes": 7303,
+     "party": "REP",
+     "pct": 32.57,
+     "choice_id": "Kyle Cleary",
+     "party_lines": null
+    }
+   ],
+   "url": "https://county.milwaukee.gov/EN/County-Clerk/Off-Nav/Election-Results/11-3-26-General-Election--Unofficial-Results-Election-Night-Website"
+  }
+ ],
+ "contests_hash": "7b6d3e9f7798f180",
  "status": "ok",
  "message": "",
- "last_attempt_at": "2026-11-04T03:27:03+00:00",
- "fetched_at": "2026-11-04T03:27:03+00:00",
- "contests_changed_at": "2026-11-03T06:00:23+00:00"
+ "last_attempt_at": "2026-11-04T04:05:44+00:00",
+ "fetched_at": "2026-11-04T04:05:44+00:00",
+ "contests_changed_at": "2026-11-04T04:05:44+00:00"
 }

@@ -334,6 +334,7 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 387,DE,Madinah Wilson-Anton,"State Representative, District 26",auto,district_surname,de,State Representative District 26,State Representative District 26,486654,MADINAH WILSON-ANTON,
 388,DE,Tyeisha Grier,"State Representative, District 28",auto,district_surname,de,State Representative District 28,State Representative District 28,490086,"TYEISHA ""TYE"" GRIER",
 389,DE,Shay Frisby,"State Senate, District 5",auto,district_surname,de,State Senator District 5,State Senator District 5,406554,SHAY FRISBY,
+398,FL,Angie Nixon,U.S. Senate,auto,district_surname,fl,USS/United States Senator,United States Senator,Angie Nixon,Angie Nixon,
 399,GA,Gabriel Sanchez,"Georgia State House, District 42",auto,district_surname,ga,01000000-3a82-a359-1c15-08df23e66433,State House of Representatives - District 42,01000000-3a82-a359-1c38-08df23e66433,Gabriel Sanchez (I),
 400,GA,Amanda Hollowell,"U.S. House of Representatives, District 1",auto,district_surname,ga,01000000-3a82-a359-9ca3-08df23e5ffce,US House of Representatives - District 1,01000000-3a82-a359-9cec-08df23e5ffce,Amanda Hollowell,
 401,GA,Nikki Porcher,Labor Commissioner,auto,district_surname,ga,01000000-3a82-a359-33e9-08df23e5ff62,Commissioner of Labor,01000000-3a82-a359-341a-08df23e5ff62,Nikki Porcher,
@@ -659,6 +660,15 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 1122,WA,Jessica Forsythe,"Washington State House, District 48, Position 2",auto,district_surname,wa,54c40000-9064-bbec-e559-08df15c0a834,Legislative District 48 - State Representative Pos. 2,54c40000-9064-bbec-ed92-08df15c0a834,Jessica Forsythe,
 1123,WA,Noel Frame,"Washington State Senate, District 36",auto,district_surname,wa,54c40000-9064-bbec-0c22-08df15c0a833,Legislative District 36 - State Senator,54c40000-9064-bbec-1299-08df15c0a833,Noel C. Frame,
 1124,WA,Hannah Sabio-Howell,"Washington State Senate, District 43",auto,district_surname,wa,54c40000-9064-bbec-efd3-08df15c0a833,Legislative District 43 - State Senator,54c40000-9064-bbec-faff-08df15c0a833,Hannah Sabio-Howell,
+1132,WI,Ismael Luna,"State Assembly, District 8",auto,district_surname,manual,wi.assembly.8,State Assembly District 8,Ismael Luna,Ismael Luna,
+1133,WI,Sequanna Taylor,"State Assembly, District 11",auto,district_surname,manual,wi.assembly.11,State Assembly District 11,Sequanna Taylor,Sequanna Taylor,
+1135,WI,Angelito Tenorio,"State Assembly, District 14",auto,district_surname,manual,wi.assembly.14,State Assembly District 14,Angelito Tenorio,Angelito Tenorio,
+1136,WI,Margaret Arney,"State Assembly, District 18",auto,district_surname,manual,wi.assembly.18,State Assembly District 18,Margaret Arney,Margaret Arney,
+1137,WI,Ryan Clancy,"State Assembly, District 19",auto,district_surname,manual,wi.assembly.19,State Assembly District 19,Ryan Clancy,Ryan Clancy,
+1138,WI,Christine Sinicki,"State Assembly, District 20",auto,district_surname,manual,wi.assembly.20,State Assembly District 20,Christine M. Sinicki,Christine M. Sinicki,
+1145,WI,Tip McGuire,"State Assembly, District 64",auto,district_surname,wi.kenosha,Representative to the Assembly District 64,Representative to the Assembly District 64,Tip McGuire,Tip McGuire,
+1146,WI,Ben DeSmidt,"State Assembly, District 65",auto,district_surname,wi.kenosha,Representative to the Assembly District 65,Representative to the Assembly District 65,Ben DeSmidt,Ben DeSmidt,
+1148,WI,Dina Nina Martinez-Rutherford,"State Assembly, District 76",auto,district_surname,wi.dane,0020,Representative to the Assembly District 76,2,Dina Nina Martinez-Rutherford,
 631,NY,Colin Smith,"Westchester County Legislature, District 1",confirmed,name_in_state,ny.westchester,01000000-0c6a-a4eb-8bab-08df2a1b67df,County Legislator 1st District,01000000-0c6a-a4eb-8bf8-08df2a1b67df,Colin D. Smith,found by name only; check the office (County Legislator 1st District) | confirmed Nov 3: same district/place
 632,NY,Erika Pierce,"Westchester County Legislature, District 2",confirmed,name_in_state,ny.westchester,01000000-0c6a-a4eb-8c6c-08df2a1b67df,County Legislator 2nd District,01000000-0c6a-a4eb-8cc8-08df2a1b67df,Erika Lang Pierce,found by name only; check the office (County Legislator 2nd District) | confirmed Nov 3: same district/place
 633,NY,Jennifer Puja,"Westchester County Legislature, District 5",confirmed,name_in_state,ny.westchester,01000000-0c6a-a4eb-8eba-08df2a1b67df,County Legislator 5th District,01000000-0c6a-a4eb-8f13-08df2a1b67df,Jennifer L. Puja,found by name only; check the office (County Legislator 5th District) | confirmed Nov 3: same district/place
@@ -806,7 +816,6 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 395,DC,Zachary Parker,"District Council, Ward 5",no_source,,,,,,,no source covers DC yet
 396,DC,Charles Allen,"District Council, Ward 6",no_source,,,,,,,no source covers DC yet
 397,DC,Oye Olowela,"District Council, At-Large",no_source,,,,,,,no source covers DC yet
-398,FL,Angie Nixon,U.S. Senate,no_source,,,,,,,no source covers FL yet
 430,KY,Charles Booker,U.S. Senate,no_source,,,,,,,no source covers KY yet
 431,LA,Simone Levine,"Judge, Criminal District Court, Section D, Orleans Parish",no_source,,,,,,,no source covers LA yet
 443,MA,Lorena Betts,"Massachusetts State House, 16th Middlesex District",no_source,,,,,,,no source covers MA yet
@@ -1177,35 +1186,26 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 1098,TX,Montserrat Garibay,"Texas House, District 49",no_source,,,,,,,TX has only county sources so far
 1099,TX,Jeremy B. Hendrinks,"Texas House, District 50",no_source,,,,,,,TX has only county sources so far
 1100,TX,Jose Loya,Texas Land Commissioner,no_source,,,,,,,TX has only county sources so far
-1125,WI,David Crowley,Governor,no_source,,,,,,,no source covers WI yet
-1126,WI,JoCasta Zamarripa,Secretary of State,no_source,,,,,,,no source covers WI yet
-1127,WI,Robyn Vining,"State Senate, District 5",no_source,,,,,,,no source covers WI yet
-1128,WI,Chris Larson,"State Senate, District 7",no_source,,,,,,,no source covers WI yet
-1129,WI,Jenna Jacobson,"State Senate, District 17",no_source,,,,,,,no source covers WI yet
-1130,WI,Trevor Jung,"State Senate, District 21",no_source,,,,,,,no source covers WI yet
-1131,WI,Jeff Smith,"State Senate, District 31",no_source,,,,,,,no source covers WI yet
-1132,WI,Ismael Luna,"State Assembly, District 8",no_source,,,,,,,no source covers WI yet
-1133,WI,Sequanna Taylor,"State Assembly, District 11",no_source,,,,,,,no source covers WI yet
-1134,WI,Amy Zimmerman,"State Assembly, District 13",no_source,,,,,,,no source covers WI yet
-1135,WI,Angelito Tenorio,"State Assembly, District 14",no_source,,,,,,,no source covers WI yet
-1136,WI,Margaret Arney,"State Assembly, District 18",no_source,,,,,,,no source covers WI yet
-1137,WI,Ryan Clancy,"State Assembly, District 19",no_source,,,,,,,no source covers WI yet
-1138,WI,Christine Sinicki,"State Assembly, District 20",no_source,,,,,,,no source covers WI yet
-1139,WI,Dan Bukiewicz,"State Assembly, District 21",no_source,,,,,,,no source covers WI yet
-1140,WI,Ben Gruber,"State Assembly, District 51",no_source,,,,,,,no source covers WI yet
-1141,WI,Becky Nichols,"State Assembly, District 53",no_source,,,,,,,no source covers WI yet
-1142,WI,Ben Brist,"State Assembly, District 61",no_source,,,,,,,no source covers WI yet
-1143,WI,Angelina Cruz,"State Assembly, District 62",no_source,,,,,,,no source covers WI yet
-1144,WI,Eddie Phanichkul,"State Assembly, District 63",no_source,,,,,,,no source covers WI yet
-1145,WI,Tip McGuire,"State Assembly, District 64",no_source,,,,,,,no source covers WI yet
-1146,WI,Ben DeSmidt,"State Assembly, District 65",no_source,,,,,,,no source covers WI yet
-1147,WI,Angela Stroud,"State Assembly, District 73",no_source,,,,,,,no source covers WI yet
-1148,WI,Dina Nina Martinez-Rutherford,"State Assembly, District 76",no_source,,,,,,,no source covers WI yet
-1149,WI,Amaad Rivera-Wagner,"State Assembly, District 90",no_source,,,,,,,no source covers WI yet
-1150,WI,Christian Phelps,"State Assembly, District 93",no_source,,,,,,,no source covers WI yet
-1217,WI,"Wisconsin Question 1, Partial Veto Referendum",Ballot Measure,no_source,,,,,,,no source covers WI yet
-1218,WI,"Wisconsin Question 2, Freedom to Gather in Places of Worship During an Emergency Referendum",Ballot Measure,no_source,,,,,,,no source covers WI yet
-1219,WI,"Wisconsin Question 3, Governmental Entity Discrimination Prohibited Referendum",Ballot Measure,no_source,,,,,,,no source covers WI yet
+1125,WI,David Crowley,Governor,no_source,,,,,,,WI has only county sources so far
+1126,WI,JoCasta Zamarripa,Secretary of State,no_source,,,,,,,WI has only county sources so far
+1127,WI,Robyn Vining,"State Senate, District 5",no_source,,,,,,,WI has only county sources so far
+1128,WI,Chris Larson,"State Senate, District 7",no_source,,,,,,,WI has only county sources so far
+1129,WI,Jenna Jacobson,"State Senate, District 17",no_source,,,,,,,WI has only county sources so far
+1130,WI,Trevor Jung,"State Senate, District 21",no_source,,,,,,,WI has only county sources so far
+1131,WI,Jeff Smith,"State Senate, District 31",no_source,,,,,,,WI has only county sources so far
+1134,WI,Amy Zimmerman,"State Assembly, District 13",no_source,,,,,,,WI has only county sources so far
+1139,WI,Dan Bukiewicz,"State Assembly, District 21",no_source,,,,,,,WI has only county sources so far
+1140,WI,Ben Gruber,"State Assembly, District 51",no_source,,,,,,,WI has only county sources so far
+1141,WI,Becky Nichols,"State Assembly, District 53",no_source,,,,,,,WI has only county sources so far
+1142,WI,Ben Brist,"State Assembly, District 61",no_source,,,,,,,WI has only county sources so far
+1143,WI,Angelina Cruz,"State Assembly, District 62",no_source,,,,,,,WI has only county sources so far
+1144,WI,Eddie Phanichkul,"State Assembly, District 63",no_source,,,,,,,WI has only county sources so far
+1147,WI,Angela Stroud,"State Assembly, District 73",no_source,,,,,,,WI has only county sources so far
+1149,WI,Amaad Rivera-Wagner,"State Assembly, District 90",no_source,,,,,,,WI has only county sources so far
+1150,WI,Christian Phelps,"State Assembly, District 93",no_source,,,,,,,WI has only county sources so far
+1217,WI,"Wisconsin Question 1, Partial Veto Referendum",Ballot Measure,no_source,,,,,,,WI has only county sources so far
+1218,WI,"Wisconsin Question 2, Freedom to Gather in Places of Worship During an Emergency Referendum",Ballot Measure,no_source,,,,,,,WI has only county sources so far
+1219,WI,"Wisconsin Question 3, Governmental Entity Discrimination Prohibited Referendum",Ballot Measure,no_source,,,,,,,WI has only county sources so far
 1151,WY,Aaron Appelhans,Albany County Sheriff,no_source,,,,,,,no source covers WY yet
 650,NY,Reid Kornman,Eastchester School Board,not_on_ballot,,,,,,,Eastchester UFSD board election was held in May 2026.
 678,NY,Phil Howard,Newburgh School Board,not_on_ballot,,,,,,,"Decided May 19, 2026 (Newburgh ECSD); reported re-elected."

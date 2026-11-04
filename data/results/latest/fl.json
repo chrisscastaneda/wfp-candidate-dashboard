@@ -1,8 +1,7307 @@
 {
  "source": "fl",
- "contests": [],
- "contests_hash": null,
- "status": "not_published",
- "message": "no 2026-11-03 election listed",
- "last_attempt_at": "2026-11-04T03:26:39+00:00"
+ "contests": [
+  {
+   "source": "fl",
+   "contest_id": "USS/United States Senator",
+   "state": "FL",
+   "title": "United States Senator",
+   "office_type": "federal_senate",
+   "district": null,
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5551,
+    "units_total": 5626,
+    "pct": 98.7,
+    "text": "5,551 of 5,626 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Ashley Moody",
+     "votes": 4194216,
+     "party": "REP",
+     "pct": 50.92,
+     "choice_id": "Ashley Moody",
+     "party_lines": null
+    },
+    {
+     "name": "Angie Nixon",
+     "votes": 3949306,
+     "party": "DEM",
+     "pct": 47.94,
+     "choice_id": "Angie Nixon",
+     "party_lines": null
+    },
+    {
+     "name": "Neil J. Gillespie",
+     "votes": 94055,
+     "party": "NPA",
+     "pct": 1.14,
+     "choice_id": "Neil J. Gillespie",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "USR/Representative in Congress, District 1/1",
+   "state": "FL",
+   "title": "Representative in Congress, District 1",
+   "office_type": "federal_house",
+   "district": "1",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 188,
+    "units_total": 188,
+    "pct": 100.0,
+    "text": "188 of 188 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jimmy Patronis",
+     "votes": 181483,
+     "party": "REP",
+     "pct": 62.62,
+     "choice_id": "Jimmy Patronis",
+     "party_lines": null
+    },
+    {
+     "name": "Gay Valimont",
+     "votes": 103042,
+     "party": "DEM",
+     "pct": 35.55,
+     "choice_id": "Gay Valimont",
+     "party_lines": null
+    },
+    {
+     "name": "Tyler L. Davis",
+     "votes": 5302,
+     "party": "NPA",
+     "pct": 1.83,
+     "choice_id": "Tyler L. Davis",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "USR/Representative in Congress, District 2/2",
+   "state": "FL",
+   "title": "Representative in Congress, District 2",
+   "office_type": "federal_house",
+   "district": "2",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 330,
+    "units_total": 330,
+    "pct": 100.0,
+    "text": "330 of 330 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Austin Rogers",
+     "votes": 160746,
+     "party": "REP",
+     "pct": 52.26,
+     "choice_id": "Austin Rogers",
+     "party_lines": null
+    },
+    {
+     "name": "Amanda Marie Green",
+     "votes": 146862,
+     "party": "DEM",
+     "pct": 47.74,
+     "choice_id": "Amanda Marie Green",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "USR/Representative in Congress, District 3/3",
+   "state": "FL",
+   "title": "Representative in Congress, District 3",
+   "office_type": "federal_house",
+   "district": "3",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 244,
+    "units_total": 246,
+    "pct": 99.2,
+    "text": "244 of 246 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Kat Cammack",
+     "votes": 164789,
+     "party": "REP",
+     "pct": 55.13,
+     "choice_id": "Kat Cammack",
+     "party_lines": null
+    },
+    {
+     "name": "Seth Harp",
+     "votes": 128533,
+     "party": "DEM",
+     "pct": 43.0,
+     "choice_id": "Seth Harp",
+     "party_lines": null
+    },
+    {
+     "name": "Mike Klein",
+     "votes": 5571,
+     "party": "NPA",
+     "pct": 1.86,
+     "choice_id": "Mike Klein",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "USR/Representative in Congress, District 4/4",
+   "state": "FL",
+   "title": "Representative in Congress, District 4",
+   "office_type": "federal_house",
+   "district": "4",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 144,
+    "units_total": 144,
+    "pct": 100.0,
+    "text": "144 of 144 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Aaron Bean",
+     "votes": 150780,
+     "party": "REP",
+     "pct": 50.31,
+     "choice_id": "Aaron Bean",
+     "party_lines": null
+    },
+    {
+     "name": "LaShonda L.J. Holloway",
+     "votes": 143950,
+     "party": "DEM",
+     "pct": 48.03,
+     "choice_id": "LaShonda L.J. Holloway",
+     "party_lines": null
+    },
+    {
+     "name": "Mike Sell",
+     "votes": 1819,
+     "party": "FFP",
+     "pct": 0.61,
+     "choice_id": "Mike Sell",
+     "party_lines": null
+    },
+    {
+     "name": "Todd Schaefer",
+     "votes": 3175,
+     "party": "NPA",
+     "pct": 1.06,
+     "choice_id": "Todd Schaefer",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "USR/Representative in Congress, District 5/5",
+   "state": "FL",
+   "title": "Representative in Congress, District 5",
+   "office_type": "federal_house",
+   "district": "5",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 127,
+    "units_total": 130,
+    "pct": 97.7,
+    "text": "127 of 130 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "John H. Rutherford",
+     "votes": 184916,
+     "party": "REP",
+     "pct": 56.36,
+     "choice_id": "John H. Rutherford",
+     "party_lines": null
+    },
+    {
+     "name": "Rachel Grage",
+     "votes": 143195,
+     "party": "DEM",
+     "pct": 43.64,
+     "choice_id": "Rachel Grage",
+     "party_lines": null
+    },
+    {
+     "name": "William Lintag Upham",
+     "votes": 0,
+     "party": "WRI",
+     "pct": 0.0,
+     "choice_id": "William Lintag Upham",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "USR/Representative in Congress, District 6/6",
+   "state": "FL",
+   "title": "Representative in Congress, District 6",
+   "office_type": "federal_house",
+   "district": "6",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 224,
+    "units_total": 225,
+    "pct": 99.6,
+    "text": "224 of 225 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Randy Fine",
+     "votes": 195246,
+     "party": "REP",
+     "pct": 58.95,
+     "choice_id": "Randy Fine",
+     "party_lines": null
+    },
+    {
+     "name": "Eric Yonce",
+     "votes": 132259,
+     "party": "DEM",
+     "pct": 39.93,
+     "choice_id": "Eric Yonce",
+     "party_lines": null
+    },
+    {
+     "name": "Andrew Parrott",
+     "votes": 3725,
+     "party": "LPF",
+     "pct": 1.12,
+     "choice_id": "Andrew Parrott",
+     "party_lines": null
+    },
+    {
+     "name": "Alec Pavlik",
+     "votes": 0,
+     "party": "WRI",
+     "pct": 0.0,
+     "choice_id": "Alec Pavlik",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "USR/Representative in Congress, District 7/7",
+   "state": "FL",
+   "title": "Representative in Congress, District 7",
+   "office_type": "federal_house",
+   "district": "7",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 156,
+    "units_total": 156,
+    "pct": 100.0,
+    "text": "156 of 156 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Ryan Elijah",
+     "votes": 161019,
+     "party": "REP",
+     "pct": 49.76,
+     "choice_id": "Ryan Elijah",
+     "party_lines": null
+    },
+    {
+     "name": "Bale Dalton",
+     "votes": 159113,
+     "party": "DEM",
+     "pct": 49.17,
+     "choice_id": "Bale Dalton",
+     "party_lines": null
+    },
+    {
+     "name": "Christopher Dennison",
+     "votes": 3471,
+     "party": "LPF",
+     "pct": 1.07,
+     "choice_id": "Christopher Dennison",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "USR/Representative in Congress, District 8/8",
+   "state": "FL",
+   "title": "Representative in Congress, District 8",
+   "office_type": "federal_house",
+   "district": "8",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 183,
+    "units_total": 183,
+    "pct": 100.0,
+    "text": "183 of 183 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Mike Haridopolos",
+     "votes": 167870,
+     "party": "REP",
+     "pct": 53.36,
+     "choice_id": "Mike Haridopolos",
+     "party_lines": null
+    },
+    {
+     "name": "Jennifer Jenkins",
+     "votes": 146703,
+     "party": "DEM",
+     "pct": 46.64,
+     "choice_id": "Jennifer Jenkins",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "USR/Representative in Congress, District 9/9",
+   "state": "FL",
+   "title": "Representative in Congress, District 9",
+   "office_type": "federal_house",
+   "district": "9",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 222,
+    "units_total": 222,
+    "pct": 100.0,
+    "text": "222 of 222 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Dan Green",
+     "votes": 141519,
+     "party": "REP",
+     "pct": 49.78,
+     "choice_id": "Dan Green",
+     "party_lines": null
+    },
+    {
+     "name": "Darren Soto",
+     "votes": 142754,
+     "party": "DEM",
+     "pct": 50.22,
+     "choice_id": "Darren Soto",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "USR/Representative in Congress, District 11/11",
+   "state": "FL",
+   "title": "Representative in Congress, District 11",
+   "office_type": "federal_house",
+   "district": "11",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 160,
+    "units_total": 160,
+    "pct": 100.0,
+    "text": "160 of 160 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Joe Strada",
+     "votes": 192783,
+     "party": "REP",
+     "pct": 53.04,
+     "choice_id": "Joe Strada",
+     "party_lines": null
+    },
+    {
+     "name": "James Pericola",
+     "votes": 166788,
+     "party": "DEM",
+     "pct": 45.88,
+     "choice_id": "James Pericola",
+     "party_lines": null
+    },
+    {
+     "name": "Ralph Groves",
+     "votes": 3927,
+     "party": "LPF",
+     "pct": 1.08,
+     "choice_id": "Ralph Groves",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "USR/Representative in Congress, District 12/12",
+   "state": "FL",
+   "title": "Representative in Congress, District 12",
+   "office_type": "federal_house",
+   "district": "12",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 202,
+    "units_total": 202,
+    "pct": 100.0,
+    "text": "202 of 202 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Gus Michael Bilirakis",
+     "votes": 150432,
+     "party": "REP",
+     "pct": 52.76,
+     "choice_id": "Gus Michael Bilirakis",
+     "party_lines": null
+    },
+    {
+     "name": "Kimberly Overman",
+     "votes": 130932,
+     "party": "DEM",
+     "pct": 45.92,
+     "choice_id": "Kimberly Overman",
+     "party_lines": null
+    },
+    {
+     "name": "Branden Scrivener",
+     "votes": 3762,
+     "party": "NPA",
+     "pct": 1.32,
+     "choice_id": "Branden Scrivener",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "USR/Representative in Congress, District 13/13",
+   "state": "FL",
+   "title": "Representative in Congress, District 13",
+   "office_type": "federal_house",
+   "district": "13",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 209,
+    "units_total": 209,
+    "pct": 100.0,
+    "text": "209 of 209 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Anna Paulina Luna",
+     "votes": 155089,
+     "party": "REP",
+     "pct": 49.48,
+     "choice_id": "Anna Paulina Luna",
+     "party_lines": null
+    },
+    {
+     "name": "Leela Gray",
+     "votes": 152544,
+     "party": "DEM",
+     "pct": 48.67,
+     "choice_id": "Leela Gray",
+     "party_lines": null
+    },
+    {
+     "name": "Tony D'Arrigo",
+     "votes": 5776,
+     "party": "NPA",
+     "pct": 1.84,
+     "choice_id": "Tony D'Arrigo",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "USR/Representative in Congress, District 14/14",
+   "state": "FL",
+   "title": "Representative in Congress, District 14",
+   "office_type": "federal_house",
+   "district": "14",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 236,
+    "units_total": 236,
+    "pct": 100.0,
+    "text": "236 of 236 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Mike Beltran",
+     "votes": 137599,
+     "party": "REP",
+     "pct": 45.88,
+     "choice_id": "Mike Beltran",
+     "party_lines": null
+    },
+    {
+     "name": "Kathy Castor",
+     "votes": 153586,
+     "party": "DEM",
+     "pct": 51.21,
+     "choice_id": "Kathy Castor",
+     "party_lines": null
+    },
+    {
+     "name": "Brian Lambert",
+     "votes": 8730,
+     "party": "LPF",
+     "pct": 2.91,
+     "choice_id": "Brian Lambert",
+     "party_lines": null
+    },
+    {
+     "name": "Salomon Hernandez",
+     "votes": 0,
+     "party": "WRI",
+     "pct": 0.0,
+     "choice_id": "Salomon Hernandez",
+     "party_lines": null
+    },
+    {
+     "name": "Keith Varian",
+     "votes": 0,
+     "party": "WRI",
+     "pct": 0.0,
+     "choice_id": "Keith Varian",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "USR/Representative in Congress, District 15/15",
+   "state": "FL",
+   "title": "Representative in Congress, District 15",
+   "office_type": "federal_house",
+   "district": "15",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 189,
+    "units_total": 189,
+    "pct": 100.0,
+    "text": "189 of 189 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Laurel Lee",
+     "votes": 163177,
+     "party": "REP",
+     "pct": 54.31,
+     "choice_id": "Laurel Lee",
+     "party_lines": null
+    },
+    {
+     "name": "Robert People",
+     "votes": 137258,
+     "party": "DEM",
+     "pct": 45.69,
+     "choice_id": "Robert People",
+     "party_lines": null
+    },
+    {
+     "name": "Angie Boone",
+     "votes": 0,
+     "party": "WRI",
+     "pct": 0.0,
+     "choice_id": "Angie Boone",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "USR/Representative in Congress, District 16/16",
+   "state": "FL",
+   "title": "Representative in Congress, District 16",
+   "office_type": "federal_house",
+   "district": "16",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 213,
+    "units_total": 213,
+    "pct": 100.0,
+    "text": "213 of 213 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Sydney Gruters",
+     "votes": 175486,
+     "party": "REP",
+     "pct": 51.22,
+     "choice_id": "Sydney Gruters",
+     "party_lines": null
+    },
+    {
+     "name": "Kelly Kirschner",
+     "votes": 160870,
+     "party": "DEM",
+     "pct": 46.95,
+     "choice_id": "Kelly Kirschner",
+     "party_lines": null
+    },
+    {
+     "name": "Mark Davis",
+     "votes": 6270,
+     "party": "NPA",
+     "pct": 1.83,
+     "choice_id": "Mark Davis",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "USR/Representative in Congress, District 17/17",
+   "state": "FL",
+   "title": "Representative in Congress, District 17",
+   "office_type": "federal_house",
+   "district": "17",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 146,
+    "units_total": 146,
+    "pct": 100.0,
+    "text": "146 of 146 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Greg Steube",
+     "votes": 209051,
+     "party": "REP",
+     "pct": 58.45,
+     "choice_id": "Greg Steube",
+     "party_lines": null
+    },
+    {
+     "name": "Matthew Montavon",
+     "votes": 143569,
+     "party": "DEM",
+     "pct": 40.14,
+     "choice_id": "Matthew Montavon",
+     "party_lines": null
+    },
+    {
+     "name": "Michael J. Quirk",
+     "votes": 5008,
+     "party": "NPA",
+     "pct": 1.4,
+     "choice_id": "Michael J. Quirk",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "USR/Representative in Congress, District 18/18",
+   "state": "FL",
+   "title": "Representative in Congress, District 18",
+   "office_type": "federal_house",
+   "district": "18",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 190,
+    "units_total": 190,
+    "pct": 100.0,
+    "text": "190 of 190 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Scott Franklin",
+     "votes": 137590,
+     "party": "REP",
+     "pct": 50.35,
+     "choice_id": "Scott Franklin",
+     "party_lines": null
+    },
+    {
+     "name": "Curtis Gibson",
+     "votes": 127564,
+     "party": "DEM",
+     "pct": 46.68,
+     "choice_id": "Curtis Gibson",
+     "party_lines": null
+    },
+    {
+     "name": "Deva Simmons",
+     "votes": 8110,
+     "party": "NPA",
+     "pct": 2.97,
+     "choice_id": "Deva Simmons",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "USR/Representative in Congress, District 19/19",
+   "state": "FL",
+   "title": "Representative in Congress, District 19",
+   "office_type": "federal_house",
+   "district": "19",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 118,
+    "units_total": 118,
+    "pct": 100.0,
+    "text": "118 of 118 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jim Schwartzel",
+     "votes": 198668,
+     "party": "REP",
+     "pct": 61.13,
+     "choice_id": "Jim Schwartzel",
+     "party_lines": null
+    },
+    {
+     "name": "Victor Arias",
+     "votes": 122351,
+     "party": "DEM",
+     "pct": 37.64,
+     "choice_id": "Victor Arias",
+     "party_lines": null
+    },
+    {
+     "name": "Seth Haskin",
+     "votes": 3996,
+     "party": "NPA",
+     "pct": 1.23,
+     "choice_id": "Seth Haskin",
+     "party_lines": null
+    },
+    {
+     "name": "Alexandra Zakhvatayev",
+     "votes": 0,
+     "party": "WRI",
+     "pct": 0.0,
+     "choice_id": "Alexandra Zakhvatayev",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "USR/Representative in Congress, District 20/20",
+   "state": "FL",
+   "title": "Representative in Congress, District 20",
+   "office_type": "federal_house",
+   "district": "20",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 146,
+    "units_total": 148,
+    "pct": 98.6,
+    "text": "146 of 148 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Brent Andersen",
+     "votes": 53290,
+     "party": "REP",
+     "pct": 21.74,
+     "choice_id": "Brent Andersen",
+     "party_lines": null
+    },
+    {
+     "name": "Debbie Wasserman Schultz",
+     "votes": 182251,
+     "party": "DEM",
+     "pct": 74.36,
+     "choice_id": "Debbie Wasserman Schultz",
+     "party_lines": null
+    },
+    {
+     "name": "Kedner Maxime",
+     "votes": 9567,
+     "party": "IND",
+     "pct": 3.9,
+     "choice_id": "Kedner Maxime",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "USR/Representative in Congress, District 21/21",
+   "state": "FL",
+   "title": "Representative in Congress, District 21",
+   "office_type": "federal_house",
+   "district": "21",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 294,
+    "units_total": 310,
+    "pct": 94.8,
+    "text": "294 of 310 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Brian Mast",
+     "votes": 182476,
+     "party": "REP",
+     "pct": 53.98,
+     "choice_id": "Brian Mast",
+     "party_lines": null
+    },
+    {
+     "name": "James T. Martin",
+     "votes": 151203,
+     "party": "DEM",
+     "pct": 44.72,
+     "choice_id": "James T. Martin",
+     "party_lines": null
+    },
+    {
+     "name": "Alexander Cooke",
+     "votes": 4395,
+     "party": "NPA",
+     "pct": 1.3,
+     "choice_id": "Alexander Cooke",
+     "party_lines": null
+    },
+    {
+     "name": "David Fabrikant",
+     "votes": 0,
+     "party": "WRI",
+     "pct": 0.0,
+     "choice_id": "David Fabrikant",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "USR/Representative in Congress, District 22/22",
+   "state": "FL",
+   "title": "Representative in Congress, District 22",
+   "office_type": "federal_house",
+   "district": "22",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 224,
+    "units_total": 234,
+    "pct": 95.7,
+    "text": "224 of 234 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Casey Askar",
+     "votes": 141392,
+     "party": "REP",
+     "pct": 48.13,
+     "choice_id": "Casey Askar",
+     "party_lines": null
+    },
+    {
+     "name": "Pia Dandiya",
+     "votes": 152381,
+     "party": "DEM",
+     "pct": 51.87,
+     "choice_id": "Pia Dandiya",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "USR/Representative in Congress, District 23/23",
+   "state": "FL",
+   "title": "Representative in Congress, District 23",
+   "office_type": "federal_house",
+   "district": "23",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 361,
+    "units_total": 385,
+    "pct": 93.8,
+    "text": "361 of 385 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Deborah Adeimy",
+     "votes": 88208,
+     "party": "REP",
+     "pct": 34.43,
+     "choice_id": "Deborah Adeimy",
+     "party_lines": null
+    },
+    {
+     "name": "Lois Frankel",
+     "votes": 167992,
+     "party": "DEM",
+     "pct": 65.57,
+     "choice_id": "Lois Frankel",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "USR/Representative in Congress, District 24/24",
+   "state": "FL",
+   "title": "Representative in Congress, District 24",
+   "office_type": "federal_house",
+   "district": "24",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 215,
+    "units_total": 220,
+    "pct": 97.7,
+    "text": "215 of 220 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Te Mayonna Brown",
+     "votes": 39252,
+     "party": "REP",
+     "pct": 19.35,
+     "choice_id": "Te Mayonna Brown",
+     "party_lines": null
+    },
+    {
+     "name": "Oliver G. Gilbert",
+     "votes": 163648,
+     "party": "DEM",
+     "pct": 80.65,
+     "choice_id": "Oliver G. Gilbert",
+     "party_lines": null
+    },
+    {
+     "name": "Patricia Gonzalez",
+     "votes": 0,
+     "party": "WRI",
+     "pct": 0.0,
+     "choice_id": "Patricia Gonzalez",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "USR/Representative in Congress, District 25/25",
+   "state": "FL",
+   "title": "Representative in Congress, District 25",
+   "office_type": "federal_house",
+   "district": "25",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 314,
+    "units_total": 324,
+    "pct": 96.9,
+    "text": "314 of 324 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Scott Singer",
+     "votes": 130353,
+     "party": "REP",
+     "pct": 46.66,
+     "choice_id": "Scott Singer",
+     "party_lines": null
+    },
+    {
+     "name": "Jared Moskowitz",
+     "votes": 143140,
+     "party": "DEM",
+     "pct": 51.24,
+     "choice_id": "Jared Moskowitz",
+     "party_lines": null
+    },
+    {
+     "name": "Peter Jassenoff",
+     "votes": 5856,
+     "party": "LPF",
+     "pct": 2.1,
+     "choice_id": "Peter Jassenoff",
+     "party_lines": null
+    },
+    {
+     "name": "Michaelangelo Hamilton",
+     "votes": 0,
+     "party": "WRI",
+     "pct": 0.0,
+     "choice_id": "Michaelangelo Hamilton",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "USR/Representative in Congress, District 26/26",
+   "state": "FL",
+   "title": "Representative in Congress, District 26",
+   "office_type": "federal_house",
+   "district": "26",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 156,
+    "units_total": 159,
+    "pct": 98.1,
+    "text": "156 of 159 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Mario Diaz-Balart",
+     "votes": 114194,
+     "party": "REP",
+     "pct": 49.9,
+     "choice_id": "Mario Diaz-Balart",
+     "party_lines": null
+    },
+    {
+     "name": "Nicole Locklin",
+     "votes": 112320,
+     "party": "DEM",
+     "pct": 49.08,
+     "choice_id": "Nicole Locklin",
+     "party_lines": null
+    },
+    {
+     "name": "Deborah Ann Meidinger Hosey",
+     "votes": 2334,
+     "party": "NPA",
+     "pct": 1.02,
+     "choice_id": "Deborah Ann Meidinger Hosey",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "USR/Representative in Congress, District 27/27",
+   "state": "FL",
+   "title": "Representative in Congress, District 27",
+   "office_type": "federal_house",
+   "district": "27",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 214,
+    "units_total": 219,
+    "pct": 97.7,
+    "text": "214 of 219 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Maria Elvira Salazar",
+     "votes": 123838,
+     "party": "REP",
+     "pct": 50.27,
+     "choice_id": "Maria Elvira Salazar",
+     "party_lines": null
+    },
+    {
+     "name": "Eliott Rodriguez",
+     "votes": 122513,
+     "party": "DEM",
+     "pct": 49.73,
+     "choice_id": "Eliott Rodriguez",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "USR/Representative in Congress, District 28/28",
+   "state": "FL",
+   "title": "Representative in Congress, District 28",
+   "office_type": "federal_house",
+   "district": "28",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 203,
+    "units_total": 207,
+    "pct": 98.1,
+    "text": "203 of 207 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Carlos A. Gimenez",
+     "votes": 124377,
+     "party": "REP",
+     "pct": 52.91,
+     "choice_id": "Carlos A. Gimenez",
+     "party_lines": null
+    },
+    {
+     "name": "Phil Felipe Ehr",
+     "votes": 107274,
+     "party": "DEM",
+     "pct": 45.63,
+     "choice_id": "Phil Felipe Ehr",
+     "party_lines": null
+    },
+    {
+     "name": "Eddy Rojas",
+     "votes": 3425,
+     "party": "NPA",
+     "pct": 1.46,
+     "choice_id": "Eddy Rojas",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "GOV/Governor and Lieutenant Governor",
+   "state": "FL",
+   "title": "Governor and Lieutenant Governor",
+   "office_type": "governor",
+   "district": null,
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5551,
+    "units_total": 5626,
+    "pct": 98.7,
+    "text": "5,551 of 5,626 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Donalds / Avila",
+     "votes": 4118851,
+     "party": "REP",
+     "pct": 50.06,
+     "choice_id": "Donalds / Avila",
+     "party_lines": null
+    },
+    {
+     "name": "Jolly / Graham",
+     "votes": 4004706,
+     "party": "DEM",
+     "pct": 48.67,
+     "choice_id": "Jolly / Graham",
+     "party_lines": null
+    },
+    {
+     "name": "Jewett / Skelly",
+     "votes": 37659,
+     "party": "LPF",
+     "pct": 0.46,
+     "choice_id": "Jewett / Skelly",
+     "party_lines": null
+    },
+    {
+     "name": "Burkett / Coto",
+     "votes": 15169,
+     "party": "NPA",
+     "pct": 0.18,
+     "choice_id": "Burkett / Coto",
+     "party_lines": null
+    },
+    {
+     "name": "Russo / Rodriguez",
+     "votes": 23084,
+     "party": "NPA",
+     "pct": 0.28,
+     "choice_id": "Russo / Rodriguez",
+     "party_lines": null
+    },
+    {
+     "name": "Dimanche / Rojas",
+     "votes": 7542,
+     "party": "NPA",
+     "pct": 0.09,
+     "choice_id": "Dimanche / Rojas",
+     "party_lines": null
+    },
+    {
+     "name": "Abrams / Van Vactor",
+     "votes": 12427,
+     "party": "NPA",
+     "pct": 0.15,
+     "choice_id": "Abrams / Van Vactor",
+     "party_lines": null
+    },
+    {
+     "name": "Datto / Santana",
+     "votes": 8284,
+     "party": "NPA",
+     "pct": 0.1,
+     "choice_id": "Datto / Santana",
+     "party_lines": null
+    },
+    {
+     "name": "Anderson / Nokovich",
+     "votes": 0,
+     "party": "WRI",
+     "pct": 0.0,
+     "choice_id": "Anderson / Nokovich",
+     "party_lines": null
+    },
+    {
+     "name": "Morris / Alaways",
+     "votes": 0,
+     "party": "WRI",
+     "pct": 0.0,
+     "choice_id": "Morris / Alaways",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "ATG/Attorney General",
+   "state": "FL",
+   "title": "Attorney General",
+   "office_type": "attorney_general",
+   "district": null,
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5551,
+    "units_total": 5626,
+    "pct": 98.7,
+    "text": "5,551 of 5,626 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "James Uthmeier",
+     "votes": 4164404,
+     "party": "REP",
+     "pct": 50.98,
+     "choice_id": "James Uthmeier",
+     "party_lines": null
+    },
+    {
+     "name": "Jose Javier Rodriguez",
+     "votes": 4004471,
+     "party": "DEM",
+     "pct": 49.02,
+     "choice_id": "Jose Javier Rodriguez",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "CFO/Chief Financial Officer",
+   "state": "FL",
+   "title": "Chief Financial Officer",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5551,
+    "units_total": 5626,
+    "pct": 98.7,
+    "text": "5,551 of 5,626 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Blaise Ingoglia",
+     "votes": 4137943,
+     "party": "REP",
+     "pct": 50.98,
+     "choice_id": "Blaise Ingoglia",
+     "party_lines": null
+    },
+    {
+     "name": "Annette Taddeo",
+     "votes": 3978264,
+     "party": "DEM",
+     "pct": 49.02,
+     "choice_id": "Annette Taddeo",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "AGR/Commissioner of Agriculture",
+   "state": "FL",
+   "title": "Commissioner of Agriculture",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5551,
+    "units_total": 5626,
+    "pct": 98.7,
+    "text": "5,551 of 5,626 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Wilton Simpson",
+     "votes": 4146955,
+     "party": "REP",
+     "pct": 51.12,
+     "choice_id": "Wilton Simpson",
+     "party_lines": null
+    },
+    {
+     "name": "Joey Mendoza Atkins",
+     "votes": 3964930,
+     "party": "DEM",
+     "pct": 48.88,
+     "choice_id": "Joey Mendoza Atkins",
+     "party_lines": null
+    },
+    {
+     "name": "Kyle KC Gibson",
+     "votes": 0,
+     "party": "WRI",
+     "pct": 0.0,
+     "choice_id": "Kyle KC Gibson",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STS/State Senator, District 2/2",
+   "state": "FL",
+   "title": "State Senator, District 2",
+   "office_type": "state_senate",
+   "district": "2",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 145,
+    "units_total": 145,
+    "pct": 100.0,
+    "text": "145 of 145 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jay Trumbull",
+     "votes": 145305,
+     "party": "REP",
+     "pct": 71.76,
+     "choice_id": "Jay Trumbull",
+     "party_lines": null
+    },
+    {
+     "name": "Lauren Donahoo",
+     "votes": 57177,
+     "party": "DEM",
+     "pct": 28.24,
+     "choice_id": "Lauren Donahoo",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STS/State Senator, District 6/6",
+   "state": "FL",
+   "title": "State Senator, District 6",
+   "office_type": "state_senate",
+   "district": "6",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 156,
+    "units_total": 157,
+    "pct": 99.4,
+    "text": "156 of 157 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jennifer Bradley",
+     "votes": 121772,
+     "party": "REP",
+     "pct": 58.22,
+     "choice_id": "Jennifer Bradley",
+     "party_lines": null
+    },
+    {
+     "name": "Jason Bellamy-Fults",
+     "votes": 85346,
+     "party": "DEM",
+     "pct": 40.81,
+     "choice_id": "Jason Bellamy-Fults",
+     "party_lines": null
+    },
+    {
+     "name": "Joseph Thornton",
+     "votes": 2029,
+     "party": "ASP",
+     "pct": 0.97,
+     "choice_id": "Joseph Thornton",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STS/State Senator, District 8/8",
+   "state": "FL",
+   "title": "State Senator, District 8",
+   "office_type": "state_senate",
+   "district": "8",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 148,
+    "units_total": 148,
+    "pct": 100.0,
+    "text": "148 of 148 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jake Johansson",
+     "votes": 124762,
+     "party": "REP",
+     "pct": 55.53,
+     "choice_id": "Jake Johansson",
+     "party_lines": null
+    },
+    {
+     "name": "Judy M. Ngying",
+     "votes": 95981,
+     "party": "DEM",
+     "pct": 42.72,
+     "choice_id": "Judy M. Ngying",
+     "party_lines": null
+    },
+    {
+     "name": "Gabriel Jude Wozniak",
+     "votes": 3921,
+     "party": "LPF",
+     "pct": 1.75,
+     "choice_id": "Gabriel Jude Wozniak",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STS/State Senator, District 10/10",
+   "state": "FL",
+   "title": "State Senator, District 10",
+   "office_type": "state_senate",
+   "district": "10",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 106,
+    "units_total": 106,
+    "pct": 100.0,
+    "text": "106 of 106 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jason Brodeur",
+     "votes": 98163,
+     "party": "REP",
+     "pct": 44.11,
+     "choice_id": "Jason Brodeur",
+     "party_lines": null
+    },
+    {
+     "name": "John Lowndes",
+     "votes": 124362,
+     "party": "DEM",
+     "pct": 55.89,
+     "choice_id": "John Lowndes",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STS/State Senator, District 12/12",
+   "state": "FL",
+   "title": "State Senator, District 12",
+   "office_type": "state_senate",
+   "district": "12",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 120,
+    "units_total": 120,
+    "pct": 100.0,
+    "text": "120 of 120 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Colleen Burton",
+     "votes": 93924,
+     "party": "REP",
+     "pct": 50.35,
+     "choice_id": "Colleen Burton",
+     "party_lines": null
+    },
+    {
+     "name": "Alfred Reynolds",
+     "votes": 92605,
+     "party": "DEM",
+     "pct": 49.65,
+     "choice_id": "Alfred Reynolds",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STS/State Senator, District 14/14",
+   "state": "FL",
+   "title": "State Senator, District 14",
+   "office_type": "state_senate",
+   "district": "14",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 157,
+    "units_total": 157,
+    "pct": 100.0,
+    "text": "157 of 157 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Josie Tomkow",
+     "votes": 92469,
+     "party": "REP",
+     "pct": 47.76,
+     "choice_id": "Josie Tomkow",
+     "party_lines": null
+    },
+    {
+     "name": "Brian Nathan",
+     "votes": 101132,
+     "party": "DEM",
+     "pct": 52.24,
+     "choice_id": "Brian Nathan",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STS/State Senator, District 18/18",
+   "state": "FL",
+   "title": "State Senator, District 18",
+   "office_type": "state_senate",
+   "district": "18",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 167,
+    "units_total": 167,
+    "pct": 100.0,
+    "text": "167 of 167 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Nick DiCeglie",
+     "votes": 108336,
+     "party": "REP",
+     "pct": 50.88,
+     "choice_id": "Nick DiCeglie",
+     "party_lines": null
+    },
+    {
+     "name": "Karla Kemp",
+     "votes": 104578,
+     "party": "DEM",
+     "pct": 49.12,
+     "choice_id": "Karla Kemp",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STS/State Senator, District 20/20",
+   "state": "FL",
+   "title": "State Senator, District 20",
+   "office_type": "state_senate",
+   "district": "20",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 132,
+    "units_total": 132,
+    "pct": 100.0,
+    "text": "132 of 132 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jim Boyd",
+     "votes": 134430,
+     "party": "REP",
+     "pct": 55.8,
+     "choice_id": "Jim Boyd",
+     "party_lines": null
+    },
+    {
+     "name": "Gerald Baldi",
+     "votes": 106482,
+     "party": "DEM",
+     "pct": 44.2,
+     "choice_id": "Gerald Baldi",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STS/State Senator, District 21/21",
+   "state": "FL",
+   "title": "State Senator, District 21",
+   "office_type": "state_senate",
+   "district": "21",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 125,
+    "units_total": 125,
+    "pct": 100.0,
+    "text": "125 of 125 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Chris Nocco",
+     "votes": 128825,
+     "party": "REP",
+     "pct": 57.73,
+     "choice_id": "Chris Nocco",
+     "party_lines": null
+    },
+    {
+     "name": "Jordan Hensley",
+     "votes": 94341,
+     "party": "DEM",
+     "pct": 42.27,
+     "choice_id": "Jordan Hensley",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STS/State Senator, District 22/22",
+   "state": "FL",
+   "title": "State Senator, District 22",
+   "office_type": "state_senate",
+   "district": "22",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 118,
+    "units_total": 118,
+    "pct": 100.0,
+    "text": "118 of 118 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "James Buchanan",
+     "votes": 146968,
+     "party": "REP",
+     "pct": 55.4,
+     "choice_id": "James Buchanan",
+     "party_lines": null
+    },
+    {
+     "name": "Lew Wasserman",
+     "votes": 109572,
+     "party": "DEM",
+     "pct": 41.3,
+     "choice_id": "Lew Wasserman",
+     "party_lines": null
+    },
+    {
+     "name": "Martin Hyde",
+     "votes": 8749,
+     "party": "NPA",
+     "pct": 3.3,
+     "choice_id": "Martin Hyde",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STS/State Senator, District 24/24",
+   "state": "FL",
+   "title": "State Senator, District 24",
+   "office_type": "state_senate",
+   "district": "24",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 262,
+    "units_total": 279,
+    "pct": 93.9,
+    "text": "262 of 279 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jackie Green",
+     "votes": 54136,
+     "party": "REP",
+     "pct": 35.49,
+     "choice_id": "Jackie Green",
+     "party_lines": null
+    },
+    {
+     "name": "Mack Bernard",
+     "votes": 98423,
+     "party": "DEM",
+     "pct": 64.51,
+     "choice_id": "Mack Bernard",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STS/State Senator, District 26/26",
+   "state": "FL",
+   "title": "State Senator, District 26",
+   "office_type": "state_senate",
+   "district": "26",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 268,
+    "units_total": 286,
+    "pct": 93.7,
+    "text": "268 of 286 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Rick Roth",
+     "votes": 97211,
+     "party": "REP",
+     "pct": 42.03,
+     "choice_id": "Rick Roth",
+     "party_lines": null
+    },
+    {
+     "name": "David Silvers",
+     "votes": 134104,
+     "party": "DEM",
+     "pct": 57.97,
+     "choice_id": "David Silvers",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STS/State Senator, District 28/28",
+   "state": "FL",
+   "title": "State Senator, District 28",
+   "office_type": "state_senate",
+   "district": "28",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 95,
+    "units_total": 95,
+    "pct": 100.0,
+    "text": "95 of 95 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Lauren Uhlich Melo",
+     "votes": 142378,
+     "party": "REP",
+     "pct": 62.22,
+     "choice_id": "Lauren Uhlich Melo",
+     "party_lines": null
+    },
+    {
+     "name": "David Silverberg",
+     "votes": 86454,
+     "party": "DEM",
+     "pct": 37.78,
+     "choice_id": "David Silverberg",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STS/State Senator, District 30/30",
+   "state": "FL",
+   "title": "State Senator, District 30",
+   "office_type": "state_senate",
+   "district": "30",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 106,
+    "units_total": 110,
+    "pct": 96.4,
+    "text": "106 of 110 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Hector Rivera",
+     "votes": 67897,
+     "party": "REP",
+     "pct": 37.16,
+     "choice_id": "Hector Rivera",
+     "party_lines": null
+    },
+    {
+     "name": "Lauren Book",
+     "votes": 114813,
+     "party": "DEM",
+     "pct": 62.84,
+     "choice_id": "Lauren Book",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STS/State Senator, District 32/32",
+   "state": "FL",
+   "title": "State Senator, District 32",
+   "office_type": "state_senate",
+   "district": "32",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 98,
+    "units_total": 99,
+    "pct": 99.0,
+    "text": "98 of 99 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Rosalind Osgood",
+     "votes": 142506,
+     "party": "DEM",
+     "pct": 86.12,
+     "choice_id": "Rosalind Osgood",
+     "party_lines": null
+    },
+    {
+     "name": "Crescente Furnaguera",
+     "votes": 22973,
+     "party": "NPA",
+     "pct": 13.88,
+     "choice_id": "Crescente Furnaguera",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STS/State Senator, District 34/34",
+   "state": "FL",
+   "title": "State Senator, District 34",
+   "office_type": "state_senate",
+   "district": "34",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 163,
+    "units_total": 167,
+    "pct": 97.6,
+    "text": "163 of 167 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Elizabeth Jeanty",
+     "votes": 30780,
+     "party": "REP",
+     "pct": 21.19,
+     "choice_id": "Elizabeth Jeanty",
+     "party_lines": null
+    },
+    {
+     "name": "Ashley Viola Gantt",
+     "votes": 114491,
+     "party": "DEM",
+     "pct": 78.81,
+     "choice_id": "Ashley Viola Gantt",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STS/State Senator, District 36/36",
+   "state": "FL",
+   "title": "State Senator, District 36",
+   "office_type": "state_senate",
+   "district": "36",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 137,
+    "units_total": 140,
+    "pct": 97.9,
+    "text": "137 of 140 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Ileana Garcia",
+     "votes": 70707,
+     "party": "REP",
+     "pct": 50.64,
+     "choice_id": "Ileana Garcia",
+     "party_lines": null
+    },
+    {
+     "name": "George Lavín",
+     "votes": 68906,
+     "party": "DEM",
+     "pct": 49.36,
+     "choice_id": "George Lavín",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STS/State Senator, District 38/38",
+   "state": "FL",
+   "title": "State Senator, District 38",
+   "office_type": "state_senate",
+   "district": "38",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 158,
+    "units_total": 162,
+    "pct": 97.5,
+    "text": "158 of 162 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Alexis Maria Calatayud",
+     "votes": 92538,
+     "party": "REP",
+     "pct": 49.54,
+     "choice_id": "Alexis Maria Calatayud",
+     "party_lines": null
+    },
+    {
+     "name": "Richard Lamondin",
+     "votes": 90884,
+     "party": "DEM",
+     "pct": 48.66,
+     "choice_id": "Richard Lamondin",
+     "party_lines": null
+    },
+    {
+     "name": "Jeffrey Doc Solomon",
+     "votes": 3356,
+     "party": "NPA",
+     "pct": 1.8,
+     "choice_id": "Jeffrey Doc Solomon",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STS/State Senator, District 40/40",
+   "state": "FL",
+   "title": "State Senator, District 40",
+   "office_type": "state_senate",
+   "district": "40",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 145,
+    "units_total": 148,
+    "pct": 98.0,
+    "text": "145 of 148 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Ana Maria Rodriguez",
+     "votes": 94842,
+     "party": "REP",
+     "pct": 55.24,
+     "choice_id": "Ana Maria Rodriguez",
+     "party_lines": null
+    },
+    {
+     "name": "Jose Antonio Stoute",
+     "votes": 74985,
+     "party": "DEM",
+     "pct": 43.68,
+     "choice_id": "Jose Antonio Stoute",
+     "party_lines": null
+    },
+    {
+     "name": "Ramiro Orta",
+     "votes": 1859,
+     "party": "NPA",
+     "pct": 1.08,
+     "choice_id": "Ramiro Orta",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 1/1",
+   "state": "FL",
+   "title": "State Representative, District 1",
+   "office_type": "state_house",
+   "district": "1",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 40,
+    "units_total": 40,
+    "pct": 100.0,
+    "text": "40 of 40 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Michelle Salzman",
+     "votes": 37804,
+     "party": "REP",
+     "pct": 59.63,
+     "choice_id": "Michelle Salzman",
+     "party_lines": null
+    },
+    {
+     "name": "Francesca Yabraian",
+     "votes": 25589,
+     "party": "DEM",
+     "pct": 40.37,
+     "choice_id": "Francesca Yabraian",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 2/2",
+   "state": "FL",
+   "title": "State Representative, District 2",
+   "office_type": "state_house",
+   "district": "2",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 55,
+    "units_total": 55,
+    "pct": 100.0,
+    "text": "55 of 55 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jon Fay",
+     "votes": 38547,
+     "party": "REP",
+     "pct": 56.8,
+     "choice_id": "Jon Fay",
+     "party_lines": null
+    },
+    {
+     "name": "Johnny Austin Thompson",
+     "votes": 29317,
+     "party": "DEM",
+     "pct": 43.2,
+     "choice_id": "Johnny Austin Thompson",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 3/3",
+   "state": "FL",
+   "title": "State Representative, District 3",
+   "office_type": "state_house",
+   "district": "3",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 44,
+    "units_total": 44,
+    "pct": 100.0,
+    "text": "44 of 44 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Nathan Boyles",
+     "votes": 49676,
+     "party": "REP",
+     "pct": 72.89,
+     "choice_id": "Nathan Boyles",
+     "party_lines": null
+    },
+    {
+     "name": "Ingrid D. Wadsworth",
+     "votes": 18477,
+     "party": "DEM",
+     "pct": 27.11,
+     "choice_id": "Ingrid D. Wadsworth",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 4/4",
+   "state": "FL",
+   "title": "State Representative, District 4",
+   "office_type": "state_house",
+   "district": "4",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 47,
+    "units_total": 47,
+    "pct": 100.0,
+    "text": "47 of 47 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Patt Maney",
+     "votes": 43524,
+     "party": "REP",
+     "pct": 67.9,
+     "choice_id": "Patt Maney",
+     "party_lines": null
+    },
+    {
+     "name": "John Peter Emerling",
+     "votes": 20577,
+     "party": "DEM",
+     "pct": 32.1,
+     "choice_id": "John Peter Emerling",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 5/5",
+   "state": "FL",
+   "title": "State Representative, District 5",
+   "office_type": "state_house",
+   "district": "5",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 70,
+    "units_total": 70,
+    "pct": 100.0,
+    "text": "70 of 70 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Shane Abbott",
+     "votes": 53977,
+     "party": "REP",
+     "pct": 77.53,
+     "choice_id": "Shane Abbott",
+     "party_lines": null
+    },
+    {
+     "name": "Alex Finney",
+     "votes": 15640,
+     "party": "DEM",
+     "pct": 22.47,
+     "choice_id": "Alex Finney",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 6/6",
+   "state": "FL",
+   "title": "State Representative, District 6",
+   "office_type": "state_house",
+   "district": "6",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 30,
+    "units_total": 30,
+    "pct": 100.0,
+    "text": "30 of 30 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Tricia Berry",
+     "votes": 48328,
+     "party": "REP",
+     "pct": 69.67,
+     "choice_id": "Tricia Berry",
+     "party_lines": null
+    },
+    {
+     "name": "Stephanie Lyn Leonard",
+     "votes": 21037,
+     "party": "DEM",
+     "pct": 30.33,
+     "choice_id": "Stephanie Lyn Leonard",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 9/9",
+   "state": "FL",
+   "title": "State Representative, District 9",
+   "office_type": "state_house",
+   "district": "9",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 97,
+    "units_total": 97,
+    "pct": 100.0,
+    "text": "97 of 97 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Tracy Robinson",
+     "votes": 32632,
+     "party": "REP",
+     "pct": 36.62,
+     "choice_id": "Tracy Robinson",
+     "party_lines": null
+    },
+    {
+     "name": "Allison Tant",
+     "votes": 56485,
+     "party": "DEM",
+     "pct": 63.38,
+     "choice_id": "Allison Tant",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 10/10",
+   "state": "FL",
+   "title": "State Representative, District 10",
+   "office_type": "state_house",
+   "district": "10",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 72,
+    "units_total": 73,
+    "pct": 98.6,
+    "text": "72 of 73 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Marshall Rawson",
+     "votes": 43074,
+     "party": "REP",
+     "pct": 68.26,
+     "choice_id": "Marshall Rawson",
+     "party_lines": null
+    },
+    {
+     "name": "Merrillee Malwitz Jipson",
+     "votes": 20030,
+     "party": "DEM",
+     "pct": 31.74,
+     "choice_id": "Merrillee Malwitz Jipson",
+     "party_lines": null
+    },
+    {
+     "name": "James Hunter Batley",
+     "votes": 0,
+     "party": "WRI",
+     "pct": 0.0,
+     "choice_id": "James Hunter Batley",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 12/12",
+   "state": "FL",
+   "title": "State Representative, District 12",
+   "office_type": "state_house",
+   "district": "12",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 29,
+    "units_total": 29,
+    "pct": 100.0,
+    "text": "29 of 29 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Terrance Freeman",
+     "votes": 32660,
+     "party": "REP",
+     "pct": 51.78,
+     "choice_id": "Terrance Freeman",
+     "party_lines": null
+    },
+    {
+     "name": "Benjamin Sandlin",
+     "votes": 30415,
+     "party": "DEM",
+     "pct": 48.22,
+     "choice_id": "Benjamin Sandlin",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 15/15",
+   "state": "FL",
+   "title": "State Representative, District 15",
+   "office_type": "state_house",
+   "district": "15",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 38,
+    "units_total": 38,
+    "pct": 100.0,
+    "text": "38 of 38 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Dean Black",
+     "votes": 54548,
+     "party": "REP",
+     "pct": 61.78,
+     "choice_id": "Dean Black",
+     "party_lines": null
+    },
+    {
+     "name": "Chadd Charland",
+     "votes": 33753,
+     "party": "NPA",
+     "pct": 38.22,
+     "choice_id": "Chadd Charland",
+     "party_lines": null
+    },
+    {
+     "name": "Lloyd Caulker",
+     "votes": 0,
+     "party": "WRI",
+     "pct": 0.0,
+     "choice_id": "Lloyd Caulker",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 17/17",
+   "state": "FL",
+   "title": "State Representative, District 17",
+   "office_type": "state_house",
+   "district": "17",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 29,
+    "units_total": 29,
+    "pct": 100.0,
+    "text": "29 of 29 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jessica Baker",
+     "votes": 34747,
+     "party": "REP",
+     "pct": 50.76,
+     "choice_id": "Jessica Baker",
+     "party_lines": null
+    },
+    {
+     "name": "Jacob Guerrero",
+     "votes": 33707,
+     "party": "DEM",
+     "pct": 49.24,
+     "choice_id": "Jacob Guerrero",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 18/18",
+   "state": "FL",
+   "title": "State Representative, District 18",
+   "office_type": "state_house",
+   "district": "18",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 34,
+    "units_total": 37,
+    "pct": 91.9,
+    "text": "34 of 37 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Kim Kendall",
+     "votes": 66712,
+     "party": "REP",
+     "pct": 65.03,
+     "choice_id": "Kim Kendall",
+     "party_lines": null
+    },
+    {
+     "name": "Art Stresing",
+     "votes": 35872,
+     "party": "DEM",
+     "pct": 34.97,
+     "choice_id": "Art Stresing",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 19/19",
+   "state": "FL",
+   "title": "State Representative, District 19",
+   "office_type": "state_house",
+   "district": "19",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 37,
+    "pct": 97.3,
+    "text": "36 of 37 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Sam Greco",
+     "votes": 54263,
+     "party": "REP",
+     "pct": 58.56,
+     "choice_id": "Sam Greco",
+     "party_lines": null
+    },
+    {
+     "name": "Suzanna Pavelle",
+     "votes": 38394,
+     "party": "DEM",
+     "pct": 41.44,
+     "choice_id": "Suzanna Pavelle",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 20/20",
+   "state": "FL",
+   "title": "State Representative, District 20",
+   "office_type": "state_house",
+   "district": "20",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 72,
+    "units_total": 73,
+    "pct": 98.6,
+    "text": "72 of 73 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Judson Sapp",
+     "votes": 51641,
+     "party": "REP",
+     "pct": 70.62,
+     "choice_id": "Judson Sapp",
+     "party_lines": null
+    },
+    {
+     "name": "Lee Butler",
+     "votes": 21482,
+     "party": "DEM",
+     "pct": 29.38,
+     "choice_id": "Lee Butler",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 22/22",
+   "state": "FL",
+   "title": "State Representative, District 22",
+   "office_type": "state_house",
+   "district": "22",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 48,
+    "units_total": 49,
+    "pct": 98.0,
+    "text": "48 of 49 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Chad Johnson",
+     "votes": 38313,
+     "party": "REP",
+     "pct": 48.67,
+     "choice_id": "Chad Johnson",
+     "party_lines": null
+    },
+    {
+     "name": "Amy Trask",
+     "votes": 40402,
+     "party": "DEM",
+     "pct": 51.33,
+     "choice_id": "Amy Trask",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 23/23",
+   "state": "FL",
+   "title": "State Representative, District 23",
+   "office_type": "state_house",
+   "district": "23",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 37,
+    "units_total": 37,
+    "pct": 100.0,
+    "text": "37 of 37 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "J.J. Grow",
+     "votes": 61262,
+     "party": "REP",
+     "pct": 71.36,
+     "choice_id": "J.J. Grow",
+     "party_lines": null
+    },
+    {
+     "name": "Mark Leland Baker",
+     "votes": 24589,
+     "party": "DEM",
+     "pct": 28.64,
+     "choice_id": "Mark Leland Baker",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 25/25",
+   "state": "FL",
+   "title": "State Representative, District 25",
+   "office_type": "state_house",
+   "district": "25",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 40,
+    "units_total": 40,
+    "pct": 100.0,
+    "text": "40 of 40 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Taylor Yarkosky",
+     "votes": 44370,
+     "party": "REP",
+     "pct": 51.63,
+     "choice_id": "Taylor Yarkosky",
+     "party_lines": null
+    },
+    {
+     "name": "Farmer Banks Helfrich",
+     "votes": 41573,
+     "party": "DEM",
+     "pct": 48.37,
+     "choice_id": "Farmer Banks Helfrich",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 26/26",
+   "state": "FL",
+   "title": "State Representative, District 26",
+   "office_type": "state_house",
+   "district": "26",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 46,
+    "units_total": 46,
+    "pct": 100.0,
+    "text": "46 of 46 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Nan Cobb",
+     "votes": 47038,
+     "party": "REP",
+     "pct": 61.43,
+     "choice_id": "Nan Cobb",
+     "party_lines": null
+    },
+    {
+     "name": "Robyn Elaine Lawrence",
+     "votes": 29532,
+     "party": "DEM",
+     "pct": 38.57,
+     "choice_id": "Robyn Elaine Lawrence",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 27/27",
+   "state": "FL",
+   "title": "State Representative, District 27",
+   "office_type": "state_house",
+   "district": "27",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 53,
+    "units_total": 53,
+    "pct": 100.0,
+    "text": "53 of 53 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Richard Gentry",
+     "votes": 50840,
+     "party": "REP",
+     "pct": 64.93,
+     "choice_id": "Richard Gentry",
+     "party_lines": null
+    },
+    {
+     "name": "Andy Ferrari",
+     "votes": 27465,
+     "party": "DEM",
+     "pct": 35.07,
+     "choice_id": "Andy Ferrari",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 28/28",
+   "state": "FL",
+   "title": "State Representative, District 28",
+   "office_type": "state_house",
+   "district": "28",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 64,
+    "units_total": 64,
+    "pct": 100.0,
+    "text": "64 of 64 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Bill Partington",
+     "votes": 41090,
+     "party": "REP",
+     "pct": 55.68,
+     "choice_id": "Bill Partington",
+     "party_lines": null
+    },
+    {
+     "name": "Sammy Jackson",
+     "votes": 31333,
+     "party": "DEM",
+     "pct": 42.46,
+     "choice_id": "Sammy Jackson",
+     "party_lines": null
+    },
+    {
+     "name": "Joseph Joe Hannoush",
+     "votes": 1368,
+     "party": "LPF",
+     "pct": 1.85,
+     "choice_id": "Joseph Joe Hannoush",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 29/29",
+   "state": "FL",
+   "title": "State Representative, District 29",
+   "office_type": "state_house",
+   "district": "29",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 39,
+    "units_total": 39,
+    "pct": 100.0,
+    "text": "39 of 39 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Webster Barnaby",
+     "votes": 35074,
+     "party": "REP",
+     "pct": 51.48,
+     "choice_id": "Webster Barnaby",
+     "party_lines": null
+    },
+    {
+     "name": "Don Kanfer",
+     "votes": 33053,
+     "party": "DEM",
+     "pct": 48.52,
+     "choice_id": "Don Kanfer",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 30/30",
+   "state": "FL",
+   "title": "State Representative, District 30",
+   "office_type": "state_house",
+   "district": "30",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 44,
+    "units_total": 44,
+    "pct": 100.0,
+    "text": "44 of 44 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Chase Tramont",
+     "votes": 51192,
+     "party": "REP",
+     "pct": 62.41,
+     "choice_id": "Chase Tramont",
+     "party_lines": null
+    },
+    {
+     "name": "Edwin Munoz",
+     "votes": 30830,
+     "party": "DEM",
+     "pct": 37.59,
+     "choice_id": "Edwin Munoz",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 31/31",
+   "state": "FL",
+   "title": "State Representative, District 31",
+   "office_type": "state_house",
+   "district": "31",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 53,
+    "units_total": 53,
+    "pct": 100.0,
+    "text": "53 of 53 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Matt Woodside",
+     "votes": 46318,
+     "party": "REP",
+     "pct": 59.89,
+     "choice_id": "Matt Woodside",
+     "party_lines": null
+    },
+    {
+     "name": "Daniel Lewis Cicirelli",
+     "votes": 31016,
+     "party": "DEM",
+     "pct": 40.11,
+     "choice_id": "Daniel Lewis Cicirelli",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 32/32",
+   "state": "FL",
+   "title": "State Representative, District 32",
+   "office_type": "state_house",
+   "district": "32",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 54,
+    "units_total": 54,
+    "pct": 100.0,
+    "text": "54 of 54 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Brian Hodgers",
+     "votes": 49205,
+     "party": "REP",
+     "pct": 57.92,
+     "choice_id": "Brian Hodgers",
+     "party_lines": null
+    },
+    {
+     "name": "Juan J. Hinojosa",
+     "votes": 35752,
+     "party": "DEM",
+     "pct": 42.08,
+     "choice_id": "Juan J. Hinojosa",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 33/33",
+   "state": "FL",
+   "title": "State Representative, District 33",
+   "office_type": "state_house",
+   "district": "33",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 33,
+    "units_total": 33,
+    "pct": 100.0,
+    "text": "33 of 33 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Monique Miller",
+     "votes": 35694,
+     "party": "REP",
+     "pct": 50.06,
+     "choice_id": "Monique Miller",
+     "party_lines": null
+    },
+    {
+     "name": "Daniel R. McDow",
+     "votes": 35603,
+     "party": "DEM",
+     "pct": 49.94,
+     "choice_id": "Daniel R. McDow",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 34/34",
+   "state": "FL",
+   "title": "State Representative, District 34",
+   "office_type": "state_house",
+   "district": "34",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 42,
+    "units_total": 42,
+    "pct": 100.0,
+    "text": "42 of 42 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Robert Brackett",
+     "votes": 54885,
+     "party": "REP",
+     "pct": 63.04,
+     "choice_id": "Robert Brackett",
+     "party_lines": null
+    },
+    {
+     "name": "Jordyn Guadalupe Balderas",
+     "votes": 32180,
+     "party": "DEM",
+     "pct": 36.96,
+     "choice_id": "Jordyn Guadalupe Balderas",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 35/35",
+   "state": "FL",
+   "title": "State Representative, District 35",
+   "office_type": "state_house",
+   "district": "35",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 55,
+    "units_total": 55,
+    "pct": 100.0,
+    "text": "55 of 55 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Erika Booth",
+     "votes": 31849,
+     "party": "REP",
+     "pct": 43.99,
+     "choice_id": "Erika Booth",
+     "party_lines": null
+    },
+    {
+     "name": "Eric Gray",
+     "votes": 40556,
+     "party": "DEM",
+     "pct": 56.01,
+     "choice_id": "Eric Gray",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 36/36",
+   "state": "FL",
+   "title": "State Representative, District 36",
+   "office_type": "state_house",
+   "district": "36",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 29,
+    "units_total": 29,
+    "pct": 100.0,
+    "text": "29 of 29 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Rachel Plakon",
+     "votes": 31390,
+     "party": "REP",
+     "pct": 45.33,
+     "choice_id": "Rachel Plakon",
+     "party_lines": null
+    },
+    {
+     "name": "Darryl Block",
+     "votes": 37855,
+     "party": "DEM",
+     "pct": 54.67,
+     "choice_id": "Darryl Block",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 37/37",
+   "state": "FL",
+   "title": "State Representative, District 37",
+   "office_type": "state_house",
+   "district": "37",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 37,
+    "units_total": 37,
+    "pct": 100.0,
+    "text": "37 of 37 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Robert Prater",
+     "votes": 23957,
+     "party": "REP",
+     "pct": 41.31,
+     "choice_id": "Robert Prater",
+     "party_lines": null
+    },
+    {
+     "name": "Jane Aman",
+     "votes": 34032,
+     "party": "DEM",
+     "pct": 58.69,
+     "choice_id": "Jane Aman",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 38/38",
+   "state": "FL",
+   "title": "State Representative, District 38",
+   "office_type": "state_house",
+   "district": "38",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 30,
+    "units_total": 30,
+    "pct": 100.0,
+    "text": "30 of 30 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Emily Duda Buckley",
+     "votes": 30339,
+     "party": "REP",
+     "pct": 43.81,
+     "choice_id": "Emily Duda Buckley",
+     "party_lines": null
+    },
+    {
+     "name": "Nik Dean",
+     "votes": 38911,
+     "party": "DEM",
+     "pct": 56.19,
+     "choice_id": "Nik Dean",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 39/39",
+   "state": "FL",
+   "title": "State Representative, District 39",
+   "office_type": "state_house",
+   "district": "39",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 38,
+    "units_total": 38,
+    "pct": 100.0,
+    "text": "38 of 38 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Doug Bankson",
+     "votes": 32317,
+     "party": "REP",
+     "pct": 44.62,
+     "choice_id": "Doug Bankson",
+     "party_lines": null
+    },
+    {
+     "name": "Jarod Fox",
+     "votes": 40113,
+     "party": "DEM",
+     "pct": 55.38,
+     "choice_id": "Jarod Fox",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 40/40",
+   "state": "FL",
+   "title": "State Representative, District 40",
+   "office_type": "state_house",
+   "district": "40",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 34,
+    "units_total": 34,
+    "pct": 100.0,
+    "text": "34 of 34 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Tuan Le",
+     "votes": 12858,
+     "party": "REP",
+     "pct": 24.88,
+     "choice_id": "Tuan Le",
+     "party_lines": null
+    },
+    {
+     "name": "Ra'Shon Young",
+     "votes": 38829,
+     "party": "DEM",
+     "pct": 75.12,
+     "choice_id": "Ra'Shon Young",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 42/42",
+   "state": "FL",
+   "title": "State Representative, District 42",
+   "office_type": "state_house",
+   "district": "42",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 54,
+    "units_total": 54,
+    "pct": 100.0,
+    "text": "54 of 54 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Bonnie Jackson",
+     "votes": 29511,
+     "party": "REP",
+     "pct": 37.63,
+     "choice_id": "Bonnie Jackson",
+     "party_lines": null
+    },
+    {
+     "name": "Felipe Sousa Lazaballet",
+     "votes": 48904,
+     "party": "DEM",
+     "pct": 62.37,
+     "choice_id": "Felipe Sousa Lazaballet",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 43/43",
+   "state": "FL",
+   "title": "State Representative, District 43",
+   "office_type": "state_house",
+   "district": "43",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 36,
+    "pct": 100.0,
+    "text": "36 of 36 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jorge Malavet",
+     "votes": 15955,
+     "party": "REP",
+     "pct": 33.89,
+     "choice_id": "Jorge Malavet",
+     "party_lines": null
+    },
+    {
+     "name": "Samuel Vilchez Santiago",
+     "votes": 31130,
+     "party": "DEM",
+     "pct": 66.11,
+     "choice_id": "Samuel Vilchez Santiago",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 45/45",
+   "state": "FL",
+   "title": "State Representative, District 45",
+   "office_type": "state_house",
+   "district": "45",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 45,
+    "units_total": 45,
+    "pct": 100.0,
+    "text": "45 of 45 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Erin Huntley",
+     "votes": 34497,
+     "party": "REP",
+     "pct": 44.93,
+     "choice_id": "Erin Huntley",
+     "party_lines": null
+    },
+    {
+     "name": "Leonard Spencer",
+     "votes": 42288,
+     "party": "DEM",
+     "pct": 55.07,
+     "choice_id": "Leonard Spencer",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 46/46",
+   "state": "FL",
+   "title": "State Representative, District 46",
+   "office_type": "state_house",
+   "district": "46",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 51,
+    "units_total": 51,
+    "pct": 100.0,
+    "text": "51 of 51 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Michael Cruz",
+     "votes": 13617,
+     "party": "REP",
+     "pct": 30.35,
+     "choice_id": "Michael Cruz",
+     "party_lines": null
+    },
+    {
+     "name": "Jose Alvarez",
+     "votes": 30388,
+     "party": "DEM",
+     "pct": 67.73,
+     "choice_id": "Jose Alvarez",
+     "party_lines": null
+    },
+    {
+     "name": "Ivan A. Rivera",
+     "votes": 859,
+     "party": "NPA",
+     "pct": 1.91,
+     "choice_id": "Ivan A. Rivera",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 48/48",
+   "state": "FL",
+   "title": "State Representative, District 48",
+   "office_type": "state_house",
+   "district": "48",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 53,
+    "units_total": 53,
+    "pct": 100.0,
+    "text": "53 of 53 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jonathan Albert",
+     "votes": 34486,
+     "party": "REP",
+     "pct": 51.71,
+     "choice_id": "Jonathan Albert",
+     "party_lines": null
+    },
+    {
+     "name": "Alethea Pugh",
+     "votes": 32204,
+     "party": "DEM",
+     "pct": 48.29,
+     "choice_id": "Alethea Pugh",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 49/49",
+   "state": "FL",
+   "title": "State Representative, District 49",
+   "office_type": "state_house",
+   "district": "49",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 44,
+    "units_total": 44,
+    "pct": 100.0,
+    "text": "44 of 44 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jennifer Kincart Jonsson",
+     "votes": 35178,
+     "party": "REP",
+     "pct": 59.55,
+     "choice_id": "Jennifer Kincart Jonsson",
+     "party_lines": null
+    },
+    {
+     "name": "Robert Anzalone",
+     "votes": 23899,
+     "party": "DEM",
+     "pct": 40.45,
+     "choice_id": "Robert Anzalone",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 50/50",
+   "state": "FL",
+   "title": "State Representative, District 50",
+   "office_type": "state_house",
+   "district": "50",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 43,
+    "units_total": 43,
+    "pct": 100.0,
+    "text": "43 of 43 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jennifer Canady",
+     "votes": 32093,
+     "party": "REP",
+     "pct": 54.35,
+     "choice_id": "Jennifer Canady",
+     "party_lines": null
+    },
+    {
+     "name": "Ricky Santiago",
+     "votes": 25780,
+     "party": "DEM",
+     "pct": 43.66,
+     "choice_id": "Ricky Santiago",
+     "party_lines": null
+    },
+    {
+     "name": "Jarvis Washington",
+     "votes": 1180,
+     "party": "NPA",
+     "pct": 2.0,
+     "choice_id": "Jarvis Washington",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 51/51",
+   "state": "FL",
+   "title": "State Representative, District 51",
+   "office_type": "state_house",
+   "district": "51",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 37,
+    "units_total": 37,
+    "pct": 100.0,
+    "text": "37 of 37 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Hilary Holley",
+     "votes": 33263,
+     "party": "REP",
+     "pct": 47.84,
+     "choice_id": "Hilary Holley",
+     "party_lines": null
+    },
+    {
+     "name": "Octavio E. Hernandez",
+     "votes": 36266,
+     "party": "DEM",
+     "pct": 52.16,
+     "choice_id": "Octavio E. Hernandez",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 52/52",
+   "state": "FL",
+   "title": "State Representative, District 52",
+   "office_type": "state_house",
+   "district": "52",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 41,
+    "units_total": 41,
+    "pct": 100.0,
+    "text": "41 of 41 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Samantha Scott",
+     "votes": 80376,
+     "party": "REP",
+     "pct": 69.88,
+     "choice_id": "Samantha Scott",
+     "party_lines": null
+    },
+    {
+     "name": "Pamala Kaye Bivins",
+     "votes": 34640,
+     "party": "DEM",
+     "pct": 30.12,
+     "choice_id": "Pamala Kaye Bivins",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 53/53",
+   "state": "FL",
+   "title": "State Representative, District 53",
+   "office_type": "state_house",
+   "district": "53",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 31,
+    "units_total": 31,
+    "pct": 100.0,
+    "text": "31 of 31 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Brian Hawkins",
+     "votes": 44342,
+     "party": "REP",
+     "pct": 62.36,
+     "choice_id": "Brian Hawkins",
+     "party_lines": null
+    },
+    {
+     "name": "Tony Claude",
+     "votes": 25586,
+     "party": "DEM",
+     "pct": 35.98,
+     "choice_id": "Tony Claude",
+     "party_lines": null
+    },
+    {
+     "name": "Christopher Anger",
+     "votes": 1183,
+     "party": "CPF",
+     "pct": 1.66,
+     "choice_id": "Christopher Anger",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 55/55",
+   "state": "FL",
+   "title": "State Representative, District 55",
+   "office_type": "state_house",
+   "district": "55",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 38,
+    "units_total": 38,
+    "pct": 100.0,
+    "text": "38 of 38 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Walter Price",
+     "votes": 50741,
+     "party": "REP",
+     "pct": 59.13,
+     "choice_id": "Walter Price",
+     "party_lines": null
+    },
+    {
+     "name": "Zach Funkhouser",
+     "votes": 35072,
+     "party": "DEM",
+     "pct": 40.87,
+     "choice_id": "Zach Funkhouser",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 56/56",
+   "state": "FL",
+   "title": "State Representative, District 56",
+   "office_type": "state_house",
+   "district": "56",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 31,
+    "units_total": 31,
+    "pct": 100.0,
+    "text": "31 of 31 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Brad Yeager",
+     "votes": 32180,
+     "party": "REP",
+     "pct": 58.79,
+     "choice_id": "Brad Yeager",
+     "party_lines": null
+    },
+    {
+     "name": "Jose Freites",
+     "votes": 22553,
+     "party": "DEM",
+     "pct": 41.21,
+     "choice_id": "Jose Freites",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 57/57",
+   "state": "FL",
+   "title": "State Representative, District 57",
+   "office_type": "state_house",
+   "district": "57",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 46,
+    "units_total": 46,
+    "pct": 100.0,
+    "text": "46 of 46 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Adam C. Anderson",
+     "votes": 46960,
+     "party": "REP",
+     "pct": 55.33,
+     "choice_id": "Adam C. Anderson",
+     "party_lines": null
+    },
+    {
+     "name": "Wendy Hoy",
+     "votes": 37905,
+     "party": "DEM",
+     "pct": 44.67,
+     "choice_id": "Wendy Hoy",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 58/58",
+   "state": "FL",
+   "title": "State Representative, District 58",
+   "office_type": "state_house",
+   "district": "58",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 50,
+    "units_total": 50,
+    "pct": 100.0,
+    "text": "50 of 50 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Kimberly Kim Berfield",
+     "votes": 38989,
+     "party": "REP",
+     "pct": 53.26,
+     "choice_id": "Kimberly Kim Berfield",
+     "party_lines": null
+    },
+    {
+     "name": "Bryan Beckman",
+     "votes": 34217,
+     "party": "DEM",
+     "pct": 46.74,
+     "choice_id": "Bryan Beckman",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 59/59",
+   "state": "FL",
+   "title": "State Representative, District 59",
+   "office_type": "state_house",
+   "district": "59",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 52,
+    "units_total": 52,
+    "pct": 100.0,
+    "text": "52 of 52 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Berny Jacques",
+     "votes": 36062,
+     "party": "REP",
+     "pct": 53.49,
+     "choice_id": "Berny Jacques",
+     "party_lines": null
+    },
+    {
+     "name": "Susan Rochelle Leff",
+     "votes": 31355,
+     "party": "DEM",
+     "pct": 46.51,
+     "choice_id": "Susan Rochelle Leff",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 60/60",
+   "state": "FL",
+   "title": "State Representative, District 60",
+   "office_type": "state_house",
+   "district": "60",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 48,
+    "units_total": 48,
+    "pct": 100.0,
+    "text": "48 of 48 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Melissa Rutland",
+     "votes": 28571,
+     "party": "REP",
+     "pct": 41.59,
+     "choice_id": "Melissa Rutland",
+     "party_lines": null
+    },
+    {
+     "name": "Lindsay Polega-Quigley",
+     "votes": 40134,
+     "party": "DEM",
+     "pct": 58.41,
+     "choice_id": "Lindsay Polega-Quigley",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 61/61",
+   "state": "FL",
+   "title": "State Representative, District 61",
+   "office_type": "state_house",
+   "district": "61",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 65,
+    "units_total": 65,
+    "pct": 100.0,
+    "text": "65 of 65 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Linda Chaney",
+     "votes": 39057,
+     "party": "REP",
+     "pct": 51.68,
+     "choice_id": "Linda Chaney",
+     "party_lines": null
+    },
+    {
+     "name": "May Thach",
+     "votes": 36516,
+     "party": "DEM",
+     "pct": 48.32,
+     "choice_id": "May Thach",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 64/64",
+   "state": "FL",
+   "title": "State Representative, District 64",
+   "office_type": "state_house",
+   "district": "64",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 45,
+    "units_total": 45,
+    "pct": 100.0,
+    "text": "45 of 45 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Dan Weldon",
+     "votes": 18194,
+     "party": "REP",
+     "pct": 41.05,
+     "choice_id": "Dan Weldon",
+     "party_lines": null
+    },
+    {
+     "name": "Luis Salazar",
+     "votes": 26126,
+     "party": "DEM",
+     "pct": 58.95,
+     "choice_id": "Luis Salazar",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 65/65",
+   "state": "FL",
+   "title": "State Representative, District 65",
+   "office_type": "state_house",
+   "district": "65",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 52,
+    "units_total": 52,
+    "pct": 100.0,
+    "text": "52 of 52 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Karen Gonzalez Pittman",
+     "votes": 36911,
+     "party": "REP",
+     "pct": 50.98,
+     "choice_id": "Karen Gonzalez Pittman",
+     "party_lines": null
+    },
+    {
+     "name": "Ben Braver",
+     "votes": 35494,
+     "party": "DEM",
+     "pct": 49.02,
+     "choice_id": "Ben Braver",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 66/66",
+   "state": "FL",
+   "title": "State Representative, District 66",
+   "office_type": "state_house",
+   "district": "66",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 66,
+    "units_total": 66,
+    "pct": 100.0,
+    "text": "66 of 66 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Traci Koster",
+     "votes": 39796,
+     "party": "REP",
+     "pct": 52.54,
+     "choice_id": "Traci Koster",
+     "party_lines": null
+    },
+    {
+     "name": "Jose A. \"Dante\" Sanchez Sanchez",
+     "votes": 35948,
+     "party": "DEM",
+     "pct": 47.46,
+     "choice_id": "Jose A. \"Dante\" Sanchez Sanchez",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 67/67",
+   "state": "FL",
+   "title": "State Representative, District 67",
+   "office_type": "state_house",
+   "district": "67",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 55,
+    "units_total": 55,
+    "pct": 100.0,
+    "text": "55 of 55 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Lisette Bonano",
+     "votes": 17468,
+     "party": "REP",
+     "pct": 33.63,
+     "choice_id": "Lisette Bonano",
+     "party_lines": null
+    },
+    {
+     "name": "Luis Viera",
+     "votes": 34466,
+     "party": "DEM",
+     "pct": 66.37,
+     "choice_id": "Luis Viera",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 68/68",
+   "state": "FL",
+   "title": "State Representative, District 68",
+   "office_type": "state_house",
+   "district": "68",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 50,
+    "units_total": 50,
+    "pct": 100.0,
+    "text": "50 of 50 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Ryan Gill",
+     "votes": 35916,
+     "party": "REP",
+     "pct": 56.6,
+     "choice_id": "Ryan Gill",
+     "party_lines": null
+    },
+    {
+     "name": "Tony Smith",
+     "votes": 27545,
+     "party": "DEM",
+     "pct": 43.4,
+     "choice_id": "Tony Smith",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 69/69",
+   "state": "FL",
+   "title": "State Representative, District 69",
+   "office_type": "state_house",
+   "district": "69",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 55,
+    "units_total": 55,
+    "pct": 100.0,
+    "text": "55 of 55 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Daniel Danny Alvarez",
+     "votes": 33130,
+     "party": "REP",
+     "pct": 48.35,
+     "choice_id": "Daniel Danny Alvarez",
+     "party_lines": null
+    },
+    {
+     "name": "Ashley Elizabeth Herrmann",
+     "votes": 35388,
+     "party": "DEM",
+     "pct": 51.65,
+     "choice_id": "Ashley Elizabeth Herrmann",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 70/70",
+   "state": "FL",
+   "title": "State Representative, District 70",
+   "office_type": "state_house",
+   "district": "70",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 53,
+    "units_total": 53,
+    "pct": 100.0,
+    "text": "53 of 53 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Michael Owen",
+     "votes": 49340,
+     "party": "REP",
+     "pct": 52.45,
+     "choice_id": "Michael Owen",
+     "party_lines": null
+    },
+    {
+     "name": "Luther Keith Wilkins",
+     "votes": 44727,
+     "party": "DEM",
+     "pct": 47.55,
+     "choice_id": "Luther Keith Wilkins",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 71/71",
+   "state": "FL",
+   "title": "State Representative, District 71",
+   "office_type": "state_house",
+   "district": "71",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 36,
+    "pct": 100.0,
+    "text": "36 of 36 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jordan Varnadore",
+     "votes": 31132,
+     "party": "REP",
+     "pct": 53.95,
+     "choice_id": "Jordan Varnadore",
+     "party_lines": null
+    },
+    {
+     "name": "Ocean Fitts",
+     "votes": 25254,
+     "party": "DEM",
+     "pct": 43.76,
+     "choice_id": "Ocean Fitts",
+     "party_lines": null
+    },
+    {
+     "name": "Joseph Hoolihan",
+     "votes": 1318,
+     "party": "NPA",
+     "pct": 2.28,
+     "choice_id": "Joseph Hoolihan",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 72/72",
+   "state": "FL",
+   "title": "State Representative, District 72",
+   "office_type": "state_house",
+   "district": "72",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 31,
+    "units_total": 31,
+    "pct": 100.0,
+    "text": "31 of 31 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "William Bill Conerly",
+     "votes": 56156,
+     "party": "REP",
+     "pct": 61.57,
+     "choice_id": "William Bill Conerly",
+     "party_lines": null
+    },
+    {
+     "name": "Harvey Shifrin",
+     "votes": 35056,
+     "party": "DEM",
+     "pct": 38.43,
+     "choice_id": "Harvey Shifrin",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 73/73",
+   "state": "FL",
+   "title": "State Representative, District 73",
+   "office_type": "state_house",
+   "district": "73",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 53,
+    "units_total": 53,
+    "pct": 100.0,
+    "text": "53 of 53 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Fiona McFarland",
+     "votes": 47836,
+     "party": "REP",
+     "pct": 53.53,
+     "choice_id": "Fiona McFarland",
+     "party_lines": null
+    },
+    {
+     "name": "Lisa Klein",
+     "votes": 41532,
+     "party": "DEM",
+     "pct": 46.47,
+     "choice_id": "Lisa Klein",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 74/74",
+   "state": "FL",
+   "title": "State Representative, District 74",
+   "office_type": "state_house",
+   "district": "74",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 40,
+    "units_total": 40,
+    "pct": 100.0,
+    "text": "40 of 40 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Nick Pachota",
+     "votes": 54532,
+     "party": "REP",
+     "pct": 59.42,
+     "choice_id": "Nick Pachota",
+     "party_lines": null
+    },
+    {
+     "name": "Ryan Neill",
+     "votes": 37241,
+     "party": "DEM",
+     "pct": 40.58,
+     "choice_id": "Ryan Neill",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 75/75",
+   "state": "FL",
+   "title": "State Representative, District 75",
+   "office_type": "state_house",
+   "district": "75",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 38,
+    "units_total": 38,
+    "pct": 100.0,
+    "text": "38 of 38 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Danny Nix",
+     "votes": 62838,
+     "party": "REP",
+     "pct": 64.13,
+     "choice_id": "Danny Nix",
+     "party_lines": null
+    },
+    {
+     "name": "Cynthia L. Butler",
+     "votes": 35149,
+     "party": "DEM",
+     "pct": 35.87,
+     "choice_id": "Cynthia L. Butler",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 76/76",
+   "state": "FL",
+   "title": "State Representative, District 76",
+   "office_type": "state_house",
+   "district": "76",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 43,
+    "units_total": 43,
+    "pct": 100.0,
+    "text": "43 of 43 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Vanessa Oliver",
+     "votes": 54208,
+     "party": "REP",
+     "pct": 66.14,
+     "choice_id": "Vanessa Oliver",
+     "party_lines": null
+    },
+    {
+     "name": "Phillip Ray Carter",
+     "votes": 27754,
+     "party": "DEM",
+     "pct": 33.86,
+     "choice_id": "Phillip Ray Carter",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 77/77",
+   "state": "FL",
+   "title": "State Representative, District 77",
+   "office_type": "state_house",
+   "district": "77",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 25,
+    "units_total": 25,
+    "pct": 100.0,
+    "text": "25 of 25 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Tiffany Esposito",
+     "votes": 34225,
+     "party": "REP",
+     "pct": 55.49,
+     "choice_id": "Tiffany Esposito",
+     "party_lines": null
+    },
+    {
+     "name": "Cornelius Fowler",
+     "votes": 27450,
+     "party": "DEM",
+     "pct": 44.51,
+     "choice_id": "Cornelius Fowler",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 78/78",
+   "state": "FL",
+   "title": "State Representative, District 78",
+   "office_type": "state_house",
+   "district": "78",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 29,
+    "units_total": 29,
+    "pct": 100.0,
+    "text": "29 of 29 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Susan Frantz",
+     "votes": 35543,
+     "party": "REP",
+     "pct": 54.15,
+     "choice_id": "Susan Frantz",
+     "party_lines": null
+    },
+    {
+     "name": "Cindy Banyai",
+     "votes": 30095,
+     "party": "DEM",
+     "pct": 45.85,
+     "choice_id": "Cindy Banyai",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 80/80",
+   "state": "FL",
+   "title": "State Representative, District 80",
+   "office_type": "state_house",
+   "district": "80",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 36,
+    "pct": 100.0,
+    "text": "36 of 36 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Adam Botana",
+     "votes": 59779,
+     "party": "REP",
+     "pct": 65.31,
+     "choice_id": "Adam Botana",
+     "party_lines": null
+    },
+    {
+     "name": "William Moskal",
+     "votes": 31756,
+     "party": "DEM",
+     "pct": 34.69,
+     "choice_id": "William Moskal",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 81/81",
+   "state": "FL",
+   "title": "State Representative, District 81",
+   "office_type": "state_house",
+   "district": "81",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 39,
+    "units_total": 39,
+    "pct": 100.0,
+    "text": "39 of 39 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yvette Benarroch",
+     "votes": 56972,
+     "party": "REP",
+     "pct": 64.59,
+     "choice_id": "Yvette Benarroch",
+     "party_lines": null
+    },
+    {
+     "name": "Kim Finer",
+     "votes": 31237,
+     "party": "DEM",
+     "pct": 35.41,
+     "choice_id": "Kim Finer",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 82/82",
+   "state": "FL",
+   "title": "State Representative, District 82",
+   "office_type": "state_house",
+   "district": "82",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 33,
+    "units_total": 33,
+    "pct": 100.0,
+    "text": "33 of 33 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Liesa Priddy",
+     "votes": 39138,
+     "party": "REP",
+     "pct": 60.63,
+     "choice_id": "Liesa Priddy",
+     "party_lines": null
+    },
+    {
+     "name": "Arthur Boyer",
+     "votes": 25414,
+     "party": "DEM",
+     "pct": 39.37,
+     "choice_id": "Arthur Boyer",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 83/83",
+   "state": "FL",
+   "title": "State Representative, District 83",
+   "office_type": "state_house",
+   "district": "83",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 61,
+    "units_total": 61,
+    "pct": 100.0,
+    "text": "61 of 61 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Kaylee Tuck",
+     "votes": 41285,
+     "party": "REP",
+     "pct": 68.71,
+     "choice_id": "Kaylee Tuck",
+     "party_lines": null
+    },
+    {
+     "name": "Leigh Estes",
+     "votes": 18801,
+     "party": "DEM",
+     "pct": 31.29,
+     "choice_id": "Leigh Estes",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 84/84",
+   "state": "FL",
+   "title": "State Representative, District 84",
+   "office_type": "state_house",
+   "district": "84",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 40,
+    "units_total": 42,
+    "pct": 95.2,
+    "text": "40 of 42 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Dana Trabulsy",
+     "votes": 35528,
+     "party": "REP",
+     "pct": 50.91,
+     "choice_id": "Dana Trabulsy",
+     "party_lines": null
+    },
+    {
+     "name": "Jennifer Massey",
+     "votes": 34261,
+     "party": "DEM",
+     "pct": 49.09,
+     "choice_id": "Jennifer Massey",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 85/85",
+   "state": "FL",
+   "title": "State Representative, District 85",
+   "office_type": "state_house",
+   "district": "85",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 27,
+    "units_total": 28,
+    "pct": 96.4,
+    "text": "27 of 28 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Anthony Bonna",
+     "votes": 42278,
+     "party": "REP",
+     "pct": 50.18,
+     "choice_id": "Anthony Bonna",
+     "party_lines": null
+    },
+    {
+     "name": "Wayne Richter",
+     "votes": 41633,
+     "party": "DEM",
+     "pct": 49.41,
+     "choice_id": "Wayne Richter",
+     "party_lines": null
+    },
+    {
+     "name": "Amr Metwally",
+     "votes": 347,
+     "party": "MGT",
+     "pct": 0.41,
+     "choice_id": "Amr Metwally",
+     "party_lines": null
+    },
+    {
+     "name": "Hunter Stone",
+     "votes": 0,
+     "party": "WRI",
+     "pct": 0.0,
+     "choice_id": "Hunter Stone",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 86/86",
+   "state": "FL",
+   "title": "State Representative, District 86",
+   "office_type": "state_house",
+   "district": "86",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 62,
+    "units_total": 65,
+    "pct": 95.4,
+    "text": "62 of 65 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "John Snyder",
+     "votes": 50884,
+     "party": "REP",
+     "pct": 62.19,
+     "choice_id": "John Snyder",
+     "party_lines": null
+    },
+    {
+     "name": "Elizabeth Brendel Pandich",
+     "votes": 30932,
+     "party": "DEM",
+     "pct": 37.81,
+     "choice_id": "Elizabeth Brendel Pandich",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 87/87",
+   "state": "FL",
+   "title": "State Representative, District 87",
+   "office_type": "state_house",
+   "district": "87",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 143,
+    "units_total": 153,
+    "pct": 93.5,
+    "text": "143 of 153 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jon Maples",
+     "votes": 38181,
+     "party": "REP",
+     "pct": 50.68,
+     "choice_id": "Jon Maples",
+     "party_lines": null
+    },
+    {
+     "name": "Emily Gregory",
+     "votes": 37153,
+     "party": "DEM",
+     "pct": 49.32,
+     "choice_id": "Emily Gregory",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 88/88",
+   "state": "FL",
+   "title": "State Representative, District 88",
+   "office_type": "state_house",
+   "district": "88",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 79,
+    "units_total": 85,
+    "pct": 92.9,
+    "text": "79 of 85 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "William Joseph",
+     "votes": 8534,
+     "party": "REP",
+     "pct": 20.13,
+     "choice_id": "William Joseph",
+     "party_lines": null
+    },
+    {
+     "name": "Jervonte Tae Edmonds",
+     "votes": 33863,
+     "party": "DEM",
+     "pct": 79.87,
+     "choice_id": "Jervonte Tae Edmonds",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 89/89",
+   "state": "FL",
+   "title": "State Representative, District 89",
+   "office_type": "state_house",
+   "district": "89",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 72,
+    "units_total": 77,
+    "pct": 93.5,
+    "text": "72 of 77 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Cathy Higgins",
+     "votes": 13752,
+     "party": "REP",
+     "pct": 35.09,
+     "choice_id": "Cathy Higgins",
+     "party_lines": null
+    },
+    {
+     "name": "Debra Tendrich",
+     "votes": 25440,
+     "party": "DEM",
+     "pct": 64.91,
+     "choice_id": "Debra Tendrich",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 90/90",
+   "state": "FL",
+   "title": "State Representative, District 90",
+   "office_type": "state_house",
+   "district": "90",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 99,
+    "units_total": 106,
+    "pct": 93.4,
+    "text": "99 of 106 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Ionel Roiban",
+     "votes": 24635,
+     "party": "REP",
+     "pct": 37.14,
+     "choice_id": "Ionel Roiban",
+     "party_lines": null
+    },
+    {
+     "name": "Rob Long",
+     "votes": 41698,
+     "party": "DEM",
+     "pct": 62.86,
+     "choice_id": "Rob Long",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 91/91",
+   "state": "FL",
+   "title": "State Representative, District 91",
+   "office_type": "state_house",
+   "district": "91",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 68,
+    "units_total": 73,
+    "pct": 93.2,
+    "text": "68 of 73 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Peggy Gossett-Seidman",
+     "votes": 39639,
+     "party": "REP",
+     "pct": 52.96,
+     "choice_id": "Peggy Gossett-Seidman",
+     "party_lines": null
+    },
+    {
+     "name": "Luis Garcia",
+     "votes": 35215,
+     "party": "DEM",
+     "pct": 47.04,
+     "choice_id": "Luis Garcia",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 92/92",
+   "state": "FL",
+   "title": "State Representative, District 92",
+   "office_type": "state_house",
+   "district": "92",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 86,
+    "units_total": 92,
+    "pct": 93.5,
+    "text": "86 of 92 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Steve Byers",
+     "votes": 37323,
+     "party": "REP",
+     "pct": 42.1,
+     "choice_id": "Steve Byers",
+     "party_lines": null
+    },
+    {
+     "name": "Kelly Skidmore",
+     "votes": 51337,
+     "party": "DEM",
+     "pct": 57.9,
+     "choice_id": "Kelly Skidmore",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 93/93",
+   "state": "FL",
+   "title": "State Representative, District 93",
+   "office_type": "state_house",
+   "district": "93",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 69,
+    "units_total": 74,
+    "pct": 93.2,
+    "text": "69 of 74 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Anne Gerwig",
+     "votes": 31523,
+     "party": "REP",
+     "pct": 43.86,
+     "choice_id": "Anne Gerwig",
+     "party_lines": null
+    },
+    {
+     "name": "August Mangeney",
+     "votes": 40351,
+     "party": "DEM",
+     "pct": 56.14,
+     "choice_id": "August Mangeney",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 94/94",
+   "state": "FL",
+   "title": "State Representative, District 94",
+   "office_type": "state_house",
+   "district": "94",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 93,
+    "units_total": 99,
+    "pct": 93.9,
+    "text": "93 of 99 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Megan Weinberger",
+     "votes": 36348,
+     "party": "REP",
+     "pct": 48.04,
+     "choice_id": "Megan Weinberger",
+     "party_lines": null
+    },
+    {
+     "name": "Elizabeth Holmes",
+     "votes": 38045,
+     "party": "DEM",
+     "pct": 50.28,
+     "choice_id": "Elizabeth Holmes",
+     "party_lines": null
+    },
+    {
+     "name": "Doug Barrow",
+     "votes": 1269,
+     "party": "NPA",
+     "pct": 1.68,
+     "choice_id": "Doug Barrow",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 100/100",
+   "state": "FL",
+   "title": "State Representative, District 100",
+   "office_type": "state_house",
+   "district": "100",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 38,
+    "units_total": 39,
+    "pct": 97.4,
+    "text": "38 of 39 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yoni Anijar",
+     "votes": 34796,
+     "party": "REP",
+     "pct": 48.01,
+     "choice_id": "Yoni Anijar",
+     "party_lines": null
+    },
+    {
+     "name": "Michael Terence Ferguson",
+     "votes": 37682,
+     "party": "DEM",
+     "pct": 51.99,
+     "choice_id": "Michael Terence Ferguson",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 101/101",
+   "state": "FL",
+   "title": "State Representative, District 101",
+   "office_type": "state_house",
+   "district": "101",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 33,
+    "units_total": 34,
+    "pct": 97.1,
+    "text": "33 of 34 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Hillary Cassel",
+     "votes": 22271,
+     "party": "REP",
+     "pct": 44.03,
+     "choice_id": "Hillary Cassel",
+     "party_lines": null
+    },
+    {
+     "name": "Todd Delmay",
+     "votes": 28308,
+     "party": "DEM",
+     "pct": 55.97,
+     "choice_id": "Todd Delmay",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 102/102",
+   "state": "FL",
+   "title": "State Representative, District 102",
+   "office_type": "state_house",
+   "district": "102",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 39,
+    "units_total": 40,
+    "pct": 97.5,
+    "text": "39 of 40 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Mery Lopez-Palma",
+     "votes": 28754,
+     "party": "REP",
+     "pct": 40.14,
+     "choice_id": "Mery Lopez-Palma",
+     "party_lines": null
+    },
+    {
+     "name": "Michael Mike Friend",
+     "votes": 42884,
+     "party": "DEM",
+     "pct": 59.86,
+     "choice_id": "Michael Mike Friend",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 103/103",
+   "state": "FL",
+   "title": "State Representative, District 103",
+   "office_type": "state_house",
+   "district": "103",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 32,
+    "units_total": 33,
+    "pct": 97.0,
+    "text": "32 of 33 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Imtiaz Mohammad",
+     "votes": 20750,
+     "party": "REP",
+     "pct": 30.62,
+     "choice_id": "Imtiaz Mohammad",
+     "party_lines": null
+    },
+    {
+     "name": "Robin Bartleman",
+     "votes": 47020,
+     "party": "DEM",
+     "pct": 69.38,
+     "choice_id": "Robin Bartleman",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 106/106",
+   "state": "FL",
+   "title": "State Representative, District 106",
+   "office_type": "state_house",
+   "district": "106",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 44,
+    "units_total": 45,
+    "pct": 97.8,
+    "text": "44 of 45 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Fabián Basabe",
+     "votes": 26266,
+     "party": "REP",
+     "pct": 46.06,
+     "choice_id": "Fabián Basabe",
+     "party_lines": null
+    },
+    {
+     "name": "Lucia Baez-Geller",
+     "votes": 30759,
+     "party": "DEM",
+     "pct": 53.94,
+     "choice_id": "Lucia Baez-Geller",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 108/108",
+   "state": "FL",
+   "title": "State Representative, District 108",
+   "office_type": "state_house",
+   "district": "108",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 71,
+    "units_total": 73,
+    "pct": 97.3,
+    "text": "71 of 73 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Wancito Francius",
+     "votes": 9245,
+     "party": "REP",
+     "pct": 19.12,
+     "choice_id": "Wancito Francius",
+     "party_lines": null
+    },
+    {
+     "name": "Daphne Campbell",
+     "votes": 39102,
+     "party": "DEM",
+     "pct": 80.88,
+     "choice_id": "Daphne Campbell",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 113/113",
+   "state": "FL",
+   "title": "State Representative, District 113",
+   "office_type": "state_house",
+   "district": "113",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 41,
+    "units_total": 42,
+    "pct": 97.6,
+    "text": "41 of 42 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Bruno A. Barreiro",
+     "votes": 20425,
+     "party": "REP",
+     "pct": 45.41,
+     "choice_id": "Bruno A. Barreiro",
+     "party_lines": null
+    },
+    {
+     "name": "Gloria Romero Roses",
+     "votes": 24552,
+     "party": "DEM",
+     "pct": 54.59,
+     "choice_id": "Gloria Romero Roses",
+     "party_lines": null
+    },
+    {
+     "name": "Paola Vázquez del Mercado",
+     "votes": 0,
+     "party": "WRI",
+     "pct": 0.0,
+     "choice_id": "Paola Vázquez del Mercado",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 115/115",
+   "state": "FL",
+   "title": "State Representative, District 115",
+   "office_type": "state_house",
+   "district": "115",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 52,
+    "units_total": 54,
+    "pct": 96.3,
+    "text": "52 of 54 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Omar Blanco",
+     "votes": 37569,
+     "party": "REP",
+     "pct": 53.11,
+     "choice_id": "Omar Blanco",
+     "party_lines": null
+    },
+    {
+     "name": "Marcos Reyes",
+     "votes": 33163,
+     "party": "DEM",
+     "pct": 46.89,
+     "choice_id": "Marcos Reyes",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 116/116",
+   "state": "FL",
+   "title": "State Representative, District 116",
+   "office_type": "state_house",
+   "district": "116",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 44,
+    "units_total": 45,
+    "pct": 97.8,
+    "text": "44 of 45 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Ashley Perez-Biliskov",
+     "votes": 33360,
+     "party": "REP",
+     "pct": 59.25,
+     "choice_id": "Ashley Perez-Biliskov",
+     "party_lines": null
+    },
+    {
+     "name": "Nicolas Ramos",
+     "votes": 22947,
+     "party": "DEM",
+     "pct": 40.75,
+     "choice_id": "Nicolas Ramos",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 117/117",
+   "state": "FL",
+   "title": "State Representative, District 117",
+   "office_type": "state_house",
+   "district": "117",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 38,
+    "units_total": 39,
+    "pct": 97.4,
+    "text": "38 of 39 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Miguel Granda",
+     "votes": 16260,
+     "party": "REP",
+     "pct": 35.78,
+     "choice_id": "Miguel Granda",
+     "party_lines": null
+    },
+    {
+     "name": "Kevin Chambliss",
+     "votes": 29184,
+     "party": "DEM",
+     "pct": 64.22,
+     "choice_id": "Kevin Chambliss",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 118/118",
+   "state": "FL",
+   "title": "State Representative, District 118",
+   "office_type": "state_house",
+   "district": "118",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 49,
+    "units_total": 50,
+    "pct": 98.0,
+    "text": "49 of 50 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Mike Redondo",
+     "votes": 35830,
+     "party": "REP",
+     "pct": 58.3,
+     "choice_id": "Mike Redondo",
+     "party_lines": null
+    },
+    {
+     "name": "Armando A.C. Castillo",
+     "votes": 25628,
+     "party": "DEM",
+     "pct": 41.7,
+     "choice_id": "Armando A.C. Castillo",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "STR/State Representative, District 119/119",
+   "state": "FL",
+   "title": "State Representative, District 119",
+   "office_type": "state_house",
+   "district": "119",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 44,
+    "units_total": 45,
+    "pct": 97.8,
+    "text": "44 of 45 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Juan Carlos Porras",
+     "votes": 34091,
+     "party": "REP",
+     "pct": 55.89,
+     "choice_id": "Juan Carlos Porras",
+     "party_lines": null
+    },
+    {
+     "name": "Rey Lazaro Sordo",
+     "votes": 26907,
+     "party": "DEM",
+     "pct": 44.11,
+     "choice_id": "Rey Lazaro Sordo",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "SCJ/Shall Justice Carlos G. Muñiz be retained in Office?/1",
+   "state": "FL",
+   "title": "Shall Justice Carlos G. Muñiz be retained in Office?",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5551,
+    "units_total": 5626,
+    "pct": 98.7,
+    "text": "5,551 of 5,626 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 4281950,
+     "party": null,
+     "pct": 57.73,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 3134828,
+     "party": null,
+     "pct": 42.27,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "DCA/Shall Judge Joseph Lewis Jr. be retained in Office?/1/1",
+   "state": "FL",
+   "title": "Shall Judge Joseph Lewis Jr. be retained in Office?",
+   "office_type": "judicial",
+   "district": "1",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 693,
+    "units_total": 695,
+    "pct": 99.7,
+    "text": "693 of 695 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 441003,
+     "party": null,
+     "pct": 60.66,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 285962,
+     "party": null,
+     "pct": 39.34,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "DCA/Shall Judge Rachel Nordby be retained in Office?/1/2",
+   "state": "FL",
+   "title": "Shall Judge Rachel Nordby be retained in Office?",
+   "office_type": "judicial",
+   "district": "1",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 693,
+    "units_total": 695,
+    "pct": 99.7,
+    "text": "693 of 695 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 425606,
+     "party": null,
+     "pct": 58.83,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 297871,
+     "party": null,
+     "pct": 41.17,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "DCA/Shall Judge Tim Osterhaus be retained in Office?/1/3",
+   "state": "FL",
+   "title": "Shall Judge Tim Osterhaus be retained in Office?",
+   "office_type": "judicial",
+   "district": "1",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 693,
+    "units_total": 695,
+    "pct": 99.7,
+    "text": "693 of 695 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 418784,
+     "party": null,
+     "pct": 57.96,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 303738,
+     "party": null,
+     "pct": 42.04,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "DCA/Shall Judge Clay Roberts be retained in Office?/1/4",
+   "state": "FL",
+   "title": "Shall Judge Clay Roberts be retained in Office?",
+   "office_type": "judicial",
+   "district": "1",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 693,
+    "units_total": 695,
+    "pct": 99.7,
+    "text": "693 of 695 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 417301,
+     "party": null,
+     "pct": 57.77,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 305017,
+     "party": null,
+     "pct": 42.23,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "DCA/Shall Judge Raymond Treadwell be retained in Office?/1/5",
+   "state": "FL",
+   "title": "Shall Judge Raymond Treadwell be retained in Office?",
+   "office_type": "judicial",
+   "district": "1",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 693,
+    "units_total": 695,
+    "pct": 99.7,
+    "text": "693 of 695 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 422610,
+     "party": null,
+     "pct": 58.52,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 299552,
+     "party": null,
+     "pct": 41.48,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "DCA/Shall Judge Drew Atkinson be retained in Office?/2/1",
+   "state": "FL",
+   "title": "Shall Judge Drew Atkinson be retained in Office?",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1039,
+    "units_total": 1039,
+    "pct": 100.0,
+    "text": "1,039 of 1,039 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 872248,
+     "party": null,
+     "pct": 62.35,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 526769,
+     "party": null,
+     "pct": 37.65,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "DCA/Shall Judge Morris Silberman be retained in Office?/2/2",
+   "state": "FL",
+   "title": "Shall Judge Morris Silberman be retained in Office?",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1039,
+    "units_total": 1039,
+    "pct": 100.0,
+    "text": "1,039 of 1,039 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 912120,
+     "party": null,
+     "pct": 65.6,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 478237,
+     "party": null,
+     "pct": 34.4,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "DCA/Shall Judge Daniel H. Sleet be retained in Office?/2/3",
+   "state": "FL",
+   "title": "Shall Judge Daniel H. Sleet be retained in Office?",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1039,
+    "units_total": 1039,
+    "pct": 100.0,
+    "text": "1,039 of 1,039 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 866776,
+     "party": null,
+     "pct": 62.37,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 522925,
+     "party": null,
+     "pct": 37.63,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "DCA/Shall Judge Andrea Teves Smith be retained in Office?/2/4",
+   "state": "FL",
+   "title": "Shall Judge Andrea Teves Smith be retained in Office?",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1039,
+    "units_total": 1039,
+    "pct": 100.0,
+    "text": "1,039 of 1,039 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 905119,
+     "party": null,
+     "pct": 65.17,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 483659,
+     "party": null,
+     "pct": 34.83,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "DCA/Shall Judge Kansas R. Gooden be retained in Office?/3/1",
+   "state": "FL",
+   "title": "Shall Judge Kansas R. Gooden be retained in Office?",
+   "office_type": "judicial",
+   "district": "3",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 736,
+    "units_total": 751,
+    "pct": 98.0,
+    "text": "736 of 751 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 433432,
+     "party": null,
+     "pct": 59.42,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 296014,
+     "party": null,
+     "pct": 40.58,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "DCA/Shall Judge Monica Gordo be retained in Office?/3/2",
+   "state": "FL",
+   "title": "Shall Judge Monica Gordo be retained in Office?",
+   "office_type": "judicial",
+   "district": "3",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 736,
+    "units_total": 751,
+    "pct": 98.0,
+    "text": "736 of 751 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 454367,
+     "party": null,
+     "pct": 62.34,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 274511,
+     "party": null,
+     "pct": 37.66,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "DCA/Shall Judge Fleur Jeannine Lobree be retained in Office?/3/3",
+   "state": "FL",
+   "title": "Shall Judge Fleur Jeannine Lobree be retained in Office?",
+   "office_type": "judicial",
+   "district": "3",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 736,
+    "units_total": 751,
+    "pct": 98.0,
+    "text": "736 of 751 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 442813,
+     "party": null,
+     "pct": 60.97,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 283520,
+     "party": null,
+     "pct": 39.03,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "DCA/Shall Judge Thomas Logue be retained in Office?/3/4",
+   "state": "FL",
+   "title": "Shall Judge Thomas Logue be retained in Office?",
+   "office_type": "judicial",
+   "district": "3",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 736,
+    "units_total": 751,
+    "pct": 98.0,
+    "text": "736 of 751 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 452063,
+     "party": null,
+     "pct": 62.4,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 272434,
+     "party": null,
+     "pct": 37.6,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "DCA/Shall Judge Bronwyn Catherine Miller be retained in Office?/3/5",
+   "state": "FL",
+   "title": "Shall Judge Bronwyn Catherine Miller be retained in Office?",
+   "office_type": "judicial",
+   "district": "3",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 736,
+    "units_total": 751,
+    "pct": 98.0,
+    "text": "736 of 751 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 435670,
+     "party": null,
+     "pct": 60.15,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 288618,
+     "party": null,
+     "pct": 39.85,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "DCA/Shall Judge Alan O. Forst be retained in Office?/4/1",
+   "state": "FL",
+   "title": "Shall Judge Alan O. Forst be retained in Office?",
+   "office_type": "judicial",
+   "district": "4",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1227,
+    "units_total": 1281,
+    "pct": 95.8,
+    "text": "1,227 of 1,281 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 753894,
+     "party": null,
+     "pct": 55.74,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 598526,
+     "party": null,
+     "pct": 44.26,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "DCA/Shall Judge Mark W. Klingensmith be retained in Office?/4/2",
+   "state": "FL",
+   "title": "Shall Judge Mark W. Klingensmith be retained in Office?",
+   "office_type": "judicial",
+   "district": "4",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1227,
+    "units_total": 1281,
+    "pct": 95.8,
+    "text": "1,227 of 1,281 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 735274,
+     "party": null,
+     "pct": 54.86,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 604915,
+     "party": null,
+     "pct": 45.14,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "DCA/Shall Judge Johnathan D. Lott be retained in Office?/4/3",
+   "state": "FL",
+   "title": "Shall Judge Johnathan D. Lott be retained in Office?",
+   "office_type": "judicial",
+   "district": "4",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1227,
+    "units_total": 1281,
+    "pct": 95.8,
+    "text": "1,227 of 1,281 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 748273,
+     "party": null,
+     "pct": 55.84,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 591682,
+     "party": null,
+     "pct": 44.16,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "DCA/Shall Judge Shannon K. Shaw be retained in Office?/4/4",
+   "state": "FL",
+   "title": "Shall Judge Shannon K. Shaw be retained in Office?",
+   "office_type": "judicial",
+   "district": "4",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1227,
+    "units_total": 1281,
+    "pct": 95.8,
+    "text": "1,227 of 1,281 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 767441,
+     "party": null,
+     "pct": 57.21,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 573967,
+     "party": null,
+     "pct": 42.79,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "DCA/Shall Judge Caroline Cahill Shepherd be retained in Office?/4/5",
+   "state": "FL",
+   "title": "Shall Judge Caroline Cahill Shepherd be retained in Office?",
+   "office_type": "judicial",
+   "district": "4",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1227,
+    "units_total": 1281,
+    "pct": 95.8,
+    "text": "1,227 of 1,281 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 777544,
+     "party": null,
+     "pct": 58.03,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 562418,
+     "party": null,
+     "pct": 41.97,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "DCA/Shall Judge John M. Harris be retained in Office?/5/1",
+   "state": "FL",
+   "title": "Shall Judge John M. Harris be retained in Office?",
+   "office_type": "judicial",
+   "district": "5",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1021,
+    "units_total": 1025,
+    "pct": 99.6,
+    "text": "1,021 of 1,025 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1162231,
+     "party": null,
+     "pct": 64.25,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 646814,
+     "party": null,
+     "pct": 35.75,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "DCA/Shall Judge Scott D. Makar be retained in Office?/5/2",
+   "state": "FL",
+   "title": "Shall Judge Scott D. Makar be retained in Office?",
+   "office_type": "judicial",
+   "district": "5",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1021,
+    "units_total": 1025,
+    "pct": 99.6,
+    "text": "1,021 of 1,025 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1137333,
+     "party": null,
+     "pct": 63.34,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 658323,
+     "party": null,
+     "pct": 36.66,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "DCA/Shall Judge F. Rand Wallis be retained in Office?/5/3",
+   "state": "FL",
+   "title": "Shall Judge F. Rand Wallis be retained in Office?",
+   "office_type": "judicial",
+   "district": "5",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1021,
+    "units_total": 1025,
+    "pct": 99.6,
+    "text": "1,021 of 1,025 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1122134,
+     "party": null,
+     "pct": 62.79,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 665008,
+     "party": null,
+     "pct": 37.21,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "CTJ/Circuit Judge, 9th Judicial Circuit, Group 1/9/001",
+   "state": "FL",
+   "title": "Circuit Judge, 9th Judicial Circuit, Group 1",
+   "office_type": "judicial",
+   "district": "9",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 398,
+    "units_total": 398,
+    "pct": 100.0,
+    "text": "398 of 398 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Temika Hampton-Johnson",
+     "votes": 348869,
+     "party": null,
+     "pct": 64.62,
+     "choice_id": "Temika Hampton-Johnson",
+     "party_lines": null
+    },
+    {
+     "name": "Charles Hart",
+     "votes": 191027,
+     "party": null,
+     "pct": 35.38,
+     "choice_id": "Charles Hart",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "CTJ/Circuit Judge, 11th Judicial Circuit, Group 5/11/005",
+   "state": "FL",
+   "title": "Circuit Judge, 11th Judicial Circuit, Group 5",
+   "office_type": "judicial",
+   "district": "11",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 703,
+    "units_total": 718,
+    "pct": 97.9,
+    "text": "703 of 718 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Arthur LeMar \"Marty\" McNeil",
+     "votes": 347065,
+     "party": null,
+     "pct": 51.24,
+     "choice_id": "Arthur LeMar \"Marty\" McNeil",
+     "party_lines": null
+    },
+    {
+     "name": "Monica Segura",
+     "votes": 330233,
+     "party": null,
+     "pct": 48.76,
+     "choice_id": "Monica Segura",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "CTJ/Circuit Judge, 11th Judicial Circuit, Group 69/11/069",
+   "state": "FL",
+   "title": "Circuit Judge, 11th Judicial Circuit, Group 69",
+   "office_type": "judicial",
+   "district": "11",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 703,
+    "units_total": 718,
+    "pct": 97.9,
+    "text": "703 of 718 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Rita Maria Baez",
+     "votes": 396842,
+     "party": null,
+     "pct": 58.4,
+     "choice_id": "Rita Maria Baez",
+     "party_lines": null
+    },
+    {
+     "name": "Bonita Jones-Peabody",
+     "votes": 282631,
+     "party": null,
+     "pct": 41.6,
+     "choice_id": "Bonita Jones-Peabody",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "CTJ/Circuit Judge, 17th Judicial Circuit, Group 52/17/052",
+   "state": "FL",
+   "title": "Circuit Judge, 17th Judicial Circuit, Group 52",
+   "office_type": "judicial",
+   "district": "17",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 342,
+    "units_total": 346,
+    "pct": 98.8,
+    "text": "342 of 346 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "David Andrew Fry",
+     "votes": 260820,
+     "party": null,
+     "pct": 46.22,
+     "choice_id": "David Andrew Fry",
+     "party_lines": null
+    },
+    {
+     "name": "Tamar Hamilton",
+     "votes": 303488,
+     "party": null,
+     "pct": 53.78,
+     "choice_id": "Tamar Hamilton",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "ECW/Lehigh Acres Municipal Services Improvement District, Seat 4/004",
+   "state": "FL",
+   "title": "Lehigh Acres Municipal Services Improvement District, Seat 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 109,
+    "units_total": 109,
+    "pct": 100.0,
+    "text": "109 of 109 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Mike Bonacolta",
+     "votes": 15720,
+     "party": null,
+     "pct": 62.49,
+     "choice_id": "Mike Bonacolta",
+     "party_lines": null
+    },
+    {
+     "name": "Derek Felder",
+     "votes": 9438,
+     "party": null,
+     "pct": 37.51,
+     "choice_id": "Derek Felder",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "PLB/Port LaBelle Community Development District, Seat 5/005",
+   "state": "FL",
+   "title": "Port LaBelle Community Development District, Seat 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 23,
+    "units_total": 23,
+    "pct": 100.0,
+    "text": "23 of 23 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Rebekah Lewis",
+     "votes": 970,
+     "party": null,
+     "pct": 58.4,
+     "choice_id": "Rebekah Lewis",
+     "party_lines": null
+    },
+    {
+     "name": "Alexandra Platonova",
+     "votes": 691,
+     "party": null,
+     "pct": 41.6,
+     "choice_id": "Alexandra Platonova",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "SEB/Sebastian Inlet Tax District, District 5/005",
+   "state": "FL",
+   "title": "Sebastian Inlet Tax District, District 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 191,
+    "units_total": 191,
+    "pct": 100.0,
+    "text": "191 of 191 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Calvin Holton",
+     "votes": 63355,
+     "party": null,
+     "pct": 46.91,
+     "choice_id": "Calvin Holton",
+     "party_lines": null
+    },
+    {
+     "name": "Lisa Leger Frazier",
+     "votes": 71709,
+     "party": null,
+     "pct": 53.09,
+     "choice_id": "Lisa Leger Frazier",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "TOL/Tolomato Community Development District, Seat 5/005",
+   "state": "FL",
+   "title": "Tolomato Community Development District, Seat 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 210,
+    "units_total": 214,
+    "pct": 98.1,
+    "text": "210 of 214 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Ronald Howland",
+     "votes": 5470,
+     "party": null,
+     "pct": 49.54,
+     "choice_id": "Ronald Howland",
+     "party_lines": null
+    },
+    {
+     "name": "Anthony Vetter",
+     "votes": 5572,
+     "party": null,
+     "pct": 50.46,
+     "choice_id": "Anthony Vetter",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "AMD/Budget Stabilization Fund",
+   "state": "FL",
+   "title": "Budget Stabilization Fund",
+   "office_type": "measure",
+   "district": "budget stabilization fund",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5551,
+    "units_total": 5626,
+    "pct": 98.7,
+    "text": "5,551 of 5,626 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 3158725,
+     "party": null,
+     "pct": 40.92,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 4560896,
+     "party": null,
+     "pct": 59.08,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "AMD/Exemption of Tangible Personal Property on Agricultural Land From Taxation",
+   "state": "FL",
+   "title": "Exemption of Tangible Personal Property on Agricultural Land From Taxation",
+   "office_type": "measure",
+   "district": "exemption of tangible personal property on agricultural land",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5551,
+    "units_total": 5626,
+    "pct": 98.7,
+    "text": "5,551 of 5,626 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 4526353,
+     "party": null,
+     "pct": 58.24,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 3245237,
+     "party": null,
+     "pct": 41.76,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "fl",
+   "contest_id": "AMD/Increased Homestead Exemption; Lower Cap On Increases In Non-Homestead Property Assessments",
+   "state": "FL",
+   "title": "Increased Homestead Exemption; Lower Cap On Increases In Non-Homestead Property Assessments",
+   "office_type": "measure",
+   "district": "increased homestead exemption lower cap on increases in non ",
+   "jurisdiction": "Florida",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5551,
+    "units_total": 5626,
+    "pct": 98.7,
+    "text": "5,551 of 5,626 precincts",
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 4899888,
+     "party": null,
+     "pct": 62.01,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 3001528,
+     "party": null,
+     "pct": 37.99,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  }
+ ],
+ "contests_hash": "35361e704e14dd55",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-04T03:59:03+00:00",
+ "fetched_at": "2026-11-04T03:59:03+00:00",
+ "contests_changed_at": "2026-11-04T03:59:03+00:00"
 }

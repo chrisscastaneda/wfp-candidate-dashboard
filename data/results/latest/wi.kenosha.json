@@ -1,0 +1,723 @@
+{
+ "source": "wi.kenosha",
+ "contests": [
+  {
+   "source": "wi.kenosha",
+   "contest_id": "Governor / Lieutenant Governor",
+   "state": "WI",
+   "title": "Governor / Lieutenant Governor",
+   "office_type": "governor",
+   "district": null,
+   "jurisdiction": "Kenosha County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-03T21:24:41",
+   "choices": [
+    {
+     "name": "Tom Tiffany",
+     "votes": 28398,
+     "party": "REP",
+     "pct": 50.78,
+     "choice_id": "Tom Tiffany",
+     "party_lines": null
+    },
+    {
+     "name": "David Crowley",
+     "votes": 27439,
+     "party": "DEM",
+     "pct": 49.07,
+     "choice_id": "David Crowley",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In",
+     "votes": 82,
+     "party": null,
+     "pct": 0.15,
+     "choice_id": "Write-In",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "wi.kenosha",
+   "contest_id": "Attorney General",
+   "state": "WI",
+   "title": "Attorney General",
+   "office_type": "attorney_general",
+   "district": null,
+   "jurisdiction": "Kenosha County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-03T21:24:41",
+   "choices": [
+    {
+     "name": "Eric Toney",
+     "votes": 27844,
+     "party": "REP",
+     "pct": 50.06,
+     "choice_id": "Eric Toney",
+     "party_lines": null
+    },
+    {
+     "name": "Josh Kaul",
+     "votes": 27739,
+     "party": "DEM",
+     "pct": 49.87,
+     "choice_id": "Josh Kaul",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In",
+     "votes": 38,
+     "party": null,
+     "pct": 0.07,
+     "choice_id": "Write-In",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "wi.kenosha",
+   "contest_id": "Secretary of State",
+   "state": "WI",
+   "title": "Secretary of State",
+   "office_type": "secretary_of_state",
+   "district": null,
+   "jurisdiction": "Kenosha County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-03T21:24:41",
+   "choices": [
+    {
+     "name": "Jay Schroeder",
+     "votes": 27675,
+     "party": "REP",
+     "pct": 49.79,
+     "choice_id": "Jay Schroeder",
+     "party_lines": null
+    },
+    {
+     "name": "JoCasta Zamarripa",
+     "votes": 25619,
+     "party": "DEM",
+     "pct": 46.09,
+     "choice_id": "JoCasta Zamarripa",
+     "party_lines": null
+    },
+    {
+     "name": "Pete Karas",
+     "votes": 2250,
+     "party": "GRN",
+     "pct": 4.05,
+     "choice_id": "Pete Karas",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In",
+     "votes": 36,
+     "party": null,
+     "pct": 0.06,
+     "choice_id": "Write-In",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "wi.kenosha",
+   "contest_id": "State Treasurer",
+   "state": "WI",
+   "title": "State Treasurer",
+   "office_type": "treasurer",
+   "district": null,
+   "jurisdiction": "Kenosha County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-03T21:24:41",
+   "choices": [
+    {
+     "name": "John S. Leiber",
+     "votes": 29015,
+     "party": "REP",
+     "pct": 52.52,
+     "choice_id": "John S. Leiber",
+     "party_lines": null
+    },
+    {
+     "name": "Yee Leng Xiong",
+     "votes": 26185,
+     "party": "DEM",
+     "pct": 47.4,
+     "choice_id": "Yee Leng Xiong",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In",
+     "votes": 42,
+     "party": null,
+     "pct": 0.08,
+     "choice_id": "Write-In",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "wi.kenosha",
+   "contest_id": "Representative in Congress",
+   "state": "WI",
+   "title": "Representative in Congress",
+   "office_type": "federal_house",
+   "district": null,
+   "jurisdiction": "Kenosha County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-03T21:24:41",
+   "choices": [
+    {
+     "name": "Bryan Steil",
+     "votes": 28826,
+     "party": "REP",
+     "pct": 51.58,
+     "choice_id": "Bryan Steil",
+     "party_lines": null
+    },
+    {
+     "name": "Mitchell Berman",
+     "votes": 27003,
+     "party": "DEM",
+     "pct": 48.31,
+     "choice_id": "Mitchell Berman",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In",
+     "votes": 62,
+     "party": null,
+     "pct": 0.11,
+     "choice_id": "Write-In",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "wi.kenosha",
+   "contest_id": "State Senator District 11",
+   "state": "WI",
+   "title": "State Senator District 11",
+   "office_type": "state_senate",
+   "district": "11",
+   "jurisdiction": "Kenosha County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-03T21:24:41",
+   "choices": [
+    {
+     "name": "Ellen Schutt",
+     "votes": 13839,
+     "party": "REP",
+     "pct": 61.25,
+     "choice_id": "Ellen Schutt",
+     "party_lines": null
+    },
+    {
+     "name": "Adam Duda",
+     "votes": 8748,
+     "party": "DEM",
+     "pct": 38.71,
+     "choice_id": "Adam Duda",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In",
+     "votes": 9,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "Write-In",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "wi.kenosha",
+   "contest_id": "Representative to the Assembly District 32",
+   "state": "WI",
+   "title": "Representative to the Assembly District 32",
+   "office_type": "state_house",
+   "district": "32",
+   "jurisdiction": "Kenosha County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-03T21:24:41",
+   "choices": [
+    {
+     "name": "Amanda Nedweski",
+     "votes": 13975,
+     "party": "REP",
+     "pct": 62.02,
+     "choice_id": "Amanda Nedweski",
+     "party_lines": null
+    },
+    {
+     "name": "Greg Miller",
+     "votes": 8547,
+     "party": "DEM",
+     "pct": 37.93,
+     "choice_id": "Greg Miller",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In",
+     "votes": 10,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "Write-In",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "wi.kenosha",
+   "contest_id": "Representative to the Assembly District 64",
+   "state": "WI",
+   "title": "Representative to the Assembly District 64",
+   "office_type": "state_house",
+   "district": "64",
+   "jurisdiction": "Kenosha County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-03T21:24:41",
+   "choices": [
+    {
+     "name": "Tip McGuire",
+     "votes": 9485,
+     "party": "DEM",
+     "pct": 58.49,
+     "choice_id": "Tip McGuire",
+     "party_lines": null
+    },
+    {
+     "name": "Ed Hibsch",
+     "votes": 6719,
+     "party": "REP",
+     "pct": 41.43,
+     "choice_id": "Ed Hibsch",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In",
+     "votes": 13,
+     "party": null,
+     "pct": 0.08,
+     "choice_id": "Write-In",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "wi.kenosha",
+   "contest_id": "Representative to the Assembly District 65",
+   "state": "WI",
+   "title": "Representative to the Assembly District 65",
+   "office_type": "state_house",
+   "district": "65",
+   "jurisdiction": "Kenosha County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-03T21:24:41",
+   "choices": [
+    {
+     "name": "Ben DeSmidt",
+     "votes": 9459,
+     "party": "DEM",
+     "pct": 56.79,
+     "choice_id": "Ben DeSmidt",
+     "party_lines": null
+    },
+    {
+     "name": "Valerie Kretchmer",
+     "votes": 7184,
+     "party": "REP",
+     "pct": 43.13,
+     "choice_id": "Valerie Kretchmer",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In",
+     "votes": 12,
+     "party": null,
+     "pct": 0.07,
+     "choice_id": "Write-In",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "wi.kenosha",
+   "contest_id": "Sheriff",
+   "state": "WI",
+   "title": "Sheriff",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Kenosha County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-03T21:24:41",
+   "choices": [
+    {
+     "name": "David W. Zoerner",
+     "votes": 38135,
+     "party": "REP",
+     "pct": 90.44,
+     "choice_id": "David W. Zoerner",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In",
+     "votes": 4031,
+     "party": null,
+     "pct": 9.56,
+     "choice_id": "Write-In",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "wi.kenosha",
+   "contest_id": "Clerk of Circuit Court",
+   "state": "WI",
+   "title": "Clerk of Circuit Court",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Kenosha County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-03T21:24:41",
+   "choices": [
+    {
+     "name": "Brian M. Sheffler",
+     "votes": 27832,
+     "party": "DEM",
+     "pct": 50.53,
+     "choice_id": "Brian M. Sheffler",
+     "party_lines": null
+    },
+    {
+     "name": "Zach Rodriguez",
+     "votes": 27192,
+     "party": "REP",
+     "pct": 49.37,
+     "choice_id": "Zach Rodriguez",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In",
+     "votes": 53,
+     "party": null,
+     "pct": 0.1,
+     "choice_id": "Write-In",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "wi.kenosha",
+   "contest_id": "Statewide Question 1",
+   "state": "WI",
+   "title": "Statewide Question 1",
+   "office_type": "measure",
+   "district": "1",
+   "jurisdiction": "Kenosha County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-03T21:24:41",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 30081,
+     "party": null,
+     "pct": 55.46,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 24154,
+     "party": null,
+     "pct": 44.54,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "wi.kenosha",
+   "contest_id": "Statewide Question 2",
+   "state": "WI",
+   "title": "Statewide Question 2",
+   "office_type": "measure",
+   "district": "2",
+   "jurisdiction": "Kenosha County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-03T21:24:41",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 28312,
+     "party": null,
+     "pct": 51.9,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 26243,
+     "party": null,
+     "pct": 48.1,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "wi.kenosha",
+   "contest_id": "Statewide Question 3",
+   "state": "WI",
+   "title": "Statewide Question 3",
+   "office_type": "measure",
+   "district": "3",
+   "jurisdiction": "Kenosha County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-03T21:24:41",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 33858,
+     "party": null,
+     "pct": 63.18,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 19732,
+     "party": null,
+     "pct": 36.82,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "wi.kenosha",
+   "contest_id": "Twin Lakes School District Referendum Twin Lakes Wards 3-8",
+   "state": "WI",
+   "title": "Twin Lakes School District Referendum Twin Lakes Wards 3-8",
+   "office_type": "measure",
+   "district": "twin lakes school district referendum twin lakes wards 3 8",
+   "jurisdiction": "Kenosha County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-03T21:24:41",
+   "choices": [
+    {
+     "name": "No",
+     "votes": 721,
+     "party": null,
+     "pct": 51.61,
+     "choice_id": "No",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 676,
+     "party": null,
+     "pct": 48.39,
+     "choice_id": "Yes",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "wi.kenosha",
+   "contest_id": "Trevor-Wilmot Consolidated Grade School District Referendum Trevor-Wilmot Consolidated",
+   "state": "WI",
+   "title": "Trevor-Wilmot Consolidated Grade School District Referendum Trevor-Wilmot Consolidated",
+   "office_type": "measure",
+   "district": "trevor wilmot consolidated grade school district referendum ",
+   "jurisdiction": "Kenosha County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-03T21:24:41",
+   "choices": [
+    {
+     "name": "No",
+     "votes": 967,
+     "party": null,
+     "pct": 56.29,
+     "choice_id": "No",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 751,
+     "party": null,
+     "pct": 43.71,
+     "choice_id": "Yes",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  }
+ ],
+ "contests_hash": "19a5dda39b3d2680",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-04T04:02:54+00:00",
+ "fetched_at": "2026-11-04T04:02:54+00:00",
+ "contests_changed_at": "2026-11-04T04:02:54+00:00"
+}

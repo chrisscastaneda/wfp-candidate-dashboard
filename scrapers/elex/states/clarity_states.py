@@ -1,4 +1,4 @@
-"""Clarity ENR sources: Colorado (with its county sub-elections), South Carolina, Florida's mirror, and the county
+"""Clarity ENR sources: Colorado (with its county sub-elections), South Carolina, and the county
 sites that carry WFP county races in Texas, New Jersey and Ohio. Each is just configuration.
 
 County sites report only their county's share of state and federal contests, so those are marked `partial` and
@@ -19,8 +19,6 @@ SOURCES = [
         "Pueblo", "Saguache", "Weld"]),
     ClaritySource("sc", "SC", "South Carolina Election Commission results", "SC Election Commission", "SC",
                   tiers=(1, 2)),
-    ClaritySource("fl", "FL", "Florida Division of Elections (Clarity mirror)", "Florida Division of Elections",
-                  "FL", tiers=(1,)),
     county("tx.bexar", "TX", "Bexar"),
     county("tx.dallas", "TX", "Dallas"),
     county("tx.denton", "TX", "Denton"),

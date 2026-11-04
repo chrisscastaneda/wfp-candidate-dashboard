@@ -49,3 +49,4 @@ def test_measure_id_and_yes_no():
     assert names.measure_id("Constitutional Amendment A") == "a"
     assert names.yes_no("FOR") == "Yes"
     assert names.yes_no("AGAINST") == "No"
+    assert names.yes_no("No for Rejection") == "No" and names.yes_no("Yes for Approval") == "Yes"  # Florida

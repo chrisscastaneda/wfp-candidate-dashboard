@@ -1,7 +1,7 @@
 {
  "election_date": "2026-11-03",
- "generated_at": "2026-11-04T03:27:49+00:00",
- "run_id": "20261104T032635Z",
+ "generated_at": "2026-11-04T04:05:44+00:00",
+ "run_id": "20261104T040544Z",
  "sources": {
   "ca": {
    "status": "ok",
@@ -70,10 +70,10 @@
    "message": null
   },
   "fl": {
-   "status": "not_published",
-   "fetched_at": null,
-   "contests_changed_at": null,
-   "message": "no 2026-11-03 election listed"
+   "status": "ok",
+   "fetched_at": "2026-11-04T03:59:03+00:00",
+   "contests_changed_at": "2026-11-04T03:59:03+00:00",
+   "message": null
   },
   "ga": {
    "status": "ok",
@@ -83,8 +83,8 @@
   },
   "manual": {
    "status": "ok",
-   "fetched_at": "2026-11-04T03:27:03+00:00",
-   "contests_changed_at": "2026-11-03T06:00:23+00:00",
+   "fetched_at": "2026-11-04T04:05:44+00:00",
+   "contests_changed_at": "2026-11-04T04:05:44+00:00",
    "message": null
   },
   "md": {
@@ -217,6 +217,18 @@
    "status": "ok",
    "fetched_at": "2026-11-04T03:26:35+00:00",
    "contests_changed_at": "2026-11-04T01:59:53+00:00",
+   "message": null
+  },
+  "wi.dane": {
+   "status": "ok",
+   "fetched_at": "2026-11-04T04:02:54+00:00",
+   "contests_changed_at": "2026-11-04T04:02:54+00:00",
+   "message": null
+  },
+  "wi.kenosha": {
+   "status": "ok",
+   "fetched_at": "2026-11-04T04:02:54+00:00",
+   "contests_changed_at": "2026-11-04T04:02:54+00:00",
    "message": null
   }
  },
@@ -10050,9 +10062,43 @@
   },
   "398": {
    "name": "Angie Nixon",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source covers FL yet"
+   "status": "counting",
+   "match_status": "auto",
+   "source": "fl",
+   "source_name": "Florida Division of Elections",
+   "source_url": "https://floridaelectionwatch.gov/",
+   "contest": "United States Senator",
+   "scope": "complete",
+   "reporting": {
+    "pct": 98.7,
+    "text": "5,551 of 5,626 precincts"
+   },
+   "updated_at": "2026-11-04T03:59:03+00:00",
+   "wfp_choice": "Angie Nixon",
+   "wfp_leading": false,
+   "choices": [
+    {
+     "name": "Ashley Moody",
+     "party": "REP",
+     "votes": 4194216,
+     "pct": 50.92,
+     "is_wfp": false
+    },
+    {
+     "name": "Angie Nixon",
+     "party": "DEM",
+     "votes": 3949306,
+     "pct": 47.94,
+     "is_wfp": true
+    },
+    {
+     "name": "Neil J. Gillespie",
+     "party": "NPA",
+     "votes": 94055,
+     "pct": 1.14,
+     "is_wfp": false
+    }
+   ]
   },
   "399": {
    "name": "Gabriel Sanchez",
@@ -24500,157 +24546,421 @@
    "name": "David Crowley",
    "status": "no_source",
    "match_status": "no_source",
-   "note": "no source covers WI yet"
+   "note": "WI has only county sources so far"
   },
   "1126": {
    "name": "JoCasta Zamarripa",
    "status": "no_source",
    "match_status": "no_source",
-   "note": "no source covers WI yet"
+   "note": "WI has only county sources so far"
   },
   "1127": {
    "name": "Robyn Vining",
    "status": "no_source",
    "match_status": "no_source",
-   "note": "no source covers WI yet"
+   "note": "WI has only county sources so far"
   },
   "1128": {
    "name": "Chris Larson",
    "status": "no_source",
    "match_status": "no_source",
-   "note": "no source covers WI yet"
+   "note": "WI has only county sources so far"
   },
   "1129": {
    "name": "Jenna Jacobson",
    "status": "no_source",
    "match_status": "no_source",
-   "note": "no source covers WI yet"
+   "note": "WI has only county sources so far"
   },
   "1130": {
    "name": "Trevor Jung",
    "status": "no_source",
    "match_status": "no_source",
-   "note": "no source covers WI yet"
+   "note": "WI has only county sources so far"
   },
   "1131": {
    "name": "Jeff Smith",
    "status": "no_source",
    "match_status": "no_source",
-   "note": "no source covers WI yet"
+   "note": "WI has only county sources so far"
   },
   "1132": {
    "name": "Ismael Luna",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source covers WI yet"
+   "status": "counting",
+   "match_status": "auto",
+   "source": "manual",
+   "source_name": "county.milwaukee.gov",
+   "source_url": "https://county.milwaukee.gov/EN/County-Clerk/Off-Nav/Election-Results/11-3-26-General-Election--Unofficial-Results-Election-Night-Website",
+   "contest": "State Assembly District 8",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T21:43:00-06:00",
+   "wfp_choice": "Ismael Luna",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Ismael Luna",
+     "party": "DEM",
+     "votes": 5962,
+     "pct": 85.1,
+     "is_wfp": true
+    },
+    {
+     "name": "Angel Sanchez",
+     "party": "REP",
+     "votes": 1044,
+     "pct": 14.9,
+     "is_wfp": false
+    }
+   ]
   },
   "1133": {
    "name": "Sequanna Taylor",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source covers WI yet"
+   "status": "counting",
+   "match_status": "auto",
+   "source": "manual",
+   "source_name": "county.milwaukee.gov",
+   "source_url": "https://county.milwaukee.gov/EN/County-Clerk/Off-Nav/Election-Results/11-3-26-General-Election--Unofficial-Results-Election-Night-Website",
+   "contest": "State Assembly District 11",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T21:43:00-06:00",
+   "wfp_choice": "Sequanna Taylor",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Sequanna Taylor",
+     "party": "DEM",
+     "votes": 10173,
+     "pct": 90.47,
+     "is_wfp": true
+    },
+    {
+     "name": "Shandowlyon Reaves",
+     "party": "REP",
+     "votes": 1071,
+     "pct": 9.53,
+     "is_wfp": false
+    }
+   ]
   },
   "1134": {
    "name": "Amy Zimmerman",
    "status": "no_source",
    "match_status": "no_source",
-   "note": "no source covers WI yet"
+   "note": "WI has only county sources so far"
   },
   "1135": {
    "name": "Angelito Tenorio",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source covers WI yet"
+   "status": "counting",
+   "match_status": "auto",
+   "source": "manual",
+   "source_name": "county.milwaukee.gov",
+   "source_url": "https://county.milwaukee.gov/EN/County-Clerk/Off-Nav/Election-Results/11-3-26-General-Election--Unofficial-Results-Election-Night-Website",
+   "contest": "State Assembly District 14",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T21:43:00-06:00",
+   "wfp_choice": "Angelito Tenorio",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Angelito Tenorio",
+     "party": "DEM",
+     "votes": 8902,
+     "pct": 59.84,
+     "is_wfp": true
+    },
+    {
+     "name": "AmyRose Murphy",
+     "party": "REP",
+     "votes": 5975,
+     "pct": 40.16,
+     "is_wfp": false
+    }
+   ]
   },
   "1136": {
    "name": "Margaret Arney",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source covers WI yet"
+   "status": "counting",
+   "match_status": "auto",
+   "source": "manual",
+   "source_name": "county.milwaukee.gov",
+   "source_url": "https://county.milwaukee.gov/EN/County-Clerk/Off-Nav/Election-Results/11-3-26-General-Election--Unofficial-Results-Election-Night-Website",
+   "contest": "State Assembly District 18",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T21:43:00-06:00",
+   "wfp_choice": "Margaret Arney",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Margaret Arney",
+     "party": "DEM",
+     "votes": 11020,
+     "pct": 86.06,
+     "is_wfp": true
+    },
+    {
+     "name": "Joel Richmond",
+     "party": "REP",
+     "votes": 1785,
+     "pct": 13.94,
+     "is_wfp": false
+    }
+   ]
   },
   "1137": {
    "name": "Ryan Clancy",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source covers WI yet"
+   "status": "counting",
+   "match_status": "auto",
+   "source": "manual",
+   "source_name": "county.milwaukee.gov",
+   "source_url": "https://county.milwaukee.gov/EN/County-Clerk/Off-Nav/Election-Results/11-3-26-General-Election--Unofficial-Results-Election-Night-Website",
+   "contest": "State Assembly District 19",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T21:43:00-06:00",
+   "wfp_choice": "Ryan Clancy",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Ryan Clancy",
+     "party": "DEM",
+     "votes": 16700,
+     "pct": 85.82,
+     "is_wfp": true
+    },
+    {
+     "name": "Yasmine B. Outlaw",
+     "party": "REP",
+     "votes": 2759,
+     "pct": 14.18,
+     "is_wfp": false
+    }
+   ]
   },
   "1138": {
    "name": "Christine Sinicki",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source covers WI yet"
+   "status": "counting",
+   "match_status": "auto",
+   "source": "manual",
+   "source_name": "county.milwaukee.gov",
+   "source_url": "https://county.milwaukee.gov/EN/County-Clerk/Off-Nav/Election-Results/11-3-26-General-Election--Unofficial-Results-Election-Night-Website",
+   "contest": "State Assembly District 20",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T21:43:00-06:00",
+   "wfp_choice": "Christine M. Sinicki",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Christine M. Sinicki",
+     "party": "DEM",
+     "votes": 15119,
+     "pct": 67.43,
+     "is_wfp": true
+    },
+    {
+     "name": "Kyle Cleary",
+     "party": "REP",
+     "votes": 7303,
+     "pct": 32.57,
+     "is_wfp": false
+    }
+   ]
   },
   "1139": {
    "name": "Dan Bukiewicz",
    "status": "no_source",
    "match_status": "no_source",
-   "note": "no source covers WI yet"
+   "note": "WI has only county sources so far"
   },
   "1140": {
    "name": "Ben Gruber",
    "status": "no_source",
    "match_status": "no_source",
-   "note": "no source covers WI yet"
+   "note": "WI has only county sources so far"
   },
   "1141": {
    "name": "Becky Nichols",
    "status": "no_source",
    "match_status": "no_source",
-   "note": "no source covers WI yet"
+   "note": "WI has only county sources so far"
   },
   "1142": {
    "name": "Ben Brist",
    "status": "no_source",
    "match_status": "no_source",
-   "note": "no source covers WI yet"
+   "note": "WI has only county sources so far"
   },
   "1143": {
    "name": "Angelina Cruz",
    "status": "no_source",
    "match_status": "no_source",
-   "note": "no source covers WI yet"
+   "note": "WI has only county sources so far"
   },
   "1144": {
    "name": "Eddie Phanichkul",
    "status": "no_source",
    "match_status": "no_source",
-   "note": "no source covers WI yet"
+   "note": "WI has only county sources so far"
   },
   "1145": {
    "name": "Tip McGuire",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source covers WI yet"
+   "status": "counting",
+   "match_status": "auto",
+   "source": "wi.kenosha",
+   "source_name": "Kenosha County Clerk",
+   "source_url": "https://apps.kenoshacounty.org/ElectionResults_v4/?eid=70",
+   "contest": "Representative to the Assembly District 64",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T21:24:41",
+   "wfp_choice": "Tip McGuire",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Tip McGuire",
+     "party": "DEM",
+     "votes": 9485,
+     "pct": 58.49,
+     "is_wfp": true
+    },
+    {
+     "name": "Ed Hibsch",
+     "party": "REP",
+     "votes": 6719,
+     "pct": 41.43,
+     "is_wfp": false
+    },
+    {
+     "name": "Write-In",
+     "party": null,
+     "votes": 13,
+     "pct": 0.08,
+     "is_wfp": false
+    }
+   ]
   },
   "1146": {
    "name": "Ben DeSmidt",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source covers WI yet"
+   "status": "counting",
+   "match_status": "auto",
+   "source": "wi.kenosha",
+   "source_name": "Kenosha County Clerk",
+   "source_url": "https://apps.kenoshacounty.org/ElectionResults_v4/?eid=70",
+   "contest": "Representative to the Assembly District 65",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-03T21:24:41",
+   "wfp_choice": "Ben DeSmidt",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Ben DeSmidt",
+     "party": "DEM",
+     "votes": 9459,
+     "pct": 56.79,
+     "is_wfp": true
+    },
+    {
+     "name": "Valerie Kretchmer",
+     "party": "REP",
+     "votes": 7184,
+     "pct": 43.13,
+     "is_wfp": false
+    },
+    {
+     "name": "Write-In",
+     "party": null,
+     "votes": 12,
+     "pct": 0.07,
+     "is_wfp": false
+    }
+   ]
   },
   "1147": {
    "name": "Angela Stroud",
    "status": "no_source",
    "match_status": "no_source",
-   "note": "no source covers WI yet"
+   "note": "WI has only county sources so far"
   },
   "1148": {
    "name": "Dina Nina Martinez-Rutherford",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source covers WI yet"
+   "status": "counting",
+   "match_status": "auto",
+   "source": "wi.dane",
+   "source_name": "Dane County Clerk",
+   "source_url": "https://elections.countyofdane.com/election-result",
+   "contest": "Representative to the Assembly District 76",
+   "scope": "complete",
+   "reporting": {
+    "pct": 89.3,
+    "text": null
+   },
+   "updated_at": "2026-11-03T21:48:02",
+   "wfp_choice": "Dina Nina Martinez-Rutherford",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Dina Nina Martinez-Rutherford",
+     "party": "DEM",
+     "votes": 27275,
+     "pct": 91.84,
+     "is_wfp": true
+    },
+    {
+     "name": "Nina Chat",
+     "party": "REP",
+     "votes": 2273,
+     "pct": 7.65,
+     "is_wfp": false
+    },
+    {
+     "name": "write-in:",
+     "party": null,
+     "votes": 151,
+     "pct": 0.51,
+     "is_wfp": false
+    }
+   ]
   },
   "1149": {
    "name": "Amaad Rivera-Wagner",
    "status": "no_source",
    "match_status": "no_source",
-   "note": "no source covers WI yet"
+   "note": "WI has only county sources so far"
   },
   "1150": {
    "name": "Christian Phelps",
    "status": "no_source",
    "match_status": "no_source",
-   "note": "no source covers WI yet"
+   "note": "WI has only county sources so far"
   },
   "1151": {
    "name": "Aaron Appelhans",
@@ -26321,19 +26631,19 @@
    "name": "Wisconsin Question 1, Partial Veto Referendum",
    "status": "no_source",
    "match_status": "no_source",
-   "note": "no source covers WI yet"
+   "note": "WI has only county sources so far"
   },
   "1218": {
    "name": "Wisconsin Question 2, Freedom to Gather in Places of Worship During an Emergency Referendum",
    "status": "no_source",
    "match_status": "no_source",
-   "note": "no source covers WI yet"
+   "note": "WI has only county sources so far"
   },
   "1219": {
    "name": "Wisconsin Question 3, Governmental Entity Discrimination Prohibited Referendum",
    "status": "no_source",
    "match_status": "no_source",
-   "note": "no source covers WI yet"
+   "note": "WI has only county sources so far"
   }
  }
 }

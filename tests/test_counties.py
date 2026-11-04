@@ -105,3 +105,26 @@ def test_legislature_and_legislator_are_the_same_office():
     row = {"id": 1, "name": "Lawrence Dupre", "office": "Erie County Legislature, District 1",
            "office_category": "Local Office", "state_code": "NY", "county": "Erie", "position": ""}
     assert match.match_one(row, erie).status == "auto"
+
+
+def test_wisconsin_counties_keep_only_whole_districts_complete():
+    from elex.counties import wi
+    dane = wi.parse_dane({"LastPublished": "2026-11-03T21:48:02", "Races": [
+        {"RaceName": "Representative to the Assembly District 76", "RaceNumber": "0017", "TotalPrecincts": 40,
+         "PrecinctsReported": 36, "Candidates": [
+             {"Number": 1, "Name": "REP Nina Chat", "Votes": 20, "PartyCode": "REP"},
+             {"Number": 2, "Name": "DEM Dina Nina Martinez-Rutherford", "Votes": 80, "PartyCode": "DEM"}]},
+        {"RaceName": "State Senator District 17", "RaceNumber": "0009", "Candidates": []},
+        {"RaceName": "State Referendum 1 (Partial veto)", "RaceNumber": "0026", "Candidates": [
+            {"Number": 1, "Name": "YES", "Votes": 3}, {"Number": 2, "Name": "NO", "Votes": 7}]}]},
+        wi.Dane.whole_districts)
+    ad76, sd17, question = dane
+    assert ad76.scope == "complete" and ad76.choices[1].name == "Dina Nina Martinez-Rutherford"
+    assert ad76.reporting.pct == 90.0 and sd17.scope == "partial"
+    assert question.office_type == "measure" and question.scope == "partial"
+    page = ('Last updated:&nbsp;11/3/2026 9:24:41 PM <div class="contestBox"><h1>Representative to the Assembly '
+            'District 64<br /></h1><h2>(Vote for 1)</h2><td class="candtd">&nbsp;DEM Tip McGuire</td><td><div '
+            'style="z-index: 1">9485 (58.49%) </div></td></div>')
+    ad64, = wi.parse_kenosha(page, wi.Kenosha.whole_districts)
+    assert ad64.scope == "complete" and (ad64.choices[0].name, ad64.choices[0].votes) == ("Tip McGuire", 9485)
+    assert ad64.feed_updated_at == "2026-11-03T21:24:41"
