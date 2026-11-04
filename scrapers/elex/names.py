@@ -36,6 +36,8 @@ def first_name(name: str) -> str:
 
 # Ordered: the first pattern that matches the folded text wins. Federal before state, lieutenant before governor.
 _OFFICE_PATTERNS = [
+    # A county's own legislature ("County Legislature County Legislative District 6", Albany) isn't the state's.
+    ("local", r"\bcounty legislat"),
     ("federal_senate", r"\b(u ?s|united states) senat|\bsenator in congress\b|\bus senator\b"),
     ("federal_house", r"\b(u ?s|united states) (house|rep|congress)|\b(in|to) congress\b|\bcongressional\b"
                       r"|\bus house\b"),

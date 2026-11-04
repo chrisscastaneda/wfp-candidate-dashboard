@@ -1,0 +1,1664 @@
+{
+ "source": "ny.wayne",
+ "contests": [
+  {
+   "source": "ny.wayne",
+   "contest_id": "01000000-38a2-202d-bd27-08df35f2d837",
+   "state": "NY",
+   "title": "Governor and Lieutenant Governor",
+   "office_type": "governor",
+   "district": null,
+   "jurisdiction": "Wayne County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 67,
+    "pct": 0.0,
+    "text": "0 of 67 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:43.4080476Z",
+   "choices": [
+    {
+     "name": "Kathy C. Hochul & Adrienne E. Adams",
+     "votes": 12685,
+     "party": "DEM",
+     "pct": 38.41,
+     "choice_id": "01000000-38a2-202d-ca49-08df35f2d837",
+     "party_lines": {
+      "DEM": 11763,
+      "WFP": 922
+     }
+    },
+    {
+     "name": "Bruce A. Blakeman & Todd Hood",
+     "votes": 20263,
+     "party": "REP",
+     "pct": 61.35,
+     "choice_id": "01000000-38a2-202d-cc90-08df35f2d837",
+     "party_lines": {
+      "REP": 17313,
+      "CONSERVATIVE": 2665,
+      "VOTE AFFORDA": 285
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 81,
+     "party": null,
+     "pct": 0.25,
+     "choice_id": "01000000-38a2-202d-ccc6-08df35f2d837",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.wayne",
+   "contest_id": "01000000-38a2-202d-ccd2-08df35f2d837",
+   "state": "NY",
+   "title": "Comptroller",
+   "office_type": "controller",
+   "district": null,
+   "jurisdiction": "Wayne County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 67,
+    "pct": 0.0,
+    "text": "0 of 67 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:43.4080476Z",
+   "choices": [
+    {
+     "name": "Thomas P. DiNapoli",
+     "votes": 14613,
+     "party": "DEM",
+     "pct": 44.74,
+     "choice_id": "01000000-38a2-202d-cd02-08df35f2d837",
+     "party_lines": {
+      "DEM": 13099,
+      "WFP": 1514
+     }
+    },
+    {
+     "name": "Joseph Hernandez",
+     "votes": 18044,
+     "party": "REP",
+     "pct": 55.24,
+     "choice_id": "01000000-38a2-202d-cd2f-08df35f2d837",
+     "party_lines": {
+      "REP": 15399,
+      "CONSERVATIVE": 2645
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": null,
+     "pct": 0.02,
+     "choice_id": "01000000-38a2-202d-cd55-08df35f2d837",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.wayne",
+   "contest_id": "01000000-38a2-202d-cd5c-08df35f2d837",
+   "state": "NY",
+   "title": "Attorney General",
+   "office_type": "attorney_general",
+   "district": null,
+   "jurisdiction": "Wayne County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 67,
+    "pct": 0.0,
+    "text": "0 of 67 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:43.4080476Z",
+   "choices": [
+    {
+     "name": "Letitia A. James",
+     "votes": 12594,
+     "party": "DEM",
+     "pct": 38.54,
+     "choice_id": "01000000-38a2-202d-cd7a-08df35f2d837",
+     "party_lines": {
+      "DEM": 11542,
+      "WFP": 1052
+     }
+    },
+    {
+     "name": "Saritha Komatireddy",
+     "votes": 20077,
+     "party": "REP",
+     "pct": 61.44,
+     "choice_id": "01000000-38a2-202d-cd94-08df35f2d837",
+     "party_lines": {
+      "REP": 17130,
+      "CONSERVATIVE": 2947
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 7,
+     "party": null,
+     "pct": 0.02,
+     "choice_id": "01000000-38a2-202d-cdb8-08df35f2d837",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.wayne",
+   "contest_id": "01000000-38a2-202d-cdbf-08df35f2d837",
+   "state": "NY",
+   "title": "Representative in Congress District 24",
+   "office_type": "federal_house",
+   "district": "24",
+   "jurisdiction": "Wayne County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 67,
+    "pct": 0.0,
+    "text": "0 of 67 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:43.4080476Z",
+   "choices": [
+    {
+     "name": "Alissa J. Ellman",
+     "votes": 12973,
+     "party": "DEM",
+     "pct": 39.47,
+     "choice_id": "01000000-38a2-202d-cddd-08df35f2d837",
+     "party_lines": {
+      "DEM": 11779,
+      "WFP": 1194
+     }
+    },
+    {
+     "name": "Claudia Tenney",
+     "votes": 19884,
+     "party": "REP",
+     "pct": 60.5,
+     "choice_id": "01000000-38a2-202d-cdff-08df35f2d837",
+     "party_lines": {
+      "REP": 17052,
+      "CONSERVATIVE": 2832
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 10,
+     "party": null,
+     "pct": 0.03,
+     "choice_id": "01000000-38a2-202d-ce23-08df35f2d837",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.wayne",
+   "contest_id": "01000000-38a2-202d-ce28-08df35f2d837",
+   "state": "NY",
+   "title": "State Senator District 54",
+   "office_type": "state_senate",
+   "district": "54",
+   "jurisdiction": "Wayne County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 67,
+    "pct": 0.0,
+    "text": "0 of 67 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:43.4080476Z",
+   "choices": [
+    {
+     "name": "Michael Mills",
+     "votes": 11339,
+     "party": "DEM",
+     "pct": 34.54,
+     "choice_id": "01000000-38a2-202d-ce46-08df35f2d837",
+     "party_lines": {
+      "DEM": 11339
+     }
+    },
+    {
+     "name": "Pamela A. Helming ",
+     "votes": 21481,
+     "party": "REP",
+     "pct": 65.43,
+     "choice_id": "01000000-38a2-202d-ce5d-08df35f2d837",
+     "party_lines": {
+      "REP": 18283,
+      "CONSERVATIVE": 3198
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 13,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-38a2-202d-ce7d-08df35f2d837",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.wayne",
+   "contest_id": "01000000-38a2-202d-ce84-08df35f2d837",
+   "state": "NY",
+   "title": "Member of Assembly District 130",
+   "office_type": "state_house",
+   "district": "130",
+   "jurisdiction": "Wayne County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 67,
+    "pct": 0.0,
+    "text": "0 of 67 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:43.4080476Z",
+   "choices": [
+    {
+     "name": "Carl Fitzsimmons",
+     "votes": 11160,
+     "party": "DEM",
+     "pct": 34.29,
+     "choice_id": "01000000-38a2-202d-cea3-08df35f2d837",
+     "party_lines": {
+      "DEM": 11160
+     }
+    },
+    {
+     "name": "George Dobbins ",
+     "votes": 20281,
+     "party": "REP",
+     "pct": 62.31,
+     "choice_id": "01000000-38a2-202d-cec3-08df35f2d837",
+     "party_lines": {
+      "REP": 17293,
+      "CONSERVATIVE": 2988
+     }
+    },
+    {
+     "name": "Joseph Lamanna",
+     "votes": 1094,
+     "party": "COMMON SENSE",
+     "pct": 3.36,
+     "choice_id": "01000000-38a2-202d-cedc-08df35f2d837",
+     "party_lines": {
+      "COMMON SENSE": 1094
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 13,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-38a2-202d-cef8-08df35f2d837",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.wayne",
+   "contest_id": "01000000-38a2-202d-cf00-08df35f2d837",
+   "state": "NY",
+   "title": "Treasurer",
+   "office_type": "treasurer",
+   "district": null,
+   "jurisdiction": "Wayne County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 67,
+    "pct": 0.0,
+    "text": "0 of 67 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:43.4080476Z",
+   "choices": [
+    {
+     "name": "Jamie Corteville",
+     "votes": 25540,
+     "party": "REP",
+     "pct": 99.45,
+     "choice_id": "01000000-38a2-202d-cf21-08df35f2d837",
+     "party_lines": {
+      "REP": 20753,
+      "CONSERVATIVE": 4787
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 140,
+     "party": null,
+     "pct": 0.55,
+     "choice_id": "01000000-38a2-202d-cf41-08df35f2d837",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.wayne",
+   "contest_id": "01000000-38a2-202d-cf49-08df35f2d837",
+   "state": "NY",
+   "title": "County Coroner",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Wayne County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 67,
+    "pct": 0.0,
+    "text": "0 of 67 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:43.4080476Z",
+   "choices": [
+    {
+     "name": "Philip Pettine ",
+     "votes": 24147,
+     "party": "REP",
+     "pct": 99.42,
+     "choice_id": "01000000-38a2-202d-cf68-08df35f2d837",
+     "party_lines": {
+      "REP": 24147
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 141,
+     "party": null,
+     "pct": 0.58,
+     "choice_id": "01000000-38a2-202d-cf87-08df35f2d837",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.wayne",
+   "contest_id": "01000000-38a2-202d-cf93-08df35f2d837",
+   "state": "NY",
+   "title": "Supervisor for Town of Butler",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Wayne County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:43.4080476Z",
+   "choices": [
+    {
+     "name": "Tommy Mettler",
+     "votes": 452,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "01000000-38a2-202d-cfb4-08df35f2d837",
+     "party_lines": {
+      "REP": 452
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.wayne",
+   "contest_id": "01000000-38a2-202d-cfd9-08df35f2d837",
+   "state": "NY",
+   "title": "Supervisor for Town of Huron",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Wayne County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:43.4080476Z",
+   "choices": [
+    {
+     "name": "Dave Fantuzzo",
+     "votes": 629,
+     "party": "REP",
+     "pct": 99.06,
+     "choice_id": "01000000-38a2-202d-cff9-08df35f2d837",
+     "party_lines": {
+      "REP": 512,
+      "CONSERVATIVE": 117
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 6,
+     "party": null,
+     "pct": 0.94,
+     "choice_id": "01000000-38a2-202d-d01b-08df35f2d837",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.wayne",
+   "contest_id": "01000000-38a2-202d-d01f-08df35f2d837",
+   "state": "NY",
+   "title": "Supervisor for Town of Marion",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Wayne County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:43.4080476Z",
+   "choices": [
+    {
+     "name": "Mike Cramer",
+     "votes": 1431,
+     "party": "REP",
+     "pct": 98.08,
+     "choice_id": "01000000-38a2-202d-d041-08df35f2d837",
+     "party_lines": {
+      "REP": 1431
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 28,
+     "party": null,
+     "pct": 1.92,
+     "choice_id": "01000000-38a2-202d-d064-08df35f2d837",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.wayne",
+   "contest_id": "01000000-38a2-202d-d06c-08df35f2d837",
+   "state": "NY",
+   "title": "Supervisor for Town of Ontario",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Wayne County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:43.4080476Z",
+   "choices": [
+    {
+     "name": "Jim Switzer",
+     "votes": 1779,
+     "party": "DEM",
+     "pct": 38.31,
+     "choice_id": "01000000-38a2-202d-d08e-08df35f2d837",
+     "party_lines": {
+      "DEM": 1779
+     }
+    },
+    {
+     "name": "Ben Aman",
+     "votes": 2860,
+     "party": "REP",
+     "pct": 61.58,
+     "choice_id": "01000000-38a2-202d-d0a7-08df35f2d837",
+     "party_lines": {
+      "REP": 2393,
+      "CONSERVATIVE": 467
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 5,
+     "party": null,
+     "pct": 0.11,
+     "choice_id": "01000000-38a2-202d-d0c7-08df35f2d837",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.wayne",
+   "contest_id": "01000000-38a2-202d-d0cf-08df35f2d837",
+   "state": "NY",
+   "title": "Supervisor for Town of Rose",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Wayne County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:43.4080476Z",
+   "choices": [
+    {
+     "name": "Kenan S. Baldridge",
+     "votes": 289,
+     "party": "DEM",
+     "pct": 35.5,
+     "choice_id": "01000000-38a2-202d-d0f7-08df35f2d837",
+     "party_lines": {
+      "DEM": 289
+     }
+    },
+    {
+     "name": "Christine Rice",
+     "votes": 524,
+     "party": "REP",
+     "pct": 64.37,
+     "choice_id": "01000000-38a2-202d-d10e-08df35f2d837",
+     "party_lines": {
+      "REP": 460,
+      "CONSERVATIVE": 64
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.12,
+     "choice_id": "01000000-38a2-202d-d12e-08df35f2d837",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.wayne",
+   "contest_id": "01000000-38a2-202d-d51f-08df35f2d837",
+   "state": "NY",
+   "title": "Supervisor for Town of Savannah",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Wayne County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:43.4080476Z",
+   "choices": [
+    {
+     "name": "Michael Kolczynski",
+     "votes": 452,
+     "party": "REP",
+     "pct": 98.69,
+     "choice_id": "01000000-38a2-202d-d548-08df35f2d837",
+     "party_lines": {
+      "REP": 414,
+      "SAVANNAH RES": 38
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 6,
+     "party": null,
+     "pct": 1.31,
+     "choice_id": "01000000-38a2-202d-d56b-08df35f2d837",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.wayne",
+   "contest_id": "01000000-38a2-202d-d570-08df35f2d837",
+   "state": "NY",
+   "title": "Supervisor for Town of Wolcott",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Wayne County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:43.4080476Z",
+   "choices": [
+    {
+     "name": "Lynn Chatfield",
+     "votes": 965,
+     "party": "REPUBLICAN /",
+     "pct": 98.97,
+     "choice_id": "01000000-38a2-202d-d593-08df35f2d837",
+     "party_lines": {
+      "REPUBLICAN /": 824,
+      "CONSERVATIVE": 141
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 10,
+     "party": null,
+     "pct": 1.03,
+     "choice_id": "01000000-38a2-202d-d5b2-08df35f2d837",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.wayne",
+   "contest_id": "01000000-38a2-202d-d5b8-08df35f2d837",
+   "state": "NY",
+   "title": "Town Clerk ( 3 yr. Vacancy) for Town of Walworth",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Wayne County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:43.4080476Z",
+   "choices": [
+    {
+     "name": "Nadine Seppeler",
+     "votes": 3090,
+     "party": "REP",
+     "pct": 98.22,
+     "choice_id": "01000000-38a2-202d-d5da-08df35f2d837",
+     "party_lines": {
+      "REP": 2513,
+      "CONSERVATIVE": 577
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 56,
+     "party": null,
+     "pct": 1.78,
+     "choice_id": "01000000-38a2-202d-d602-08df35f2d837",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.wayne",
+   "contest_id": "01000000-38a2-202d-d609-08df35f2d837",
+   "state": "NY",
+   "title": "Town Clerk (1 Year Vacancy) for Town of Wolcott",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Wayne County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:43.4080476Z",
+   "choices": [
+    {
+     "name": "Jesse Chatfield",
+     "votes": 958,
+     "party": "REPUBLICAN /",
+     "pct": 99.27,
+     "choice_id": "01000000-38a2-202d-d62c-08df35f2d837",
+     "party_lines": {
+      "REPUBLICAN /": 813,
+      "CONSERVATIVE": 145
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 7,
+     "party": null,
+     "pct": 0.73,
+     "choice_id": "01000000-38a2-202d-d649-08df35f2d837",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.wayne",
+   "contest_id": "01000000-38a2-202d-d650-08df35f2d837",
+   "state": "NY",
+   "title": "Receiver of Taxes and Assessments (2 Year Vacancy) for Town of Arcadia",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Wayne County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 10,
+    "pct": 0.0,
+    "text": "0 of 10 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:43.4080476Z",
+   "choices": [
+    {
+     "name": "Diane Allerton",
+     "votes": 3137,
+     "party": "REP",
+     "pct": 99.4,
+     "choice_id": "01000000-38a2-202d-d674-08df35f2d837",
+     "party_lines": {
+      "REP": 3137
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 19,
+     "party": null,
+     "pct": 0.6,
+     "choice_id": "01000000-38a2-202d-d692-08df35f2d837",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.wayne",
+   "contest_id": "01000000-38a2-202d-d696-08df35f2d837",
+   "state": "NY",
+   "title": "Council Member (1 Year Vacancy) for Town of Walworth",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Wayne County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:43.4080476Z",
+   "choices": [
+    {
+     "name": "Patricia Marini",
+     "votes": 2771,
+     "party": "REP",
+     "pct": 88.56,
+     "choice_id": "01000000-38a2-202d-d6b8-08df35f2d837",
+     "party_lines": {
+      "REP": 2771
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 358,
+     "party": null,
+     "pct": 11.44,
+     "choice_id": "01000000-38a2-202d-d6da-08df35f2d837",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.wayne",
+   "contest_id": "01000000-38a2-202d-d6e2-08df35f2d837",
+   "state": "NY",
+   "title": "Superintendent of Highways  for Town of Rose",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Wayne County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:43.4080476Z",
+   "choices": [
+    {
+     "name": "Jeff Jay",
+     "votes": 723,
+     "party": "REP",
+     "pct": 99.72,
+     "choice_id": "01000000-38a2-202d-d706-08df35f2d837",
+     "party_lines": {
+      "REP": 596,
+      "CONSERVATIVE": 127
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.28,
+     "choice_id": "01000000-38a2-202d-d722-08df35f2d837",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.wayne",
+   "contest_id": "01000000-38a2-202d-d728-08df35f2d837",
+   "state": "NY",
+   "title": "Superintendent of Highways for Town of Savannah",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Wayne County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:43.4080476Z",
+   "choices": [
+    {
+     "name": "Brandon Baker",
+     "votes": 87,
+     "party": "HOMETOWN DED",
+     "pct": 17.54,
+     "choice_id": "01000000-38a2-202d-d74d-08df35f2d837",
+     "party_lines": {
+      "HOMETOWN DED": 87
+     }
+    },
+    {
+     "name": "Jeff Liddle",
+     "votes": 409,
+     "party": "REP",
+     "pct": 82.46,
+     "choice_id": "01000000-38a2-202d-d765-08df35f2d837",
+     "party_lines": {
+      "REP": 374,
+      "SAVANNAH RES": 35
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.wayne",
+   "contest_id": "01000000-38a2-202d-d791-08df35f2d837",
+   "state": "NY",
+   "title": "Mayor for Village of Newark",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Wayne County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": "0 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:43.4080476Z",
+   "choices": [
+    {
+     "name": "Jonathan Taylor",
+     "votes": 1772,
+     "party": "REP",
+     "pct": 98.12,
+     "choice_id": "01000000-38a2-202d-d7b4-08df35f2d837",
+     "party_lines": {
+      "REP": 1651,
+      "NEWARK UNITE": 121
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 34,
+     "party": null,
+     "pct": 1.88,
+     "choice_id": "01000000-38a2-202d-d7d2-08df35f2d837",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.wayne",
+   "contest_id": "01000000-38a2-202d-d7d7-08df35f2d837",
+   "state": "NY",
+   "title": "Village Trustee (Vote up to 2) for Village of Newark",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Wayne County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": "0 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:43.4080476Z",
+   "choices": [
+    {
+     "name": "Dina Calapiz",
+     "votes": 1639,
+     "party": "REP",
+     "pct": 50.48,
+     "choice_id": "01000000-38a2-202d-d7fb-08df35f2d837",
+     "party_lines": {
+      "REP": 1639
+     }
+    },
+    {
+     "name": "Steve Murawski",
+     "votes": 1585,
+     "party": "REP",
+     "pct": 48.81,
+     "choice_id": "01000000-38a2-202d-d811-08df35f2d837",
+     "party_lines": {
+      "REP": 1585
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 23,
+     "party": null,
+     "pct": 0.71,
+     "choice_id": "01000000-38a2-202d-d82b-08df35f2d837",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.wayne",
+   "contest_id": "01000000-38a2-202d-d82f-08df35f2d837",
+   "state": "NY",
+   "title": "Village Trustee (Vote up to 2) for Village of Clyde",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Wayne County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:43.4080476Z",
+   "choices": [
+    {
+     "name": "Mel Barber",
+     "votes": 211,
+     "party": "DEM",
+     "pct": 18.28,
+     "choice_id": "01000000-38a2-202d-d849-08df35f2d837",
+     "party_lines": {
+      "DEM": 211
+     }
+    },
+    {
+     "name": "Brad Shimp",
+     "votes": 359,
+     "party": "REP",
+     "pct": 31.11,
+     "choice_id": "01000000-38a2-202d-d867-08df35f2d837",
+     "party_lines": {
+      "REP": 304,
+      "CONSERVATIVE": 55
+     }
+    },
+    {
+     "name": "Mike Sparky DiSanto",
+     "votes": 407,
+     "party": "REP",
+     "pct": 35.27,
+     "choice_id": "01000000-38a2-202d-d87f-08df35f2d837",
+     "party_lines": {
+      "REP": 337,
+      "CONSERVATIVE": 70
+     }
+    },
+    {
+     "name": "John Jackson",
+     "votes": 176,
+     "party": "DEM",
+     "pct": 15.25,
+     "choice_id": "01000000-38a2-202d-d897-08df35f2d837",
+     "party_lines": {
+      "DEM": 176
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.09,
+     "choice_id": "01000000-38a2-202d-d8bd-08df35f2d837",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.wayne",
+   "contest_id": "01000000-38a2-202d-d8c1-08df35f2d837",
+   "state": "NY",
+   "title": "Village Trustee (Vote up to 2) for Village of Palmyra",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Wayne County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:43.4080476Z",
+   "choices": [
+    {
+     "name": "Linda Valley",
+     "votes": 949,
+     "party": "DEM",
+     "pct": 47.62,
+     "choice_id": "01000000-38a2-202d-d8dc-08df35f2d837",
+     "party_lines": {
+      "DEM": 444,
+      "REP": 429,
+      "CONSERVATIVE": 76
+     }
+    },
+    {
+     "name": "Brian Parkison",
+     "votes": 73,
+     "party": "PALMYRA FIRS",
+     "pct": 3.66,
+     "choice_id": "01000000-38a2-202d-d8f8-08df35f2d837",
+     "party_lines": {
+      "PALMYRA FIRS": 73
+     }
+    },
+    {
+     "name": "Harry Banker",
+     "votes": 556,
+     "party": "DEM",
+     "pct": 27.9,
+     "choice_id": "01000000-38a2-202d-d90e-08df35f2d837",
+     "party_lines": {
+      "DEM": 407,
+      "CONSERVATIVE": 149
+     }
+    },
+    {
+     "name": "Gina Luke",
+     "votes": 414,
+     "party": "REP",
+     "pct": 20.77,
+     "choice_id": "01000000-38a2-202d-d931-08df35f2d837",
+     "party_lines": {
+      "REP": 382,
+      "PALMYRA FIRS": 32
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.05,
+     "choice_id": "01000000-38a2-202d-d956-08df35f2d837",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.wayne",
+   "contest_id": "01000000-38a2-202d-d95d-08df35f2d837",
+   "state": "NY",
+   "title": "Village Trustee (1 Year Vacancy) for Village of Red Creek",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Wayne County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:43.4080476Z",
+   "choices": [
+    {
+     "name": "Holly Sincerbeaux",
+     "votes": 67,
+     "party": "COMMUNITY FI",
+     "pct": 59.29,
+     "choice_id": "01000000-38a2-202d-d977-08df35f2d837",
+     "party_lines": {
+      "COMMUNITY FI": 67
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 46,
+     "party": null,
+     "pct": 40.71,
+     "choice_id": "01000000-38a2-202d-d999-08df35f2d837",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.wayne",
+   "contest_id": "01000000-38a2-202d-d9a1-08df35f2d837",
+   "state": "NY",
+   "title": "Village Trustee (2 Year Vacancy) for Village Sodus",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Wayne County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:43.4080476Z",
+   "choices": [
+    {
+     "name": "Write-in",
+     "votes": 36,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "01000000-38a2-202d-d9c9-08df35f2d837",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.wayne",
+   "contest_id": "01000000-38a2-202d-d9cd-08df35f2d837",
+   "state": "NY",
+   "title": "County Court Judge",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Wayne County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 67,
+    "pct": 0.0,
+    "text": "0 of 67 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:43.4080476Z",
+   "choices": [
+    {
+     "name": "Arline Hanna",
+     "votes": 25522,
+     "party": "REP",
+     "pct": 99.46,
+     "choice_id": "01000000-38a2-202d-d9f8-08df35f2d837",
+     "party_lines": {
+      "REP": 21130,
+      "CONSERVATIVE": 4392
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 138,
+     "party": null,
+     "pct": 0.54,
+     "choice_id": "01000000-38a2-202d-da1c-08df35f2d837",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.wayne",
+   "contest_id": "01000000-38a2-202d-da1f-08df35f2d837",
+   "state": "NY",
+   "title": "Town Justice (Vote up to 2) for Town of Butler",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Wayne County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:43.4080476Z",
+   "choices": [
+    {
+     "name": "Sarah C. Lynn",
+     "votes": 406,
+     "party": "REP",
+     "pct": 50.94,
+     "choice_id": "01000000-38a2-202d-da44-08df35f2d837",
+     "party_lines": {
+      "REP": 406
+     }
+    },
+    {
+     "name": "Caleb Lange",
+     "votes": 391,
+     "party": "REP",
+     "pct": 49.06,
+     "choice_id": "01000000-38a2-202d-da5b-08df35f2d837",
+     "party_lines": {
+      "REP": 391
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.wayne",
+   "contest_id": "01000000-38a2-202d-da7b-08df35f2d837",
+   "state": "NY",
+   "title": "Town Justice ( Vote up to 2) for Town of Rose",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Wayne County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:43.4080476Z",
+   "choices": [
+    {
+     "name": "Whitney Furguson",
+     "votes": 678,
+     "party": "REP",
+     "pct": 51.36,
+     "choice_id": "01000000-38a2-202d-da94-08df35f2d837",
+     "party_lines": {
+      "REP": 555,
+      "CONSERVATIVE": 123
+     }
+    },
+    {
+     "name": "Scott Peters",
+     "votes": 634,
+     "party": "REP",
+     "pct": 48.03,
+     "choice_id": "01000000-38a2-202d-daac-08df35f2d837",
+     "party_lines": {
+      "REP": 511,
+      "CONSERVATIVE": 123
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": null,
+     "pct": 0.61,
+     "choice_id": "01000000-38a2-202d-dadb-08df35f2d837",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.wayne",
+   "contest_id": "01000000-38a2-202d-dae3-08df35f2d837",
+   "state": "NY",
+   "title": "Town Justice for Town of Ontario",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Wayne County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:43.4080476Z",
+   "choices": [
+    {
+     "name": "Dom Paz",
+     "votes": 3584,
+     "party": "REP",
+     "pct": 99.5,
+     "choice_id": "01000000-38a2-202d-dafd-08df35f2d837",
+     "party_lines": {
+      "REP": 2882,
+      "CONSERVATIVE": 702
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 18,
+     "party": null,
+     "pct": 0.5,
+     "choice_id": "01000000-38a2-202d-db21-08df35f2d837",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.wayne",
+   "contest_id": "01000000-38a2-202d-db29-08df35f2d837",
+   "state": "NY",
+   "title": "Village Justice  for Village Palmyra",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Wayne County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:43.4080476Z",
+   "choices": [
+    {
+     "name": "Terry C. Rodman",
+     "votes": 832,
+     "party": "REPUBLICAN /",
+     "pct": 99.17,
+     "choice_id": "01000000-38a2-202d-db4d-08df35f2d837",
+     "party_lines": {
+      "REPUBLICAN /": 687,
+      "CONSERVATIVE": 145
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 7,
+     "party": null,
+     "pct": 0.83,
+     "choice_id": "01000000-38a2-202d-db67-08df35f2d837",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.wayne",
+   "contest_id": "01000000-38a2-202d-db6e-08df35f2d837",
+   "state": "NY",
+   "title": "Proposition 1 -Town of Arcadia",
+   "office_type": "measure",
+   "district": "1",
+   "jurisdiction": "Wayne County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 10,
+    "pct": 0.0,
+    "text": "0 of 10 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:43.4080476Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2660,
+     "party": null,
+     "pct": 67.48,
+     "choice_id": "01000000-38a2-202d-db92-08df35f2d837",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 1282,
+     "party": null,
+     "pct": 32.52,
+     "choice_id": "01000000-38a2-202d-dba9-08df35f2d837",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.wayne",
+   "contest_id": "01000000-38a2-202d-dbbd-08df35f2d837",
+   "state": "NY",
+   "title": "Proposition 1 - Town of Ontario",
+   "office_type": "measure",
+   "district": "1",
+   "jurisdiction": "Wayne County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:43.4080476Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1690,
+     "party": null,
+     "pct": 36.96,
+     "choice_id": "01000000-38a2-202d-dbd8-08df35f2d837",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 2883,
+     "party": null,
+     "pct": 63.04,
+     "choice_id": "01000000-38a2-202d-dbef-08df35f2d837",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.wayne",
+   "contest_id": "01000000-38a2-202d-dc00-08df35f2d837",
+   "state": "NY",
+   "title": "Proposition 1 - Town of Walworth",
+   "office_type": "measure",
+   "district": "1",
+   "jurisdiction": "Wayne County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:43.4080476Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2557,
+     "party": null,
+     "pct": 63.69,
+     "choice_id": "01000000-38a2-202d-dc1b-08df35f2d837",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 1458,
+     "party": null,
+     "pct": 36.31,
+     "choice_id": "01000000-38a2-202d-dc31-08df35f2d837",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  }
+ ],
+ "contests_hash": "721ea7c991045219",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-04T15:45:25+00:00",
+ "fetched_at": "2026-11-04T15:45:25+00:00",
+ "contests_changed_at": "2026-11-04T15:37:42+00:00"
+}

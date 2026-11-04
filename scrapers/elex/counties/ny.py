@@ -23,6 +23,7 @@ from .. import config, names
 from ..model import Choice, Contest, Reporting
 from ..platforms.enhanced_voting import EnhancedVotingSource
 from ..platforms.resultscaster import ResultsCasterSource
+from ..platforms.summary_pdf import SummaryPdfSource
 from ..source import NotPublished, Source
 
 NYC = "https://enr.boenyc.gov/"
@@ -190,11 +191,172 @@ class Chautauqua(Source):
         return parse_chautauqua(data)
 
 
+# Nassau County posts election-night results as a PDF converted to HTML (app.nassaucountyny.gov/BOE/results/
+# election2.html): every word is a positioned text element. Joined in order, the text reads
+#   "Member of Assembly District 9 (Vote for 1) Christopher J. Walis 4140 27.59% Michael A. Durso 10861 72.38%
+#    Republican9979 Conservative882 Write-in5 0.03% Total15006100.00%"
+# Each candidate is "Name votes pct%", followed by their party lines ("Democratic9516 Working Families 558"). Every
+# page repeats a header ("Page: 1 of 9 Unofficial Results ... ChoiceVotes Vote %"), which is cut out first.
+NASSAU = "https://app.nassaucountyny.gov/BOE/results/election2.html"
+_NASSAU_HEADER = re.compile(r"(Page: \d+ of \d+ )?Unofficial Results .*?ChoiceVotes Vote %( All Precincts)?", re.S)
+_NASSAU_CONTEST = re.compile(r"([A-Z][^()%]*?) \(Vote for (\d+)\)")
+_NASSAU_CHOICE = re.compile(r"([A-Z\u00c0-\u017f][A-Za-z\u00c0-\u017f.'\u2019\- ]*?) ?(\d+) (\d+\.\d+)%")
+_NASSAU_LINE = re.compile(r"([A-Z][A-Za-z ]+?) ?(\d+)(?= |$)")
+
+
+def nassau_text(page: str) -> str:
+    page = re.sub(r"<style.*?</style>", "", page, flags=re.S)
+    runs = re.findall(r"<(?:tspan|text|span|div)[^>]*>([^<]{1,200})<", page)
+    return re.sub(r"\s+", " ", " ".join(html.unescape(r).strip() for r in runs if r.strip()))
+
+
+def parse_nassau(text: str) -> list[Contest]:
+    precincts = re.search(r"(\d+) precincts reported out of (\d+) total", text)
+    stamp = re.search(r"\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}", text)
+    updated = stamp.group(0).replace(" ", "T") + "-05:00" if stamp else None
+    reporting = (Reporting(int(precincts.group(1)), int(precincts.group(2)), as_percent=False,
+                           text=f"Countywide, {precincts.group(1)} of {precincts.group(2)} precincts reported")
+                 if precincts else Reporting())
+    body = _NASSAU_HEADER.sub(" ", text)
+    heads = list(_NASSAU_CONTEST.finditer(body))
+    contests = []
+    for i, head in enumerate(heads):
+        chunk = body[head.end():heads[i + 1].start() if i + 1 < len(heads) else len(body)]
+        chunk = chunk.split(" Total", 1)[0]
+        title = head.group(1).strip()
+        found = list(_NASSAU_CHOICE.finditer(chunk))
+        choices = []
+        for j, m in enumerate(found):
+            name = m.group(1).strip()
+            if name.lower().startswith("write-in"):
+                continue
+            lines_text = chunk[m.end():found[j + 1].start() if j + 1 < len(found) else len(chunk)]
+            lines = {names.party(p.strip()): int(v) for p, v in _NASSAU_LINE.findall(lines_text)}
+            lines = {k: v for k, v in lines.items() if k}
+            party = next((k for k in lines if k != "WFP"), next(iter(lines), None))
+            choices.append(Choice(name, int(m.group(2)), party, choice_id=name, party_lines=lines or None))
+        is_measure = bool(re.match(r"(?i)(proposal|proposition)", title))
+        kind = "measure" if is_measure else names.office_type(title)
+        contest = Contest(
+            source="ny.nassau", contest_id=title, state="NY", title=title, office_type=kind,
+            district=names.measure_id(title) if is_measure else names.district(title), jurisdiction="Nassau County",
+            scope="complete" if kind in ("local", "measure") else "partial", vote_for=int(head.group(2)),
+            reporting=reporting, feed_updated_at=updated, url=NASSAU,
+            choices=[Choice(names.yes_no(c.name), c.votes, choice_id=c.choice_id) for c in choices] if is_measure
+            else choices)
+        contest.fill_percentages()
+        contests.append(contest)
+    return contests
+
+
+class Nassau(Source):
+    id = "ny.nassau"
+    state = "NY"
+    level = "county"
+    county = "Nassau"
+    title = "Nassau County election night results"
+    site_name = "Nassau County Board of Elections"
+    url = NASSAU
+    platform = "Nassau results (PDF as HTML)"
+    tiers = frozenset({4})
+
+    def pull(self, fetch):
+        text = nassau_text(fetch.get(NASSAU, expect="text"))
+        when = config.ELECTION_DATE.strftime("%B %-d, %Y")
+        if f"{when} General Election" not in text:
+            raise NotPublished(f"Nassau's results page isn't the {when} general election")
+        return parse_nassau(text)
+
+
+# Schenectady County's election-night page (schenectadycountyny.gov/sites/default/files/BOE Election Results/GE26.html,
+# named for the election: GE26, PE26 ...) is a "Summary Results Report" exported as HTML. As text, one line each:
+#   Vote For 1 / Member of Assembly District 110 / DEM Phillip G. Steck / 8,415 / WOR Phillip G. Steck / 901 /
+#   Write-In Totals / 17 / TOTAL
+# Each candidate's party lines are combined. Precincts reporting is countywide only.
+SCHENECTADY = "https://www.schenectadycountyny.gov/sites/default/files/BOE%20Election%20Results/"
+_PARTY_CODE = re.compile(r"^([A-Z]{2,4}) (?=[A-Z][a-z])")
+
+
+def html_lines(page: str) -> list[str]:
+    page = re.sub(r"<(style|script).*?</\1>", "", page, flags=re.S | re.I)
+    page = re.sub(r"<br\s*/?>|</(tr|p|div|h\d|td|th)>", "\n", page, flags=re.I)
+    text = html.unescape(re.sub(r"<[^>]+>", " ", page))
+    return [ln for ln in (re.sub(r"\s+", " ", raw).strip() for raw in text.split("\n")) if ln]
+
+
+def parse_schenectady(lines: list[str]) -> list[Contest]:
+    joined = "\n".join(lines)
+    precincts = re.search(r"Election Day Precincts Reporting\n(\d+) of (\d+)", joined)
+    reporting = (Reporting(int(precincts.group(1)), int(precincts.group(2)), as_percent=False,
+                           text=f"Countywide, {precincts.group(1)} of {precincts.group(2)} precincts reporting")
+                 if precincts else Reporting())
+    contests, i = [], 0
+    while i < len(lines):
+        vote_for = re.match(r"^Vote For (\d+)$", lines[i])
+        if not vote_for or i + 1 >= len(lines):
+            i += 1
+            continue
+        title, i = lines[i + 1], i + 2
+        by_name: dict[str, Choice] = {}
+        while i + 1 < len(lines) and lines[i] != "TOTAL" and not lines[i].startswith("Write-In"):
+            label, votes = lines[i], lines[i + 1]
+            if not re.fullmatch(r"[\d,]+", votes):
+                break
+            m = _PARTY_CODE.match(label)
+            name = label[m.end():] if m else label
+            code = names.party(m.group(1)) if m else None
+            choice = by_name.setdefault(name, Choice(name, 0, None, choice_id=name, party_lines={}))
+            choice.votes += names.to_int(votes)
+            if code:
+                choice.party_lines[code] = choice.party_lines.get(code, 0) + names.to_int(votes)
+                if choice.party in (None, "WFP") and code != "WFP":
+                    choice.party = code
+            i += 2
+        is_measure = bool(re.match(r"(?i)(proposal|proposition)\b", title))
+        kind = "measure" if is_measure else names.office_type(title)
+        choices = list(by_name.values())
+        if is_measure:
+            choices = [Choice(names.yes_no(c.name), c.votes, choice_id=c.choice_id) for c in choices]
+        complete = kind in ("local",) or (kind == "judicial" and "supreme court" not in title.lower())
+        contest = Contest(
+            source="ny.schenectady", contest_id=title, state="NY", title=title, office_type=kind,
+            district=names.measure_id(title) if is_measure else names.district(title),
+            jurisdiction="Schenectady County", scope="complete" if complete else "partial",
+            vote_for=int(vote_for.group(1)), reporting=reporting, choices=choices)
+        contest.fill_percentages()
+        contests.append(contest)
+    return contests
+
+
+class Schenectady(Source):
+    id = "ny.schenectady"
+    state = "NY"
+    level = "county"
+    county = "Schenectady"
+    title = "Schenectady County election night results"
+    site_name = "Schenectady County Board of Elections"
+    platform = "Summary Results Report (HTML)"
+    tiers = frozenset({4})
+
+    @property
+    def url(self) -> str:
+        return f"{SCHENECTADY}GE{config.ELECTION_DATE.year % 100:02d}.html"
+
+    def pull(self, fetch):
+        lines = html_lines(fetch.get(self.url, expect="text"))
+        when = config.ELECTION_DATE.strftime("%B %-d, %Y")
+        if when not in lines[:10]:
+            raise NotPublished(f"{self.url} isn't the {when} election")
+        return parse_schenectady(lines)
+
+
 # Counties whose Nov 3 results are on Enhanced Voting's shared host, at <name>-county-ny. Found by probing the
-# jurisdictions API for every county with a WFP race (Nov 4, 2026); Onondaga, Chautauqua, Niagara, Albany, Saratoga,
+# jurisdictions API for all 62 counties (Nov 4, 2026); Onondaga (Results Caster), Chautauqua, Niagara, Albany, Saratoga,
 # Nassau and Schenectady aren't there.
 _EV_COUNTIES = ("Orange", "Monroe", "Broome", "Oneida", "Rockland", "Clinton", "Suffolk", "Putnam", "Rensselaer",
-                "Columbia", "Cattaraugus", "Chemung", "Dutchess", "Ulster", "Sullivan")
+                "Columbia", "Cattaraugus", "Chemung", "Dutchess", "Ulster", "Sullivan",
+                # No WFP local races; their shares complete multi-county districts (combine.py).
+                "Jefferson", "Livingston", "Madison", "Ontario", "Steuben", "Wayne")
 
 
 def ev_county(name: str) -> EnhancedVotingSource:
@@ -210,6 +372,21 @@ SOURCES = [
                          "Westchester County Board of Elections", "https://app.enhancedvoting.com",
                          "westchester-county-ny", tiers=(4,), level="county", county="Westchester"),
     ResultsCasterSource("ny.erie", "NY", "Erie", "erie", "Erie County Board of Elections"),
+    # onondaga.gov/elections links its election-night results to ongov.resultscaster.com.
+    ResultsCasterSource("ny.onondaga", "NY", "Onondaga", "ongov", "Onondaga County Board of Elections"),
     *[ev_county(name) for name in _EV_COUNTIES],
     Chautauqua(),
+    Nassau(),
+    Schenectady(),
+    # Albany's results page (albanycountyny.gov/electionresults) adds its PDF links with JavaScript, so the
+    # election-night PDF's address is set here. A re-upload under a new address needs this updated.
+    SummaryPdfSource("ny.albany", "NY", "Albany",
+                     "https://content.civicplus.com/api/assets/ny-albanycounty/b7449722-a131-4e24-9399-df0d7963cb54",
+                     "https://www.albanycountyny.gov/electionresults", "Albany County Board of Elections"),
+    # Saratoga numbers each election-night upload (BoE-GeneralElection2026-Unofficial09.pdf); the highest is newest.
+    SummaryPdfSource("ny.saratoga", "NY", "Saratoga", None,
+                     "https://www.saratogacountyny.gov/departments/board-of-elections/",
+                     "Saratoga County Board of Elections", layout="statement",
+                     link=r"https://www\.saratogacountyny\.gov/wp/wp-content/uploads/\d{4}/\d{2}/"
+                          rf"BoE-GeneralElection{config.ELECTION_DATE.year}-Unofficial(\d+)\.pdf"),
 ]

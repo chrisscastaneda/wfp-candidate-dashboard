@@ -1,0 +1,2470 @@
+{
+ "source": "ny.nassau",
+ "contests": [
+  {
+   "source": "ny.nassau",
+   "contest_id": "Governor and Lieutenant Governor",
+   "state": "NY",
+   "title": "Governor and Lieutenant Governor",
+   "office_type": "governor",
+   "district": null,
+   "jurisdiction": "Nassau County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Kathy C. Hochul",
+     "votes": 249895,
+     "party": "DEM",
+     "pct": 50.26,
+     "choice_id": "Kathy C. Hochul",
+     "party_lines": {
+      "DEM": 240165,
+      "WFP": 9730
+     }
+    },
+    {
+     "name": "Bruce A. Blakeman",
+     "votes": 247291,
+     "party": "REP",
+     "pct": 49.74,
+     "choice_id": "Bruce A. Blakeman",
+     "party_lines": {
+      "REP": 228983,
+      "CONSERVATIVE": 15981,
+      "VOTE AFFORDA": 2327
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "State Comptroller",
+   "state": "NY",
+   "title": "State Comptroller",
+   "office_type": "controller",
+   "district": null,
+   "jurisdiction": "Nassau County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Thomas P. DiNapoli",
+     "votes": 272030,
+     "party": "DEM",
+     "pct": 55.64,
+     "choice_id": "Thomas P. DiNapoli",
+     "party_lines": {
+      "DEM": 257960,
+      "WFP": 14070
+     }
+    },
+    {
+     "name": "Joseph Hernandez",
+     "votes": 216883,
+     "party": "REP",
+     "pct": 44.36,
+     "choice_id": "Joseph Hernandez",
+     "party_lines": {
+      "REP": 200397,
+      "CONSERVATIVE": 16486
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "Attorney General",
+   "state": "NY",
+   "title": "Attorney General",
+   "office_type": "attorney_general",
+   "district": null,
+   "jurisdiction": "Nassau County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Letitia A. James",
+     "votes": 248175,
+     "party": "DEM",
+     "pct": 50.65,
+     "choice_id": "Letitia A. James",
+     "party_lines": {
+      "DEM": 236872,
+      "WFP": 11303
+     }
+    },
+    {
+     "name": "Saritha Komatireddy",
+     "votes": 241845,
+     "party": "REP",
+     "pct": 49.35,
+     "choice_id": "Saritha Komatireddy",
+     "party_lines": {
+      "REP": 223203,
+      "CONSERVATIVE": 18642
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "Representative in Congress District 2",
+   "state": "NY",
+   "title": "Representative in Congress District 2",
+   "office_type": "federal_house",
+   "district": "2",
+   "jurisdiction": "Nassau County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Patrick Halpin",
+     "votes": 10074,
+     "party": "DEM",
+     "pct": 32.59,
+     "choice_id": "Patrick Halpin",
+     "party_lines": {
+      "DEM": 9516,
+      "WFP": 558
+     }
+    },
+    {
+     "name": "Andrew R. Garbarino",
+     "votes": 20838,
+     "party": "REP",
+     "pct": 67.41,
+     "choice_id": "Andrew R. Garbarino",
+     "party_lines": {
+      "REP": 19139,
+      "CONSERVATIVE": 1699
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "Representative in Congress District 3",
+   "state": "NY",
+   "title": "Representative in Congress District 3",
+   "office_type": "federal_house",
+   "district": "3",
+   "jurisdiction": "Nassau County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Thomas R. Suozzi",
+     "votes": 102635,
+     "party": null,
+     "pct": 53.52,
+     "choice_id": "Thomas R. Suozzi",
+     "party_lines": null
+    },
+    {
+     "name": "Michael J. LiPetri Jr.",
+     "votes": 89125,
+     "party": "REP",
+     "pct": 46.48,
+     "choice_id": "Michael J. LiPetri Jr.",
+     "party_lines": {
+      "REP": 82518,
+      "CONSERVATIVE": 6607
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "Representative in Congress District 4",
+   "state": "NY",
+   "title": "Representative in Congress District 4",
+   "office_type": "federal_house",
+   "district": "4",
+   "jurisdiction": "Nassau County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Laura A. Gillen",
+     "votes": 151336,
+     "party": null,
+     "pct": 56.28,
+     "choice_id": "Laura A. Gillen",
+     "party_lines": null
+    },
+    {
+     "name": "Jeanine C. Driscoll",
+     "votes": 116912,
+     "party": "REP",
+     "pct": 43.48,
+     "choice_id": "Jeanine C. Driscoll",
+     "party_lines": {
+      "REP": 108023,
+      "CONSERVATIVE": 8889
+     }
+    },
+    {
+     "name": "Blay Tarnoff",
+     "votes": 663,
+     "party": null,
+     "pct": 0.25,
+     "choice_id": "Blay Tarnoff",
+     "party_lines": null
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "State Senator District 5",
+   "state": "NY",
+   "title": "State Senator District 5",
+   "office_type": "state_senate",
+   "district": "5",
+   "jurisdiction": "Nassau County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Andrew Piddoubny",
+     "votes": 50896,
+     "party": null,
+     "pct": 42.6,
+     "choice_id": "Andrew Piddoubny",
+     "party_lines": null
+    },
+    {
+     "name": "Steven D. Rhoads",
+     "votes": 68587,
+     "party": "REP",
+     "pct": 57.4,
+     "choice_id": "Steven D. Rhoads",
+     "party_lines": {
+      "REP": 62903,
+      "CONSERVATIVE": 5684
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "State Senator District 6",
+   "state": "NY",
+   "title": "State Senator District 6",
+   "office_type": "state_senate",
+   "district": "6",
+   "jurisdiction": "Nassau County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Siela A. Bynoe",
+     "votes": 66198,
+     "party": "DEM",
+     "pct": 67.47,
+     "choice_id": "Siela A. Bynoe",
+     "party_lines": {
+      "DEM": 63702,
+      "WFP": 2496
+     }
+    },
+    {
+     "name": "Matthew J. Capp",
+     "votes": 31920,
+     "party": "REP",
+     "pct": 32.53,
+     "choice_id": "Matthew J. Capp",
+     "party_lines": {
+      "REP": 29207,
+      "CONSERVATIVE": 2713
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "State Senator District 7",
+   "state": "NY",
+   "title": "State Senator District 7",
+   "office_type": "state_senate",
+   "district": "7",
+   "jurisdiction": "Nassau County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Rory Lancman",
+     "votes": 56472,
+     "party": null,
+     "pct": 47.97,
+     "choice_id": "Rory Lancman",
+     "party_lines": null
+    },
+    {
+     "name": "Jake Blumencranz",
+     "votes": 61246,
+     "party": "REP",
+     "pct": 52.03,
+     "choice_id": "Jake Blumencranz",
+     "party_lines": {
+      "REP": 57146,
+      "CONSERVATIVE": 4100
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "State Senator District 8",
+   "state": "NY",
+   "title": "State Senator District 8",
+   "office_type": "state_senate",
+   "district": "8",
+   "jurisdiction": "Nassau County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Joshua James Taveras",
+     "votes": 12406,
+     "party": null,
+     "pct": 33.51,
+     "choice_id": "Joshua James Taveras",
+     "party_lines": null
+    },
+    {
+     "name": "Jarett C. Gandolfo",
+     "votes": 24621,
+     "party": "REP",
+     "pct": 66.49,
+     "choice_id": "Jarett C. Gandolfo",
+     "party_lines": {
+      "REP": 22503,
+      "CONSERVATIVE": 2118
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "State Senator District 9",
+   "state": "NY",
+   "title": "State Senator District 9",
+   "office_type": "state_senate",
+   "district": "9",
+   "jurisdiction": "Nassau County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Lisa Malkie Vider",
+     "votes": 58862,
+     "party": null,
+     "pct": 51.27,
+     "choice_id": "Lisa Malkie Vider",
+     "party_lines": null
+    },
+    {
+     "name": "Patricia M. Canzoneri-Fitzpatrick",
+     "votes": 55950,
+     "party": "REP",
+     "pct": 48.73,
+     "choice_id": "Patricia M. Canzoneri-Fitzpatrick",
+     "party_lines": {
+      "REP": 51725,
+      "CONSERVATIVE": 4225
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "Member of Assembly District 9",
+   "state": "NY",
+   "title": "Member of Assembly District 9",
+   "office_type": "state_house",
+   "district": "9",
+   "jurisdiction": "Nassau County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Christopher J. Walis",
+     "votes": 4140,
+     "party": null,
+     "pct": 27.6,
+     "choice_id": "Christopher J. Walis",
+     "party_lines": null
+    },
+    {
+     "name": "Michael A. Durso",
+     "votes": 10861,
+     "party": "REP",
+     "pct": 72.4,
+     "choice_id": "Michael A. Durso",
+     "party_lines": {
+      "REP": 9979,
+      "CONSERVATIVE": 882
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "Member of Assembly District 10",
+   "state": "NY",
+   "title": "Member of Assembly District 10",
+   "office_type": "state_house",
+   "district": "10",
+   "jurisdiction": "Nassau County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Steve Stern",
+     "votes": 2713,
+     "party": null,
+     "pct": 58.31,
+     "choice_id": "Steve Stern",
+     "party_lines": null
+    },
+    {
+     "name": "Tiffany L. LeGrow",
+     "votes": 1940,
+     "party": "REP",
+     "pct": 41.69,
+     "choice_id": "Tiffany L. LeGrow",
+     "party_lines": {
+      "REP": 1827,
+      "CONSERVATIVE": 113
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "Member of Assembly District 11",
+   "state": "NY",
+   "title": "Member of Assembly District 11",
+   "office_type": "state_house",
+   "district": "11",
+   "jurisdiction": "Nassau County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Kwani B. O'Pharrow",
+     "votes": 1668,
+     "party": null,
+     "pct": 63.76,
+     "choice_id": "Kwani B. O'Pharrow",
+     "party_lines": null
+    },
+    {
+     "name": "Joseph R. Cardinale",
+     "votes": 948,
+     "party": "REP",
+     "pct": 36.24,
+     "choice_id": "Joseph R. Cardinale",
+     "party_lines": {
+      "REP": 844,
+      "CONSERVATIVE": 104
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "Member of Assembly District 13",
+   "state": "NY",
+   "title": "Member of Assembly District 13",
+   "office_type": "state_house",
+   "district": "13",
+   "jurisdiction": "Nassau County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Charles D. Lavine",
+     "votes": 24929,
+     "party": null,
+     "pct": 59.56,
+     "choice_id": "Charles D. Lavine",
+     "party_lines": null
+    },
+    {
+     "name": "Conner Phillip Dunleavy",
+     "votes": 16927,
+     "party": "REP",
+     "pct": 40.44,
+     "choice_id": "Conner Phillip Dunleavy",
+     "party_lines": {
+      "REP": 15621,
+      "CONSERVATIVE": 1306
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "Member of Assembly District 14",
+   "state": "NY",
+   "title": "Member of Assembly District 14",
+   "office_type": "state_house",
+   "district": "14",
+   "jurisdiction": "Nassau County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "John E. Brooks",
+     "votes": 22232,
+     "party": null,
+     "pct": 41.77,
+     "choice_id": "John E. Brooks",
+     "party_lines": null
+    },
+    {
+     "name": "Shannon R. Fredericks",
+     "votes": 30988,
+     "party": "REP",
+     "pct": 58.23,
+     "choice_id": "Shannon R. Fredericks",
+     "party_lines": {
+      "REP": 28617,
+      "CONSERVATIVE": 2371
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "Member of Assembly District 15",
+   "state": "NY",
+   "title": "Member of Assembly District 15",
+   "office_type": "state_house",
+   "district": "15",
+   "jurisdiction": "Nassau County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Dean Tarulli",
+     "votes": 22189,
+     "party": null,
+     "pct": 47.44,
+     "choice_id": "Dean Tarulli",
+     "party_lines": null
+    },
+    {
+     "name": "Paolo A. Pironi",
+     "votes": 24588,
+     "party": "REP",
+     "pct": 52.56,
+     "choice_id": "Paolo A. Pironi",
+     "party_lines": {
+      "REP": 22643,
+      "CONSERVATIVE": 1945
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "Member of Assembly District 16",
+   "state": "NY",
+   "title": "Member of Assembly District 16",
+   "office_type": "state_house",
+   "district": "16",
+   "jurisdiction": "Nassau County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Kim Keiserman",
+     "votes": 26439,
+     "party": null,
+     "pct": 52.11,
+     "choice_id": "Kim Keiserman",
+     "party_lines": null
+    },
+    {
+     "name": "David Hassid",
+     "votes": 24300,
+     "party": "REP",
+     "pct": 47.89,
+     "choice_id": "David Hassid",
+     "party_lines": {
+      "REP": 23002,
+      "CONSERVATIVE": 1298
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "Member of Assembly District 17",
+   "state": "NY",
+   "title": "Member of Assembly District 17",
+   "office_type": "state_house",
+   "district": "17",
+   "jurisdiction": "Nassau County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Sunita J. Lofters",
+     "votes": 19636,
+     "party": null,
+     "pct": 39.82,
+     "choice_id": "Sunita J. Lofters",
+     "party_lines": null
+    },
+    {
+     "name": "John K. Mikulin",
+     "votes": 29679,
+     "party": "REP",
+     "pct": 60.18,
+     "choice_id": "John K. Mikulin",
+     "party_lines": {
+      "REP": 27041,
+      "CONSERVATIVE": 2638
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "Member of Assembly District 18",
+   "state": "NY",
+   "title": "Member of Assembly District 18",
+   "office_type": "state_house",
+   "district": "18",
+   "jurisdiction": "Nassau County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Noah Burroughs",
+     "votes": 26807,
+     "party": "DEM",
+     "pct": 89.74,
+     "choice_id": "Noah Burroughs",
+     "party_lines": {
+      "DEM": 26037,
+      "WFP": 770
+     }
+    },
+    {
+     "name": "Charlene Jackson",
+     "votes": 3066,
+     "party": "REP",
+     "pct": 10.26,
+     "choice_id": "Charlene Jackson",
+     "party_lines": {
+      "REP": 2710,
+      "CONSERVATIVE": 356
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "Member of Assembly District 19",
+   "state": "NY",
+   "title": "Member of Assembly District 19",
+   "office_type": "state_house",
+   "district": "19",
+   "jurisdiction": "Nassau County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Colleen Connaughton",
+     "votes": 19911,
+     "party": null,
+     "pct": 41.02,
+     "choice_id": "Colleen Connaughton",
+     "party_lines": null
+    },
+    {
+     "name": "Edward P. Ra",
+     "votes": 28634,
+     "party": "REP",
+     "pct": 58.98,
+     "choice_id": "Edward P. Ra",
+     "party_lines": {
+      "REP": 26244,
+      "CONSERVATIVE": 2390
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "Member of Assembly District 20",
+   "state": "NY",
+   "title": "Member of Assembly District 20",
+   "office_type": "state_house",
+   "district": "20",
+   "jurisdiction": "Nassau County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Meir Fischer",
+     "votes": 18454,
+     "party": null,
+     "pct": 38.49,
+     "choice_id": "Meir Fischer",
+     "party_lines": null
+    },
+    {
+     "name": "Eric Ari Brown",
+     "votes": 29491,
+     "party": "REP",
+     "pct": 61.51,
+     "choice_id": "Eric Ari Brown",
+     "party_lines": {
+      "REP": 27710,
+      "CONSERVATIVE": 1781
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "Member of Assembly District 21",
+   "state": "NY",
+   "title": "Member of Assembly District 21",
+   "office_type": "state_house",
+   "district": "21",
+   "jurisdiction": "Nassau County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Judy A. Griffin",
+     "votes": 32387,
+     "party": null,
+     "pct": 60.47,
+     "choice_id": "Judy A. Griffin",
+     "party_lines": null
+    },
+    {
+     "name": "Irene V. Villacci",
+     "votes": 21169,
+     "party": "REP",
+     "pct": 39.53,
+     "choice_id": "Irene V. Villacci",
+     "party_lines": {
+      "REP": 19273,
+      "CONSERVATIVE": 1896
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "Member of Assembly District 22",
+   "state": "NY",
+   "title": "Member of Assembly District 22",
+   "office_type": "state_house",
+   "district": "22",
+   "jurisdiction": "Nassau County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Michaelle C. Solages",
+     "votes": 29436,
+     "party": "DEM",
+     "pct": 69.26,
+     "choice_id": "Michaelle C. Solages",
+     "party_lines": {
+      "DEM": 28268,
+      "WFP": 1168
+     }
+    },
+    {
+     "name": "Robert G. Inzerillo",
+     "votes": 13063,
+     "party": "REP",
+     "pct": 30.74,
+     "choice_id": "Robert G. Inzerillo",
+     "party_lines": {
+      "REP": 11952,
+      "CONSERVATIVE": 1111
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "Town of Hempstead Supervisor",
+   "state": "NY",
+   "title": "Town of Hempstead Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Nassau County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Joe Scianablo",
+     "votes": 141674,
+     "party": null,
+     "pct": 51.72,
+     "choice_id": "Joe Scianablo",
+     "party_lines": null
+    },
+    {
+     "name": "John R. Ferretti",
+     "votes": 131515,
+     "party": "REP",
+     "pct": 48.01,
+     "choice_id": "John R. Ferretti",
+     "party_lines": {
+      "REP": 121372,
+      "CONSERVATIVE": 10143
+     }
+    },
+    {
+     "name": "Martin Oliner",
+     "votes": 742,
+     "party": null,
+     "pct": 0.27,
+     "choice_id": "Martin Oliner",
+     "party_lines": null
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "Town of Hempstead Town Clerk",
+   "state": "NY",
+   "title": "Town of Hempstead Town Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Nassau County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Joylette E. Williams",
+     "votes": 137619,
+     "party": null,
+     "pct": 50.32,
+     "choice_id": "Joylette E. Williams",
+     "party_lines": null
+    },
+    {
+     "name": "Kate Murray",
+     "votes": 135883,
+     "party": "REP",
+     "pct": 49.68,
+     "choice_id": "Kate Murray",
+     "party_lines": {
+      "REP": 125024,
+      "CONSERVATIVE": 10859
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "North Hempstead Supervisor",
+   "state": "NY",
+   "title": "North Hempstead Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Nassau County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Sean Michael McCarthy",
+     "votes": 40675,
+     "party": null,
+     "pct": 48.8,
+     "choice_id": "Sean Michael McCarthy",
+     "party_lines": null
+    },
+    {
+     "name": "Jennifer S. DeSena",
+     "votes": 42676,
+     "party": "REP",
+     "pct": 51.2,
+     "choice_id": "Jennifer S. DeSena",
+     "party_lines": {
+      "REP": 39910,
+      "CONSERVATIVE": 2766
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "Oyster Bay Supervisor",
+   "state": "NY",
+   "title": "Oyster Bay Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Nassau County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "James T. Hoyle",
+     "votes": 42094,
+     "party": null,
+     "pct": 37.67,
+     "choice_id": "James T. Hoyle",
+     "party_lines": null
+    },
+    {
+     "name": "Joseph S. Saladino",
+     "votes": 69638,
+     "party": "REP",
+     "pct": 62.33,
+     "choice_id": "Joseph S. Saladino",
+     "party_lines": {
+      "REP": 63955,
+      "CONSERVATIVE": 5683
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "Oyster Bay Town Clerk",
+   "state": "NY",
+   "title": "Oyster Bay Town Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Nassau County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Shreya Gupta",
+     "votes": 44306,
+     "party": null,
+     "pct": 39.98,
+     "choice_id": "Shreya Gupta",
+     "party_lines": null
+    },
+    {
+     "name": "Richard L. LaMarca",
+     "votes": 66527,
+     "party": "REP",
+     "pct": 60.02,
+     "choice_id": "Richard L. LaMarca",
+     "party_lines": {
+      "REP": 61113,
+      "CONSERVATIVE": 5414
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "County Legislator District 1",
+   "state": "NY",
+   "title": "County Legislator District 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Nassau County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Scott M. Davis",
+     "votes": 18084,
+     "party": null,
+     "pct": 71.38,
+     "choice_id": "Scott M. Davis",
+     "party_lines": null
+    },
+    {
+     "name": "Edward J. Lino",
+     "votes": 7251,
+     "party": "REP",
+     "pct": 28.62,
+     "choice_id": "Edward J. Lino",
+     "party_lines": {
+      "REP": 6551,
+      "CONSERVATIVE": 700
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "County Legislator District 2",
+   "state": "NY",
+   "title": "County Legislator District 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Nassau County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Viviana L. Russell",
+     "votes": 12681,
+     "party": null,
+     "pct": 72.23,
+     "choice_id": "Viviana L. Russell",
+     "party_lines": null
+    },
+    {
+     "name": "Lamont E. Johnson",
+     "votes": 4875,
+     "party": "REP",
+     "pct": 27.77,
+     "choice_id": "Lamont E. Johnson",
+     "party_lines": {
+      "REP": 4445,
+      "CONSERVATIVE": 430
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "County Legislator District 3",
+   "state": "NY",
+   "title": "County Legislator District 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Nassau County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Carrié Solages",
+     "votes": 17835,
+     "party": "DEM",
+     "pct": 73.01,
+     "choice_id": "Carrié Solages",
+     "party_lines": {
+      "DEM": 17189,
+      "WFP": 646
+     }
+    },
+    {
+     "name": "Kadeem M. Brown",
+     "votes": 6592,
+     "party": "REP",
+     "pct": 26.99,
+     "choice_id": "Kadeem M. Brown",
+     "party_lines": {
+      "REP": 6012,
+      "CONSERVATIVE": 580
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "County Legislator District 4",
+   "state": "NY",
+   "title": "County Legislator District 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Nassau County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Michael J. Pentola",
+     "votes": 12849,
+     "party": null,
+     "pct": 44.97,
+     "choice_id": "Michael J. Pentola",
+     "party_lines": null
+    },
+    {
+     "name": "Patrick Mullaney",
+     "votes": 15721,
+     "party": "REP",
+     "pct": 55.03,
+     "choice_id": "Patrick Mullaney",
+     "party_lines": {
+      "REP": 14478,
+      "CONSERVATIVE": 1243
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "County Legislator District 5",
+   "state": "NY",
+   "title": "County Legislator District 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Nassau County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Olena Nicks",
+     "votes": 12481,
+     "party": null,
+     "pct": 68.07,
+     "choice_id": "Olena Nicks",
+     "party_lines": null
+    },
+    {
+     "name": "Moshe E. Hill",
+     "votes": 5855,
+     "party": "REP",
+     "pct": 31.93,
+     "choice_id": "Moshe E. Hill",
+     "party_lines": {
+      "REP": 5398,
+      "CONSERVATIVE": 457
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "County Legislator District 6",
+   "state": "NY",
+   "title": "County Legislator District 6",
+   "office_type": "local",
+   "district": "6",
+   "jurisdiction": "Nassau County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Debra S. Mulé",
+     "votes": 15526,
+     "party": null,
+     "pct": 71.42,
+     "choice_id": "Debra S. Mulé",
+     "party_lines": null
+    },
+    {
+     "name": "Benjamin Jackson",
+     "votes": 6212,
+     "party": "REP",
+     "pct": 28.58,
+     "choice_id": "Benjamin Jackson",
+     "party_lines": {
+      "REP": 5671,
+      "CONSERVATIVE": 541
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "County Legislator District 7",
+   "state": "NY",
+   "title": "County Legislator District 7",
+   "office_type": "local",
+   "district": "7",
+   "jurisdiction": "Nassau County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Douglas J. Segan",
+     "votes": 7452,
+     "party": null,
+     "pct": 28.99,
+     "choice_id": "Douglas J. Segan",
+     "party_lines": null
+    },
+    {
+     "name": "Howard J. Kopel",
+     "votes": 18254,
+     "party": "REP",
+     "pct": 71.01,
+     "choice_id": "Howard J. Kopel",
+     "party_lines": {
+      "REP": 17446,
+      "CONSERVATIVE": 808
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "County Legislator District 8",
+   "state": "NY",
+   "title": "County Legislator District 8",
+   "office_type": "local",
+   "district": "8",
+   "jurisdiction": "Nassau County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Joy Jankunas",
+     "votes": 10387,
+     "party": null,
+     "pct": 38.46,
+     "choice_id": "Joy Jankunas",
+     "party_lines": null
+    },
+    {
+     "name": "John J. Giuffre",
+     "votes": 16618,
+     "party": "REP",
+     "pct": 61.54,
+     "choice_id": "John J. Giuffre",
+     "party_lines": {
+      "REP": 15155,
+      "CONSERVATIVE": 1463
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "County Legislator District 9",
+   "state": "NY",
+   "title": "County Legislator District 9",
+   "office_type": "local",
+   "district": "9",
+   "jurisdiction": "Nassau County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Juleigh Chin",
+     "votes": 13256,
+     "party": null,
+     "pct": 50.2,
+     "choice_id": "Juleigh Chin",
+     "party_lines": null
+    },
+    {
+     "name": "Scott P. Strauss",
+     "votes": 13150,
+     "party": "REP",
+     "pct": 49.8,
+     "choice_id": "Scott P. Strauss",
+     "party_lines": {
+      "REP": 12080,
+      "CONSERVATIVE": 1070
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "County Legislator District 10",
+   "state": "NY",
+   "title": "County Legislator District 10",
+   "office_type": "local",
+   "district": "10",
+   "jurisdiction": "Nassau County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Skylar A. Epstein",
+     "votes": 10350,
+     "party": null,
+     "pct": 38.54,
+     "choice_id": "Skylar A. Epstein",
+     "party_lines": null
+    },
+    {
+     "name": "Mazi Melesa Pilip",
+     "votes": 16508,
+     "party": "REP",
+     "pct": 61.46,
+     "choice_id": "Mazi Melesa Pilip",
+     "party_lines": {
+      "REP": 15668,
+      "CONSERVATIVE": 840
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "County Legislator District 11",
+   "state": "NY",
+   "title": "County Legislator District 11",
+   "office_type": "local",
+   "district": "11",
+   "jurisdiction": "Nassau County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Delia M. DeRiggi Whitton",
+     "votes": 16323,
+     "party": null,
+     "pct": 61.45,
+     "choice_id": "Delia M. DeRiggi Whitton",
+     "party_lines": null
+    },
+    {
+     "name": "John Canning",
+     "votes": 10238,
+     "party": "REP",
+     "pct": 38.55,
+     "choice_id": "John Canning",
+     "party_lines": {
+      "REP": 9435,
+      "CONSERVATIVE": 803
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "County Legislator District 12",
+   "state": "NY",
+   "title": "County Legislator District 12",
+   "office_type": "local",
+   "district": "12",
+   "jurisdiction": "Nassau County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Michael Vanunu",
+     "votes": 12636,
+     "party": null,
+     "pct": 44.57,
+     "choice_id": "Michael Vanunu",
+     "party_lines": null
+    },
+    {
+     "name": "Michael J. Giangregorio",
+     "votes": 15713,
+     "party": "REP",
+     "pct": 55.43,
+     "choice_id": "Michael J. Giangregorio",
+     "party_lines": {
+      "REP": 14538,
+      "CONSERVATIVE": 1175
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "County Legislator District 13",
+   "state": "NY",
+   "title": "County Legislator District 13",
+   "office_type": "local",
+   "district": "13",
+   "jurisdiction": "Nassau County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Christina M. Lemyre",
+     "votes": 12596,
+     "party": null,
+     "pct": 46.09,
+     "choice_id": "Christina M. Lemyre",
+     "party_lines": null
+    },
+    {
+     "name": "Thomas McKevitt",
+     "votes": 14732,
+     "party": "REP",
+     "pct": 53.91,
+     "choice_id": "Thomas McKevitt",
+     "party_lines": {
+      "REP": 13471,
+      "CONSERVATIVE": 1261
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "County Legislator District 14",
+   "state": "NY",
+   "title": "County Legislator District 14",
+   "office_type": "local",
+   "district": "14",
+   "jurisdiction": "Nassau County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Cynthia Nuñez",
+     "votes": 17030,
+     "party": null,
+     "pct": 65.96,
+     "choice_id": "Cynthia Nuñez",
+     "party_lines": null
+    },
+    {
+     "name": "Anthony B. Capone",
+     "votes": 8789,
+     "party": "REP",
+     "pct": 34.04,
+     "choice_id": "Anthony B. Capone",
+     "party_lines": {
+      "REP": 8009,
+      "CONSERVATIVE": 780
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "County Legislator District 15",
+   "state": "NY",
+   "title": "County Legislator District 15",
+   "office_type": "local",
+   "district": "15",
+   "jurisdiction": "Nassau County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "David Louis Boldt Smith",
+     "votes": 10119,
+     "party": null,
+     "pct": 35.7,
+     "choice_id": "David Louis Boldt Smith",
+     "party_lines": null
+    },
+    {
+     "name": "Kayla Lianne Knight",
+     "votes": 18224,
+     "party": "REP",
+     "pct": 64.3,
+     "choice_id": "Kayla Lianne Knight",
+     "party_lines": {
+      "REP": 16706,
+      "CONSERVATIVE": 1518
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "County Legislator District 16",
+   "state": "NY",
+   "title": "County Legislator District 16",
+   "office_type": "local",
+   "district": "16",
+   "jurisdiction": "Nassau County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Jared Behr",
+     "votes": 14710,
+     "party": null,
+     "pct": 55.44,
+     "choice_id": "Jared Behr",
+     "party_lines": null
+    },
+    {
+     "name": "Olivia G. Pfeifer",
+     "votes": 11823,
+     "party": "REP",
+     "pct": 44.56,
+     "choice_id": "Olivia G. Pfeifer",
+     "party_lines": {
+      "REP": 10941,
+      "CONSERVATIVE": 882
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "County Legislator District 17",
+   "state": "NY",
+   "title": "County Legislator District 17",
+   "office_type": "local",
+   "district": "17",
+   "jurisdiction": "Nassau County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Ryan J. Johnson",
+     "votes": 9888,
+     "party": null,
+     "pct": 41.84,
+     "choice_id": "Ryan J. Johnson",
+     "party_lines": null
+    },
+    {
+     "name": "Rose Marie Walker",
+     "votes": 13744,
+     "party": "REP",
+     "pct": 58.16,
+     "choice_id": "Rose Marie Walker",
+     "party_lines": {
+      "REP": 12501,
+      "CONSERVATIVE": 1243
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "County Legislator District 18",
+   "state": "NY",
+   "title": "County Legislator District 18",
+   "office_type": "local",
+   "district": "18",
+   "jurisdiction": "Nassau County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Graham Musynske",
+     "votes": 11179,
+     "party": null,
+     "pct": 40.03,
+     "choice_id": "Graham Musynske",
+     "party_lines": null
+    },
+    {
+     "name": "Samantha A. Goetz",
+     "votes": 16751,
+     "party": "REP",
+     "pct": 59.97,
+     "choice_id": "Samantha A. Goetz",
+     "party_lines": {
+      "REP": 15580,
+      "CONSERVATIVE": 1171
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "County Legislator District 19",
+   "state": "NY",
+   "title": "County Legislator District 19",
+   "office_type": "local",
+   "district": "19",
+   "jurisdiction": "Nassau County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Christine Barlow",
+     "votes": 9427,
+     "party": null,
+     "pct": 30.95,
+     "choice_id": "Christine Barlow",
+     "party_lines": null
+    },
+    {
+     "name": "James D. Kennedy",
+     "votes": 21027,
+     "party": "REP",
+     "pct": 69.05,
+     "choice_id": "James D. Kennedy",
+     "party_lines": {
+      "REP": 19286,
+      "CONSERVATIVE": 1741
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "Justice of the Supreme Court",
+   "state": "NY",
+   "title": "Justice of the Supreme Court",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Nassau County",
+   "scope": "partial",
+   "vote_for": 8,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Richard Ambro",
+     "votes": 425112,
+     "party": "DEM",
+     "pct": 11.89,
+     "choice_id": "Richard Ambro",
+     "party_lines": {
+      "DEM": 230038,
+      "REP": 195074
+     }
+    },
+    {
+     "name": "Anthony R. Portesy",
+     "votes": 29270,
+     "party": null,
+     "pct": 0.82,
+     "choice_id": "Anthony R. Portesy",
+     "party_lines": null
+    },
+    {
+     "name": "Leonard D. Steinman",
+     "votes": 438926,
+     "party": "DEM",
+     "pct": 12.27,
+     "choice_id": "Leonard D. Steinman",
+     "party_lines": {
+      "DEM": 223204,
+      "REP": 193933,
+      "CONSERVATIVE": 21789
+     }
+    },
+    {
+     "name": "Mary E. Porter",
+     "votes": 234395,
+     "party": null,
+     "pct": 6.55,
+     "choice_id": "Mary E. Porter",
+     "party_lines": null
+    },
+    {
+     "name": "Kelly A. Reape",
+     "votes": 220369,
+     "party": "REP",
+     "pct": 6.16,
+     "choice_id": "Kelly A. Reape",
+     "party_lines": {
+      "REP": 197243,
+      "CONSERVATIVE": 23126
+     }
+    },
+    {
+     "name": "Joy M. Watson",
+     "votes": 439784,
+     "party": "DEM",
+     "pct": 12.3,
+     "choice_id": "Joy M. Watson",
+     "party_lines": {
+      "DEM": 225768,
+      "REP": 192321,
+      "CONSERVATIVE": 21695
+     }
+    },
+    {
+     "name": "Stephen L. Ukeiley",
+     "votes": 225425,
+     "party": null,
+     "pct": 6.3,
+     "choice_id": "Stephen L. Ukeiley",
+     "party_lines": null
+    },
+    {
+     "name": "Karen M. Wilutis",
+     "votes": 219490,
+     "party": "REP",
+     "pct": 6.14,
+     "choice_id": "Karen M. Wilutis",
+     "party_lines": {
+      "REP": 196354,
+      "CONSERVATIVE": 23136
+     }
+    },
+    {
+     "name": "Eric Sachs",
+     "votes": 230143,
+     "party": null,
+     "pct": 6.43,
+     "choice_id": "Eric Sachs",
+     "party_lines": null
+    },
+    {
+     "name": "John Iliou",
+     "votes": 215928,
+     "party": "REP",
+     "pct": 6.04,
+     "choice_id": "John Iliou",
+     "party_lines": {
+      "REP": 193332,
+      "CONSERVATIVE": 22596
+     }
+    },
+    {
+     "name": "William D. Wexler",
+     "votes": 225181,
+     "party": null,
+     "pct": 6.3,
+     "choice_id": "William D. Wexler",
+     "party_lines": null
+    },
+    {
+     "name": "James A. McDonaugh",
+     "votes": 222555,
+     "party": "REP",
+     "pct": 6.22,
+     "choice_id": "James A. McDonaugh",
+     "party_lines": {
+      "REP": 199235,
+      "CONSERVATIVE": 23320
+     }
+    },
+    {
+     "name": "John Kelly",
+     "votes": 228713,
+     "party": null,
+     "pct": 6.4,
+     "choice_id": "John Kelly",
+     "party_lines": null
+    },
+    {
+     "name": "Mary Kate Mullen",
+     "votes": 221140,
+     "party": "REP",
+     "pct": 6.18,
+     "choice_id": "Mary Kate Mullen",
+     "party_lines": {
+      "REP": 197872,
+      "CONSERVATIVE": 23268
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "Family Court Judge",
+   "state": "NY",
+   "title": "Family Court Judge",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Nassau County",
+   "scope": "partial",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Ellen R. Greenberg",
+     "votes": 445155,
+     "party": "DEM",
+     "pct": 50.61,
+     "choice_id": "Ellen R. Greenberg",
+     "party_lines": {
+      "DEM": 228815,
+      "REP": 194794,
+      "CONSERVATIVE": 21546
+     }
+    },
+    {
+     "name": "Ayesha Keri Brantley",
+     "votes": 434463,
+     "party": "DEM",
+     "pct": 49.39,
+     "choice_id": "Ayesha Keri Brantley",
+     "party_lines": {
+      "DEM": 226402,
+      "REP": 187088,
+      "CONSERVATIVE": 20973
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "District Court Judge District 2",
+   "state": "NY",
+   "title": "District Court Judge District 2",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Nassau County",
+   "scope": "partial",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Tricia M. Ferrell",
+     "votes": 259305,
+     "party": "DEM",
+     "pct": 34.11,
+     "choice_id": "Tricia M. Ferrell",
+     "party_lines": {
+      "DEM": 141081,
+      "REP": 106183,
+      "CONSERVATIVE": 12041
+     }
+    },
+    {
+     "name": "Michael W. Alpert",
+     "votes": 250376,
+     "party": "DEM",
+     "pct": 32.94,
+     "choice_id": "Michael W. Alpert",
+     "party_lines": {
+      "DEM": 132368,
+      "REP": 106032,
+      "CONSERVATIVE": 11976
+     }
+    },
+    {
+     "name": "Lauren Doddato Goldman",
+     "votes": 250415,
+     "party": "DEM",
+     "pct": 32.95,
+     "choice_id": "Lauren Doddato Goldman",
+     "party_lines": {
+      "DEM": 134951,
+      "REP": 103520,
+      "CONSERVATIVE": 11944
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "District Court Judge District 3",
+   "state": "NY",
+   "title": "District Court Judge District 3",
+   "office_type": "judicial",
+   "district": "3",
+   "jurisdiction": "Nassau County",
+   "scope": "partial",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Lisa M. Petrocelli",
+     "votes": 76193,
+     "party": "DEM",
+     "pct": 51.17,
+     "choice_id": "Lisa M. Petrocelli",
+     "party_lines": {
+      "DEM": 39864,
+      "REP": 33105,
+      "CONSERVATIVE": 3224
+     }
+    },
+    {
+     "name": "William P. Bodkin",
+     "votes": 72723,
+     "party": "DEM",
+     "pct": 48.83,
+     "choice_id": "William P. Bodkin",
+     "party_lines": {
+      "DEM": 37625,
+      "REP": 31952,
+      "CONSERVATIVE": 3146
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  },
+  {
+   "source": "ny.nassau",
+   "contest_id": "District Court Judge District 4",
+   "state": "NY",
+   "title": "District Court Judge District 4",
+   "office_type": "judicial",
+   "district": "4",
+   "jurisdiction": "Nassau County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1042,
+    "units_total": 1083,
+    "pct": null,
+    "text": "Countywide, 1042 of 1083 precincts reported",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "David W. Wright",
+     "votes": 109335,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "David W. Wright",
+     "party_lines": {
+      "DEM": 49710,
+      "REP": 53337,
+      "CONSERVATIVE": 6288
+     }
+    }
+   ],
+   "url": "https://app.nassaucountyny.gov/BOE/results/election2.html",
+   "uncontested": false
+  }
+ ],
+ "contests_hash": "db0fa4721e0f6aa8",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-04T15:45:28+00:00",
+ "fetched_at": "2026-11-04T15:45:28+00:00",
+ "contests_changed_at": "2026-11-04T15:37:42+00:00"
+}

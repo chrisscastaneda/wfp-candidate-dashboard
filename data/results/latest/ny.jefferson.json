@@ -1,0 +1,4288 @@
+{
+ "source": "ny.jefferson",
+ "contests": [
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-cdca-08df2dfd74d5",
+   "state": "NY",
+   "title": "Governor and Lieutenant Governor",
+   "office_type": "governor",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 66,
+    "pct": 0.0,
+    "text": "0 of 66 precincts fully reported, 66 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Kathy C. Hochul Adrienne E. Adams",
+     "votes": 10240,
+     "party": "DEM",
+     "pct": 33.65,
+     "choice_id": "01000000-65df-5e06-fb95-08df2dfd74d5",
+     "party_lines": {
+      "DEM": 9542,
+      "WFP": 698
+     }
+    },
+    {
+     "name": "Bruce A. Blakeman Todd Hood",
+     "votes": 20129,
+     "party": "REP",
+     "pct": 66.14,
+     "choice_id": "01000000-65df-5e06-1751-08df2dfd74d6",
+     "party_lines": {
+      "REP": 18363,
+      "CONSERVATIVE": 1422,
+      "VOTE AFFORDA": 344
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 64,
+     "party": "NON-PARTISAN",
+     "pct": 0.21,
+     "choice_id": "01000000-65df-5e06-1b36-08df2dfd74d6",
+     "party_lines": {
+      "NON-PARTISAN": 64
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-e781-08df2dfd74d6",
+   "state": "NY",
+   "title": "Comptroller",
+   "office_type": "controller",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 66,
+    "pct": 0.0,
+    "text": "0 of 66 precincts fully reported, 66 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Thomas P. DiNapoli",
+     "votes": 13187,
+     "party": "DEM",
+     "pct": 44.05,
+     "choice_id": "01000000-65df-5e06-e816-08df2dfd74d6",
+     "party_lines": {
+      "DEM": 11855,
+      "WFP": 1332
+     }
+    },
+    {
+     "name": "Joseph Hernandez",
+     "votes": 16730,
+     "party": "REP",
+     "pct": 55.89,
+     "choice_id": "01000000-65df-5e06-eb06-08df2dfd74d6",
+     "party_lines": {
+      "REP": 15435,
+      "CONSERVATIVE": 1295
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 19,
+     "party": "NON-PARTISAN",
+     "pct": 0.06,
+     "choice_id": "01000000-65df-5e06-edb9-08df2dfd74d6",
+     "party_lines": {
+      "NON-PARTISAN": 19
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-f348-08df2dfd74d6",
+   "state": "NY",
+   "title": "Attorney General",
+   "office_type": "attorney_general",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 66,
+    "pct": 0.0,
+    "text": "0 of 66 precincts fully reported, 66 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Letitia A. James",
+     "votes": 11514,
+     "party": "DEM",
+     "pct": 38.36,
+     "choice_id": "01000000-65df-5e06-f395-08df2dfd74d6",
+     "party_lines": {
+      "DEM": 10523,
+      "WFP": 991
+     }
+    },
+    {
+     "name": "Saritha Komatireddy",
+     "votes": 18482,
+     "party": "REP",
+     "pct": 61.58,
+     "choice_id": "01000000-65df-5e06-f632-08df2dfd74d6",
+     "party_lines": {
+      "REP": 16979,
+      "CONSERVATIVE": 1503
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 18,
+     "party": "NON-PARTISAN",
+     "pct": 0.06,
+     "choice_id": "01000000-65df-5e06-f8f4-08df2dfd74d6",
+     "party_lines": {
+      "NON-PARTISAN": 18
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-fdee-08df2dfd74d6",
+   "state": "NY",
+   "title": "Representative in Congress 21st District",
+   "office_type": "federal_house",
+   "district": "21",
+   "jurisdiction": "Jefferson County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 16,
+    "pct": 0.0,
+    "text": "0 of 16 precincts fully reported, 16 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Blake Gendebien",
+     "votes": 1927,
+     "party": "DEM",
+     "pct": 45.02,
+     "choice_id": "01000000-65df-5e06-fe1d-08df2dfd74d6",
+     "party_lines": {
+      "DEM": 1927
+     }
+    },
+    {
+     "name": "Anthony Constantino",
+     "votes": 2338,
+     "party": "REP",
+     "pct": 54.63,
+     "choice_id": "01000000-65df-5e06-fe8f-08df2dfd74d6",
+     "party_lines": {
+      "REP": 2315,
+      "TAXPAYER RIG": 23
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 15,
+     "party": "NON-PARTISAN",
+     "pct": 0.35,
+     "choice_id": "01000000-65df-5e06-ff62-08df2dfd74d6",
+     "party_lines": {
+      "NON-PARTISAN": 15
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-04ac-08df2dfd74d7",
+   "state": "NY",
+   "title": "Representative in Congress 24th District",
+   "office_type": "federal_house",
+   "district": "24",
+   "jurisdiction": "Jefferson County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 50,
+    "pct": 0.0,
+    "text": "0 of 50 precincts fully reported, 50 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Alissa J. Ellman",
+     "votes": 9721,
+     "party": "DEM",
+     "pct": 37.52,
+     "choice_id": "01000000-65df-5e06-04e4-08df2dfd74d7",
+     "party_lines": {
+      "DEM": 8876,
+      "WFP": 845
+     }
+    },
+    {
+     "name": "Claudia Tenney",
+     "votes": 16172,
+     "party": "REP",
+     "pct": 62.42,
+     "choice_id": "01000000-65df-5e06-06f0-08df2dfd74d7",
+     "party_lines": {
+      "REP": 14912,
+      "CONSERVATIVE": 1260
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 14,
+     "party": "NON-PARTISAN",
+     "pct": 0.05,
+     "choice_id": "01000000-65df-5e06-08e9-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 14
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-11cd-08df2dfd74d7",
+   "state": "NY",
+   "title": "State Senator 49th District",
+   "office_type": "state_senate",
+   "district": "49",
+   "jurisdiction": "Jefferson County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 66,
+    "pct": 0.0,
+    "text": "0 of 66 precincts fully reported, 66 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Cassie L. Robbins-Forbus",
+     "votes": 9439,
+     "party": "DEM",
+     "pct": 31.17,
+     "choice_id": "01000000-65df-5e06-11fd-08df2dfd74d7",
+     "party_lines": {
+      "DEM": 8735,
+      "WFP": 704
+     }
+    },
+    {
+     "name": "Mark C. Walczyk",
+     "votes": 20838,
+     "party": "REP",
+     "pct": 68.8,
+     "choice_id": "01000000-65df-5e06-14a4-08df2dfd74d7",
+     "party_lines": {
+      "REP": 19027,
+      "CONSERVATIVE": 1811
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 10,
+     "party": "NON-PARTISAN",
+     "pct": 0.03,
+     "choice_id": "01000000-65df-5e06-171c-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 10
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-1c16-08df2dfd74d7",
+   "state": "NY",
+   "title": "Member of Assembly 116th District",
+   "office_type": "state_house",
+   "district": "116",
+   "jurisdiction": "Jefferson County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 41,
+    "pct": 0.0,
+    "text": "0 of 41 precincts fully reported, 41 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Scott A. Gray",
+     "votes": 16801,
+     "party": "REP",
+     "pct": 98.88,
+     "choice_id": "01000000-65df-5e06-1c40-08df2dfd74d7",
+     "party_lines": {
+      "REP": 14653,
+      "CONSERVATIVE": 2148
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 191,
+     "party": "NON-PARTISAN",
+     "pct": 1.12,
+     "choice_id": "01000000-65df-5e06-1de6-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 191
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-2431-08df2dfd74d7",
+   "state": "NY",
+   "title": "Member of Assembly 117th District",
+   "office_type": "state_house",
+   "district": "117",
+   "jurisdiction": "Jefferson County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 17,
+    "pct": 0.0,
+    "text": "0 of 17 precincts fully reported, 17 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Dennis Gordon",
+     "votes": 1911,
+     "party": "DEM",
+     "pct": 31.95,
+     "choice_id": "01000000-65df-5e06-2468-08df2dfd74d7",
+     "party_lines": {
+      "DEM": 1773,
+      "WFP": 138
+     }
+    },
+    {
+     "name": "Tammie Nabywaniec",
+     "votes": 4057,
+     "party": "REP",
+     "pct": 67.82,
+     "choice_id": "01000000-65df-5e06-2960-08df2dfd74d7",
+     "party_lines": {
+      "REP": 3730,
+      "CONSERVATIVE": 327
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 14,
+     "party": "NON-PARTISAN",
+     "pct": 0.23,
+     "choice_id": "01000000-65df-5e06-2a2c-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 14
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-30fe-08df2dfd74d7",
+   "state": "NY",
+   "title": "Member of Assembly 120th District",
+   "office_type": "state_house",
+   "district": "120",
+   "jurisdiction": "Jefferson County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 8,
+    "pct": 0.0,
+    "text": "0 of 8 precincts fully reported, 8 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Timothy C. Allers",
+     "votes": 1026,
+     "party": "DEM",
+     "pct": 29.96,
+     "choice_id": "01000000-65df-5e06-3129-08df2dfd74d7",
+     "party_lines": {
+      "DEM": 1026
+     }
+    },
+    {
+     "name": "Jim Weatherup",
+     "votes": 2397,
+     "party": "REP",
+     "pct": 70.01,
+     "choice_id": "01000000-65df-5e06-3179-08df2dfd74d7",
+     "party_lines": {
+      "REP": 2216,
+      "CONSERVATIVE": 181
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": "NON-PARTISAN",
+     "pct": 0.03,
+     "choice_id": "01000000-65df-5e06-3212-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 1
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-3531-08df2dfd74d7",
+   "state": "NY",
+   "title": "County Sheriff",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 66,
+    "pct": 0.0,
+    "text": "0 of 66 precincts fully reported, 66 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Peter R. Barnett",
+     "votes": 23759,
+     "party": "REP",
+     "pct": 98.77,
+     "choice_id": "01000000-65df-5e06-354f-08df2dfd74d7",
+     "party_lines": {
+      "REP": 23759
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 296,
+     "party": "NON-PARTISAN",
+     "pct": 1.23,
+     "choice_id": "01000000-65df-5e06-3697-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 296
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-3b4b-08df2dfd74d7",
+   "state": "NY",
+   "title": "County Legislator D1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported, 6 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Robert W. Cantwell III",
+     "votes": 2557,
+     "party": "REP",
+     "pct": 99.46,
+     "choice_id": "01000000-65df-5e06-3b67-08df2dfd74d7",
+     "party_lines": {
+      "REP": 2557
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 14,
+     "party": "NON-PARTISAN",
+     "pct": 0.54,
+     "choice_id": "01000000-65df-5e06-3ba9-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 14
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-3d1d-08df2dfd74d7",
+   "state": "NY",
+   "title": "County Legislator D2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": "0 of 7 precincts fully reported, 7 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "William W. Johnson",
+     "votes": 2357,
+     "party": "REP",
+     "pct": 99.45,
+     "choice_id": "01000000-65df-5e06-3d44-08df2dfd74d7",
+     "party_lines": {
+      "REP": 2357
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 13,
+     "party": "NON-PARTISAN",
+     "pct": 0.55,
+     "choice_id": "01000000-65df-5e06-3db5-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 13
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-3f5e-08df2dfd74d7",
+   "state": "NY",
+   "title": "County Legislator D3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported, 6 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Tommy L. Robinson II",
+     "votes": 749,
+     "party": "DEM",
+     "pct": 26.01,
+     "choice_id": "01000000-65df-5e06-3f7a-08df2dfd74d7",
+     "party_lines": {
+      "DEM": 749
+     }
+    },
+    {
+     "name": "Philip N. Reed",
+     "votes": 2127,
+     "party": "REP",
+     "pct": 73.85,
+     "choice_id": "01000000-65df-5e06-3fb5-08df2dfd74d7",
+     "party_lines": {
+      "REP": 2127
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 4,
+     "party": "NON-PARTISAN",
+     "pct": 0.14,
+     "choice_id": "01000000-65df-5e06-3ffb-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 4
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-41eb-08df2dfd74d7",
+   "state": "NY",
+   "title": "County Legislator D4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": "0 of 7 precincts fully reported, 7 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Tina M. Bartlett-Bearup",
+     "votes": 1607,
+     "party": "REP",
+     "pct": 98.53,
+     "choice_id": "01000000-65df-5e06-420b-08df2dfd74d7",
+     "party_lines": {
+      "REP": 1607
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 24,
+     "party": "NON-PARTISAN",
+     "pct": 1.47,
+     "choice_id": "01000000-65df-5e06-4247-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 24
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-43ee-08df2dfd74d7",
+   "state": "NY",
+   "title": "County Legislator D5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Michael A. Montigelli",
+     "votes": 628,
+     "party": "REP",
+     "pct": 98.74,
+     "choice_id": "01000000-65df-5e06-4403-08df2dfd74d7",
+     "party_lines": {
+      "REP": 628
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": "NON-PARTISAN",
+     "pct": 1.26,
+     "choice_id": "01000000-65df-5e06-442e-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 8
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-4514-08df2dfd74d7",
+   "state": "NY",
+   "title": "County Legislator D6",
+   "office_type": "local",
+   "district": "6",
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported, 4 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Heather McGregor",
+     "votes": 465,
+     "party": "DEM",
+     "pct": 35.77,
+     "choice_id": "01000000-65df-5e06-452d-08df2dfd74d7",
+     "party_lines": {
+      "DEM": 425,
+      "WFP": 40
+     }
+    },
+    {
+     "name": "Daniel R. McBride",
+     "votes": 834,
+     "party": "REP",
+     "pct": 64.15,
+     "choice_id": "01000000-65df-5e06-4596-08df2dfd74d7",
+     "party_lines": {
+      "REP": 834
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": "NON-PARTISAN",
+     "pct": 0.08,
+     "choice_id": "01000000-65df-5e06-45c2-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 1
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-477e-08df2dfd74d7",
+   "state": "NY",
+   "title": "County Legislator D7",
+   "office_type": "local",
+   "district": "7",
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Karen J. Freeman",
+     "votes": 1127,
+     "party": "REP",
+     "pct": 98.69,
+     "choice_id": "01000000-65df-5e06-4795-08df2dfd74d7",
+     "party_lines": {
+      "REP": 1127
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 15,
+     "party": "NON-PARTISAN",
+     "pct": 1.31,
+     "choice_id": "01000000-65df-5e06-47c1-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 15
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-48ac-08df2dfd74d7",
+   "state": "NY",
+   "title": "County Legislator D8",
+   "office_type": "local",
+   "district": "8",
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported, 2 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "James A. Nabywaniec",
+     "votes": 420,
+     "party": "REP",
+     "pct": 97.67,
+     "choice_id": "01000000-65df-5e06-48c1-08df2dfd74d7",
+     "party_lines": {
+      "REP": 420
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 10,
+     "party": "NON-PARTISAN",
+     "pct": 2.33,
+     "choice_id": "01000000-65df-5e06-48ea-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 10
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-499b-08df2dfd74d7",
+   "state": "NY",
+   "title": "County Legislator D9",
+   "office_type": "local",
+   "district": "9",
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported, 6 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Patrick R. Jareo",
+     "votes": 2444,
+     "party": "REP",
+     "pct": 99.23,
+     "choice_id": "01000000-65df-5e06-49b3-08df2dfd74d7",
+     "party_lines": {
+      "REP": 2444
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 19,
+     "party": "NON-PARTISAN",
+     "pct": 0.77,
+     "choice_id": "01000000-65df-5e06-49f8-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 19
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-4cee-08df2dfd74d7",
+   "state": "NY",
+   "title": "County Legislator D10",
+   "office_type": "local",
+   "district": "10",
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": "0 of 7 precincts fully reported, 7 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Spike Decker",
+     "votes": 1874,
+     "party": "REP",
+     "pct": 73.55,
+     "choice_id": "01000000-65df-5e06-4d0d-08df2dfd74d7",
+     "party_lines": {
+      "REP": 1874
+     }
+    },
+    {
+     "name": "Christopher S. Boulio",
+     "votes": 665,
+     "party": "CONSERVATIVE",
+     "pct": 26.1,
+     "choice_id": "01000000-65df-5e06-4d56-08df2dfd74d7",
+     "party_lines": {
+      "CONSERVATIVE": 665
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 9,
+     "party": "NON-PARTISAN",
+     "pct": 0.35,
+     "choice_id": "01000000-65df-5e06-4d8f-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 9
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-4fd9-08df2dfd74d7",
+   "state": "NY",
+   "title": "County Legislator D11",
+   "office_type": "local",
+   "district": "11",
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Robert D. Ferris",
+     "votes": 1816,
+     "party": "REP",
+     "pct": 98.96,
+     "choice_id": "01000000-65df-5e06-4ff5-08df2dfd74d7",
+     "party_lines": {
+      "REP": 1816
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 19,
+     "party": "NON-PARTISAN",
+     "pct": 1.04,
+     "choice_id": "01000000-65df-5e06-5027-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 19
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-510c-08df2dfd74d7",
+   "state": "NY",
+   "title": "County Legislator D12",
+   "office_type": "local",
+   "district": "12",
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Frances A. Calarco",
+     "votes": 1423,
+     "party": "REP",
+     "pct": 97.07,
+     "choice_id": "01000000-65df-5e06-5128-08df2dfd74d7",
+     "party_lines": {
+      "REP": 1423
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 43,
+     "party": "NON-PARTISAN",
+     "pct": 2.93,
+     "choice_id": "01000000-65df-5e06-5153-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 43
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-5231-08df2dfd74d7",
+   "state": "NY",
+   "title": "County Legislator D13",
+   "office_type": "local",
+   "district": "13",
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported, 2 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Steel E. Potter",
+     "votes": 1066,
+     "party": "REP",
+     "pct": 97.53,
+     "choice_id": "01000000-65df-5e06-5246-08df2dfd74d7",
+     "party_lines": {
+      "REP": 1066
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 27,
+     "party": "NON-PARTISAN",
+     "pct": 2.47,
+     "choice_id": "01000000-65df-5e06-5271-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 27
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-5357-08df2dfd74d7",
+   "state": "NY",
+   "title": "County Legislator D14",
+   "office_type": "local",
+   "district": "14",
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported, 4 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Corey Y. Grant",
+     "votes": 1220,
+     "party": "REP",
+     "pct": 99.35,
+     "choice_id": "01000000-65df-5e06-5373-08df2dfd74d7",
+     "party_lines": {
+      "REP": 1220
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": "NON-PARTISAN",
+     "pct": 0.65,
+     "choice_id": "01000000-65df-5e06-53ae-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 8
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-54c2-08df2dfd74d7",
+   "state": "NY",
+   "title": "County Legislator D15",
+   "office_type": "local",
+   "district": "15",
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Anthony J. Doldo",
+     "votes": 970,
+     "party": "REP",
+     "pct": 97.88,
+     "choice_id": "01000000-65df-5e06-54db-08df2dfd74d7",
+     "party_lines": {
+      "REP": 970
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 21,
+     "party": "NON-PARTISAN",
+     "pct": 2.12,
+     "choice_id": "01000000-65df-5e06-5508-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 21
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-5639-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Adams Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Catherine M. Behling",
+     "votes": 1436,
+     "party": "REP",
+     "pct": 99.45,
+     "choice_id": "01000000-65df-5e06-564c-08df2dfd74d7",
+     "party_lines": {
+      "REP": 1436
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": "NON-PARTISAN",
+     "pct": 0.55,
+     "choice_id": "01000000-65df-5e06-5678-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 8
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-5752-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Alexandria Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Brent H. Sweet",
+     "votes": 1181,
+     "party": "REP",
+     "pct": 97.2,
+     "choice_id": "01000000-65df-5e06-5767-08df2dfd74d7",
+     "party_lines": {
+      "REP": 1181
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 34,
+     "party": "NON-PARTISAN",
+     "pct": 2.8,
+     "choice_id": "01000000-65df-5e06-5798-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 34
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-5882-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Antwerp Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Elizabeth A. Lynch",
+     "votes": 439,
+     "party": "REP",
+     "pct": 98.43,
+     "choice_id": "01000000-65df-5e06-589c-08df2dfd74d7",
+     "party_lines": {
+      "REP": 439
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 7,
+     "party": "NON-PARTISAN",
+     "pct": 1.57,
+     "choice_id": "01000000-65df-5e06-58cb-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 7
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-59a9-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Brownville Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported, 5 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Richard D. Lane",
+     "votes": 1780,
+     "party": "REP",
+     "pct": 99.5,
+     "choice_id": "01000000-65df-5e06-59bf-08df2dfd74d7",
+     "party_lines": {
+      "REP": 1780
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 9,
+     "party": "NON-PARTISAN",
+     "pct": 0.5,
+     "choice_id": "01000000-65df-5e06-5a01-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 9
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-5b45-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Cape Vincent Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported, 2 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Alan N. Wood",
+     "votes": 337,
+     "party": "DEM",
+     "pct": 32.78,
+     "choice_id": "01000000-65df-5e06-5b5d-08df2dfd74d7",
+     "party_lines": {
+      "DEM": 337
+     }
+    },
+    {
+     "name": "Christine A. Stark",
+     "votes": 689,
+     "party": "REP",
+     "pct": 67.02,
+     "choice_id": "01000000-65df-5e06-5b84-08df2dfd74d7",
+     "party_lines": {
+      "REP": 689
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": "NON-PARTISAN",
+     "pct": 0.19,
+     "choice_id": "01000000-65df-5e06-5bac-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 2
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-5c9c-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Ellisburg Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Douglas W. Shelmidine",
+     "votes": 1058,
+     "party": "REP",
+     "pct": 99.72,
+     "choice_id": "01000000-65df-5e06-5cb0-08df2dfd74d7",
+     "party_lines": {
+      "REP": 1058
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": "NON-PARTISAN",
+     "pct": 0.28,
+     "choice_id": "01000000-65df-5e06-5cda-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 3
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-5db7-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Henderson Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported, 1 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Karen Y. Richmond",
+     "votes": 453,
+     "party": "REP",
+     "pct": 93.02,
+     "choice_id": "01000000-65df-5e06-5dcb-08df2dfd74d7",
+     "party_lines": {
+      "REP": 453
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 34,
+     "party": "NON-PARTISAN",
+     "pct": 6.98,
+     "choice_id": "01000000-65df-5e06-5deb-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 34
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-5e66-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Hounsfield Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Dawn C. Nier",
+     "votes": 595,
+     "party": "DEM",
+     "pct": 44.27,
+     "choice_id": "01000000-65df-5e06-5e7d-08df2dfd74d7",
+     "party_lines": {
+      "DEM": 595
+     }
+    },
+    {
+     "name": "Beth A. Arthur",
+     "votes": 749,
+     "party": "REP",
+     "pct": 55.73,
+     "choice_id": "01000000-65df-5e06-5eaa-08df2dfd74d7",
+     "party_lines": {
+      "REP": 749
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-5fef-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of LeRay Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 9,
+    "pct": 0.0,
+    "text": "0 of 9 precincts fully reported, 9 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Leland (Lee) J. Carpenter",
+     "votes": 1432,
+     "party": "REP",
+     "pct": 98.15,
+     "choice_id": "01000000-65df-5e06-600f-08df2dfd74d7",
+     "party_lines": {
+      "REP": 1432
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 27,
+     "party": "NON-PARTISAN",
+     "pct": 1.85,
+     "choice_id": "01000000-65df-5e06-605e-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 27
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-62bf-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Lyme Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported, 2 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Mark J. Zegarelli",
+     "votes": 790,
+     "party": "REP",
+     "pct": 98.87,
+     "choice_id": "01000000-65df-5e06-62d8-08df2dfd74d7",
+     "party_lines": {
+      "REP": 790
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 9,
+     "party": "NON-PARTISAN",
+     "pct": 1.13,
+     "choice_id": "01000000-65df-5e06-6305-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 9
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-63c8-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Orleans Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported, 2 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Kevin C. Rarick",
+     "votes": 886,
+     "party": "REP",
+     "pct": 98.77,
+     "choice_id": "01000000-65df-5e06-63de-08df2dfd74d7",
+     "party_lines": {
+      "REP": 886
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 11,
+     "party": "NON-PARTISAN",
+     "pct": 1.23,
+     "choice_id": "01000000-65df-5e06-6405-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 11
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-64b0-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Pamelia Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Scott J. Allen",
+     "votes": 892,
+     "party": "REP",
+     "pct": 99.33,
+     "choice_id": "01000000-65df-5e06-64c6-08df2dfd74d7",
+     "party_lines": {
+      "REP": 892
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 6,
+     "party": "NON-PARTISAN",
+     "pct": 0.67,
+     "choice_id": "01000000-65df-5e06-64f8-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 6
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-65ed-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Rutland Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported, 2 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Logan M. Eddy",
+     "votes": 721,
+     "party": "REP",
+     "pct": 98.9,
+     "choice_id": "01000000-65df-5e06-6605-08df2dfd74d7",
+     "party_lines": {
+      "REP": 721
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": "NON-PARTISAN",
+     "pct": 1.1,
+     "choice_id": "01000000-65df-5e06-662e-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 8
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-66db-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Watertown Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Write-in",
+     "votes": 239,
+     "party": "NON-PARTISAN",
+     "pct": 100.0,
+     "choice_id": "01000000-65df-5e06-66f0-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 239
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-679a-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Worth Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported, 1 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Richard R. King",
+     "votes": 99,
+     "party": "REP",
+     "pct": 97.06,
+     "choice_id": "01000000-65df-5e06-67b7-08df2dfd74d7",
+     "party_lines": {
+      "REP": 99
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": "NON-PARTISAN",
+     "pct": 2.94,
+     "choice_id": "01000000-65df-5e06-67e3-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 3
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-685f-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Adams Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Jennifer K. Burt",
+     "votes": 1417,
+     "party": "REP",
+     "pct": 99.58,
+     "choice_id": "01000000-65df-5e06-6875-08df2dfd74d7",
+     "party_lines": {
+      "REP": 1417
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 6,
+     "party": "NON-PARTISAN",
+     "pct": 0.42,
+     "choice_id": "01000000-65df-5e06-68a2-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 6
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-8439-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Antwerp Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Amy S. Cole",
+     "votes": 453,
+     "party": "REP",
+     "pct": 99.34,
+     "choice_id": "01000000-65df-5e06-8454-08df2dfd74d7",
+     "party_lines": {
+      "REP": 453
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": "NON-PARTISAN",
+     "pct": 0.66,
+     "choice_id": "01000000-65df-5e06-8487-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 3
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-6aab-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Brownville Clerk Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported, 5 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Novina P. Green",
+     "votes": 1772,
+     "party": "REP",
+     "pct": 99.66,
+     "choice_id": "01000000-65df-5e06-6ac2-08df2dfd74d7",
+     "party_lines": {
+      "REP": 1772
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 6,
+     "party": "NON-PARTISAN",
+     "pct": 0.34,
+     "choice_id": "01000000-65df-5e06-6b05-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 6
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-6c42-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Champion Clerk Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported, 2 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Diane Strife",
+     "votes": 1100,
+     "party": "REP",
+     "pct": 98.92,
+     "choice_id": "01000000-65df-5e06-6c55-08df2dfd74d7",
+     "party_lines": {
+      "REP": 1100
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 12,
+     "party": "NON-PARTISAN",
+     "pct": 1.08,
+     "choice_id": "01000000-65df-5e06-6c7f-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 12
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-6d2c-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Ellisburg Clerk Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Debra L. Payne",
+     "votes": 1053,
+     "party": "REP",
+     "pct": 99.62,
+     "choice_id": "01000000-65df-5e06-6d4b-08df2dfd74d7",
+     "party_lines": {
+      "REP": 1053
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 4,
+     "party": "NON-PARTISAN",
+     "pct": 0.38,
+     "choice_id": "01000000-65df-5e06-6d75-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 4
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-6e52-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Henderson Clerk Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported, 1 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Wendy M. Flagg",
+     "votes": 492,
+     "party": "REP",
+     "pct": 96.09,
+     "choice_id": "01000000-65df-5e06-6e67-08df2dfd74d7",
+     "party_lines": {
+      "REP": 492
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 20,
+     "party": "NON-PARTISAN",
+     "pct": 3.91,
+     "choice_id": "01000000-65df-5e06-6e8b-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 20
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-6f06-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Hounsfield Clerk Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Brenda L. Bockus",
+     "votes": 1045,
+     "party": "REP",
+     "pct": 99.24,
+     "choice_id": "01000000-65df-5e06-6f44-08df2dfd74d7",
+     "party_lines": {
+      "REP": 1045
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": "NON-PARTISAN",
+     "pct": 0.76,
+     "choice_id": "01000000-65df-5e06-6f78-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 8
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-7056-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Rutland Clerk Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported, 2 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Laura R. Tousant",
+     "votes": 732,
+     "party": "REP",
+     "pct": 99.59,
+     "choice_id": "01000000-65df-5e06-706c-08df2dfd74d7",
+     "party_lines": {
+      "REP": 732
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": "NON-PARTISAN",
+     "pct": 0.41,
+     "choice_id": "01000000-65df-5e06-7096-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 3
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-714f-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Worth Clerk Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported, 1 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Katelyn S. Macklen",
+     "votes": 80,
+     "party": "REP",
+     "pct": 65.04,
+     "choice_id": "01000000-65df-5e06-7166-08df2dfd74d7",
+     "party_lines": {
+      "REP": 74,
+      "WORTH INDEPE": 6
+     }
+    },
+    {
+     "name": "Paula Ann Molnar",
+     "votes": 43,
+     "party": "NEVER FORGOT",
+     "pct": 34.96,
+     "choice_id": "01000000-65df-5e06-71ac-08df2dfd74d7",
+     "party_lines": {
+      "NEVER FORGOT": 43
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-73a4-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Antwerp Town Council",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Riley J. Filiatrault",
+     "votes": 441,
+     "party": "REP",
+     "pct": 99.1,
+     "choice_id": "01000000-65df-5e06-73b9-08df2dfd74d7",
+     "party_lines": {
+      "REP": 441
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 4,
+     "party": "NON-PARTISAN",
+     "pct": 0.9,
+     "choice_id": "01000000-65df-5e06-73e2-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 4
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-726e-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Adams Town Council (To fill vacancy)",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Michael S. Urbanowicz",
+     "votes": 1378,
+     "party": "REP",
+     "pct": 99.42,
+     "choice_id": "01000000-65df-5e06-7286-08df2dfd74d7",
+     "party_lines": {
+      "REP": 1378
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": "NON-PARTISAN",
+     "pct": 0.58,
+     "choice_id": "01000000-65df-5e06-72b9-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 8
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-74c4-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Clayton Council (To fill vacancy)",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Christopher M. Badour",
+     "votes": 1592,
+     "party": "REP",
+     "pct": 98.51,
+     "choice_id": "01000000-65df-5e06-74e5-08df2dfd74d7",
+     "party_lines": {
+      "REP": 1592
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 24,
+     "party": "NON-PARTISAN",
+     "pct": 1.49,
+     "choice_id": "01000000-65df-5e06-7525-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 24
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-7604-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Watertown Council (To fill vacancy)",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Michael A. Colello",
+     "votes": 1171,
+     "party": "REP",
+     "pct": 52.46,
+     "choice_id": "01000000-65df-5e06-761f-08df2dfd74d7",
+     "party_lines": {
+      "REP": 1171
+     }
+    },
+    {
+     "name": "Lloyd J. Hurlbut",
+     "votes": 1037,
+     "party": "REP",
+     "pct": 46.46,
+     "choice_id": "01000000-65df-5e06-7650-08df2dfd74d7",
+     "party_lines": {
+      "REP": 1037
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 24,
+     "party": "NON-PARTISAN",
+     "pct": 1.08,
+     "choice_id": "01000000-65df-5e06-7673-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 24
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-7808-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Adams Highway Superintendent",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Richard F. Walden",
+     "votes": 1366,
+     "party": "REP",
+     "pct": 99.06,
+     "choice_id": "01000000-65df-5e06-781c-08df2dfd74d7",
+     "party_lines": {
+      "REP": 1366
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 13,
+     "party": "NON-PARTISAN",
+     "pct": 0.94,
+     "choice_id": "01000000-65df-5e06-7843-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 13
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-7920-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Antwerp Highway Superintendent",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Scott R. Canfield",
+     "votes": 447,
+     "party": "REP",
+     "pct": 98.89,
+     "choice_id": "01000000-65df-5e06-7938-08df2dfd74d7",
+     "party_lines": {
+      "REP": 447
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 5,
+     "party": "NON-PARTISAN",
+     "pct": 1.11,
+     "choice_id": "01000000-65df-5e06-796b-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 5
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-7a47-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Brownville Highway Superintendent",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported, 5 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Roy J. Gilchrist",
+     "votes": 1800,
+     "party": "REP",
+     "pct": 99.17,
+     "choice_id": "01000000-65df-5e06-7a5c-08df2dfd74d7",
+     "party_lines": {
+      "REP": 1800
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 15,
+     "party": "NON-PARTISAN",
+     "pct": 0.83,
+     "choice_id": "01000000-65df-5e06-7a92-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 15
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-7bce-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Cape Vincent Highway Superintendent",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported, 2 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "William J. Pond",
+     "votes": 801,
+     "party": "REP",
+     "pct": 97.09,
+     "choice_id": "01000000-65df-5e06-7bea-08df2dfd74d7",
+     "party_lines": {
+      "REP": 801
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 24,
+     "party": "NON-PARTISAN",
+     "pct": 2.91,
+     "choice_id": "01000000-65df-5e06-7c19-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 24
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-7cc5-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Ellisburg Highway Superintendent",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Robert R. Corron",
+     "votes": 1060,
+     "party": "REP",
+     "pct": 99.62,
+     "choice_id": "01000000-65df-5e06-7cda-08df2dfd74d7",
+     "party_lines": {
+      "REP": 1060
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 4,
+     "party": "NON-PARTISAN",
+     "pct": 0.38,
+     "choice_id": "01000000-65df-5e06-7d0f-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 4
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-7df6-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Henderson Highway Superintendent",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported, 1 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Corey M. Bolton",
+     "votes": 468,
+     "party": "REP",
+     "pct": 95.32,
+     "choice_id": "01000000-65df-5e06-7e0b-08df2dfd74d7",
+     "party_lines": {
+      "REP": 468
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 23,
+     "party": "NON-PARTISAN",
+     "pct": 4.68,
+     "choice_id": "01000000-65df-5e06-7e2b-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 23
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-7ea7-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Rutland Highway Superintendent",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported, 2 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Shawn K. Russell",
+     "votes": 726,
+     "party": "REP",
+     "pct": 99.32,
+     "choice_id": "01000000-65df-5e06-7ebb-08df2dfd74d7",
+     "party_lines": {
+      "REP": 726
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 5,
+     "party": "NON-PARTISAN",
+     "pct": 0.68,
+     "choice_id": "01000000-65df-5e06-7ee7-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 5
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-7f9c-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Worth Highway Superintendent",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported, 1 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Elizabeth F. Aubin",
+     "votes": 96,
+     "party": "REP",
+     "pct": 89.72,
+     "choice_id": "01000000-65df-5e06-7fb1-08df2dfd74d7",
+     "party_lines": {
+      "REP": 92,
+      "BY YOUR SIDE": 4
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 11,
+     "party": "NON-PARTISAN",
+     "pct": 10.28,
+     "choice_id": "01000000-65df-5e06-8003-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 11
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-809a-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Clayton Highway Superintendent (To fill vacancy)",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Buck Robinson",
+     "votes": 1588,
+     "party": "REP",
+     "pct": 99.0,
+     "choice_id": "01000000-65df-5e06-80af-08df2dfd74d7",
+     "party_lines": {
+      "REP": 1588
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 16,
+     "party": "NON-PARTISAN",
+     "pct": 1.0,
+     "choice_id": "01000000-65df-5e06-80da-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 16
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-81c2-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Orleans Highway Superintendent(To fill vacancy)",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported, 2 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Lukus L. Smith",
+     "votes": 582,
+     "party": "REP",
+     "pct": 55.59,
+     "choice_id": "01000000-65df-5e06-81dd-08df2dfd74d7",
+     "party_lines": {
+      "REP": 563,
+      "PEOPLE'S CHO": 19
+     }
+    },
+    {
+     "name": "Brian W. Eckert",
+     "votes": 281,
+     "party": "CONSERVATIVE",
+     "pct": 26.84,
+     "choice_id": "01000000-65df-5e06-822a-08df2dfd74d7",
+     "party_lines": {
+      "CONSERVATIVE": 257,
+      "DEEP ROOTS": 24
+     }
+    },
+    {
+     "name": "Joshua Minnick",
+     "votes": 182,
+     "party": "MOVING FORWA",
+     "pct": 17.38,
+     "choice_id": "01000000-65df-5e06-82a0-08df2dfd74d7",
+     "party_lines": {
+      "MOVING FORWA": 182
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": "NON-PARTISAN",
+     "pct": 0.19,
+     "choice_id": "01000000-65df-5e06-82c7-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 2
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-6989-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Antwerp Town Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Barbara J. Mitchell",
+     "votes": 445,
+     "party": "REP",
+     "pct": 98.89,
+     "choice_id": "01000000-65df-5e06-69a1-08df2dfd74d7",
+     "party_lines": {
+      "REP": 445
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 5,
+     "party": "NON-PARTISAN",
+     "pct": 1.11,
+     "choice_id": "01000000-65df-5e06-69ce-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 5
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-8568-08df2dfd74d7",
+   "state": "NY",
+   "title": "Village of Carthage President",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported, 1 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Michael Astafan",
+     "votes": 423,
+     "party": "DEM",
+     "pct": 97.47,
+     "choice_id": "01000000-65df-5e06-857b-08df2dfd74d7",
+     "party_lines": {
+      "DEM": 423
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 11,
+     "party": "NON-PARTISAN",
+     "pct": 2.53,
+     "choice_id": "01000000-65df-5e06-85a4-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 11
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-861c-08df2dfd74d7",
+   "state": "NY",
+   "title": "Village of West Carthage Mayor (To fill vacancy)",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported, 1 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Robert (Rob) J. Peluso",
+     "votes": 351,
+     "party": "REP",
+     "pct": 98.04,
+     "choice_id": "01000000-65df-5e06-8637-08df2dfd74d7",
+     "party_lines": {
+      "REP": 351
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 7,
+     "party": "NON-PARTISAN",
+     "pct": 1.96,
+     "choice_id": "01000000-65df-5e06-865a-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 7
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-86d0-08df2dfd74d7",
+   "state": "NY",
+   "title": "Village of Alexandria Bay Village Trustee",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported, 1 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Douglas R. Strough",
+     "votes": 263,
+     "party": "REP",
+     "pct": 52.29,
+     "choice_id": "01000000-65df-5e06-86f6-08df2dfd74d7",
+     "party_lines": {
+      "REP": 263
+     }
+    },
+    {
+     "name": "Teresa J. Brennan",
+     "votes": 239,
+     "party": "REP",
+     "pct": 47.51,
+     "choice_id": "01000000-65df-5e06-8715-08df2dfd74d7",
+     "party_lines": {
+      "REP": 239
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": "NON-PARTISAN",
+     "pct": 0.2,
+     "choice_id": "01000000-65df-5e06-8737-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 1
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-87f8-08df2dfd74d7",
+   "state": "NY",
+   "title": "Village of Antwerp Trustee",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported, 1 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Michele M. Brinson",
+     "votes": 55,
+     "party": "DEM",
+     "pct": 34.38,
+     "choice_id": "01000000-65df-5e06-8811-08df2dfd74d7",
+     "party_lines": {
+      "DEM": 55
+     }
+    },
+    {
+     "name": "Kristy A. Pickett",
+     "votes": 104,
+     "party": "REP",
+     "pct": 65.0,
+     "choice_id": "01000000-65df-5e06-8831-08df2dfd74d7",
+     "party_lines": {
+      "REP": 104
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": "NON-PARTISAN",
+     "pct": 0.62,
+     "choice_id": "01000000-65df-5e06-884b-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 1
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-9118-08df2dfd74d7",
+   "state": "NY",
+   "title": "Village of Black River Trustee",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported, 2 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Corey Decillis",
+     "votes": 210,
+     "party": "DEM",
+     "pct": 50.72,
+     "choice_id": "01000000-65df-5e06-9130-08df2dfd74d7",
+     "party_lines": {
+      "DEM": 210
+     }
+    },
+    {
+     "name": "Bonnie Proven",
+     "votes": 191,
+     "party": "DEM",
+     "pct": 46.14,
+     "choice_id": "01000000-65df-5e06-9162-08df2dfd74d7",
+     "party_lines": {
+      "DEM": 191
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 13,
+     "party": "NON-PARTISAN",
+     "pct": 3.14,
+     "choice_id": "01000000-65df-5e06-9185-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 13
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-8a5a-08df2dfd74d7",
+   "state": "NY",
+   "title": "Village of Cape Vincent Trustee",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported, 1 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Michael Chavoustie",
+     "votes": 198,
+     "party": "DEM",
+     "pct": 44.8,
+     "choice_id": "01000000-65df-5e06-8a73-08df2dfd74d7",
+     "party_lines": {
+      "DEM": 198
+     }
+    },
+    {
+     "name": "Timothy D. Maloney",
+     "votes": 240,
+     "party": "REP",
+     "pct": 54.3,
+     "choice_id": "01000000-65df-5e06-8a96-08df2dfd74d7",
+     "party_lines": {
+      "REP": 240
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 4,
+     "party": "NON-PARTISAN",
+     "pct": 0.9,
+     "choice_id": "01000000-65df-5e06-8ab2-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 4
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-94b1-08df2dfd74d7",
+   "state": "NY",
+   "title": "Village of Carthage Trustee",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported, 1 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Mark H. Roberts",
+     "votes": 409,
+     "party": "DEM",
+     "pct": 51.32,
+     "choice_id": "01000000-65df-5e06-94c6-08df2dfd74d7",
+     "party_lines": {
+      "DEM": 409
+     }
+    },
+    {
+     "name": "Linda Smith-Spencer",
+     "votes": 368,
+     "party": "DEM",
+     "pct": 46.17,
+     "choice_id": "01000000-65df-5e06-94eb-08df2dfd74d7",
+     "party_lines": {
+      "DEM": 368
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 20,
+     "party": "NON-PARTISAN",
+     "pct": 2.51,
+     "choice_id": "01000000-65df-5e06-9514-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 20
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-92ba-08df2dfd74d7",
+   "state": "NY",
+   "title": "Village of Chaumont Trustee",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported, 1 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Michael J. Nichols",
+     "votes": 168,
+     "party": "REP",
+     "pct": 64.12,
+     "choice_id": "01000000-65df-5e06-92df-08df2dfd74d7",
+     "party_lines": {
+      "REP": 168
+     }
+    },
+    {
+     "name": "Tammy R. McIntosh",
+     "votes": 94,
+     "party": "RIGHT DECISI",
+     "pct": 35.88,
+     "choice_id": "01000000-65df-5e06-9300-08df2dfd74d7",
+     "party_lines": {
+      "RIGHT DECISI": 94
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-95d7-08df2dfd74d7",
+   "state": "NY",
+   "title": "Village of Deferiet Trustee",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported, 1 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Write-in",
+     "votes": 20,
+     "party": "NON-PARTISAN",
+     "pct": 100.0,
+     "choice_id": "01000000-65df-5e06-95ec-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 20
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-892a-08df2dfd74d7",
+   "state": "NY",
+   "title": "Village of Dexter Trustee",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported, 1 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Renee Stano",
+     "votes": 186,
+     "party": "VOTE",
+     "pct": 49.73,
+     "choice_id": "01000000-65df-5e06-8943-08df2dfd74d7",
+     "party_lines": {
+      "VOTE": 186
+     }
+    },
+    {
+     "name": "Richard Stevenson",
+     "votes": 188,
+     "party": "VOTE",
+     "pct": 50.27,
+     "choice_id": "01000000-65df-5e06-8969-08df2dfd74d7",
+     "party_lines": {
+      "VOTE": 188
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-8cae-08df2dfd74d7",
+   "state": "NY",
+   "title": "Village of Ellisburg Trustee",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported, 1 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Gregory B. Lake",
+     "votes": 65,
+     "party": "REP",
+     "pct": 97.01,
+     "choice_id": "01000000-65df-5e06-8cc3-08df2dfd74d7",
+     "party_lines": {
+      "REP": 65
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": "NON-PARTISAN",
+     "pct": 2.99,
+     "choice_id": "01000000-65df-5e06-8ce7-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 2
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-8fed-08df2dfd74d7",
+   "state": "NY",
+   "title": "Village of Evans Mills Trustee",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported, 1 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Greg Smith",
+     "votes": 90,
+     "party": "DEM",
+     "pct": 52.02,
+     "choice_id": "01000000-65df-5e06-9006-08df2dfd74d7",
+     "party_lines": {
+      "DEM": 90
+     }
+    },
+    {
+     "name": "JoAnna Malone",
+     "votes": 78,
+     "party": "DEM",
+     "pct": 45.09,
+     "choice_id": "01000000-65df-5e06-9029-08df2dfd74d7",
+     "party_lines": {
+      "DEM": 78
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 5,
+     "party": "NON-PARTISAN",
+     "pct": 2.89,
+     "choice_id": "01000000-65df-5e06-9048-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 5
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-8d65-08df2dfd74d7",
+   "state": "NY",
+   "title": "Village of Mannsville Trustee",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported, 1 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Jarod M. Ormsby",
+     "votes": 115,
+     "party": "REP",
+     "pct": 49.57,
+     "choice_id": "01000000-65df-5e06-8d84-08df2dfd74d7",
+     "party_lines": {
+      "REP": 115
+     }
+    },
+    {
+     "name": "Charles J. Graves",
+     "votes": 115,
+     "party": "REP",
+     "pct": 49.57,
+     "choice_id": "01000000-65df-5e06-8da3-08df2dfd74d7",
+     "party_lines": {
+      "REP": 115
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": "NON-PARTISAN",
+     "pct": 0.86,
+     "choice_id": "01000000-65df-5e06-8dbe-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 2
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-93ea-08df2dfd74d7",
+   "state": "NY",
+   "title": "Village of Philadelphia Village Trustee",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported, 1 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Craig S. Howard",
+     "votes": 194,
+     "party": "REP",
+     "pct": 99.49,
+     "choice_id": "01000000-65df-5e06-93fd-08df2dfd74d7",
+     "party_lines": {
+      "REP": 194
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": "NON-PARTISAN",
+     "pct": 0.51,
+     "choice_id": "01000000-65df-5e06-9429-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 1
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-8e89-08df2dfd74d7",
+   "state": "NY",
+   "title": "Village of Sackets Harbor Trustee",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported, 1 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Katherine F. Snow",
+     "votes": 284,
+     "party": "DEM",
+     "pct": 29.07,
+     "choice_id": "01000000-65df-5e06-8ea3-08df2dfd74d7",
+     "party_lines": {
+      "DEM": 284
+     }
+    },
+    {
+     "name": "Sarah L. Miletta",
+     "votes": 330,
+     "party": "REP",
+     "pct": 33.78,
+     "choice_id": "01000000-65df-5e06-8eca-08df2dfd74d7",
+     "party_lines": {
+      "REP": 330
+     }
+    },
+    {
+     "name": "Gregg A. Townsend",
+     "votes": 358,
+     "party": "REP",
+     "pct": 36.64,
+     "choice_id": "01000000-65df-5e06-8ee6-08df2dfd74d7",
+     "party_lines": {
+      "REP": 358
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 5,
+     "party": "NON-PARTISAN",
+     "pct": 0.51,
+     "choice_id": "01000000-65df-5e06-8f0d-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 5
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-8b7c-08df2dfd74d7",
+   "state": "NY",
+   "title": "Village of West Carthage Trustee",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported, 1 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Matthew Young",
+     "votes": 330,
+     "party": "REP",
+     "pct": 48.67,
+     "choice_id": "01000000-65df-5e06-8b98-08df2dfd74d7",
+     "party_lines": {
+      "REP": 330
+     }
+    },
+    {
+     "name": "Scott J. Sullivan",
+     "votes": 336,
+     "party": "REP",
+     "pct": 49.56,
+     "choice_id": "01000000-65df-5e06-8bbd-08df2dfd74d7",
+     "party_lines": {
+      "REP": 336
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 12,
+     "party": "NON-PARTISAN",
+     "pct": 1.77,
+     "choice_id": "01000000-65df-5e06-8be3-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 12
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-96bd-08df2dfd74d7",
+   "state": "NY",
+   "title": "Village of Adams Village Trustee (to fill vacancy)",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported, 1 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Kreg L. Davis",
+     "votes": 245,
+     "party": "DEM",
+     "pct": 26.63,
+     "choice_id": "01000000-65df-5e06-96e6-08df2dfd74d7",
+     "party_lines": {
+      "DEM": 245
+     }
+    },
+    {
+     "name": "Tanya M. Dunn",
+     "votes": 317,
+     "party": "REP",
+     "pct": 34.46,
+     "choice_id": "01000000-65df-5e06-970a-08df2dfd74d7",
+     "party_lines": {
+      "REP": 317
+     }
+    },
+    {
+     "name": "Matthew W. Gardner",
+     "votes": 353,
+     "party": "REP",
+     "pct": 38.37,
+     "choice_id": "01000000-65df-5e06-9724-08df2dfd74d7",
+     "party_lines": {
+      "REP": 353
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 5,
+     "party": "NON-PARTISAN",
+     "pct": 0.54,
+     "choice_id": "01000000-65df-5e06-9740-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 5
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-982f-08df2dfd74d7",
+   "state": "NY",
+   "title": "Village of Clayton Trustee (To fill vacancy)",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported, 1 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Meredith Bonisteel Nims",
+     "votes": 426,
+     "party": "DEM",
+     "pct": 97.93,
+     "choice_id": "01000000-65df-5e06-9848-08df2dfd74d7",
+     "party_lines": {
+      "DEM": 426
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 9,
+     "party": "NON-PARTISAN",
+     "pct": 2.07,
+     "choice_id": "01000000-65df-5e06-9870-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 9
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-98ea-08df2dfd74d7",
+   "state": "NY",
+   "title": "Supreme Court Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 66,
+    "pct": 0.0,
+    "text": "0 of 66 precincts fully reported, 66 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Joseph Zavaglia",
+     "votes": 10554,
+     "party": "DEM",
+     "pct": 35.93,
+     "choice_id": "01000000-65df-5e06-9911-08df2dfd74d7",
+     "party_lines": {
+      "DEM": 9734,
+      "WFP": 820
+     }
+    },
+    {
+     "name": "Michael J. Manfredi",
+     "votes": 18807,
+     "party": "REP",
+     "pct": 64.02,
+     "choice_id": "01000000-65df-5e06-9b37-08df2dfd74d7",
+     "party_lines": {
+      "REP": 17479,
+      "CONSERVATIVE": 1328
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 15,
+     "party": "NON-PARTISAN",
+     "pct": 0.05,
+     "choice_id": "01000000-65df-5e06-9d5a-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 15
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-a1a3-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Ellisburg Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Peter C. Payne",
+     "votes": 1036,
+     "party": "REP",
+     "pct": 99.62,
+     "choice_id": "01000000-65df-5e06-a1cc-08df2dfd74d7",
+     "party_lines": {
+      "REP": 1036
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 4,
+     "party": "NON-PARTISAN",
+     "pct": 0.38,
+     "choice_id": "01000000-65df-5e06-a202-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 4
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-a2e6-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Henderson Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported, 1 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "David A. McCrea",
+     "votes": 467,
+     "party": "REP",
+     "pct": 98.73,
+     "choice_id": "01000000-65df-5e06-a2f8-08df2dfd74d7",
+     "party_lines": {
+      "REP": 467
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 6,
+     "party": "NON-PARTISAN",
+     "pct": 1.27,
+     "choice_id": "01000000-65df-5e06-a31f-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 6
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-a38a-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Lorraine Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported, 1 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Randy P. Hanson",
+     "votes": 329,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "01000000-65df-5e06-a39d-08df2dfd74d7",
+     "party_lines": {
+      "REP": 329
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-a42f-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Pamelia Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Louis S. Kampnich",
+     "votes": 906,
+     "party": "REP",
+     "pct": 99.67,
+     "choice_id": "01000000-65df-5e06-a445-08df2dfd74d7",
+     "party_lines": {
+      "REP": 906
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": "NON-PARTISAN",
+     "pct": 0.33,
+     "choice_id": "01000000-65df-5e06-a473-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 3
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-a54c-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Rutland Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported, 2 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Matthew P. Flynn",
+     "votes": 705,
+     "party": "REP",
+     "pct": 99.02,
+     "choice_id": "01000000-65df-5e06-a561-08df2dfd74d7",
+     "party_lines": {
+      "REP": 705
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 7,
+     "party": "NON-PARTISAN",
+     "pct": 0.98,
+     "choice_id": "01000000-65df-5e06-a590-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 7
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-a64c-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Watertown Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Matthew J. Porter",
+     "votes": 1176,
+     "party": "REP",
+     "pct": 98.91,
+     "choice_id": "01000000-65df-5e06-a662-08df2dfd74d7",
+     "party_lines": {
+      "REP": 1176
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 13,
+     "party": "NON-PARTISAN",
+     "pct": 1.09,
+     "choice_id": "01000000-65df-5e06-a68b-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 13
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-a76e-08df2dfd74d7",
+   "state": "NY",
+   "title": "Town of Worth Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported, 1 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Randy P. Hanson",
+     "votes": 110,
+     "party": "REP",
+     "pct": 99.1,
+     "choice_id": "01000000-65df-5e06-a781-08df2dfd74d7",
+     "party_lines": {
+      "REP": 110
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": "NON-PARTISAN",
+     "pct": 0.9,
+     "choice_id": "01000000-65df-5e06-a79e-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 1
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.jefferson",
+   "contest_id": "01000000-65df-5e06-a822-08df2dfd74d7",
+   "state": "NY",
+   "title": "Orleans Proposition",
+   "office_type": "measure",
+   "district": "orleans proposition",
+   "jurisdiction": "Jefferson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported, 2 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:49.2965574Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 521,
+     "party": "NON-PARTISAN",
+     "pct": 50.0,
+     "choice_id": "01000000-65df-5e06-a83b-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 521
+     }
+    },
+    {
+     "name": "No",
+     "votes": 521,
+     "party": "NON-PARTISAN",
+     "pct": 50.0,
+     "choice_id": "01000000-65df-5e06-a865-08df2dfd74d7",
+     "party_lines": {
+      "NON-PARTISAN": 521
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  }
+ ],
+ "contests_hash": "71004c6785189d8d",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-04T15:45:15+00:00",
+ "fetched_at": "2026-11-04T15:45:15+00:00",
+ "contests_changed_at": "2026-11-04T15:37:42+00:00"
+}

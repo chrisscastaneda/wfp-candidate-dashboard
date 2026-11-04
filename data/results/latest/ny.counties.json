@@ -440,6 +440,165 @@
   },
   {
    "source": "ny.counties",
+   "contest_id": "state_house.9",
+   "state": "NY",
+   "title": "Member of Assembly, 9th Assembly District",
+   "office_type": "state_house",
+   "district": "9",
+   "jurisdiction": "New York",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Summed from Suffolk and Nassau county results",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Michael A. Durso",
+     "votes": 29589,
+     "party": "REP",
+     "pct": 62.1,
+     "choice_id": "Michael A. Durso",
+     "party_lines": {
+      "REP": 26518,
+      "CONSERVATIVE": 3071
+     }
+    },
+    {
+     "name": "Christopher J. Walis",
+     "votes": 18041,
+     "party": "DEM",
+     "pct": 37.86,
+     "choice_id": "Christopher J. Walis",
+     "party_lines": {
+      "DEM": 13901
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 17,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "Write-In",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.counties",
+   "contest_id": "state_house.10",
+   "state": "NY",
+   "title": "Member of Assembly, 10th Assembly District",
+   "office_type": "state_house",
+   "district": "10",
+   "jurisdiction": "New York",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Summed from Suffolk and Nassau county results",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Steve Stern",
+     "votes": 29455,
+     "party": "DEM",
+     "pct": 60.03,
+     "choice_id": "Steve Stern",
+     "party_lines": {
+      "DEM": 26742
+     }
+    },
+    {
+     "name": "Tiffany L. LeGrow",
+     "votes": 19587,
+     "party": "REP",
+     "pct": 39.92,
+     "choice_id": "Tiffany L. LeGrow",
+     "party_lines": {
+      "REP": 17349,
+      "CONSERVATIVE": 2238
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 24,
+     "party": null,
+     "pct": 0.05,
+     "choice_id": "Write-In",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.counties",
+   "contest_id": "state_house.11",
+   "state": "NY",
+   "title": "Member of Assembly, 11th Assembly District",
+   "office_type": "state_house",
+   "district": "11",
+   "jurisdiction": "New York",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Summed from Suffolk and Nassau county results",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Kwani B. O'Pharrow",
+     "votes": 23596,
+     "party": "DEM",
+     "pct": 61.03,
+     "choice_id": "Kwani B. O'Pharrow",
+     "party_lines": {
+      "DEM": 21928
+     }
+    },
+    {
+     "name": "Joseph R. Cardinale",
+     "votes": 15042,
+     "party": "REP",
+     "pct": 38.91,
+     "choice_id": "Joseph R. Cardinale",
+     "party_lines": {
+      "REP": 13243,
+      "CONSERVATIVE": 1799
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 22,
+     "party": null,
+     "pct": 0.06,
+     "choice_id": "Write-In",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.counties",
    "contest_id": "state_house.12",
    "state": "NY",
    "title": "Member of Assembly, 12th Assembly District",
@@ -487,6 +646,442 @@
      "pct": 0.06,
      "choice_id": "Write-In",
      "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.counties",
+   "contest_id": "state_house.13",
+   "state": "NY",
+   "title": "Member of Assembly District 13",
+   "office_type": "state_house",
+   "district": "13",
+   "jurisdiction": "New York",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Summed from Nassau county results",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Charles D. Lavine",
+     "votes": 24929,
+     "party": null,
+     "pct": 59.56,
+     "choice_id": "Charles D. Lavine",
+     "party_lines": null
+    },
+    {
+     "name": "Conner Phillip Dunleavy",
+     "votes": 16927,
+     "party": "REP",
+     "pct": 40.44,
+     "choice_id": "Conner Phillip Dunleavy",
+     "party_lines": {
+      "REP": 15621,
+      "CONSERVATIVE": 1306
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.counties",
+   "contest_id": "state_house.14",
+   "state": "NY",
+   "title": "Member of Assembly District 14",
+   "office_type": "state_house",
+   "district": "14",
+   "jurisdiction": "New York",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Summed from Nassau county results",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "John E. Brooks",
+     "votes": 22232,
+     "party": null,
+     "pct": 41.77,
+     "choice_id": "John E. Brooks",
+     "party_lines": null
+    },
+    {
+     "name": "Shannon R. Fredericks",
+     "votes": 30988,
+     "party": "REP",
+     "pct": 58.23,
+     "choice_id": "Shannon R. Fredericks",
+     "party_lines": {
+      "REP": 28617,
+      "CONSERVATIVE": 2371
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.counties",
+   "contest_id": "state_house.15",
+   "state": "NY",
+   "title": "Member of Assembly District 15",
+   "office_type": "state_house",
+   "district": "15",
+   "jurisdiction": "New York",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Summed from Nassau county results",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Dean Tarulli",
+     "votes": 22189,
+     "party": null,
+     "pct": 47.44,
+     "choice_id": "Dean Tarulli",
+     "party_lines": null
+    },
+    {
+     "name": "Paolo A. Pironi",
+     "votes": 24588,
+     "party": "REP",
+     "pct": 52.56,
+     "choice_id": "Paolo A. Pironi",
+     "party_lines": {
+      "REP": 22643,
+      "CONSERVATIVE": 1945
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.counties",
+   "contest_id": "state_house.16",
+   "state": "NY",
+   "title": "Member of Assembly District 16",
+   "office_type": "state_house",
+   "district": "16",
+   "jurisdiction": "New York",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Summed from Nassau county results",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Kim Keiserman",
+     "votes": 26439,
+     "party": null,
+     "pct": 52.11,
+     "choice_id": "Kim Keiserman",
+     "party_lines": null
+    },
+    {
+     "name": "David Hassid",
+     "votes": 24300,
+     "party": "REP",
+     "pct": 47.89,
+     "choice_id": "David Hassid",
+     "party_lines": {
+      "REP": 23002,
+      "CONSERVATIVE": 1298
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.counties",
+   "contest_id": "state_house.17",
+   "state": "NY",
+   "title": "Member of Assembly District 17",
+   "office_type": "state_house",
+   "district": "17",
+   "jurisdiction": "New York",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Summed from Nassau county results",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Sunita J. Lofters",
+     "votes": 19636,
+     "party": null,
+     "pct": 39.82,
+     "choice_id": "Sunita J. Lofters",
+     "party_lines": null
+    },
+    {
+     "name": "John K. Mikulin",
+     "votes": 29679,
+     "party": "REP",
+     "pct": 60.18,
+     "choice_id": "John K. Mikulin",
+     "party_lines": {
+      "REP": 27041,
+      "CONSERVATIVE": 2638
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.counties",
+   "contest_id": "state_house.18",
+   "state": "NY",
+   "title": "Member of Assembly District 18",
+   "office_type": "state_house",
+   "district": "18",
+   "jurisdiction": "New York",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Summed from Nassau county results",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Noah Burroughs",
+     "votes": 26807,
+     "party": "DEM",
+     "pct": 89.74,
+     "choice_id": "Noah Burroughs",
+     "party_lines": {
+      "DEM": 26037,
+      "WFP": 770
+     }
+    },
+    {
+     "name": "Charlene Jackson",
+     "votes": 3066,
+     "party": "REP",
+     "pct": 10.26,
+     "choice_id": "Charlene Jackson",
+     "party_lines": {
+      "REP": 2710,
+      "CONSERVATIVE": 356
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.counties",
+   "contest_id": "state_house.19",
+   "state": "NY",
+   "title": "Member of Assembly District 19",
+   "office_type": "state_house",
+   "district": "19",
+   "jurisdiction": "New York",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Summed from Nassau county results",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Colleen Connaughton",
+     "votes": 19911,
+     "party": null,
+     "pct": 41.02,
+     "choice_id": "Colleen Connaughton",
+     "party_lines": null
+    },
+    {
+     "name": "Edward P. Ra",
+     "votes": 28634,
+     "party": "REP",
+     "pct": 58.98,
+     "choice_id": "Edward P. Ra",
+     "party_lines": {
+      "REP": 26244,
+      "CONSERVATIVE": 2390
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.counties",
+   "contest_id": "state_house.20",
+   "state": "NY",
+   "title": "Member of Assembly District 20",
+   "office_type": "state_house",
+   "district": "20",
+   "jurisdiction": "New York",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Summed from Nassau county results",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Meir Fischer",
+     "votes": 18454,
+     "party": null,
+     "pct": 38.49,
+     "choice_id": "Meir Fischer",
+     "party_lines": null
+    },
+    {
+     "name": "Eric Ari Brown",
+     "votes": 29491,
+     "party": "REP",
+     "pct": 61.51,
+     "choice_id": "Eric Ari Brown",
+     "party_lines": {
+      "REP": 27710,
+      "CONSERVATIVE": 1781
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.counties",
+   "contest_id": "state_house.21",
+   "state": "NY",
+   "title": "Member of Assembly District 21",
+   "office_type": "state_house",
+   "district": "21",
+   "jurisdiction": "New York",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Summed from Nassau county results",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Judy A. Griffin",
+     "votes": 32387,
+     "party": null,
+     "pct": 60.47,
+     "choice_id": "Judy A. Griffin",
+     "party_lines": null
+    },
+    {
+     "name": "Irene V. Villacci",
+     "votes": 21169,
+     "party": "REP",
+     "pct": 39.53,
+     "choice_id": "Irene V. Villacci",
+     "party_lines": {
+      "REP": 19273,
+      "CONSERVATIVE": 1896
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.counties",
+   "contest_id": "state_house.22",
+   "state": "NY",
+   "title": "Member of Assembly District 22",
+   "office_type": "state_house",
+   "district": "22",
+   "jurisdiction": "New York",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Summed from Nassau county results",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Michaelle C. Solages",
+     "votes": 29436,
+     "party": "DEM",
+     "pct": 69.26,
+     "choice_id": "Michaelle C. Solages",
+     "party_lines": {
+      "DEM": 28268,
+      "WFP": 1168
+     }
+    },
+    {
+     "name": "Robert G. Inzerillo",
+     "votes": 13063,
+     "party": "REP",
+     "pct": 30.74,
+     "choice_id": "Robert G. Inzerillo",
+     "party_lines": {
+      "REP": 11952,
+      "CONSERVATIVE": 1111
+     }
     }
    ],
    "url": null,
@@ -1117,7 +1712,7 @@
     "text": "Summed from Sullivan and Orange county results",
     "as_percent": false
    },
-   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
    "choices": [
     {
      "name": "Paula Elaine Kay",
@@ -1347,6 +1942,139 @@
   },
   {
    "source": "ny.counties",
+   "contest_id": "state_house.108",
+   "state": "NY",
+   "title": "Member of Assembly 108",
+   "office_type": "state_house",
+   "district": "108",
+   "jurisdiction": "New York",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Summed from Rensselaer, Albany and Saratoga county results",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:54:19-05:00",
+   "choices": [
+    {
+     "name": "John T. McDonald, III",
+     "votes": 26288,
+     "party": "DEM",
+     "pct": 66.98,
+     "choice_id": "John T. McDonald, III",
+     "party_lines": {
+      "DEM": 24571
+     }
+    },
+    {
+     "name": "Joseph J. Adamo, III",
+     "votes": 12940,
+     "party": "REP",
+     "pct": 32.97,
+     "choice_id": "Joseph J. Adamo, III",
+     "party_lines": {
+      "REP": 11679
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 22,
+     "party": null,
+     "pct": 0.06,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.counties",
+   "contest_id": "state_house.109",
+   "state": "NY",
+   "title": "Member of Assembly District 109",
+   "office_type": "state_house",
+   "district": "109",
+   "jurisdiction": "New York",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Summed from Albany county results",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-04T01:29:00-05:00",
+   "choices": [
+    {
+     "name": "Gabriella Romero",
+     "votes": 32947,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "Gabriella Romero",
+     "party_lines": {
+      "DEM": 27196,
+      "WFP": 5751
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.counties",
+   "contest_id": "state_house.110",
+   "state": "NY",
+   "title": "Member of Assembly District 110",
+   "office_type": "state_house",
+   "district": "110",
+   "jurisdiction": "New York",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Summed from Albany and Schenectady county results",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-04T01:29:00-05:00",
+   "choices": [
+    {
+     "name": "Phillip G. Steck",
+     "votes": 33767,
+     "party": "DEM",
+     "pct": 62.58,
+     "choice_id": "Phillip G. Steck",
+     "party_lines": {
+      "DEM": 30506,
+      "WFP": 3261
+     }
+    },
+    {
+     "name": "Frank A. Mauriello",
+     "votes": 20195,
+     "party": "REP",
+     "pct": 37.42,
+     "choice_id": "Frank A. Mauriello",
+     "party_lines": {
+      "REP": 17288,
+      "CON": 2907
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.counties",
    "contest_id": "state_house.119",
    "state": "NY",
    "title": "Member of Assembly, District 119",
@@ -1458,6 +2186,226 @@
      "pct": 0.08,
      "choice_id": "Write-in",
      "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.counties",
+   "contest_id": "state_house.127",
+   "state": "NY",
+   "title": "NY Member of Assembly District 127",
+   "office_type": "state_house",
+   "district": "127",
+   "jurisdiction": "New York",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Summed from Onondaga and Madison county results",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Albert A. Stirpe Jr.",
+     "votes": 33990,
+     "party": "DEM",
+     "pct": 60.25,
+     "choice_id": "Albert A. Stirpe Jr.",
+     "party_lines": {
+      "DEM": 31131,
+      "WFP": 2859
+     }
+    },
+    {
+     "name": "Timothy R. Kelly",
+     "votes": 22426,
+     "party": "REP",
+     "pct": 39.75,
+     "choice_id": "Timothy R. Kelly",
+     "party_lines": {
+      "REP": 19388,
+      "CONS": 2856,
+      "CONSERVATIVE": 182
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.01,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.counties",
+   "contest_id": "state_house.128",
+   "state": "NY",
+   "title": "NY Member of Assembly District 128",
+   "office_type": "state_house",
+   "district": "128",
+   "jurisdiction": "New York",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Summed from Onondaga county results",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Pamela Jo Hunter",
+     "votes": 28755,
+     "party": "DEM",
+     "pct": 68.77,
+     "choice_id": "Pamela Jo Hunter",
+     "party_lines": {
+      "DEM": 25939,
+      "WFP": 2816
+     }
+    },
+    {
+     "name": "Patrick J. Becher",
+     "votes": 13061,
+     "party": "REP",
+     "pct": 31.23,
+     "choice_id": "Patrick J. Becher",
+     "party_lines": {
+      "REP": 11171,
+      "CONS": 1890
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.counties",
+   "contest_id": "state_house.129",
+   "state": "NY",
+   "title": "NY Member of Assembly District 129",
+   "office_type": "state_house",
+   "district": "129",
+   "jurisdiction": "New York",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Summed from Onondaga county results",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Maurice Mo Brown",
+     "votes": 22075,
+     "party": "DEM",
+     "pct": 65.43,
+     "choice_id": "Maurice Mo Brown",
+     "party_lines": {
+      "DEM": 19324,
+      "WFP": 2751
+     }
+    },
+    {
+     "name": "Shawn M. Fiato",
+     "votes": 11663,
+     "party": "REP",
+     "pct": 34.57,
+     "choice_id": "Shawn M. Fiato",
+     "party_lines": {
+      "REP": 9841,
+      "CONS": 1822
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.counties",
+   "contest_id": "state_house.130",
+   "state": "NY",
+   "title": "Member of Assembly District 130",
+   "office_type": "state_house",
+   "district": "130",
+   "jurisdiction": "New York",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Summed from Wayne and Monroe county results",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-04T04:21:43.4080476Z",
+   "choices": [
+    {
+     "name": "Carl Fitzsimmons",
+     "votes": 21904,
+     "party": "DEM",
+     "pct": 40.86,
+     "choice_id": "Carl Fitzsimmons",
+     "party_lines": {
+      "DEM": 21904
+     }
+    },
+    {
+     "name": "George Dobbins ",
+     "votes": 30086,
+     "party": "REP",
+     "pct": 56.13,
+     "choice_id": "George Dobbins ",
+     "party_lines": {
+      "REP": 25541,
+      "CONSERVATIVE": 4545
+     }
+    },
+    {
+     "name": "Joseph Lamanna",
+     "votes": 1094,
+     "party": "COMMON SENSE",
+     "pct": 2.04,
+     "choice_id": "Joseph Lamanna",
+     "party_lines": {
+      "COMMON SENSE": 1094
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 21,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "Write-in",
+     "party_lines": null
+    },
+    {
+     "name": "COS Joseph Lamanna",
+     "votes": 497,
+     "party": "COMMON SENSE",
+     "pct": 0.93,
+     "choice_id": "COS Joseph Lamanna",
+     "party_lines": {
+      "COMMON SENSE": 497
+     }
     }
    ],
    "url": null,
@@ -2229,6 +3177,234 @@
   },
   {
    "source": "ny.counties",
+   "contest_id": "state_senate.5",
+   "state": "NY",
+   "title": "State Senator District 5",
+   "office_type": "state_senate",
+   "district": "5",
+   "jurisdiction": "New York",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Summed from Nassau county results",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Andrew Piddoubny",
+     "votes": 50896,
+     "party": null,
+     "pct": 42.6,
+     "choice_id": "Andrew Piddoubny",
+     "party_lines": null
+    },
+    {
+     "name": "Steven D. Rhoads",
+     "votes": 68587,
+     "party": "REP",
+     "pct": 57.4,
+     "choice_id": "Steven D. Rhoads",
+     "party_lines": {
+      "REP": 62903,
+      "CONSERVATIVE": 5684
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.counties",
+   "contest_id": "state_senate.6",
+   "state": "NY",
+   "title": "State Senator District 6",
+   "office_type": "state_senate",
+   "district": "6",
+   "jurisdiction": "New York",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Summed from Nassau county results",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Siela A. Bynoe",
+     "votes": 66198,
+     "party": "DEM",
+     "pct": 67.47,
+     "choice_id": "Siela A. Bynoe",
+     "party_lines": {
+      "DEM": 63702,
+      "WFP": 2496
+     }
+    },
+    {
+     "name": "Matthew J. Capp",
+     "votes": 31920,
+     "party": "REP",
+     "pct": 32.53,
+     "choice_id": "Matthew J. Capp",
+     "party_lines": {
+      "REP": 29207,
+      "CONSERVATIVE": 2713
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.counties",
+   "contest_id": "state_senate.7",
+   "state": "NY",
+   "title": "State Senator District 7",
+   "office_type": "state_senate",
+   "district": "7",
+   "jurisdiction": "New York",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Summed from Nassau county results",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Rory Lancman",
+     "votes": 56472,
+     "party": null,
+     "pct": 47.97,
+     "choice_id": "Rory Lancman",
+     "party_lines": null
+    },
+    {
+     "name": "Jake Blumencranz",
+     "votes": 61246,
+     "party": "REP",
+     "pct": 52.03,
+     "choice_id": "Jake Blumencranz",
+     "party_lines": {
+      "REP": 57146,
+      "CONSERVATIVE": 4100
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.counties",
+   "contest_id": "state_senate.8",
+   "state": "NY",
+   "title": "State Senator, 8th Senatorial District",
+   "office_type": "state_senate",
+   "district": "8",
+   "jurisdiction": "New York",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Summed from Suffolk and Nassau county results",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Jarett C. Gandolfo",
+     "votes": 77033,
+     "party": "REP",
+     "pct": 61.17,
+     "choice_id": "Jarett C. Gandolfo",
+     "party_lines": {
+      "REP": 67466,
+      "CONSERVATIVE": 9567
+     }
+    },
+    {
+     "name": "Joshua James Taveras",
+     "votes": 48847,
+     "party": "DEM",
+     "pct": 38.79,
+     "choice_id": "Joshua James Taveras",
+     "party_lines": {
+      "DEM": 36441
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 52,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "Write-In",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.counties",
+   "contest_id": "state_senate.9",
+   "state": "NY",
+   "title": "State Senator District 9",
+   "office_type": "state_senate",
+   "district": "9",
+   "jurisdiction": "New York",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Summed from Nassau county results",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Lisa Malkie Vider",
+     "votes": 58862,
+     "party": null,
+     "pct": 51.27,
+     "choice_id": "Lisa Malkie Vider",
+     "party_lines": null
+    },
+    {
+     "name": "Patricia M. Canzoneri-Fitzpatrick",
+     "votes": 55950,
+     "party": "REP",
+     "pct": 48.73,
+     "choice_id": "Patricia M. Canzoneri-Fitzpatrick",
+     "party_lines": {
+      "REP": 51725,
+      "CONSERVATIVE": 4225
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.counties",
    "contest_id": "state_senate.34",
    "state": "NY",
    "title": "State Senator 34th Senatorial District",
@@ -2665,6 +3841,106 @@
   },
   {
    "source": "ny.counties",
+   "contest_id": "state_senate.44",
+   "state": "NY",
+   "title": "Senator 44th District",
+   "office_type": "state_senate",
+   "district": "44",
+   "jurisdiction": "New York",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Summed from Saratoga and Schenectady county results",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:54:19-05:00",
+   "choices": [
+    {
+     "name": "James N. Tedisco",
+     "votes": 59518,
+     "party": "REP",
+     "pct": 47.83,
+     "choice_id": "James N. Tedisco",
+     "party_lines": {
+      "REP": 51277,
+      "CON": 7214,
+      "VAF": 1027
+     }
+    },
+    {
+     "name": "Sarah F. Rogerson",
+     "votes": 64922,
+     "party": "DEM",
+     "pct": 52.17,
+     "choice_id": "Sarah F. Rogerson",
+     "party_lines": {
+      "DEM": 59048,
+      "WFP": 5874
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.counties",
+   "contest_id": "state_senate.54",
+   "state": "NY",
+   "title": "State Senator 54th District",
+   "office_type": "state_senate",
+   "district": "54",
+   "jurisdiction": "New York",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Summed from Ontario, Wayne, Livingston and Monroe county results",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-04T03:21:44.0062896Z",
+   "choices": [
+    {
+     "name": "Michael  Mills",
+     "votes": 52999,
+     "party": "DEM",
+     "pct": 41.4,
+     "choice_id": "Michael  Mills",
+     "party_lines": {
+      "DEM": 52999
+     }
+    },
+    {
+     "name": "Pamela A. Helming ",
+     "votes": 74951,
+     "party": "REP",
+     "pct": 58.55,
+     "choice_id": "Pamela A. Helming ",
+     "party_lines": {
+      "REP": 64024,
+      "CONSERVATIVE": 10927
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 58,
+     "party": null,
+     "pct": 0.05,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.counties",
    "contest_id": "state_senate.55",
    "state": "NY",
    "title": "State Senator 55th District",
@@ -2942,6 +4218,164 @@
   },
   {
    "source": "ny.counties",
+   "contest_id": "federal_house.2",
+   "state": "NY",
+   "title": "Representative in Congress, 2nd Congressional District",
+   "office_type": "federal_house",
+   "district": "2",
+   "jurisdiction": "New York",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Summed from Suffolk and Nassau county results",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Patrick Halpin",
+     "votes": 119079,
+     "party": "DEM",
+     "pct": 48.68,
+     "choice_id": "Patrick Halpin",
+     "party_lines": {
+      "DEM": 111547,
+      "WFP": 7532
+     }
+    },
+    {
+     "name": "Andrew R. Garbarino",
+     "votes": 125338,
+     "party": "REP",
+     "pct": 51.24,
+     "choice_id": "Andrew R. Garbarino",
+     "party_lines": {
+      "REP": 109807,
+      "CONSERVATIVE": 15531
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 186,
+     "party": null,
+     "pct": 0.08,
+     "choice_id": "Write-In",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.counties",
+   "contest_id": "federal_house.3",
+   "state": "NY",
+   "title": "Representative in Congress District 3",
+   "office_type": "federal_house",
+   "district": "3",
+   "jurisdiction": "New York",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Summed from Nassau, New York City and Suffolk county results",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Thomas R. Suozzi",
+     "votes": 144174,
+     "party": "DEM",
+     "pct": 55.16,
+     "choice_id": "Thomas R. Suozzi",
+     "party_lines": {
+      "DEM": 41539
+     }
+    },
+    {
+     "name": "Michael J. LiPetri Jr.",
+     "votes": 117001,
+     "party": "REP",
+     "pct": 44.76,
+     "choice_id": "Michael J. LiPetri Jr.",
+     "party_lines": {
+      "REP": 107949,
+      "CONSERVATIVE": 9052
+     }
+    },
+    {
+     "name": "WRITE-IN",
+     "votes": 222,
+     "party": null,
+     "pct": 0.08,
+     "choice_id": "WRITE-IN",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.counties",
+   "contest_id": "federal_house.4",
+   "state": "NY",
+   "title": "Representative in Congress District 4",
+   "office_type": "federal_house",
+   "district": "4",
+   "jurisdiction": "New York",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Summed from Nassau county results",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "choices": [
+    {
+     "name": "Laura A. Gillen",
+     "votes": 151336,
+     "party": null,
+     "pct": 56.28,
+     "choice_id": "Laura A. Gillen",
+     "party_lines": null
+    },
+    {
+     "name": "Jeanine C. Driscoll",
+     "votes": 116912,
+     "party": "REP",
+     "pct": 43.48,
+     "choice_id": "Jeanine C. Driscoll",
+     "party_lines": {
+      "REP": 108023,
+      "CONSERVATIVE": 8889
+     }
+    },
+    {
+     "name": "Blay Tarnoff",
+     "votes": 663,
+     "party": null,
+     "pct": 0.25,
+     "choice_id": "Blay Tarnoff",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.counties",
    "contest_id": "federal_house.16",
    "state": "NY",
    "title": "Representative in Congress 16th District",
@@ -3099,12 +4533,66 @@
    ],
    "url": null,
    "uncontested": false
+  },
+  {
+   "source": "ny.counties",
+   "contest_id": "federal_house.25",
+   "state": "NY",
+   "title": "Representative in Congress 25th District",
+   "office_type": "federal_house",
+   "district": "25",
+   "jurisdiction": "New York",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": "Summed from Ontario county results",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-04T04:02:10.0888116Z",
+   "choices": [
+    {
+     "name": "Joseph D. Morelle",
+     "votes": 4731,
+     "party": "DEM",
+     "pct": 54.76,
+     "choice_id": "Joseph D. Morelle",
+     "party_lines": {
+      "DEM": 4449,
+      "WFP": 282
+     }
+    },
+    {
+     "name": "Virginia E. McIntyre",
+     "votes": 3899,
+     "party": "REP",
+     "pct": 45.13,
+     "choice_id": "Virginia E. McIntyre",
+     "party_lines": {
+      "REP": 3311,
+      "CONSERVATIVE": 588
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 9,
+     "party": null,
+     "pct": 0.1,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
   }
  ],
- "contests_hash": "28d828e6ab43dafd",
+ "contests_hash": "8d930c3107d0154a",
  "status": "ok",
  "message": "",
- "last_attempt_at": "2026-11-04T15:32:28+00:00",
- "fetched_at": "2026-11-04T15:32:28+00:00",
- "contests_changed_at": "2026-11-04T15:29:30+00:00"
+ "last_attempt_at": "2026-11-04T15:45:40+00:00",
+ "fetched_at": "2026-11-04T15:45:40+00:00",
+ "contests_changed_at": "2026-11-04T15:43:03+00:00"
 }

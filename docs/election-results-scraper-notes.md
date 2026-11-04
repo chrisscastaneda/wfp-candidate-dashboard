@@ -39,8 +39,9 @@ See also [election-results-scraper-plan.md](election-results-scraper-plan.md) (d
 | 10:08am | 854 | 689 | Arizona and DC (new sources) |
 | 10:17am | 870 | 703 | Massachusetts (entered by hand from AP) |
 | 10:31am | 915 | 742 | NY districts summed from county results; NYC leader fix |
+| 10:44am | 958 | 777 | Onondaga, Nassau, Albany, Schenectady, Saratoga and 6 more NY counties (new sources) |
 
-Still missing at 10:31am: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
+Still missing at 10:44am: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
 
 ---
 
@@ -494,6 +495,31 @@ Fixes made while building:
   blocking the most: Albany and Onondaga (7 races each), Niagara (6), Nassau and Schenectady (5 each). See the run log
   (`ny.counties skipped ...` lines) for each district's missing counties.
 
+### 10:44am: more New York counties
+
+- 958 races with results, WFP leading 777. 91 New York districts are now summed from county results, 52 of them WFP
+  races (44 leading); 34 New York races are still uncovered (4 statewide, 30 districts).
+- **Onondaga:** Results Caster at `ongov.resultscaster.com` (linked from onondaga.gov/elections), same module as Erie.
+- **Six more counties on Enhanced Voting:** Jefferson, Livingston, Madison, Ontario, Steuben, Wayne, found by probing
+  all 62 counties. They have no WFP local races but complete multi-county districts (Ontario completes NY-25).
+- **Nassau:** election-night results are a PDF converted to HTML (`app.nassaucountyny.gov/BOE/results/election2.html`);
+  new text parser. 1,042 of 1,083 precincts as of 11:55pm.
+- **Albany:** election-night PDF in the standard "Election Summary" layout; new `platforms/summary_pdf.py` using
+  `pdfplumber` (added to `requirements.txt`). The county page adds its PDF links with JavaScript, so the PDF's address
+  is set in `counties/ny.py`; a re-upload under a new address needs it updated.
+- **Schenectady:** "Summary Results Report" HTML at `.../BOE Election Results/GE26.html` (the EL45/PE26 files are
+  older elections); new parser. 101 of 102 precincts.
+- **Saratoga:** numbered election-night PDFs ("BoE-GeneralElection2026-Unofficial09.pdf", highest is newest) in the
+  "Statement of Votes Cast" layout; `parse_statement` in `summary_pdf.py`. Minor party lines ("No Kings") are
+  recognized when they fit within the candidate's total.
+- **Fix:** "County Legislature ... District 6" (Albany) was classified as a state legislature race because of the
+  word "legislature"; county legislature titles are now local. No other published result changed.
+- Confirmed by hand: Onondaga nicknames (Gregg Eriksen, Nicole Watts, Jo Bennett, Page Steinhardt) and Marty O'Connor
+  (Saratoga's "CP Super" seat). Not on the county's ballot: Phil Dilmore (Onondaga LD-12; Neil Smith is the Democrat).
+- **Still blocking districts:** Niagara (8 districts; its results site returns 403 to scripts) and rural counties with
+  no readable results (Otsego, Washington, Cayuga 6 each; Delaware, Montgomery, Fulton, St. Lawrence, Herkimer,
+  Chenango, Cortland 5 each).
+
 ## Feed quirks worth remembering
 
 | Source | Quirk | How it's handled |
@@ -526,6 +552,9 @@ Fixes made while building:
 | Massachusetts | No official election-night feed; AP posts no count for unopposed races | Entered by hand from AP widgets on news sites; `unopposed` in the votes column |
 | NYC ENR | Leading row's cells are bold (`<td style=...>`) | Row pattern accepts any cell attributes |
 | New York districts | No readable state feed | Summed from county shares when every county in the district has a source |
+| Albany County (NY) | PDF links added by JavaScript | PDF address set in the source |
+| Saratoga County (NY) | Numbered PDF uploads; page headers repeat mid-contest | Highest number taken; header rows skipped |
+| Nassau County (NY) | PDF rendered as HTML text runs | Text joined, page headers cut, parsed as one stream |
 | Oregon | Vote by mail; precincts-reporting stays at 0 while votes come in | Shown as reported; worth replacing with a count or hiding |
 
 ## Still open
@@ -548,5 +577,5 @@ Fixes made while building:
   Santa Barbara (7), Kern (5), Fresno and Tulare (4 each), Santa Cruz and Stanislaus (3 each).
 - Eight California propositions stay in review: several county sources carry their own share, and the state API's
   copy doesn't match on its own.
-- New York districts are summed from county shares (`ny.counties`); 42 WFP district races still lack a county source,
-  mostly Albany, Onondaga, Niagara, Nassau and Schenectady. Wisconsin could reuse `combine.py` with its own mapping.
+- New York districts are summed from county shares (`ny.counties`); 30 WFP district races still lack a county source,
+  mostly Niagara (blocked to scripts) and small rural counties. Wisconsin could reuse `combine.py` with its own mapping.

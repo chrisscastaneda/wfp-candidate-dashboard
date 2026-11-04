@@ -1,0 +1,2064 @@
+{
+ "source": "ny.madison",
+ "contests": [
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-c5c6-08df1fb70a9b",
+   "state": "NY",
+   "title": "Governor and Lieutenant Governor",
+   "office_type": "governor",
+   "district": null,
+   "jurisdiction": "Madison County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 53,
+    "pct": 0.0,
+    "text": "0 of 53 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Kathy C. Hochul and Adrienne E. Adams",
+     "votes": 10891,
+     "party": "DEM",
+     "pct": 41.78,
+     "choice_id": "01000000-2143-528e-d2f6-08df1fb70a9b",
+     "party_lines": {
+      "DEM": 9925,
+      "WFP": 966
+     }
+    },
+    {
+     "name": "Bruce A. Blakeman and Todd Hood",
+     "votes": 15108,
+     "party": "REP",
+     "pct": 57.96,
+     "choice_id": "01000000-2143-528e-d56e-08df1fb70a9b",
+     "party_lines": {
+      "REP": 13187,
+      "CONSERVATIVE": 1607,
+      "VOTE AFFORDA": 314
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 68,
+     "party": null,
+     "pct": 0.26,
+     "choice_id": "01000000-2143-528e-d5a0-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-d5ba-08df1fb70a9b",
+   "state": "NY",
+   "title": "Comptroller",
+   "office_type": "controller",
+   "district": null,
+   "jurisdiction": "Madison County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 53,
+    "pct": 0.0,
+    "text": "0 of 53 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Thomas P. DiNapoli",
+     "votes": 12515,
+     "party": "DEM",
+     "pct": 48.58,
+     "choice_id": "01000000-2143-528e-d5f9-08df1fb70a9b",
+     "party_lines": {
+      "DEM": 11049,
+      "WFP": 1466
+     }
+    },
+    {
+     "name": "Joseph Hernandez",
+     "votes": 13235,
+     "party": "REP",
+     "pct": 51.38,
+     "choice_id": "01000000-2143-528e-d61c-08df1fb70a9b",
+     "party_lines": {
+      "REP": 11675,
+      "CONSERVATIVE": 1560
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 11,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-2143-528e-d63a-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-d652-08df1fb70a9b",
+   "state": "NY",
+   "title": "Attorney General",
+   "office_type": "attorney_general",
+   "district": null,
+   "jurisdiction": "Madison County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 53,
+    "pct": 0.0,
+    "text": "0 of 53 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Letitia A. James",
+     "votes": 11213,
+     "party": "DEM",
+     "pct": 43.55,
+     "choice_id": "01000000-2143-528e-dbbd-08df1fb70a9b",
+     "party_lines": {
+      "DEM": 10061,
+      "WFP": 1152
+     }
+    },
+    {
+     "name": "Saritha Komatireddy",
+     "votes": 14522,
+     "party": "REP",
+     "pct": 56.4,
+     "choice_id": "01000000-2143-528e-dbd9-08df1fb70a9b",
+     "party_lines": {
+      "REP": 12765,
+      "CONSERVATIVE": 1757
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 14,
+     "party": null,
+     "pct": 0.05,
+     "choice_id": "01000000-2143-528e-dbee-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-dbfc-08df1fb70a9b",
+   "state": "NY",
+   "title": "Representative in Congress 22nd District",
+   "office_type": "federal_house",
+   "district": "22",
+   "jurisdiction": "Madison County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 53,
+    "pct": 0.0,
+    "text": "0 of 53 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "John W. Mannion",
+     "votes": 12001,
+     "party": "DEM",
+     "pct": 46.36,
+     "choice_id": "01000000-2143-528e-dc20-08df1fb70a9b",
+     "party_lines": {
+      "DEM": 10707,
+      "WFP": 1294
+     }
+    },
+    {
+     "name": "Kailee Buller",
+     "votes": 13875,
+     "party": "REP",
+     "pct": 53.6,
+     "choice_id": "01000000-2143-528e-dc34-08df1fb70a9b",
+     "party_lines": {
+      "REP": 12235,
+      "CONSERVATIVE": 1640
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 11,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-2143-528e-dc49-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-dc5a-08df1fb70a9b",
+   "state": "NY",
+   "title": "State Senator  53rd District",
+   "office_type": "state_senate",
+   "district": "53",
+   "jurisdiction": "Madison County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 53,
+    "pct": 0.0,
+    "text": "0 of 53 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Mandi Drake",
+     "votes": 10197,
+     "party": "DEM",
+     "pct": 39.48,
+     "choice_id": "01000000-2143-528e-dc72-08df1fb70a9b",
+     "party_lines": {
+      "DEM": 9129,
+      "WFP": 1068
+     }
+    },
+    {
+     "name": "Joseph A. Griffo",
+     "votes": 15624,
+     "party": "REP",
+     "pct": 60.49,
+     "choice_id": "01000000-2143-528e-dc86-08df1fb70a9b",
+     "party_lines": {
+      "REP": 13713,
+      "CONSERVATIVE": 1911
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 10,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-2143-528e-dc9b-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-dca9-08df1fb70a9b",
+   "state": "NY",
+   "title": "Member of Assembly 121st District",
+   "office_type": "state_house",
+   "district": "121",
+   "jurisdiction": "Madison County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 13,
+    "pct": 0.0,
+    "text": "0 of 13 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Vicki Davis",
+     "votes": 2277,
+     "party": "DEM",
+     "pct": 42.19,
+     "choice_id": "01000000-2143-528e-dcc0-08df1fb70a9b",
+     "party_lines": {
+      "DEM": 2277
+     }
+    },
+    {
+     "name": "Joe Angelino",
+     "votes": 3118,
+     "party": "REP",
+     "pct": 57.77,
+     "choice_id": "01000000-2143-528e-dcd1-08df1fb70a9b",
+     "party_lines": {
+      "REP": 2724,
+      "CONSERVATIVE": 394
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-2143-528e-dce6-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-dd06-08df1fb70a9b",
+   "state": "NY",
+   "title": "Member of Assembly 122nd District",
+   "office_type": "state_house",
+   "district": "122",
+   "jurisdiction": "Madison County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 30,
+    "pct": 0.0,
+    "text": "0 of 30 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Ihor Semko",
+     "votes": 5460,
+     "party": "DEM",
+     "pct": 36.22,
+     "choice_id": "01000000-2143-528e-dd1d-08df1fb70a9b",
+     "party_lines": {
+      "DEM": 4958,
+      "WFP": 502
+     }
+    },
+    {
+     "name": "Brian D. Miller",
+     "votes": 9610,
+     "party": "REP",
+     "pct": 63.74,
+     "choice_id": "01000000-2143-528e-dd32-08df1fb70a9b",
+     "party_lines": {
+      "REP": 8470,
+      "CONSERVATIVE": 1140
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 6,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-2143-528e-dd47-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-dd54-08df1fb70a9b",
+   "state": "NY",
+   "title": "Member of Assembly 127th District",
+   "office_type": "state_house",
+   "district": "127",
+   "jurisdiction": "Madison County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Albert A. Stirpe Jr.",
+     "votes": 1975,
+     "party": "DEM",
+     "pct": 59.43,
+     "choice_id": "01000000-2143-528e-dd6c-08df1fb70a9b",
+     "party_lines": {
+      "DEM": 1798,
+      "WFP": 177
+     }
+    },
+    {
+     "name": "Timothy R. Kelly",
+     "votes": 1345,
+     "party": "REP",
+     "pct": 40.48,
+     "choice_id": "01000000-2143-528e-dd82-08df1fb70a9b",
+     "party_lines": {
+      "REP": 1163,
+      "CONSERVATIVE": 182
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.09,
+     "choice_id": "01000000-2143-528e-dd98-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-ddad-08df1fb70a9b",
+   "state": "NY",
+   "title": "Member of Assembly  131st District",
+   "office_type": "state_house",
+   "district": "131",
+   "jurisdiction": "Madison County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Phillip Fleming",
+     "votes": 672,
+     "party": "DEM",
+     "pct": 37.13,
+     "choice_id": "01000000-2143-528e-ddc9-08df1fb70a9b",
+     "party_lines": {
+      "DEM": 672
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.06,
+     "choice_id": "01000000-2143-528e-dddb-08df1fb70a9b",
+     "party_lines": null
+    },
+    {
+     "name": "Mark Benjamin",
+     "votes": 1137,
+     "party": "REP",
+     "pct": 62.82,
+     "choice_id": "01000000-2143-528e-dded-08df1fb70a9b",
+     "party_lines": {
+      "REP": 974,
+      "CONSERVATIVE": 163
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-ddfc-08df1fb70a9b",
+   "state": "NY",
+   "title": "County Treasurer",
+   "office_type": "treasurer",
+   "district": null,
+   "jurisdiction": "Madison County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 53,
+    "pct": 0.0,
+    "text": "0 of 53 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Mary B. Cavanagh",
+     "votes": 18298,
+     "party": "REP",
+     "pct": 98.57,
+     "choice_id": "01000000-2143-528e-de19-08df1fb70a9b",
+     "party_lines": {
+      "REP": 18298
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 265,
+     "party": null,
+     "pct": 1.43,
+     "choice_id": "01000000-2143-528e-de2f-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-de36-08df1fb70a9b",
+   "state": "NY",
+   "title": "Brookfield Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Madison County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Loren C. Corbin",
+     "votes": 378,
+     "party": "DEM",
+     "pct": 42.05,
+     "choice_id": "01000000-2143-528e-de51-08df1fb70a9b",
+     "party_lines": {
+      "DEM": 378
+     }
+    },
+    {
+     "name": "Jonathan Haar",
+     "votes": 514,
+     "party": "REP",
+     "pct": 57.17,
+     "choice_id": "01000000-2143-528e-de69-08df1fb70a9b",
+     "party_lines": {
+      "REP": 514
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 7,
+     "party": null,
+     "pct": 0.78,
+     "choice_id": "01000000-2143-528e-de80-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-de85-08df1fb70a9b",
+   "state": "NY",
+   "title": "Brookfield Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Madison County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Write-in",
+     "votes": 195,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "01000000-2143-528e-dea3-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-e3f1-08df1fb70a9b",
+   "state": "NY",
+   "title": "Canastota Village Trustee",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Madison County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Lori A. Torrey",
+     "votes": 1162,
+     "party": "REP",
+     "pct": 52.7,
+     "choice_id": "01000000-2143-528e-e40c-08df1fb70a9b",
+     "party_lines": {
+      "REP": 1162
+     }
+    },
+    {
+     "name": "William M. Haddad",
+     "votes": 1014,
+     "party": "REP",
+     "pct": 45.99,
+     "choice_id": "01000000-2143-528e-e41c-08df1fb70a9b",
+     "party_lines": {
+      "REP": 1014
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 29,
+     "party": null,
+     "pct": 1.32,
+     "choice_id": "01000000-2143-528e-e5c1-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-e5c8-08df1fb70a9b",
+   "state": "NY",
+   "title": "Canastota Village Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Madison County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Peter M. Finocchiaro",
+     "votes": 1161,
+     "party": "REP",
+     "pct": 98.81,
+     "choice_id": "01000000-2143-528e-e5e8-08df1fb70a9b",
+     "party_lines": {
+      "REP": 1161
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 14,
+     "party": null,
+     "pct": 1.19,
+     "choice_id": "01000000-2143-528e-e5f9-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-dea7-08df1fb70a9b",
+   "state": "NY",
+   "title": "DeRuyter Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Madison County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Kevin M. Pierce Sr.",
+     "votes": 459,
+     "party": "REP",
+     "pct": 99.14,
+     "choice_id": "01000000-2143-528e-debf-08df1fb70a9b",
+     "party_lines": {
+      "REP": 459
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 4,
+     "party": null,
+     "pct": 0.86,
+     "choice_id": "01000000-2143-528e-ded6-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-deda-08df1fb70a9b",
+   "state": "NY",
+   "title": "DeRuyter Town Clerk/Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Madison County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Rebecca L. Marshall",
+     "votes": 488,
+     "party": "REP",
+     "pct": 99.59,
+     "choice_id": "01000000-2143-528e-def2-08df1fb70a9b",
+     "party_lines": {
+      "REP": 488
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.41,
+     "choice_id": "01000000-2143-528e-df10-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-df17-08df1fb70a9b",
+   "state": "NY",
+   "title": "DeRuyter Highway Superintendent",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Madison County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Adam M. Randall",
+     "votes": 478,
+     "party": "REP",
+     "pct": 98.96,
+     "choice_id": "01000000-2143-528e-df2d-08df1fb70a9b",
+     "party_lines": {
+      "REP": 478
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 5,
+     "party": null,
+     "pct": 1.04,
+     "choice_id": "01000000-2143-528e-df42-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-df48-08df1fb70a9b",
+   "state": "NY",
+   "title": "DeRuyter Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Madison County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Michael G. Compton",
+     "votes": 459,
+     "party": "REP",
+     "pct": 99.78,
+     "choice_id": "01000000-2143-528e-df62-08df1fb70a9b",
+     "party_lines": {
+      "REP": 459
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.22,
+     "choice_id": "01000000-2143-528e-df79-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-df7f-08df1fb70a9b",
+   "state": "NY",
+   "title": "Fenner Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Madison County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Dave Jones",
+     "votes": 539,
+     "party": "REP",
+     "pct": 99.08,
+     "choice_id": "01000000-2143-528e-df98-08df1fb70a9b",
+     "party_lines": {
+      "REP": 539
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 5,
+     "party": null,
+     "pct": 0.92,
+     "choice_id": "01000000-2143-528e-dfaf-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-dfbb-08df1fb70a9b",
+   "state": "NY",
+   "title": "Fenner Town Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Madison County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Kelli Stone",
+     "votes": 546,
+     "party": "REP",
+     "pct": 99.09,
+     "choice_id": "01000000-2143-528e-dfd3-08df1fb70a9b",
+     "party_lines": {
+      "REP": 546
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 5,
+     "party": null,
+     "pct": 0.91,
+     "choice_id": "01000000-2143-528e-dfe7-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-dfee-08df1fb70a9b",
+   "state": "NY",
+   "title": "Fenner Highway Superintendent",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Madison County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Robbie Conklin",
+     "votes": 547,
+     "party": "REP",
+     "pct": 99.09,
+     "choice_id": "01000000-2143-528e-e005-08df1fb70a9b",
+     "party_lines": {
+      "REP": 547
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 5,
+     "party": null,
+     "pct": 0.91,
+     "choice_id": "01000000-2143-528e-e019-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-e01f-08df1fb70a9b",
+   "state": "NY",
+   "title": "Georgetown Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Madison County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Paul H. Walrod",
+     "votes": 226,
+     "party": "REP",
+     "pct": 99.56,
+     "choice_id": "01000000-2143-528e-e036-08df1fb70a9b",
+     "party_lines": {
+      "REP": 226
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.44,
+     "choice_id": "01000000-2143-528e-e04c-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-e05a-08df1fb70a9b",
+   "state": "NY",
+   "title": "Georgetown Town Clerk/Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Madison County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Gail E. Evans-Burpee",
+     "votes": 223,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "01000000-2143-528e-e071-08df1fb70a9b",
+     "party_lines": {
+      "REP": 223
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-e08d-08df1fb70a9b",
+   "state": "NY",
+   "title": "Georgetown Highway Superintendent",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Madison County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Hunter Grace",
+     "votes": 213,
+     "party": "REP",
+     "pct": 98.61,
+     "choice_id": "01000000-2143-528e-e0a8-08df1fb70a9b",
+     "party_lines": {
+      "REP": 213
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 1.39,
+     "choice_id": "01000000-2143-528e-e0be-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-e0c3-08df1fb70a9b",
+   "state": "NY",
+   "title": "Georgetown Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Madison County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "David Canfield",
+     "votes": 219,
+     "party": "REP",
+     "pct": 99.55,
+     "choice_id": "01000000-2143-528e-e0db-08df1fb70a9b",
+     "party_lines": {
+      "REP": 219
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.45,
+     "choice_id": "01000000-2143-528e-e0f1-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-e0f6-08df1fb70a9b",
+   "state": "NY",
+   "title": "Lebanon Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Madison County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Adam Carvell",
+     "votes": 379,
+     "party": "DEM",
+     "pct": 99.21,
+     "choice_id": "01000000-2143-528e-e117-08df1fb70a9b",
+     "party_lines": {
+      "DEM": 279,
+      "RURAL ROOTS ": 100
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.79,
+     "choice_id": "01000000-2143-528e-e12e-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-e133-08df1fb70a9b",
+   "state": "NY",
+   "title": "Lebanon Town Clerk/Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Madison County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Joann L. Collins",
+     "votes": 385,
+     "party": "DEM",
+     "pct": 99.74,
+     "choice_id": "01000000-2143-528e-e14b-08df1fb70a9b",
+     "party_lines": {
+      "DEM": 282,
+      "RURAL ROOTS ": 103
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.26,
+     "choice_id": "01000000-2143-528e-e162-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-e168-08df1fb70a9b",
+   "state": "NY",
+   "title": "Lebanon Highway Superintendent",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Madison County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Jamie Goedel",
+     "votes": 378,
+     "party": "DEM",
+     "pct": 99.47,
+     "choice_id": "01000000-2143-528e-e180-08df1fb70a9b",
+     "party_lines": {
+      "DEM": 268,
+      "RURAL ROOTS ": 110
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.53,
+     "choice_id": "01000000-2143-528e-e196-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-e1a5-08df1fb70a9b",
+   "state": "NY",
+   "title": "Lenox Highway Superintendent",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Madison County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": "0 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Mack Funari",
+     "votes": 1605,
+     "party": "REP",
+     "pct": 54.08,
+     "choice_id": "01000000-2143-528e-e1e1-08df1fb70a9b",
+     "party_lines": {
+      "REP": 1527,
+      "THE ROAD FOR": 78
+     }
+    },
+    {
+     "name": "Derek J. Field",
+     "votes": 723,
+     "party": "OUR COMMUNIT",
+     "pct": 24.36,
+     "choice_id": "01000000-2143-528e-e1be-08df1fb70a9b",
+     "party_lines": {
+      "OUR COMMUNIT": 723
+     }
+    },
+    {
+     "name": "Jaimie F. Warner",
+     "votes": 634,
+     "party": "TRANSPARENCY",
+     "pct": 21.36,
+     "choice_id": "01000000-2143-528e-e1d0-08df1fb70a9b",
+     "party_lines": {
+      "TRANSPARENCY": 634
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 6,
+     "party": null,
+     "pct": 0.2,
+     "choice_id": "01000000-2143-528e-e1f8-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-e1ff-08df1fb70a9b",
+   "state": "NY",
+   "title": "Lincoln Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Madison County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Jon E. Black",
+     "votes": 615,
+     "party": "REP",
+     "pct": 88.36,
+     "choice_id": "01000000-2143-528e-e217-08df1fb70a9b",
+     "party_lines": {
+      "REP": 592,
+      "UNITY PARTY": 23
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 81,
+     "party": null,
+     "pct": 11.64,
+     "choice_id": "01000000-2143-528e-e22c-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-e23a-08df1fb70a9b",
+   "state": "NY",
+   "title": "Lincoln Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Madison County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Joseph C. Capparelli Jr.",
+     "votes": 648,
+     "party": "REP",
+     "pct": 98.78,
+     "choice_id": "01000000-2143-528e-e250-08df1fb70a9b",
+     "party_lines": {
+      "REP": 648
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": null,
+     "pct": 1.22,
+     "choice_id": "01000000-2143-528e-e260-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-e26d-08df1fb70a9b",
+   "state": "NY",
+   "title": "Nelson Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Madison County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "James J. Cunningham",
+     "votes": 700,
+     "party": "REP",
+     "pct": 98.59,
+     "choice_id": "01000000-2143-528e-e289-08df1fb70a9b",
+     "party_lines": {
+      "REP": 700
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 10,
+     "party": null,
+     "pct": 1.41,
+     "choice_id": "01000000-2143-528e-e29c-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-e2a1-08df1fb70a9b",
+   "state": "NY",
+   "title": "Nelson Town Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Madison County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Christine N. Jaquez",
+     "votes": 700,
+     "party": "REP",
+     "pct": 99.01,
+     "choice_id": "01000000-2143-528e-e2bc-08df1fb70a9b",
+     "party_lines": {
+      "REP": 700
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 7,
+     "party": null,
+     "pct": 0.99,
+     "choice_id": "01000000-2143-528e-e2cf-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-e2d5-08df1fb70a9b",
+   "state": "NY",
+   "title": "Nelson Highway Superintendent",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Madison County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Joseph E. Deyo Jr",
+     "votes": 695,
+     "party": "REP",
+     "pct": 97.89,
+     "choice_id": "01000000-2143-528e-e2f5-08df1fb70a9b",
+     "party_lines": {
+      "REP": 695
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 15,
+     "party": null,
+     "pct": 2.11,
+     "choice_id": "01000000-2143-528e-e308-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-e30f-08df1fb70a9b",
+   "state": "NY",
+   "title": "Nelson Town Council (One Year Vacancy)",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Madison County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Adam Laubscher",
+     "votes": 679,
+     "party": "REP",
+     "pct": 98.84,
+     "choice_id": "01000000-2143-528e-e328-08df1fb70a9b",
+     "party_lines": {
+      "REP": 679
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": null,
+     "pct": 1.16,
+     "choice_id": "01000000-2143-528e-e33b-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-e341-08df1fb70a9b",
+   "state": "NY",
+   "title": "Smithfield Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Madison County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "William A. Graham",
+     "votes": 248,
+     "party": "REP",
+     "pct": 52.99,
+     "choice_id": "01000000-2143-528e-e35b-08df1fb70a9b",
+     "party_lines": {
+      "REP": 213,
+      "CONSERVATIVE": 35
+     }
+    },
+    {
+     "name": "Thomas J. Stokes",
+     "votes": 220,
+     "party": "SMITHFIELD S",
+     "pct": 47.01,
+     "choice_id": "01000000-2143-528e-e36d-08df1fb70a9b",
+     "party_lines": {
+      "SMITHFIELD S": 220
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-e38d-08df1fb70a9b",
+   "state": "NY",
+   "title": "Smithfield Town Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Madison County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Elizabeth MacArthur",
+     "votes": 268,
+     "party": "DEM",
+     "pct": 99.26,
+     "choice_id": "01000000-2143-528e-e3a6-08df1fb70a9b",
+     "party_lines": {
+      "DEM": 268
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.74,
+     "choice_id": "01000000-2143-528e-e3b8-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-e3be-08df1fb70a9b",
+   "state": "NY",
+   "title": "Smithfield Highway Superintendent",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Madison County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Joshua K. Boyden",
+     "votes": 348,
+     "party": "REP",
+     "pct": 97.48,
+     "choice_id": "01000000-2143-528e-e3d7-08df1fb70a9b",
+     "party_lines": {
+      "REP": 348
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 9,
+     "party": null,
+     "pct": 2.52,
+     "choice_id": "01000000-2143-528e-e3eb-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-e5fe-08df1fb70a9b",
+   "state": "NY",
+   "title": "Oneida Proposal One, A Proposition",
+   "office_type": "measure",
+   "district": "oneida proposal one a proposition",
+   "jurisdiction": "Madison County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2208,
+     "party": null,
+     "pct": 68.47,
+     "choice_id": "01000000-2143-528e-e61e-08df1fb70a9b",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 1017,
+     "party": null,
+     "pct": 31.53,
+     "choice_id": "01000000-2143-528e-e62e-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-e632-08df1fb70a9b",
+   "state": "NY",
+   "title": "DeRuyter Proposal One, A Proposition",
+   "office_type": "measure",
+   "district": "deruyter proposal one a proposition",
+   "jurisdiction": "Madison County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 378,
+     "party": null,
+     "pct": 64.07,
+     "choice_id": "01000000-2143-528e-e651-08df1fb70a9b",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 212,
+     "party": null,
+     "pct": 35.93,
+     "choice_id": "01000000-2143-528e-e661-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-e66e-08df1fb70a9b",
+   "state": "NY",
+   "title": "DeRuyter Proposal Two, A Proposition",
+   "office_type": "measure",
+   "district": "deruyter proposal two a proposition",
+   "jurisdiction": "Madison County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 367,
+     "party": null,
+     "pct": 62.31,
+     "choice_id": "01000000-2143-528e-e68d-08df1fb70a9b",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 222,
+     "party": null,
+     "pct": 37.69,
+     "choice_id": "01000000-2143-528e-e69d-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-e6a0-08df1fb70a9b",
+   "state": "NY",
+   "title": "DeRuyter Proposal Three, A Propostion",
+   "office_type": "measure",
+   "district": "deruyter proposal three a propostion",
+   "jurisdiction": "Madison County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 353,
+     "party": null,
+     "pct": 60.03,
+     "choice_id": "01000000-2143-528e-e6bd-08df1fb70a9b",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 235,
+     "party": null,
+     "pct": 39.97,
+     "choice_id": "01000000-2143-528e-e6ce-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-e6d1-08df1fb70a9b",
+   "state": "NY",
+   "title": "Georgetown Proposal One, A Proposition",
+   "office_type": "measure",
+   "district": "georgetown proposal one a proposition",
+   "jurisdiction": "Madison County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 172,
+     "party": null,
+     "pct": 66.93,
+     "choice_id": "01000000-2143-528e-e6ee-08df1fb70a9b",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 85,
+     "party": null,
+     "pct": 33.07,
+     "choice_id": "01000000-2143-528e-e6ff-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-e709-08df1fb70a9b",
+   "state": "NY",
+   "title": "Lebanon Proposal One, A Proposition",
+   "office_type": "measure",
+   "district": "lebanon proposal one a proposition",
+   "jurisdiction": "Madison County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 293,
+     "party": null,
+     "pct": 58.13,
+     "choice_id": "01000000-2143-528e-e72a-08df1fb70a9b",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 211,
+     "party": null,
+     "pct": 41.87,
+     "choice_id": "01000000-2143-528e-e73a-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-e73d-08df1fb70a9b",
+   "state": "NY",
+   "title": "Lebanon Proposal Two, A Proposition",
+   "office_type": "measure",
+   "district": "lebanon proposal two a proposition",
+   "jurisdiction": "Madison County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 303,
+     "party": null,
+     "pct": 60.12,
+     "choice_id": "01000000-2143-528e-e75e-08df1fb70a9b",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 201,
+     "party": null,
+     "pct": 39.88,
+     "choice_id": "01000000-2143-528e-e76e-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ny.madison",
+   "contest_id": "01000000-2143-528e-e771-08df1fb70a9b",
+   "state": "NY",
+   "title": "Smithfield Proposal One, A Proposition",
+   "office_type": "measure",
+   "district": "smithfield proposal one a proposition",
+   "jurisdiction": "Madison County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:03:55.814377Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 182,
+     "party": null,
+     "pct": 38.48,
+     "choice_id": "01000000-2143-528e-e791-08df1fb70a9b",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 291,
+     "party": null,
+     "pct": 61.52,
+     "choice_id": "01000000-2143-528e-e7a0-08df1fb70a9b",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  }
+ ],
+ "contests_hash": "696564731adea4b7",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-04T15:45:22+00:00",
+ "fetched_at": "2026-11-04T15:45:22+00:00",
+ "contests_changed_at": "2026-11-04T15:37:42+00:00"
+}

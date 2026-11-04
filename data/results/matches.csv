@@ -38,6 +38,7 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 276,CO,Taishya Adams,Boulder Mayor,unmatched,,,,,,,no 'adams' in any CO contest loaded
 487,NJ,Shantell Cherry,"Piscataway City Council, Ward 1",unmatched,,,,,,,no 'cherry' in any NJ contest loaded
 739,NY,Alexandria Smith,(Town of) Ulster Town Board,unmatched,,,,,,,no 'smith' in any NY contest loaded
+802,NY,Phil Dilmore,"Onondaga County Legislature, District 12",unmatched,,,,,,,no 'dilmore' in any NY contest loaded
 909,NY,Melissa First,"Chautauqua County Legislature, District 17",unmatched,,,,,,,no 'first' in any NY contest loaded
 1210,OH,"Columbus, OH | Issue 8: Our City, Our Say",Ballot Measure,unmatched,,,,,,,measure '8': not found
 1211,OH,Ohio | Senate Bill 396: Paid Family and Medical Leave Act,Ballot Measure,unmatched,,,,,,,measure None: not found
@@ -506,20 +507,27 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 524,NM,Luke Jungmann,"State Representative, District 60",auto,district_surname,nm,11206,State Representative District 60,19771,LUKE NICHOLAS JUNGMANN,
 525,NM,Charlotte Little,"State Representative, District 68",auto,district_surname,nm,11263,State Representative District 68,19995,CHARLOTTE L LITTLE,
 530,NY,Chris Gallant,"U.S. House of Representatives, District 1",auto,district_surname,ny.counties,federal_house.1,"Representative in Congress, 1st Congressional District",Christopher J Gallant,Christopher J Gallant,
+531,NY,Pat Halpin,"U.S. House of Representatives, District 2",auto,district_surname,ny.counties,federal_house.2,"Representative in Congress, 2nd Congressional District",Patrick Halpin,Patrick Halpin,
 532,NY,Claire Valdez,"U.S. House of Representatives, District 7",auto,district_surname,ny.nyc,Representative in Congress 7th Congressional District,Representative in Congress 7th Congressional District,Claire Valdez,Claire Valdez,
 533,NY,Brad Lander,"U.S. House of Representatives, District 10",auto,district_surname,ny.nyc,Representative in Congress 10th Congressional District,Representative in Congress 10th Congressional District,Brad Lander,Brad Lander,
 534,NY,Darializa Avila Chevalier,"U.S. House of Representatives, District 13",auto,district_surname,ny.nyc,Representative in Congress 13th Congressional District,Representative in Congress 13th Congressional District,Darializa Avila Chevalier,Darializa Avila Chevalier,
 535,NY,Alexandria Ocasio-Cortez,"U.S. House of Representatives, District 14",auto,district_surname,ny.nyc,Representative in Congress 14th Congressional District,Representative in Congress 14th Congressional District,Alexandria Ocasio-Cortez,Alexandria Ocasio-Cortez,
 536,NY,Cait Conley,"U.S. House of Representatives, District 17",auto,district_surname,ny.counties,federal_house.17,Representative in Congress 17th District,Cait Conley,Cait Conley,
 537,NY,Pat Ryan,"U.S. House of Representatives, District 18",auto,district_surname,ny.counties,federal_house.18,Member of the House of Representatives for 18th Congressional District,Pat Ryan,Pat Ryan,
+543,NY,Joe Morelle,"U.S. House of Representatives, District 25",auto,district_surname,ny.counties,federal_house.25,Representative in Congress 25th District,Joseph D. Morelle,Joseph D. Morelle,
 545,NY,Christopher Murray,"State Senate, District 1",auto,district_surname,ny.counties,state_senate.1,"State Senator, 1st Senatorial District",E Christopher Murray,E Christopher Murray,
 546,NY,Antonio Vargas,"State Senate, District 3",auto,district_surname,ny.counties,state_senate.3,"State Senator, 3rd Senatorial District",Antonio Vargas-Ayala,Antonio Vargas-Ayala,
 547,NY,Monica Martinez,"State Senate, District 4",auto,district_surname,ny.counties,state_senate.4,"State Senator, 4th Senatorial District",Monica R Martinez,Monica R Martinez,
+548,NY,Siela Bynoe,"State Senate, District 6",auto,district_surname,ny.counties,state_senate.6,State Senator District 6,Siela A. Bynoe,Siela A. Bynoe,
+549,NY,Joshua Taveras,"State Senate, District 8",auto,district_surname,ny.counties,state_senate.8,"State Senator, 8th Senatorial District",Joshua James Taveras,Joshua James Taveras,
 550,NY,Thomas J. Schiavoni,"State Assembly, District 1",auto,district_surname,ny.counties,state_house.1,"Member of Assembly, 1st Assembly District",Tommy John Schiavoni,Tommy John Schiavoni,
 551,NY,Joshua Slaughter,"State Assembly, District 3",auto,district_surname,ny.counties,state_house.3,"Member of Assembly, 3rd Assembly District",Josh Slaughter,Josh Slaughter,
 552,NY,Philip R Ramos,"State Assembly, District 6",auto,district_surname,ny.counties,state_house.6,"Member of Assembly, 6th Assembly District",Philip R Ramos,Philip R Ramos,
 553,NY,Patricia Kopp,"State Assembly, District 7",auto,district_surname,ny.counties,state_house.7,"Member of Assembly, 7th Assembly District",Trish Kopp,Trish Kopp,
 554,NY,Craig Herskowitz,"State Assembly, District 12",auto,district_surname,ny.counties,state_house.12,"Member of Assembly, 12th Assembly District",Craig G Herskowitz,Craig G Herskowitz,
+555,NY,Noah Burroughs,"State Assembly, District 18",auto,district_surname,ny.counties,state_house.18,Member of Assembly District 18,Noah Burroughs,Noah Burroughs,
+556,NY,Michaelle C Solages,"State Assembly, District 22",auto,district_surname,ny.counties,state_house.22,Member of Assembly District 22,Michaelle C. Solages,Michaelle C. Solages,
+557,NY,Carrie Solages,"Nassau County Legislature, District 3",auto,name_in_state,ny.nassau,County Legislator District 3,County Legislator District 3,Carrié Solages,Carrié Solages,
 558,NY,Kathee Burke-Gonzalez,East Hampton Town Supervisor,auto,name_in_state,ny.suffolk,01000000-d6c5-0591-e72c-08df2faefec8,"Supervisor, Town of East Hampton",01000000-d6c5-0591-e75b-08df2faefec8,Kathee Burke-Gonzalez,
 559,NY,James Mack,Southampton Town Trustee,auto,name_in_state,ny.suffolk,01000000-d6c5-0591-778d-08df2faefec9,"Trustee, Town of Southampton",01000000-d6c5-0591-7a0a-08df2faefec9,James W Mack,
 560,NY,Sara Topping,Southampton Town Trustee,auto,name_in_state,ny.suffolk,01000000-d6c5-0591-778d-08df2faefec9,"Trustee, Town of Southampton",01000000-d6c5-0591-7842-08df2faefec9,Sara J Topping,
@@ -679,10 +687,21 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 744,NY,Roscoe Pecora,Esopus Town Supervisor,auto,name_in_state,ny.ulster,01000000-535b-89ee-9668-08df20b6864b,Esopus Supervisor,01000000-535b-89ee-96b1-08df20b6864b,Roscoe Pecora,
 745,NY,Charlotte Smiseth,Town of Rochester Highway Superintendent,auto,name_in_state,ny.ulster,01000000-535b-89ee-fc10-08df20b6864b,Rochester Superintendent of Highways,01000000-535b-89ee-fc62-08df20b6864b,Charlotte Smiseth,
 746,NY,Lynn Corcoran-Johnston,Esopus Town Tax Receiver,auto,name_in_state,ny.ulster,01000000-535b-89ee-ce85-08df20b68643,Esopus Tax Collector,01000000-535b-89ee-ced6-08df20b68643,Lynn Corcoran- Johnston,
+748,NY,Sarah Rogerson,"State Senate, District 44",auto,district_surname,ny.counties,state_senate.44,Senator 44th District,Sarah F. Rogerson,Sarah F. Rogerson,
+753,NY,Gabriella Romero,"State Assembly, District 109",auto,district_surname,ny.counties,state_house.109,Member of Assembly District 109,Gabriella Romero,Gabriella Romero,
+754,NY,Phil Steck,"State Assembly, District 110",auto,district_surname,ny.counties,state_house.110,Member of Assembly District 110,Phillip G. Steck,Phillip G. Steck,
+758,NY,Racquel Saddler,"Albany County Legislature, District 6",auto,name_in_state,ny.albany,County Legislature County Legislative District 6,County Legislature County Legislative District 6,Racquel Saddler,Racquel Saddler,
+759,NY,Peter Barber,Guiderland Town Supervisor,auto,name_in_state,ny.albany,Town Supervisor GUILDERLAND,Town Supervisor GUILDERLAND,Peter G. Barber,Peter G. Barber,
+760,NY,Bryan Clenahan,Guiderland Town Justice,auto,name_in_state,ny.albany,Town Justice GUILDERLAND,Town Justice GUILDERLAND,Bryan M. Clenahan,Bryan M. Clenahan,
+761,NY,Lisa Renee Williams,New Scotland Town Clerk,auto,name_in_state,ny.albany,Town Clerk NEW SCOTLAND,Town Clerk NEW SCOTLAND,Lisa R. Williams,Lisa R. Williams,
+762,NY,Deanna Rizzo,Coeymans Town Council,auto,name_in_state,ny.albany,Town Council Member COEYMANS,Town Council Member COEYMANS,Deanna J. Rizzo,Deanna J. Rizzo,
+763,NY,Justin Chaires,Schenectady City Council,auto,name_in_state,ny.schenectady,City Council Member City of Schenectady,City Council Member City of Schenectady,Justin R. Chaires,Justin R. Chaires,
 764,NY,Brian Zweig,North Greenbush Town Supervisor,auto,name_in_state,ny.rensselaer,01000000-b600-c2c6-da8f-08df1e3d092a,Town of North Greenbush Town Supervisor,01000000-b600-c2c6-daae-08df1e3d092a,Brian Zweig,
 765,NY,James McCarthy,North Greenbush Highway Superintendent,auto,name_in_state,ny.rensselaer,01000000-b600-c2c6-f879-08df1e3d092a,Town of North Greenbush Superintendent of Highways,01000000-b600-c2c6-f895-08df1e3d092a,James Paco McCarthy,
 766,NY,Kristen Kelley,Sand Lake Town Clerk,auto,name_in_state,ny.rensselaer,01000000-b600-c2c6-62b2-08df1e3d092b,Sand Lake Town Clerk,01000000-b600-c2c6-63bd-08df1e3d092b,Kristen L. Kelley,
 767,NY,Sonja Renee Okun,"Hudson Supervisor, Ward 3",auto,name_in_state,ny.columbia,01000000-0a48-0724-810a-08df28560e9a,Supervisor for 3rd Ward for Hudson,01000000-0a48-0724-8127-08df28560e9a,Sonja Okun,
+769,NY,Ram Lalukota,Clifton Park Town Supervisor,auto,name_in_state,ny.saratoga,CP Town/County Super,CP Town/County Super,Ram Mohan Lalukota,Ram Mohan Lalukota,
+770,NY,Caitlin Fantini,Clifton Park Town Clerk,auto,name_in_state,ny.saratoga,CP Town Clerk,CP Town Clerk,Caitlin S. Fantini,Caitlin S. Fantini,
 771,NY,Lee Jamison,Stuyvesant Town Supervisor,auto,name_in_state,ny.columbia,01000000-0a48-0724-7e12-08df28560e9a,Town Supervisor for Stuyvesant,01000000-0a48-0724-7e31-08df28560e9a,Lee Jamison,
 772,NY,Keith Bruno,Clinton County Court,auto,name_in_state,ny.clinton,01000000-99e5-71fc-4512-08df1ff45904,County Court Judge,01000000-99e5-71fc-452a-08df1ff45904,Keith M. Bruno,
 773,NY,Jaime A Douthat,Clinton County Surrogate’s Court Judge,auto,name_in_state,ny.clinton,01000000-99e5-71fc-4543-08df1ff45904,Surrogate Court Judge,01000000-99e5-71fc-455c-08df1ff45904,Jaime A. Douthat,
@@ -690,6 +709,25 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 776,NY,Ilona Selzer-Kelting,"Town of Plattsburgh Council, District 5",auto,name_in_state,ny.clinton,01000000-99e5-71fc-432b-08df1ff45904,Town Councilperson (1 Year Unexpired Term) - Town of Plattsburgh,01000000-99e5-71fc-4341-08df1ff45904,Ilona M. Kelting,
 777,NY,Jay White,Town of Plattsburgh Clerk,auto,name_in_state,ny.clinton,01000000-99e5-71fc-4367-08df1ff45904,Town Clerk (1 Year Unexpired Term) - Town of Plattsburgh,01000000-99e5-71fc-437f-08df1ff45904,Jay White,
 787,NY,Jonathan Lipe,"State Assembly, District 119",auto,district_surname,ny.counties,state_house.119,"Member of Assembly, District 119",Jonathan E. Lipe,Jonathan E. Lipe,
+792,NY,Al Stirpe,"State Assembly, District 127",auto,district_surname,ny.counties,state_house.127,NY Member of Assembly District 127,Albert A. Stirpe Jr.,Albert A. Stirpe Jr.,
+793,NY,Pam Hunter,"State Assembly, District 128",auto,district_surname,ny.counties,state_house.128,NY Member of Assembly District 128,Pamela Jo Hunter,Pamela Jo Hunter,
+794,NY,Maurice Brown,"State Assembly, District 129",auto,district_surname,ny.counties,state_house.129,NY Member of Assembly District 129,Maurice Mo Brown,Maurice Mo Brown,
+795,NY,Justin Neal,"Onondaga County Legislature, District 1",auto,name_in_state,ny.onondaga,282,Onondaga County Legislator 1st District,34,Justin K. Neal,
+796,NY,Jeremiah Thompson,"Onondaga County Legislature, District 4",auto,name_in_state,ny.onondaga,287,Onondaga County Legislator 4th District,43,Jeremiah W. Thompson,
+797,NY,Ellen Block,"Onondaga County Legislature, District 5",auto,name_in_state,ny.onondaga,290,Onondaga County Legislator 5th District,46,Ellen Block,
+799,NY,Chad Ryan,"Onondaga County Legislator, District 8",auto,name_in_state,ny.onondaga,295,Onondaga County Legislator 8th District,55,Chad Ryan,
+801,NY,Elaine Denton,"Onondaga County Legislature, District 10",auto,name_in_state,ny.onondaga,298,Onondaga County Legislator 10th District,61,Elaine Denton,
+803,NY,Blake Carter,"Onondaga County Legislature, District 13",auto,name_in_state,ny.onondaga,293,Onondaga County Legislator 13th District,70,Blake Carter,
+804,NY,Jessica Dapson,"Onondaga County Legislature, District 14",auto,name_in_state,ny.onondaga,289,Onondaga County Legislator 14th District,73,Jessica Dapson,
+806,NY,Charlene Tarver,"Onondaga County Legislature, District 16",auto,name_in_state,ny.onondaga,286,Onondaga County Legislator 16th District,80,Charlene Tarver,
+807,NY,Nodesia Hernandez,"Onondaga County Legislature, District 17",auto,name_in_state,ny.onondaga,284,Onondaga County Legislator 17th District,82,Nodesia R. Hernandez,
+808,NY,Jeffrey Leibo,Onondaga County Court Judge,auto,name_in_state,ny.onondaga,279,Onondaga County Court Judge,228,Jeffrey G. Leibo,
+809,NY,Sara Wall Bollinger,Manlius Town Supervisor,auto,name_in_state,ny.onondaga,331,Town Supervisor - Manlius,146,Sara Bollinger,
+810,NY,Brett Edkins,Manlius Town Supervisor,auto,name_in_state,ny.onondaga,334,Town Councilor (To Fill Vacancy) - Manlius,149,Brett Edkins,
+811,NY,Rob Santucci,Cicero Town Supervisor,auto,name_in_state,ny.onondaga,308,Town Supervisor - Cicero,111,Rob Santucci,
+812,NY,Heidi McElwee,Salina Town Supervisor,auto,name_in_state,ny.onondaga,330,Town Councilor 1st Ward - Salina Ward 1,175,Heidi McElwee,
+813,NY,Sydney Szczesniak,"Salina Town Council, Ward 2",auto,name_in_state,ny.onondaga,332,Town Councilor 2nd Ward - Salina Ward 2,178,Sydney Szczesniak,
+815,NY,John O’Hara,"Camilius Town Board, Ward 6",auto,name_in_state,ny.onondaga,307,Town Councilor 6th Ward - Camillus Ward 6,105,John O'Hara,
 817,NY,Michael D. Brown,Oneida County Clerk,auto,name_in_state,ny.oneida,01000000-4759-b58d-bb5c-08df1a5e4f90,County Clerk,01000000-4759-b58d-bb9b-08df1a5e4f90,Michael D. Brown,
 818,NY,Jacob T. Addington,"Oneida County Legislature, District 2",auto,name_in_state,ny.oneida,01000000-4759-b58d-bd18-08df1a5e4f90,"County Legislator, District 2",01000000-4759-b58d-bd50-08df1a5e4f90,Jacob T. Addington,
 820,NY,Thomas N. Theall,"Oneida County Legislature, District 12",auto,name_in_state,ny.oneida,01000000-4759-b58d-c1e3-08df1a5e4f90,"County Legislator, District 12",01000000-4759-b58d-c21b-08df1a5e4f90,Thomas N. Theall,
@@ -710,6 +748,7 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 837,NY,Joshua Shapiro,Town of Vestal Justice,auto,name_in_state,ny.broome,01000000-1fbe-aa34-bde1-08df2fb19136,Vestal Town Justice,01000000-1fbe-aa34-bdfa-08df2fb19136,Joshua S. Shapiro,
 838,NY,Leona Perreault,Village of Johnson City Trustee,auto,name_in_state,ny.broome,01000000-1fbe-aa34-91c7-08df2fb19136,Johnson City Village Trustee,01000000-1fbe-aa34-9228-08df2fb19136,Leona Rhea Perreault,
 839,NY,Joseph Picalila,Village of Johnson City Trustee,auto,name_in_state,ny.broome,01000000-1fbe-aa34-91c7-08df2fb19136,Johnson City Village Trustee,01000000-1fbe-aa34-91e5-08df2fb19136,Joseph M. Picalila,
+841,NY,Heather J. McGregor,"Jefferson County Legislature, District 6",auto,name_in_state,ny.jefferson,01000000-65df-5e06-4514-08df2dfd74d7,County Legislator D6,01000000-65df-5e06-452d-08df2dfd74d7,Heather McGregor,
 842,NY,Samra Brouk,"State Senate, District 55",auto,district_surname,ny.counties,state_senate.55,State Senator 55th District,Samra G Brouk,Samra G Brouk,
 843,NY,Jeremy Cooney,"State Senate, District 56",auto,district_surname,ny.counties,state_senate.56,State Senator 56th District,Jeremy A Cooney,Jeremy A Cooney,
 845,NY,Jonathan Rivera,"State Senate, District 61",auto,district_surname,ny.counties,state_senate.61,State Senator 61st,Jonathan D. Rivera,Jonathan D. Rivera,
@@ -978,7 +1017,12 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 723,NY,Greg McCollough,"Ulster County Legislature, District 6",confirmed,near_name,ny.ulster,01000000-535b-89ee-7443-08df20b6864b,"Ulster County Legislator, District 6",01000000-535b-89ee-74a4-08df20b6864b,Gregory McCollough,first-name variant (Gregory McCollough); same surname and district
 732,NY,Pierette Farber,"Ulster County Legislature, District 17",confirmed,near_name,ny.ulster,01000000-535b-89ee-9322-08df20b6864b,"Ulster County Legislator, District 17",01000000-535b-89ee-9372-08df20b6864b,Pierrette Farber,first-name variant (Pierrette Farber); same surname and district
 735,NY,Kenneth Stephens,"Ulster County Legislature, District 21",confirmed,near_name,ny.ulster,01000000-535b-89ee-c52a-08df20b6864b,"Ulster County Legislator, District 21",01000000-535b-89ee-c590-08df20b6864b,Ken Stephens,first-name variant (Ken Stephens); same surname and district
+768,NY,Marty O’Connor,Saratoga County Supervisor (for Clifton Park),confirmed,near_name,ny.saratoga,CP Super,CP Super,Martin C. O'Connor,Martin C. O'Connor,Saratoga abbreviates Clifton Park's county supervisor seat as 'CP Super' | confirmed Nov 4
 775,NY,Charles Kostyk,Town of Plattsburgh Supervisor,confirmed,near_name,ny.clinton,01000000-99e5-71fc-42f9-08df1ff45904,Town Supervisor (1 Year Unexpired Term) - Town of Plattsburgh,01000000-99e5-71fc-430e-08df1ff45904,Chuck Kostyk,first-name variant (Chuck Kostyk); same surname and district
+798,NY,Gregory Eriksen,"Onondaga County Legislature, District 6",confirmed,near_name,ny.onondaga,291,Onondaga County Legislator 6th District,49,Gregg Eriksen,first-name variant (Gregg Eriksen); same surname and district | confirmed Nov 4
+800,NY,Erica Nicole Watts,"Onondaga County Legislature, District 9",confirmed,near_name,ny.onondaga,297,Onondaga County Legislator 9th District,58,Nicole Watts,first-name variant (Nicole Watts); same surname and district | confirmed Nov 4
+805,NY,Joseph Bennett,"Onondaga County Legislature, District 15",confirmed,near_name,ny.onondaga,288,Onondaga County Legislator 15th District,76,Jo Bennett,first-name variant (Jo Bennett); same surname and district | confirmed Nov 4; Jo Bennett won the June 23 Democratic primary for LD-15 (Central Current)
+814,NY,Frederick Page Steinhardt,"Salina Town Council, Ward 3",confirmed,near_name,ny.onondaga,333,Town Councilor 3rd Ward - Salina Ward 3,181,Page Steinhardt,first-name variant (Page Steinhardt); same surname and district | confirmed Nov 4
 825,NY,Kellyann Mercurio Bianco,"Oneida County Legislature, District 22",confirmed,near_name,ny.oneida,01000000-4759-b58d-c77c-08df1a5e4f90,"County Legislator, District 22",01000000-4759-b58d-c7b4-08df1a5e4f90,Kellyann C. Mercurio,first-name variant (Kellyann C. Mercurio); same surname and district
 836,NY,Meghan Jacobs,Town of Conklin Council Member,confirmed,near_name,ny.broome,01000000-1fbe-aa34-4c1f-08df2fb19136,Conklin Town Council Member,01000000-1fbe-aa34-4c33-08df2fb19136,Meg Jacobs,first-name variant (Meg Jacobs); same surname and district
 863,NY,Bharathy (Rathi) S Ravichandran (Ravi),"Erie County Legislature, District 6",confirmed,manual,ny.erie,26,County Legislator 6th,93,Rathi Ravi,WFP lists her full name; the ballot says Rathi Ravi
@@ -1083,41 +1127,22 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 527,NY,Adrienne Adams,Lt. Governor,no_source,,,,,,,NY has only county sources so far
 528,NY,Letitia James,Attorney General,no_source,,,,,,,NY has only county sources so far
 529,NY,Tom DiNapoli,Comptroller,no_source,,,,,,,NY has only county sources so far
-531,NY,Pat Halpin,"U.S. House of Representatives, District 2",no_source,,,,,,,NY has only county sources so far
 538,NY,Josh Riley,"U.S. House of Representatives, District 19",no_source,,,,,,,NY has only county sources so far
 539,NY,Paul Tonko,"U.S. House of Representatives, District 20",no_source,,,,,,,NY has only county sources so far
 540,NY,John Mannion,"U.S. House of Representatives, District 22",no_source,,,,,,,NY has only county sources so far
 541,NY,Aaron Gies,"U.S. House of Representatives, District 23",no_source,,,,,,,NY has only county sources so far
 542,NY,Alissa Ellman,"U.S. House of Representatives, District 24",no_source,,,,,,,NY has only county sources so far
-543,NY,Joe Morelle,"U.S. House of Representatives, District 25",no_source,,,,,,,NY has only county sources so far
 544,NY,Tim Kennedy,"U.S. House of Representatives, District 26",no_source,,,,,,,NY has only county sources so far
-548,NY,Siela Bynoe,"State Senate, District 6",no_source,,,,,,,NY has only county sources so far
-549,NY,Joshua Taveras,"State Senate, District 8",no_source,,,,,,,NY has only county sources so far
-555,NY,Noah Burroughs,"State Assembly, District 18",no_source,,,,,,,NY has only county sources so far
-556,NY,Michaelle C Solages,"State Assembly, District 22",no_source,,,,,,,NY has only county sources so far
-557,NY,Carrie Solages,"Nassau County Legislature, District 3",no_source,,,,,,,no source carries Nassau local races yet
 620,NY,Michelle Hinchey,"State Senate, District 41",no_source,,,,,,,NY has only county sources so far
 622,NY,Michele Frazier,"State Senate, District 51",no_source,,,,,,,NY has only county sources so far
 747,NY,Devin Lander,"State Senate, District 43",no_source,,,,,,,NY has only county sources so far
-748,NY,Sarah Rogerson,"State Senate, District 44",no_source,,,,,,,NY has only county sources so far
 749,NY,Melissa T Seale,"State Senate, District 45",no_source,,,,,,,NY has only county sources so far
 750,NY,Pat Fahy,"State Senate, District 46",no_source,,,,,,,NY has only county sources so far
 751,NY,Janet Tweed,"State Assembly, District 102",no_source,,,,,,,NY has only county sources so far
 752,NY,Chloe Pierce,"State Assembly, District 107",no_source,,,,,,,NY has only county sources so far
-753,NY,Gabriella Romero,"State Assembly, District 109",no_source,,,,,,,NY has only county sources so far
-754,NY,Phil Steck,"State Assembly, District 110",no_source,,,,,,,NY has only county sources so far
 755,NY,Mario Fantini,"State Assembly, District 112",no_source,,,,,,,NY has only county sources so far
 756,NY,John Gunther,"State Assembly, District 114",no_source,,,,,,,NY has only county sources so far
 757,NY,Michael Cashman,"State Assembly, District 115",no_source,,,,,,,NY has only county sources so far
-758,NY,Racquel Saddler,"Albany County Legislature, District 6",no_source,,,,,,,no source carries Albany local races yet
-759,NY,Peter Barber,Guiderland Town Supervisor,no_source,,,,,,,no source carries Albany local races yet
-760,NY,Bryan Clenahan,Guiderland Town Justice,no_source,,,,,,,no source carries Albany local races yet
-761,NY,Lisa Renee Williams,New Scotland Town Clerk,no_source,,,,,,,no source carries Albany local races yet
-762,NY,Deanna Rizzo,Coeymans Town Council,no_source,,,,,,,no source carries Albany local races yet
-763,NY,Justin Chaires,Schenectady City Council,no_source,,,,,,,no source carries Schenectady local races yet
-768,NY,Marty O’Connor,Saratoga County Supervisor (for Clifton Park),no_source,,,,,,,no source carries Saratoga local races yet
-769,NY,Ram Lalukota,Clifton Park Town Supervisor,no_source,,,,,,,no source carries Saratoga local races yet
-770,NY,Caitlin Fantini,Clifton Park Town Clerk,no_source,,,,,,,no source carries Saratoga local races yet
 778,NY,Kaitlin Parker,Malone Village Trustee,no_source,,,,,,,no source carries Franklin local races yet
 780,NY,James Michael Sienkiewycz,"North Lawrence, NY County Coroner",no_source,,,,,,,no source carries St. Lawrence local races yet
 781,NY,Rachel May,"State Senate, District 48",no_source,,,,,,,NY has only county sources so far
@@ -1130,34 +1155,9 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 789,NY,Andrew G Fagan,"State Assembly, District 124",no_source,,,,,,,NY has only county sources so far
 790,NY,Anna Kelles,"State Assembly, District 125",no_source,,,,,,,NY has only county sources so far
 791,NY,Ian Phillips,"State Assembly, District 126",no_source,,,,,,,NY has only county sources so far
-792,NY,Al Stirpe,"State Assembly, District 127",no_source,,,,,,,NY has only county sources so far
-793,NY,Pam Hunter,"State Assembly, District 128",no_source,,,,,,,NY has only county sources so far
-794,NY,Maurice Brown,"State Assembly, District 129",no_source,,,,,,,NY has only county sources so far
-795,NY,Justin Neal,"Onondaga County Legislature, District 1",no_source,,,,,,,no source carries Onondaga local races yet
-796,NY,Jeremiah Thompson,"Onondaga County Legislature, District 4",no_source,,,,,,,no source carries Onondaga local races yet
-797,NY,Ellen Block,"Onondaga County Legislature, District 5",no_source,,,,,,,no source carries Onondaga local races yet
-798,NY,Gregory Eriksen,"Onondaga County Legislature, District 6",no_source,,,,,,,no source carries Onondaga local races yet
-799,NY,Chad Ryan,"Onondaga County Legislator, District 8",no_source,,,,,,,no source carries Onondaga local races yet
-800,NY,Erica Nicole Watts,"Onondaga County Legislature, District 9",no_source,,,,,,,no source carries Onondaga local races yet
-801,NY,Elaine Denton,"Onondaga County Legislature, District 10",no_source,,,,,,,no source carries Onondaga local races yet
-802,NY,Phil Dilmore,"Onondaga County Legislature, District 12",no_source,,,,,,,no source carries Onondaga local races yet
-803,NY,Blake Carter,"Onondaga County Legislature, District 13",no_source,,,,,,,no source carries Onondaga local races yet
-804,NY,Jessica Dapson,"Onondaga County Legislature, District 14",no_source,,,,,,,no source carries Onondaga local races yet
-805,NY,Joseph Bennett,"Onondaga County Legislature, District 15",no_source,,,,,,,no source carries Onondaga local races yet
-806,NY,Charlene Tarver,"Onondaga County Legislature, District 16",no_source,,,,,,,no source carries Onondaga local races yet
-807,NY,Nodesia Hernandez,"Onondaga County Legislature, District 17",no_source,,,,,,,no source carries Onondaga local races yet
-808,NY,Jeffrey Leibo,Onondaga County Court Judge,no_source,,,,,,,no source carries Onondaga local races yet
-809,NY,Sara Wall Bollinger,Manlius Town Supervisor,no_source,,,,,,,no source carries Onondaga local races yet
-810,NY,Brett Edkins,Manlius Town Supervisor,no_source,,,,,,,no source carries Onondaga local races yet
-811,NY,Rob Santucci,Cicero Town Supervisor,no_source,,,,,,,no source carries Onondaga local races yet
-812,NY,Heidi McElwee,Salina Town Supervisor,no_source,,,,,,,no source carries Onondaga local races yet
-813,NY,Sydney Szczesniak,"Salina Town Council, Ward 2",no_source,,,,,,,no source carries Onondaga local races yet
-814,NY,Frederick Page Steinhardt,"Salina Town Council, Ward 3",no_source,,,,,,,no source carries Onondaga local races yet
-815,NY,John O’Hara,"Camilius Town Board, Ward 6",no_source,,,,,,,no source carries Onondaga local races yet
 816,NY,Rachel Graham,Tompkins County Clerk,no_source,,,,,,,no source carries Tompkins local races yet
 819,NY,Leslie Berliant,"Otsego County Legislature, District 7",no_source,,,,,,,no source carries Otsego local races yet
 840,NY,Manford Benjamin Susman,Cayuga County Court Judge,no_source,,,,,,,no source carries Cayuga local races yet
-841,NY,Heather J. McGregor,"Jefferson County Legislature, District 6",no_source,,,,,,,no source carries Jefferson local races yet
 844,NY,Victoria Guite-Williams,"State Senate, District 57",no_source,,,,,,,NY has only county sources so far
 846,NY,Thomas Arida,"State Senate, District 62",no_source,,,,,,,NY has only county sources so far
 853,NY,William “Bill” Conrad,"State Assembly, District 140",no_source,,,,,,,NY has only county sources so far

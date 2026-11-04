@@ -285,3 +285,62 @@ def test_county_shares_summed_into_districts():
     assert "42" not in by_district and any("Gamma" in line for line in skipped)  # Gamma has no source
     latest["ny.b"]["status"] = "not_published"
     assert {c.district for c in combine.build(latest, sources, mapping)[0]} == set()
+
+
+def test_summary_pdf_combines_party_lines():
+    from elex.platforms import summary_pdf
+    text = "\n".join([
+        "Albany County Election Night Unofficial Results", "2026 General Election 100% Precincts Reporting",
+        "November 3, 2026", "Statistics TOTAL Election Early Absentee Affidavit",
+        "Ballots Cast - Total 116,201 68,471 41,462 6,268 0",
+        "Member of Assembly District 107", "Vote For 1", "TOTAL VOTE % Election Early Absentee Affidavit",
+        "Day Voting", "DEM Chloe E. Pierce 10,199 60.52% 3,896 5,695 608 0",
+        "REP Scott H. Bendett 4,418 26.21% 2,755 1,517 146 0", "WFP Chloe E. Pierce 1,222 7.25% 520 645 57 0",
+        "Write-In Totals 22 0.13% 12 10 0 0", "Contest Totals 16,853 100.00% 7,762 8,118 833 0",
+        "Election Summary - 11/04/2026 1:29 AM Page 2 of 10",
+        "County Legislature County Legislative District 6", "Vote For 1",
+        "DEM Racquel Saddler 1,293 98.00% 1 1 1 0", "Contest Totals 1,320 100.00% 1 1 1 0"])
+    assembly, legislature = summary_pdf.parse(text, source_id="ny.albany", state="NY", county="Albany")
+    assert (assembly.office_type, assembly.district, assembly.scope) == ("state_house", "107", "partial")
+    pierce = assembly.choices[0]
+    assert (pierce.name, pierce.votes, pierce.party_lines) == ("Chloe E. Pierce", 11421, {"DEM": 10199, "WFP": 1222})
+    assert assembly.feed_updated_at == "2026-11-04T01:29:00-05:00"
+    assert (legislature.office_type, legislature.scope) == ("local", "complete")  # a county's, not the state's
+
+
+def test_statement_of_votes_layout():
+    from elex.platforms import summary_pdf
+    header = ["Statement of Votes Cast by Geography Page: 3 of 11",
+              "Saratoga County, 2026 General Election, Nov 03, 2026 2026-11-03",
+              "All Election Districts, All Districts, All Counter Groups, All ScanStations 23:54:19",
+              "Total Ballots Cast: 101777", "204 precincts reported out of 204 total", "Choice Votes"]
+    text = "\n".join(header + [
+        "113th Assembly District (Vote for 1)", "43779 ballots (21 over voted ballots)",
+        "94 precincts reported out of 94 total", "Thomas J. Kenny 1046", "Working Families 778", "No Kings 268",
+        "Carrie Woerner 25030", *header, "Write-in 25", "Total 26101", "Undervotes 483",
+        "Senator 44th District (Vote for 1)", "204 precincts reported out of 204 total",
+        "Sarah F. Rogerson 49124", "Democratic 44952", "Working Families 4172", "Total 49124"])
+    assembly, senate = summary_pdf.parse_statement(text, source_id="ny.saratoga", state="NY", county="Saratoga")
+    assert [(c.name, c.votes) for c in assembly.choices] == [("Thomas J. Kenny", 1046), ("Carrie Woerner", 25030)]
+    assert assembly.choices[0].party_lines == {"WFP": 778, "NO KINGS": 268}
+    assert (assembly.reporting.units_reporting, assembly.reporting.units_total) == (94, 94)
+    assert (senate.office_type, senate.district) == ("state_senate", "44")
+    assert senate.choices[0].party_lines == {"DEM": 44952, "WFP": 4172}
+
+
+def test_nassau_and_schenectady_text():
+    nassau = ny.parse_nassau(
+        "Unofficial Results November 3, 2026 General Election 1042 precincts reported out of 1083 total "
+        "2026-11-03 23:55:59 ChoiceVotes Vote % All Precincts State Senator District 6 (Vote for 1) "
+        "Siela A. Bynoe 66198 67.45% Democratic63702 Working Families 2496 Matthew J. Capp 31920 32.52% "
+        "Republican29207 Conservative2713 Write-in40 0.04% Total98158100.00%")
+    sd6, = nassau
+    assert [(c.name, c.votes, c.party) for c in sd6.choices] == [("Siela A. Bynoe", 66198, "DEM"),
+                                                                 ("Matthew J. Capp", 31920, "REP")]
+    assert sd6.choices[0].party_lines == {"DEM": 63702, "WFP": 2496} and sd6.scope == "partial"
+    lines = ["UNOFFICIAL RESULTS", "November 3, 2026", "Election Day Precincts Reporting", "101 of 102", "TOTAL",
+             "Vote For 1", "Member of Assembly District 110", "DEM Phillip G. Steck", "8,415",
+             "REP Frank A. Mauriello", "3,556", "WOR Phillip G. Steck", "901", "Write-In Totals", "17", "TOTAL"]
+    ad110, = ny.parse_schenectady(lines)
+    assert [(c.name, c.votes) for c in ad110.choices] == [("Phillip G. Steck", 9316), ("Frank A. Mauriello", 3556)]
+    assert ad110.reporting.text == "Countywide, 101 of 102 precincts reporting"

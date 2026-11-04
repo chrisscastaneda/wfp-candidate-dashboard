@@ -1,0 +1,3928 @@
+{
+ "source": "ny.onondaga",
+ "contests": [
+  {
+   "source": "ny.onondaga",
+   "contest_id": "270",
+   "state": "NY",
+   "title": "NY State Governor and Lieutenant Governor",
+   "office_type": "lt_governor",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 449,
+    "units_total": 449,
+    "pct": 100.0,
+    "text": "449 of 449 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Kathy Hochul/Adrienne Adams",
+     "votes": 102974,
+     "party": "DEM",
+     "pct": 59.82,
+     "choice_id": "1",
+     "party_lines": {
+      "DEM": 94112,
+      "WFP": 8862
+     }
+    },
+    {
+     "name": "Bruce Blakeman/Todd Hood",
+     "votes": 69152,
+     "party": "REP",
+     "pct": 40.18,
+     "choice_id": "2",
+     "party_lines": {
+      "REP": 58895,
+      "CONS": 8692,
+      "VA": 1565
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "271",
+   "state": "NY",
+   "title": "NY State Comptroller",
+   "office_type": "controller",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 449,
+    "units_total": 449,
+    "pct": 100.0,
+    "text": "449 of 449 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Thomas P. DiNapoli",
+     "votes": 110889,
+     "party": "DEM",
+     "pct": 64.81,
+     "choice_id": "4",
+     "party_lines": {
+      "DEM": 99879,
+      "WFP": 11010
+     }
+    },
+    {
+     "name": "Joseph Hernandez",
+     "votes": 60213,
+     "party": "REP",
+     "pct": 35.19,
+     "choice_id": "5",
+     "party_lines": {
+      "REP": 51471,
+      "CONS": 8742
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "272",
+   "state": "NY",
+   "title": "NY State Attorney General",
+   "office_type": "attorney_general",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 449,
+    "units_total": 449,
+    "pct": 100.0,
+    "text": "449 of 449 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Letitia A. James",
+     "votes": 103483,
+     "party": "DEM",
+     "pct": 60.36,
+     "choice_id": "7",
+     "party_lines": {
+      "DEM": 93852,
+      "WFP": 9631
+     }
+    },
+    {
+     "name": "Saritha Komatireddy",
+     "votes": 67966,
+     "party": "REP",
+     "pct": 39.64,
+     "choice_id": "8",
+     "party_lines": {
+      "REP": 58136,
+      "CONS": 9830
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "269",
+   "state": "NY",
+   "title": "Representative in Congress District 22",
+   "office_type": "federal_house",
+   "district": "22",
+   "jurisdiction": "Onondaga County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 449,
+    "units_total": 449,
+    "pct": 100.0,
+    "text": "449 of 449 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "John W. Mannion",
+     "votes": 108864,
+     "party": "DEM",
+     "pct": 63.16,
+     "choice_id": "10",
+     "party_lines": {
+      "DEM": 98771,
+      "WFP": 10093
+     }
+    },
+    {
+     "name": "Kailee Buller",
+     "votes": 63490,
+     "party": "REP",
+     "pct": 36.84,
+     "choice_id": "11",
+     "party_lines": {
+      "REP": 54531,
+      "CONS": 8959
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "273",
+   "state": "NY",
+   "title": "NY State Senator District 48",
+   "office_type": "state_senate",
+   "district": "48",
+   "jurisdiction": "Onondaga County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 244,
+    "units_total": 244,
+    "pct": 100.0,
+    "text": "244 of 244 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Rachel May",
+     "votes": 48057,
+     "party": "DEM",
+     "pct": 62.56,
+     "choice_id": "13",
+     "party_lines": {
+      "DEM": 43014,
+      "WFP": 5043
+     }
+    },
+    {
+     "name": "Richard McCarron Jr.",
+     "votes": 28759,
+     "party": "REP",
+     "pct": 37.44,
+     "choice_id": "14",
+     "party_lines": {
+      "REP": 24472,
+      "CONS": 4287
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "274",
+   "state": "NY",
+   "title": "NY State Senator District 50",
+   "office_type": "state_senate",
+   "district": "50",
+   "jurisdiction": "Onondaga County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 205,
+    "units_total": 205,
+    "pct": 100.0,
+    "text": "205 of 205 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Christopher J. Ryan",
+     "votes": 57520,
+     "party": "DEM",
+     "pct": 60.64,
+     "choice_id": "16",
+     "party_lines": {
+      "DEM": 52576,
+      "WFP": 4944
+     }
+    },
+    {
+     "name": "James Corl",
+     "votes": 37340,
+     "party": "REP",
+     "pct": 39.36,
+     "choice_id": "17",
+     "party_lines": {
+      "REP": 32248,
+      "CONS": 5092
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "275",
+   "state": "NY",
+   "title": "NY Member of Assembly District 126",
+   "office_type": "state_house",
+   "district": "126",
+   "jurisdiction": "Onondaga County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 82,
+    "units_total": 82,
+    "pct": 100.0,
+    "text": "82 of 82 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Ian Phillips",
+     "votes": 21648,
+     "party": "DEM",
+     "pct": 51.42,
+     "choice_id": "19",
+     "party_lines": {
+      "DEM": 19922,
+      "WFP": 1726
+     }
+    },
+    {
+     "name": "John Lemondes Jr.",
+     "votes": 20454,
+     "party": "REP",
+     "pct": 48.58,
+     "choice_id": "20",
+     "party_lines": {
+      "REP": 17547,
+      "CONS": 2907
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "277",
+   "state": "NY",
+   "title": "NY Member of Assembly District 127",
+   "office_type": "state_house",
+   "district": "127",
+   "jurisdiction": "Onondaga County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 105,
+    "units_total": 105,
+    "pct": 100.0,
+    "text": "105 of 105 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Albert A. Stirpe Jr.",
+     "votes": 32015,
+     "party": "DEM",
+     "pct": 60.3,
+     "choice_id": "22",
+     "party_lines": {
+      "DEM": 29333,
+      "WFP": 2682
+     }
+    },
+    {
+     "name": "Timothy R. Kelly",
+     "votes": 21081,
+     "party": "REP",
+     "pct": 39.7,
+     "choice_id": "23",
+     "party_lines": {
+      "REP": 18225,
+      "CONS": 2856
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "276",
+   "state": "NY",
+   "title": "NY Member of Assembly District 128",
+   "office_type": "state_house",
+   "district": "128",
+   "jurisdiction": "Onondaga County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 141,
+    "units_total": 141,
+    "pct": 100.0,
+    "text": "141 of 141 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Pamela Jo Hunter",
+     "votes": 28755,
+     "party": "DEM",
+     "pct": 68.77,
+     "choice_id": "25",
+     "party_lines": {
+      "DEM": 25939,
+      "WFP": 2816
+     }
+    },
+    {
+     "name": "Patrick J. Becher",
+     "votes": 13061,
+     "party": "REP",
+     "pct": 31.23,
+     "choice_id": "26",
+     "party_lines": {
+      "REP": 11171,
+      "CONS": 1890
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "280",
+   "state": "NY",
+   "title": "NY Member of Assembly District 129",
+   "office_type": "state_house",
+   "district": "129",
+   "jurisdiction": "Onondaga County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 121,
+    "units_total": 121,
+    "pct": 100.0,
+    "text": "121 of 121 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Maurice Mo Brown",
+     "votes": 22075,
+     "party": "DEM",
+     "pct": 65.43,
+     "choice_id": "28",
+     "party_lines": {
+      "DEM": 19324,
+      "WFP": 2751
+     }
+    },
+    {
+     "name": "Shawn M. Fiato",
+     "votes": 11663,
+     "party": "REP",
+     "pct": 34.57,
+     "choice_id": "29",
+     "party_lines": {
+      "REP": 9841,
+      "CONS": 1822
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "278",
+   "state": "NY",
+   "title": "Onondaga County Sheriff",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 449,
+    "units_total": 449,
+    "pct": 100.0,
+    "text": "449 of 449 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Toby Shelley",
+     "votes": 107840,
+     "party": "DEM",
+     "pct": 63.28,
+     "choice_id": "31",
+     "party_lines": {
+      "DEM": 104784,
+      "WTP": 3056
+     }
+    },
+    {
+     "name": "RJ Lenhart",
+     "votes": 62581,
+     "party": "REP",
+     "pct": 36.72,
+     "choice_id": "32",
+     "party_lines": {
+      "REP": 53840,
+      "CONS": 8741
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "282",
+   "state": "NY",
+   "title": "Onondaga County Legislator 1st District",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 21,
+    "units_total": 21,
+    "pct": 100.0,
+    "text": "21 of 21 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Justin K. Neal",
+     "votes": 6365,
+     "party": "DEM",
+     "pct": 50.74,
+     "choice_id": "34",
+     "party_lines": {
+      "DEM": 5865,
+      "WFP": 500
+     }
+    },
+    {
+     "name": "Brian F. May",
+     "votes": 6179,
+     "party": "REP",
+     "pct": 49.26,
+     "choice_id": "35",
+     "party_lines": {
+      "REP": 5321,
+      "CONS": 858
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "283",
+   "state": "NY",
+   "title": "Onondaga County Legislator 2nd District",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 22,
+    "units_total": 22,
+    "pct": 100.0,
+    "text": "22 of 22 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Matt Jones",
+     "votes": 6103,
+     "party": "DEM",
+     "pct": 58.64,
+     "choice_id": "37",
+     "party_lines": {
+      "DEM": 6103
+     }
+    },
+    {
+     "name": "Kevin J. Meaker",
+     "votes": 4305,
+     "party": "REP",
+     "pct": 41.36,
+     "choice_id": "38",
+     "party_lines": {
+      "REP": 3689,
+      "CONS": 616
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "285",
+   "state": "NY",
+   "title": "Onondaga County Legislator 3rd District",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 23,
+    "units_total": 23,
+    "pct": 100.0,
+    "text": "23 of 23 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Graeme Spicer",
+     "votes": 5452,
+     "party": "DEM",
+     "pct": 45.28,
+     "choice_id": "40",
+     "party_lines": {
+      "DEM": 5452
+     }
+    },
+    {
+     "name": "Timothy T. Burtis",
+     "votes": 6589,
+     "party": "REP",
+     "pct": 54.72,
+     "choice_id": "41",
+     "party_lines": {
+      "REP": 5748,
+      "CONS": 841
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "287",
+   "state": "NY",
+   "title": "Onondaga County Legislator 4th District",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 28,
+    "units_total": 28,
+    "pct": 100.0,
+    "text": "28 of 28 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Jeremiah W. Thompson",
+     "votes": 6270,
+     "party": "DEM",
+     "pct": 58.52,
+     "choice_id": "43",
+     "party_lines": {
+      "DEM": 5672,
+      "WFP": 598
+     }
+    },
+    {
+     "name": "Leslie J. English",
+     "votes": 4444,
+     "party": "REP",
+     "pct": 41.48,
+     "choice_id": "44",
+     "party_lines": {
+      "REP": 3832,
+      "CONS": 612
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "290",
+   "state": "NY",
+   "title": "Onondaga County Legislator 5th District",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 25,
+    "units_total": 25,
+    "pct": 100.0,
+    "text": "25 of 25 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Ellen Block",
+     "votes": 5360,
+     "party": "DEM",
+     "pct": 53.97,
+     "choice_id": "46",
+     "party_lines": {
+      "DEM": 4878,
+      "WFP": 482
+     }
+    },
+    {
+     "name": "Daniel A. Ciciarelli",
+     "votes": 4571,
+     "party": "REP",
+     "pct": 46.03,
+     "choice_id": "47",
+     "party_lines": {
+      "REP": 4454,
+      "UJ": 117
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "291",
+   "state": "NY",
+   "title": "Onondaga County Legislator 6th District",
+   "office_type": "local",
+   "district": "6",
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 29,
+    "units_total": 29,
+    "pct": 100.0,
+    "text": "29 of 29 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Gregg Eriksen",
+     "votes": 7468,
+     "party": "DEM",
+     "pct": 52.31,
+     "choice_id": "49",
+     "party_lines": {
+      "DEM": 7000,
+      "WFP": 468
+     }
+    },
+    {
+     "name": "Chad A. Clark",
+     "votes": 6808,
+     "party": "REP",
+     "pct": 47.69,
+     "choice_id": "50",
+     "party_lines": {
+      "REP": 5793,
+      "CONS": 1015
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "292",
+   "state": "NY",
+   "title": "Onondaga County Legislator 7th District",
+   "office_type": "local",
+   "district": "7",
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 31,
+    "units_total": 31,
+    "pct": 100.0,
+    "text": "31 of 31 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Dan Romeo",
+     "votes": 6141,
+     "party": "DEM",
+     "pct": 71.63,
+     "choice_id": "52",
+     "party_lines": {
+      "DEM": 6141
+     }
+    },
+    {
+     "name": "Daniel J. Bailey",
+     "votes": 2432,
+     "party": "REP",
+     "pct": 28.37,
+     "choice_id": "53",
+     "party_lines": {
+      "REP": 2432
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "295",
+   "state": "NY",
+   "title": "Onondaga County Legislator 8th District",
+   "office_type": "local",
+   "district": "8",
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 27,
+    "units_total": 27,
+    "pct": 100.0,
+    "text": "27 of 27 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Chad Ryan",
+     "votes": 5248,
+     "party": "DEM",
+     "pct": 77.53,
+     "choice_id": "55",
+     "party_lines": {
+      "DEM": 4629,
+      "WFP": 619
+     }
+    },
+    {
+     "name": "Brandon Camperlino",
+     "votes": 1521,
+     "party": "REP",
+     "pct": 22.47,
+     "choice_id": "56",
+     "party_lines": {
+      "REP": 1457,
+      "CG": 64
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "297",
+   "state": "NY",
+   "title": "Onondaga County Legislator 9th District",
+   "office_type": "local",
+   "district": "9",
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 24,
+    "units_total": 24,
+    "pct": 100.0,
+    "text": "24 of 24 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Nicole Watts",
+     "votes": 3214,
+     "party": "DEM",
+     "pct": 72.49,
+     "choice_id": "58",
+     "party_lines": {
+      "DEM": 2838,
+      "WFP": 376
+     }
+    },
+    {
+     "name": "Rebecca C.S. Varga",
+     "votes": 1220,
+     "party": "REP",
+     "pct": 27.51,
+     "choice_id": "59",
+     "party_lines": {
+      "REP": 1037,
+      "CONS": 183
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "298",
+   "state": "NY",
+   "title": "Onondaga County Legislator 10th District",
+   "office_type": "local",
+   "district": "10",
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 28,
+    "units_total": 28,
+    "pct": 100.0,
+    "text": "28 of 28 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Elaine Denton",
+     "votes": 7732,
+     "party": "DEM",
+     "pct": 58.7,
+     "choice_id": "61",
+     "party_lines": {
+      "DEM": 7131,
+      "WFP": 601
+     }
+    },
+    {
+     "name": "Edmond J. Theobald",
+     "votes": 5441,
+     "party": "REP",
+     "pct": 41.3,
+     "choice_id": "62",
+     "party_lines": {
+      "REP": 4675,
+      "CONS": 766
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "296",
+   "state": "NY",
+   "title": "Onondaga County Legislator 11th District",
+   "office_type": "local",
+   "district": "11",
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 24,
+    "units_total": 24,
+    "pct": 100.0,
+    "text": "24 of 24 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Jessica Hackett",
+     "votes": 6604,
+     "party": "DEM",
+     "pct": 52.67,
+     "choice_id": "64",
+     "party_lines": {
+      "DEM": 6604
+     }
+    },
+    {
+     "name": "Geneanne Keegan-Smith",
+     "votes": 5934,
+     "party": "REP",
+     "pct": 47.33,
+     "choice_id": "65",
+     "party_lines": {
+      "REP": 5075,
+      "CONS": 859
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "294",
+   "state": "NY",
+   "title": "Onondaga County Legislator 12th District",
+   "office_type": "local",
+   "district": "12",
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 27,
+    "units_total": 27,
+    "pct": 100.0,
+    "text": "27 of 27 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Neil J. Smith",
+     "votes": 6170,
+     "party": "DEM",
+     "pct": 48.34,
+     "choice_id": "67",
+     "party_lines": {
+      "DEM": 6170
+     }
+    },
+    {
+     "name": "David H. Knapp",
+     "votes": 6594,
+     "party": "REP",
+     "pct": 51.66,
+     "choice_id": "68",
+     "party_lines": {
+      "REP": 5644,
+      "CONS": 950
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "293",
+   "state": "NY",
+   "title": "Onondaga County Legislator 13th District",
+   "office_type": "local",
+   "district": "13",
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 25,
+    "units_total": 25,
+    "pct": 100.0,
+    "text": "25 of 25 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Blake Carter",
+     "votes": 5472,
+     "party": "DEM",
+     "pct": 47.14,
+     "choice_id": "70",
+     "party_lines": {
+      "DEM": 4990,
+      "WFP": 482
+     }
+    },
+    {
+     "name": "Kenneth L. Bush Jr.",
+     "votes": 6137,
+     "party": "REP",
+     "pct": 52.86,
+     "choice_id": "71",
+     "party_lines": {
+      "REP": 5205,
+      "CONS": 932
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "289",
+   "state": "NY",
+   "title": "Onondaga County Legislator 14th District",
+   "office_type": "local",
+   "district": "14",
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 20,
+    "units_total": 20,
+    "pct": 100.0,
+    "text": "20 of 20 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Jessica Dapson",
+     "votes": 5768,
+     "party": "DEM",
+     "pct": 50.43,
+     "choice_id": "73",
+     "party_lines": {
+      "DEM": 5342,
+      "WFP": 426
+     }
+    },
+    {
+     "name": "Cody M. Kelly",
+     "votes": 5669,
+     "party": "REP",
+     "pct": 49.57,
+     "choice_id": "74",
+     "party_lines": {
+      "REP": 4960,
+      "CONS": 709
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "288",
+   "state": "NY",
+   "title": "Onondaga County Legislator 15th District",
+   "office_type": "local",
+   "district": "15",
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 30,
+    "units_total": 30,
+    "pct": 100.0,
+    "text": "30 of 30 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Jo Bennett",
+     "votes": 5912,
+     "party": "DEM",
+     "pct": 84.3,
+     "choice_id": "76",
+     "party_lines": {
+      "DEM": 5063,
+      "WFP": 849
+     }
+    },
+    {
+     "name": "Woodruff L. Carroll",
+     "votes": 1101,
+     "party": "REP",
+     "pct": 15.7,
+     "choice_id": "77",
+     "party_lines": {
+      "REP": 902,
+      "CONS": 199
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "286",
+   "state": "NY",
+   "title": "Onondaga County Legislator 16th District",
+   "office_type": "local",
+   "district": "16",
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 37,
+    "units_total": 37,
+    "pct": 100.0,
+    "text": "37 of 37 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Nyatwa Bullock",
+     "votes": 2618,
+     "party": "DEM",
+     "pct": 79.65,
+     "choice_id": "79",
+     "party_lines": {
+      "DEM": 2618
+     }
+    },
+    {
+     "name": "Charlene Tarver",
+     "votes": 669,
+     "party": "WFP",
+     "pct": 20.35,
+     "choice_id": "80",
+     "party_lines": {
+      "WFP": 669
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "284",
+   "state": "NY",
+   "title": "Onondaga County Legislator 17th District",
+   "office_type": "local",
+   "district": "17",
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 28,
+    "units_total": 28,
+    "pct": 100.0,
+    "text": "28 of 28 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Nodesia R. Hernandez",
+     "votes": 6352,
+     "party": "DEM",
+     "pct": 79.28,
+     "choice_id": "82",
+     "party_lines": {
+      "DEM": 5643,
+      "WFP": 709
+     }
+    },
+    {
+     "name": "Laura B. Lavine",
+     "votes": 1660,
+     "party": "REP",
+     "pct": 20.72,
+     "choice_id": "83",
+     "party_lines": {
+      "REP": 1660
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "299",
+   "state": "NY",
+   "title": "Syracuse Councilor-at-Large (To Fill Vacancy)",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 156,
+    "units_total": 156,
+    "pct": 100.0,
+    "text": "156 of 156 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Helen Hudson",
+     "votes": 24172,
+     "party": "DEM",
+     "pct": 80.51,
+     "choice_id": "85",
+     "party_lines": {
+      "DEM": 24172
+     }
+    },
+    {
+     "name": "Raymond J. Dague",
+     "votes": 5852,
+     "party": "REP",
+     "pct": 19.49,
+     "choice_id": "86",
+     "party_lines": {
+      "REP": 5852
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "300",
+   "state": "NY",
+   "title": "Syracuse Commissioner Of Education (To Fill Vacancy)",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 156,
+    "units_total": 156,
+    "pct": 100.0,
+    "text": "156 of 156 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Desire Ndagijimana",
+     "votes": 24941,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "88",
+     "party_lines": {
+      "DEM": 24941
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "301",
+   "state": "NY",
+   "title": "Town Supervisor - Camillus",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 25,
+    "units_total": 25,
+    "pct": 100.0,
+    "text": "25 of 25 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "John A. Fatcheric ll",
+     "votes": 11382,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "90",
+     "party_lines": {
+      "DEM": 6335,
+      "REP": 4259,
+      "CONS": 788
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "302",
+   "state": "NY",
+   "title": "Town Councilor 1st Ward - Camillus Ward 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 3,
+    "pct": 100.0,
+    "text": "3 of 3 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Adam King",
+     "votes": 890,
+     "party": "DEM",
+     "pct": 41.43,
+     "choice_id": "92",
+     "party_lines": {
+      "DEM": 890
+     }
+    },
+    {
+     "name": "Mary H. Luber",
+     "votes": 1258,
+     "party": "REP",
+     "pct": 58.57,
+     "choice_id": "93",
+     "party_lines": {
+      "REP": 1258
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "303",
+   "state": "NY",
+   "title": "Town Councilor 2nd Ward - Camillus Ward 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 3,
+    "pct": 100.0,
+    "text": "3 of 3 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Michael W. LaFlair",
+     "votes": 1298,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "95",
+     "party_lines": {
+      "REP": 1023,
+      "CONS": 275
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "304",
+   "state": "NY",
+   "title": "Town Councilor 3rd Ward - Camillus Ward 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 4,
+    "units_total": 4,
+    "pct": 100.0,
+    "text": "4 of 4 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Fred Covert",
+     "votes": 978,
+     "party": "DEM",
+     "pct": 56.34,
+     "choice_id": "97",
+     "party_lines": {
+      "DEM": 961,
+      "WTP": 17
+     }
+    },
+    {
+     "name": "Thomas J. Hart",
+     "votes": 758,
+     "party": "REP",
+     "pct": 43.66,
+     "choice_id": "98",
+     "party_lines": {
+      "REP": 642,
+      "CONS": 116
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "305",
+   "state": "NY",
+   "title": "Town Councilor 4th Ward - Camillus Ward 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": "5 of 5 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Laura Teufel",
+     "votes": 1156,
+     "party": "DEM",
+     "pct": 57.26,
+     "choice_id": "100",
+     "party_lines": {
+      "DEM": 1156
+     }
+    },
+    {
+     "name": "Kimberly A. Sacco",
+     "votes": 863,
+     "party": "REP",
+     "pct": 42.74,
+     "choice_id": "101",
+     "party_lines": {
+      "REP": 863
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "306",
+   "state": "NY",
+   "title": "Town Councilor 5th Ward - Camillus Ward 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": "5 of 5 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Christopher S. Cesta",
+     "votes": 1420,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "103",
+     "party_lines": {
+      "REP": 1111,
+      "CONS": 309
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "307",
+   "state": "NY",
+   "title": "Town Councilor 6th Ward - Camillus Ward 6",
+   "office_type": "local",
+   "district": "6",
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": "5 of 5 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "John O'Hara",
+     "votes": 1188,
+     "party": "DEM",
+     "pct": 58.41,
+     "choice_id": "105",
+     "party_lines": {
+      "DEM": 1173,
+      "WTP": 15
+     }
+    },
+    {
+     "name": "Douglas M. Shannon",
+     "votes": 846,
+     "party": "REP",
+     "pct": 41.59,
+     "choice_id": "106",
+     "party_lines": {
+      "REP": 708,
+      "CONS": 138
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "309",
+   "state": "NY",
+   "title": "Town Highway Superintendent - Camillus",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 25,
+    "units_total": 25,
+    "pct": 100.0,
+    "text": "25 of 25 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Ken Stoneburg",
+     "votes": 6117,
+     "party": "DEM",
+     "pct": 51.61,
+     "choice_id": "108",
+     "party_lines": {
+      "DEM": 6117
+     }
+    },
+    {
+     "name": "James F. Kelly",
+     "votes": 5736,
+     "party": "REP",
+     "pct": 48.39,
+     "choice_id": "109",
+     "party_lines": {
+      "REP": 4915,
+      "CONS": 821
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "308",
+   "state": "NY",
+   "title": "Town Supervisor - Cicero",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 26,
+    "units_total": 26,
+    "pct": 100.0,
+    "text": "26 of 26 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Rob Santucci",
+     "votes": 6476,
+     "party": "DEM",
+     "pct": 48.75,
+     "choice_id": "111",
+     "party_lines": {
+      "DEM": 6008,
+      "WFP": 468
+     }
+    },
+    {
+     "name": "Michael A. Aregano",
+     "votes": 6809,
+     "party": "REP",
+     "pct": 51.25,
+     "choice_id": "112",
+     "party_lines": {
+      "REP": 5922,
+      "CONS": 887,
+      "CIF": 0
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "310",
+   "state": "NY",
+   "title": "Town Clerk - Cicero",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 26,
+    "units_total": 26,
+    "pct": 100.0,
+    "text": "26 of 26 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Tracy M. Cosilmon",
+     "votes": 10102,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "114",
+     "party_lines": {
+      "REP": 8085,
+      "CONS": 2017,
+      "CIF": 0
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "314",
+   "state": "NY",
+   "title": "Town Highway Superintendent - Cicero",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 26,
+    "units_total": 26,
+    "pct": 100.0,
+    "text": "26 of 26 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Christopher J. Woznica",
+     "votes": 9905,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "116",
+     "party_lines": {
+      "REP": 9273,
+      "CIF": 632
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "315",
+   "state": "NY",
+   "title": "Town Receiver of Taxes - Cicero (To Fill Vacancy)",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 26,
+    "units_total": 26,
+    "pct": 100.0,
+    "text": "26 of 26 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Torrie L. Gavin",
+     "votes": 9827,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "118",
+     "party_lines": {
+      "REP": 9128,
+      "CIF": 699
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "311",
+   "state": "NY",
+   "title": "Town Supervisor - Clay",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 46,
+    "units_total": 46,
+    "pct": 100.0,
+    "text": "46 of 46 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Dave Capria",
+     "votes": 13068,
+     "party": "DEM",
+     "pct": 56.04,
+     "choice_id": "120",
+     "party_lines": {
+      "DEM": 13068
+     }
+    },
+    {
+     "name": "Joseph A. Bick",
+     "votes": 10253,
+     "party": "REP",
+     "pct": 43.96,
+     "choice_id": "121",
+     "party_lines": {
+      "REP": 10052,
+      "CSC": 201
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "313",
+   "state": "NY",
+   "title": "Town Clerk - Clay",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 46,
+    "units_total": 46,
+    "pct": 100.0,
+    "text": "46 of 46 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Justin P. Bailey",
+     "votes": 12191,
+     "party": "DEM",
+     "pct": 51.91,
+     "choice_id": "123",
+     "party_lines": {
+      "DEM": 12191
+     }
+    },
+    {
+     "name": "Jill E. Hageman-Clark",
+     "votes": 11292,
+     "party": "REP",
+     "pct": 48.09,
+     "choice_id": "124",
+     "party_lines": {
+      "REP": 9840,
+      "CONS": 1452,
+      "CSC": 0
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "318",
+   "state": "NY",
+   "title": "Town Supervisor - DeWitt",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 25,
+    "units_total": 25,
+    "pct": 100.0,
+    "text": "25 of 25 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Max Ruckdeschel",
+     "votes": 6691,
+     "party": "DEM",
+     "pct": 72.89,
+     "choice_id": "126",
+     "party_lines": {
+      "DEM": 6691
+     }
+    },
+    {
+     "name": "Richard G. Kunz",
+     "votes": 2489,
+     "party": "CONS",
+     "pct": 27.11,
+     "choice_id": "127",
+     "party_lines": {
+      "CONS": 2489
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "320",
+   "state": "NY",
+   "title": "Town Supervisor - Fabius",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": "2 of 2 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Michael L. Vilardi",
+     "votes": 749,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "129",
+     "party_lines": {
+      "REP": 613,
+      "CONS": 136
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "321",
+   "state": "NY",
+   "title": "Town Clerk - Fabius",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": "2 of 2 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Margaret M. Riker",
+     "votes": 761,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "131",
+     "party_lines": {
+      "REP": 622,
+      "CONS": 139
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "322",
+   "state": "NY",
+   "title": "Town Highway Superintendent - Fabius",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": "2 of 2 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Dennis C. Bobbette",
+     "votes": 755,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "133",
+     "party_lines": {
+      "REP": 610,
+      "CONS": 145
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "317",
+   "state": "NY",
+   "title": "Town Highway Superintendent - Geddes (To Fill Vacancy)",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 20,
+    "units_total": 20,
+    "pct": 100.0,
+    "text": "20 of 20 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Robert Krupa",
+     "votes": 5365,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "135",
+     "party_lines": {
+      "DEM": 5365
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "324",
+   "state": "NY",
+   "title": "Town Supervisor - LaFayette",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": "5 of 5 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "William D. McConnell",
+     "votes": 1751,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "137",
+     "party_lines": {
+      "REP": 1426,
+      "CONS": 325
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "328",
+   "state": "NY",
+   "title": "Town Councilor (To Fill Vacancy) - LaFayette",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": "5 of 5 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Michele Pirro Bailey",
+     "votes": 1770,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "139",
+     "party_lines": {
+      "REP": 1443,
+      "CONS": 327
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "326",
+   "state": "NY",
+   "title": "Town Tax Collector - LaFayette",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": "5 of 5 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Katherine R. Rienhardt",
+     "votes": 1809,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "141",
+     "party_lines": {
+      "REP": 1476,
+      "CONS": 333
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "319",
+   "state": "NY",
+   "title": "Town Councilor (To Fill Vacancy) - Lysander",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 18,
+    "units_total": 18,
+    "pct": 100.0,
+    "text": "18 of 18 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Timothy R. Osier",
+     "votes": 5530,
+     "party": "DEM",
+     "pct": 52.09,
+     "choice_id": "143",
+     "party_lines": {
+      "DEM": 5530
+     }
+    },
+    {
+     "name": "Tony McIntyre",
+     "votes": 5086,
+     "party": "REP",
+     "pct": 47.91,
+     "choice_id": "144",
+     "party_lines": {
+      "REP": 5086
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "331",
+   "state": "NY",
+   "title": "Town Supervisor - Manlius",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 33,
+    "units_total": 33,
+    "pct": 100.0,
+    "text": "33 of 33 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Sara Bollinger",
+     "votes": 10186,
+     "party": "DEM",
+     "pct": 64.87,
+     "choice_id": "146",
+     "party_lines": {
+      "DEM": 9371,
+      "WFP": 815
+     }
+    },
+    {
+     "name": "Lawrence S. Koch",
+     "votes": 5517,
+     "party": "REP",
+     "pct": 35.13,
+     "choice_id": "147",
+     "party_lines": {
+      "REP": 5517
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "334",
+   "state": "NY",
+   "title": "Town Councilor (To Fill Vacancy) - Manlius",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 33,
+    "units_total": 33,
+    "pct": 100.0,
+    "text": "33 of 33 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Brett Edkins",
+     "votes": 9426,
+     "party": "DEM",
+     "pct": 60.21,
+     "choice_id": "149",
+     "party_lines": {
+      "DEM": 9426
+     }
+    },
+    {
+     "name": "Maria Mahar",
+     "votes": 6229,
+     "party": "REP",
+     "pct": 39.79,
+     "choice_id": "150",
+     "party_lines": {
+      "REP": 5385,
+      "CONS": 844
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "323",
+   "state": "NY",
+   "title": "Town Supervisor - Marcellus",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 6,
+    "units_total": 6,
+    "pct": 100.0,
+    "text": "6 of 6 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Jane Carmody Attley",
+     "votes": 1405,
+     "party": "DEM",
+     "pct": 44.36,
+     "choice_id": "152",
+     "party_lines": {
+      "DEM": 1405
+     }
+    },
+    {
+     "name": "Terrence D. Hoey",
+     "votes": 1762,
+     "party": "REP",
+     "pct": 55.64,
+     "choice_id": "153",
+     "party_lines": {
+      "REP": 1463,
+      "CONS": 299
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "325",
+   "state": "NY",
+   "title": "Town Councilor (To Fill Vacancy) - Marcellus",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 6,
+    "units_total": 6,
+    "pct": 100.0,
+    "text": "6 of 6 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Marlene Spencer",
+     "votes": 1608,
+     "party": "DEM",
+     "pct": 51.21,
+     "choice_id": "155",
+     "party_lines": {
+      "DEM": 1608
+     }
+    },
+    {
+     "name": "Denis Donovan IV",
+     "votes": 1532,
+     "party": "REP",
+     "pct": 48.79,
+     "choice_id": "156",
+     "party_lines": {
+      "REP": 1269,
+      "CONS": 263
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "349",
+   "state": "NY",
+   "title": "Town Supervisor - Onondaga",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 20,
+    "units_total": 20,
+    "pct": 100.0,
+    "text": "20 of 20 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Khalid Bey",
+     "votes": 4494,
+     "party": "DEM",
+     "pct": 44.3,
+     "choice_id": "158",
+     "party_lines": {
+      "DEM": 4494
+     }
+    },
+    {
+     "name": "John P. Mahar",
+     "votes": 5650,
+     "party": "REP",
+     "pct": 55.7,
+     "choice_id": "159",
+     "party_lines": {
+      "REP": 4818,
+      "CONS": 832
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "327",
+   "state": "NY",
+   "title": "Town Supervisor - Otisco",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": "2 of 2 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Glenn Hall",
+     "votes": 912,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "161",
+     "party_lines": {
+      "REP": 727,
+      "CONS": 185
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "337",
+   "state": "NY",
+   "title": "Town Supervisor - Pompey",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 6,
+    "units_total": 6,
+    "pct": 100.0,
+    "text": "6 of 6 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Diana Carpenter",
+     "votes": 1748,
+     "party": "DEM",
+     "pct": 50.87,
+     "choice_id": "163",
+     "party_lines": {
+      "DEM": 1748
+     }
+    },
+    {
+     "name": "David F. Angello",
+     "votes": 1688,
+     "party": "REP",
+     "pct": 49.13,
+     "choice_id": "164",
+     "party_lines": {
+      "REP": 1656,
+      "VA": 32
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "341",
+   "state": "NY",
+   "title": "Town Clerk (To Fill Vacancy) - Pompey",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 6,
+    "units_total": 6,
+    "pct": 100.0,
+    "text": "6 of 6 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Karen Dennis",
+     "votes": 1929,
+     "party": "DEM",
+     "pct": 55.8,
+     "choice_id": "166",
+     "party_lines": {
+      "DEM": 1703,
+      "CONS": 226
+     }
+    },
+    {
+     "name": "Alma M. Hartnett",
+     "votes": 1528,
+     "party": "REP",
+     "pct": 44.2,
+     "choice_id": "167",
+     "party_lines": {
+      "REP": 1528
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "344",
+   "state": "NY",
+   "title": "Town Councilor (To Fill Vacancy) - Pompey",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 6,
+    "units_total": 6,
+    "pct": 100.0,
+    "text": "6 of 6 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Brian Nicholas",
+     "votes": 1753,
+     "party": "DEM",
+     "pct": 50.74,
+     "choice_id": "169",
+     "party_lines": {
+      "DEM": 1753
+     }
+    },
+    {
+     "name": "Nicholas D. Skeval",
+     "votes": 1702,
+     "party": "REP",
+     "pct": 49.26,
+     "choice_id": "170",
+     "party_lines": {
+      "REP": 1492,
+      "CONS": 210,
+      "VA": 0
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "329",
+   "state": "NY",
+   "title": "Town Supervisor - Salina",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 30,
+    "units_total": 30,
+    "pct": 100.0,
+    "text": "30 of 30 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Leesa Paul",
+     "votes": 6874,
+     "party": "DEM",
+     "pct": 56.83,
+     "choice_id": "172",
+     "party_lines": {
+      "DEM": 6874
+     }
+    },
+    {
+     "name": "David M. Stott",
+     "votes": 5222,
+     "party": "REP",
+     "pct": 43.17,
+     "choice_id": "173",
+     "party_lines": {
+      "REP": 4554,
+      "CONS": 668
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "330",
+   "state": "NY",
+   "title": "Town Councilor 1st Ward - Salina Ward 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 7,
+    "units_total": 7,
+    "pct": 100.0,
+    "text": "7 of 7 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Heidi McElwee",
+     "votes": 2219,
+     "party": "DEM",
+     "pct": 60.38,
+     "choice_id": "175",
+     "party_lines": {
+      "DEM": 2038,
+      "WFP": 181
+     }
+    },
+    {
+     "name": "Christina M. Fadden",
+     "votes": 1456,
+     "party": "REP",
+     "pct": 39.62,
+     "choice_id": "176",
+     "party_lines": {
+      "REP": 1259,
+      "CONS": 197
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "332",
+   "state": "NY",
+   "title": "Town Councilor 2nd Ward - Salina Ward 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 8,
+    "units_total": 8,
+    "pct": 100.0,
+    "text": "8 of 8 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Sydney Szczesniak",
+     "votes": 1777,
+     "party": "DEM",
+     "pct": 57.01,
+     "choice_id": "178",
+     "party_lines": {
+      "DEM": 1628,
+      "WFP": 149
+     }
+    },
+    {
+     "name": "David J. Butler Sr.",
+     "votes": 1340,
+     "party": "REP",
+     "pct": 42.99,
+     "choice_id": "179",
+     "party_lines": {
+      "REP": 1182,
+      "CONS": 158
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "333",
+   "state": "NY",
+   "title": "Town Councilor 3rd Ward - Salina Ward 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 7,
+    "units_total": 7,
+    "pct": 100.0,
+    "text": "7 of 7 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Page Steinhardt",
+     "votes": 1441,
+     "party": "DEM",
+     "pct": 55.49,
+     "choice_id": "181",
+     "party_lines": {
+      "DEM": 1293,
+      "WFP": 148
+     }
+    },
+    {
+     "name": "Dana Lewis Vinch",
+     "votes": 1156,
+     "party": "REP",
+     "pct": 44.51,
+     "choice_id": "182",
+     "party_lines": {
+      "REP": 1007,
+      "CONS": 149
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "335",
+   "state": "NY",
+   "title": "Town Councilor 4th Ward - Salina Ward 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 8,
+    "units_total": 8,
+    "pct": 100.0,
+    "text": "8 of 8 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Zettie A. Young",
+     "votes": 1644,
+     "party": "DEM",
+     "pct": 62.23,
+     "choice_id": "184",
+     "party_lines": {
+      "DEM": 1644
+     }
+    },
+    {
+     "name": "Brian J. DeCarlo",
+     "votes": 998,
+     "party": "REP",
+     "pct": 37.77,
+     "choice_id": "185",
+     "party_lines": {
+      "REP": 998
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "346",
+   "state": "NY",
+   "title": "Town Supervisor - Skaneateles",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 8,
+    "units_total": 8,
+    "pct": 100.0,
+    "text": "8 of 8 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Chris Legg",
+     "votes": 2216,
+     "party": "DEM",
+     "pct": 58.62,
+     "choice_id": "187",
+     "party_lines": {
+      "DEM": 2159,
+      "WTP": 57
+     }
+    },
+    {
+     "name": "Laurie N. Coffey",
+     "votes": 1564,
+     "party": "REP",
+     "pct": 41.38,
+     "choice_id": "188",
+     "party_lines": {
+      "REP": 1545,
+      "CG": 19
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "339",
+   "state": "NY",
+   "title": "Town Supervisor - Spafford",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": "2 of 2 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Laura J. Moran",
+     "votes": 514,
+     "party": "DEM",
+     "pct": 59.15,
+     "choice_id": "190",
+     "party_lines": {
+      "DEM": 502,
+      "WTP": 12
+     }
+    },
+    {
+     "name": "Christopher Kozub",
+     "votes": 355,
+     "party": "REP",
+     "pct": 40.85,
+     "choice_id": "191",
+     "party_lines": {
+      "REP": 305,
+      "CONS": 50
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "340",
+   "state": "NY",
+   "title": "Town Clerk (To Fill Vacancy) - Spafford",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": "2 of 2 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Kayla Ramsden",
+     "votes": 844,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "193",
+     "party_lines": {
+      "DEM": 435,
+      "REP": 349,
+      "CONS": 60
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "342",
+   "state": "NY",
+   "title": "Town Highway Superintendent - Spafford",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": "2 of 2 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Jody D. Fisher",
+     "votes": 672,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "195",
+     "party_lines": {
+      "DEM": 672
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "343",
+   "state": "NY",
+   "title": "Town Tax Collector - Spafford",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": "2 of 2 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Alison Barron",
+     "votes": 674,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "197",
+     "party_lines": {
+      "REP": 541,
+      "CONS": 133
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "348",
+   "state": "NY",
+   "title": "Town Supervisor - Van Buren",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 11,
+    "units_total": 11,
+    "pct": 100.0,
+    "text": "11 of 11 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Claude E. Sykes",
+     "votes": 3967,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "199",
+     "party_lines": {
+      "REP": 3565,
+      "FVB": 402
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "345",
+   "state": "NY",
+   "title": "Village Mayor - Village of Baldwinsville",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": "5 of 5 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Jim Dale",
+     "votes": 1723,
+     "party": "DEM",
+     "pct": 61.34,
+     "choice_id": "201",
+     "party_lines": {
+      "DEM": 1578,
+      "BBP": 145
+     }
+    },
+    {
+     "name": "Bruce Stebbins",
+     "votes": 1086,
+     "party": "VP",
+     "pct": 38.66,
+     "choice_id": "202",
+     "party_lines": {
+      "VP": 1086
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "347",
+   "state": "NY",
+   "title": "Village Trustee - Village of Baldswinville",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": "5 of 5 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Paul Dreher-Wiberg",
+     "votes": 1629,
+     "party": "DEM",
+     "pct": 20.36,
+     "choice_id": "204",
+     "party_lines": {
+      "DEM": 1489,
+      "BBP": 140
+     }
+    },
+    {
+     "name": "Nathan Collins",
+     "votes": 2550,
+     "party": "DEM",
+     "pct": 31.87,
+     "choice_id": "205",
+     "party_lines": {
+      "DEM": 1606,
+      "VP": 944
+     }
+    },
+    {
+     "name": "Edward Connell",
+     "votes": 1712,
+     "party": "DEM",
+     "pct": 21.4,
+     "choice_id": "206",
+     "party_lines": {
+      "DEM": 1525,
+      "BBP": 187
+     }
+    },
+    {
+     "name": "Kevin Baker",
+     "votes": 1138,
+     "party": "VP",
+     "pct": 14.22,
+     "choice_id": "207",
+     "party_lines": {
+      "VP": 1138
+     }
+    },
+    {
+     "name": "Ruth Cico",
+     "votes": 972,
+     "party": "VP",
+     "pct": 12.15,
+     "choice_id": "208",
+     "party_lines": {
+      "VP": 972
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "350",
+   "state": "NY",
+   "title": "Village Trustee - Village of East Syracuse (To Fill Vacancy)",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": "2 of 2 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Robert Tackman",
+     "votes": 439,
+     "party": "CONS",
+     "pct": 100.0,
+     "choice_id": "210",
+     "party_lines": {
+      "CONS": 439
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "351",
+   "state": "NY",
+   "title": "Village Trustee - Village of Elbridge",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": "1 of 1 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Lindsay Striffler",
+     "votes": 166,
+     "party": "CIP",
+     "pct": 50.46,
+     "choice_id": "212",
+     "party_lines": {
+      "CIP": 166
+     }
+    },
+    {
+     "name": "Stephanie A. Harris",
+     "votes": 163,
+     "party": "CIP",
+     "pct": 49.54,
+     "choice_id": "213",
+     "party_lines": {
+      "CIP": 163
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "352",
+   "state": "NY",
+   "title": "Village Trustee - Village of Fayetteville",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": "5 of 5 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Mark Matt",
+     "votes": 1646,
+     "party": "DEM",
+     "pct": 50.21,
+     "choice_id": "215",
+     "party_lines": {
+      "DEM": 1646
+     }
+    },
+    {
+     "name": "Jane Rice",
+     "votes": 1632,
+     "party": "DEM",
+     "pct": 49.79,
+     "choice_id": "216",
+     "party_lines": {
+      "DEM": 1632
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "353",
+   "state": "NY",
+   "title": "Village Trustee - Village of Liverpool",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": "2 of 2 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Amy Lago",
+     "votes": 797,
+     "party": "DEM",
+     "pct": 39.11,
+     "choice_id": "218",
+     "party_lines": {
+      "DEM": 778,
+      "WTP": 19
+     }
+    },
+    {
+     "name": "Cynthia Lee Hibbert",
+     "votes": 817,
+     "party": "DEM",
+     "pct": 40.09,
+     "choice_id": "219",
+     "party_lines": {
+      "DEM": 792,
+      "WTP": 25
+     }
+    },
+    {
+     "name": "Dominick R. Pirro",
+     "votes": 424,
+     "party": "REP",
+     "pct": 20.8,
+     "choice_id": "220",
+     "party_lines": {
+      "REP": 424
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "354",
+   "state": "NY",
+   "title": "Village Trustee - Village of Tully",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": "1 of 1 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Kaula E. Pisano",
+     "votes": 151,
+     "party": "NHN",
+     "pct": 48.71,
+     "choice_id": "222",
+     "party_lines": {
+      "NHN": 151
+     }
+    },
+    {
+     "name": "Lucas T. Zimmerman",
+     "votes": 159,
+     "party": "NHN",
+     "pct": 51.29,
+     "choice_id": "223",
+     "party_lines": {
+      "NHN": 159
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "281",
+   "state": "NY",
+   "title": "NYS Supreme Court Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 449,
+    "units_total": 449,
+    "pct": 100.0,
+    "text": "449 of 449 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Joseph Zavaglia",
+     "votes": 99801,
+     "party": "DEM",
+     "pct": 58.61,
+     "choice_id": "225",
+     "party_lines": {
+      "DEM": 91025,
+      "WFP": 8776
+     }
+    },
+    {
+     "name": "Michael J. Manfredi",
+     "votes": 70492,
+     "party": "REP",
+     "pct": 41.39,
+     "choice_id": "226",
+     "party_lines": {
+      "REP": 60511,
+      "CONS": 9981
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "279",
+   "state": "NY",
+   "title": "Onondaga County Court Judge",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 449,
+    "units_total": 449,
+    "pct": 100.0,
+    "text": "449 of 449 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Jeffrey G. Leibo",
+     "votes": 93228,
+     "party": "DEM",
+     "pct": 54.82,
+     "choice_id": "228",
+     "party_lines": {
+      "DEM": 85044,
+      "WFP": 8184
+     }
+    },
+    {
+     "name": "Matthew J. Doran",
+     "votes": 76835,
+     "party": "REP",
+     "pct": 45.18,
+     "choice_id": "229",
+     "party_lines": {
+      "REP": 65834,
+      "CONS": 11001
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "312",
+   "state": "NY",
+   "title": "Town Justice - Cicero",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 26,
+    "units_total": 26,
+    "pct": 100.0,
+    "text": "26 of 26 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Nate Riley",
+     "votes": 6269,
+     "party": "DEM",
+     "pct": 47.4,
+     "choice_id": "231",
+     "party_lines": {
+      "DEM": 6269
+     }
+    },
+    {
+     "name": "Douglas M. DeMarche Jr.",
+     "votes": 6957,
+     "party": "REP",
+     "pct": 52.6,
+     "choice_id": "232",
+     "party_lines": {
+      "REP": 6062,
+      "CONS": 895,
+      "CIF": 0
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "316",
+   "state": "NY",
+   "title": "Town Justice - Elbridge",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": "5 of 5 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "George L. Betts",
+     "votes": 1828,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "234",
+     "party_lines": {
+      "REP": 1451,
+      "CONS": 377
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "338",
+   "state": "NY",
+   "title": "Town Justice - Pompey",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 6,
+    "units_total": 6,
+    "pct": 100.0,
+    "text": "6 of 6 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Trent Amond",
+     "votes": 3272,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "236",
+     "party_lines": {
+      "DEM": 1687,
+      "REP": 1585
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "336",
+   "state": "NY",
+   "title": "Town Justice - Salina",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 30,
+    "units_total": 30,
+    "pct": 100.0,
+    "text": "30 of 30 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Patrick Shanahan",
+     "votes": 7243,
+     "party": "DEM",
+     "pct": 60.05,
+     "choice_id": "238",
+     "party_lines": {
+      "DEM": 7243
+     }
+    },
+    {
+     "name": "Stuart James LaRose",
+     "votes": 4818,
+     "party": "REP",
+     "pct": 39.95,
+     "choice_id": "239",
+     "party_lines": {
+      "REP": 4189,
+      "CONS": 629
+     }
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "358",
+   "state": "NY",
+   "title": "Onondaga County Proposition 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 449,
+    "units_total": 449,
+    "pct": 100.0,
+    "text": "449 of 449 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 136733,
+     "party": null,
+     "pct": 85.68,
+     "choice_id": "241",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 22844,
+     "party": null,
+     "pct": 14.32,
+     "choice_id": "242",
+     "party_lines": null
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "359",
+   "state": "NY",
+   "title": "Onondaga Proposition 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 449,
+    "units_total": 449,
+    "pct": 100.0,
+    "text": "449 of 449 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 75917,
+     "party": null,
+     "pct": 52.46,
+     "choice_id": "243",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 68789,
+     "party": null,
+     "pct": 47.54,
+     "choice_id": "244",
+     "party_lines": null
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "355",
+   "state": "NY",
+   "title": "Dewitt Town Proposition",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 25,
+    "units_total": 25,
+    "pct": 100.0,
+    "text": "25 of 25 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 7333,
+     "party": null,
+     "pct": 78.38,
+     "choice_id": "245",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 2023,
+     "party": null,
+     "pct": 21.62,
+     "choice_id": "246",
+     "party_lines": null
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "356",
+   "state": "NY",
+   "title": "Fabius Town Referendum",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": "2 of 2 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 541,
+     "party": null,
+     "pct": 59.58,
+     "choice_id": "247",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 367,
+     "party": null,
+     "pct": 40.42,
+     "choice_id": "248",
+     "party_lines": null
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  },
+  {
+   "source": "ny.onondaga",
+   "contest_id": "357",
+   "state": "NY",
+   "title": "LaFayette Town Proposition 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Onondaga County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": "5 of 5 districts reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T06:28:43.2419734Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1113,
+     "party": null,
+     "pct": 49.2,
+     "choice_id": "249",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 1149,
+     "party": null,
+     "pct": 50.8,
+     "choice_id": "250",
+     "party_lines": null
+    }
+   ],
+   "url": "https://ongov.resultscaster.com/r/GE26",
+   "uncontested": false
+  }
+ ],
+ "contests_hash": "4cd9d95223da0158",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-04T15:44:53+00:00",
+ "fetched_at": "2026-11-04T15:44:53+00:00",
+ "contests_changed_at": "2026-11-04T15:35:16+00:00"
+}
