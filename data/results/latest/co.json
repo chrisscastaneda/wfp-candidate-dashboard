@@ -21356,9 +21356,9 @@
   }
  ],
  "contests_hash": "b917386b5dffbd10",
- "status": "ok",
- "message": "",
- "last_attempt_at": "2026-11-04T02:15:19+00:00",
+ "status": "error",
+ "message": "https://results.enr.clarityelections.com/CO/127407/current_ver.txt: HTTP 502",
+ "last_attempt_at": "2026-11-04T02:23:37+00:00",
  "fetched_at": "2026-11-04T02:15:19+00:00",
  "contests_changed_at": "2026-11-04T02:15:19+00:00"
 }
