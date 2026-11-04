@@ -57,6 +57,22 @@ def test_enhanced_voting_utah_reads_localities_without_duplicates():
     assert all(not ch.name.startswith("DEM ") for c in contests for ch in c.choices)
 
 
+def test_enhanced_voting_reporting_counts_localities_not_percent():
+    def contest(units, total, precincts=()):
+        payload = {"precincts": list(precincts), "ballotItems": [{
+            "id": "1", "name": "State House District 58", "reportingStatus": {"reportingUnits": units,
+                                                                            "totalUnits": total}}]}
+        return enhanced_voting.parse(payload, source_id="ga", state="GA", jurisdiction="Georgia")[0].reporting
+
+    # A state file counts counties: one early-vote batch isn't "100% reporting".
+    single = contest(1, 1)
+    assert single.pct is None and single.text == "1 of 1 county posted results"
+    assert contest(13, 159).text == "13 of 159 counties posted results"
+    # A county file counts precincts, which stay a percentage.
+    precincts = contest(10, 40, precincts=[{}])
+    assert precincts.pct == 25.0 and precincts.text is None
+
+
 def test_enhanced_voting_rhode_island_strips_party_suffix():
     routes = {"jurisdictions/rhodeisland": "ri/jurisdiction.json", "elections/rhodeisland/": "ri/data.json"}
     contests = _by_title(EV["ri"].pull(FakeFetch(routes)))

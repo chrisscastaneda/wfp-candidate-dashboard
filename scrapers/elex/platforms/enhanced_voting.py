@@ -29,8 +29,21 @@ def _vote_for(item) -> int:
     return int(m.group()) if m else 1
 
 
-def parse(payload: dict, *, source_id: str, state: str, jurisdiction: str, skip_titles=frozenset()) -> list[Contest]:
+def _reporting(status: dict, by_precinct: bool, units: tuple[str, str]) -> Reporting:
+    """State files count localities (counties, or RI's cities and towns), and one counts as soon as it posts its
+    first batch, so a single-county district reads "100%" on early votes alone. Those get a count instead of a
+    percentage. Locality files count precincts, which are fine as a percentage."""
+    done, total = status.get("reportingUnits"), status.get("totalUnits")
+    if by_precinct or not total:
+        return Reporting(done, total)
+    noun = units[0] if total == 1 else units[1]
+    return Reporting(done, total, text=f"{done or 0} of {total} {noun} posted results", as_percent=False)
+
+
+def parse(payload: dict, *, source_id: str, state: str, jurisdiction: str, skip_titles=frozenset(),
+          units=("county", "counties")) -> list[Contest]:
     election = payload.get("election") or {}
+    by_precinct = bool(payload.get("precincts"))
     contests = []
     for item in payload.get("ballotItems") or []:
         title = _text(item.get("name")).strip()
@@ -58,7 +71,7 @@ def parse(payload: dict, *, source_id: str, state: str, jurisdiction: str, skip_
             district=names.measure_id(title) or names.fold(title) if is_measure else names.district(title),
             jurisdiction=item.get("parentJurisdictionName") or jurisdiction, vote_for=_vote_for(item),
             final=bool(election.get("isOfficialResults")),
-            reporting=Reporting(status.get("reportingUnits"), status.get("totalUnits")),
+            reporting=_reporting(status, by_precinct, units),
             feed_updated_at=status.get("asOf") or election.get("lastUpdated"), choices=choices)
         contest.fill_percentages()
         contests.append(contest)
@@ -68,8 +81,9 @@ def parse(payload: dict, *, source_id: str, state: str, jurisdiction: str, skip_
 class EnhancedVotingSource(Source):
     platform = "Enhanced Voting"
 
-    def __init__(self, id, state, title, base, jurisdiction, localities=(), tiers=(1, 2, 3, 4)):
-        self.id, self.state, self.title = id, state, title
+    def __init__(self, id, state, title, base, jurisdiction, localities=(), tiers=(1, 2, 3, 4),
+                 units=("county", "counties")):
+        self.id, self.state, self.title, self.units = id, state, title, units
         self.base, self.jurisdiction, self.localities = base.rstrip("/"), jurisdiction, list(localities)
         self.tiers = frozenset(tiers)
 
@@ -84,7 +98,8 @@ class EnhancedVotingSource(Source):
             raise NotPublished(f"no {wanted} election listed for {self.jurisdiction}")
         election_id = election["publicElectionId"]
         data = fetch.get(self._api(f"elections/{self.jurisdiction}/{election_id}/data"))
-        contests = parse(data, source_id=self.id, state=self.state, jurisdiction=_text(info.get("name")))
+        contests = parse(data, source_id=self.id, state=self.state, jurisdiction=_text(info.get("name")),
+                         units=self.units)
         seen = frozenset(names.fold(c.title) for c in contests)
         by_name = {names.fold(_text(c.get("name"))): c.get("shortName") for c in info.get("childLocalities") or []}
         for locality in self.localities:
@@ -92,5 +107,6 @@ class EnhancedVotingSource(Source):
             if not short:
                 continue  # not listed (yet, or misspelled here); its races show as unmatched in matches.csv
             local = fetch.get(self._api(f"elections/{short}/{election_id}/data"))
-            contests += parse(local, source_id=self.id, state=self.state, jurisdiction=locality, skip_titles=seen)
+            contests += parse(local, source_id=self.id, state=self.state, jurisdiction=locality, skip_titles=seen,
+                              units=self.units)
         return contests

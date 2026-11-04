@@ -17,5 +17,5 @@ SOURCES = [
                          localities=["King County", "Spokane County"]),
     # Rhode Island's state file already includes city and town races (Providence, East Providence).
     EnhancedVotingSource("ri", "RI", "Rhode Island Board of Elections results", "https://electionresults.ri.gov",
-                         "rhodeisland", tiers=(2, 4)),
+                         "rhodeisland", tiers=(2, 4), units=("city or town", "cities and towns")),
 ]

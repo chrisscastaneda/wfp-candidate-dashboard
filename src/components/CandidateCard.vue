@@ -103,6 +103,8 @@ const percent = (pct: number | null | undefined) => (pct == null ? '–' : `${pc
       <span v-if="result.reporting?.pct != null" class="text-neutral-500">
         · {{ percent(result.reporting.pct) }} reporting
       </span>
+      <!-- Some feeds only say how many counties have posted, which isn't a share of the vote counted. -->
+      <span v-else-if="result.reporting?.text" class="text-neutral-500">· {{ result.reporting.text }}</span>
       <span class="ml-auto text-neutral-500" aria-hidden="true">{{ expanded ? '▴' : '▾' }}</span>
       <span class="sr-only">{{ expanded ? 'Hide' : 'Show' }} all results</span>
     </button>

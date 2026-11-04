@@ -33,9 +33,12 @@ class Reporting:
     units_total: int | None = None
     pct: float | None = None
     text: str | None = None
+    as_percent: bool = True         # False when units aren't a share of the count (counties that posted anything)
 
     def __post_init__(self):
-        if self.pct is None and self.units_total:
+        if not self.as_percent:
+            self.pct = None
+        elif self.pct is None and self.units_total:
             self.pct = round(100 * (self.units_reporting or 0) / self.units_total, 1)
 
 
