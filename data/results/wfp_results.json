@@ -1,7 +1,7 @@
 {
  "election_date": "2026-11-03",
- "generated_at": "2026-11-04T04:12:04+00:00",
- "run_id": "20261104T041054Z",
+ "generated_at": "2026-11-04T04:24:47+00:00",
+ "run_id": "20261104T042445Z",
  "sources": {
   "ca": {
    "status": "ok",
@@ -91,6 +91,18 @@
    "status": "ok",
    "fetched_at": "2026-11-04T04:11:09+00:00",
    "contests_changed_at": "2026-11-04T04:11:09+00:00",
+   "message": null
+  },
+  "mi.washtenaw": {
+   "status": "ok",
+   "fetched_at": "2026-11-04T04:24:45+00:00",
+   "contests_changed_at": "2026-11-04T04:24:45+00:00",
+   "message": null
+  },
+  "mi.wayne": {
+   "status": "ok",
+   "fetched_at": "2026-11-04T04:21:34+00:00",
+   "contests_changed_at": "2026-11-04T04:21:34+00:00",
    "message": null
   },
   "nc": {
@@ -11456,115 +11468,333 @@
    "name": "Abdul El-Sayed",
    "status": "no_source",
    "match_status": "no_source",
-   "note": "no source covers MI yet"
+   "note": "MI has only county sources so far"
   },
   "457": {
    "name": "William Lawrence",
    "status": "no_source",
    "match_status": "no_source",
-   "note": "no source covers MI yet"
+   "note": "MI has only county sources so far"
   },
   "458": {
    "name": "Rashida Tlaib",
    "status": "no_source",
    "match_status": "no_source",
-   "note": "no source covers MI yet"
+   "note": "MI has only county sources so far"
   },
   "459": {
    "name": "Donavan McKinney",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source covers MI yet"
+   "status": "counting",
+   "match_status": "auto",
+   "source": "mi.wayne",
+   "source_name": "Wayne County Clerk",
+   "source_url": "https://michigan.totalvote.com/Wayne",
+   "contest": "Representative in Congress District 13",
+   "scope": "complete",
+   "reporting": {
+    "pct": 0.8,
+    "text": null
+   },
+   "updated_at": "2026-11-03T23:06:34-05:00",
+   "wfp_choice": "Donavan McKinney",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Donavan McKinney",
+     "party": "DEM",
+     "votes": 20831,
+     "pct": 75.31,
+     "is_wfp": true
+    },
+    {
+     "name": "T.P. Nykoriak",
+     "party": "REP",
+     "votes": 6053,
+     "pct": 21.88,
+     "is_wfp": false
+    },
+    {
+     "name": "Simone R. Coleman",
+     "party": "WCP",
+     "votes": 402,
+     "pct": 1.45,
+     "is_wfp": false
+    },
+    {
+     "name": "Chris Dardzinski",
+     "party": "UST",
+     "votes": 184,
+     "pct": 0.67,
+     "is_wfp": false
+    },
+    {
+     "name": "Raelyn Light",
+     "party": "GRN",
+     "votes": 119,
+     "pct": 0.43,
+     "is_wfp": false
+    },
+    {
+     "name": "Write-In",
+     "party": null,
+     "votes": 73,
+     "pct": 0.26,
+     "is_wfp": false
+    }
+   ]
   },
   "460": {
    "name": "Garlin Gilchrist",
    "status": "no_source",
    "match_status": "no_source",
-   "note": "no source covers MI yet"
+   "note": "MI has only county sources so far"
   },
   "461": {
    "name": "Eli Savit",
    "status": "no_source",
    "match_status": "no_source",
-   "note": "no source covers MI yet"
+   "note": "MI has only county sources so far"
   },
   "462": {
    "name": "Tonya Meyers Phillips",
    "status": "no_source",
    "match_status": "no_source",
-   "note": "no source covers MI yet"
+   "note": "MI has only county sources so far"
   },
   "463": {
    "name": "Chris Gilmer-Hill",
    "status": "no_source",
    "match_status": "no_source",
-   "note": "no source covers MI yet"
+   "note": "MI has only county sources so far"
   },
   "464": {
    "name": "Kimberly Fisher",
    "status": "no_source",
    "match_status": "no_source",
-   "note": "no source covers MI yet"
+   "note": "MI has only county sources so far"
   },
   "465": {
    "name": "Jason Morgan",
    "status": "no_source",
    "match_status": "no_source",
-   "note": "no source covers MI yet"
+   "note": "MI has only county sources so far"
   },
   "466": {
    "name": "Dylan Wegela",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source covers MI yet"
+   "status": "awaiting",
+   "match_status": "auto",
+   "source": "mi.wayne",
+   "source_name": "Wayne County Clerk",
+   "source_url": "https://michigan.totalvote.com/Wayne",
+   "contest": "State Representative 26th District",
+   "scope": "complete",
+   "reporting": {
+    "pct": 0.0,
+    "text": null
+   },
+   "updated_at": "2026-11-03T23:06:34-05:00",
+   "wfp_choice": "Dylan Wegela",
+   "wfp_leading": null,
+   "choices": [
+    {
+     "name": "Dylan Wegela",
+     "party": "DEM",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": true
+    },
+    {
+     "name": "Chris Dobis",
+     "party": "REP",
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    },
+    {
+     "name": "Write-In",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    }
+   ]
   },
   "467": {
    "name": "Jaime Churches",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source covers MI yet"
+   "status": "counting",
+   "match_status": "auto",
+   "source": "mi.wayne",
+   "source_name": "Wayne County Clerk",
+   "source_url": "https://michigan.totalvote.com/Wayne",
+   "contest": "State Representative 27th District",
+   "scope": "complete",
+   "reporting": {
+    "pct": 0.0,
+    "text": null
+   },
+   "updated_at": "2026-11-03T23:06:34-05:00",
+   "wfp_choice": "Jaime Churches",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Jaime Churches",
+     "party": "DEM",
+     "votes": 2626,
+     "pct": 62.81,
+     "is_wfp": true
+    },
+    {
+     "name": "Rylee Linting",
+     "party": "REP",
+     "votes": 1546,
+     "pct": 36.98,
+     "is_wfp": false
+    },
+    {
+     "name": "Write-In",
+     "party": null,
+     "votes": 9,
+     "pct": 0.22,
+     "is_wfp": false
+    }
+   ]
   },
   "468": {
    "name": "Katrina Manetta",
    "status": "no_source",
    "match_status": "no_source",
-   "note": "no source covers MI yet"
+   "note": "MI has only county sources so far"
   },
   "469": {
    "name": "Emily Dievendorf",
    "status": "no_source",
    "match_status": "no_source",
-   "note": "no source covers MI yet"
+   "note": "MI has only county sources so far"
   },
   "470": {
    "name": "Abbas Alawieh",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source covers MI yet"
+   "status": "counting",
+   "match_status": "auto",
+   "source": "mi.wayne",
+   "source_name": "Wayne County Clerk",
+   "source_url": "https://michigan.totalvote.com/Wayne",
+   "contest": "State Senator District 2",
+   "scope": "complete",
+   "reporting": {
+    "pct": 0.0,
+    "text": null
+   },
+   "updated_at": "2026-11-03T23:06:34-05:00",
+   "wfp_choice": "Abbas Alawieh",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Abbas Alawieh",
+     "party": "DEM",
+     "votes": 305,
+     "pct": 89.97,
+     "is_wfp": true
+    },
+    {
+     "name": "Harry Sawicki",
+     "party": "REP",
+     "votes": 24,
+     "pct": 7.08,
+     "is_wfp": false
+    },
+    {
+     "name": "Larry Darnell Betts",
+     "party": "WCP",
+     "votes": 9,
+     "pct": 2.65,
+     "is_wfp": false
+    },
+    {
+     "name": "Write-In",
+     "party": null,
+     "votes": 1,
+     "pct": 0.29,
+     "is_wfp": false
+    }
+   ]
   },
   "471": {
    "name": "Yousef Rabhi",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source covers MI yet"
+   "status": "counting",
+   "match_status": "auto",
+   "source": "mi.washtenaw",
+   "source_name": "Washtenaw County Clerk",
+   "source_url": "https://electionresults.ewashtenaw.org/electionreporting/nov2026/index.jsp",
+   "contest": "Mayor City of Ann Arbor",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted"
+   },
+   "updated_at": "2026-11-03T22:46:41-05:00",
+   "wfp_choice": "Yousef Rabhi",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Yousef Rabhi",
+     "party": null,
+     "votes": 37914,
+     "pct": 100.0,
+     "is_wfp": true
+    },
+    {
+     "name": "Elizabeth Sharon Kurtz",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    }
+   ]
   },
   "472": {
    "name": "Ryan Bartholomew",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source covers MI yet"
+   "status": "counting",
+   "match_status": "auto",
+   "source": "mi.washtenaw",
+   "source_name": "Washtenaw County Clerk",
+   "source_url": "https://electionresults.ewashtenaw.org/electionreporting/nov2026/index.jsp",
+   "contest": "Ann Arbor Ward 3 Council",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted"
+   },
+   "updated_at": "2026-11-03T22:46:41-05:00",
+   "wfp_choice": "Ryan Bartholomew",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Ryan Bartholomew",
+     "party": null,
+     "votes": 7732,
+     "pct": 92.3,
+     "is_wfp": true
+    },
+    {
+     "name": "Kenny Leicht",
+     "party": null,
+     "votes": 645,
+     "pct": 7.7,
+     "is_wfp": false
+    }
+   ]
   },
   "473": {
    "name": "Kenzie Colton",
    "status": "no_source",
    "match_status": "no_source",
-   "note": "no source covers MI yet"
+   "note": "no source carries Bay local races yet"
   },
   "474": {
    "name": "Chris Runberg",
    "status": "no_source",
    "match_status": "no_source",
-   "note": "no source covers MI yet"
+   "note": "no source carries Bay local races yet"
   },
   "475": {
    "name": "Jeffrey Sheridan",

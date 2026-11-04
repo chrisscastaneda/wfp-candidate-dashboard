@@ -371,6 +371,12 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 440,MD,Victor Ramirez,"Prince George’s County Council, District 2",auto,name_in_state,md,county-17/County Council District 2,County Council District 2,Victor Ramirez,Victor Ramirez,
 441,MD,Shayla Adams-Stafford,"Prince George’s County Council, District 5",auto,name_in_state,md,county-17/County Council District 5,County Council District 5,Shayla D. Adams-Stafford,Shayla D. Adams-Stafford,
 442,MD,Tamara Davis Brown,"Prince George’s County Council, District 9",auto,name_in_state,md,county-17/County Council District 9,County Council District 9,Tamara Davis Brown,Tamara Davis Brown,
+459,MI,Donavan McKinney,"U.S. House of Representatives, District 13",auto,district_surname,mi.wayne,Representative in Congress District 13,Representative in Congress District 13,Donavan McKinney,Donavan McKinney,
+466,MI,Dylan Wegela,"Michigan House of Representatives, District 26",auto,district_surname,mi.wayne,State Representative 26th District,State Representative 26th District,Dylan Wegela,Dylan Wegela,
+467,MI,Jaime Churches,"Michigan House of Representatives, District 27",auto,district_surname,mi.wayne,State Representative 27th District,State Representative 27th District,Jaime Churches,Jaime Churches,
+470,MI,Abbas Alawieh,"Michigan State Senate, District 2",auto,district_surname,mi.wayne,State Senator District 2,State Senator District 2,Abbas Alawieh,Abbas Alawieh,
+471,MI,Yousef Rabhi,Ann Arbor City Mayor,auto,name_in_state,mi.washtenaw,Mayor City of Ann Arbor,Mayor City of Ann Arbor,Yousef Rabhi,Yousef Rabhi,
+472,MI,Ryan Bartholomew,Ann Arbor City Council Ward 3,auto,name_in_state,mi.washtenaw,Ann Arbor Ward 3 Council,Ann Arbor Ward 3 Council,Ryan Bartholomew,Ryan Bartholomew,
 916,NC,Shannon Long,Alamance County Sheriff,auto,name_in_state,nc,3:ALAMANCE COUNTY SHERIFF,Alamance County Sheriff,Shannon Long,Shannon Long,
 917,NC,Anita Earls,North Carolina Supreme Court,auto,name_in_state,nc,1368:NC SUPREME COURT ASSOCIATE JUSTICE SEAT 01,Nc Supreme Court Associate Justice Seat 01,Anita Earls,Anita Earls,
 918,NC,Marcia Morey,"State House, District 30",auto,district_surname,nc,1198:NC HOUSE OF REPRESENTATIVES DISTRICT 030,Nc House Of Representatives District 030,Marcia Morey,Marcia Morey,
@@ -840,25 +846,19 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 1207,MA,Question 9,Ballot Measure,no_source,,,,,,,no source covers MA yet
 432,ME,Troy Jackson,U.S. Senate,no_source,,,,,,,no source covers ME yet
 433,ME,Jacqueline Sartoris,Cumberland County District Attorney,no_source,,,,,,,no source covers ME yet
-456,MI,Abdul El-Sayed,U.S. Senate,no_source,,,,,,,no source covers MI yet
-457,MI,William Lawrence,"U.S. House of Representatives, District 7",no_source,,,,,,,no source covers MI yet
-458,MI,Rashida Tlaib,"U.S. House of Representatives, District 12",no_source,,,,,,,no source covers MI yet
-459,MI,Donavan McKinney,"U.S. House of Representatives, District 13",no_source,,,,,,,no source covers MI yet
-460,MI,Garlin Gilchrist,Secretary of State,no_source,,,,,,,no source covers MI yet
-461,MI,Eli Savit,Attorney General,no_source,,,,,,,no source covers MI yet
-462,MI,Tonya Meyers Phillips,"Michigan House of Representatives, District 7",no_source,,,,,,,no source covers MI yet
-463,MI,Chris Gilmer-Hill,"Michigan House of Representatives, District 8",no_source,,,,,,,no source covers MI yet
-464,MI,Kimberly Fisher,"Michigan House of Representatives, District 11",no_source,,,,,,,no source covers MI yet
-465,MI,Jason Morgan,"Michigan House of Representatives, District 23",no_source,,,,,,,no source covers MI yet
-466,MI,Dylan Wegela,"Michigan House of Representatives, District 26",no_source,,,,,,,no source covers MI yet
-467,MI,Jaime Churches,"Michigan House of Representatives, District 27",no_source,,,,,,,no source covers MI yet
-468,MI,Katrina Manetta,"Michigan House of Representatives, District 58",no_source,,,,,,,no source covers MI yet
-469,MI,Emily Dievendorf,"Michigan House of Representatives, District 77",no_source,,,,,,,no source covers MI yet
-470,MI,Abbas Alawieh,"Michigan State Senate, District 2",no_source,,,,,,,no source covers MI yet
-471,MI,Yousef Rabhi,Ann Arbor City Mayor,no_source,,,,,,,no source covers MI yet
-472,MI,Ryan Bartholomew,Ann Arbor City Council Ward 3,no_source,,,,,,,no source covers MI yet
-473,MI,Kenzie Colton,Bay City Commission Ward 3,no_source,,,,,,,no source covers MI yet
-474,MI,Chris Runberg,Bay City Commission Ward 7,no_source,,,,,,,no source covers MI yet
+456,MI,Abdul El-Sayed,U.S. Senate,no_source,,,,,,,MI has only county sources so far
+457,MI,William Lawrence,"U.S. House of Representatives, District 7",no_source,,,,,,,MI has only county sources so far
+458,MI,Rashida Tlaib,"U.S. House of Representatives, District 12",no_source,,,,,,,MI has only county sources so far
+460,MI,Garlin Gilchrist,Secretary of State,no_source,,,,,,,MI has only county sources so far
+461,MI,Eli Savit,Attorney General,no_source,,,,,,,MI has only county sources so far
+462,MI,Tonya Meyers Phillips,"Michigan House of Representatives, District 7",no_source,,,,,,,MI has only county sources so far
+463,MI,Chris Gilmer-Hill,"Michigan House of Representatives, District 8",no_source,,,,,,,MI has only county sources so far
+464,MI,Kimberly Fisher,"Michigan House of Representatives, District 11",no_source,,,,,,,MI has only county sources so far
+465,MI,Jason Morgan,"Michigan House of Representatives, District 23",no_source,,,,,,,MI has only county sources so far
+468,MI,Katrina Manetta,"Michigan House of Representatives, District 58",no_source,,,,,,,MI has only county sources so far
+469,MI,Emily Dievendorf,"Michigan House of Representatives, District 77",no_source,,,,,,,MI has only county sources so far
+473,MI,Kenzie Colton,Bay City Commission Ward 3,no_source,,,,,,,no source carries Bay local races yet
+474,MI,Chris Runberg,Bay City Commission Ward 7,no_source,,,,,,,no source carries Bay local races yet
 475,MN,Jeffrey Sheridan,Dakota County Attorney,no_source,,,,,,,no source covers MN yet
 476,MN,Cedrick Frazier,Hennepin County Attorney,no_source,,,,,,,no source covers MN yet
 477,NE,Makayla Danner,Douglas County District Attorney,no_source,,,,,,,no source carries Douglas local races yet

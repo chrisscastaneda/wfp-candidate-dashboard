@@ -256,6 +256,38 @@ Fixes made while building:
   Proposition 137 (50.0%).
 - Milwaukee's hand entries weren't re-read this run; they're as of 9:43pm CT.
 
+### 11:21pm: Wayne County, Michigan
+
+- Michigan's Secretary of State posts statewide results about a day later, so election night means counties.
+  **waynecountymi.gov returns 403 to scripts** (pages and PDFs), but its results page links to **TotalVote**
+  (`michigan.totalvote.com/Wayne`), which doesn't. One server-rendered page per category (`ResultsSW.aspx?type=CON`,
+  `SEN`, `REP`). New source `counties/mi.py`. No other Michigan county is on TotalVote.
+- Wayne was slow: 7 of 770 precincts at 11:06pm. The votes so far are mostly absentee counting boards.
+- Which districts lie entirely in Wayne County came from Wikipedia's district lists (Michigan's own results archive
+  wasn't reachable): **MI-13, SD-2, HD-26 and HD-27** are Wayne only. MI-13 also takes in a sliver of Grosse Pointe
+  Shores in Macomb County (a handful of votes), so it's treated as complete. **MI-12 (Tlaib)** includes Southfield
+  (Oakland), **HD-7 and HD-8** include Oakland, and **HD-11** includes Macomb, so those are partial.
+- Results: Donavan McKinney (MI-13) 75%, Abbas Alawieh (SD-2) 90%, Jaime Churches (HD-27) 63%. Dylan Wegela (HD-26)
+  has no votes yet.
+- **Bug caught on the first run:** the contest-title pattern matched lazily from the first `<h1>` on the page, so
+  each title swallowed the previous contest's candidates. The title can no longer cross tags, and a test covers it.
+- Partial for now, from Wayne alone: Tlaib 93% of Wayne's share (MI-12), Tonya Myers Phillips 95% (HD-7).
+
+### 11:25pm: Washtenaw and Bay counties, Michigan
+
+- **Washtenaw** posts election-night results at `electionresults.ewashtenaw.org/electionreporting/nov2026/index.jsp`
+  (linked from washtenaw.org/election-results; the old Elections Division URL now redirects elsewhere). Every race is
+  in one summary table with early, absentee, election-day and total votes. New source `mi.washtenaw` in
+  `counties/mi.py`.
+  - Yousef Rabhi (Ann Arbor mayor) 97% (effectively unopposed), Ryan Bartholomew (Ann Arbor Ward 3) 92%.
+  - Precincts counted is only countywide (36 of 112 fully counted at 10:46pm), so it's shown as labeled text.
+  - HD-23 (Jason Morgan) also has 4 Wayne precincts, so it's partial. Washtenaw's share: Morgan 78%.
+- **Bay County** posts PDFs (`November 3, 2026 Unofficial Summary Results`). Read by hand: **the Bay City
+  Commission races (Kenzie Colton, Ward 3; Chris Runberg, Ward 7) aren't on the county's report.** The city may
+  report them itself, or they may not be on this ballot. Worth checking with Bay City or WFP.
+- Bay's report also shows its share of the statewide races: El-Sayed 47% to Rogers 51%, Gilchrist 50.1%, Savit 48%
+  (Bay County only, not on the dashboard).
+
 ## Feed quirks worth remembering
 
 | Source | Quirk | How it's handled |
@@ -274,6 +306,9 @@ Fixes made while building:
 | Florida measures | "No for Rejection" contains "for" | `yes_no` checks the first word first |
 | Milwaukee County (WI) | Election-night page returns 403 to scripts | Manual entries |
 | Kenosha County (WI) | Election id is a number in the URL (`eid=70` for Nov 3) | Hard-coded per election; the page's date is checked |
+| Wayne County (MI) | County site 403s; results are on TotalVote | Scraped from `michigan.totalvote.com/Wayne` |
+| Washtenaw County (MI) | Results URL includes the election (`nov2026`); precincts counted is countywide only | URL built from the election date; countywide text |
+| Bay County (MI) | PDFs only | Read by hand |
 | Oregon | Vote by mail; precincts-reporting stays at 0 while votes come in | Shown as reported; worth replacing with a count or hiding |
 
 ## Still open
@@ -282,7 +317,10 @@ Fixes made while building:
   hadn't posted a Nov 3 election by 11:10pm.
 - Wisconsin: 9 of 29 races. Still missing: the statewide races and questions, SD-5, 7, 17, 21, 31, AD-13, 21, 51,
   53, 61–63, 73, 90, 93 (multi-county, or counties that block scripts or post PDFs).
-- Michigan, Massachusetts, Kentucky and Maine have no source; their federal races wait on manual entries.
+- Michigan: 6 of 19 races (Wayne 4, Washtenaw 2). Still missing: El-Sayed (U.S. Senate), Gilchrist and Savit
+  (statewide), MI-7 and MI-12, HD-7, 8, 11, 23, 58, 77, and the two Bay City Commission races (not on Bay County's
+  report).
+- Massachusetts, Kentucky and Maine have no source; their federal races wait on manual entries.
 - Milwaukee's six races only update when re-entered by hand.
 - Dutchess and Ulster (66 NY races) post PDFs; not built.
 - Onondaga (21 NY races) uses Results Caster and may work with `platforms/resultscaster.py` if its site is

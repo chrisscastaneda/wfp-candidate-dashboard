@@ -128,3 +128,40 @@ def test_wisconsin_counties_keep_only_whole_districts_complete():
     ad64, = wi.parse_kenosha(page, wi.Kenosha.whole_districts)
     assert ad64.scope == "complete" and (ad64.choices[0].name, ad64.choices[0].votes) == ("Tip McGuire", 9485)
     assert ad64.feed_updated_at == "2026-11-03T21:24:41"
+
+
+def test_wayne_totalvote_titles_candidates_and_whole_districts():
+    from elex.counties import mi
+
+    def contest(title, precincts, *cands):
+        rows = "".join(f'<div class="col display-results-box-d"><h1> {n} </h1><h2 class="{p}">x</h2></div>'
+                       f'<div class="col display-results-box-f"><h1>{v}</h1></div>' for n, p, v in cands)
+        return f'<h1>{title} - <br>VOTE FOR ONE (1)</h1><div>Precincts Reported: {precincts}</div>{rows}'
+    page = ("Results Last Updated: 11/3/2026 11:06:34 PM EST"
+            + contest("Representative in Congress District 12", "0 / 304", ("Rashida Tlaib", "DEM", "9,015"))
+            + contest("Representative in Congress District 13", "3 / 377", ("Donavan McKinney", "DEM", "20,831"),
+                      ("T.P. Nykoriak", "REP", "6,053")))
+    cd12, cd13 = mi.parse_totalvote(page, source_id="mi.wayne", county="Wayne", whole=mi.Wayne.whole_districts)
+    assert cd12.title == "Representative in Congress District 12" and cd12.scope == "partial"  # Southfield
+    assert cd13.scope == "complete" and cd13.reporting.units_total == 377
+    assert [(c.name, c.votes, c.party) for c in cd13.choices] == [("Donavan McKinney", 20831, "DEM"),
+                                                                   ("T.P. Nykoriak", 6053, "REP")]
+    assert cd13.feed_updated_at == "2026-11-03T23:06:34-05:00"
+
+
+def test_washtenaw_summary_table():
+    from elex.counties import mi
+
+    def race(title, *rows):
+        cells = "".join(f'<tr><td align=left class="bb1 bold">&nbsp;&nbsp;{n}</td><td class="bb">1</td>'
+                        f'<td class="bb">1</td><td class="bb">1</td><td class="bb">{t}</td><td>x%</td></tr>'
+                        for n, t in rows)
+        return f'<td class="headertr" colspan="4">{title}</td>{cells}'
+    page = ("This report created: Tuesday, Nov 03, 2026 10:46:41 PM Precincts Total: | 112 | Precincts Fully "
+            "Counted: | 36 |" + race("Mayor City of Ann Arbor", ("Yousef Rabhi", "37914"),
+                                     ("Unassigned write-ins", "1170"))
+            + race("State Rep 23rd District", ("Jason Morgan", "14175")))
+    mayor, hd23 = mi.parse_washtenaw(page, whole=frozenset())
+    assert [(c.name, c.votes) for c in mayor.choices] == [("Yousef Rabhi", 37914)]  # write-ins dropped
+    assert mayor.scope == "complete" and hd23.scope == "partial"  # HD-23 also has Wayne precincts
+    assert mayor.reporting.pct is None and mayor.reporting.text == "Countywide, 36 of 112 precincts fully counted"

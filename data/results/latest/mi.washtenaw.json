@@ -1,0 +1,4752 @@
+{
+ "source": "mi.washtenaw",
+ "contests": [
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Governor & Lt Gov",
+   "state": "MI",
+   "title": "Governor & Lt Gov",
+   "office_type": "governor",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Jocelyn Benson Winnie Brinks",
+     "votes": 114074,
+     "party": null,
+     "pct": 73.02,
+     "choice_id": "Jocelyn Benson Winnie Brinks",
+     "party_lines": null
+    },
+    {
+     "name": "John James Jay DeBoyer",
+     "votes": 39821,
+     "party": null,
+     "pct": 25.49,
+     "choice_id": "John James Jay DeBoyer",
+     "party_lines": null
+    },
+    {
+     "name": "Anthony Hudson Beau Parmenter",
+     "votes": 998,
+     "party": null,
+     "pct": 0.64,
+     "choice_id": "Anthony Hudson Beau Parmenter",
+     "party_lines": null
+    },
+    {
+     "name": "Donna Brandenburg Robert Donald Cowper II",
+     "votes": 473,
+     "party": null,
+     "pct": 0.3,
+     "choice_id": "Donna Brandenburg Robert Donald Cowper II",
+     "party_lines": null
+    },
+    {
+     "name": "Douglas Campbell Bobbie Clay",
+     "votes": 866,
+     "party": null,
+     "pct": 0.55,
+     "choice_id": "Douglas Campbell Bobbie Clay",
+     "party_lines": null
+    },
+    {
+     "name": "Angelo Scott Brown",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Angelo Scott Brown",
+     "party_lines": null
+    },
+    {
+     "name": "Cecelia Lea Adkins",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Cecelia Lea Adkins",
+     "party_lines": null
+    },
+    {
+     "name": "Evan Sebastian Space",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Evan Sebastian Space",
+     "party_lines": null
+    },
+    {
+     "name": "Henry Joseph Lester",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Henry Joseph Lester",
+     "party_lines": null
+    },
+    {
+     "name": "Joseph Michael Hunt",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Joseph Michael Hunt",
+     "party_lines": null
+    },
+    {
+     "name": "Justin Paul Blackburn",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Justin Paul Blackburn",
+     "party_lines": null
+    },
+    {
+     "name": "Kimberly Ruby-Ann Thomas",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Kimberly Ruby-Ann Thomas",
+     "party_lines": null
+    },
+    {
+     "name": "Timothy J. Badgley",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Timothy J. Badgley",
+     "party_lines": null
+    },
+    {
+     "name": "William James Stahl",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "William James Stahl",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Sec of State",
+   "state": "MI",
+   "title": "Sec of State",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Garlin Gilchrist II",
+     "votes": 112470,
+     "party": null,
+     "pct": 72.79,
+     "choice_id": "Garlin Gilchrist II",
+     "party_lines": null
+    },
+    {
+     "name": "Anthony G. Forlini",
+     "votes": 38620,
+     "party": null,
+     "pct": 24.99,
+     "choice_id": "Anthony G. Forlini",
+     "party_lines": null
+    },
+    {
+     "name": "Christine Sloan",
+     "votes": 1973,
+     "party": null,
+     "pct": 1.28,
+     "choice_id": "Christine Sloan",
+     "party_lines": null
+    },
+    {
+     "name": "Scott E. Aughney",
+     "votes": 536,
+     "party": null,
+     "pct": 0.35,
+     "choice_id": "Scott E. Aughney",
+     "party_lines": null
+    },
+    {
+     "name": "Eric Borregard",
+     "votes": 921,
+     "party": null,
+     "pct": 0.6,
+     "choice_id": "Eric Borregard",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Attorney General",
+   "state": "MI",
+   "title": "Attorney General",
+   "office_type": "attorney_general",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Eli Savit",
+     "votes": 110480,
+     "party": null,
+     "pct": 71.82,
+     "choice_id": "Eli Savit",
+     "party_lines": null
+    },
+    {
+     "name": "Doug Lloyd",
+     "votes": 40054,
+     "party": null,
+     "pct": 26.04,
+     "choice_id": "Doug Lloyd",
+     "party_lines": null
+    },
+    {
+     "name": "Jason Dye",
+     "votes": 1422,
+     "party": null,
+     "pct": 0.92,
+     "choice_id": "Jason Dye",
+     "party_lines": null
+    },
+    {
+     "name": "John Perry Ludtke, Jr.",
+     "votes": 535,
+     "party": null,
+     "pct": 0.35,
+     "choice_id": "John Perry Ludtke, Jr.",
+     "party_lines": null
+    },
+    {
+     "name": "Jeff Polonowski",
+     "votes": 1018,
+     "party": null,
+     "pct": 0.66,
+     "choice_id": "Jeff Polonowski",
+     "party_lines": null
+    },
+    {
+     "name": "Doug Dern",
+     "votes": 325,
+     "party": null,
+     "pct": 0.21,
+     "choice_id": "Doug Dern",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "US Senate",
+   "state": "MI",
+   "title": "US Senate",
+   "office_type": "federal_senate",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Abdul El-Sayed",
+     "votes": 113051,
+     "party": null,
+     "pct": 72.03,
+     "choice_id": "Abdul El-Sayed",
+     "party_lines": null
+    },
+    {
+     "name": "Mike Rogers",
+     "votes": 41846,
+     "party": null,
+     "pct": 26.66,
+     "choice_id": "Mike Rogers",
+     "party_lines": null
+    },
+    {
+     "name": "Lydia Christensen",
+     "votes": 1160,
+     "party": null,
+     "pct": 0.74,
+     "choice_id": "Lydia Christensen",
+     "party_lines": null
+    },
+    {
+     "name": "Tim Long",
+     "votes": 403,
+     "party": null,
+     "pct": 0.26,
+     "choice_id": "Tim Long",
+     "party_lines": null
+    },
+    {
+     "name": "Douglas P. Marsh",
+     "votes": 366,
+     "party": null,
+     "pct": 0.23,
+     "choice_id": "Douglas P. Marsh",
+     "party_lines": null
+    },
+    {
+     "name": "Walter P. Kristy",
+     "votes": 132,
+     "party": null,
+     "pct": 0.08,
+     "choice_id": "Walter P. Kristy",
+     "party_lines": null
+    },
+    {
+     "name": "Craig Henley Johnson",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Craig Henley Johnson",
+     "party_lines": null
+    },
+    {
+     "name": "Daniel Varney Tamba Pawa",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Daniel Varney Tamba Pawa",
+     "party_lines": null
+    },
+    {
+     "name": "George Earnest Huffman",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "George Earnest Huffman",
+     "party_lines": null
+    },
+    {
+     "name": "Robert Trevor-Blair Davis",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Robert Trevor-Blair Davis",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "US Congress 6th District",
+   "state": "MI",
+   "title": "US Congress 6th District",
+   "office_type": "federal_house",
+   "district": "6",
+   "jurisdiction": "Washtenaw County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Debbie Dingell",
+     "votes": 114089,
+     "party": null,
+     "pct": 73.6,
+     "choice_id": "Debbie Dingell",
+     "party_lines": null
+    },
+    {
+     "name": "Heather Smiley",
+     "votes": 37132,
+     "party": null,
+     "pct": 23.96,
+     "choice_id": "Heather Smiley",
+     "party_lines": null
+    },
+    {
+     "name": "Timothy A. Teagan",
+     "votes": 1089,
+     "party": null,
+     "pct": 0.7,
+     "choice_id": "Timothy A. Teagan",
+     "party_lines": null
+    },
+    {
+     "name": "Mike Mickevicius",
+     "votes": 377,
+     "party": null,
+     "pct": 0.24,
+     "choice_id": "Mike Mickevicius",
+     "party_lines": null
+    },
+    {
+     "name": "Clyde Shabazz",
+     "votes": 1014,
+     "party": null,
+     "pct": 0.65,
+     "choice_id": "Clyde Shabazz",
+     "party_lines": null
+    },
+    {
+     "name": "Linda Rayburn",
+     "votes": 1303,
+     "party": null,
+     "pct": 0.84,
+     "choice_id": "Linda Rayburn",
+     "party_lines": null
+    },
+    {
+     "name": "Bree Arlene Taylor",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Bree Arlene Taylor",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "State Senate 14th District",
+   "state": "MI",
+   "title": "State Senate 14th District",
+   "office_type": "state_senate",
+   "district": "14",
+   "jurisdiction": "Washtenaw County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Sue Shink",
+     "votes": 39844,
+     "party": null,
+     "pct": 71.5,
+     "choice_id": "Sue Shink",
+     "party_lines": null
+    },
+    {
+     "name": "Tawn Shawnelle Beliger",
+     "votes": 15878,
+     "party": null,
+     "pct": 28.5,
+     "choice_id": "Tawn Shawnelle Beliger",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "State Senate 15th District",
+   "state": "MI",
+   "title": "State Senate 15th District",
+   "office_type": "state_senate",
+   "district": "15",
+   "jurisdiction": "Washtenaw County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Felicia Brabec",
+     "votes": 73413,
+     "party": null,
+     "pct": 75.73,
+     "choice_id": "Felicia Brabec",
+     "party_lines": null
+    },
+    {
+     "name": "Jason Rogers",
+     "votes": 23526,
+     "party": null,
+     "pct": 24.27,
+     "choice_id": "Jason Rogers",
+     "party_lines": null
+    },
+    {
+     "name": "Krysten Alyssa Mere",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Krysten Alyssa Mere",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "State Rep 23rd District",
+   "state": "MI",
+   "title": "State Rep 23rd District",
+   "office_type": "state_house",
+   "district": "23",
+   "jurisdiction": "Washtenaw County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Jason Morgan",
+     "votes": 14175,
+     "party": null,
+     "pct": 78.1,
+     "choice_id": "Jason Morgan",
+     "party_lines": null
+    },
+    {
+     "name": "Miriam Corvino",
+     "votes": 3736,
+     "party": null,
+     "pct": 20.58,
+     "choice_id": "Miriam Corvino",
+     "party_lines": null
+    },
+    {
+     "name": "Christina Marudas",
+     "votes": 239,
+     "party": null,
+     "pct": 1.32,
+     "choice_id": "Christina Marudas",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "State Rep 31st District",
+   "state": "MI",
+   "title": "State Rep 31st District",
+   "office_type": "state_house",
+   "district": "31",
+   "jurisdiction": "Washtenaw County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Shannon Dare Wayne",
+     "votes": 4955,
+     "party": null,
+     "pct": 53.87,
+     "choice_id": "Shannon Dare Wayne",
+     "party_lines": null
+    },
+    {
+     "name": "Laura M. Perry",
+     "votes": 4243,
+     "party": null,
+     "pct": 46.13,
+     "choice_id": "Laura M. Perry",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "State Rep 32nd District",
+   "state": "MI",
+   "title": "State Rep 32nd District",
+   "office_type": "state_house",
+   "district": "32",
+   "jurisdiction": "Washtenaw County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Jimmie Wilson, Jr.",
+     "votes": 21475,
+     "party": null,
+     "pct": 79.34,
+     "choice_id": "Jimmie Wilson, Jr.",
+     "party_lines": null
+    },
+    {
+     "name": "Mike Eller",
+     "votes": 4983,
+     "party": null,
+     "pct": 18.41,
+     "choice_id": "Mike Eller",
+     "party_lines": null
+    },
+    {
+     "name": "John R. Tatar",
+     "votes": 226,
+     "party": null,
+     "pct": 0.83,
+     "choice_id": "John R. Tatar",
+     "party_lines": null
+    },
+    {
+     "name": "Ryan Sample",
+     "votes": 382,
+     "party": null,
+     "pct": 1.41,
+     "choice_id": "Ryan Sample",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "State Rep 33rd District",
+   "state": "MI",
+   "title": "State Rep 33rd District",
+   "office_type": "state_house",
+   "district": "33",
+   "jurisdiction": "Washtenaw County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Morgan Foreman",
+     "votes": 31477,
+     "party": null,
+     "pct": 75.91,
+     "choice_id": "Morgan Foreman",
+     "party_lines": null
+    },
+    {
+     "name": "Catherine Rogers",
+     "votes": 9988,
+     "party": null,
+     "pct": 24.09,
+     "choice_id": "Catherine Rogers",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "State Rep 46th District",
+   "state": "MI",
+   "title": "State Rep 46th District",
+   "office_type": "state_house",
+   "district": "46",
+   "jurisdiction": "Washtenaw County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Jan Maino",
+     "votes": 3779,
+     "party": null,
+     "pct": 64.94,
+     "choice_id": "Jan Maino",
+     "party_lines": null
+    },
+    {
+     "name": "Kathy Schmaltz",
+     "votes": 2040,
+     "party": null,
+     "pct": 35.06,
+     "choice_id": "Kathy Schmaltz",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "State Rep 47th District",
+   "state": "MI",
+   "title": "State Rep 47th District",
+   "office_type": "state_house",
+   "district": "47",
+   "jurisdiction": "Washtenaw County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Carrie A. Rheingans",
+     "votes": 19629,
+     "party": null,
+     "pct": 75.16,
+     "choice_id": "Carrie A. Rheingans",
+     "party_lines": null
+    },
+    {
+     "name": "Justin Griffis",
+     "votes": 6486,
+     "party": null,
+     "pct": 24.84,
+     "choice_id": "Justin Griffis",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "State Rep 48th District",
+   "state": "MI",
+   "title": "State Rep 48th District",
+   "office_type": "state_house",
+   "district": "48",
+   "jurisdiction": "Washtenaw County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Jennifer A. Conlin",
+     "votes": 15521,
+     "party": null,
+     "pct": 66.62,
+     "choice_id": "Jennifer A. Conlin",
+     "party_lines": null
+    },
+    {
+     "name": "Brian Ignatowski",
+     "votes": 7776,
+     "party": null,
+     "pct": 33.38,
+     "choice_id": "Brian Ignatowski",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "State Board of Ed",
+   "state": "MI",
+   "title": "State Board of Ed",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Judith Pritchett",
+     "votes": 105716,
+     "party": null,
+     "pct": 35.89,
+     "choice_id": "Judith Pritchett",
+     "party_lines": null
+    },
+    {
+     "name": "Tiffany Tilley",
+     "votes": 104482,
+     "party": null,
+     "pct": 35.47,
+     "choice_id": "Tiffany Tilley",
+     "party_lines": null
+    },
+    {
+     "name": "Terence Collins",
+     "votes": 38301,
+     "party": null,
+     "pct": 13.0,
+     "choice_id": "Terence Collins",
+     "party_lines": null
+    },
+    {
+     "name": "Bree Moeggenberg",
+     "votes": 36563,
+     "party": null,
+     "pct": 12.41,
+     "choice_id": "Bree Moeggenberg",
+     "party_lines": null
+    },
+    {
+     "name": "Charles Essner",
+     "votes": 2182,
+     "party": null,
+     "pct": 0.74,
+     "choice_id": "Charles Essner",
+     "party_lines": null
+    },
+    {
+     "name": "William Mohr II",
+     "votes": 787,
+     "party": null,
+     "pct": 0.27,
+     "choice_id": "William Mohr II",
+     "party_lines": null
+    },
+    {
+     "name": "Christine C. Schwartz",
+     "votes": 1021,
+     "party": null,
+     "pct": 0.35,
+     "choice_id": "Christine C. Schwartz",
+     "party_lines": null
+    },
+    {
+     "name": "Wissam Charafeddine",
+     "votes": 1984,
+     "party": null,
+     "pct": 0.67,
+     "choice_id": "Wissam Charafeddine",
+     "party_lines": null
+    },
+    {
+     "name": "Mary Anne Hering",
+     "votes": 3037,
+     "party": null,
+     "pct": 1.03,
+     "choice_id": "Mary Anne Hering",
+     "party_lines": null
+    },
+    {
+     "name": "Kelli Monroe",
+     "votes": 497,
+     "party": null,
+     "pct": 0.17,
+     "choice_id": "Kelli Monroe",
+     "party_lines": null
+    },
+    {
+     "name": "Jennifer Lynn Strickland",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Jennifer Lynn Strickland",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "U of M Regent",
+   "state": "MI",
+   "title": "U of M Regent",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Paul Brown",
+     "votes": 105386,
+     "party": null,
+     "pct": 36.06,
+     "choice_id": "Paul Brown",
+     "party_lines": null
+    },
+    {
+     "name": "Amir Makled",
+     "votes": 102052,
+     "party": null,
+     "pct": 34.92,
+     "choice_id": "Amir Makled",
+     "party_lines": null
+    },
+    {
+     "name": "Lena Epstein",
+     "votes": 38137,
+     "party": null,
+     "pct": 13.05,
+     "choice_id": "Lena Epstein",
+     "party_lines": null
+    },
+    {
+     "name": "Michael Schostak",
+     "votes": 40800,
+     "party": null,
+     "pct": 13.96,
+     "choice_id": "Michael Schostak",
+     "party_lines": null
+    },
+    {
+     "name": "Andrew Chadderdon",
+     "votes": 3246,
+     "party": null,
+     "pct": 1.11,
+     "choice_id": "Andrew Chadderdon",
+     "party_lines": null
+    },
+    {
+     "name": "Kyle Maas",
+     "votes": 2592,
+     "party": null,
+     "pct": 0.89,
+     "choice_id": "Kyle Maas",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "MSU Trustee",
+   "state": "MI",
+   "title": "MSU Trustee",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Brianna Scott",
+     "votes": 102228,
+     "party": null,
+     "pct": 35.67,
+     "choice_id": "Brianna Scott",
+     "party_lines": null
+    },
+    {
+     "name": "Kelly Tebay Zemke",
+     "votes": 99772,
+     "party": null,
+     "pct": 34.81,
+     "choice_id": "Kelly Tebay Zemke",
+     "party_lines": null
+    },
+    {
+     "name": "Julie Maday",
+     "votes": 36973,
+     "party": null,
+     "pct": 12.9,
+     "choice_id": "Julie Maday",
+     "party_lines": null
+    },
+    {
+     "name": "Roger Victory",
+     "votes": 36938,
+     "party": null,
+     "pct": 12.89,
+     "choice_id": "Roger Victory",
+     "party_lines": null
+    },
+    {
+     "name": "Daniel R. Patterson",
+     "votes": 2196,
+     "party": null,
+     "pct": 0.77,
+     "choice_id": "Daniel R. Patterson",
+     "party_lines": null
+    },
+    {
+     "name": "Will Tyler White",
+     "votes": 1563,
+     "party": null,
+     "pct": 0.55,
+     "choice_id": "Will Tyler White",
+     "party_lines": null
+    },
+    {
+     "name": "Janet Sanger",
+     "votes": 1102,
+     "party": null,
+     "pct": 0.38,
+     "choice_id": "Janet Sanger",
+     "party_lines": null
+    },
+    {
+     "name": "John Sanger",
+     "votes": 848,
+     "party": null,
+     "pct": 0.3,
+     "choice_id": "John Sanger",
+     "party_lines": null
+    },
+    {
+     "name": "John Anthony La Pietra",
+     "votes": 2355,
+     "party": null,
+     "pct": 0.82,
+     "choice_id": "John Anthony La Pietra",
+     "party_lines": null
+    },
+    {
+     "name": "Yaz Ozbek",
+     "votes": 2614,
+     "party": null,
+     "pct": 0.91,
+     "choice_id": "Yaz Ozbek",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Wayne State Governor",
+   "state": "MI",
+   "title": "Wayne State Governor",
+   "office_type": "governor",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Shereef Akeel",
+     "votes": 100562,
+     "party": null,
+     "pct": 35.48,
+     "choice_id": "Shereef Akeel",
+     "party_lines": null
+    },
+    {
+     "name": "Richard Mack",
+     "votes": 100202,
+     "party": null,
+     "pct": 35.35,
+     "choice_id": "Richard Mack",
+     "party_lines": null
+    },
+    {
+     "name": "Andy Anuzis",
+     "votes": 35642,
+     "party": null,
+     "pct": 12.58,
+     "choice_id": "Andy Anuzis",
+     "party_lines": null
+    },
+    {
+     "name": "Christa Murphy",
+     "votes": 37459,
+     "party": null,
+     "pct": 13.22,
+     "choice_id": "Christa Murphy",
+     "party_lines": null
+    },
+    {
+     "name": "Alex Avery",
+     "votes": 1908,
+     "party": null,
+     "pct": 0.67,
+     "choice_id": "Alex Avery",
+     "party_lines": null
+    },
+    {
+     "name": "Jami Van Alstine",
+     "votes": 1515,
+     "party": null,
+     "pct": 0.53,
+     "choice_id": "Jami Van Alstine",
+     "party_lines": null
+    },
+    {
+     "name": "Jeff McDonald",
+     "votes": 1006,
+     "party": null,
+     "pct": 0.35,
+     "choice_id": "Jeff McDonald",
+     "party_lines": null
+    },
+    {
+     "name": "Paul M. Ragan",
+     "votes": 1691,
+     "party": null,
+     "pct": 0.6,
+     "choice_id": "Paul M. Ragan",
+     "party_lines": null
+    },
+    {
+     "name": "Suzanne Roehrig",
+     "votes": 2854,
+     "party": null,
+     "pct": 1.01,
+     "choice_id": "Suzanne Roehrig",
+     "party_lines": null
+    },
+    {
+     "name": "Kathleen Oakford",
+     "votes": 578,
+     "party": null,
+     "pct": 0.2,
+     "choice_id": "Kathleen Oakford",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Mayor City of Ann Arbor",
+   "state": "MI",
+   "title": "Mayor City of Ann Arbor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Yousef Rabhi",
+     "votes": 37914,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yousef Rabhi",
+     "party_lines": null
+    },
+    {
+     "name": "Elizabeth Sharon Kurtz",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Elizabeth Sharon Kurtz",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Ann Arbor Ward 1 Council",
+   "state": "MI",
+   "title": "Ann Arbor Ward 1 Council",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Cynthia Harrison",
+     "votes": 7647,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Cynthia Harrison",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Ann Arbor Ward 2 Council",
+   "state": "MI",
+   "title": "Ann Arbor Ward 2 Council",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Sandy Aldrich",
+     "votes": 6591,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Sandy Aldrich",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Ann Arbor Ward 3 Council",
+   "state": "MI",
+   "title": "Ann Arbor Ward 3 Council",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Ryan Bartholomew",
+     "votes": 7732,
+     "party": null,
+     "pct": 92.3,
+     "choice_id": "Ryan Bartholomew",
+     "party_lines": null
+    },
+    {
+     "name": "Kenny Leicht",
+     "votes": 645,
+     "party": null,
+     "pct": 7.7,
+     "choice_id": "Kenny Leicht",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Ann Arbor Ward 4 Council",
+   "state": "MI",
+   "title": "Ann Arbor Ward 4 Council",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Aidan Sova",
+     "votes": 6962,
+     "party": null,
+     "pct": 87.62,
+     "choice_id": "Aidan Sova",
+     "party_lines": null
+    },
+    {
+     "name": "James Trost",
+     "votes": 984,
+     "party": null,
+     "pct": 12.38,
+     "choice_id": "James Trost",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Ann Arbor Ward 5 Council",
+   "state": "MI",
+   "title": "Ann Arbor Ward 5 Council",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Jenn Cornell",
+     "votes": 8440,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Jenn Cornell",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Mayor City of Ypsilanti",
+   "state": "MI",
+   "title": "Mayor City of Ypsilanti",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Nicole A. Brown",
+     "votes": 7221,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Nicole A. Brown",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Ypsilanti Ward 1 Council",
+   "state": "MI",
+   "title": "Ypsilanti Ward 1 Council",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Michelle (Me'Chelle) King",
+     "votes": 2186,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Michelle (Me'Chelle) King",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Ypsilanti Ward 2 Council",
+   "state": "MI",
+   "title": "Ypsilanti Ward 2 Council",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Patrick A. McLean",
+     "votes": 2514,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Patrick A. McLean",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Ypsilanti Ward 3 Council",
+   "state": "MI",
+   "title": "Ypsilanti Ward 3 Council",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Desirae Simmons",
+     "votes": 2254,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Desirae Simmons",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Ann Arbor Twp Clerk",
+   "state": "MI",
+   "title": "Ann Arbor Twp Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Kristine Bolhuis",
+     "votes": 2348,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Kristine Bolhuis",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Lodi Twp Supervisor",
+   "state": "MI",
+   "title": "Lodi Twp Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Jane V. Chronis",
+     "votes": 2082,
+     "party": null,
+     "pct": 52.76,
+     "choice_id": "Jane V. Chronis",
+     "party_lines": null
+    },
+    {
+     "name": "Jacob D. Schaible",
+     "votes": 1864,
+     "party": null,
+     "pct": 47.24,
+     "choice_id": "Jacob D. Schaible",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Scio Twp Trustee",
+   "state": "MI",
+   "title": "Scio Twp Trustee",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Mary Gillis",
+     "votes": 5187,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Mary Gillis",
+     "party_lines": null
+    },
+    {
+     "name": "Mark D. Altomare",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Mark D. Altomare",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Webster Twp Clerk",
+   "state": "MI",
+   "title": "Webster Twp Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Barbara Calleja",
+     "votes": 2752,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Barbara Calleja",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "York Twp Supervisor",
+   "state": "MI",
+   "title": "York Twp Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "David P. Ludwig",
+     "votes": 2541,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "David P. Ludwig",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "MI Supreme Court Justices",
+   "state": "MI",
+   "title": "MI Supreme Court Justices",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Megan Kathleen Cavanagh",
+     "votes": 89510,
+     "party": null,
+     "pct": 39.4,
+     "choice_id": "Megan Kathleen Cavanagh",
+     "party_lines": null
+    },
+    {
+     "name": "Noah P. Hood",
+     "votes": 81909,
+     "party": null,
+     "pct": 36.05,
+     "choice_id": "Noah P. Hood",
+     "party_lines": null
+    },
+    {
+     "name": "Thomas W. Howe",
+     "votes": 5957,
+     "party": null,
+     "pct": 2.62,
+     "choice_id": "Thomas W. Howe",
+     "party_lines": null
+    },
+    {
+     "name": "Casandra Morse-Bills",
+     "votes": 21076,
+     "party": null,
+     "pct": 9.28,
+     "choice_id": "Casandra Morse-Bills",
+     "party_lines": null
+    },
+    {
+     "name": "Michael Warren",
+     "votes": 20240,
+     "party": null,
+     "pct": 8.91,
+     "choice_id": "Michael Warren",
+     "party_lines": null
+    },
+    {
+     "name": "Jody White",
+     "votes": 8501,
+     "party": null,
+     "pct": 3.74,
+     "choice_id": "Jody White",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Appeals Court Judge 3rd Dist",
+   "state": "MI",
+   "title": "Appeals Court Judge 3rd Dist",
+   "office_type": "judicial",
+   "district": "3",
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Mark T. Boonstra",
+     "votes": 68914,
+     "party": null,
+     "pct": 46.39,
+     "choice_id": "Mark T. Boonstra",
+     "party_lines": null
+    },
+    {
+     "name": "Daniel S. Korobkin",
+     "votes": 79643,
+     "party": null,
+     "pct": 53.61,
+     "choice_id": "Daniel S. Korobkin",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Judge 22nd Circuit Court",
+   "state": "MI",
+   "title": "Judge 22nd Circuit Court",
+   "office_type": "judicial",
+   "district": "22",
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Patrick J. Conlin, Jr.",
+     "votes": 82927,
+     "party": null,
+     "pct": 51.63,
+     "choice_id": "Patrick J. Conlin, Jr.",
+     "party_lines": null
+    },
+    {
+     "name": "Tracy E. Van den Bergh",
+     "votes": 77695,
+     "party": null,
+     "pct": 48.37,
+     "choice_id": "Tracy E. Van den Bergh",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Probate Judge",
+   "state": "MI",
+   "title": "Probate Judge",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Alethia Jean Battles",
+     "votes": 44063,
+     "party": null,
+     "pct": 41.51,
+     "choice_id": "Alethia Jean Battles",
+     "party_lines": null
+    },
+    {
+     "name": "Jennifer Lawrence",
+     "votes": 62091,
+     "party": null,
+     "pct": 58.49,
+     "choice_id": "Jennifer Lawrence",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Judge 14A District Court",
+   "state": "MI",
+   "title": "Judge 14A District Court",
+   "office_type": "judicial",
+   "district": "14",
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Anna Maria Frushour",
+     "votes": 51660,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Anna Maria Frushour",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Judge 14B District Court",
+   "state": "MI",
+   "title": "Judge 14B District Court",
+   "office_type": "judicial",
+   "district": "14",
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Erane C. Washington",
+     "votes": 8638,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Erane C. Washington",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Judge 15th District Court",
+   "state": "MI",
+   "title": "Judge 15th District Court",
+   "office_type": "judicial",
+   "district": "15",
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Tamara Garwood",
+     "votes": 23696,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Tamara Garwood",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "WCC Board Member",
+   "state": "MI",
+   "title": "WCC Board Member",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "David A. DeVarti",
+     "votes": 57081,
+     "party": null,
+     "pct": 27.45,
+     "choice_id": "David A. DeVarti",
+     "party_lines": null
+    },
+    {
+     "name": "Christina Fleming",
+     "votes": 70690,
+     "party": null,
+     "pct": 33.99,
+     "choice_id": "Christina Fleming",
+     "party_lines": null
+    },
+    {
+     "name": "Ruth Hatcher",
+     "votes": 47012,
+     "party": null,
+     "pct": 22.61,
+     "choice_id": "Ruth Hatcher",
+     "party_lines": null
+    },
+    {
+     "name": "Daniel J. Katanski",
+     "votes": 33177,
+     "party": null,
+     "pct": 15.95,
+     "choice_id": "Daniel J. Katanski",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Oakland CC Board Member",
+   "state": "MI",
+   "title": "Oakland CC Board Member",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Jose F. Aliaga",
+     "votes": 205,
+     "party": null,
+     "pct": 13.87,
+     "choice_id": "Jose F. Aliaga",
+     "party_lines": null
+    },
+    {
+     "name": "Marian Blocker",
+     "votes": 141,
+     "party": null,
+     "pct": 9.54,
+     "choice_id": "Marian Blocker",
+     "party_lines": null
+    },
+    {
+     "name": "MiVida M. Burrus",
+     "votes": 153,
+     "party": null,
+     "pct": 10.35,
+     "choice_id": "MiVida M. Burrus",
+     "party_lines": null
+    },
+    {
+     "name": "Jacqueline A. Kelly",
+     "votes": 305,
+     "party": null,
+     "pct": 20.64,
+     "choice_id": "Jacqueline A. Kelly",
+     "party_lines": null
+    },
+    {
+     "name": "Robin L. McGregor",
+     "votes": 305,
+     "party": null,
+     "pct": 20.64,
+     "choice_id": "Robin L. McGregor",
+     "party_lines": null
+    },
+    {
+     "name": "Alexandra Morgan",
+     "votes": 197,
+     "party": null,
+     "pct": 13.33,
+     "choice_id": "Alexandra Morgan",
+     "party_lines": null
+    },
+    {
+     "name": "Deborah Snyder",
+     "votes": 172,
+     "party": null,
+     "pct": 11.64,
+     "choice_id": "Deborah Snyder",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Schoolcraft Board Member",
+   "state": "MI",
+   "title": "Schoolcraft Board Member",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Brian D. Broderick",
+     "votes": 21,
+     "party": null,
+     "pct": 30.0,
+     "choice_id": "Brian D. Broderick",
+     "party_lines": null
+    },
+    {
+     "name": "Jackie Coleman",
+     "votes": 15,
+     "party": null,
+     "pct": 21.43,
+     "choice_id": "Jackie Coleman",
+     "party_lines": null
+    },
+    {
+     "name": "Candy R. Little",
+     "votes": 12,
+     "party": null,
+     "pct": 17.14,
+     "choice_id": "Candy R. Little",
+     "party_lines": null
+    },
+    {
+     "name": "Alexander D. Steward",
+     "votes": 22,
+     "party": null,
+     "pct": 31.43,
+     "choice_id": "Alexander D. Steward",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Schoolcraft - partial term",
+   "state": "MI",
+   "title": "Schoolcraft - partial term",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Joan Noricks",
+     "votes": 21,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Joan Noricks",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Dexter City Mayor",
+   "state": "MI",
+   "title": "Dexter City Mayor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Shawn W. Keough",
+     "votes": 1796,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Shawn W. Keough",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Dexter City Council",
+   "state": "MI",
+   "title": "Dexter City Council",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Sanam Aldag",
+     "votes": 1129,
+     "party": null,
+     "pct": 24.04,
+     "choice_id": "Sanam Aldag",
+     "party_lines": null
+    },
+    {
+     "name": "Kyle Marsh",
+     "votes": 1160,
+     "party": null,
+     "pct": 24.7,
+     "choice_id": "Kyle Marsh",
+     "party_lines": null
+    },
+    {
+     "name": "Dan Schlaff",
+     "votes": 1071,
+     "party": null,
+     "pct": 22.81,
+     "choice_id": "Dan Schlaff",
+     "party_lines": null
+    },
+    {
+     "name": "Joe Semifero",
+     "votes": 1336,
+     "party": null,
+     "pct": 28.45,
+     "choice_id": "Joe Semifero",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Dexter City Council partial",
+   "state": "MI",
+   "title": "Dexter City Council partial",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Pavlo Popov",
+     "votes": 714,
+     "party": null,
+     "pct": 43.25,
+     "choice_id": "Pavlo Popov",
+     "party_lines": null
+    },
+    {
+     "name": "Michael S. Williams",
+     "votes": 937,
+     "party": null,
+     "pct": 56.75,
+     "choice_id": "Michael S. Williams",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Saline City Mayor",
+   "state": "MI",
+   "title": "Saline City Mayor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Brian D. Marl",
+     "votes": 2243,
+     "party": null,
+     "pct": 44.9,
+     "choice_id": "Brian D. Marl",
+     "party_lines": null
+    },
+    {
+     "name": "Michael McVey",
+     "votes": 2752,
+     "party": null,
+     "pct": 55.1,
+     "choice_id": "Michael McVey",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Saline City Council",
+   "state": "MI",
+   "title": "Saline City Council",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Daniel P. Burgess",
+     "votes": 2422,
+     "party": null,
+     "pct": 32.38,
+     "choice_id": "Daniel P. Burgess",
+     "party_lines": null
+    },
+    {
+     "name": "Janet Dillon",
+     "votes": 2827,
+     "party": null,
+     "pct": 37.79,
+     "choice_id": "Janet Dillon",
+     "party_lines": null
+    },
+    {
+     "name": "Bret Pollington",
+     "votes": 2232,
+     "party": null,
+     "pct": 29.84,
+     "choice_id": "Bret Pollington",
+     "party_lines": null
+    },
+    {
+     "name": "Miri Weidner",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Miri Weidner",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Barton Hills Village Trustee",
+   "state": "MI",
+   "title": "Barton Hills Village Trustee",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Sheena Chandok Anand",
+     "votes": 140,
+     "party": null,
+     "pct": 21.57,
+     "choice_id": "Sheena Chandok Anand",
+     "party_lines": null
+    },
+    {
+     "name": "Walter Caldwell",
+     "votes": 95,
+     "party": null,
+     "pct": 14.64,
+     "choice_id": "Walter Caldwell",
+     "party_lines": null
+    },
+    {
+     "name": "Marcus M. Darden",
+     "votes": 131,
+     "party": null,
+     "pct": 20.18,
+     "choice_id": "Marcus M. Darden",
+     "party_lines": null
+    },
+    {
+     "name": "Robert Hensinger",
+     "votes": 156,
+     "party": null,
+     "pct": 24.04,
+     "choice_id": "Robert Hensinger",
+     "party_lines": null
+    },
+    {
+     "name": "Christopher J. Ryan",
+     "votes": 127,
+     "party": null,
+     "pct": 19.57,
+     "choice_id": "Christopher J. Ryan",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "AAPS Board Member",
+   "state": "MI",
+   "title": "AAPS Board Member",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Lyndon Dibble",
+     "votes": 6106,
+     "party": null,
+     "pct": 3.94,
+     "choice_id": "Lyndon Dibble",
+     "party_lines": null
+    },
+    {
+     "name": "Kelley Ellis",
+     "votes": 12373,
+     "party": null,
+     "pct": 7.98,
+     "choice_id": "Kelley Ellis",
+     "party_lines": null
+    },
+    {
+     "name": "Becca Hogan",
+     "votes": 28244,
+     "party": null,
+     "pct": 18.23,
+     "choice_id": "Becca Hogan",
+     "party_lines": null
+    },
+    {
+     "name": "Rima Mohammad",
+     "votes": 27553,
+     "party": null,
+     "pct": 17.78,
+     "choice_id": "Rima Mohammad",
+     "party_lines": null
+    },
+    {
+     "name": "Jennifer Oldham",
+     "votes": 12268,
+     "party": null,
+     "pct": 7.92,
+     "choice_id": "Jennifer Oldham",
+     "party_lines": null
+    },
+    {
+     "name": "Aaron J. Puno",
+     "votes": 19831,
+     "party": null,
+     "pct": 12.8,
+     "choice_id": "Aaron J. Puno",
+     "party_lines": null
+    },
+    {
+     "name": "Carolyn Siebers",
+     "votes": 13735,
+     "party": null,
+     "pct": 8.86,
+     "choice_id": "Carolyn Siebers",
+     "party_lines": null
+    },
+    {
+     "name": "Brandon Smith",
+     "votes": 25312,
+     "party": null,
+     "pct": 16.33,
+     "choice_id": "Brandon Smith",
+     "party_lines": null
+    },
+    {
+     "name": "Andy Spencer",
+     "votes": 9542,
+     "party": null,
+     "pct": 6.16,
+     "choice_id": "Andy Spencer",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "AAPS Board partial term",
+   "state": "MI",
+   "title": "AAPS Board partial term",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "John Benson",
+     "votes": 25343,
+     "party": null,
+     "pct": 62.39,
+     "choice_id": "John Benson",
+     "party_lines": null
+    },
+    {
+     "name": "Kevin A. Hudson",
+     "votes": 8880,
+     "party": null,
+     "pct": 21.86,
+     "choice_id": "Kevin A. Hudson",
+     "party_lines": null
+    },
+    {
+     "name": "Don Wilkerson",
+     "votes": 6399,
+     "party": null,
+     "pct": 15.75,
+     "choice_id": "Don Wilkerson",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Chelsea Schools Board",
+   "state": "MI",
+   "title": "Chelsea Schools Board",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Heather Scott",
+     "votes": 4550,
+     "party": null,
+     "pct": 36.28,
+     "choice_id": "Heather Scott",
+     "party_lines": null
+    },
+    {
+     "name": "Sara Tracy",
+     "votes": 4362,
+     "party": null,
+     "pct": 34.78,
+     "choice_id": "Sara Tracy",
+     "party_lines": null
+    },
+    {
+     "name": "Eric Wilkinson",
+     "votes": 3631,
+     "party": null,
+     "pct": 28.95,
+     "choice_id": "Eric Wilkinson",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Chelsea Schools partial",
+   "state": "MI",
+   "title": "Chelsea Schools partial",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Nicolia Heineman",
+     "votes": 3803,
+     "party": null,
+     "pct": 51.76,
+     "choice_id": "Nicolia Heineman",
+     "party_lines": null
+    },
+    {
+     "name": "Jake Steinhauer",
+     "votes": 3544,
+     "party": null,
+     "pct": 48.24,
+     "choice_id": "Jake Steinhauer",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Clinton Schools Board",
+   "state": "MI",
+   "title": "Clinton Schools Board",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Autumn Bodmer",
+     "votes": 150,
+     "party": null,
+     "pct": 25.25,
+     "choice_id": "Autumn Bodmer",
+     "party_lines": null
+    },
+    {
+     "name": "Steve Clegg",
+     "votes": 235,
+     "party": null,
+     "pct": 39.56,
+     "choice_id": "Steve Clegg",
+     "party_lines": null
+    },
+    {
+     "name": "Dale S. Wingerd",
+     "votes": 209,
+     "party": null,
+     "pct": 35.19,
+     "choice_id": "Dale S. Wingerd",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Clinton Schools partial",
+   "state": "MI",
+   "title": "Clinton Schools partial",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Zakary McNitt",
+     "votes": 208,
+     "party": null,
+     "pct": 56.06,
+     "choice_id": "Zakary McNitt",
+     "party_lines": null
+    },
+    {
+     "name": "Derrick Theisen",
+     "votes": 163,
+     "party": null,
+     "pct": 43.94,
+     "choice_id": "Derrick Theisen",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Columbia Schools Board",
+   "state": "MI",
+   "title": "Columbia Schools Board",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Cody Morehead",
+     "votes": 51,
+     "party": null,
+     "pct": 31.29,
+     "choice_id": "Cody Morehead",
+     "party_lines": null
+    },
+    {
+     "name": "Mark Neville",
+     "votes": 50,
+     "party": null,
+     "pct": 30.67,
+     "choice_id": "Mark Neville",
+     "party_lines": null
+    },
+    {
+     "name": "Lindsey L. Schiel",
+     "votes": 62,
+     "party": null,
+     "pct": 38.04,
+     "choice_id": "Lindsey L. Schiel",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Lincoln Schools Board Member",
+   "state": "MI",
+   "title": "Lincoln Schools Board Member",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "JaVon Jason",
+     "votes": 4683,
+     "party": null,
+     "pct": 49.33,
+     "choice_id": "JaVon Jason",
+     "party_lines": null
+    },
+    {
+     "name": "Jennifer LaBombarbe",
+     "votes": 4810,
+     "party": null,
+     "pct": 50.67,
+     "choice_id": "Jennifer LaBombarbe",
+     "party_lines": null
+    },
+    {
+     "name": "Gregory Myers",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Gregory Myers",
+     "party_lines": null
+    },
+    {
+     "name": "Jason Sperle",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Jason Sperle",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Dexter Schools Board",
+   "state": "MI",
+   "title": "Dexter Schools Board",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Elise Bruderly",
+     "votes": 6711,
+     "party": null,
+     "pct": 37.8,
+     "choice_id": "Elise Bruderly",
+     "party_lines": null
+    },
+    {
+     "name": "Heidi Patel",
+     "votes": 5540,
+     "party": null,
+     "pct": 31.21,
+     "choice_id": "Heidi Patel",
+     "party_lines": null
+    },
+    {
+     "name": "David Pisano",
+     "votes": 5501,
+     "party": null,
+     "pct": 30.99,
+     "choice_id": "David Pisano",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Grass Lake Schools Board",
+   "state": "MI",
+   "title": "Grass Lake Schools Board",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Shari Hein",
+     "votes": 14,
+     "party": null,
+     "pct": 37.84,
+     "choice_id": "Shari Hein",
+     "party_lines": null
+    },
+    {
+     "name": "Chris Maynard",
+     "votes": 12,
+     "party": null,
+     "pct": 32.43,
+     "choice_id": "Chris Maynard",
+     "party_lines": null
+    },
+    {
+     "name": "Nancy Riske",
+     "votes": 11,
+     "party": null,
+     "pct": 29.73,
+     "choice_id": "Nancy Riske",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Manchester Schools Board",
+   "state": "MI",
+   "title": "Manchester Schools Board",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Christopher M. Caron",
+     "votes": 781,
+     "party": null,
+     "pct": 10.28,
+     "choice_id": "Christopher M. Caron",
+     "party_lines": null
+    },
+    {
+     "name": "Michelle Champagne",
+     "votes": 1009,
+     "party": null,
+     "pct": 13.28,
+     "choice_id": "Michelle Champagne",
+     "party_lines": null
+    },
+    {
+     "name": "Christine Deacons",
+     "votes": 1340,
+     "party": null,
+     "pct": 17.64,
+     "choice_id": "Christine Deacons",
+     "party_lines": null
+    },
+    {
+     "name": "James Tobias",
+     "votes": 1783,
+     "party": null,
+     "pct": 23.47,
+     "choice_id": "James Tobias",
+     "party_lines": null
+    },
+    {
+     "name": "Joseph Walsh",
+     "votes": 1225,
+     "party": null,
+     "pct": 16.12,
+     "choice_id": "Joseph Walsh",
+     "party_lines": null
+    },
+    {
+     "name": "Sandra Wiitala",
+     "votes": 1459,
+     "party": null,
+     "pct": 19.2,
+     "choice_id": "Sandra Wiitala",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Manchester Schools partial",
+   "state": "MI",
+   "title": "Manchester Schools partial",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Logan Caszatt",
+     "votes": 1311,
+     "party": null,
+     "pct": 45.87,
+     "choice_id": "Logan Caszatt",
+     "party_lines": null
+    },
+    {
+     "name": "Celia Creger",
+     "votes": 279,
+     "party": null,
+     "pct": 9.76,
+     "choice_id": "Celia Creger",
+     "party_lines": null
+    },
+    {
+     "name": "Chelsea Kapuniai",
+     "votes": 681,
+     "party": null,
+     "pct": 23.83,
+     "choice_id": "Chelsea Kapuniai",
+     "party_lines": null
+    },
+    {
+     "name": "Heather Ramsey",
+     "votes": 587,
+     "party": null,
+     "pct": 20.54,
+     "choice_id": "Heather Ramsey",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Milan Area Schools Board",
+   "state": "MI",
+   "title": "Milan Area Schools Board",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Gabe Burdette",
+     "votes": 1919,
+     "party": null,
+     "pct": 25.85,
+     "choice_id": "Gabe Burdette",
+     "party_lines": null
+    },
+    {
+     "name": "Angela Chidester",
+     "votes": 2076,
+     "party": null,
+     "pct": 27.96,
+     "choice_id": "Angela Chidester",
+     "party_lines": null
+    },
+    {
+     "name": "George M. Elder IV",
+     "votes": 1419,
+     "party": null,
+     "pct": 19.11,
+     "choice_id": "George M. Elder IV",
+     "party_lines": null
+    },
+    {
+     "name": "Thomas Faro",
+     "votes": 2011,
+     "party": null,
+     "pct": 27.08,
+     "choice_id": "Thomas Faro",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Milan Schools partial term",
+   "state": "MI",
+   "title": "Milan Schools partial term",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Michelle Heikka",
+     "votes": 2495,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Michelle Heikka",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Napoleon Schools Board",
+   "state": "MI",
+   "title": "Napoleon Schools Board",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Nicholas Aniol",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Nicholas Aniol",
+     "party_lines": null
+    },
+    {
+     "name": "Tim Barker",
+     "votes": 1,
+     "party": null,
+     "pct": 33.33,
+     "choice_id": "Tim Barker",
+     "party_lines": null
+    },
+    {
+     "name": "Kody N. Naylor",
+     "votes": 1,
+     "party": null,
+     "pct": 33.33,
+     "choice_id": "Kody N. Naylor",
+     "party_lines": null
+    },
+    {
+     "name": "Kaitlynn Panak",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Kaitlynn Panak",
+     "party_lines": null
+    },
+    {
+     "name": "Tim Raftery",
+     "votes": 1,
+     "party": null,
+     "pct": 33.33,
+     "choice_id": "Tim Raftery",
+     "party_lines": null
+    },
+    {
+     "name": "Kelly Truchan",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Kelly Truchan",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Northville Schools Board",
+   "state": "MI",
+   "title": "Northville Schools Board",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Kimberly Campbell-Voytal",
+     "votes": 2,
+     "party": null,
+     "pct": 33.33,
+     "choice_id": "Kimberly Campbell-Voytal",
+     "party_lines": null
+    },
+    {
+     "name": "Michael Cook",
+     "votes": 2,
+     "party": null,
+     "pct": 33.33,
+     "choice_id": "Michael Cook",
+     "party_lines": null
+    },
+    {
+     "name": "Melissa Stuart",
+     "votes": 2,
+     "party": null,
+     "pct": 33.33,
+     "choice_id": "Melissa Stuart",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Pinckney Schools Board",
+   "state": "MI",
+   "title": "Pinckney Schools Board",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Rodolfo Gomez",
+     "votes": 98,
+     "party": null,
+     "pct": 31.01,
+     "choice_id": "Rodolfo Gomez",
+     "party_lines": null
+    },
+    {
+     "name": "Gayle Hurn",
+     "votes": 111,
+     "party": null,
+     "pct": 35.13,
+     "choice_id": "Gayle Hurn",
+     "party_lines": null
+    },
+    {
+     "name": "Matt Maciag",
+     "votes": 107,
+     "party": null,
+     "pct": 33.86,
+     "choice_id": "Matt Maciag",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Pinckney Schools partial term",
+   "state": "MI",
+   "title": "Pinckney Schools partial term",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Ashley M. Voss",
+     "votes": 121,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Ashley M. Voss",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Plymouth-Canton School Board",
+   "state": "MI",
+   "title": "Plymouth-Canton School Board",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Aamina Ahmed",
+     "votes": 62,
+     "party": null,
+     "pct": 20.33,
+     "choice_id": "Aamina Ahmed",
+     "party_lines": null
+    },
+    {
+     "name": "Dan Lemieux",
+     "votes": 86,
+     "party": null,
+     "pct": 28.2,
+     "choice_id": "Dan Lemieux",
+     "party_lines": null
+    },
+    {
+     "name": "Craig Olzak",
+     "votes": 83,
+     "party": null,
+     "pct": 27.21,
+     "choice_id": "Craig Olzak",
+     "party_lines": null
+    },
+    {
+     "name": "Joe Tollefson",
+     "votes": 74,
+     "party": null,
+     "pct": 24.26,
+     "choice_id": "Joe Tollefson",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Plymouth-Canton PS partial",
+   "state": "MI",
+   "title": "Plymouth-Canton PS partial",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Lester Booker, Jr.",
+     "votes": 78,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Lester Booker, Jr.",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Saline Area Schools Board",
+   "state": "MI",
+   "title": "Saline Area Schools Board",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Afifa Corrigan",
+     "votes": 6570,
+     "party": null,
+     "pct": 18.43,
+     "choice_id": "Afifa Corrigan",
+     "party_lines": null
+    },
+    {
+     "name": "Christy Lillie",
+     "votes": 8169,
+     "party": null,
+     "pct": 22.91,
+     "choice_id": "Christy Lillie",
+     "party_lines": null
+    },
+    {
+     "name": "Andrea S. Roe",
+     "votes": 5786,
+     "party": null,
+     "pct": 16.23,
+     "choice_id": "Andrea S. Roe",
+     "party_lines": null
+    },
+    {
+     "name": "Matt Shoemaker",
+     "votes": 6598,
+     "party": null,
+     "pct": 18.51,
+     "choice_id": "Matt Shoemaker",
+     "party_lines": null
+    },
+    {
+     "name": "Carl Spina",
+     "votes": 8528,
+     "party": null,
+     "pct": 23.92,
+     "choice_id": "Carl Spina",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Saline Schools partial",
+   "state": "MI",
+   "title": "Saline Schools partial",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Timothy Austin",
+     "votes": 7456,
+     "party": null,
+     "pct": 57.76,
+     "choice_id": "Timothy Austin",
+     "party_lines": null
+    },
+    {
+     "name": "Deandre J. Calvert",
+     "votes": 1606,
+     "party": null,
+     "pct": 12.44,
+     "choice_id": "Deandre J. Calvert",
+     "party_lines": null
+    },
+    {
+     "name": "Charlie Hirst",
+     "votes": 3847,
+     "party": null,
+     "pct": 29.8,
+     "choice_id": "Charlie Hirst",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "South Lyon Schools Board",
+   "state": "MI",
+   "title": "South Lyon Schools Board",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Tod Cunningham",
+     "votes": 938,
+     "party": null,
+     "pct": 48.85,
+     "choice_id": "Tod Cunningham",
+     "party_lines": null
+    },
+    {
+     "name": "Michele Lake",
+     "votes": 982,
+     "party": null,
+     "pct": 51.15,
+     "choice_id": "Michele Lake",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Stockbridge Schools Board",
+   "state": "MI",
+   "title": "Stockbridge Schools Board",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Jimmy Chapman",
+     "votes": 100,
+     "party": null,
+     "pct": 34.72,
+     "choice_id": "Jimmy Chapman",
+     "party_lines": null
+    },
+    {
+     "name": "Keven Numinen",
+     "votes": 95,
+     "party": null,
+     "pct": 32.99,
+     "choice_id": "Keven Numinen",
+     "party_lines": null
+    },
+    {
+     "name": "Justin J. Richardson",
+     "votes": 93,
+     "party": null,
+     "pct": 32.29,
+     "choice_id": "Justin J. Richardson",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Van Buren Schools Board",
+   "state": "MI",
+   "title": "Van Buren Schools Board",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Darlene Loyer Gerick",
+     "votes": 223,
+     "party": null,
+     "pct": 33.69,
+     "choice_id": "Darlene Loyer Gerick",
+     "party_lines": null
+    },
+    {
+     "name": "Calvin H. Hawkins, Jr.",
+     "votes": 213,
+     "party": null,
+     "pct": 32.18,
+     "choice_id": "Calvin H. Hawkins, Jr.",
+     "party_lines": null
+    },
+    {
+     "name": "Amy T. Pearce",
+     "votes": 226,
+     "party": null,
+     "pct": 34.14,
+     "choice_id": "Amy T. Pearce",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Whitmore Lake Schools",
+   "state": "MI",
+   "title": "Whitmore Lake Schools",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Greg Ebel",
+     "votes": 1676,
+     "party": null,
+     "pct": 47.93,
+     "choice_id": "Greg Ebel",
+     "party_lines": null
+    },
+    {
+     "name": "Jennifer Germaine",
+     "votes": 1821,
+     "party": null,
+     "pct": 52.07,
+     "choice_id": "Jennifer Germaine",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Ypsilanti Schools Board",
+   "state": "MI",
+   "title": "Ypsilanti Schools Board",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Yvonne M. Fields",
+     "votes": 10585,
+     "party": null,
+     "pct": 48.71,
+     "choice_id": "Yvonne M. Fields",
+     "party_lines": null
+    },
+    {
+     "name": "KJ Pedri",
+     "votes": 5569,
+     "party": null,
+     "pct": 25.63,
+     "choice_id": "KJ Pedri",
+     "party_lines": null
+    },
+    {
+     "name": "Jason Sprague",
+     "votes": 5577,
+     "party": null,
+     "pct": 25.66,
+     "choice_id": "Jason Sprague",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Ann Arbor Library Board",
+   "state": "MI",
+   "title": "Ann Arbor Library Board",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Zach Buck",
+     "votes": 12695,
+     "party": null,
+     "pct": 12.55,
+     "choice_id": "Zach Buck",
+     "party_lines": null
+    },
+    {
+     "name": "Rachel Goldberg",
+     "votes": 32156,
+     "party": null,
+     "pct": 31.79,
+     "choice_id": "Rachel Goldberg",
+     "party_lines": null
+    },
+    {
+     "name": "Cassie Haynes",
+     "votes": 31413,
+     "party": null,
+     "pct": 31.05,
+     "choice_id": "Cassie Haynes",
+     "party_lines": null
+    },
+    {
+     "name": "Gaurav Kulkarni",
+     "votes": 24897,
+     "party": null,
+     "pct": 24.61,
+     "choice_id": "Gaurav Kulkarni",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Salem-South Lyon Library",
+   "state": "MI",
+   "title": "Salem-South Lyon Library",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Linda Hamilton",
+     "votes": 728,
+     "party": null,
+     "pct": 30.1,
+     "choice_id": "Linda Hamilton",
+     "party_lines": null
+    },
+    {
+     "name": "Laura S. Hatch",
+     "votes": 550,
+     "party": null,
+     "pct": 22.74,
+     "choice_id": "Laura S. Hatch",
+     "party_lines": null
+    },
+    {
+     "name": "Hattie Maguire",
+     "votes": 595,
+     "party": null,
+     "pct": 24.6,
+     "choice_id": "Hattie Maguire",
+     "party_lines": null
+    },
+    {
+     "name": "Russell L. Sims",
+     "votes": 546,
+     "party": null,
+     "pct": 22.57,
+     "choice_id": "Russell L. Sims",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Ypsilanti Library Board",
+   "state": "MI",
+   "title": "Ypsilanti Library Board",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Kristy Cooper",
+     "votes": 11936,
+     "party": null,
+     "pct": 27.67,
+     "choice_id": "Kristy Cooper",
+     "party_lines": null
+    },
+    {
+     "name": "Paul Leighton",
+     "votes": 10693,
+     "party": null,
+     "pct": 24.79,
+     "choice_id": "Paul Leighton",
+     "party_lines": null
+    },
+    {
+     "name": "Patricia J. Horne McGee",
+     "votes": 10729,
+     "party": null,
+     "pct": 24.87,
+     "choice_id": "Patricia J. Horne McGee",
+     "party_lines": null
+    },
+    {
+     "name": "Kerri Pepperman",
+     "votes": 9784,
+     "party": null,
+     "pct": 22.68,
+     "choice_id": "Kerri Pepperman",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Ypsilanti Library partial",
+   "state": "MI",
+   "title": "Ypsilanti Library partial",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Christopher Slat",
+     "votes": 14700,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Christopher Slat",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Prop 2026-01 Const Conv",
+   "state": "MI",
+   "title": "Prop 2026-01 Const Conv",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 30305,
+     "party": null,
+     "pct": 21.45,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 110956,
+     "party": null,
+     "pct": 78.55,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Prop 2026-02 $$ out of politics",
+   "state": "MI",
+   "title": "Prop 2026-02 $$ out of politics",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 124475,
+     "party": null,
+     "pct": 86.21,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 19915,
+     "party": null,
+     "pct": 13.79,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "City of Ann Arbor Prop A",
+   "state": "MI",
+   "title": "City of Ann Arbor Prop A",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 26608,
+     "party": null,
+     "pct": 68.01,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 12515,
+     "party": null,
+     "pct": 31.99,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "City of Ann Arbor Prop B",
+   "state": "MI",
+   "title": "City of Ann Arbor Prop B",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 24971,
+     "party": null,
+     "pct": 64.54,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 13722,
+     "party": null,
+     "pct": 35.46,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "City of Ann Arbor Prop C",
+   "state": "MI",
+   "title": "City of Ann Arbor Prop C",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 24681,
+     "party": null,
+     "pct": 68.47,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 11363,
+     "party": null,
+     "pct": 31.53,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "City of Ann Arbor Prop D",
+   "state": "MI",
+   "title": "City of Ann Arbor Prop D",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 22875,
+     "party": null,
+     "pct": 67.17,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 11179,
+     "party": null,
+     "pct": 32.83,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "City of Ann Arbor Prop E",
+   "state": "MI",
+   "title": "City of Ann Arbor Prop E",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 19440,
+     "party": null,
+     "pct": 49.36,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 19944,
+     "party": null,
+     "pct": 50.64,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Milan Fire Special Assessment",
+   "state": "MI",
+   "title": "Milan Fire Special Assessment",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1369,
+     "party": null,
+     "pct": 65.16,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 732,
+     "party": null,
+     "pct": 34.84,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Ypsi City Prop for NP Elections",
+   "state": "MI",
+   "title": "Ypsi City Prop for NP Elections",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2540,
+     "party": null,
+     "pct": 34.91,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 4735,
+     "party": null,
+     "pct": 65.09,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Ypsi City Prop Police Budget",
+   "state": "MI",
+   "title": "Ypsi City Prop Police Budget",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 4027,
+     "party": null,
+     "pct": 53.44,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 3508,
+     "party": null,
+     "pct": 46.56,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "City of Dexter Park Proposal",
+   "state": "MI",
+   "title": "City of Dexter Park Proposal",
+   "office_type": "measure",
+   "district": "city of dexter park proposal",
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2314,
+     "party": null,
+     "pct": 89.07,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 284,
+     "party": null,
+     "pct": 10.93,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Saline Area Fire Authority",
+   "state": "MI",
+   "title": "Saline Area Fire Authority",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 9008,
+     "party": null,
+     "pct": 60.96,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 5768,
+     "party": null,
+     "pct": 39.04,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Augusta Fire Millage Increase",
+   "state": "MI",
+   "title": "Augusta Fire Millage Increase",
+   "office_type": "measure",
+   "district": "augusta fire millage increase",
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1663,
+     "party": null,
+     "pct": 43.56,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 2155,
+     "party": null,
+     "pct": 56.44,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Manchester Fire Millage Renew",
+   "state": "MI",
+   "title": "Manchester Fire Millage Renew",
+   "office_type": "measure",
+   "district": "manchester fire millage renew",
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1079,
+     "party": null,
+     "pct": 71.03,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 440,
+     "party": null,
+     "pct": 28.97,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Northfield Twp Fire Millage",
+   "state": "MI",
+   "title": "Northfield Twp Fire Millage",
+   "office_type": "measure",
+   "district": "northfield twp fire millage",
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2771,
+     "party": null,
+     "pct": 60.85,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 1783,
+     "party": null,
+     "pct": 39.15,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Scio Twp Road Millage",
+   "state": "MI",
+   "title": "Scio Twp Road Millage",
+   "office_type": "measure",
+   "district": "scio twp road millage",
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 4010,
+     "party": null,
+     "pct": 53.96,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 3422,
+     "party": null,
+     "pct": 46.04,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Clinton Schools Millage Renew",
+   "state": "MI",
+   "title": "Clinton Schools Millage Renew",
+   "office_type": "measure",
+   "district": "clinton schools millage renew",
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 369,
+     "party": null,
+     "pct": 62.33,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 223,
+     "party": null,
+     "pct": 37.67,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "mi.washtenaw",
+   "contest_id": "Schoolcraft Operating Millage",
+   "state": "MI",
+   "title": "Schoolcraft Operating Millage",
+   "office_type": "measure",
+   "district": "schoolcraft operating millage",
+   "jurisdiction": "Washtenaw County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 112,
+    "pct": null,
+    "text": "Countywide, 36 of 112 precincts fully counted",
+    "as_percent": false
+   },
+   "feed_updated_at": "2026-11-03T22:46:41-05:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 33,
+     "party": null,
+     "pct": 62.26,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 20,
+     "party": null,
+     "pct": 37.74,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  }
+ ],
+ "contests_hash": "fc39dade96ca72fe",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-04T04:24:45+00:00",
+ "fetched_at": "2026-11-04T04:24:45+00:00",
+ "contests_changed_at": "2026-11-04T04:24:45+00:00"
+}
