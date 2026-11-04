@@ -35,8 +35,9 @@ See also [election-results-scraper-plan.md](election-results-scraper-plan.md) (d
 | 2:16am | 625 | 523 | Connecticut (2 more) |
 | 3:35am | 628 | 524 | Connecticut (3 more) |
 | 9:46am | 628 | 523 | (none new; morning updates) |
+| 10:00am | 825 | 663 | 15 NY counties on Enhanced Voting, Chautauqua NY, San Diego, San Mateo, San Bernardino (new sources) |
 
-Still missing at 9:46am: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
+Still missing at 10:00am: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
 
 ---
 
@@ -408,6 +409,27 @@ Fixes made while building:
 - Close leads in Pennsylvania with mail ballots still out: Meriam Sabih (HD-131) +673, Rachel Cuevas (HD-187) +677,
   Mark Pinsley (SD-16) +3,101.
 
+### 10:00am: tier 1 county sources
+
+- 19 new county sources, 197 more races with votes (825 in all), WFP leading 140 of them (663 in all).
+- **New York, 15 counties on Enhanced Voting:** Orange, Monroe, Broome, Oneida, Rockland, Clinton, Suffolk, Putnam,
+  Rensselaer, Columbia, Cattaraugus, Chemung, Dutchess, Ulster, Sullivan. Found by trying
+  `app.enhancedvoting.com/results/public/api/jurisdictions/<name>-county-ny` for every county with a WFP race.
+  Dutchess and Ulster, which I'd expected to need PDF parsing, are on it too.
+- **Chautauqua NY:** its results site (`enr.chqvotes.com`) reads one XML file, `Default_3_0.xml`; new parser.
+- **San Diego, San Mateo, San Bernardino:** Live Voter Turnout, like Orange County. San Diego's results address
+  redirects to the results page itself; San Bernardino's forwards browsers by script, so the source points at the
+  Live Voter Turnout page directly.
+- Fixes: Monroe, Rockland and Suffolk prefix the Working Families line ("WOR Kevin Berry"), which left two choices
+  per candidate; the prefix is stripped so the lines combine. San Diego appends the party ("XAVIER BECERRA (DEM)").
+- Confirmed by hand: 20 first-name variants (Stephen/Steven Krasner, Chris/Christopher Drago, Chuck/Charles Kostyk,
+  Nate/Nathaniel Salzman and others, each with the same surname and district) and Bernard "Bernie" Rivers (Orange
+  County Sheriff).
+- Not found in the county's results: Alexandria Smith (Town of Ulster board; Ulster lists only an unexpired-term
+  seat) and Melissa First (Chautauqua Legislature District 17; only Travis Heiser is listed).
+- Close among the new ones: Steven Krasner (Newburgh supervisor) 50.0%, Kyle Fendrich (Dutchess LD-15) 49.9%, Trish
+  Prunty (Dutchess LD-7) 49.6%, Alex Scialdone (Webster supervisor) and Emily Wallace-Kalouch (Chili supervisor) 49.5%.
+
 ## Feed quirks worth remembering
 
 | Source | Quirk | How it's handled |
@@ -431,6 +453,10 @@ Fixes made while building:
 | Wayne County (MI) | County site 403s; results are on TotalVote | Scraped from `michigan.totalvote.com/Wayne` |
 | Washtenaw County (MI) | Results URL includes the election (`nov2026`); precincts counted is countywide only | URL built from the election date; countywide text |
 | Bay County (MI) | PDFs only | Read by hand |
+| Enhanced Voting (Monroe, Rockland, Suffolk) | Fusion line named "WOR <candidate>" | Prefix stripped so the lines combine |
+| Live Voter Turnout (San Diego) | No contest groups; party appended to names | State and district offices, appellate courts and numbered propositions marked partial by title |
+| Live Voter Turnout (San Bernardino) | County page forwards to the results by script | Source points at the Live Voter Turnout page |
+| Chautauqua (NY) | One XML file; state races filed under "New York State" | Those marked partial; place name added to town and village titles |
 | Oregon | Vote by mail; precincts-reporting stays at 0 while votes come in | Shown as reported; worth replacing with a count or hiding |
 
 ## Still open
@@ -444,8 +470,11 @@ Fixes made while building:
   report).
 - Massachusetts, Kentucky and Maine have no source; their federal races wait on manual entries.
 - Milwaukee's six races only update when re-entered by hand.
-- Dutchess and Ulster (66 NY races) post PDFs; not built.
-- Onondaga (21 NY races) uses Results Caster and may work with `platforms/resultscaster.py` if its site is
-  reachable.
+- New York counties still without a source: Onondaga (21; ongov.net doesn't answer scripts, and it isn't on Enhanced
+  Voting), Niagara (11; `ny.votereporting.com` returns 403), Albany (5), Saratoga (3) and single races elsewhere.
+- California counties still without a source: Alameda (15), San Francisco (13, blocked), Riverside (11, blocked),
+  Santa Barbara (7), Kern (5), Fresno and Tulare (4 each), Santa Cruz and Stanislaus (3 each).
+- Eight California propositions stay in review: several county sources carry their own share, and the state API's
+  copy doesn't match on its own.
 - Races that cross county lines (for example Nathalia Fernandez, SD-34) only have partial shares and stay off the
   dashboard until partials can be summed.

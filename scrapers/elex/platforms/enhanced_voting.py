@@ -69,9 +69,9 @@ def parse(payload: dict, *, source_id: str, state: str, jurisdiction: str, skip_
             if option.get("isWriteIn") and not option.get("voteCount"):
                 continue
             # RI appends the party to the name ("Amy J. Santiago (DEM)"); Utah's county files prefix it
-            # ("DEM DAVID CHAPPELL").
+            # ("DEM DAVID CHAPPELL"); Monroe, Rockland and Suffolk prefix the fusion line ("WOR Kevin Berry").
             label = re.sub(r"\s*\((?:DEM|REP|IND|Ind|Soc|LIB|GRN|Lib|Grn|NP|[A-Z][a-z]{2})\)\s*$", "", label)
-            label = re.sub(r"^(?:DEM|REP|LIB|CON|UNA|FWD|IAP|GRN|IND)\s+(?=\S)", "", label)
+            label = re.sub(r"^(?:DEM|REP|LIB|CON|UNA|FWD|IAP|GRN|IND|WOR|WFP)\s+(?=\S)", "", label)
             party = option.get("party")
             code = names.party(_text(party.get("name")) if isinstance(party, dict) else party)
             votes = names.to_int(option.get("voteCount"))

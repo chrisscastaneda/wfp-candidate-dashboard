@@ -1,0 +1,1680 @@
+{
+ "source": "ny.clinton",
+ "contests": [
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-322e-08df1ff45904",
+   "state": "NY",
+   "title": "Governor and Lieutenant Governor",
+   "office_type": "governor",
+   "district": null,
+   "jurisdiction": "Clinton County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 51,
+    "pct": 0.0,
+    "text": "0 of 51 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "Kathy C. Hochul",
+     "votes": 12926,
+     "party": "DEM",
+     "pct": 45.18,
+     "choice_id": "01000000-99e5-71fc-3c27-08df1ff45904",
+     "party_lines": {
+      "DEM": 12003,
+      "WFP": 923
+     }
+    },
+    {
+     "name": "Bruce A. Blakeman",
+     "votes": 15644,
+     "party": "REP",
+     "pct": 54.68,
+     "choice_id": "01000000-99e5-71fc-3e1e-08df1ff45904",
+     "party_lines": {
+      "REP": 13920,
+      "CONSERVATIVE": 1239,
+      "VOTE AFFORDA": 485
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 40,
+     "party": null,
+     "pct": 0.14,
+     "choice_id": "01000000-99e5-71fc-3e8c-08df1ff45904",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-3e96-08df1ff45904",
+   "state": "NY",
+   "title": "Comptroller",
+   "office_type": "controller",
+   "district": null,
+   "jurisdiction": "Clinton County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 51,
+    "pct": 0.0,
+    "text": "0 of 51 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "Thomas P. DiNapoli",
+     "votes": 16727,
+     "party": "DEM",
+     "pct": 59.37,
+     "choice_id": "01000000-99e5-71fc-3ec5-08df1ff45904",
+     "party_lines": {
+      "DEM": 15054,
+      "WFP": 1673
+     }
+    },
+    {
+     "name": "Joseph Hernandez",
+     "votes": 11438,
+     "party": "REP",
+     "pct": 40.6,
+     "choice_id": "01000000-99e5-71fc-3ed7-08df1ff45904",
+     "party_lines": {
+      "REP": 10436,
+      "CONSERVATIVE": 1002
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 9,
+     "party": null,
+     "pct": 0.03,
+     "choice_id": "01000000-99e5-71fc-3ef2-08df1ff45904",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-3ef8-08df1ff45904",
+   "state": "NY",
+   "title": "Attorney General",
+   "office_type": "attorney_general",
+   "district": null,
+   "jurisdiction": "Clinton County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 51,
+    "pct": 0.0,
+    "text": "0 of 51 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "Letitia A. James",
+     "votes": 14851,
+     "party": "DEM",
+     "pct": 52.6,
+     "choice_id": "01000000-99e5-71fc-3f0f-08df1ff45904",
+     "party_lines": {
+      "DEM": 13512,
+      "WFP": 1339
+     }
+    },
+    {
+     "name": "Saritha Komatireddy",
+     "votes": 13372,
+     "party": "REP",
+     "pct": 47.36,
+     "choice_id": "01000000-99e5-71fc-3f29-08df1ff45904",
+     "party_lines": {
+      "REP": 12175,
+      "CONSERVATIVE": 1197
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 9,
+     "party": null,
+     "pct": 0.03,
+     "choice_id": "01000000-99e5-71fc-3f42-08df1ff45904",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-3f4a-08df1ff45904",
+   "state": "NY",
+   "title": "Representative in Congress 21st District - CD 21",
+   "office_type": "federal_house",
+   "district": "21",
+   "jurisdiction": "Clinton County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 51,
+    "pct": 0.0,
+    "text": "0 of 51 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "Blake Gendebien",
+     "votes": 16692,
+     "party": "DEM",
+     "pct": 58.64,
+     "choice_id": "01000000-99e5-71fc-3f5f-08df1ff45904",
+     "party_lines": {
+      "DEM": 16692
+     }
+    },
+    {
+     "name": "Anthony Constantino",
+     "votes": 11715,
+     "party": "REP",
+     "pct": 41.15,
+     "choice_id": "01000000-99e5-71fc-3f6e-08df1ff45904",
+     "party_lines": {
+      "REP": 11565,
+      "TAXPAYER RIG": 150
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 59,
+     "party": null,
+     "pct": 0.21,
+     "choice_id": "01000000-99e5-71fc-3f89-08df1ff45904",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-3f8c-08df1ff45904",
+   "state": "NY",
+   "title": "State Senator 45th District - SD 45",
+   "office_type": "state_senate",
+   "district": "45",
+   "jurisdiction": "Clinton County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 51,
+    "pct": 0.0,
+    "text": "0 of 51 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "Melissa T. Seale",
+     "votes": 13062,
+     "party": "DEM",
+     "pct": 45.79,
+     "choice_id": "01000000-99e5-71fc-3f9f-08df1ff45904",
+     "party_lines": {
+      "DEM": 11983,
+      "WFP": 1079
+     }
+    },
+    {
+     "name": "Daniel G. Stec",
+     "votes": 15452,
+     "party": "REP",
+     "pct": 54.17,
+     "choice_id": "01000000-99e5-71fc-3fb6-08df1ff45904",
+     "party_lines": {
+      "REP": 14057,
+      "CONSERVATIVE": 1395
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 9,
+     "party": null,
+     "pct": 0.03,
+     "choice_id": "01000000-99e5-71fc-3fd2-08df1ff45904",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-3fd7-08df1ff45904",
+   "state": "NY",
+   "title": "Member of Assembly 115th District - AD 115",
+   "office_type": "state_house",
+   "district": "115",
+   "jurisdiction": "Clinton County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 51,
+    "pct": 0.0,
+    "text": "0 of 51 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "Michael Cashman",
+     "votes": 20900,
+     "party": "DEM",
+     "pct": 99.24,
+     "choice_id": "01000000-99e5-71fc-3feb-08df1ff45904",
+     "party_lines": {
+      "DEM": 17022,
+      "WFP": 3878
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 159,
+     "party": null,
+     "pct": 0.76,
+     "choice_id": "01000000-99e5-71fc-4008-08df1ff45904",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-400c-08df1ff45904",
+   "state": "NY",
+   "title": "Sheriff",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Clinton County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 51,
+    "pct": 0.0,
+    "text": "0 of 51 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "David N. Favro",
+     "votes": 12702,
+     "party": "DEM",
+     "pct": 44.76,
+     "choice_id": "01000000-99e5-71fc-4021-08df1ff45904",
+     "party_lines": {
+      "DEM": 12702
+     }
+    },
+    {
+     "name": "Brent Davison",
+     "votes": 15632,
+     "party": "REP",
+     "pct": 55.08,
+     "choice_id": "01000000-99e5-71fc-4032-08df1ff45904",
+     "party_lines": {
+      "REP": 13957,
+      "CONSERVATIVE": 1675
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 44,
+     "party": null,
+     "pct": 0.16,
+     "choice_id": "01000000-99e5-71fc-4053-08df1ff45904",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-4058-08df1ff45904",
+   "state": "NY",
+   "title": "County Coroner",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Clinton County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 51,
+    "pct": 0.0,
+    "text": "0 of 51 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "R. Scott Ewing",
+     "votes": 15882,
+     "party": "DEM",
+     "pct": 56.58,
+     "choice_id": "01000000-99e5-71fc-406d-08df1ff45904",
+     "party_lines": {
+      "DEM": 15882
+     }
+    },
+    {
+     "name": "Cliff Berg",
+     "votes": 12163,
+     "party": "REP",
+     "pct": 43.33,
+     "choice_id": "01000000-99e5-71fc-407d-08df1ff45904",
+     "party_lines": {
+      "REP": 11008,
+      "CONSERVATIVE": 1155
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 25,
+     "party": null,
+     "pct": 0.09,
+     "choice_id": "01000000-99e5-71fc-4095-08df1ff45904",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-409b-08df1ff45904",
+   "state": "NY",
+   "title": "City Councilor Ward 2 (3 Year Term) - Ward 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Clinton County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "Jim Evans",
+     "votes": 627,
+     "party": "DEM",
+     "pct": 68.3,
+     "choice_id": "01000000-99e5-71fc-40b1-08df1ff45904",
+     "party_lines": {
+      "DEM": 627
+     }
+    },
+    {
+     "name": "Damion Gilbert",
+     "votes": 291,
+     "party": "REP",
+     "pct": 31.7,
+     "choice_id": "01000000-99e5-71fc-40c1-08df1ff45904",
+     "party_lines": {
+      "REP": 286,
+      "COMMUNITY FI": 5
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-40e8-08df1ff45904",
+   "state": "NY",
+   "title": "City Councilor Ward 3 (1 Year Unexpired Term) - Ward 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Clinton County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "Write-in",
+     "votes": 123,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "01000000-99e5-71fc-410d-08df1ff45904",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-4110-08df1ff45904",
+   "state": "NY",
+   "title": "City Councilor Ward 5 (3 Year Term) - Ward 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Clinton County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "David Monette",
+     "votes": 670,
+     "party": "DEM",
+     "pct": 72.59,
+     "choice_id": "01000000-99e5-71fc-4125-08df1ff45904",
+     "party_lines": {
+      "DEM": 670
+     }
+    },
+    {
+     "name": "Marvin D. Shaw, Jr.",
+     "votes": 250,
+     "party": "WFP",
+     "pct": 27.09,
+     "choice_id": "01000000-99e5-71fc-4136-08df1ff45904",
+     "party_lines": {
+      "WFP": 250
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.33,
+     "choice_id": "01000000-99e5-71fc-414c-08df1ff45904",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-4151-08df1ff45904",
+   "state": "NY",
+   "title": "Town Supervisor (1 Year Unexpired Term) - Town of Altona",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Clinton County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "Brady Smart",
+     "votes": 697,
+     "party": "REP",
+     "pct": 98.59,
+     "choice_id": "01000000-99e5-71fc-4166-08df1ff45904",
+     "party_lines": {
+      "REP": 697
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 10,
+     "party": null,
+     "pct": 1.41,
+     "choice_id": "01000000-99e5-71fc-417f-08df1ff45904",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-4189-08df1ff45904",
+   "state": "NY",
+   "title": "Town Councilperson (1 Year Unexpired Term) - Town of Altona",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Clinton County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "Michael Coty",
+     "votes": 687,
+     "party": "REP",
+     "pct": 99.13,
+     "choice_id": "01000000-99e5-71fc-419e-08df1ff45904",
+     "party_lines": {
+      "REP": 687
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 6,
+     "party": null,
+     "pct": 0.87,
+     "choice_id": "01000000-99e5-71fc-41b6-08df1ff45904",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-41b9-08df1ff45904",
+   "state": "NY",
+   "title": "Town Supervisor - Town of Clinton",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Clinton County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "Daniel L. LaClair",
+     "votes": 188,
+     "party": "DEM",
+     "pct": 98.43,
+     "choice_id": "01000000-99e5-71fc-41ce-08df1ff45904",
+     "party_lines": {
+      "DEM": 188
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 1.57,
+     "choice_id": "01000000-99e5-71fc-41e7-08df1ff45904",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-41e9-08df1ff45904",
+   "state": "NY",
+   "title": "Town Clerk - Town of Clinton",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Clinton County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "Write-in",
+     "votes": 47,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "01000000-99e5-71fc-4206-08df1ff45904",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-4209-08df1ff45904",
+   "state": "NY",
+   "title": "Tax Collector - Town of Clinton",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Clinton County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "Cindy M. Helm",
+     "votes": 200,
+     "party": "DEM",
+     "pct": 99.5,
+     "choice_id": "01000000-99e5-71fc-4225-08df1ff45904",
+     "party_lines": {
+      "DEM": 200
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.5,
+     "choice_id": "01000000-99e5-71fc-423b-08df1ff45904",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-4240-08df1ff45904",
+   "state": "NY",
+   "title": "Town Councilperson (1 Year Unexpired Term) - Town of Dannemora",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Clinton County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "Lauren Lyon",
+     "votes": 293,
+     "party": "DEM",
+     "pct": 42.71,
+     "choice_id": "01000000-99e5-71fc-4255-08df1ff45904",
+     "party_lines": {
+      "DEM": 293
+     }
+    },
+    {
+     "name": "Zachary Hoyt",
+     "votes": 393,
+     "party": "REP",
+     "pct": 57.29,
+     "choice_id": "01000000-99e5-71fc-4265-08df1ff45904",
+     "party_lines": {
+      "REP": 393
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-4281-08df1ff45904",
+   "state": "NY",
+   "title": "Tax Collector - Town of Ellenburg",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Clinton County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "Christine M. Gregory",
+     "votes": 378,
+     "party": "DEM",
+     "pct": 52.07,
+     "choice_id": "01000000-99e5-71fc-4297-08df1ff45904",
+     "party_lines": {
+      "DEM": 378
+     }
+    },
+    {
+     "name": "Amanda Kerr",
+     "votes": 348,
+     "party": "REP",
+     "pct": 47.93,
+     "choice_id": "01000000-99e5-71fc-42a7-08df1ff45904",
+     "party_lines": {
+      "REP": 348
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-42c9-08df1ff45904",
+   "state": "NY",
+   "title": "Town Councilperson (1 Year Unexpired Term) - Town of Peru",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Clinton County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "Dwane D. Bast",
+     "votes": 1858,
+     "party": "REP",
+     "pct": 98.99,
+     "choice_id": "01000000-99e5-71fc-42df-08df1ff45904",
+     "party_lines": {
+      "REP": 1858
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 19,
+     "party": null,
+     "pct": 1.01,
+     "choice_id": "01000000-99e5-71fc-42f6-08df1ff45904",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-42f9-08df1ff45904",
+   "state": "NY",
+   "title": "Town Supervisor (1 Year Unexpired Term) - Town of Plattsburgh",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Clinton County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": "0 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "Chuck Kostyk",
+     "votes": 3549,
+     "party": "DEM",
+     "pct": 99.44,
+     "choice_id": "01000000-99e5-71fc-430e-08df1ff45904",
+     "party_lines": {
+      "DEM": 2915,
+      "WFP": 634
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 20,
+     "party": null,
+     "pct": 0.56,
+     "choice_id": "01000000-99e5-71fc-4326-08df1ff45904",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-432b-08df1ff45904",
+   "state": "NY",
+   "title": "Town Councilperson (1 Year Unexpired Term) - Town of Plattsburgh",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Clinton County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": "0 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "Ilona M. Kelting",
+     "votes": 3480,
+     "party": "DEM",
+     "pct": 99.49,
+     "choice_id": "01000000-99e5-71fc-4341-08df1ff45904",
+     "party_lines": {
+      "DEM": 2821,
+      "WFP": 659
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 18,
+     "party": null,
+     "pct": 0.51,
+     "choice_id": "01000000-99e5-71fc-4357-08df1ff45904",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-4367-08df1ff45904",
+   "state": "NY",
+   "title": "Town Clerk (1 Year Unexpired Term) - Town of Plattsburgh",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Clinton County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": "0 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "Jay White",
+     "votes": 3464,
+     "party": "DEM",
+     "pct": 99.4,
+     "choice_id": "01000000-99e5-71fc-437f-08df1ff45904",
+     "party_lines": {
+      "DEM": 2796,
+      "WFP": 668
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 21,
+     "party": null,
+     "pct": 0.6,
+     "choice_id": "01000000-99e5-71fc-4397-08df1ff45904",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-439a-08df1ff45904",
+   "state": "NY",
+   "title": "Town Supervisor - Town of Saranac",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Clinton County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "Timothy Napper",
+     "votes": 1385,
+     "party": "REP",
+     "pct": 97.81,
+     "choice_id": "01000000-99e5-71fc-43b3-08df1ff45904",
+     "party_lines": {
+      "REP": 1187,
+      "CONSERVATIVE": 198
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 31,
+     "party": null,
+     "pct": 2.19,
+     "choice_id": "01000000-99e5-71fc-43c9-08df1ff45904",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-43ce-08df1ff45904",
+   "state": "NY",
+   "title": "Superintendent of Highways - Town of Saranac",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Clinton County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "Gerald Delaney",
+     "votes": 1571,
+     "party": "DEM",
+     "pct": 93.51,
+     "choice_id": "01000000-99e5-71fc-43e5-08df1ff45904",
+     "party_lines": {
+      "DEM": 674,
+      "REP": 897
+     }
+    },
+    {
+     "name": "John Fountain, Jr.",
+     "votes": 106,
+     "party": "SARANAC FIRS",
+     "pct": 6.31,
+     "choice_id": "01000000-99e5-71fc-43fe-08df1ff45904",
+     "party_lines": {
+      "SARANAC FIRS": 106
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.18,
+     "choice_id": "01000000-99e5-71fc-4413-08df1ff45904",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-4417-08df1ff45904",
+   "state": "NY",
+   "title": "Town Clerk - Town of Saranac",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Clinton County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "Deborah A. Pellerin",
+     "votes": 1687,
+     "party": "DEM",
+     "pct": 99.94,
+     "choice_id": "01000000-99e5-71fc-442e-08df1ff45904",
+     "party_lines": {
+      "DEM": 715,
+      "REP": 972
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.06,
+     "choice_id": "01000000-99e5-71fc-4443-08df1ff45904",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-4449-08df1ff45904",
+   "state": "NY",
+   "title": "Town Supervisor - Town of Schuyler Falls",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Clinton County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "Mindy Smith",
+     "votes": 1365,
+     "party": "REP",
+     "pct": 99.34,
+     "choice_id": "01000000-99e5-71fc-4460-08df1ff45904",
+     "party_lines": {
+      "REP": 1144,
+      "CONSERVATIVE": 221
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 9,
+     "party": null,
+     "pct": 0.66,
+     "choice_id": "01000000-99e5-71fc-4477-08df1ff45904",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-4483-08df1ff45904",
+   "state": "NY",
+   "title": "State Supreme Court Justice  4th Judicial District",
+   "office_type": "judicial",
+   "district": "4",
+   "jurisdiction": "Clinton County",
+   "scope": "partial",
+   "vote_for": 4,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 51,
+    "pct": 0.0,
+    "text": "0 of 51 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "Bradley M. Wanner",
+     "votes": 13367,
+     "party": "DEM",
+     "pct": 16.11,
+     "choice_id": "01000000-99e5-71fc-449b-08df1ff45904",
+     "party_lines": {
+      "DEM": 13367
+     }
+    },
+    {
+     "name": "Christine M. Clark",
+     "votes": 14128,
+     "party": "DEM",
+     "pct": 17.03,
+     "choice_id": "01000000-99e5-71fc-44ab-08df1ff45904",
+     "party_lines": {
+      "DEM": 14128
+     }
+    },
+    {
+     "name": "Tom Buchanan",
+     "votes": 13982,
+     "party": "REP",
+     "pct": 16.85,
+     "choice_id": "01000000-99e5-71fc-44ba-08df1ff45904",
+     "party_lines": {
+      "REP": 12457,
+      "CONSERVATIVE": 1525
+     }
+    },
+    {
+     "name": "John T. Ellis",
+     "votes": 13137,
+     "party": "REP",
+     "pct": 15.83,
+     "choice_id": "01000000-99e5-71fc-44cc-08df1ff45904",
+     "party_lines": {
+      "REP": 11688,
+      "CONSERVATIVE": 1449
+     }
+    },
+    {
+     "name": "Kate Hogan",
+     "votes": 14930,
+     "party": "REP",
+     "pct": 18.0,
+     "choice_id": "01000000-99e5-71fc-44df-08df1ff45904",
+     "party_lines": {
+      "REP": 12835,
+      "CONSERVATIVE": 2095
+     }
+    },
+    {
+     "name": "Keith S. Massey Jr.",
+     "votes": 13298,
+     "party": "REP",
+     "pct": 16.03,
+     "choice_id": "01000000-99e5-71fc-44f0-08df1ff45904",
+     "party_lines": {
+      "REP": 11512,
+      "CONSERVATIVE": 1786
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 123,
+     "party": null,
+     "pct": 0.15,
+     "choice_id": "01000000-99e5-71fc-4508-08df1ff45904",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-4512-08df1ff45904",
+   "state": "NY",
+   "title": "County Court Judge",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Clinton County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 51,
+    "pct": 0.0,
+    "text": "0 of 51 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "Keith M. Bruno",
+     "votes": 21557,
+     "party": "DEM",
+     "pct": 99.59,
+     "choice_id": "01000000-99e5-71fc-452a-08df1ff45904",
+     "party_lines": {
+      "DEM": 17407,
+      "WFP": 4150
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 89,
+     "party": null,
+     "pct": 0.41,
+     "choice_id": "01000000-99e5-71fc-4540-08df1ff45904",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-4543-08df1ff45904",
+   "state": "NY",
+   "title": "Surrogate Court Judge",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Clinton County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 51,
+    "pct": 0.0,
+    "text": "0 of 51 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "Jaime A. Douthat",
+     "votes": 14851,
+     "party": "DEM",
+     "pct": 52.75,
+     "choice_id": "01000000-99e5-71fc-455c-08df1ff45904",
+     "party_lines": {
+      "DEM": 13535,
+      "WFP": 1316
+     }
+    },
+    {
+     "name": "Hilary Rogers",
+     "votes": 13297,
+     "party": "REP",
+     "pct": 47.23,
+     "choice_id": "01000000-99e5-71fc-456e-08df1ff45904",
+     "party_lines": {
+      "REP": 12054,
+      "CONSERVATIVE": 1243
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 5,
+     "party": null,
+     "pct": 0.02,
+     "choice_id": "01000000-99e5-71fc-4583-08df1ff45904",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-4587-08df1ff45904",
+   "state": "NY",
+   "title": "Town Justice - Town of Altona",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Clinton County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "Crystal M. Therrian",
+     "votes": 702,
+     "party": "REP",
+     "pct": 98.87,
+     "choice_id": "01000000-99e5-71fc-45a9-08df1ff45904",
+     "party_lines": {
+      "REP": 702
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": null,
+     "pct": 1.13,
+     "choice_id": "01000000-99e5-71fc-45bc-08df1ff45904",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-45c0-08df1ff45904",
+   "state": "NY",
+   "title": "Town Justice - Town of AuSable",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Clinton County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "Jeffrey P. Kelley",
+     "votes": 614,
+     "party": "DEM",
+     "pct": 57.01,
+     "choice_id": "01000000-99e5-71fc-45d9-08df1ff45904",
+     "party_lines": {
+      "DEM": 614
+     }
+    },
+    {
+     "name": "Kolby Furnia",
+     "votes": 463,
+     "party": "REP",
+     "pct": 42.99,
+     "choice_id": "01000000-99e5-71fc-45e9-08df1ff45904",
+     "party_lines": {
+      "REP": 463
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-4600-08df1ff45904",
+   "state": "NY",
+   "title": "Town Justice - Town of Champlain",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Clinton County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "Michael J. Phillips",
+     "votes": 1454,
+     "party": "REP",
+     "pct": 98.58,
+     "choice_id": "01000000-99e5-71fc-4618-08df1ff45904",
+     "party_lines": {
+      "REP": 1454
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 21,
+     "party": null,
+     "pct": 1.42,
+     "choice_id": "01000000-99e5-71fc-462a-08df1ff45904",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-462f-08df1ff45904",
+   "state": "NY",
+   "title": "Town Justice - Town of Ellenburg",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Clinton County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "Rolland R. Thomas",
+     "votes": 580,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "01000000-99e5-71fc-465f-08df1ff45904",
+     "party_lines": {
+      "REP": 580
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-4676-08df1ff45904",
+   "state": "NY",
+   "title": "Town Justice - Town of Peru",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Clinton County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "Scott A. Thurber",
+     "votes": 1944,
+     "party": "REP",
+     "pct": 98.88,
+     "choice_id": "01000000-99e5-71fc-4690-08df1ff45904",
+     "party_lines": {
+      "REP": 1944
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 22,
+     "party": null,
+     "pct": 1.12,
+     "choice_id": "01000000-99e5-71fc-46a3-08df1ff45904",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-46a6-08df1ff45904",
+   "state": "NY",
+   "title": "Proposal number one, City proposition one - City of Plattsburgh",
+   "office_type": "measure",
+   "district": "proposal number one city proposition one city of plattsburgh",
+   "jurisdiction": "Clinton County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 13,
+    "pct": 0.0,
+    "text": "0 of 13 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 4806,
+     "party": null,
+     "pct": 84.15,
+     "choice_id": "01000000-99e5-71fc-46c0-08df1ff45904",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 905,
+     "party": null,
+     "pct": 15.85,
+     "choice_id": "01000000-99e5-71fc-46cf-08df1ff45904",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-46d6-08df1ff45904",
+   "state": "NY",
+   "title": "Proposal number one, Town proposition one - Town of Clinton",
+   "office_type": "measure",
+   "district": "proposal number one town proposition one town of clinton",
+   "jurisdiction": "Clinton County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 87,
+     "party": null,
+     "pct": 35.22,
+     "choice_id": "01000000-99e5-71fc-46fa-08df1ff45904",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 160,
+     "party": null,
+     "pct": 64.78,
+     "choice_id": "01000000-99e5-71fc-470a-08df1ff45904",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.clinton",
+   "contest_id": "01000000-99e5-71fc-4710-08df1ff45904",
+   "state": "NY",
+   "title": "Proposal number two, Town proposition two - Town of Clinton",
+   "office_type": "measure",
+   "district": "proposal number two town proposition two town of clinton",
+   "jurisdiction": "Clinton County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:52:47.2241443Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 77,
+     "party": null,
+     "pct": 31.43,
+     "choice_id": "01000000-99e5-71fc-472c-08df1ff45904",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 168,
+     "party": null,
+     "pct": 68.57,
+     "choice_id": "01000000-99e5-71fc-473c-08df1ff45904",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  }
+ ],
+ "contests_hash": "4db7206e9c29f1d8",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-04T15:00:36+00:00",
+ "fetched_at": "2026-11-04T15:00:36+00:00",
+ "contests_changed_at": "2026-11-04T14:55:34+00:00"
+}

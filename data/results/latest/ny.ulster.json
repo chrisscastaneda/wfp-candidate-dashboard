@@ -1,0 +1,4091 @@
+{
+ "source": "ny.ulster",
+ "contests": [
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-91fe-08df20b6864b",
+   "state": "NY",
+   "title": "Governor/Lieutenant Governor",
+   "office_type": "governor",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 165,
+    "units_total": 165,
+    "pct": 100.0,
+    "text": "165 of 165 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Kathy C Hochul & Adrienne E. Adams",
+     "votes": 47295,
+     "party": "DEM",
+     "pct": 62.16,
+     "choice_id": "01000000-535b-89ee-924c-08df20b6864b",
+     "party_lines": {
+      "DEM": 39494,
+      "WFP": 7801
+     }
+    },
+    {
+     "name": "Bruce A Blakeman & Todd Hood",
+     "votes": 28601,
+     "party": "REP",
+     "pct": 37.59,
+     "choice_id": "01000000-535b-89ee-9272-08df20b6864b",
+     "party_lines": {
+      "REP": 24251,
+      "CONSERVATIVE": 3645,
+      "VOTE AFFORDA": 705
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 192,
+     "party": null,
+     "pct": 0.25,
+     "choice_id": "01000000-535b-89ee-92a7-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-f160-08df20b6864b",
+   "state": "NY",
+   "title": "State Comptroller",
+   "office_type": "controller",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 165,
+    "units_total": 165,
+    "pct": 100.0,
+    "text": "165 of 165 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Thomas P DiNapoli",
+     "votes": 50839,
+     "party": "DEM",
+     "pct": 67.61,
+     "choice_id": "01000000-535b-89ee-f1c5-08df20b6864b",
+     "party_lines": {
+      "DEM": 41642,
+      "WFP": 9197
+     }
+    },
+    {
+     "name": "Joseph Hernandez",
+     "votes": 24298,
+     "party": "REP",
+     "pct": 32.31,
+     "choice_id": "01000000-535b-89ee-f1eb-08df20b6864b",
+     "party_lines": {
+      "REP": 20844,
+      "CONSERVATIVE": 3454
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 61,
+     "party": null,
+     "pct": 0.08,
+     "choice_id": "01000000-535b-89ee-f20c-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-f3be-08df20b6864b",
+   "state": "NY",
+   "title": "State Attorney General",
+   "office_type": "attorney_general",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 165,
+    "units_total": 165,
+    "pct": 100.0,
+    "text": "165 of 165 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Letitia A James",
+     "votes": 47590,
+     "party": "DEM",
+     "pct": 63.05,
+     "choice_id": "01000000-535b-89ee-f407-08df20b6864b",
+     "party_lines": {
+      "DEM": 39089,
+      "WFP": 8501
+     }
+    },
+    {
+     "name": "Saritha Komatireddy",
+     "votes": 27850,
+     "party": "REP",
+     "pct": 36.89,
+     "choice_id": "01000000-535b-89ee-f429-08df20b6864b",
+     "party_lines": {
+      "REP": 23800,
+      "CONSERVATIVE": 4050
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 45,
+     "party": null,
+     "pct": 0.06,
+     "choice_id": "01000000-535b-89ee-f450-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-f7f7-08df20b6864b",
+   "state": "NY",
+   "title": "Representative in Congress, District 18",
+   "office_type": "federal_house",
+   "district": "18",
+   "jurisdiction": "Ulster County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 106,
+    "units_total": 106,
+    "pct": 100.0,
+    "text": "106 of 106 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Pat Ryan",
+     "votes": 34485,
+     "party": "DEM",
+     "pct": 68.33,
+     "choice_id": "01000000-535b-89ee-f841-08df20b6864b",
+     "party_lines": {
+      "DEM": 28335,
+      "WFP": 6150
+     }
+    },
+    {
+     "name": "Jackie Mary Auringer",
+     "votes": 15918,
+     "party": "REP",
+     "pct": 31.54,
+     "choice_id": "01000000-535b-89ee-f86e-08df20b6864b",
+     "party_lines": {
+      "REP": 13585,
+      "CONSERVATIVE": 2333
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 64,
+     "party": null,
+     "pct": 0.13,
+     "choice_id": "01000000-535b-89ee-f88f-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-c949-08df20b6864b",
+   "state": "NY",
+   "title": "Representative in Congress, District 19",
+   "office_type": "federal_house",
+   "district": "19",
+   "jurisdiction": "Ulster County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 59,
+    "units_total": 59,
+    "pct": 100.0,
+    "text": "59 of 59 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Josh Riley",
+     "votes": 15968,
+     "party": "DEM",
+     "pct": 62.93,
+     "choice_id": "01000000-535b-89ee-c990-08df20b6864b",
+     "party_lines": {
+      "DEM": 13137,
+      "WFP": 2831
+     }
+    },
+    {
+     "name": "Peter K Oberacker",
+     "votes": 9384,
+     "party": "REP",
+     "pct": 36.98,
+     "choice_id": "01000000-535b-89ee-cc86-08df20b6864b",
+     "party_lines": {
+      "REP": 8102,
+      "CONSERVATIVE": 1282
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 22,
+     "party": null,
+     "pct": 0.09,
+     "choice_id": "01000000-535b-89ee-ccb2-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-e164-08df20b6864b",
+   "state": "NY",
+   "title": "State Senator, 41st District",
+   "office_type": "state_senate",
+   "district": "41",
+   "jurisdiction": "Ulster County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 120,
+    "units_total": 120,
+    "pct": 100.0,
+    "text": "120 of 120 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Michelle Hinchey",
+     "votes": 38373,
+     "party": "DEM",
+     "pct": 68.81,
+     "choice_id": "01000000-535b-89ee-e1b4-08df20b6864b",
+     "party_lines": {
+      "DEM": 31230,
+      "WFP": 7143
+     }
+    },
+    {
+     "name": "Patrick Sheehan",
+     "votes": 17356,
+     "party": "REP",
+     "pct": 31.12,
+     "choice_id": "01000000-535b-89ee-e1e2-08df20b6864b",
+     "party_lines": {
+      "REP": 14815,
+      "CONSERVATIVE": 2541
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 35,
+     "party": null,
+     "pct": 0.06,
+     "choice_id": "01000000-535b-89ee-e205-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-ccb8-08df20b6864b",
+   "state": "NY",
+   "title": "State Senator, 51st District",
+   "office_type": "state_senate",
+   "district": "51",
+   "jurisdiction": "Ulster County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 45,
+    "units_total": 45,
+    "pct": 100.0,
+    "text": "45 of 45 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Michele Frazier",
+     "votes": 11971,
+     "party": "DEM",
+     "pct": 60.08,
+     "choice_id": "01000000-535b-89ee-cd0b-08df20b6864b",
+     "party_lines": {
+      "DEM": 10027,
+      "WFP": 1944
+     }
+    },
+    {
+     "name": "Christopher W Tague",
+     "votes": 7942,
+     "party": "REP",
+     "pct": 39.86,
+     "choice_id": "01000000-535b-89ee-cd2e-08df20b6864b",
+     "party_lines": {
+      "REP": 6886,
+      "CONSERVATIVE": 1056
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 11,
+     "party": null,
+     "pct": 0.06,
+     "choice_id": "01000000-535b-89ee-cd54-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-f892-08df20b6864b",
+   "state": "NY",
+   "title": "Member of Assembly, District 101",
+   "office_type": "state_house",
+   "district": "101",
+   "jurisdiction": "Ulster County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 33,
+    "units_total": 33,
+    "pct": 100.0,
+    "text": "33 of 33 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Brian M Maher",
+     "votes": 7384,
+     "party": "REP",
+     "pct": 97.7,
+     "choice_id": "01000000-535b-89ee-f8c8-08df20b6864b",
+     "party_lines": {
+      "REP": 6080,
+      "CONSERVATIVE": 1304
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 174,
+     "party": null,
+     "pct": 2.3,
+     "choice_id": "01000000-535b-89ee-f8eb-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-cce0-08df20b68643",
+   "state": "NY",
+   "title": "Member of Assembly, District 103",
+   "office_type": "state_house",
+   "district": "103",
+   "jurisdiction": "Ulster County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 113,
+    "units_total": 113,
+    "pct": 100.0,
+    "text": "113 of 113 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Sarahana Shrestha",
+     "votes": 33970,
+     "party": "DEM",
+     "pct": 68.7,
+     "choice_id": "01000000-535b-89ee-cd34-08df20b68643",
+     "party_lines": {
+      "DEM": 27155,
+      "WFP": 6815
+     }
+    },
+    {
+     "name": "Santos  Lopez",
+     "votes": 15397,
+     "party": "REP",
+     "pct": 31.14,
+     "choice_id": "01000000-535b-89ee-cd5a-08df20b68643",
+     "party_lines": {
+      "REP": 12912,
+      "CONSERVATIVE": 2485
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 82,
+     "party": null,
+     "pct": 0.17,
+     "choice_id": "01000000-535b-89ee-cd85-08df20b68643",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-74c9-08df20b6864b",
+   "state": "NY",
+   "title": "Member of Assembly, District 104",
+   "office_type": "state_house",
+   "district": "104",
+   "jurisdiction": "Ulster County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 19,
+    "units_total": 19,
+    "pct": 100.0,
+    "text": "19 of 19 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Jonathan G Jacobson",
+     "votes": 7674,
+     "party": "DEM",
+     "pct": 98.93,
+     "choice_id": "01000000-535b-89ee-7520-08df20b6864b",
+     "party_lines": {
+      "DEM": 6158,
+      "WFP": 1516
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 83,
+     "party": null,
+     "pct": 1.07,
+     "choice_id": "01000000-535b-89ee-78c2-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-92b0-08df20b6864b",
+   "state": "NY",
+   "title": "State Supreme Court Justice, 3rd Judicial District",
+   "office_type": "judicial",
+   "district": "3",
+   "jurisdiction": "Ulster County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 165,
+    "units_total": 165,
+    "pct": 100.0,
+    "text": "165 of 165 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Amy E Joyce",
+     "votes": 50235,
+     "party": "DEM",
+     "pct": 50.65,
+     "choice_id": "01000000-535b-89ee-92e8-08df20b6864b",
+     "party_lines": {
+      "DEM": 50235
+     }
+    },
+    {
+     "name": "Jennifer G Sober",
+     "votes": 48017,
+     "party": "DEM",
+     "pct": 48.41,
+     "choice_id": "01000000-535b-89ee-930d-08df20b6864b",
+     "party_lines": {
+      "DEM": 48017
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 929,
+     "party": null,
+     "pct": 0.94,
+     "choice_id": "01000000-535b-89ee-9320-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-ce99-08df20b6864b",
+   "state": "NY",
+   "title": "Ulster County Sheriff",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 165,
+    "units_total": 165,
+    "pct": 100.0,
+    "text": "165 of 165 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Juan Figueroa",
+     "votes": 55488,
+     "party": "DEM",
+     "pct": 98.21,
+     "choice_id": "01000000-535b-89ee-cee1-08df20b6864b",
+     "party_lines": {
+      "DEM": 43258,
+      "WFP": 12230
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 1014,
+     "party": null,
+     "pct": 1.79,
+     "choice_id": "01000000-535b-89ee-cef2-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-e2ef-08df20b6864b",
+   "state": "NY",
+   "title": "Ulster County Legislator, District 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 7,
+    "units_total": 7,
+    "pct": 100.0,
+    "text": "7 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Aaron Levine",
+     "votes": 2549,
+     "party": "DEM",
+     "pct": 98.68,
+     "choice_id": "01000000-535b-89ee-e32e-08df20b6864b",
+     "party_lines": {
+      "DEM": 2549
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 34,
+     "party": null,
+     "pct": 1.32,
+     "choice_id": "01000000-535b-89ee-e33f-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-f20e-08df20b6864b",
+   "state": "NY",
+   "title": "Ulster County Legislator, District 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 7,
+    "units_total": 7,
+    "pct": 100.0,
+    "text": "7 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Ann Peters",
+     "votes": 2208,
+     "party": "DEM",
+     "pct": 98.88,
+     "choice_id": "01000000-535b-89ee-f25e-08df20b6864b",
+     "party_lines": {
+      "DEM": 1677,
+      "WFP": 531
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 25,
+     "party": null,
+     "pct": 1.12,
+     "choice_id": "01000000-535b-89ee-f270-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-78c5-08df20b6864b",
+   "state": "NY",
+   "title": "Ulster County Legislator, District 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 6,
+    "units_total": 6,
+    "pct": 100.0,
+    "text": "6 of 6 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Kate Leon",
+     "votes": 1766,
+     "party": "DEM",
+     "pct": 50.54,
+     "choice_id": "01000000-535b-89ee-791b-08df20b6864b",
+     "party_lines": {
+      "DEM": 1495,
+      "WFP": 271
+     }
+    },
+    {
+     "name": "Jason J Kovacs",
+     "votes": 1723,
+     "party": "REP",
+     "pct": 49.31,
+     "choice_id": "01000000-535b-89ee-7940-08df20b6864b",
+     "party_lines": {
+      "REP": 1475,
+      "CONSERVATIVE": 248
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 5,
+     "party": null,
+     "pct": 0.14,
+     "choice_id": "01000000-535b-89ee-7963-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-cf8c-08df20b6864b",
+   "state": "NY",
+   "title": "Ulster County Legislator, District 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 8,
+    "units_total": 8,
+    "pct": 100.0,
+    "text": "8 of 8 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Michael Berardi",
+     "votes": 1606,
+     "party": "DEM",
+     "pct": 59.97,
+     "choice_id": "01000000-535b-89ee-cfdb-08df20b6864b",
+     "party_lines": {
+      "DEM": 1388,
+      "WFP": 218
+     }
+    },
+    {
+     "name": "Anna M Hayner",
+     "votes": 1069,
+     "party": "REP",
+     "pct": 39.92,
+     "choice_id": "01000000-535b-89ee-cfff-08df20b6864b",
+     "party_lines": {
+      "REP": 918,
+      "CONSERVATIVE": 151
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 3,
+     "party": null,
+     "pct": 0.11,
+     "choice_id": "01000000-535b-89ee-d01f-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-c88f-08df20b6864b",
+   "state": "NY",
+   "title": "Ulster County Legislator, District 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 11,
+    "units_total": 11,
+    "pct": 100.0,
+    "text": "11 of 11 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Abe Uchitelle",
+     "votes": 2667,
+     "party": "DEM",
+     "pct": 99.0,
+     "choice_id": "01000000-535b-89ee-c8d7-08df20b6864b",
+     "party_lines": {
+      "DEM": 2011,
+      "WFP": 656
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 27,
+     "party": null,
+     "pct": 1.0,
+     "choice_id": "01000000-535b-89ee-c8e8-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-7443-08df20b6864b",
+   "state": "NY",
+   "title": "Ulster County Legislator, District 6",
+   "office_type": "local",
+   "district": "6",
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 7,
+    "units_total": 7,
+    "pct": 100.0,
+    "text": "7 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Gregory McCollough",
+     "votes": 1831,
+     "party": "DEM",
+     "pct": 99.13,
+     "choice_id": "01000000-535b-89ee-74a4-08df20b6864b",
+     "party_lines": {
+      "DEM": 1299,
+      "WFP": 532
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 16,
+     "party": null,
+     "pct": 0.87,
+     "choice_id": "01000000-535b-89ee-74b8-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-c8ea-08df20b6864b",
+   "state": "NY",
+   "title": "Ulster County Legislator, District 7",
+   "office_type": "local",
+   "district": "7",
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 8,
+    "units_total": 8,
+    "pct": 100.0,
+    "text": "8 of 8 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Peter Criswell",
+     "votes": 2335,
+     "party": "DEM",
+     "pct": 98.36,
+     "choice_id": "01000000-535b-89ee-c937-08df20b6864b",
+     "party_lines": {
+      "DEM": 1637,
+      "WFP": 698
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 39,
+     "party": null,
+     "pct": 1.64,
+     "choice_id": "01000000-535b-89ee-c947-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-f0c0-08df20b6864b",
+   "state": "NY",
+   "title": "Ulster County Legislator, District 8",
+   "office_type": "local",
+   "district": "8",
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 8,
+    "units_total": 8,
+    "pct": 100.0,
+    "text": "8 of 8 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Joseph Donaldson",
+     "votes": 1967,
+     "party": "DEM",
+     "pct": 57.2,
+     "choice_id": "01000000-535b-89ee-f114-08df20b6864b",
+     "party_lines": {
+      "DEM": 1662,
+      "WFP": 305
+     }
+    },
+    {
+     "name": "Jared Geuss",
+     "votes": 1471,
+     "party": "REP",
+     "pct": 42.77,
+     "choice_id": "01000000-535b-89ee-f13a-08df20b6864b",
+     "party_lines": {
+      "REP": 1208,
+      "CONSERVATIVE": 263
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 1,
+     "party": null,
+     "pct": 0.03,
+     "choice_id": "01000000-535b-89ee-f15d-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-f55b-08df20b6864b",
+   "state": "NY",
+   "title": "Ulster County Legislator, District 9",
+   "office_type": "local",
+   "district": "9",
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 6,
+    "units_total": 6,
+    "pct": 100.0,
+    "text": "6 of 6 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Amy Dooley",
+     "votes": 1919,
+     "party": "DEM",
+     "pct": 57.2,
+     "choice_id": "01000000-535b-89ee-f5a8-08df20b6864b",
+     "party_lines": {
+      "DEM": 1575,
+      "WFP": 344
+     }
+    },
+    {
+     "name": "Herbert W Litts III",
+     "votes": 1434,
+     "party": "REP",
+     "pct": 42.74,
+     "choice_id": "01000000-535b-89ee-f5ca-08df20b6864b",
+     "party_lines": {
+      "REP": 1187,
+      "CONSERVATIVE": 247
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 2,
+     "party": null,
+     "pct": 0.06,
+     "choice_id": "01000000-535b-89ee-f5e8-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-796f-08df20b6864b",
+   "state": "NY",
+   "title": "Ulster County Legislator, District 10",
+   "office_type": "local",
+   "district": "10",
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 4,
+    "units_total": 4,
+    "pct": 100.0,
+    "text": "4 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Dominick Marino",
+     "votes": 1766,
+     "party": "DEM",
+     "pct": 55.99,
+     "choice_id": "01000000-535b-89ee-79c2-08df20b6864b",
+     "party_lines": {
+      "DEM": 1537,
+      "WFP": 229
+     }
+    },
+    {
+     "name": "Gina Hansut",
+     "votes": 1385,
+     "party": "REP",
+     "pct": 43.91,
+     "choice_id": "01000000-535b-89ee-79e7-08df20b6864b",
+     "party_lines": {
+      "REP": 1385
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 3,
+     "party": null,
+     "pct": 0.1,
+     "choice_id": "01000000-535b-89ee-79f8-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-9470-08df20b6864b",
+   "state": "NY",
+   "title": "Ulster County Legislator, District 11",
+   "office_type": "local",
+   "district": "11",
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": "5 of 5 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Laura Donovan",
+     "votes": 1783,
+     "party": "DEM",
+     "pct": 52.56,
+     "choice_id": "01000000-535b-89ee-94de-08df20b6864b",
+     "party_lines": {
+      "DEM": 1538,
+      "WFP": 245,
+      "COMMON GROUN": 0
+     }
+    },
+    {
+     "name": "Nicholas J Cracolici",
+     "votes": 1606,
+     "party": "REP",
+     "pct": 47.35,
+     "choice_id": "01000000-535b-89ee-950b-08df20b6864b",
+     "party_lines": {
+      "REP": 1425,
+      "CONSERVATIVE": 181
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 3,
+     "party": null,
+     "pct": 0.09,
+     "choice_id": "01000000-535b-89ee-952d-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-0699-08df20b6864c",
+   "state": "NY",
+   "title": "Ulster County Legislator, District 12",
+   "office_type": "local",
+   "district": "12",
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 4,
+    "units_total": 4,
+    "pct": 100.0,
+    "text": "4 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Marisa J McClinton",
+     "votes": 1212,
+     "party": "DEM",
+     "pct": 44.74,
+     "choice_id": "01000000-535b-89ee-06ec-08df20b6864c",
+     "party_lines": {
+      "DEM": 1041,
+      "WFP": 171
+     }
+    },
+    {
+     "name": "Kevin Roberts",
+     "votes": 1496,
+     "party": "REP",
+     "pct": 55.22,
+     "choice_id": "01000000-535b-89ee-0714-08df20b6864c",
+     "party_lines": {
+      "REP": 1287,
+      "CONSERVATIVE": 209
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 1,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-535b-89ee-0737-08df20b6864c",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-ce01-08df20b6864b",
+   "state": "NY",
+   "title": "Ulster County Legislator, District 13",
+   "office_type": "local",
+   "district": "13",
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 4,
+    "units_total": 4,
+    "pct": 100.0,
+    "text": "4 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Adrienne Gelfand-Perine",
+     "votes": 1118,
+     "party": "DEM",
+     "pct": 44.09,
+     "choice_id": "01000000-535b-89ee-ce4a-08df20b6864b",
+     "party_lines": {
+      "DEM": 981,
+      "WFP": 137
+     }
+    },
+    {
+     "name": "Richard T Walls",
+     "votes": 1415,
+     "party": "REP",
+     "pct": 55.8,
+     "choice_id": "01000000-535b-89ee-ce6e-08df20b6864b",
+     "party_lines": {
+      "REP": 1230,
+      "CONSERVATIVE": 185
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 3,
+     "party": null,
+     "pct": 0.12,
+     "choice_id": "01000000-535b-89ee-ce90-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-f36a-08df20b6864b",
+   "state": "NY",
+   "title": "Ulster County Legislator, District 14",
+   "office_type": "local",
+   "district": "14",
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 7,
+    "units_total": 7,
+    "pct": 100.0,
+    "text": "7 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Craig Lopez",
+     "votes": 1942,
+     "party": "REP",
+     "pct": 98.08,
+     "choice_id": "01000000-535b-89ee-f3ab-08df20b6864b",
+     "party_lines": {
+      "REP": 1942
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 38,
+     "party": null,
+     "pct": 1.92,
+     "choice_id": "01000000-535b-89ee-f3bc-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-e118-08df20b6864b",
+   "state": "NY",
+   "title": "Ulster County Legislator, District 15",
+   "office_type": "local",
+   "district": "15",
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 8,
+    "units_total": 8,
+    "pct": 100.0,
+    "text": "8 of 8 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Thomas Briggs",
+     "votes": 1572,
+     "party": "DEM",
+     "pct": 98.56,
+     "choice_id": "01000000-535b-89ee-e150-08df20b6864b",
+     "party_lines": {
+      "DEM": 1572
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 23,
+     "party": null,
+     "pct": 1.44,
+     "choice_id": "01000000-535b-89ee-e162-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-cd9c-08df20b6864b",
+   "state": "NY",
+   "title": "Ulster County Legislator, District 16",
+   "office_type": "local",
+   "district": "16",
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 6,
+    "units_total": 6,
+    "pct": 100.0,
+    "text": "6 of 6 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Debra Clinton",
+     "votes": 2688,
+     "party": "DEM",
+     "pct": 99.45,
+     "choice_id": "01000000-535b-89ee-cded-08df20b6864b",
+     "party_lines": {
+      "DEM": 2183,
+      "WFP": 505
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 15,
+     "party": null,
+     "pct": 0.55,
+     "choice_id": "01000000-535b-89ee-cdfe-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-9322-08df20b6864b",
+   "state": "NY",
+   "title": "Ulster County Legislator, District 17",
+   "office_type": "local",
+   "district": "17",
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 8,
+    "units_total": 8,
+    "pct": 100.0,
+    "text": "8 of 8 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Pierrette Farber",
+     "votes": 2793,
+     "party": "DEM",
+     "pct": 99.08,
+     "choice_id": "01000000-535b-89ee-9372-08df20b6864b",
+     "party_lines": {
+      "DEM": 2228,
+      "WFP": 565
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 26,
+     "party": null,
+     "pct": 0.92,
+     "choice_id": "01000000-535b-89ee-9383-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-f502-08df20b6864b",
+   "state": "NY",
+   "title": "Ulster County Legislator, District 18",
+   "office_type": "local",
+   "district": "18",
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 10,
+    "units_total": 10,
+    "pct": 100.0,
+    "text": "10 of 10 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Eric Stewart",
+     "votes": 3101,
+     "party": "DEM",
+     "pct": 99.23,
+     "choice_id": "01000000-535b-89ee-f549-08df20b6864b",
+     "party_lines": {
+      "DEM": 2415,
+      "WFP": 686
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 24,
+     "party": null,
+     "pct": 0.77,
+     "choice_id": "01000000-535b-89ee-f559-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-c5ad-08df20b6864b",
+   "state": "NY",
+   "title": "Ulster County Legislator, District 19",
+   "office_type": "local",
+   "district": "19",
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 7,
+    "units_total": 7,
+    "pct": 100.0,
+    "text": "7 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Lindsey Grossman",
+     "votes": 2745,
+     "party": "DEM",
+     "pct": 70.1,
+     "choice_id": "01000000-535b-89ee-c602-08df20b6864b",
+     "party_lines": {
+      "DEM": 2104,
+      "WFP": 641
+     }
+    },
+    {
+     "name": "Daniel P Glaser",
+     "votes": 1171,
+     "party": "REP",
+     "pct": 29.9,
+     "choice_id": "01000000-535b-89ee-c628-08df20b6864b",
+     "party_lines": {
+      "REP": 986,
+      "CONSERVATIVE": 185
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-f7ae-08df20b6864b",
+   "state": "NY",
+   "title": "Ulster County Legislator, District 20",
+   "office_type": "local",
+   "district": "20",
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 4,
+    "units_total": 4,
+    "pct": 100.0,
+    "text": "4 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Bill Murray",
+     "votes": 2150,
+     "party": "DEM",
+     "pct": 99.49,
+     "choice_id": "01000000-535b-89ee-f7e3-08df20b6864b",
+     "party_lines": {
+      "DEM": 2150
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 11,
+     "party": null,
+     "pct": 0.51,
+     "choice_id": "01000000-535b-89ee-f7f5-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-c52a-08df20b6864b",
+   "state": "NY",
+   "title": "Ulster County Legislator, District 21",
+   "office_type": "local",
+   "district": "21",
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 6,
+    "units_total": 6,
+    "pct": 100.0,
+    "text": "6 of 6 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Ken Stephens",
+     "votes": 2529,
+     "party": "DEM",
+     "pct": 99.25,
+     "choice_id": "01000000-535b-89ee-c590-08df20b6864b",
+     "party_lines": {
+      "DEM": 1901,
+      "WFP": 628
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 19,
+     "party": null,
+     "pct": 0.75,
+     "choice_id": "01000000-535b-89ee-c5a6-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-c76c-08df20b6864b",
+   "state": "NY",
+   "title": "Ulster County Legislator, District 22",
+   "office_type": "local",
+   "district": "22",
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 13,
+    "units_total": 13,
+    "pct": 100.0,
+    "text": "13 of 13 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Robert Drake",
+     "votes": 2620,
+     "party": "DEM",
+     "pct": 64.8,
+     "choice_id": "01000000-535b-89ee-c7be-08df20b6864b",
+     "party_lines": {
+      "DEM": 2153,
+      "WFP": 467
+     }
+    },
+    {
+     "name": "Peter Friedel",
+     "votes": 1415,
+     "party": "REP",
+     "pct": 35.0,
+     "choice_id": "01000000-535b-89ee-c7e3-08df20b6864b",
+     "party_lines": {
+      "REP": 1415
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 8,
+     "party": null,
+     "pct": 0.2,
+     "choice_id": "01000000-535b-89ee-c7f3-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-9085-08df20b6864b",
+   "state": "NY",
+   "title": "Ulster County Legislator, District 23",
+   "office_type": "local",
+   "district": "23",
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 11,
+    "units_total": 11,
+    "pct": 100.0,
+    "text": "11 of 11 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Jeffery Collins",
+     "votes": 3736,
+     "party": "DEM",
+     "pct": 98.97,
+     "choice_id": "01000000-535b-89ee-90e0-08df20b6864b",
+     "party_lines": {
+      "DEM": 3099,
+      "WFP": 637
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 39,
+     "party": null,
+     "pct": 1.03,
+     "choice_id": "01000000-535b-89ee-90f2-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-c7f5-08df20b6864b",
+   "state": "NY",
+   "title": "Ulster County Surrogate Court Judge",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 165,
+    "units_total": 165,
+    "pct": 100.0,
+    "text": "165 of 165 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Judy Nolfo",
+     "votes": 51157,
+     "party": "DEM",
+     "pct": 99.1,
+     "choice_id": "01000000-535b-89ee-c82c-08df20b6864b",
+     "party_lines": {
+      "DEM": 51157
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 464,
+     "party": null,
+     "pct": 0.9,
+     "choice_id": "01000000-535b-89ee-c83e-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-c840-08df20b6864b",
+   "state": "NY",
+   "title": "City of Kingston Court Judge",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 27,
+    "units_total": 27,
+    "pct": 100.0,
+    "text": "27 of 27 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Philip Kirschner",
+     "votes": 6708,
+     "party": "DEM",
+     "pct": 99.14,
+     "choice_id": "01000000-535b-89ee-c87b-08df20b6864b",
+     "party_lines": {
+      "DEM": 6708
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 58,
+     "party": null,
+     "pct": 0.86,
+     "choice_id": "01000000-535b-89ee-c88d-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-f714-08df20b6864b",
+   "state": "NY",
+   "title": "Denning Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": "2 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "David Brooks",
+     "votes": 177,
+     "party": "REP",
+     "pct": 98.88,
+     "choice_id": "01000000-535b-89ee-f74b-08df20b6864b",
+     "party_lines": {
+      "REP": 177
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 2,
+     "party": null,
+     "pct": 1.12,
+     "choice_id": "01000000-535b-89ee-f75c-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-e2a3-08df20b6864b",
+   "state": "NY",
+   "title": "Denning Clerk/Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": "2 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Nancy A Parrow",
+     "votes": 180,
+     "party": "REP",
+     "pct": 98.9,
+     "choice_id": "01000000-535b-89ee-e2dd-08df20b6864b",
+     "party_lines": {
+      "REP": 180
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 2,
+     "party": null,
+     "pct": 1.1,
+     "choice_id": "01000000-535b-89ee-e2ed-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-f453-08df20b6864b",
+   "state": "NY",
+   "title": "Denning Superintendent of Highways",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": "2 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Leonard Johnson",
+     "votes": 162,
+     "party": "REP",
+     "pct": 98.78,
+     "choice_id": "01000000-535b-89ee-f48e-08df20b6864b",
+     "party_lines": {
+      "REP": 162
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 2,
+     "party": null,
+     "pct": 1.22,
+     "choice_id": "01000000-535b-89ee-f49f-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-9668-08df20b6864b",
+   "state": "NY",
+   "title": "Esopus Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 7,
+    "units_total": 7,
+    "pct": 100.0,
+    "text": "7 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Roscoe Pecora",
+     "votes": 2518,
+     "party": "DEM",
+     "pct": 74.7,
+     "choice_id": "01000000-535b-89ee-96b1-08df20b6864b",
+     "party_lines": {
+      "DEM": 1962,
+      "WFP": 556
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 853,
+     "party": null,
+     "pct": 25.3,
+     "choice_id": "01000000-535b-89ee-96c3-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-ce85-08df20b68643",
+   "state": "NY",
+   "title": "Esopus Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 7,
+    "units_total": 7,
+    "pct": 100.0,
+    "text": "7 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Lynn Corcoran- Johnston",
+     "votes": 2868,
+     "party": "DEM",
+     "pct": 98.39,
+     "choice_id": "01000000-535b-89ee-ced6-08df20b68643",
+     "party_lines": {
+      "DEM": 2193,
+      "WFP": 675
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 47,
+     "party": null,
+     "pct": 1.61,
+     "choice_id": "01000000-535b-89ee-cee5-08df20b68643",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-f272-08df20b6864b",
+   "state": "NY",
+   "title": "Esopus Councilperson-Unexpired Term",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 7,
+    "units_total": 7,
+    "pct": 100.0,
+    "text": "7 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Andrew Friedman",
+     "votes": 2608,
+     "party": "DEM",
+     "pct": 98.23,
+     "choice_id": "01000000-535b-89ee-f2aa-08df20b6864b",
+     "party_lines": {
+      "DEM": 2608
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 47,
+     "party": null,
+     "pct": 1.77,
+     "choice_id": "01000000-535b-89ee-f2bc-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-cf6f-08df20b68643",
+   "state": "NY",
+   "title": "Esopus Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 7,
+    "units_total": 7,
+    "pct": 100.0,
+    "text": "7 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Ephie Trataros",
+     "votes": 2685,
+     "party": "DEM",
+     "pct": 98.79,
+     "choice_id": "01000000-535b-89ee-cfa5-08df20b68643",
+     "party_lines": {
+      "DEM": 2685
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 33,
+     "party": null,
+     "pct": 1.21,
+     "choice_id": "01000000-535b-89ee-cfb6-08df20b68643",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-f2be-08df20b6864b",
+   "state": "NY",
+   "title": "Gardiner Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 4,
+    "units_total": 4,
+    "pct": 100.0,
+    "text": "4 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Michael O Hartner",
+     "votes": 1926,
+     "party": "DEM",
+     "pct": 96.88,
+     "choice_id": "01000000-535b-89ee-f2fc-08df20b6864b",
+     "party_lines": {
+      "DEM": 1926
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 62,
+     "party": null,
+     "pct": 3.12,
+     "choice_id": "01000000-535b-89ee-f30e-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-ce3b-08df20b68643",
+   "state": "NY",
+   "title": "Gardiner Councilperson-Unexpired Term",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 4,
+    "units_total": 4,
+    "pct": 100.0,
+    "text": "4 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "James Scott Ulvestad",
+     "votes": 1953,
+     "party": "DEM",
+     "pct": 98.99,
+     "choice_id": "01000000-535b-89ee-ce72-08df20b68643",
+     "party_lines": {
+      "DEM": 1953
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 20,
+     "party": null,
+     "pct": 1.01,
+     "choice_id": "01000000-535b-89ee-ce83-08df20b68643",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-79fc-08df20b6864b",
+   "state": "NY",
+   "title": "Town of Gardiner Library Budget Proposition",
+   "office_type": "measure",
+   "district": "town of gardiner library budget proposition",
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 4,
+    "units_total": 4,
+    "pct": 100.0,
+    "text": "4 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1856,
+     "party": null,
+     "pct": 70.7,
+     "choice_id": "01000000-535b-89ee-84c7-08df20b6864b",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 769,
+     "party": null,
+     "pct": 29.3,
+     "choice_id": "01000000-535b-89ee-84ff-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-6569-08df20b68643",
+   "state": "NY",
+   "title": "Hardenburgh Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": "2 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Wendy O'Reilly",
+     "votes": 59,
+     "party": "UNITY PARTY",
+     "pct": 96.72,
+     "choice_id": "01000000-535b-89ee-be01-08df20b68643",
+     "party_lines": {
+      "UNITY PARTY": 59
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 2,
+     "party": null,
+     "pct": 3.28,
+     "choice_id": "01000000-535b-89ee-ca45-08df20b68643",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-cef4-08df20b6864b",
+   "state": "NY",
+   "title": "Hardenburgh Clerk/Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": "2 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Wendy Buerge",
+     "votes": 60,
+     "party": "UNITY PARTY",
+     "pct": 100.0,
+     "choice_id": "01000000-535b-89ee-cf2a-08df20b6864b",
+     "party_lines": {
+      "UNITY PARTY": 60
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-91aa-08df20b6864b",
+   "state": "NY",
+   "title": "Hardenburgh Councilperson-Unexpired Term",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": "2 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Rosa Testani",
+     "votes": 51,
+     "party": "UNITY PARTY",
+     "pct": 96.23,
+     "choice_id": "01000000-535b-89ee-91e1-08df20b6864b",
+     "party_lines": {
+      "UNITY PARTY": 51
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 2,
+     "party": null,
+     "pct": 3.77,
+     "choice_id": "01000000-535b-89ee-91fc-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-e0c0-08df20b6864b",
+   "state": "NY",
+   "title": "Hurley Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 8,
+    "units_total": 8,
+    "pct": 100.0,
+    "text": "8 of 8 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Michael Boms",
+     "votes": 2432,
+     "party": "DEM",
+     "pct": 98.18,
+     "choice_id": "01000000-535b-89ee-e0fb-08df20b6864b",
+     "party_lines": {
+      "DEM": 2432
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 45,
+     "party": null,
+     "pct": 1.82,
+     "choice_id": "01000000-535b-89ee-e10f-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-c6fa-08df20b6864b",
+   "state": "NY",
+   "title": "Hurley Clerk/Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 8,
+    "units_total": 8,
+    "pct": 100.0,
+    "text": "8 of 8 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Lynne Bailey",
+     "votes": 2169,
+     "party": "DEM",
+     "pct": 64.44,
+     "choice_id": "01000000-535b-89ee-c732-08df20b6864b",
+     "party_lines": {
+      "DEM": 2169
+     }
+    },
+    {
+     "name": "William Tighe",
+     "votes": 1190,
+     "party": "REP",
+     "pct": 35.35,
+     "choice_id": "01000000-535b-89ee-c759-08df20b6864b",
+     "party_lines": {
+      "REP": 1190
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 7,
+     "party": null,
+     "pct": 0.21,
+     "choice_id": "01000000-535b-89ee-c76a-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-93e9-08df20b6864b",
+   "state": "NY",
+   "title": "Hurley Superintendent of Highways",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 8,
+    "units_total": 8,
+    "pct": 100.0,
+    "text": "8 of 8 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "John Wiacek",
+     "votes": 2105,
+     "party": "DEM",
+     "pct": 62.26,
+     "choice_id": "01000000-535b-89ee-9436-08df20b6864b",
+     "party_lines": {
+      "DEM": 2105
+     }
+    },
+    {
+     "name": "Michele Bergenn",
+     "votes": 1272,
+     "party": "REP",
+     "pct": 37.62,
+     "choice_id": "01000000-535b-89ee-945d-08df20b6864b",
+     "party_lines": {
+      "REP": 1272
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 4,
+     "party": null,
+     "pct": 0.12,
+     "choice_id": "01000000-535b-89ee-946d-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-952f-08df20b6864b",
+   "state": "NY",
+   "title": "Town of Kingston Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": "1 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "John-Paul J Sliva",
+     "votes": 191,
+     "party": "DEM",
+     "pct": 43.41,
+     "choice_id": "01000000-535b-89ee-956a-08df20b6864b",
+     "party_lines": {
+      "DEM": 191
+     }
+    },
+    {
+     "name": "David Hoffman",
+     "votes": 248,
+     "party": "REP",
+     "pct": 56.36,
+     "choice_id": "01000000-535b-89ee-9590-08df20b6864b",
+     "party_lines": {
+      "REP": 209,
+      "CONSERVATIVE": 39
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 1,
+     "party": null,
+     "pct": 0.23,
+     "choice_id": "01000000-535b-89ee-95b2-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-cfb9-08df20b68643",
+   "state": "NY",
+   "title": "Lloyd Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 7,
+    "units_total": 7,
+    "pct": 100.0,
+    "text": "7 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Stuart A Weiss Jr",
+     "votes": 2486,
+     "party": "DEM",
+     "pct": 51.75,
+     "choice_id": "01000000-535b-89ee-cff1-08df20b68643",
+     "party_lines": {
+      "DEM": 2486
+     }
+    },
+    {
+     "name": "David Plavchak",
+     "votes": 2312,
+     "party": "REP",
+     "pct": 48.13,
+     "choice_id": "01000000-535b-89ee-d01e-08df20b68643",
+     "party_lines": {
+      "REP": 2007,
+      "CONSERVATIVE": 305
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 6,
+     "party": null,
+     "pct": 0.12,
+     "choice_id": "01000000-535b-89ee-d04c-08df20b68643",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-ed8b-08df20b6864b",
+   "state": "NY",
+   "title": "Lloyd Superintendent of Highways",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 7,
+    "units_total": 7,
+    "pct": 100.0,
+    "text": "7 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Richard Klotz",
+     "votes": 3694,
+     "party": "DEM",
+     "pct": 99.6,
+     "choice_id": "01000000-535b-89ee-eddf-08df20b6864b",
+     "party_lines": {
+      "DEM": 2953,
+      "CONSERVATIVE": 741
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 15,
+     "party": null,
+     "pct": 0.4,
+     "choice_id": "01000000-535b-89ee-edf1-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-cf45-08df20b6864b",
+   "state": "NY",
+   "title": "Marbletown Superintendent of Highways-Unexpired Term",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 7,
+    "units_total": 7,
+    "pct": 100.0,
+    "text": "7 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Scott Hikade",
+     "votes": 2483,
+     "party": "DEM",
+     "pct": 99.08,
+     "choice_id": "01000000-535b-89ee-cf79-08df20b6864b",
+     "party_lines": {
+      "DEM": 2483
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 23,
+     "party": null,
+     "pct": 0.92,
+     "choice_id": "01000000-535b-89ee-cf8a-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-5376-08df20b6864b",
+   "state": "NY",
+   "title": "Town of Marbletown Proposition",
+   "office_type": "measure",
+   "district": "town of marbletown proposition",
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 7,
+    "units_total": 7,
+    "pct": 100.0,
+    "text": "7 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1465,
+     "party": null,
+     "pct": 50.34,
+     "choice_id": "01000000-535b-89ee-68d4-08df20b6864b",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 1445,
+     "party": null,
+     "pct": 49.66,
+     "choice_id": "01000000-535b-89ee-690e-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-edfe-08df20b6864b",
+   "state": "NY",
+   "title": "Marlborough Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 6,
+    "units_total": 6,
+    "pct": 100.0,
+    "text": "6 of 6 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Al Lanzetta",
+     "votes": 1727,
+     "party": "DEM",
+     "pct": 46.07,
+     "choice_id": "01000000-535b-89ee-ee5b-08df20b6864b",
+     "party_lines": {
+      "DEM": 1497,
+      "WFP": 230,
+      "COMMON GROUN": 0
+     }
+    },
+    {
+     "name": "Scott Corcoran",
+     "votes": 2014,
+     "party": "REP",
+     "pct": 53.72,
+     "choice_id": "01000000-535b-89ee-ee80-08df20b6864b",
+     "party_lines": {
+      "REP": 1782,
+      "CONSERVATIVE": 232
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 8,
+     "party": null,
+     "pct": 0.21,
+     "choice_id": "01000000-535b-89ee-f0bc-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-f5eb-08df20b6864b",
+   "state": "NY",
+   "title": "Marlborough Councilperson-Unexpired Term",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 6,
+    "units_total": 6,
+    "pct": 100.0,
+    "text": "6 of 6 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Rolando Garcia Jr",
+     "votes": 1508,
+     "party": "DEM",
+     "pct": 40.29,
+     "choice_id": "01000000-535b-89ee-f650-08df20b6864b",
+     "party_lines": {
+      "DEM": 1321,
+      "WFP": 187,
+      "COMMON GROUN": 0
+     }
+    },
+    {
+     "name": "Gael Appler Jr",
+     "votes": 2232,
+     "party": "REP",
+     "pct": 59.63,
+     "choice_id": "01000000-535b-89ee-f674-08df20b6864b",
+     "party_lines": {
+      "REP": 1969,
+      "CONSERVATIVE": 263
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 3,
+     "party": null,
+     "pct": 0.08,
+     "choice_id": "01000000-535b-89ee-f696-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-6930-08df20b6864b",
+   "state": "NY",
+   "title": "Town of Marlborough Library Budget Proposition",
+   "office_type": "measure",
+   "district": "town of marlborough library budget proposition",
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 6,
+    "units_total": 6,
+    "pct": 100.0,
+    "text": "6 of 6 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2279,
+     "party": null,
+     "pct": 65.49,
+     "choice_id": "01000000-535b-89ee-73f5-08df20b6864b",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 1201,
+     "party": null,
+     "pct": 34.51,
+     "choice_id": "01000000-535b-89ee-7423-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-8518-08df20b6864b",
+   "state": "NY",
+   "title": "Village Mayor New Paltz-Unexpired Term",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 3,
+    "pct": 100.0,
+    "text": "3 of 3 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Alexandria Wojcik",
+     "votes": 2071,
+     "party": "DEM",
+     "pct": 97.6,
+     "choice_id": "01000000-535b-89ee-857a-08df20b6864b",
+     "party_lines": {
+      "DEM": 1579,
+      "WFP": 492,
+      "FORWARD PART": 0
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 51,
+     "party": null,
+     "pct": 2.4,
+     "choice_id": "01000000-535b-89ee-858b-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-e054-08df20b6864b",
+   "state": "NY",
+   "title": "Village Trustee New Paltz",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 3,
+    "pct": 100.0,
+    "text": "3 of 3 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Jasmine Gisele Towers",
+     "votes": 973,
+     "party": "FORWARD PART",
+     "pct": 98.28,
+     "choice_id": "01000000-535b-89ee-e09f-08df20b6864b",
+     "party_lines": {
+      "FORWARD PART": 973
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 17,
+     "party": null,
+     "pct": 1.72,
+     "choice_id": "01000000-535b-89ee-e0ba-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-d022-08df20b6864b",
+   "state": "NY",
+   "title": "Town of New Paltz Elting Library Proposition",
+   "office_type": "measure",
+   "district": "town of new paltz elting library proposition",
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 11,
+    "units_total": 11,
+    "pct": 100.0,
+    "text": "11 of 11 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 4118,
+     "party": null,
+     "pct": 74.47,
+     "choice_id": "01000000-535b-89ee-dd4f-08df20b6864b",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 1412,
+     "party": null,
+     "pct": 25.53,
+     "choice_id": "01000000-535b-89ee-dd9c-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-d04e-08df20b68643",
+   "state": "NY",
+   "title": "Town of New Paltz Proposition",
+   "office_type": "measure",
+   "district": "town of new paltz proposition",
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 8,
+    "units_total": 8,
+    "pct": 100.0,
+    "text": "8 of 8 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1155,
+     "party": null,
+     "pct": 35.29,
+     "choice_id": "01000000-535b-89ee-4fa4-08df20b6864b",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 2118,
+     "party": null,
+     "pct": 64.71,
+     "choice_id": "01000000-535b-89ee-51b8-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-858f-08df20b6864b",
+   "state": "NY",
+   "title": "Village of New Paltz Proposition",
+   "office_type": "measure",
+   "district": "village of new paltz proposition",
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 3,
+    "pct": 100.0,
+    "text": "3 of 3 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 818,
+     "party": null,
+     "pct": 36.5,
+     "choice_id": "01000000-535b-89ee-903c-08df20b6864b",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 1423,
+     "party": null,
+     "pct": 63.5,
+     "choice_id": "01000000-535b-89ee-906d-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-e253-08df20b6864b",
+   "state": "NY",
+   "title": "Olive Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": "5 of 5 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "James Sofranko",
+     "votes": 1717,
+     "party": "DEM",
+     "pct": 94.08,
+     "choice_id": "01000000-535b-89ee-e28f-08df20b6864b",
+     "party_lines": {
+      "DEM": 1717
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 108,
+     "party": null,
+     "pct": 5.92,
+     "choice_id": "01000000-535b-89ee-e2a1-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-e341-08df20b6864b",
+   "state": "NY",
+   "title": "Town of Olive Library Proposition",
+   "office_type": "measure",
+   "district": "town of olive library proposition",
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": "5 of 5 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1740,
+     "party": null,
+     "pct": 76.22,
+     "choice_id": "01000000-535b-89ee-ed46-08df20b6864b",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 543,
+     "party": null,
+     "pct": 23.78,
+     "choice_id": "01000000-535b-89ee-ed74-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-f8ed-08df20b6864b",
+   "state": "NY",
+   "title": "Plattekill Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 6,
+    "units_total": 6,
+    "pct": 100.0,
+    "text": "6 of 6 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Michael Lembo",
+     "votes": 1894,
+     "party": "DEM",
+     "pct": 51.41,
+     "choice_id": "01000000-535b-89ee-f92b-08df20b6864b",
+     "party_lines": {
+      "DEM": 1894
+     }
+    },
+    {
+     "name": "Dwight Dougherty",
+     "votes": 1782,
+     "party": "REP",
+     "pct": 48.37,
+     "choice_id": "01000000-535b-89ee-f952-08df20b6864b",
+     "party_lines": {
+      "REP": 1540,
+      "CONSERVATIVE": 242
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 8,
+     "party": null,
+     "pct": 0.22,
+     "choice_id": "01000000-535b-89ee-f973-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-cdd6-08df20b68643",
+   "state": "NY",
+   "title": "Plattekill Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 6,
+    "units_total": 6,
+    "pct": 100.0,
+    "text": "6 of 6 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Garry Ashdown",
+     "votes": 2415,
+     "party": "REP",
+     "pct": 97.81,
+     "choice_id": "01000000-535b-89ee-ce16-08df20b68643",
+     "party_lines": {
+      "REP": 1975,
+      "CONSERVATIVE": 440
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 54,
+     "party": null,
+     "pct": 2.19,
+     "choice_id": "01000000-535b-89ee-ce39-08df20b68643",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-f699-08df20b6864b",
+   "state": "NY",
+   "title": "Rochester Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": "5 of 5 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Erin Enouen",
+     "votes": 1939,
+     "party": "DEM",
+     "pct": 58.32,
+     "choice_id": "01000000-535b-89ee-f6d2-08df20b6864b",
+     "party_lines": {
+      "DEM": 1939
+     }
+    },
+    {
+     "name": "Tom Warg",
+     "votes": 1382,
+     "party": "REP",
+     "pct": 41.56,
+     "choice_id": "01000000-535b-89ee-f6f9-08df20b6864b",
+     "party_lines": {
+      "REP": 1382
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 4,
+     "party": null,
+     "pct": 0.12,
+     "choice_id": "01000000-535b-89ee-f712-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-fc10-08df20b6864b",
+   "state": "NY",
+   "title": "Rochester Superintendent of Highways",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": "5 of 5 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Charlotte Smiseth",
+     "votes": 1831,
+     "party": "DEM",
+     "pct": 53.68,
+     "choice_id": "01000000-535b-89ee-fc62-08df20b6864b",
+     "party_lines": {
+      "DEM": 1485,
+      "WFP": 346
+     }
+    },
+    {
+     "name": "Richard Smith Jr",
+     "votes": 1574,
+     "party": "REP",
+     "pct": 46.14,
+     "choice_id": "01000000-535b-89ee-fc87-08df20b6864b",
+     "party_lines": {
+      "REP": 1360,
+      "CONSERVATIVE": 214
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 6,
+     "party": null,
+     "pct": 0.18,
+     "choice_id": "01000000-535b-89ee-fca8-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-fb8b-08df20b6864b",
+   "state": "NY",
+   "title": "Rochester Councilperson-Unexpired Term",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": "5 of 5 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Christian Wulf",
+     "votes": 1926,
+     "party": "DEM",
+     "pct": 57.29,
+     "choice_id": "01000000-535b-89ee-fbc5-08df20b6864b",
+     "party_lines": {
+      "DEM": 1926
+     }
+    },
+    {
+     "name": "Lene Fornino",
+     "votes": 1433,
+     "party": "REP",
+     "pct": 42.62,
+     "choice_id": "01000000-535b-89ee-fbed-08df20b6864b",
+     "party_lines": {
+      "REP": 1229,
+      "CONSERVATIVE": 204
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 3,
+     "party": null,
+     "pct": 0.09,
+     "choice_id": "01000000-535b-89ee-fc0d-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-cd89-08df20b68643",
+   "state": "NY",
+   "title": "Rosendale Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": "5 of 5 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Christopher Ragucci",
+     "votes": 2016,
+     "party": "DEM",
+     "pct": 98.87,
+     "choice_id": "01000000-535b-89ee-cdc0-08df20b68643",
+     "party_lines": {
+      "DEM": 2016
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 23,
+     "party": null,
+     "pct": 1.13,
+     "choice_id": "01000000-535b-89ee-cdd3-08df20b68643",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-f310-08df20b6864b",
+   "state": "NY",
+   "title": "Saugerties Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 15,
+    "units_total": 15,
+    "pct": 100.0,
+    "text": "15 of 15 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Fred M Costello Jr",
+     "votes": 6064,
+     "party": "DEM",
+     "pct": 94.04,
+     "choice_id": "01000000-535b-89ee-f356-08df20b6864b",
+     "party_lines": {
+      "DEM": 4646,
+      "WFP": 1418
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 384,
+     "party": null,
+     "pct": 5.96,
+     "choice_id": "01000000-535b-89ee-f367-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-c655-08df20b6864b",
+   "state": "NY",
+   "title": "Saugerties Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 15,
+    "units_total": 15,
+    "pct": 100.0,
+    "text": "15 of 15 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Chris Kraft",
+     "votes": 5908,
+     "party": "DEM",
+     "pct": 98.81,
+     "choice_id": "01000000-535b-89ee-c68d-08df20b6864b",
+     "party_lines": {
+      "DEM": 5908
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 71,
+     "party": null,
+     "pct": 1.19,
+     "choice_id": "01000000-535b-89ee-c6a0-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-cee8-08df20b68643",
+   "state": "NY",
+   "title": "Shandaken Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 4,
+    "units_total": 4,
+    "pct": 100.0,
+    "text": "4 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Barbara Mansfield",
+     "votes": 864,
+     "party": "DEM",
+     "pct": 62.84,
+     "choice_id": "01000000-535b-89ee-cf1e-08df20b68643",
+     "party_lines": {
+      "DEM": 864
+     }
+    },
+    {
+     "name": "Angela Galindo",
+     "votes": 507,
+     "party": "REP",
+     "pct": 36.87,
+     "choice_id": "01000000-535b-89ee-cf56-08df20b68643",
+     "party_lines": {
+      "REP": 471,
+      "SHANDAKEN ST": 36
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 4,
+     "party": null,
+     "pct": 0.29,
+     "choice_id": "01000000-535b-89ee-cf6c-08df20b68643",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-cd57-08df20b6864b",
+   "state": "NY",
+   "title": "Shandaken Superintendent of Highways",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 4,
+    "units_total": 4,
+    "pct": 100.0,
+    "text": "4 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Eric Hofmeister",
+     "votes": 670,
+     "party": "REP",
+     "pct": 96.26,
+     "choice_id": "01000000-535b-89ee-cd89-08df20b6864b",
+     "party_lines": {
+      "REP": 670
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 26,
+     "party": null,
+     "pct": 3.74,
+     "choice_id": "01000000-535b-89ee-cd9a-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-96c5-08df20b6864b",
+   "state": "NY",
+   "title": "Town of  Shandaken Library Proposition",
+   "office_type": "measure",
+   "district": "town of shandaken library proposition",
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 4,
+    "units_total": 4,
+    "pct": 100.0,
+    "text": "4 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 974,
+     "party": null,
+     "pct": 73.18,
+     "choice_id": "01000000-535b-89ee-c4ce-08df20b6864b",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 357,
+     "party": null,
+     "pct": 26.82,
+     "choice_id": "01000000-535b-89ee-c50b-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-9385-08df20b6864b",
+   "state": "NY",
+   "title": "Shawangunk Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 7,
+    "units_total": 7,
+    "pct": 100.0,
+    "text": "7 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Kenneth J Ronk Jr",
+     "votes": 3044,
+     "party": "REP",
+     "pct": 98.0,
+     "choice_id": "01000000-535b-89ee-93c4-08df20b6864b",
+     "party_lines": {
+      "REP": 2547,
+      "CONSERVATIVE": 497
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 62,
+     "party": null,
+     "pct": 2.0,
+     "choice_id": "01000000-535b-89ee-93e7-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-f975-08df20b6864b",
+   "state": "NY",
+   "title": "Shawangunk Clerk/Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 7,
+    "units_total": 7,
+    "pct": 100.0,
+    "text": "7 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Jane P Rascoe",
+     "votes": 3114,
+     "party": "REP",
+     "pct": 98.67,
+     "choice_id": "01000000-535b-89ee-f9a9-08df20b6864b",
+     "party_lines": {
+      "REP": 2617,
+      "CONSERVATIVE": 497
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 42,
+     "party": null,
+     "pct": 1.33,
+     "choice_id": "01000000-535b-89ee-fb88-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-f4a1-08df20b6864b",
+   "state": "NY",
+   "title": "Shawangunk Superintendent of Highways",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 7,
+    "units_total": 7,
+    "pct": 100.0,
+    "text": "7 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Richard J Blazeski",
+     "votes": 3003,
+     "party": "REP",
+     "pct": 98.11,
+     "choice_id": "01000000-535b-89ee-f4d6-08df20b6864b",
+     "party_lines": {
+      "REP": 2516,
+      "CONSERVATIVE": 487
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 58,
+     "party": null,
+     "pct": 1.89,
+     "choice_id": "01000000-535b-89ee-f500-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-cb5b-08df20b68643",
+   "state": "NY",
+   "title": "Town of Ulster Councilperson-Unexpired Term",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 14,
+    "units_total": 14,
+    "pct": 100.0,
+    "text": "14 of 14 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Ryan Ham",
+     "votes": 2646,
+     "party": "DEM",
+     "pct": 55.81,
+     "choice_id": "01000000-535b-89ee-cc83-08df20b68643",
+     "party_lines": {
+      "DEM": 2646
+     }
+    },
+    {
+     "name": "Michael Tinnie",
+     "votes": 2090,
+     "party": "REP",
+     "pct": 44.08,
+     "choice_id": "01000000-535b-89ee-ccc3-08df20b68643",
+     "party_lines": {
+      "REP": 2090
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 5,
+     "party": null,
+     "pct": 0.11,
+     "choice_id": "01000000-535b-89ee-ccdc-08df20b68643",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-915c-08df20b6864b",
+   "state": "NY",
+   "title": "Wawarsing Councilperson-Unexpired Term",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 13,
+    "units_total": 13,
+    "pct": 100.0,
+    "text": "13 of 13 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "John Gavaris",
+     "votes": 2332,
+     "party": "DEM",
+     "pct": 98.11,
+     "choice_id": "01000000-535b-89ee-9196-08df20b6864b",
+     "party_lines": {
+      "DEM": 2332
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 45,
+     "party": null,
+     "pct": 1.89,
+     "choice_id": "01000000-535b-89ee-91a8-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-f75e-08df20b6864b",
+   "state": "NY",
+   "title": "Village Trustee Ellenville-Unexpired Term",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 4,
+    "units_total": 4,
+    "pct": 100.0,
+    "text": "4 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Victoria Messner",
+     "votes": 854,
+     "party": "DEM",
+     "pct": 98.96,
+     "choice_id": "01000000-535b-89ee-f793-08df20b6864b",
+     "party_lines": {
+      "DEM": 854
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 9,
+     "party": null,
+     "pct": 1.04,
+     "choice_id": "01000000-535b-89ee-f7a5-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-fcab-08df20b6864b",
+   "state": "NY",
+   "title": "Town of Wawarsing Cragsmoor Library",
+   "office_type": "measure",
+   "district": "town of wawarsing cragsmoor library",
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 13,
+    "units_total": 13,
+    "pct": 100.0,
+    "text": "13 of 13 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2080,
+     "party": null,
+     "pct": 62.33,
+     "choice_id": "01000000-535b-89ee-0649-08df20b6864c",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 1257,
+     "party": null,
+     "pct": 37.67,
+     "choice_id": "01000000-535b-89ee-067a-08df20b6864c",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-c6a2-08df20b6864b",
+   "state": "NY",
+   "title": "Woodstock Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 9,
+    "units_total": 9,
+    "pct": 100.0,
+    "text": "9 of 9 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Anula Courtis",
+     "votes": 2274,
+     "party": "DEM",
+     "pct": 69.16,
+     "choice_id": "01000000-535b-89ee-c6dd-08df20b6864b",
+     "party_lines": {
+      "DEM": 2274
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 1014,
+     "party": null,
+     "pct": 30.84,
+     "choice_id": "01000000-535b-89ee-c6f7-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-95bc-08df20b6864b",
+   "state": "NY",
+   "title": "Woodstock Clerk/Tax Collector-Unexpired Term",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 9,
+    "units_total": 9,
+    "pct": 100.0,
+    "text": "9 of 9 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Rebekah Brooks",
+     "votes": 2857,
+     "party": "DEM",
+     "pct": 98.48,
+     "choice_id": "01000000-535b-89ee-95f2-08df20b6864b",
+     "party_lines": {
+      "DEM": 2857
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 44,
+     "party": null,
+     "pct": 1.52,
+     "choice_id": "01000000-535b-89ee-9603-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-90f7-08df20b6864b",
+   "state": "NY",
+   "title": "Woodstock Superintendent of Highways",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 9,
+    "units_total": 9,
+    "pct": 100.0,
+    "text": "9 of 9 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Cody Chase",
+     "votes": 3069,
+     "party": "DEM",
+     "pct": 99.61,
+     "choice_id": "01000000-535b-89ee-9143-08df20b6864b",
+     "party_lines": {
+      "DEM": 2862,
+      "WOODSTOCK FO": 207
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 12,
+     "party": null,
+     "pct": 0.39,
+     "choice_id": "01000000-535b-89ee-9153-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-e208-08df20b6864b",
+   "state": "NY",
+   "title": "Woodstock Councilperson-Unexpired Term",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 9,
+    "units_total": 9,
+    "pct": 100.0,
+    "text": "9 of 9 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Marcel Nagele",
+     "votes": 2791,
+     "party": "DEM",
+     "pct": 95.16,
+     "choice_id": "01000000-535b-89ee-e23f-08df20b6864b",
+     "party_lines": {
+      "DEM": 2791
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 142,
+     "party": null,
+     "pct": 4.84,
+     "choice_id": "01000000-535b-89ee-e251-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.ulster",
+   "contest_id": "01000000-535b-89ee-9605-08df20b6864b",
+   "state": "NY",
+   "title": "Woodstock Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Ulster County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 9,
+    "units_total": 9,
+    "pct": 100.0,
+    "text": "9 of 9 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:21:06.9741301Z",
+   "choices": [
+    {
+     "name": "Jason Lesko",
+     "votes": 2764,
+     "party": "DEM",
+     "pct": 92.47,
+     "choice_id": "01000000-535b-89ee-964c-08df20b6864b",
+     "party_lines": {
+      "DEM": 2411,
+      "WFP": 353
+     }
+    },
+    {
+     "name": "Write-In",
+     "votes": 225,
+     "party": null,
+     "pct": 7.53,
+     "choice_id": "01000000-535b-89ee-9665-08df20b6864b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  }
+ ],
+ "contests_hash": "c97a4eca460a79a8",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-04T15:00:53+00:00",
+ "fetched_at": "2026-11-04T15:00:53+00:00",
+ "contests_changed_at": "2026-11-04T14:55:51+00:00"
+}

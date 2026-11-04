@@ -1,0 +1,2657 @@
+{
+ "source": "ny.cattaraugus",
+ "contests": [
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-cbcc-08df23af25a3",
+   "state": "NY",
+   "title": "Governor and Lieutenant Governor",
+   "office_type": "governor",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 55,
+    "pct": 0.0,
+    "text": "0 of 55 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Kathy C. Hochul Adrienne E. Adams",
+     "votes": 8295,
+     "party": "DEM",
+     "pct": 31.28,
+     "choice_id": "01000000-ddd6-4af2-db7e-08df23af25a3",
+     "party_lines": {
+      "DEM": 7660,
+      "WFP": 635
+     }
+    },
+    {
+     "name": "Bruce A. Blakeman Todd Hood",
+     "votes": 18166,
+     "party": "REP",
+     "pct": 68.5,
+     "choice_id": "01000000-ddd6-4af2-de00-08df23af25a3",
+     "party_lines": {
+      "REP": 16002,
+      "CONSERVATIVE": 1902,
+      "VOTE AFFORDA": 262
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 59,
+     "party": null,
+     "pct": 0.22,
+     "choice_id": "01000000-ddd6-4af2-de43-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-df63-08df23af25a3",
+   "state": "NY",
+   "title": "Representative in Congress District 23",
+   "office_type": "federal_house",
+   "district": "23",
+   "jurisdiction": "Cattaraugus County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 55,
+    "pct": 0.0,
+    "text": "0 of 55 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Aaron Gies",
+     "votes": 9042,
+     "party": "DEM",
+     "pct": 34.24,
+     "choice_id": "01000000-ddd6-4af2-df8a-08df23af25a3",
+     "party_lines": {
+      "DEM": 8186,
+      "WFP": 856
+     }
+    },
+    {
+     "name": "Nicholas A. Langworthy",
+     "votes": 17359,
+     "party": "REP",
+     "pct": 65.73,
+     "choice_id": "01000000-ddd6-4af2-dfa6-08df23af25a3",
+     "party_lines": {
+      "REP": 15365,
+      "CONSERVATIVE": 1994
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": null,
+     "pct": 0.03,
+     "choice_id": "01000000-ddd6-4af2-dfcf-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-dfd9-08df23af25a3",
+   "state": "NY",
+   "title": "State Senator District 57",
+   "office_type": "state_senate",
+   "district": "57",
+   "jurisdiction": "Cattaraugus County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 55,
+    "pct": 0.0,
+    "text": "0 of 55 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Victoria A. Guite-Williams",
+     "votes": 7862,
+     "party": "DEM",
+     "pct": 29.98,
+     "choice_id": "01000000-ddd6-4af2-dff8-08df23af25a3",
+     "party_lines": {
+      "DEM": 7163,
+      "WFP": 699
+     }
+    },
+    {
+     "name": "George M. Borrello",
+     "votes": 18352,
+     "party": "REP",
+     "pct": 69.99,
+     "choice_id": "01000000-ddd6-4af2-e012-08df23af25a3",
+     "party_lines": {
+      "REP": 16155,
+      "CONSERVATIVE": 2197
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 7,
+     "party": null,
+     "pct": 0.03,
+     "choice_id": "01000000-ddd6-4af2-e040-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-e31b-08df23af25a3",
+   "state": "NY",
+   "title": "Member of Assembly 148th District",
+   "office_type": "state_house",
+   "district": "148",
+   "jurisdiction": "Cattaraugus County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 55,
+    "pct": 0.0,
+    "text": "0 of 55 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Joseph Sempolinski",
+     "votes": 20742,
+     "party": "REP",
+     "pct": 99.48,
+     "choice_id": "01000000-ddd6-4af2-e345-08df23af25a3",
+     "party_lines": {
+      "REP": 17162,
+      "CONSERVATIVE": 3580
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 109,
+     "party": null,
+     "pct": 0.52,
+     "choice_id": "01000000-ddd6-4af2-e379-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-f7ca-08df23af25a3",
+   "state": "NY",
+   "title": "Supreme Court Justice 8th Judicial District",
+   "office_type": "judicial",
+   "district": "8",
+   "jurisdiction": "Cattaraugus County",
+   "scope": "partial",
+   "vote_for": 4,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 55,
+    "pct": 0.0,
+    "text": "0 of 55 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Craig R. Bucki",
+     "votes": 8112,
+     "party": "DEM",
+     "pct": 8.36,
+     "choice_id": "01000000-ddd6-4af2-f7ec-08df23af25a3",
+     "party_lines": {
+      "DEM": 7285,
+      "WFP": 827
+     }
+    },
+    {
+     "name": "Anne E. Joynt",
+     "votes": 8705,
+     "party": "DEM",
+     "pct": 8.97,
+     "choice_id": "01000000-ddd6-4af2-f827-08df23af25a3",
+     "party_lines": {
+      "DEM": 7723,
+      "WFP": 982
+     }
+    },
+    {
+     "name": "Michael L. Amodeo",
+     "votes": 21388,
+     "party": "DEM",
+     "pct": 22.05,
+     "choice_id": "01000000-ddd6-4af2-f86c-08df23af25a3",
+     "party_lines": {
+      "DEM": 7080,
+      "REP": 13489,
+      "WFP": 819
+     }
+    },
+    {
+     "name": "Robert N. Richardson",
+     "votes": 22932,
+     "party": "DEM",
+     "pct": 23.64,
+     "choice_id": "01000000-ddd6-4af2-f8a8-08df23af25a3",
+     "party_lines": {
+      "DEM": 7210,
+      "REP": 13688,
+      "CONSERVATIVE": 2034
+     }
+    },
+    {
+     "name": "Deanne M. Tripi",
+     "votes": 17137,
+     "party": "REP",
+     "pct": 17.67,
+     "choice_id": "01000000-ddd6-4af2-f80a-08df23af25a3",
+     "party_lines": {
+      "REP": 14969,
+      "CONSERVATIVE": 2168
+     }
+    },
+    {
+     "name": "Jonathan S. Hickey",
+     "votes": 16312,
+     "party": "REP",
+     "pct": 16.81,
+     "choice_id": "01000000-ddd6-4af2-f845-08df23af25a3",
+     "party_lines": {
+      "REP": 14280,
+      "CONSERVATIVE": 2032
+     }
+    },
+    {
+     "name": "Robert R. Vario",
+     "votes": 2379,
+     "party": "CONSERVATIVE",
+     "pct": 2.45,
+     "choice_id": "01000000-ddd6-4af2-f88a-08df23af25a3",
+     "party_lines": {
+      "CONSERVATIVE": 2379
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 46,
+     "party": null,
+     "pct": 0.05,
+     "choice_id": "01000000-ddd6-4af2-f8d3-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-de4e-08df23af25a3",
+   "state": "NY",
+   "title": "Comptroller",
+   "office_type": "controller",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 55,
+    "pct": 0.0,
+    "text": "0 of 55 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Thomas P.  DiNapoli",
+     "votes": 10163,
+     "party": "DEM",
+     "pct": 39.03,
+     "choice_id": "01000000-ddd6-4af2-de9f-08df23af25a3",
+     "party_lines": {
+      "DEM": 8924,
+      "WFP": 1239
+     }
+    },
+    {
+     "name": "Joseph Hernandez",
+     "votes": 15870,
+     "party": "REP",
+     "pct": 60.94,
+     "choice_id": "01000000-ddd6-4af2-debe-08df23af25a3",
+     "party_lines": {
+      "REP": 14046,
+      "CONSERVATIVE": 1824
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": null,
+     "pct": 0.03,
+     "choice_id": "01000000-ddd6-4af2-dee8-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-def2-08df23af25a3",
+   "state": "NY",
+   "title": "Attorney General",
+   "office_type": "attorney_general",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 55,
+    "pct": 0.0,
+    "text": "0 of 55 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Letitia A. James",
+     "votes": 8673,
+     "party": "DEM",
+     "pct": 33.28,
+     "choice_id": "01000000-ddd6-4af2-df12-08df23af25a3",
+     "party_lines": {
+      "DEM": 7857,
+      "WFP": 816
+     }
+    },
+    {
+     "name": "Saritha Komatireddy",
+     "votes": 17379,
+     "party": "REP",
+     "pct": 66.68,
+     "choice_id": "01000000-ddd6-4af2-df2f-08df23af25a3",
+     "party_lines": {
+      "REP": 15307,
+      "CONSERVATIVE": 2072
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 12,
+     "party": null,
+     "pct": 0.05,
+     "choice_id": "01000000-ddd6-4af2-df58-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-e37e-08df23af25a3",
+   "state": "NY",
+   "title": "County Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 55,
+    "pct": 0.0,
+    "text": "0 of 55 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Darrell T. Klute",
+     "votes": 18465,
+     "party": "REP",
+     "pct": 81.69,
+     "choice_id": "01000000-ddd6-4af2-e39f-08df23af25a3",
+     "party_lines": {
+      "REP": 15835,
+      "CONSERVATIVE": 2630
+     }
+    },
+    {
+     "name": "Kristin M. Colburn",
+     "votes": 4118,
+     "party": "WFP",
+     "pct": 18.22,
+     "choice_id": "01000000-ddd6-4af2-e3d1-08df23af25a3",
+     "party_lines": {
+      "WFP": 4118
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 22,
+     "party": null,
+     "pct": 0.1,
+     "choice_id": "01000000-ddd6-4af2-e3f7-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-e3ff-08df23af25a3",
+   "state": "NY",
+   "title": "County Coroner",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 55,
+    "pct": 0.0,
+    "text": "0 of 55 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Cleon W. Easton, III",
+     "votes": 20878,
+     "party": "REP",
+     "pct": 99.64,
+     "choice_id": "01000000-ddd6-4af2-e426-08df23af25a3",
+     "party_lines": {
+      "REP": 17164,
+      "CONSERVATIVE": 3714
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 75,
+     "party": null,
+     "pct": 0.36,
+     "choice_id": "01000000-ddd6-4af2-e451-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-f8d9-08df23af25a3",
+   "state": "NY",
+   "title": "County Judge",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 55,
+    "pct": 0.0,
+    "text": "0 of 55 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Darryl R. Bloom",
+     "votes": 20063,
+     "party": "REP",
+     "pct": 99.49,
+     "choice_id": "01000000-ddd6-4af2-f8f9-08df23af25a3",
+     "party_lines": {
+      "REP": 16551,
+      "CONSERVATIVE": 3512
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 103,
+     "party": null,
+     "pct": 0.51,
+     "choice_id": "01000000-ddd6-4af2-f924-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-e45b-08df23af25a3",
+   "state": "NY",
+   "title": "Legislator District 2 (To fill one-year vacancy)",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 15,
+    "pct": 0.0,
+    "text": "0 of 15 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Brenda S. Hanson",
+     "votes": 6332,
+     "party": "REP",
+     "pct": 99.59,
+     "choice_id": "01000000-ddd6-4af2-e47b-08df23af25a3",
+     "party_lines": {
+      "REP": 5195,
+      "CONSERVATIVE": 1137
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 26,
+     "party": null,
+     "pct": 0.41,
+     "choice_id": "01000000-ddd6-4af2-e4a5-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-e4b0-08df23af25a3",
+   "state": "NY",
+   "title": "Alderman for City of Olean Ward 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "JR Bennion",
+     "votes": 534,
+     "party": "REP",
+     "pct": 98.16,
+     "choice_id": "01000000-ddd6-4af2-e4d9-08df23af25a3",
+     "party_lines": {
+      "REP": 428,
+      "CONSERVATIVE": 106
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 10,
+     "party": null,
+     "pct": 1.84,
+     "choice_id": "01000000-ddd6-4af2-e503-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-e510-08df23af25a3",
+   "state": "NY",
+   "title": "Alderman for City of Olean Ward 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Gloria J. Rosenthal",
+     "votes": 270,
+     "party": "DEM",
+     "pct": 51.53,
+     "choice_id": "01000000-ddd6-4af2-e538-08df23af25a3",
+     "party_lines": {
+      "DEM": 261,
+      "COMMON SENSE": 9
+     }
+    },
+    {
+     "name": "Balazs Busznyak",
+     "votes": 253,
+     "party": "REP",
+     "pct": 48.28,
+     "choice_id": "01000000-ddd6-4af2-e556-08df23af25a3",
+     "party_lines": {
+      "REP": 253
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.19,
+     "choice_id": "01000000-ddd6-4af2-e579-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-e583-08df23af25a3",
+   "state": "NY",
+   "title": "Alderman for City of Olean Ward 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Ann Marie Sitter-Tompkins",
+     "votes": 411,
+     "party": "DEM",
+     "pct": 98.33,
+     "choice_id": "01000000-ddd6-4af2-e5a9-08df23af25a3",
+     "party_lines": {
+      "DEM": 306,
+      "WFP": 105
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 7,
+     "party": null,
+     "pct": 1.67,
+     "choice_id": "01000000-ddd6-4af2-e5d4-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-e5de-08df23af25a3",
+   "state": "NY",
+   "title": "Mayor for City of Salamanca",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Sandra L. Magiera",
+     "votes": 725,
+     "party": "DEM",
+     "pct": 49.25,
+     "choice_id": "01000000-ddd6-4af2-e60d-08df23af25a3",
+     "party_lines": {
+      "DEM": 602,
+      "CITIZENS CHO": 123
+     }
+    },
+    {
+     "name": "Michael R. Smith",
+     "votes": 742,
+     "party": "SALAMANCA PR",
+     "pct": 50.41,
+     "choice_id": "01000000-ddd6-4af2-e62e-08df23af25a3",
+     "party_lines": {
+      "SALAMANCA PR": 742
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 5,
+     "party": null,
+     "pct": 0.34,
+     "choice_id": "01000000-ddd6-4af2-e657-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-e65b-08df23af25a3",
+   "state": "NY",
+   "title": "Alderman for City of Salamanca Ward 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Maureen L. Puvel",
+     "votes": 123,
+     "party": "REP",
+     "pct": 62.76,
+     "choice_id": "01000000-ddd6-4af2-e684-08df23af25a3",
+     "party_lines": {
+      "REP": 101,
+      "CITIZENS CHO": 22
+     }
+    },
+    {
+     "name": "Joanne J. Hoag",
+     "votes": 73,
+     "party": "SALAMANCA PR",
+     "pct": 37.24,
+     "choice_id": "01000000-ddd6-4af2-e6a4-08df23af25a3",
+     "party_lines": {
+      "SALAMANCA PR": 73
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-e6d0-08df23af25a3",
+   "state": "NY",
+   "title": "Alderman for City of Salamanca Ward 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Kylee J. Johnson",
+     "votes": 231,
+     "party": "DEM",
+     "pct": 54.1,
+     "choice_id": "01000000-ddd6-4af2-e6fe-08df23af25a3",
+     "party_lines": {
+      "DEM": 167,
+      "CITIZENS CHO": 64
+     }
+    },
+    {
+     "name": "Brian W. Murphy",
+     "votes": 195,
+     "party": "SALAMANCA PR",
+     "pct": 45.67,
+     "choice_id": "01000000-ddd6-4af2-e723-08df23af25a3",
+     "party_lines": {
+      "SALAMANCA PR": 195
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.23,
+     "choice_id": "01000000-ddd6-4af2-e744-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-e74d-08df23af25a3",
+   "state": "NY",
+   "title": "Alderman for City of Salamanca Ward 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Barry A. Smith",
+     "votes": 41,
+     "party": "REP",
+     "pct": 23.56,
+     "choice_id": "01000000-ddd6-4af2-e774-08df23af25a3",
+     "party_lines": {
+      "REP": 41
+     }
+    },
+    {
+     "name": "Matthew L. Quigley",
+     "votes": 68,
+     "party": "WARD 3 PARTY",
+     "pct": 39.08,
+     "choice_id": "01000000-ddd6-4af2-e78f-08df23af25a3",
+     "party_lines": {
+      "WARD 3 PARTY": 68
+     }
+    },
+    {
+     "name": "Dylan J. Hackett",
+     "votes": 65,
+     "party": "SALAMANCA PR",
+     "pct": 37.36,
+     "choice_id": "01000000-ddd6-4af2-e7a9-08df23af25a3",
+     "party_lines": {
+      "SALAMANCA PR": 65
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-e7d4-08df23af25a3",
+   "state": "NY",
+   "title": "Alderman for City of Salamanca Ward 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Michael A. Reed",
+     "votes": 122,
+     "party": "DEM",
+     "pct": 40.4,
+     "choice_id": "01000000-ddd6-4af2-e7fc-08df23af25a3",
+     "party_lines": {
+      "DEM": 122
+     }
+    },
+    {
+     "name": "Kyle E. Waite",
+     "votes": 35,
+     "party": "GOOD DIRECTI",
+     "pct": 11.59,
+     "choice_id": "01000000-ddd6-4af2-e816-08df23af25a3",
+     "party_lines": {
+      "GOOD DIRECTI": 35
+     }
+    },
+    {
+     "name": "Lee Chapman DeBoy",
+     "votes": 144,
+     "party": "SALAMANCA PR",
+     "pct": 47.68,
+     "choice_id": "01000000-ddd6-4af2-e837-08df23af25a3",
+     "party_lines": {
+      "SALAMANCA PR": 144
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.33,
+     "choice_id": "01000000-ddd6-4af2-e85a-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-e864-08df23af25a3",
+   "state": "NY",
+   "title": "Alderman for City of Salamanca Ward 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Paul L. Myers",
+     "votes": 167,
+     "party": "DEM",
+     "pct": 55.67,
+     "choice_id": "01000000-ddd6-4af2-e88c-08df23af25a3",
+     "party_lines": {
+      "DEM": 138,
+      "CITIZENS CHO": 29
+     }
+    },
+    {
+     "name": "Zachary A. Tucker",
+     "votes": 133,
+     "party": "SALAMANCA PR",
+     "pct": 44.33,
+     "choice_id": "01000000-ddd6-4af2-e8a9-08df23af25a3",
+     "party_lines": {
+      "SALAMANCA PR": 133
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-e8d6-08df23af25a3",
+   "state": "NY",
+   "title": "Supervisor for Town of Allegany",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Christopher J. McPherson",
+     "votes": 1933,
+     "party": "REP",
+     "pct": 99.33,
+     "choice_id": "01000000-ddd6-4af2-e8fd-08df23af25a3",
+     "party_lines": {
+      "REP": 1933
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 13,
+     "party": null,
+     "pct": 0.67,
+     "choice_id": "01000000-ddd6-4af2-e91f-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-e92e-08df23af25a3",
+   "state": "NY",
+   "title": "Council Member for Town of Ashford (To fill one-year vacancy)",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Anthony J. Arnone",
+     "votes": 474,
+     "party": "REP",
+     "pct": 60.77,
+     "choice_id": "01000000-ddd6-4af2-e958-08df23af25a3",
+     "party_lines": {
+      "REP": 474
+     }
+    },
+    {
+     "name": "Michael Boberg",
+     "votes": 303,
+     "party": "UNITED PARTY",
+     "pct": 38.85,
+     "choice_id": "01000000-ddd6-4af2-e972-08df23af25a3",
+     "party_lines": {
+      "UNITED PARTY": 303
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.38,
+     "choice_id": "01000000-ddd6-4af2-e997-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-e99b-08df23af25a3",
+   "state": "NY",
+   "title": "Town Clerk for Town of Conewango (To fill one-year vacancy)",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Jennifer E. McGuire",
+     "votes": 271,
+     "party": "REP",
+     "pct": 99.63,
+     "choice_id": "01000000-ddd6-4af2-e9c7-08df23af25a3",
+     "party_lines": {
+      "REP": 271
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.37,
+     "choice_id": "01000000-ddd6-4af2-e9e8-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-ea46-08df23af25a3",
+   "state": "NY",
+   "title": "Council Member for Town of Conewango (To fill one-year vacancy)",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Danny Hubbard",
+     "votes": 264,
+     "party": "REP",
+     "pct": 98.88,
+     "choice_id": "01000000-ddd6-4af2-ea72-08df23af25a3",
+     "party_lines": {
+      "REP": 264
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 1.12,
+     "choice_id": "01000000-ddd6-4af2-ea97-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-e9ef-08df23af25a3",
+   "state": "NY",
+   "title": "Council Member for Town of Conewango (To fill two-year vacancy)",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Brian Pitts",
+     "votes": 278,
+     "party": "REP",
+     "pct": 99.29,
+     "choice_id": "01000000-ddd6-4af2-ea18-08df23af25a3",
+     "party_lines": {
+      "REP": 278
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.71,
+     "choice_id": "01000000-ddd6-4af2-ea3c-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-f933-08df23af25a3",
+   "state": "NY",
+   "title": "Town Justice for Town of Conewango",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Kalan M. Brown",
+     "votes": 270,
+     "party": "REP",
+     "pct": 99.63,
+     "choice_id": "01000000-ddd6-4af2-f95d-08df23af25a3",
+     "party_lines": {
+      "REP": 270
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.37,
+     "choice_id": "01000000-ddd6-4af2-f980-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-ea9b-08df23af25a3",
+   "state": "NY",
+   "title": "Supervisor for Town of Dayton",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Crystal J. Abers",
+     "votes": 507,
+     "party": "REP",
+     "pct": 99.61,
+     "choice_id": "01000000-ddd6-4af2-eac9-08df23af25a3",
+     "party_lines": {
+      "REP": 419,
+      "CONSERVATIVE": 88
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.39,
+     "choice_id": "01000000-ddd6-4af2-eaf0-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-eaf8-08df23af25a3",
+   "state": "NY",
+   "title": "Town Clerk for Town of Dayton",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Kelly L. Kuhaneck",
+     "votes": 488,
+     "party": "REP",
+     "pct": 99.59,
+     "choice_id": "01000000-ddd6-4af2-eb25-08df23af25a3",
+     "party_lines": {
+      "REP": 405,
+      "CONSERVATIVE": 83
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.41,
+     "choice_id": "01000000-ddd6-4af2-eb4c-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-eb56-08df23af25a3",
+   "state": "NY",
+   "title": "Highway Superintendent for Town of Dayton",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Larry R. Miller",
+     "votes": 478,
+     "party": "REP",
+     "pct": 98.15,
+     "choice_id": "01000000-ddd6-4af2-eb83-08df23af25a3",
+     "party_lines": {
+      "REP": 398,
+      "CONSERVATIVE": 80
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 9,
+     "party": null,
+     "pct": 1.85,
+     "choice_id": "01000000-ddd6-4af2-eba7-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-f987-08df23af25a3",
+   "state": "NY",
+   "title": "Town Justice for Town of Dayton",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Ellsworth A. Textor, Jr.",
+     "votes": 451,
+     "party": "REP",
+     "pct": 99.78,
+     "choice_id": "01000000-ddd6-4af2-f9b2-08df23af25a3",
+     "party_lines": {
+      "REP": 451
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.22,
+     "choice_id": "01000000-ddd6-4af2-f9d3-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-ebad-08df23af25a3",
+   "state": "NY",
+   "title": "Council Member for Town of Freedom (To fill one-year vacancy)",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Cory Higgins",
+     "votes": 657,
+     "party": "REP",
+     "pct": 99.55,
+     "choice_id": "01000000-ddd6-4af2-ebd8-08df23af25a3",
+     "party_lines": {
+      "REP": 657
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.45,
+     "choice_id": "01000000-ddd6-4af2-ebfb-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-f9db-08df23af25a3",
+   "state": "NY",
+   "title": "Town Justice for Town of Humphrey",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Erin Whitcomb",
+     "votes": 202,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "01000000-ddd6-4af2-fa05-08df23af25a3",
+     "party_lines": {
+      "REP": 202
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-ebff-08df23af25a3",
+   "state": "NY",
+   "title": "Supervisor for Town of Ischua",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Sean Tuttle",
+     "votes": 252,
+     "party": "REP",
+     "pct": 99.6,
+     "choice_id": "01000000-ddd6-4af2-ec28-08df23af25a3",
+     "party_lines": {
+      "REP": 252
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.4,
+     "choice_id": "01000000-ddd6-4af2-ec4e-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-ec54-08df23af25a3",
+   "state": "NY",
+   "title": "Town Clerk for Town of Ischua",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Kelle J. Brisky",
+     "votes": 259,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "01000000-ddd6-4af2-ec83-08df23af25a3",
+     "party_lines": {
+      "REP": 259
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-eca9-08df23af25a3",
+   "state": "NY",
+   "title": "Highway Superintendent for Town of Ischua",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Richard M. Michael, Jr.",
+     "votes": 161,
+     "party": "DEM",
+     "pct": 95.27,
+     "choice_id": "01000000-ddd6-4af2-ecd3-08df23af25a3",
+     "party_lines": {
+      "DEM": 161
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": null,
+     "pct": 4.73,
+     "choice_id": "01000000-ddd6-4af2-ecf4-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-ecfa-08df23af25a3",
+   "state": "NY",
+   "title": "Tax Collector for Town of Ischua",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Julie A. McConnaughey-Goodyear",
+     "votes": 255,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "01000000-ddd6-4af2-ed23-08df23af25a3",
+     "party_lines": {
+      "REP": 255
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-fa2c-08df23af25a3",
+   "state": "NY",
+   "title": "Town Justice for Town of Ischua",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Mark A. Sage",
+     "votes": 247,
+     "party": "REP",
+     "pct": 98.8,
+     "choice_id": "01000000-ddd6-4af2-fa5e-08df23af25a3",
+     "party_lines": {
+      "REP": 247
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 1.2,
+     "choice_id": "01000000-ddd6-4af2-fa7e-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-ed4f-08df23af25a3",
+   "state": "NY",
+   "title": "Supervisor for Town of Leon",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Jacqueline Ann Ellis",
+     "votes": 138,
+     "party": "DEM",
+     "pct": 89.03,
+     "choice_id": "01000000-ddd6-4af2-ed7b-08df23af25a3",
+     "party_lines": {
+      "DEM": 138
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 17,
+     "party": null,
+     "pct": 10.97,
+     "choice_id": "01000000-ddd6-4af2-ed9b-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-eda2-08df23af25a3",
+   "state": "NY",
+   "title": "Town Clerk for Town of Leon",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Sheila M. Fiebelkorn",
+     "votes": 150,
+     "party": "DEM",
+     "pct": 94.34,
+     "choice_id": "01000000-ddd6-4af2-edcc-08df23af25a3",
+     "party_lines": {
+      "DEM": 150
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 9,
+     "party": null,
+     "pct": 5.66,
+     "choice_id": "01000000-ddd6-4af2-edee-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-edf4-08df23af25a3",
+   "state": "NY",
+   "title": "Highway Superintendent for Town of Little Valley (To fill one-year vacancy)",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Terry R. Rosell",
+     "votes": 472,
+     "party": "REP",
+     "pct": 94.59,
+     "choice_id": "01000000-ddd6-4af2-ee23-08df23af25a3",
+     "party_lines": {
+      "REP": 472
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 27,
+     "party": null,
+     "pct": 5.41,
+     "choice_id": "01000000-ddd6-4af2-ee40-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-ee4e-08df23af25a3",
+   "state": "NY",
+   "title": "Supervisor for Town of Lyndon",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Barbara Montante",
+     "votes": 233,
+     "party": "DEM",
+     "pct": 97.08,
+     "choice_id": "01000000-ddd6-4af2-ee7e-08df23af25a3",
+     "party_lines": {
+      "DEM": 79,
+      "REP": 154
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 7,
+     "party": null,
+     "pct": 2.92,
+     "choice_id": "01000000-ddd6-4af2-ee9c-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-eea4-08df23af25a3",
+   "state": "NY",
+   "title": "Town Clerk for Town of Lyndon",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Emily Robinson",
+     "votes": 234,
+     "party": "DEM",
+     "pct": 97.5,
+     "choice_id": "01000000-ddd6-4af2-eed4-08df23af25a3",
+     "party_lines": {
+      "DEM": 82,
+      "REP": 152
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 6,
+     "party": null,
+     "pct": 2.5,
+     "choice_id": "01000000-ddd6-4af2-eef2-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-eefa-08df23af25a3",
+   "state": "NY",
+   "title": "Highway Superintendent for Town of Lyndon",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "George S. Schneider, Jr.",
+     "votes": 151,
+     "party": "DEM",
+     "pct": 60.16,
+     "choice_id": "01000000-ddd6-4af2-ef25-08df23af25a3",
+     "party_lines": {
+      "DEM": 151
+     }
+    },
+    {
+     "name": "Jordon Green",
+     "votes": 99,
+     "party": "REP",
+     "pct": 39.44,
+     "choice_id": "01000000-ddd6-4af2-ef45-08df23af25a3",
+     "party_lines": {
+      "REP": 99
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.4,
+     "choice_id": "01000000-ddd6-4af2-ef65-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-fa87-08df23af25a3",
+   "state": "NY",
+   "title": "Town Justice for Town of Machias",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "01000000-ddd6-4af2-fab4-08df23af25a3",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "01000000-ddd6-4af2-fad2-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-ef6b-08df23af25a3",
+   "state": "NY",
+   "title": "Supervisor for Town of Mansfield",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Carl R. Calarco, Jr.",
+     "votes": 263,
+     "party": "REP",
+     "pct": 98.13,
+     "choice_id": "01000000-ddd6-4af2-ef95-08df23af25a3",
+     "party_lines": {
+      "REP": 263
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 5,
+     "party": null,
+     "pct": 1.87,
+     "choice_id": "01000000-ddd6-4af2-efb3-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-efbc-08df23af25a3",
+   "state": "NY",
+   "title": "Town Clerk for Town of Mansfield",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Betty Jane Horning",
+     "votes": 274,
+     "party": "REP",
+     "pct": 97.16,
+     "choice_id": "01000000-ddd6-4af2-efe7-08df23af25a3",
+     "party_lines": {
+      "REP": 274
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": null,
+     "pct": 2.84,
+     "choice_id": "01000000-ddd6-4af2-f006-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-f00c-08df23af25a3",
+   "state": "NY",
+   "title": "Highway Superintendent for Town of Mansfield",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Jeffrey J. Williams",
+     "votes": 284,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "01000000-ddd6-4af2-f038-08df23af25a3",
+     "party_lines": {
+      "REP": 284
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-f44b-08df23af25a3",
+   "state": "NY",
+   "title": "Supervisor for Town of Napoli",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Daniel T. Martonis",
+     "votes": 351,
+     "party": "REP",
+     "pct": 99.43,
+     "choice_id": "01000000-ddd6-4af2-f48c-08df23af25a3",
+     "party_lines": {
+      "REP": 351
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.57,
+     "choice_id": "01000000-ddd6-4af2-f4ae-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-f4b5-08df23af25a3",
+   "state": "NY",
+   "title": "Town Clerk for Town of Napoli",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Victoria L. Bedell",
+     "votes": 378,
+     "party": "REP",
+     "pct": 99.74,
+     "choice_id": "01000000-ddd6-4af2-f4e5-08df23af25a3",
+     "party_lines": {
+      "REP": 378
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.26,
+     "choice_id": "01000000-ddd6-4af2-f502-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-f50a-08df23af25a3",
+   "state": "NY",
+   "title": "Supervisor for Town of Persia",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "John T. Walgus",
+     "votes": 575,
+     "party": "REP",
+     "pct": 99.48,
+     "choice_id": "01000000-ddd6-4af2-f54c-08df23af25a3",
+     "party_lines": {
+      "REP": 575
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.52,
+     "choice_id": "01000000-ddd6-4af2-f56d-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-fadb-08df23af25a3",
+   "state": "NY",
+   "title": "Town Justice for Town of Persia",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Mark D. Hebner",
+     "votes": 575,
+     "party": "REP",
+     "pct": 99.65,
+     "choice_id": "01000000-ddd6-4af2-fb08-08df23af25a3",
+     "party_lines": {
+      "REP": 575
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.35,
+     "choice_id": "01000000-ddd6-4af2-fb25-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-f57d-08df23af25a3",
+   "state": "NY",
+   "title": "Supervisor for Town of Portville",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Timothy D. Emley",
+     "votes": 1075,
+     "party": "REP",
+     "pct": 99.17,
+     "choice_id": "01000000-ddd6-4af2-f5ac-08df23af25a3",
+     "party_lines": {
+      "REP": 1075
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 9,
+     "party": null,
+     "pct": 0.83,
+     "choice_id": "01000000-ddd6-4af2-f5c9-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-f5d3-08df23af25a3",
+   "state": "NY",
+   "title": "Supervisor for Town of Red House",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Harris Economou",
+     "votes": 20,
+     "party": "COMMUNITY PA",
+     "pct": 100.0,
+     "choice_id": "01000000-ddd6-4af2-f601-08df23af25a3",
+     "party_lines": {
+      "COMMUNITY PA": 20
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-f626-08df23af25a3",
+   "state": "NY",
+   "title": "Town Clerk for Town of Red House",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Nancy Schaal",
+     "votes": 21,
+     "party": "COMMUNITY PA",
+     "pct": 100.0,
+     "choice_id": "01000000-ddd6-4af2-f653-08df23af25a3",
+     "party_lines": {
+      "COMMUNITY PA": 21
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-f67d-08df23af25a3",
+   "state": "NY",
+   "title": "Highway Superintendent for Town of Red House",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Cody Anderson",
+     "votes": 21,
+     "party": "COMMUNITY PA",
+     "pct": 100.0,
+     "choice_id": "01000000-ddd6-4af2-f6ab-08df23af25a3",
+     "party_lines": {
+      "COMMUNITY PA": 21
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-fb81-08df23af25a3",
+   "state": "NY",
+   "title": "Town Justice for Town of Red House",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Jacob Segarra",
+     "votes": 18,
+     "party": "COMMUNITY PA",
+     "pct": 51.43,
+     "choice_id": "01000000-ddd6-4af2-fbae-08df23af25a3",
+     "party_lines": {
+      "COMMUNITY PA": 18
+     }
+    },
+    {
+     "name": "Henry Leible",
+     "votes": 15,
+     "party": "COMMUNITY PA",
+     "pct": 42.86,
+     "choice_id": "01000000-ddd6-4af2-fbc9-08df23af25a3",
+     "party_lines": {
+      "COMMUNITY PA": 15
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 5.71,
+     "choice_id": "01000000-ddd6-4af2-fbe9-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-f6d1-08df23af25a3",
+   "state": "NY",
+   "title": "Supervisor for Town of South Valley",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Kathy A. Burch",
+     "votes": 79,
+     "party": "REP",
+     "pct": 96.34,
+     "choice_id": "01000000-ddd6-4af2-f702-08df23af25a3",
+     "party_lines": {
+      "REP": 79
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 3.66,
+     "choice_id": "01000000-ddd6-4af2-f71c-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-f726-08df23af25a3",
+   "state": "NY",
+   "title": "Council Member for Town of South Valley (To fill two-year vacancy)",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Mark E. Burch",
+     "votes": 76,
+     "party": "REP",
+     "pct": 96.2,
+     "choice_id": "01000000-ddd6-4af2-f753-08df23af25a3",
+     "party_lines": {
+      "REP": 76
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 3.8,
+     "choice_id": "01000000-ddd6-4af2-f76d-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-f775-08df23af25a3",
+   "state": "NY",
+   "title": "Highway Superintendent for Town of South Valley",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Tyler Mendell",
+     "votes": 84,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "01000000-ddd6-4af2-f7a8-08df23af25a3",
+     "party_lines": {
+      "REP": 84
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.cattaraugus",
+   "contest_id": "01000000-ddd6-4af2-fb2c-08df23af25a3",
+   "state": "NY",
+   "title": "Town Justice for Town of Yorkshire",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Cattaraugus County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:44:32.5792222Z",
+   "choices": [
+    {
+     "name": "Brenda L. Denk",
+     "votes": 972,
+     "party": "REP",
+     "pct": 99.39,
+     "choice_id": "01000000-ddd6-4af2-fb5e-08df23af25a3",
+     "party_lines": {
+      "REP": 972
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 6,
+     "party": null,
+     "pct": 0.61,
+     "choice_id": "01000000-ddd6-4af2-fb7a-08df23af25a3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  }
+ ],
+ "contests_hash": "a0a91116a75a3eed",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-04T15:00:45+00:00",
+ "fetched_at": "2026-11-04T15:00:45+00:00",
+ "contests_changed_at": "2026-11-04T14:55:47+00:00"
+}

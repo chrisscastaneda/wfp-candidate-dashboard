@@ -1,0 +1,4141 @@
+{
+ "source": "ny.broome",
+ "contests": [
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-82df-08df2fb19134",
+   "state": "NY",
+   "title": "Governor and Lieutenant Governor",
+   "office_type": "governor",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 126,
+    "pct": 0.0,
+    "text": "0 of 126 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Kathy C. Hochul & Adrienne E. Adams",
+     "votes": 33887,
+     "party": "DEM",
+     "pct": 50.06,
+     "choice_id": "01000000-1fbe-aa34-9cd7-08df2fb19134",
+     "party_lines": {
+      "DEM": 30804,
+      "WFP": 3083
+     }
+    },
+    {
+     "name": "Bruce A. Blakeman and Todd Hood",
+     "votes": 33670,
+     "party": "REP",
+     "pct": 49.74,
+     "choice_id": "01000000-1fbe-aa34-b4de-08df2fb19134",
+     "party_lines": {
+      "REP": 30301,
+      "CONSERVATIVE": 2738,
+      "VOTE AFFORDA": 631
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 134,
+     "party": null,
+     "pct": 0.2,
+     "choice_id": "01000000-1fbe-aa34-b7d9-08df2fb19134",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-afb1-08df2fb19135",
+   "state": "NY",
+   "title": "Comptroller",
+   "office_type": "controller",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 126,
+    "pct": 0.0,
+    "text": "0 of 126 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Thomas P. DiNapoli",
+     "votes": 38145,
+     "party": "DEM",
+     "pct": 57.2,
+     "choice_id": "01000000-1fbe-aa34-b027-08df2fb19135",
+     "party_lines": {
+      "DEM": 34081,
+      "WFP": 4064
+     }
+    },
+    {
+     "name": "Joseph Hernandez",
+     "votes": 28509,
+     "party": "REP",
+     "pct": 42.75,
+     "choice_id": "01000000-1fbe-aa34-b4e8-08df2fb19135",
+     "party_lines": {
+      "REP": 25760,
+      "CONSERVATIVE": 2749
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 35,
+     "party": null,
+     "pct": 0.05,
+     "choice_id": "01000000-1fbe-aa34-b701-08df2fb19135",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-bdc5-08df2fb19135",
+   "state": "NY",
+   "title": "Attorney General",
+   "office_type": "attorney_general",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 126,
+    "pct": 0.0,
+    "text": "0 of 126 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Letitia A. James",
+     "votes": 34956,
+     "party": "DEM",
+     "pct": 52.22,
+     "choice_id": "01000000-1fbe-aa34-bdfb-08df2fb19135",
+     "party_lines": {
+      "DEM": 31397,
+      "WFP": 3559
+     }
+    },
+    {
+     "name": "Saritha Komatireddy",
+     "votes": 31955,
+     "party": "REP",
+     "pct": 47.73,
+     "choice_id": "01000000-1fbe-aa34-bfdf-08df2fb19135",
+     "party_lines": {
+      "REP": 28865,
+      "CONSERVATIVE": 3090
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 33,
+     "party": null,
+     "pct": 0.05,
+     "choice_id": "01000000-1fbe-aa34-c1bf-08df2fb19135",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-c7c1-08df2fb19135",
+   "state": "NY",
+   "title": "Representative in Congress - District 19",
+   "office_type": "federal_house",
+   "district": "19",
+   "jurisdiction": "Broome County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 126,
+    "pct": 0.0,
+    "text": "0 of 126 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Josh Riley",
+     "votes": 38667,
+     "party": "DEM",
+     "pct": 57.36,
+     "choice_id": "01000000-1fbe-aa34-c7eb-08df2fb19135",
+     "party_lines": {
+      "DEM": 34566,
+      "WFP": 4101
+     }
+    },
+    {
+     "name": "Peter K. Oberacker",
+     "votes": 28674,
+     "party": "REP",
+     "pct": 42.54,
+     "choice_id": "01000000-1fbe-aa34-c9dd-08df2fb19135",
+     "party_lines": {
+      "REP": 25973,
+      "CONSERVATIVE": 2701
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 70,
+     "party": null,
+     "pct": 0.1,
+     "choice_id": "01000000-1fbe-aa34-cbc3-08df2fb19135",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-d193-08df2fb19135",
+   "state": "NY",
+   "title": "State Senator - District 51",
+   "office_type": "state_senate",
+   "district": "51",
+   "jurisdiction": "Broome County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 21,
+    "pct": 0.0,
+    "text": "0 of 21 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Michele Frazier",
+     "votes": 4607,
+     "party": "DEM",
+     "pct": 36.86,
+     "choice_id": "01000000-1fbe-aa34-d1b2-08df2fb19135",
+     "party_lines": {
+      "DEM": 4185,
+      "WFP": 422
+     }
+    },
+    {
+     "name": "Christopher W. Tague",
+     "votes": 7885,
+     "party": "REP",
+     "pct": 63.1,
+     "choice_id": "01000000-1fbe-aa34-d243-08df2fb19135",
+     "party_lines": {
+      "REP": 7273,
+      "CONSERVATIVE": 612
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 5,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-1fbe-aa34-d2a8-08df2fb19135",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-d94c-08df2fb19135",
+   "state": "NY",
+   "title": "State Senator - District 52",
+   "office_type": "state_senate",
+   "district": "52",
+   "jurisdiction": "Broome County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 105,
+    "pct": 0.0,
+    "text": "0 of 105 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Lea Webb",
+     "votes": 29310,
+     "party": "DEM",
+     "pct": 53.75,
+     "choice_id": "01000000-1fbe-aa34-d96a-08df2fb19135",
+     "party_lines": {
+      "DEM": 26226,
+      "WFP": 3084
+     }
+    },
+    {
+     "name": "Michael S. Bolles",
+     "votes": 25169,
+     "party": "REP",
+     "pct": 46.16,
+     "choice_id": "01000000-1fbe-aa34-db0c-08df2fb19135",
+     "party_lines": {
+      "REP": 22514,
+      "CONSERVATIVE": 2655
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 50,
+     "party": null,
+     "pct": 0.09,
+     "choice_id": "01000000-1fbe-aa34-dcab-08df2fb19135",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-e6f0-08df2fb19135",
+   "state": "NY",
+   "title": "Member of Assembly - District 121",
+   "office_type": "state_house",
+   "district": "121",
+   "jurisdiction": "Broome County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 33,
+    "pct": 0.0,
+    "text": "0 of 33 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Vicki Davis",
+     "votes": 7639,
+     "party": "DEM",
+     "pct": 37.65,
+     "choice_id": "01000000-1fbe-aa34-e70c-08df2fb19135",
+     "party_lines": {
+      "DEM": 7639
+     }
+    },
+    {
+     "name": "Joe Angelino",
+     "votes": 12644,
+     "party": "REP",
+     "pct": 62.31,
+     "choice_id": "01000000-1fbe-aa34-e75e-08df2fb19135",
+     "party_lines": {
+      "REP": 11589,
+      "CONSERVATIVE": 1055
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-1fbe-aa34-e809-08df2fb19135",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-ef85-08df2fb19135",
+   "state": "NY",
+   "title": "Member of Assembly - District 123",
+   "office_type": "state_house",
+   "district": "123",
+   "jurisdiction": "Broome County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 84,
+    "pct": 0.0,
+    "text": "0 of 84 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Dan Norton",
+     "votes": 23550,
+     "party": "DEM",
+     "pct": 58.49,
+     "choice_id": "01000000-1fbe-aa34-efa2-08df2fb19135",
+     "party_lines": {
+      "DEM": 23550
+     }
+    },
+    {
+     "name": "Lynn E. Parker",
+     "votes": 16195,
+     "party": "REP",
+     "pct": 40.22,
+     "choice_id": "01000000-1fbe-aa34-f04d-08df2fb19135",
+     "party_lines": {
+      "REP": 14363,
+      "CONSERVATIVE": 1832
+     }
+    },
+    {
+     "name": "Heather L. Micha",
+     "votes": 489,
+     "party": "COALITION PA",
+     "pct": 1.21,
+     "choice_id": "01000000-1fbe-aa34-f1a8-08df2fb19135",
+     "party_lines": {
+      "COALITION PA": 489
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 32,
+     "party": null,
+     "pct": 0.08,
+     "choice_id": "01000000-1fbe-aa34-f24e-08df2fb19135",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-fec4-08df2fb19135",
+   "state": "NY",
+   "title": "Member of Assembly - District 124",
+   "office_type": "state_house",
+   "district": "124",
+   "jurisdiction": "Broome County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": "0 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Andrew G. Fagan",
+     "votes": 1532,
+     "party": "DEM",
+     "pct": 32.96,
+     "choice_id": "01000000-1fbe-aa34-fedf-08df2fb19135",
+     "party_lines": {
+      "DEM": 1363,
+      "WFP": 169
+     }
+    },
+    {
+     "name": "Christopher S. Friend",
+     "votes": 3115,
+     "party": "REP",
+     "pct": 67.02,
+     "choice_id": "01000000-1fbe-aa34-ff26-08df2fb19135",
+     "party_lines": {
+      "REP": 2820,
+      "CONSERVATIVE": 295
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.02,
+     "choice_id": "01000000-1fbe-aa34-ff62-08df2fb19135",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-01f8-08df2fb19136",
+   "state": "NY",
+   "title": "Member of Assembly - District 131",
+   "office_type": "state_house",
+   "district": "131",
+   "jurisdiction": "Broome County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Phillip Fleming",
+     "votes": 350,
+     "party": "DEM",
+     "pct": 34.18,
+     "choice_id": "01000000-1fbe-aa34-0209-08df2fb19136",
+     "party_lines": {
+      "DEM": 350
+     }
+    },
+    {
+     "name": "Mark Benjamin",
+     "votes": 674,
+     "party": "REP",
+     "pct": 65.82,
+     "choice_id": "01000000-1fbe-aa34-0224-08df2fb19136",
+     "party_lines": {
+      "REP": 626,
+      "CONSERVATIVE": 48
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-030c-08df2fb19136",
+   "state": "NY",
+   "title": "County Sheriff",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 126,
+    "pct": 0.0,
+    "text": "0 of 126 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Matt Ryan",
+     "votes": 26858,
+     "party": "DEM",
+     "pct": 40.21,
+     "choice_id": "01000000-1fbe-aa34-0327-08df2fb19136",
+     "party_lines": {
+      "DEM": 23887,
+      "WFP": 2971
+     }
+    },
+    {
+     "name": "Fred Akshar",
+     "votes": 39376,
+     "party": "REP",
+     "pct": 58.95,
+     "choice_id": "01000000-1fbe-aa34-050f-08df2fb19136",
+     "party_lines": {
+      "REP": 35444,
+      "CONSERVATIVE": 3932
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 559,
+     "party": null,
+     "pct": 0.84,
+     "choice_id": "01000000-1fbe-aa34-06e9-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-0cb4-08df2fb19136",
+   "state": "NY",
+   "title": "County Legislator District #01",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 8,
+    "pct": 0.0,
+    "text": "0 of 8 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Jennings W. Terrell",
+     "votes": 2074,
+     "party": "DEM",
+     "pct": 38.34,
+     "choice_id": "01000000-1fbe-aa34-0cce-08df2fb19136",
+     "party_lines": {
+      "DEM": 1885,
+      "WFP": 189
+     }
+    },
+    {
+     "name": "Stephen J. Flagg",
+     "votes": 3332,
+     "party": "REP",
+     "pct": 61.6,
+     "choice_id": "01000000-1fbe-aa34-0d17-08df2fb19136",
+     "party_lines": {
+      "REP": 3084,
+      "CONSERVATIVE": 248
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.06,
+     "choice_id": "01000000-1fbe-aa34-0d4e-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-1030-08df2fb19136",
+   "state": "NY",
+   "title": "County Legislator District #02",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 10,
+    "pct": 0.0,
+    "text": "0 of 10 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Scott Baker",
+     "votes": 3471,
+     "party": "REP",
+     "pct": 97.83,
+     "choice_id": "01000000-1fbe-aa34-1044-08df2fb19136",
+     "party_lines": {
+      "REP": 3066,
+      "CONSERVATIVE": 405
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 77,
+     "party": null,
+     "pct": 2.17,
+     "choice_id": "01000000-1fbe-aa34-1089-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-1383-08df2fb19136",
+   "state": "NY",
+   "title": "County Legislator District #03",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 9,
+    "pct": 0.0,
+    "text": "0 of 9 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Kevin B. Alford",
+     "votes": 2134,
+     "party": "DEM",
+     "pct": 42.71,
+     "choice_id": "01000000-1fbe-aa34-13aa-08df2fb19136",
+     "party_lines": {
+      "DEM": 2134
+     }
+    },
+    {
+     "name": "Kelly F. Wildoner",
+     "votes": 2858,
+     "party": "REP",
+     "pct": 57.21,
+     "choice_id": "01000000-1fbe-aa34-13f5-08df2fb19136",
+     "party_lines": {
+      "REP": 2606,
+      "CONSERVATIVE": 252
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 4,
+     "party": null,
+     "pct": 0.08,
+     "choice_id": "01000000-1fbe-aa34-1463-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-1b85-08df2fb19136",
+   "state": "NY",
+   "title": "County Legislator District #04",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Kim A. Myers",
+     "votes": 1951,
+     "party": "DEM",
+     "pct": 98.99,
+     "choice_id": "01000000-1fbe-aa34-1ba6-08df2fb19136",
+     "party_lines": {
+      "DEM": 1951
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 20,
+     "party": null,
+     "pct": 1.01,
+     "choice_id": "01000000-1fbe-aa34-1bd5-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-1d01-08df2fb19136",
+   "state": "NY",
+   "title": "County Legislator District #05",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 10,
+    "pct": 0.0,
+    "text": "0 of 10 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Scott Wager",
+     "votes": 2780,
+     "party": "DEM",
+     "pct": 46.1,
+     "choice_id": "01000000-1fbe-aa34-1d1a-08df2fb19136",
+     "party_lines": {
+      "DEM": 2525,
+      "WFP": 255
+     }
+    },
+    {
+     "name": "Daniel J. Reynolds",
+     "votes": 3247,
+     "party": "REP",
+     "pct": 53.85,
+     "choice_id": "01000000-1fbe-aa34-1d76-08df2fb19136",
+     "party_lines": {
+      "REP": 2901,
+      "CONSERVATIVE": 346
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.05,
+     "choice_id": "01000000-1fbe-aa34-1db4-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-2298-08df2fb19136",
+   "state": "NY",
+   "title": "County Legislator District #06",
+   "office_type": "local",
+   "district": "6",
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": "0 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Autumn Lester",
+     "votes": 2048,
+     "party": "DEM",
+     "pct": 53.4,
+     "choice_id": "01000000-1fbe-aa34-22b3-08df2fb19136",
+     "party_lines": {
+      "DEM": 1820,
+      "WFP": 228
+     }
+    },
+    {
+     "name": "Greg W. Baldwin",
+     "votes": 1785,
+     "party": "REP",
+     "pct": 46.54,
+     "choice_id": "01000000-1fbe-aa34-22f4-08df2fb19136",
+     "party_lines": {
+      "REP": 1584,
+      "CONSERVATIVE": 201
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.05,
+     "choice_id": "01000000-1fbe-aa34-2330-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-25e6-08df2fb19136",
+   "state": "NY",
+   "title": "County Legislator District #07",
+   "office_type": "local",
+   "district": "7",
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 9,
+    "pct": 0.0,
+    "text": "0 of 9 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Matt White",
+     "votes": 2183,
+     "party": "DEM",
+     "pct": 43.22,
+     "choice_id": "01000000-1fbe-aa34-25fe-08df2fb19136",
+     "party_lines": {
+      "DEM": 2183
+     }
+    },
+    {
+     "name": "Matthew J. Pasquale",
+     "votes": 2867,
+     "party": "REP",
+     "pct": 56.76,
+     "choice_id": "01000000-1fbe-aa34-262e-08df2fb19136",
+     "party_lines": {
+      "REP": 2569,
+      "CONSERVATIVE": 298
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.02,
+     "choice_id": "01000000-1fbe-aa34-266a-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-2903-08df2fb19136",
+   "state": "NY",
+   "title": "County Legislator District #08",
+   "office_type": "local",
+   "district": "8",
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 10,
+    "pct": 0.0,
+    "text": "0 of 10 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Jason E. Shaw",
+     "votes": 4122,
+     "party": "REP",
+     "pct": 97.65,
+     "choice_id": "01000000-1fbe-aa34-291b-08df2fb19136",
+     "party_lines": {
+      "REP": 3476,
+      "CONSERVATIVE": 646
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 99,
+     "party": null,
+     "pct": 2.35,
+     "choice_id": "01000000-1fbe-aa34-2961-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-2b94-08df2fb19136",
+   "state": "NY",
+   "title": "County Legislator District #09",
+   "office_type": "local",
+   "district": "9",
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 8,
+    "pct": 0.0,
+    "text": "0 of 8 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Matthew J. Hilderbrant",
+     "votes": 4002,
+     "party": "REP",
+     "pct": 99.26,
+     "choice_id": "01000000-1fbe-aa34-2bac-08df2fb19136",
+     "party_lines": {
+      "REP": 3545,
+      "CONSERVATIVE": 457
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 30,
+     "party": null,
+     "pct": 0.74,
+     "choice_id": "01000000-1fbe-aa34-2bee-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-2dc5-08df2fb19136",
+   "state": "NY",
+   "title": "County Legislator District #10",
+   "office_type": "local",
+   "district": "10",
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 9,
+    "pct": 0.0,
+    "text": "0 of 9 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Erin V. Micha",
+     "votes": 3717,
+     "party": "REP",
+     "pct": 98.13,
+     "choice_id": "01000000-1fbe-aa34-2dd7-08df2fb19136",
+     "party_lines": {
+      "REP": 3214,
+      "CONSERVATIVE": 503
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 71,
+     "party": null,
+     "pct": 1.87,
+     "choice_id": "01000000-1fbe-aa34-2e23-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-302a-08df2fb19136",
+   "state": "NY",
+   "title": "County Legislator District #11",
+   "office_type": "local",
+   "district": "11",
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 8,
+    "pct": 0.0,
+    "text": "0 of 8 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Suzy Ryan",
+     "votes": 2589,
+     "party": "DEM",
+     "pct": 98.93,
+     "choice_id": "01000000-1fbe-aa34-303a-08df2fb19136",
+     "party_lines": {
+      "DEM": 2589
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 28,
+     "party": null,
+     "pct": 1.07,
+     "choice_id": "01000000-1fbe-aa34-3063-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-31b8-08df2fb19136",
+   "state": "NY",
+   "title": "County Legislator District #12",
+   "office_type": "local",
+   "district": "12",
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 9,
+    "pct": 0.0,
+    "text": "0 of 9 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Chris Moore",
+     "votes": 2218,
+     "party": "DEM",
+     "pct": 46.93,
+     "choice_id": "01000000-1fbe-aa34-31cd-08df2fb19136",
+     "party_lines": {
+      "DEM": 2041,
+      "WFP": 177
+     }
+    },
+    {
+     "name": "Louis P. Augostini",
+     "votes": 2502,
+     "party": "REP",
+     "pct": 52.94,
+     "choice_id": "01000000-1fbe-aa34-3211-08df2fb19136",
+     "party_lines": {
+      "REP": 2237,
+      "CONSERVATIVE": 265
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 6,
+     "party": null,
+     "pct": 0.13,
+     "choice_id": "01000000-1fbe-aa34-3249-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-3578-08df2fb19136",
+   "state": "NY",
+   "title": "County Legislator District #13",
+   "office_type": "local",
+   "district": "13",
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 8,
+    "pct": 0.0,
+    "text": "0 of 8 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Bob Weslar",
+     "votes": 2588,
+     "party": "DEM",
+     "pct": 98.55,
+     "choice_id": "01000000-1fbe-aa34-3589-08df2fb19136",
+     "party_lines": {
+      "DEM": 2588
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 38,
+     "party": null,
+     "pct": 1.45,
+     "choice_id": "01000000-1fbe-aa34-35ab-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-36fd-08df2fb19136",
+   "state": "NY",
+   "title": "County Legislator District #14",
+   "office_type": "local",
+   "district": "14",
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Mary Kaminsky",
+     "votes": 1396,
+     "party": "DEM",
+     "pct": 99.15,
+     "choice_id": "01000000-1fbe-aa34-370d-08df2fb19136",
+     "party_lines": {
+      "DEM": 1097,
+      "WFP": 299
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 12,
+     "party": null,
+     "pct": 0.85,
+     "choice_id": "01000000-1fbe-aa34-374d-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-38bf-08df2fb19136",
+   "state": "NY",
+   "title": "County Legislator District #15",
+   "office_type": "local",
+   "district": "15",
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 9,
+    "pct": 0.0,
+    "text": "0 of 9 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Timothy D. Ames",
+     "votes": 2480,
+     "party": "DEM",
+     "pct": 62.28,
+     "choice_id": "01000000-1fbe-aa34-38d7-08df2fb19136",
+     "party_lines": {
+      "DEM": 2162,
+      "WFP": 318
+     }
+    },
+    {
+     "name": "Philip A. Strawn",
+     "votes": 1465,
+     "party": "REP",
+     "pct": 36.79,
+     "choice_id": "01000000-1fbe-aa34-393e-08df2fb19136",
+     "party_lines": {
+      "REP": 1292,
+      "CONSERVATIVE": 173
+     }
+    },
+    {
+     "name": "Peter G. Savage",
+     "votes": 32,
+     "party": "PEOPLES CHOI",
+     "pct": 0.8,
+     "choice_id": "01000000-1fbe-aa34-3981-08df2fb19136",
+     "party_lines": {
+      "PEOPLES CHOI": 32
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 5,
+     "party": null,
+     "pct": 0.13,
+     "choice_id": "01000000-1fbe-aa34-399f-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-9fd1-08df2fb19136",
+   "state": "NY",
+   "title": "County Court Judge",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 126,
+    "pct": 0.0,
+    "text": "0 of 126 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Michael Garzo Jr.",
+     "votes": 31438,
+     "party": "DEM",
+     "pct": 48.31,
+     "choice_id": "01000000-1fbe-aa34-9fef-08df2fb19136",
+     "party_lines": {
+      "DEM": 28224,
+      "WFP": 3214
+     }
+    },
+    {
+     "name": "Peter DeLucia",
+     "votes": 33586,
+     "party": "REP",
+     "pct": 51.61,
+     "choice_id": "01000000-1fbe-aa34-a1da-08df2fb19136",
+     "party_lines": {
+      "REP": 30542,
+      "CONSERVATIVE": 3044
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 47,
+     "party": null,
+     "pct": 0.07,
+     "choice_id": "01000000-1fbe-aa34-a3db-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-a99f-08df2fb19136",
+   "state": "NY",
+   "title": "County Surrogate Judge",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 126,
+    "pct": 0.0,
+    "text": "0 of 126 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Lisa D. Smith",
+     "votes": 43690,
+     "party": "DEM",
+     "pct": 98.63,
+     "choice_id": "01000000-1fbe-aa34-a9bb-08df2fb19136",
+     "party_lines": {
+      "DEM": 35431,
+      "WFP": 8259
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 609,
+     "party": null,
+     "pct": 1.37,
+     "choice_id": "01000000-1fbe-aa34-ab9b-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-3d80-08df2fb19136",
+   "state": "NY",
+   "title": "Barker Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Lois Wiser Dilworth",
+     "votes": 813,
+     "party": "REP",
+     "pct": 98.31,
+     "choice_id": "01000000-1fbe-aa34-3d92-08df2fb19136",
+     "party_lines": {
+      "REP": 813
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 14,
+     "party": null,
+     "pct": 1.69,
+     "choice_id": "01000000-1fbe-aa34-3dac-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-3e30-08df2fb19136",
+   "state": "NY",
+   "title": "Barker Town Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Julie L. Scott",
+     "votes": 840,
+     "party": "REP",
+     "pct": 99.29,
+     "choice_id": "01000000-1fbe-aa34-3e3e-08df2fb19136",
+     "party_lines": {
+      "REP": 840
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 6,
+     "party": null,
+     "pct": 0.71,
+     "choice_id": "01000000-1fbe-aa34-3e57-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-3edf-08df2fb19136",
+   "state": "NY",
+   "title": "Barker Town Council Member",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Terry R. Dean",
+     "votes": 795,
+     "party": "REP",
+     "pct": 51.22,
+     "choice_id": "01000000-1fbe-aa34-3ef5-08df2fb19136",
+     "party_lines": {
+      "REP": 795
+     }
+    },
+    {
+     "name": "Christopher P. Smith",
+     "votes": 744,
+     "party": "REP",
+     "pct": 47.94,
+     "choice_id": "01000000-1fbe-aa34-3f0d-08df2fb19136",
+     "party_lines": {
+      "REP": 744
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 13,
+     "party": null,
+     "pct": 0.84,
+     "choice_id": "01000000-1fbe-aa34-3f1f-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-3ffd-08df2fb19136",
+   "state": "NY",
+   "title": "Barker Superintendent of Highways",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Steven Compeau",
+     "votes": 796,
+     "party": "REP",
+     "pct": 99.5,
+     "choice_id": "01000000-1fbe-aa34-400d-08df2fb19136",
+     "party_lines": {
+      "REP": 796
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 4,
+     "party": null,
+     "pct": 0.5,
+     "choice_id": "01000000-1fbe-aa34-4023-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-40af-08df2fb19136",
+   "state": "NY",
+   "title": "Binghamton Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Elizabeth Rounds",
+     "votes": 1599,
+     "party": "REP",
+     "pct": 98.16,
+     "choice_id": "01000000-1fbe-aa34-40c1-08df2fb19136",
+     "party_lines": {
+      "REP": 1599
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 30,
+     "party": null,
+     "pct": 1.84,
+     "choice_id": "01000000-1fbe-aa34-40e1-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-4193-08df2fb19136",
+   "state": "NY",
+   "title": "Binghamton Town Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Tracy Tokos",
+     "votes": 1607,
+     "party": "REP",
+     "pct": 98.83,
+     "choice_id": "01000000-1fbe-aa34-41a3-08df2fb19136",
+     "party_lines": {
+      "REP": 1607
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 19,
+     "party": null,
+     "pct": 1.17,
+     "choice_id": "01000000-1fbe-aa34-41bb-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-4264-08df2fb19136",
+   "state": "NY",
+   "title": "Binghamton Town Council Member",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Vickie A. Conklin",
+     "votes": 1530,
+     "party": "REP",
+     "pct": 51.81,
+     "choice_id": "01000000-1fbe-aa34-4278-08df2fb19136",
+     "party_lines": {
+      "REP": 1356,
+      "CONSERVATIVE": 174
+     }
+    },
+    {
+     "name": "Michael Bensley",
+     "votes": 1378,
+     "party": "REP",
+     "pct": 46.66,
+     "choice_id": "01000000-1fbe-aa34-42a6-08df2fb19136",
+     "party_lines": {
+      "REP": 1378
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 45,
+     "party": null,
+     "pct": 1.52,
+     "choice_id": "01000000-1fbe-aa34-42c7-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-441d-08df2fb19136",
+   "state": "NY",
+   "title": "Binghamton Superintendent or Highways",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Tom Hanna",
+     "votes": 1562,
+     "party": "REP",
+     "pct": 98.67,
+     "choice_id": "01000000-1fbe-aa34-442e-08df2fb19136",
+     "party_lines": {
+      "REP": 1407,
+      "CONSERVATIVE": 155
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 21,
+     "party": null,
+     "pct": 1.33,
+     "choice_id": "01000000-1fbe-aa34-4463-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-4544-08df2fb19136",
+   "state": "NY",
+   "title": "Chenango Town Supervisor (Unexpired Term)",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": "0 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Kevin Worden",
+     "votes": 3384,
+     "party": "REP",
+     "pct": 98.66,
+     "choice_id": "01000000-1fbe-aa34-4555-08df2fb19136",
+     "party_lines": {
+      "REP": 3384
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 46,
+     "party": null,
+     "pct": 1.34,
+     "choice_id": "01000000-1fbe-aa34-4577-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-46b3-08df2fb19136",
+   "state": "NY",
+   "title": "Chenango Town Council Member",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": "0 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Luke Slota",
+     "votes": 3255,
+     "party": "REP",
+     "pct": 50.29,
+     "choice_id": "01000000-1fbe-aa34-46c7-08df2fb19136",
+     "party_lines": {
+      "REP": 3255
+     }
+    },
+    {
+     "name": "J. Jay Simonis",
+     "votes": 3147,
+     "party": "REP",
+     "pct": 48.62,
+     "choice_id": "01000000-1fbe-aa34-46e7-08df2fb19136",
+     "party_lines": {
+      "REP": 3147
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 71,
+     "party": null,
+     "pct": 1.1,
+     "choice_id": "01000000-1fbe-aa34-4703-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-b15e-08df2fb19136",
+   "state": "NY",
+   "title": "Chenango Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": "0 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Michael A. Fedish",
+     "votes": 3254,
+     "party": "REP",
+     "pct": 98.94,
+     "choice_id": "01000000-1fbe-aa34-b173-08df2fb19136",
+     "party_lines": {
+      "REP": 3254
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 35,
+     "party": null,
+     "pct": 1.06,
+     "choice_id": "01000000-1fbe-aa34-b195-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-493d-08df2fb19136",
+   "state": "NY",
+   "title": "Colesville Town Clerk (Unexpired Term)",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Samantha Northrop",
+     "votes": 1233,
+     "party": "REP",
+     "pct": 83.31,
+     "choice_id": "01000000-1fbe-aa34-494d-08df2fb19136",
+     "party_lines": {
+      "REP": 1233
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 247,
+     "party": null,
+     "pct": 16.69,
+     "choice_id": "01000000-1fbe-aa34-495f-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-49de-08df2fb19136",
+   "state": "NY",
+   "title": "Colesville Town Council Member",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Michael F. Olin",
+     "votes": 1373,
+     "party": "REP",
+     "pct": 50.13,
+     "choice_id": "01000000-1fbe-aa34-49f1-08df2fb19136",
+     "party_lines": {
+      "REP": 1373
+     }
+    },
+    {
+     "name": "Natalie Skellett-Collins",
+     "votes": 1338,
+     "party": "REP",
+     "pct": 48.85,
+     "choice_id": "01000000-1fbe-aa34-4a0d-08df2fb19136",
+     "party_lines": {
+      "REP": 1338
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 28,
+     "party": null,
+     "pct": 1.02,
+     "choice_id": "01000000-1fbe-aa34-4a1c-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-4b02-08df2fb19136",
+   "state": "NY",
+   "title": "Colesville Town Assessor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Penny Bronson",
+     "votes": 1292,
+     "party": "REP",
+     "pct": 52.46,
+     "choice_id": "01000000-1fbe-aa34-4b16-08df2fb19136",
+     "party_lines": {
+      "REP": 1292
+     }
+    },
+    {
+     "name": "Kathy Calabrese",
+     "votes": 1157,
+     "party": "REP",
+     "pct": 46.98,
+     "choice_id": "01000000-1fbe-aa34-4b2b-08df2fb19136",
+     "party_lines": {
+      "REP": 1157
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 14,
+     "party": null,
+     "pct": 0.57,
+     "choice_id": "01000000-1fbe-aa34-4b42-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-4c1f-08df2fb19136",
+   "state": "NY",
+   "title": "Conklin Town Council Member",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Meg Jacobs",
+     "votes": 790,
+     "party": "DEM",
+     "pct": 20.92,
+     "choice_id": "01000000-1fbe-aa34-4c33-08df2fb19136",
+     "party_lines": {
+      "DEM": 719,
+      "WFP": 71
+     }
+    },
+    {
+     "name": "Maria Van De Weert",
+     "votes": 714,
+     "party": "DEM",
+     "pct": 18.91,
+     "choice_id": "01000000-1fbe-aa34-4c66-08df2fb19136",
+     "party_lines": {
+      "DEM": 714
+     }
+    },
+    {
+     "name": "Dell Boyle",
+     "votes": 1101,
+     "party": "REP",
+     "pct": 29.16,
+     "choice_id": "01000000-1fbe-aa34-4c7f-08df2fb19136",
+     "party_lines": {
+      "REP": 1101
+     }
+    },
+    {
+     "name": "William P. Farley",
+     "votes": 1171,
+     "party": "REP",
+     "pct": 31.01,
+     "choice_id": "01000000-1fbe-aa34-4c93-08df2fb19136",
+     "party_lines": {
+      "REP": 1171
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-b2cd-08df2fb19136",
+   "state": "NY",
+   "title": "Conklin Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Dawn M. Shafer",
+     "votes": 1416,
+     "party": "REP",
+     "pct": 98.27,
+     "choice_id": "01000000-1fbe-aa34-b2dc-08df2fb19136",
+     "party_lines": {
+      "REP": 1416
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 25,
+     "party": null,
+     "pct": 1.73,
+     "choice_id": "01000000-1fbe-aa34-b300-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-507d-08df2fb19136",
+   "state": "NY",
+   "title": "Dickinson Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Michael Marinaccio",
+     "votes": 1246,
+     "party": "REP",
+     "pct": 97.73,
+     "choice_id": "01000000-1fbe-aa34-509c-08df2fb19136",
+     "party_lines": {
+      "REP": 1246
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 29,
+     "party": null,
+     "pct": 2.27,
+     "choice_id": "01000000-1fbe-aa34-50c2-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-519c-08df2fb19136",
+   "state": "NY",
+   "title": "Dickinson Town Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Wendi D. Evans",
+     "votes": 1239,
+     "party": "REP",
+     "pct": 98.18,
+     "choice_id": "01000000-1fbe-aa34-51b8-08df2fb19136",
+     "party_lines": {
+      "REP": 1239
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 23,
+     "party": null,
+     "pct": 1.82,
+     "choice_id": "01000000-1fbe-aa34-51d1-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-52a4-08df2fb19136",
+   "state": "NY",
+   "title": "Dickinson Town Council Member",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Hans Van Houten",
+     "votes": 1093,
+     "party": "REP",
+     "pct": 48.64,
+     "choice_id": "01000000-1fbe-aa34-52b7-08df2fb19136",
+     "party_lines": {
+      "REP": 1093
+     }
+    },
+    {
+     "name": "Sharon M. Exley",
+     "votes": 1112,
+     "party": "REP",
+     "pct": 49.49,
+     "choice_id": "01000000-1fbe-aa34-52cf-08df2fb19136",
+     "party_lines": {
+      "REP": 1112
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 42,
+     "party": null,
+     "pct": 1.87,
+     "choice_id": "01000000-1fbe-aa34-52e5-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-5470-08df2fb19136",
+   "state": "NY",
+   "title": "Dickinson Town Superintendent of Highways",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Joel Kie",
+     "votes": 1187,
+     "party": "REP",
+     "pct": 98.1,
+     "choice_id": "01000000-1fbe-aa34-547f-08df2fb19136",
+     "party_lines": {
+      "REP": 1187
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 23,
+     "party": null,
+     "pct": 1.9,
+     "choice_id": "01000000-1fbe-aa34-549f-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-b3cf-08df2fb19136",
+   "state": "NY",
+   "title": "Dickinson Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Kathleen M. Groover",
+     "votes": 1169,
+     "party": "REP",
+     "pct": 98.15,
+     "choice_id": "01000000-1fbe-aa34-b3e1-08df2fb19136",
+     "party_lines": {
+      "REP": 1169
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 22,
+     "party": null,
+     "pct": 1.85,
+     "choice_id": "01000000-1fbe-aa34-b3fd-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-8dc1-08df2fb19136",
+   "state": "NY",
+   "title": "Endicott Village Trustee",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": "0 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Shellie Spinelli",
+     "votes": 1942,
+     "party": "REP",
+     "pct": 49.57,
+     "choice_id": "01000000-1fbe-aa34-8df2-08df2fb19136",
+     "party_lines": {
+      "REP": 1585,
+      "CONSERVATIVE": 357
+     }
+    },
+    {
+     "name": "Mark Ponzi",
+     "votes": 1816,
+     "party": "REP",
+     "pct": 46.35,
+     "choice_id": "01000000-1fbe-aa34-8e57-08df2fb19136",
+     "party_lines": {
+      "REP": 1466,
+      "CONSERVATIVE": 350
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 160,
+     "party": null,
+     "pct": 4.08,
+     "choice_id": "01000000-1fbe-aa34-8e90-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-556e-08df2fb19136",
+   "state": "NY",
+   "title": "Fenton Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "David Gunster",
+     "votes": 2014,
+     "party": "REP",
+     "pct": 98.68,
+     "choice_id": "01000000-1fbe-aa34-5586-08df2fb19136",
+     "party_lines": {
+      "REP": 2014
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 27,
+     "party": null,
+     "pct": 1.32,
+     "choice_id": "01000000-1fbe-aa34-55a5-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-5676-08df2fb19136",
+   "state": "NY",
+   "title": "Fenton Town Council Member",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "David C. Hamlin",
+     "votes": 1891,
+     "party": "REP",
+     "pct": 49.4,
+     "choice_id": "01000000-1fbe-aa34-568a-08df2fb19136",
+     "party_lines": {
+      "REP": 1891
+     }
+    },
+    {
+     "name": "Tom Moss",
+     "votes": 1881,
+     "party": "REP",
+     "pct": 49.14,
+     "choice_id": "01000000-1fbe-aa34-56a1-08df2fb19136",
+     "party_lines": {
+      "REP": 1881
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 56,
+     "party": null,
+     "pct": 1.46,
+     "choice_id": "01000000-1fbe-aa34-56b7-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-91c7-08df2fb19136",
+   "state": "NY",
+   "title": "Johnson City Village Trustee",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 8,
+    "pct": 0.0,
+    "text": "0 of 8 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Joseph M. Picalila",
+     "votes": 2396,
+     "party": "DEM",
+     "pct": 28.15,
+     "choice_id": "01000000-1fbe-aa34-91e5-08df2fb19136",
+     "party_lines": {
+      "DEM": 2154,
+      "WFP": 242
+     }
+    },
+    {
+     "name": "Leona Rhea Perreault",
+     "votes": 2321,
+     "party": "DEM",
+     "pct": 27.27,
+     "choice_id": "01000000-1fbe-aa34-9228-08df2fb19136",
+     "party_lines": {
+      "DEM": 2055,
+      "WFP": 266
+     }
+    },
+    {
+     "name": "Lori Thorn",
+     "votes": 1898,
+     "party": "REP",
+     "pct": 22.3,
+     "choice_id": "01000000-1fbe-aa34-9269-08df2fb19136",
+     "party_lines": {
+      "REP": 1689,
+      "CONSERVATIVE": 209
+     }
+    },
+    {
+     "name": "Mary F. Jacyna",
+     "votes": 1886,
+     "party": "REP",
+     "pct": 22.16,
+     "choice_id": "01000000-1fbe-aa34-92a7-08df2fb19136",
+     "party_lines": {
+      "REP": 1676,
+      "CONSERVATIVE": 210
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 11,
+     "party": null,
+     "pct": 0.13,
+     "choice_id": "01000000-1fbe-aa34-92de-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-5825-08df2fb19136",
+   "state": "NY",
+   "title": "Kirkwood Town Council Member",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Katie Legg",
+     "votes": 1541,
+     "party": "REP",
+     "pct": 50.94,
+     "choice_id": "01000000-1fbe-aa34-5838-08df2fb19136",
+     "party_lines": {
+      "REP": 1541
+     }
+    },
+    {
+     "name": "Sandy Wasson",
+     "votes": 1438,
+     "party": "REP",
+     "pct": 47.54,
+     "choice_id": "01000000-1fbe-aa34-5853-08df2fb19136",
+     "party_lines": {
+      "REP": 1438
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 46,
+     "party": null,
+     "pct": 1.52,
+     "choice_id": "01000000-1fbe-aa34-586a-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-59e2-08df2fb19136",
+   "state": "NY",
+   "title": "Kirkwood Town Council Member Unexpired",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Angela Tokos-Coolbaugh",
+     "votes": 1481,
+     "party": "REP",
+     "pct": 97.11,
+     "choice_id": "01000000-1fbe-aa34-59f2-08df2fb19136",
+     "party_lines": {
+      "REP": 1481
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 44,
+     "party": null,
+     "pct": 2.89,
+     "choice_id": "01000000-1fbe-aa34-5a0e-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-b4c8-08df2fb19136",
+   "state": "NY",
+   "title": "Kirkwood Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Michael J. Mucci, II",
+     "votes": 1575,
+     "party": "REP",
+     "pct": 99.31,
+     "choice_id": "01000000-1fbe-aa34-b4e1-08df2fb19136",
+     "party_lines": {
+      "REP": 1397,
+      "CONSERVATIVE": 178
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 11,
+     "party": null,
+     "pct": 0.69,
+     "choice_id": "01000000-1fbe-aa34-b510-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-5adc-08df2fb19136",
+   "state": "NY",
+   "title": "Lisle Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Edward Gehm",
+     "votes": 771,
+     "party": "REP",
+     "pct": 98.47,
+     "choice_id": "01000000-1fbe-aa34-5aec-08df2fb19136",
+     "party_lines": {
+      "REP": 771
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 12,
+     "party": null,
+     "pct": 1.53,
+     "choice_id": "01000000-1fbe-aa34-5b02-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-5b66-08df2fb19136",
+   "state": "NY",
+   "title": "Lisle Town Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Brenda Tillotson",
+     "votes": 841,
+     "party": "REP",
+     "pct": 98.94,
+     "choice_id": "01000000-1fbe-aa34-5b75-08df2fb19136",
+     "party_lines": {
+      "REP": 841
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 9,
+     "party": null,
+     "pct": 1.06,
+     "choice_id": "01000000-1fbe-aa34-5b91-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-5bec-08df2fb19136",
+   "state": "NY",
+   "title": "Lisle Town Council Member",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Scott Glezen",
+     "votes": 776,
+     "party": "REP",
+     "pct": 53.11,
+     "choice_id": "01000000-1fbe-aa34-5c01-08df2fb19136",
+     "party_lines": {
+      "REP": 776
+     }
+    },
+    {
+     "name": "Ronald Manwaring",
+     "votes": 673,
+     "party": "REP",
+     "pct": 46.06,
+     "choice_id": "01000000-1fbe-aa34-5c13-08df2fb19136",
+     "party_lines": {
+      "REP": 673
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 12,
+     "party": null,
+     "pct": 0.82,
+     "choice_id": "01000000-1fbe-aa34-5c2b-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-5cbd-08df2fb19136",
+   "state": "NY",
+   "title": "Lisle Town Superintendent of Highways",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Ronald Henderson",
+     "votes": 784,
+     "party": "REP",
+     "pct": 99.62,
+     "choice_id": "01000000-1fbe-aa34-5ccd-08df2fb19136",
+     "party_lines": {
+      "REP": 784
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.38,
+     "choice_id": "01000000-1fbe-aa34-5cdf-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-b61e-08df2fb19136",
+   "state": "NY",
+   "title": "Lisle Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Write-in",
+     "votes": 208,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "01000000-1fbe-aa34-b62d-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-5d45-08df2fb19136",
+   "state": "NY",
+   "title": "Maine Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Art Robinson",
+     "votes": 1652,
+     "party": "REP",
+     "pct": 97.58,
+     "choice_id": "01000000-1fbe-aa34-5d76-08df2fb19136",
+     "party_lines": {
+      "REP": 1652
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 41,
+     "party": null,
+     "pct": 2.42,
+     "choice_id": "01000000-1fbe-aa34-5da7-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-5eed-08df2fb19136",
+   "state": "NY",
+   "title": "Maine Town Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Joyce Grover",
+     "votes": 1698,
+     "party": "REP",
+     "pct": 99.41,
+     "choice_id": "01000000-1fbe-aa34-5f05-08df2fb19136",
+     "party_lines": {
+      "REP": 1698
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 10,
+     "party": null,
+     "pct": 0.59,
+     "choice_id": "01000000-1fbe-aa34-5f1e-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-5fce-08df2fb19136",
+   "state": "NY",
+   "title": "Maine Town Council Member",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Craig McConnell",
+     "votes": 1491,
+     "party": "REP",
+     "pct": 49.44,
+     "choice_id": "01000000-1fbe-aa34-5fed-08df2fb19136",
+     "party_lines": {
+      "REP": 1491
+     }
+    },
+    {
+     "name": "Shaun Dyer",
+     "votes": 1479,
+     "party": "REP",
+     "pct": 49.04,
+     "choice_id": "01000000-1fbe-aa34-6009-08df2fb19136",
+     "party_lines": {
+      "REP": 1479
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 46,
+     "party": null,
+     "pct": 1.53,
+     "choice_id": "01000000-1fbe-aa34-601d-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-613b-08df2fb19136",
+   "state": "NY",
+   "title": "Nanticoke Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Roy Willis",
+     "votes": 468,
+     "party": "REP",
+     "pct": 99.36,
+     "choice_id": "01000000-1fbe-aa34-6149-08df2fb19136",
+     "party_lines": {
+      "REP": 468
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.64,
+     "choice_id": "01000000-1fbe-aa34-615f-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-61c3-08df2fb19136",
+   "state": "NY",
+   "title": "Nanticoke Town Council Member",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Anthony Slack",
+     "votes": 460,
+     "party": "REP",
+     "pct": 51.17,
+     "choice_id": "01000000-1fbe-aa34-61d5-08df2fb19136",
+     "party_lines": {
+      "REP": 460
+     }
+    },
+    {
+     "name": "Scott J. Whittaker",
+     "votes": 436,
+     "party": "REP",
+     "pct": 48.5,
+     "choice_id": "01000000-1fbe-aa34-61ec-08df2fb19136",
+     "party_lines": {
+      "REP": 436
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.33,
+     "choice_id": "01000000-1fbe-aa34-61fc-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-b67f-08df2fb19136",
+   "state": "NY",
+   "title": "Nanticoke Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Bradley H. Baldwin",
+     "votes": 472,
+     "party": "REP",
+     "pct": 99.58,
+     "choice_id": "01000000-1fbe-aa34-b68f-08df2fb19136",
+     "party_lines": {
+      "REP": 472
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.42,
+     "choice_id": "01000000-1fbe-aa34-b6a2-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-9ba0-08df2fb19136",
+   "state": "NY",
+   "title": "Port Dickinson Village Mayor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Kevin M. Burke",
+     "votes": 380,
+     "party": "REP",
+     "pct": 96.2,
+     "choice_id": "01000000-1fbe-aa34-9bd6-08df2fb19136",
+     "party_lines": {
+      "REP": 380
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 15,
+     "party": null,
+     "pct": 3.8,
+     "choice_id": "01000000-1fbe-aa34-9c02-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-9cd2-08df2fb19136",
+   "state": "NY",
+   "title": "Port Dickinson Village Trustee",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Robert J. Warholic",
+     "votes": 351,
+     "party": "REP",
+     "pct": 47.18,
+     "choice_id": "01000000-1fbe-aa34-9ced-08df2fb19136",
+     "party_lines": {
+      "REP": 351
+     }
+    },
+    {
+     "name": "Robert D. Moss",
+     "votes": 372,
+     "party": "REP",
+     "pct": 50.0,
+     "choice_id": "01000000-1fbe-aa34-9d17-08df2fb19136",
+     "party_lines": {
+      "REP": 372
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 21,
+     "party": null,
+     "pct": 2.82,
+     "choice_id": "01000000-1fbe-aa34-9d31-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-6284-08df2fb19136",
+   "state": "NY",
+   "title": "Sanford Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Kenneth R. Wist",
+     "votes": 701,
+     "party": "REP",
+     "pct": 98.46,
+     "choice_id": "01000000-1fbe-aa34-629a-08df2fb19136",
+     "party_lines": {
+      "REP": 701
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 11,
+     "party": null,
+     "pct": 1.54,
+     "choice_id": "01000000-1fbe-aa34-62aa-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-6306-08df2fb19136",
+   "state": "NY",
+   "title": "Sanford Town Council Member",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Shane Lester",
+     "votes": 714,
+     "party": "REP",
+     "pct": 91.54,
+     "choice_id": "01000000-1fbe-aa34-6317-08df2fb19136",
+     "party_lines": {
+      "REP": 714
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 66,
+     "party": null,
+     "pct": 8.46,
+     "choice_id": "01000000-1fbe-aa34-632d-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-63ae-08df2fb19136",
+   "state": "NY",
+   "title": "Sanford Town Superintendent of Highways",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Leo C Shew",
+     "votes": 706,
+     "party": "REP",
+     "pct": 97.65,
+     "choice_id": "01000000-1fbe-aa34-63bd-08df2fb19136",
+     "party_lines": {
+      "REP": 706
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 17,
+     "party": null,
+     "pct": 2.35,
+     "choice_id": "01000000-1fbe-aa34-63d4-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-6430-08df2fb19136",
+   "state": "NY",
+   "title": "Triangle Town Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Sandra K Martin",
+     "votes": 831,
+     "party": "REP",
+     "pct": 98.93,
+     "choice_id": "01000000-1fbe-aa34-6441-08df2fb19136",
+     "party_lines": {
+      "REP": 831
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 9,
+     "party": null,
+     "pct": 1.07,
+     "choice_id": "01000000-1fbe-aa34-6459-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-64d8-08df2fb19136",
+   "state": "NY",
+   "title": "Triangle Town Council Member",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Mark A Mesceda",
+     "votes": 761,
+     "party": "REP",
+     "pct": 48.41,
+     "choice_id": "01000000-1fbe-aa34-64f3-08df2fb19136",
+     "party_lines": {
+      "REP": 761
+     }
+    },
+    {
+     "name": "John L Bennett",
+     "votes": 790,
+     "party": "REP",
+     "pct": 50.25,
+     "choice_id": "01000000-1fbe-aa34-650a-08df2fb19136",
+     "party_lines": {
+      "REP": 790
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 21,
+     "party": null,
+     "pct": 1.34,
+     "choice_id": "01000000-1fbe-aa34-651d-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-65f3-08df2fb19136",
+   "state": "NY",
+   "title": "Triangle Town Council Member (Unexpired Term)",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Write-in",
+     "votes": 26,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "01000000-1fbe-aa34-6605-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-6670-08df2fb19136",
+   "state": "NY",
+   "title": "Triangle Town Superintendent of Highways",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Daniel S. McGowen",
+     "votes": 725,
+     "party": "REP",
+     "pct": 99.18,
+     "choice_id": "01000000-1fbe-aa34-667f-08df2fb19136",
+     "party_lines": {
+      "REP": 725
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 6,
+     "party": null,
+     "pct": 0.82,
+     "choice_id": "01000000-1fbe-aa34-6697-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-6d9e-08df2fb19136",
+   "state": "NY",
+   "title": "Union Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 36,
+    "pct": 0.0,
+    "text": "0 of 36 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Robert M Egan",
+     "votes": 10065,
+     "party": "DEM",
+     "pct": 51.61,
+     "choice_id": "01000000-1fbe-aa34-6db5-08df2fb19136",
+     "party_lines": {
+      "DEM": 9148,
+      "WFP": 917
+     }
+    },
+    {
+     "name": "Robert Mack",
+     "votes": 9432,
+     "party": "REP",
+     "pct": 48.36,
+     "choice_id": "01000000-1fbe-aa34-6e62-08df2fb19136",
+     "party_lines": {
+      "REP": 8432,
+      "CONSERVATIVE": 1000
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 5,
+     "party": null,
+     "pct": 0.03,
+     "choice_id": "01000000-1fbe-aa34-6f02-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-78b1-08df2fb19136",
+   "state": "NY",
+   "title": "Union Town Council Member",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 36,
+    "pct": 0.0,
+    "text": "0 of 36 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Meggan Taylor",
+     "votes": 10593,
+     "party": "DEM",
+     "pct": 27.84,
+     "choice_id": "01000000-1fbe-aa34-78d0-08df2fb19136",
+     "party_lines": {
+      "DEM": 9567,
+      "WFP": 1026
+     }
+    },
+    {
+     "name": "Kerby Sainclair",
+     "votes": 9094,
+     "party": "DEM",
+     "pct": 23.9,
+     "choice_id": "01000000-1fbe-aa34-7974-08df2fb19136",
+     "party_lines": {
+      "DEM": 9094
+     }
+    },
+    {
+     "name": "David Kudgus",
+     "votes": 8820,
+     "party": "REP",
+     "pct": 23.18,
+     "choice_id": "01000000-1fbe-aa34-79c2-08df2fb19136",
+     "party_lines": {
+      "REP": 7858,
+      "CONSERVATIVE": 962
+     }
+    },
+    {
+     "name": "Joseph P Nirchi, Sr.",
+     "votes": 9530,
+     "party": "REP",
+     "pct": 25.04,
+     "choice_id": "01000000-1fbe-aa34-7a6a-08df2fb19136",
+     "party_lines": {
+      "REP": 8359,
+      "CONSERVATIVE": 1171
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 17,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-1fbe-aa34-7b00-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-b701-08df2fb19136",
+   "state": "NY",
+   "title": "Union Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 36,
+    "pct": 0.0,
+    "text": "0 of 36 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Thomas Dellapenna, Jr.",
+     "votes": 9357,
+     "party": "REP",
+     "pct": 49.57,
+     "choice_id": "01000000-1fbe-aa34-b716-08df2fb19136",
+     "party_lines": {
+      "REP": 9357
+     }
+    },
+    {
+     "name": "Andrew Petroski",
+     "votes": 9502,
+     "party": "DEM",
+     "pct": 50.34,
+     "choice_id": "01000000-1fbe-aa34-b772-08df2fb19136",
+     "party_lines": {
+      "DEM": 9502
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 16,
+     "party": null,
+     "pct": 0.08,
+     "choice_id": "01000000-1fbe-aa34-b7c0-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-bde1-08df2fb19136",
+   "state": "NY",
+   "title": "Vestal Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 18,
+    "pct": 0.0,
+    "text": "0 of 18 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Joshua S. Shapiro",
+     "votes": 5195,
+     "party": "DEM",
+     "pct": 54.7,
+     "choice_id": "01000000-1fbe-aa34-bdfa-08df2fb19136",
+     "party_lines": {
+      "DEM": 4729,
+      "WFP": 466
+     }
+    },
+    {
+     "name": "Matthew C. Butler",
+     "votes": 4293,
+     "party": "REP",
+     "pct": 45.2,
+     "choice_id": "01000000-1fbe-aa34-be60-08df2fb19136",
+     "party_lines": {
+      "REP": 3846,
+      "CONSERVATIVE": 447
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 10,
+     "party": null,
+     "pct": 0.11,
+     "choice_id": "01000000-1fbe-aa34-bec0-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-6717-08df2fb19136",
+   "state": "NY",
+   "title": "Windsor Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Timothy Harting",
+     "votes": 1545,
+     "party": "REP",
+     "pct": 83.24,
+     "choice_id": "01000000-1fbe-aa34-672a-08df2fb19136",
+     "party_lines": {
+      "REP": 1371,
+      "CONSERVATIVE": 174
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 311,
+     "party": null,
+     "pct": 16.76,
+     "choice_id": "01000000-1fbe-aa34-6784-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-6898-08df2fb19136",
+   "state": "NY",
+   "title": "Windsor Town Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Elizabeth Pfister",
+     "votes": 1449,
+     "party": "DEM",
+     "pct": 96.92,
+     "choice_id": "01000000-1fbe-aa34-68a8-08df2fb19136",
+     "party_lines": {
+      "DEM": 1449
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 46,
+     "party": null,
+     "pct": 3.08,
+     "choice_id": "01000000-1fbe-aa34-68c3-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-6994-08df2fb19136",
+   "state": "NY",
+   "title": "Windsor Town Council Member",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "James Conrad",
+     "votes": 1329,
+     "party": "REP",
+     "pct": 40.03,
+     "choice_id": "01000000-1fbe-aa34-69aa-08df2fb19136",
+     "party_lines": {
+      "REP": 1329
+     }
+    },
+    {
+     "name": "Christine Kennedy-Tierno",
+     "votes": 1311,
+     "party": "REP",
+     "pct": 39.49,
+     "choice_id": "01000000-1fbe-aa34-69c8-08df2fb19136",
+     "party_lines": {
+      "REP": 1311
+     }
+    },
+    {
+     "name": "Amanda  Jackson",
+     "votes": 630,
+     "party": "CONSERVATIVE",
+     "pct": 18.98,
+     "choice_id": "01000000-1fbe-aa34-69dd-08df2fb19136",
+     "party_lines": {
+      "CONSERVATIVE": 630
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 50,
+     "party": null,
+     "pct": 1.51,
+     "choice_id": "01000000-1fbe-aa34-69f2-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-6ba0-08df2fb19136",
+   "state": "NY",
+   "title": "Windsor Town Council Member (Unexpired Term)",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Cassie Robinson",
+     "votes": 1595,
+     "party": "REP",
+     "pct": 97.55,
+     "choice_id": "01000000-1fbe-aa34-6bb0-08df2fb19136",
+     "party_lines": {
+      "REP": 1595
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 40,
+     "party": null,
+     "pct": 2.45,
+     "choice_id": "01000000-1fbe-aa34-6bc8-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-6c9d-08df2fb19136",
+   "state": "NY",
+   "title": "Windsor Town Superintendent of Highways",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Michael Kithcart",
+     "votes": 1700,
+     "party": "REP",
+     "pct": 98.27,
+     "choice_id": "01000000-1fbe-aa34-6cad-08df2fb19136",
+     "party_lines": {
+      "REP": 1700
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 30,
+     "party": null,
+     "pct": 1.73,
+     "choice_id": "01000000-1fbe-aa34-6ccd-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-9de4-08df2fb19136",
+   "state": "NY",
+   "title": "Windsor Village Mayor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Ronald Harting",
+     "votes": 262,
+     "party": "REP",
+     "pct": 97.76,
+     "choice_id": "01000000-1fbe-aa34-9dfb-08df2fb19136",
+     "party_lines": {
+      "REP": 262
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 6,
+     "party": null,
+     "pct": 2.24,
+     "choice_id": "01000000-1fbe-aa34-9e11-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-9e73-08df2fb19136",
+   "state": "NY",
+   "title": "Windsor Village Trustee",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Elaine L. Card",
+     "votes": 233,
+     "party": "REP",
+     "pct": 50.22,
+     "choice_id": "01000000-1fbe-aa34-9e86-08df2fb19136",
+     "party_lines": {
+      "REP": 233
+     }
+    },
+    {
+     "name": "James W. Miller",
+     "votes": 229,
+     "party": "REP",
+     "pct": 49.35,
+     "choice_id": "01000000-1fbe-aa34-9e9b-08df2fb19136",
+     "party_lines": {
+      "REP": 229
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.43,
+     "choice_id": "01000000-1fbe-aa34-9ead-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.broome",
+   "contest_id": "01000000-1fbe-aa34-9f4d-08df2fb19136",
+   "state": "NY",
+   "title": "Windsor Village Trustee (Unexpired Term)",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Broome County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:03:49.1390834Z",
+   "choices": [
+    {
+     "name": "Kevin Beckstead",
+     "votes": 250,
+     "party": "REP",
+     "pct": 99.6,
+     "choice_id": "01000000-1fbe-aa34-9f5c-08df2fb19136",
+     "party_lines": {
+      "REP": 250
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.4,
+     "choice_id": "01000000-1fbe-aa34-9f75-08df2fb19136",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  }
+ ],
+ "contests_hash": "2b1ec67b0d42a8ea",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-04T15:00:32+00:00",
+ "fetched_at": "2026-11-04T15:00:32+00:00",
+ "contests_changed_at": "2026-11-04T14:55:34+00:00"
+}

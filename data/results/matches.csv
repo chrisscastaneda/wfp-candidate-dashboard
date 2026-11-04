@@ -27,6 +27,7 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 44,CA,Alexander Gvatua,"Foothill De Anza Community College District Board of Trustees, Area 2",unmatched,,,,,,,no 'gvatua' in any CA contest loaded
 50,CA,Aaron Burnett,"Larkspur City Council, At-large",unmatched,,,,,,,no 'burnett' in any CA contest loaded
 62,CA,Destiny Briscoe,"Pittsburg Unified School District Board of Education, At-large",unmatched,,,,,,,no 'briscoe' in any CA contest loaded
+79,CA,Allyson Chan,"San Mateo-Foster City School District, District 1",unmatched,,,,,,,no 'chan' in any CA contest loaded
 163,CA,Estefany Castañeda,"Centinela Valley Union High School District, Trustee Area 5",unmatched,,,,,,,no 'castaneda' in any CA contest loaded
 168,CA,Andrew Yam,Garvey Unified School District,unmatched,,,,,,,no 'yam' in any CA contest loaded
 181,CA,Alton Wang,"Pasadena Area Community College District, Trustee Area No. 7",unmatched,,,,,,,no 'wang' in any CA contest loaded
@@ -35,6 +36,8 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 1162,CA,Prop – 4: Small-Donor Democracy Over Big Money in Politics,Ballot Measure,unmatched,,,,,,,measure '4': not found
 276,CO,Taishya Adams,Boulder Mayor,unmatched,,,,,,,no 'adams' in any CO contest loaded
 487,NJ,Shantell Cherry,"Piscataway City Council, Ward 1",unmatched,,,,,,,no 'cherry' in any NJ contest loaded
+739,NY,Alexandria Smith,(Town of) Ulster Town Board,unmatched,,,,,,,no 'smith' in any NY contest loaded
+909,NY,Melissa First,"Chautauqua County Legislature, District 17",unmatched,,,,,,,no 'first' in any NY contest loaded
 1210,OH,"Columbus, OH | Issue 8: Our City, Our Say",Ballot Measure,unmatched,,,,,,,measure '8': not found
 1211,OH,Ohio | Senate Bill 396: Paid Family and Medical Leave Act,Ballot Measure,unmatched,,,,,,,measure None: not found
 989,OR,Christina Stephenson,Oregon Labor Commissioner,unmatched,,,,,,,no 'stephenson' in any OR contest loaded
@@ -54,19 +57,30 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 30,CA,Sally Lieber,"Board of Equalization, District 2",auto,district_surname,ca,board-of-equalization/2,Board of Equalization District 2,Sally J. Lieber,Sally J. Lieber,
 35,CA,Laura Nakamura,"Concord City Council, District 5",auto,name_in_state,ca.contra_costa,5305,CITY OF CONCORD  MEMBER  CITY COUNCIL  DISTRICT 5,LAURA NAKAMURA,LAURA NAKAMURA,
 36,CA,Cameron Sasai,"Contra Costa Community College Governing Board, Ward 1",auto,name_in_state,ca.contra_costa,3201,CONTRA COSTA COMMUNITY COLLEGE DISTRICT  GOVERNING BOARD MEMBER  WARD 1,CAMERON SASAI,CAMERON SASAI,
+38,CA,Rod Daus-Magbual,"Daly City City Council, At-large",auto,name_in_state,ca.san_mateo,52,"City of Daly City Member, City Council",90,ROD DAUS-MAGBUAL,
+40,CA,Ofelia Bello,"East Palo Alto City Council, At-large",auto,name_in_state,ca.san_mateo,53,"City of East Palo Alto Member, City Council",101,OFELIA BELLO,
+41,CA,Ruben Abrica,"East Palo Alto City Council, At-large",auto,name_in_state,ca.san_mateo,53,"City of East Palo Alto Member, City Council",98,RUBEN ABRICA,
 42,CA,Mer Currey Nunez,"East Side Union High School District Board of Trustees, Area 1",auto,name_in_state,ca.santa_clara,46,"East Side Union HSD, TA 1, Short Term",Mer Curry Nuñez,Mer Curry Nuñez,
+45,CA,Phoebe Shin Venkat,"Foster City Council, District 1",auto,name_in_state,ca.san_mateo,54,"City of Foster City Member, City Council, District 1",104,PHOEBE SHIN VENKAT,
 46,CA,Rebeca Armendariz,"Gilroy City Council, District 6",auto,name_in_state,ca.santa_clara,74,"City of Gilroy Council, District 6",Rebeca G. Armendáriz,Rebeca G. Armendáriz,
 49,CA,Chris Herrod,"Healdsburg City Council, District 4",auto,name_in_state,ca.sonoma,53,"Member, Healdsburg City Council, District 4",CHRIS HERROD,CHRIS HERROD,
 51,CA,Seema Kanani,"Milpitas City Council, At-large",auto,name_in_state,ca.santa_clara,80,City of Milpitas Council,Seema Kanani,Seema Kanani,
 52,CA,Erik Poicon,"Mountain View City Council, At-large",auto,name_in_state,ca.santa_clara,84,City of Mountain View Council,Erik Poicon,Erik Poicon,
 53,CA,IdaRose Sylvester,"Mountain View City Council, At-large",auto,name_in_state,ca.santa_clara,84,City of Mountain View Council,IdaRose Sylvester,IdaRose Sylvester,
+57,CA,Christine Boles,"Pacifica City Council, District 2",auto,name_in_state,ca.san_mateo,65,"City of Pacifica Member, City Council, District 2",123,CHRISTINE BOLES,
+58,CA,Sam Casillas,"Pacifica City Council, District 5",auto,name_in_state,ca.san_mateo,67,"City of Pacifica Member, City Council, District 5",126,SAM CASILLAS,
 59,CA,Eric Vazquez,"Petaluma City Council, District 3",auto,name_in_state,ca.sonoma,57,"Member, Petaluma City Council, District 3",ERIC VAZQUEZ,ERIC VAZQUEZ,
 60,CA,Sarah Seitchik Sebastian,"Petaluma City Schools Board of Trustees, Area 5",auto,name_in_state,ca.sonoma,37,"Governing Board Member, Petaluma Joint Union High School District, Trustee Area 5",SARAH SEITCHIK SEBASTIAN,SARAH SEITCHIK SEBASTIAN,
 61,CA,Truc “Christy” Lam-Julian,"Pinole City Council, At-large",auto,name_in_state,ca.contra_costa,6201,CITY OF PINOLE  MEMBER  CITY COUNCIL,TRUC 'CHRISTY' LAM-JULIAN,TRUC 'CHRISTY' LAM-JULIAN,
+63,CA,Chris Sturken,"Redwood City Council, District 2",auto,name_in_state,ca.san_mateo,69,"City of Redwood City Member, City Council, District 2",131,CHRIS STURKEN,
 64,CA,Claudia Jimenez,Richmond Mayor,auto,name_in_state,ca.contra_costa,6501,CITY OF RICHMOND  MAYOR,CLAUDIA JIMÉNEZ,CLAUDIA JIMÉNEZ,
+65,CA,Marty Medina,"San Bruno City Council, District 4",auto,name_in_state,ca.san_mateo,74,"City of San Bruno Member, City Council, District 4",138,MARTY P. MEDINA,
 73,CA,Peter Ortiz,"San Jose City Council, District 5",auto,name_in_state,ca.santa_clara,86,"City of San José Council, District 5",Peter Ortiz,Peter Ortiz,
 74,CA,Gordon Chester,"San Jose City Council, District 9",auto,name_in_state,ca.santa_clara,88,"City of San José Council, District 9",Gordon Chester,Gordon Chester,
 75,CA,Michael Melillo,"San Jose Unified School District Board of Trustees, Area 4",auto,name_in_state,ca.santa_clara,44,"San José Unified SD, Trustee Area 4",Michael Melillo,Michael Melillo,
+76,CA,Dana Johnson,"San Mateo County Board of Education, District 2",auto,name_in_state,ca.san_mateo,28,"County Board of Education Member, Trustee Area 2",29,DANA JOHNSON,
+77,CA,Mark Nagales,"San Mateo County Board of Supervisors, District 5",auto,name_in_state,ca.san_mateo,43,"Member, Board of Supervisors, District 5 (Short Term)",71,MARK NAGALES,
+78,CA,Diana Harris,"San Mateo Union High School District Board of Trustees, Area 3",auto,name_in_state,ca.san_mateo,34,"San Mateo Union High School District Member, Governing Board, Trustee Area 3",41,DIANA HARRIS,
 80,CA,Kevin Park,Santa Clara Mayor,auto,name_in_state,ca.santa_clara,89,"Mayor, City of Santa Clara",Kevin Park,Kevin Park,
 81,CA,Melanie Jones-Carter,"Santa Rosa City Council, District 4",auto,name_in_state,ca.sonoma,48,"Member, Santa Rosa City Council, District 4",MELANIE JONES-CARTER,MELANIE JONES-CARTER,
 84,CA,Caitlin Quinn,"Sonoma County Office of Education, District 2",auto,name_in_state,ca.sonoma,30,"Governing Board Member, Sonoma County Board of Education, Trustee Area 2",CAITLIN QUINN,CAITLIN QUINN,
@@ -88,9 +102,19 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 130,CA,Randy Villegas,"U.S. House of Representatives, District 22",auto,district_surname,ca,us-rep/22,U.S. House of Representatives District 22,Randy Villegas,Randy Villegas,
 131,CA,Liz Campos,"Ventura City Council, Distcit 1",auto,name_in_state,ca.ventura,82,San Buenaventura City Council District 1,LIZ CAMPOS,LIZ CAMPOS,
 132,CA,Karba Eckley,"Ventura City Council, District 6",auto,name_in_state,ca.ventura,85,San Buenaventura City Council District 6,KARBA ECKLEY,KARBA ECKLEY,
+135,CA,Stevevonna Evans,"Adelanto Mayor, At-large",auto,name_in_state,ca.san_bernardino,93,City of Adelanto Mayor,185,STEVEVONNA EVANS,
+140,CA,Nubia Diaz,"Fontana City Council, District 1",auto,name_in_state,ca.san_bernardino,110,"City of Fontana Member, City Council District 1",226,NUBIA DIAZ,
+141,CA,Luz Perez,"Fontana City Council, District 4",auto,name_in_state,ca.san_bernardino,111,"City of Fontana Member, City Council District 4",227,LUZ PEREZ,
+142,CA,Joz Sida,Fontana City Mayor,auto,name_in_state,ca.san_bernardino,109,City of Fontana Mayor,223,"JOCELYN ""JOZ"" SIDA",
+149,CA,Denise Davis,"Redlands City Council, District 1",auto,name_in_state,ca.san_bernardino,131,"City of Redlands Member, City Council District 1",283,DENISE DAVIS,
+150,CA,Ryan Schavrien,"Redlands USD, Trustee Area 2",auto,name_in_state,ca.san_bernardino,74,"Redlands Unified School District Member, Governing Board Area 2",130,RYAN SCHAVRIEN,
+151,CA,Ana Gonzalez,"Rialto City Council, At-large",auto,name_in_state,ca.san_bernardino,134,"City of Rialto Member, City Council",291,ANA GONZALEZ,
+153,CA,Christian Shaughnessy,"San Bernardino City Council, Ward 2",auto,name_in_state,ca.san_bernardino,136,"City of San Bernardino Member, City Council Ward 2",298,CHRISTIAN SHAUGHNESSY,
+154,CA,Joe Salas,"San Bernardino City Council, Ward 4",auto,name_in_state,ca.san_bernardino,137,"City of San Bernardino Member, City Council Ward 4",301,JOE SALAS,
 155,CA,Leila Namvar,"Sate Assembly, District 47",auto,district_surname,ca,state-assembly/47,State Assembly District 47,Leila Namvar,Leila Namvar,
 156,CA,Clarissa Cervantes,"State Assembly, District 58",auto,district_surname,ca,state-assembly/58,State Assembly District 58,Clarissa Cervantes,Clarissa Cervantes,
 157,CA,Corey Jackson,"State Assembly, District 60",auto,district_surname,ca,state-assembly/60,State Assembly District 60,Corey A Jackson,Corey A Jackson,
+158,CA,Derek Marshall,"Victorville City Council, District 4",auto,name_in_state,ca.san_bernardino,145,"City of Victorville Member, City Council District 4",316,DEREK MARSHALL,
 159,CA,Samuel Sukaton,"Board of Equalization, District 3",auto,district_surname,ca,board-of-equalization/3,Board of Equalization District 3,Samuel P. Sukaton,Samuel P. Sukaton,
 160,CA,Mike Van Gorder,Burbank City Council,auto,name_in_state,ca.los_angeles,10425,CITY OF BURBANK GENERAL MUNICIPAL ELECTION Member of the City Council,26688,MIKE VAN GORDER,
 161,CA,Nikki Perez,Burbank City Council,auto,name_in_state,ca.los_angeles,10425,CITY OF BURBANK GENERAL MUNICIPAL ELECTION Member of the City Council,26681,NIKKI PEREZ,
@@ -148,7 +172,23 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 218,CA,Marlon-Ray Velasco,"Stanton City Council, District 3",auto,name_in_state,ca.orange,5243,"CITY OF STANTON Member, City Council District 3",13062,MARLON-RAY VELASCO,
 219,CA,Jessie Lopez,"State Assembly, District 68",auto,district_surname,ca,state-assembly/68,State Assembly District 68,Jessie Lopez,Jessie Lopez,
 220,CA,Chris Kluwe,"State Assembly, District 72",auto,district_surname,ca,state-assembly/72,State Assembly District 72,Chris Kluwe,Chris Kluwe,
+221,CA,Alexander Kraft,El Cajon Mayor,auto,name_in_state,ca.san_diego,124,CITY OF EL CAJON MAYOR,376,ALEXANDER KRAFT,
+222,CA,Liliana Soriano,"Helix Water District, Division 4",auto,name_in_state,ca.san_diego,168,"HELIX WATER DISTRICT MEMBER, BOARD OF DIRECTORS DIVISION NO. 4",526,LILIANA SORIANO GARISTA,
+223,CA,Jose Lopez,"Imperial Beach, District 1",auto,name_in_state,ca.san_diego,133,"CITY OF IMPERIAL BEACH MEMBER, CITY COUNCIL DISTRICT NO. 1",405,JOSE A. LOPEZ EGUINO,
+224,CA,Joe Smith,"Lemon Grove City Council, At large",auto,name_in_state,ca.san_diego,138,"CITY OF LEMON GROVE MEMBER, CITY COUNCIL",424,JOE SMITH,
+225,CA,Krystle Johnson,"Lemon Grove City Council, At large",auto,name_in_state,ca.san_diego,138,"CITY OF LEMON GROVE MEMBER, CITY COUNCIL",422,KRYSTLE JOHNSON,
+226,CA,Cindy Lopez,"National City Council, District 1",auto,name_in_state,ca.san_diego,141,"CITY OF NATIONAL CITY MEMBER, CITY COUNCIL DISTRICT NO. 1",435,CINDY LOPEZ,
+227,CA,Jose Rodriguez,National City Mayor,auto,name_in_state,ca.san_diego,140,CITY OF NATIONAL CITY MAYOR,433,JOSE RODRIGUEZ,
+228,CA,Eric Joyce,"Oceanside City Council, District 1",auto,name_in_state,ca.san_diego,143,"CITY OF OCEANSIDE MEMBER, CITY COUNCIL DISTRICT NO. 1",443,ERIC JOYCE,
+229,CA,Emily Gonzales,"Oceanside City Council, District 2",auto,name_in_state,ca.san_diego,144,"CITY OF OCEANSIDE MEMBER, CITY COUNCIL DISTRICT NO. 2",449,EMILY GONZALES,
+230,CA,Nicole Crosby,"San Diego City Council, District 2",auto,name_in_state,ca.san_diego,148,"CITY OF SAN DIEGO MEMBER, CITY COUNCIL DISTRICT NO. 2",461,NICOLE CROSBY,
+231,CA,Henry Foster,"San Diego City Council, District 4",auto,name_in_state,ca.san_diego,149,"CITY OF SAN DIEGO MEMBER, CITY COUNCIL DISTRICT NO. 4",463,HENRY FOSTER III,
+232,CA,Monica Montgomery Steppe,"San Diego County Board of Supervisors, District 4",auto,name_in_state,ca.san_diego,109,"MEMBER, BOARD OF SUPERVISORS DISTRICT NO. 4",329,MONICA MONTGOMERY STEPPE,
+233,CA,Hayden Gore,"SDUSD Board, District C",auto,name_in_state,ca.san_diego,67,"SAN DIEGO UNIFIED SCHOOL DISTRICT MEMBER, BOARD OF EDUCATION DISTRICT C",166,HAYDEN GORE,
 234,CA,Lashae Sharp-Collins,"State Assembly, District 79",auto,district_surname,ca,state-assembly/79,State Assembly District 79,LaShae Sharp-Collins,LaShae Sharp-Collins,
+235,CA,Kayla Lauriano,"Tri-City Healthcare District Board, Zone 2",auto,name_in_state,ca.san_diego,183,"TRI-CITY HEALTHCARE DISTRICT MEMBER, BOARD OF DIRECTORS ZONE NO. 2",599,KAYLA LAURIANO,
+236,CA,Corinna Contreras,"Vista City Council, District 1",auto,name_in_state,ca.san_diego,160,"CITY OF VISTA MEMBER, CITY COUNCIL DISTRICT NO. 1",494,CORINNA CONTRERAS,
+237,CA,Kenneth Zuniga,Vista Mayor,auto,name_in_state,ca.san_diego,159,CITY OF VISTA MAYOR,491,KENNETH ZUNIGA,
 238,CA,Jane Kim,State Insurance Commissioner,auto,district_surname,ca,insurance-commissioner,Insurance Commissioner,Jane Kim,Jane Kim,
 1159,CA,Prop – 1: Invest in Affordable Homes,Ballot Measure,auto,measure_number,ca.santa_clara,101,State Proposition 1 - The Veterans and Affordable Housing Bond Act of 2026,Yes,Yes,
 1163,CA,Prop – 5: Reform Recall Elections,Ballot Measure,auto,measure_number,ca.santa_clara,105,State Proposition 5 - Elections: Recall of State Officers,Yes,Yes,
@@ -429,6 +469,11 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 533,NY,Brad Lander,"U.S. House of Representatives, District 10",auto,district_surname,ny.nyc,Representative in Congress 10th Congressional District,Representative in Congress 10th Congressional District,Brad Lander,Brad Lander,
 534,NY,Darializa Avila Chevalier,"U.S. House of Representatives, District 13",auto,district_surname,ny.nyc,Representative in Congress 13th Congressional District,Representative in Congress 13th Congressional District,Darializa Avila Chevalier,Darializa Avila Chevalier,
 535,NY,Alexandria Ocasio-Cortez,"U.S. House of Representatives, District 14",auto,district_surname,ny.nyc,Representative in Congress 14th Congressional District,Representative in Congress 14th Congressional District,Alexandria Ocasio-Cortez,Alexandria Ocasio-Cortez,
+558,NY,Kathee Burke-Gonzalez,East Hampton Town Supervisor,auto,name_in_state,ny.suffolk,01000000-d6c5-0591-e72c-08df2faefec8,"Supervisor, Town of East Hampton",01000000-d6c5-0591-e75b-08df2faefec8,Kathee Burke-Gonzalez,
+559,NY,James Mack,Southampton Town Trustee,auto,name_in_state,ny.suffolk,01000000-d6c5-0591-778d-08df2faefec9,"Trustee, Town of Southampton",01000000-d6c5-0591-7a0a-08df2faefec9,James W Mack,
+560,NY,Sara Topping,Southampton Town Trustee,auto,name_in_state,ny.suffolk,01000000-d6c5-0591-778d-08df2faefec9,"Trustee, Town of Southampton",01000000-d6c5-0591-7842-08df2faefec9,Sara J Topping,
+561,NY,Joseph McLoughlin,Southampton Town Trustee,auto,name_in_state,ny.suffolk,01000000-d6c5-0591-778d-08df2faefec9,"Trustee, Town of Southampton",01000000-d6c5-0591-796f-08df2faefec9,Joseph R McLoughlin,
+562,NY,Matthew Parsons,Southampton Town Trustee,auto,name_in_state,ny.suffolk,01000000-d6c5-0591-778d-08df2faefec9,"Trustee, Town of Southampton",01000000-d6c5-0591-77a6-08df2faefec9,Matthew L Parsons,
 563,NY,James Sanders,"State Senate, District 10",auto,district_surname,ny.nyc,State Senator 10th Senatorial District,State Senator 10th Senatorial District,James Sanders Jr.,James Sanders Jr.,
 564,NY,Jessica González-Rojas,"State Senate, District 13",auto,district_surname,ny.nyc,State Senator 13th Senatorial District,State Senator 13th Senatorial District,Jessica Gonzalez-Rojas,Jessica Gonzalez-Rojas,
 566,NY,John Liu,"State Senate, District 16",auto,district_surname,ny.nyc,State Senator 16th Senatorial District,State Senator 16th Senatorial District,John C. Liu,John C. Liu,
@@ -485,6 +530,114 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 647,NY,Ali Raza Jaffery,Croton-on-Hudson Village Justice,auto,name_in_state,ny.westchester,01000000-0c6a-a4eb-501c-08df2a1b67e5,Village Justice for Village of Croton on Hudson,01000000-0c6a-a4eb-506d-08df2a1b67e5,Ali Raza Jaffery,
 648,NY,Paul Rinaldi,Tarrytown Village Trustee,auto,name_in_state,ny.westchester,01000000-0c6a-a4eb-45f5-08df2a1b67e5,Village Trustee for Village of Tarrytown,01000000-0c6a-a4eb-464a-08df2a1b67e5,Paul J. Rinaldi,
 649,NY,Morgen Fleisig,Village of Hastings-on-Hudson Village Trustee,auto,name_in_state,ny.westchester,01000000-0c6a-a4eb-3c66-08df2a1b67e5,Village Trustee for Village of Hastings on Hudson,01000000-0c6a-a4eb-3cca-08df2a1b67e5,Morgen L. Fleisig,
+651,NY,Brett Yarris,Putnam County Executive,auto,name_in_state,ny.putnam,01000000-0313-7718-7ca7-08df344f2dee,County Executive,01000000-0313-7718-7d09-08df344f2dee,Brett Yarris,
+652,NY,Maia Gilleo,"Putnam County Legislature, District 2",auto,name_in_state,ny.putnam,01000000-0313-7718-7dd8-08df344f2dee,County Legislator 2nd District,01000000-0313-7718-7ded-08df344f2dee,Maia N. Gilleo,
+653,NY,Alex Sewell,Kent Town Supervisor,auto,name_in_state,ny.putnam,01000000-0313-7718-7ee4-08df344f2dee,Supervisor - Town of Kent,01000000-0313-7718-7ef9-08df344f2dee,Alex Sewell,
+654,NY,Eugene Bondar,Clarkstown Town Supervisor,auto,name_in_state,ny.rockland,01000000-8e29-c85f-44e3-08df1fed1cf0,Supervisor Clarkstown,01000000-8e29-c85f-44fd-08df1fed1cf0,Eugene Bondar,
+657,NY,Sylke Jackson,"Clarkstown Town Board, Ward 2",auto,name_in_state,ny.rockland,01000000-8e29-c85f-93e2-08df1fed1cf0,Clarkstown Town Council (Ward 2) Clarkstown Ward 2,01000000-8e29-c85f-93f6-08df1fed1cf0,Sylke E. Jackson,
+658,NY,Susan Bloom,"Clarkstown Town Board, Ward 3",auto,name_in_state,ny.rockland,01000000-8e29-c85f-9c30-08df1fed1cf0,Clarkstown Town Council (Ward 3) Clarkstown Ward 3,01000000-8e29-c85f-9c44-08df1fed1cf0,Susan M. Bloom,
+659,NY,Gina DeFelice,"Clarkstown Town Board, Ward 4",auto,name_in_state,ny.rockland,01000000-8e29-c85f-a406-08df1fed1cf0,Clarkstown Town Council (Ward 4) Clarkstown Ward 4,01000000-8e29-c85f-a418-08df1fed1cf0,Gina DeFelice,
+662,NY,Jennifer Knox,Newburgh Town Clerk,auto,name_in_state,ny.orange,01000000-453d-3e8f-ab78-08df1a7f46db,Town Clerk for Newburgh Town,01000000-453d-3e8f-abbf-08df1a7f46db,Jennifer R. Knox,
+663,NY,Kenyon Trachte,Newburgh Town Justice,auto,name_in_state,ny.orange,01000000-453d-3e8f-c746-08df1a7f46db,Town Justice for Newburgh Town,01000000-453d-3e8f-c795-08df1a7f46db,Kenyon C. Trachte,
+664,NY,Josh Wojehowski,Cornwall Town Supervisor,auto,name_in_state,ny.orange,01000000-453d-3e8f-9bf3-08df1a7f46db,Supervisor for Cornwall,01000000-453d-3e8f-9c2a-08df1a7f46db,Josh Wojehowski,
+665,NY,Scott Teresi,"Cornwall Town Board, At-Large",auto,name_in_state,ny.orange,01000000-453d-3e8f-ad7e-08df1a7f46db,Council Member (TFV) for Cornwall,01000000-453d-3e8f-adb9-08df1a7f46db,Scott Teresi,
+666,NY,Joseph Cocchiara,New Windsor Town Council,auto,name_in_state,ny.orange,01000000-453d-3e8f-aea7-08df1a7f46db,Council Member (TFV) for New Windsor,01000000-453d-3e8f-aeee-08df1a7f46db,Joseph A. Cocchiara,
+667,NY,Michele Marte-Indzonka,New Windsor Town Justice,auto,name_in_state,ny.orange,01000000-453d-3e8f-c83c-08df1a7f46db,Town Justice for New Windsor,01000000-453d-3e8f-c889-08df1a7f46db,Michele Marte-Indzonka,
+668,NY,Jean Day,"Wallkill Town Council, Ward 1",auto,name_in_state,ny.orange,01000000-453d-3e8f-bc30-08df1a7f46db,Council Member for Wallkill Ward 1,01000000-453d-3e8f-bc71-08df1a7f46db,Jean Day,
+669,NY,Don Sileo,"Wallkill Town Council, Ward 2",auto,name_in_state,ny.orange,01000000-453d-3e8f-bcd8-08df1a7f46db,Council Member for Wallkill Ward 2,01000000-453d-3e8f-bd15-08df1a7f46db,Don Sileo,
+670,NY,Steven Vinella,"Wallkill Town Council, Ward 3",auto,name_in_state,ny.orange,01000000-453d-3e8f-bd88-08df1a7f46db,Council Member for Wallkill Ward 3,01000000-453d-3e8f-bdc4-08df1a7f46db,Steven Vinella,
+671,NY,Ashley Dmitrieff,Montgomery Town Supervisor,auto,name_in_state,ny.orange,01000000-453d-3e8f-a2b6-08df1a7f46db,Supervisor for Montgomery,01000000-453d-3e8f-a2ee-08df1a7f46db,Ashley L. Dmitrieff,
+672,NY,Robert Courtenay,"Chester Town Council, Ward 1",auto,name_in_state,ny.orange,01000000-453d-3e8f-b980-08df1a7f46db,Council Member for Chester Ward 1,01000000-453d-3e8f-b9c8-08df1a7f46db,Robert G. Courtenay,
+673,NY,Stephen Diffley,"Chester Town Council, Ward 3",auto,name_in_state,ny.orange,01000000-453d-3e8f-badb-08df1a7f46db,Council Member for Chester Ward 3,01000000-453d-3e8f-bb21-08df1a7f46db,Stephen Diffley,
+674,NY,Ryan Senning,"Chester Town Council, Ward 4",auto,name_in_state,ny.orange,01000000-453d-3e8f-bb82-08df1a7f46db,Council Member for Chester Ward 4,01000000-453d-3e8f-bbba-08df1a7f46db,Ryan Senning,
+676,NY,Robert Middlemiss,Goshen Town Justice,auto,name_in_state,ny.orange,01000000-453d-3e8f-c2da-08df1a7f46db,Town Justice for Goshen,01000000-453d-3e8f-c306-08df1a7f46db,Robert Middlemiss,
+677,NY,Stephanie Vandemark,Deerpark Town Supervisor,auto,name_in_state,ny.orange,01000000-453d-3e8f-9d18-08df1a7f46db,Supervisor for Deerpark,01000000-453d-3e8f-9d50-08df1a7f46db,Stephanie A. Vandemark,
+681,NY,Trevor Redl,"Dutchess County Legislature, District 1",auto,name_in_state,ny.dutchess,01000000-2a2b-fc30-23c1-08df31149a39,County Legislator for County Legislative District 1,01000000-2a2b-fc30-23fa-08df31149a39,Trevor Redl,
+682,NY,Emma Arnoff,"Dutchess County Legislature, District 2",auto,name_in_state,ny.dutchess,01000000-2a2b-fc30-2490-08df31149a39,County Legislator for County Legislative District 2,01000000-2a2b-fc30-24c9-08df31149a39,Emma Arnoff,
+683,NY,David Siegel,"Dutchess County Legislature, District 3",auto,name_in_state,ny.dutchess,01000000-2a2b-fc30-2555-08df31149a39,County Legislator for County Legislative District 3,01000000-2a2b-fc30-258e-08df31149a39,David Siegel,
+686,NY,Trish Prunty,"Dutchess County Legislature, District 7",auto,name_in_state,ny.dutchess,01000000-2a2b-fc30-280f-08df31149a39,County Legislator for County Legislative District 7,01000000-2a2b-fc30-284b-08df31149a39,Trish Prunty,
+687,NY,Craig Brendli,"Dutchess County Legislature, District 8",auto,name_in_state,ny.dutchess,01000000-2a2b-fc30-28d8-08df31149a39,County Legislator for County Legislative District 8,01000000-2a2b-fc30-2914-08df31149a39,Craig P. Brendli,
+688,NY,Barrington Atkins,"Dutchess County Legislature, District 9",auto,name_in_state,ny.dutchess,01000000-2a2b-fc30-296a-08df31149a39,County Legislator for County Legislative District 9,01000000-2a2b-fc30-29a5-08df31149a39,Barrington R. Atkins,
+689,NY,Nakia Simmons,"Dutchess County Legislature, District 10",auto,name_in_state,ny.dutchess,01000000-2a2b-fc30-2a2c-08df31149a39,County Legislator for County Legislative District 10,01000000-2a2b-fc30-2a72-08df31149a39,Nakia N. Simmons,
+690,NY,Brennan Kearney,"Dutchess County Legislature, District 11",auto,name_in_state,ny.dutchess,01000000-2a2b-fc30-2af6-08df31149a39,County Legislator for County Legislative District 11,01000000-2a2b-fc30-2b32-08df31149a39,Brennan Kearney,
+691,NY,Keith Odums,"Dutchess County Legislature, District 13",auto,name_in_state,ny.dutchess,01000000-2a2b-fc30-2c4f-08df31149a39,County Legislator for County Legislative District 13,01000000-2a2b-fc30-2c8b-08df31149a39,Keith Odums,
+692,NY,Alix Winsby,"Dutchess County Legislature, District 14",auto,name_in_state,ny.dutchess,01000000-2a2b-fc30-2d0e-08df31149a39,County Legislator for County Legislative District 14,01000000-2a2b-fc30-2d4f-08df31149a39,Alix Winsby,
+693,NY,Kyle Fendrich,"Dutchess County Legislature, District 15",auto,name_in_state,ny.dutchess,01000000-2a2b-fc30-2dda-08df31149a39,County Legislator for County Legislative District 15,01000000-2a2b-fc30-2e18-08df31149a39,Kyle Fendrich,
+694,NY,Yvette Valdés Smith,"Dutchess County Legislature, District 16",auto,name_in_state,ny.dutchess,01000000-2a2b-fc30-2ea1-08df31149a39,County Legislator for County Legislative District 16,01000000-2a2b-fc30-2ede-08df31149a39,Yvette Valdes Smith,
+695,NY,Mike Schade,"Dutchess County Legislature, District 17",auto,name_in_state,ny.dutchess,01000000-2a2b-fc30-2f3b-08df31149a39,County Legislator for County Legislative District 17,01000000-2a2b-fc30-2f79-08df31149a39,Mike Schade,
+696,NY,Molly Rhodes,"Dutchess County Legislature, District 18",auto,name_in_state,ny.dutchess,01000000-2a2b-fc30-2ffc-08df31149a39,County Legislator for County Legislative District 18,01000000-2a2b-fc30-3044-08df31149a39,Molly Rhodes,
+698,NY,Kristofer Munn,"Dutchess County Legislature, District 20",auto,name_in_state,ny.dutchess,01000000-2a2b-fc30-312f-08df31149a39,County Legislator for County Legislative District 20,01000000-2a2b-fc30-316e-08df31149a39,Kristofer Munn,
+699,NY,Francine Caracappa,"Dutchess County Legislature, District 21",auto,name_in_state,ny.dutchess,01000000-2a2b-fc30-31bf-08df31149a39,County Legislator for County Legislative District 21,01000000-2a2b-fc30-31ff-08df31149a39,Francine M. Caracappa,
+700,NY,Heidi Tucci,"Dutchess County Legislature, District 22",auto,name_in_state,ny.dutchess,01000000-2a2b-fc30-328b-08df31149a39,County Legislator for County Legislative District 22,01000000-2a2b-fc30-32cc-08df31149a39,Heidi Tucci,
+702,NY,August Uribe,"Dutchess County Legislature, District 24",auto,name_in_state,ny.dutchess,01000000-2a2b-fc30-3429-08df31149a39,County Legislator for County Legislative District 24,01000000-2a2b-fc30-346f-08df31149a39,August Uribe,
+703,NY,Eric Alexander,"Dutchess County Legislature, District 25",auto,name_in_state,ny.dutchess,01000000-2a2b-fc30-34f4-08df31149a39,County Legislator for County Legislative District 25,01000000-2a2b-fc30-3542-08df31149a39,Eric Alexander,
+704,NY,Rebecca Edwards,Town of Poughkeepsie Supervisor,auto,name_in_state,ny.dutchess,01000000-2a2b-fc30-42cf-08df31149a39,Poughkeepsie Town Supervisor,01000000-2a2b-fc30-4317-08df31149a39,Rebecca Edwards,
+705,NY,Linzy Dineen,"Poughkeepsie Town Council, Ward 2",auto,name_in_state,ny.dutchess,01000000-2a2b-fc30-4430-08df31149a39,Poughkeepsie Member of Town Council- Ward 2,01000000-2a2b-fc30-447e-08df31149a39,Linzy Dineen,
+707,NY,Emily Watson,"Poughkeepsie Town Council, Ward 4",auto,name_in_state,ny.dutchess,01000000-2a2b-fc30-4592-08df31149a39,Poughkeepsie Member of Town Council- Ward 4,01000000-2a2b-fc30-45db-08df31149a39,Emily Watson,
+708,NY,Ryan Sharpe,"Poughkeepsie Town Council, Ward 5",auto,name_in_state,ny.dutchess,01000000-2a2b-fc30-4655-08df31149a39,Poughkeepsie Member of Town Council- Ward 5,01000000-2a2b-fc30-469e-08df31149a39,Ryan Sharpe,
+709,NY,Ann Shershin,"Poughkeepsie Town Council, Ward 6",auto,name_in_state,ny.dutchess,01000000-2a2b-fc30-4721-08df31149a39,Poughkeepsie Member of Town Council- Ward 6,01000000-2a2b-fc30-476a-08df31149a39,Ann Shershin,
+710,NY,Marc Prine,"Hyde Park Town Council, Ward 1",auto,name_in_state,ny.dutchess,01000000-2a2b-fc30-3cba-08df31149a39,Hyde Park Member of Town Council- Ward 1,01000000-2a2b-fc30-3d02-08df31149a39,Marc Prine,
+712,NY,Paul Donnelly,"Hyde Park Town Council, Ward 3",auto,name_in_state,ny.dutchess,01000000-2a2b-fc30-3df0-08df31149a39,Hyde Park Member of Town Council- Ward 3,01000000-2a2b-fc30-3e38-08df31149a39,Paul Donnelly,
+713,NY,Rogerrio Rodriguez,"Hyde Park Town Council, Ward 4",auto,name_in_state,ny.dutchess,01000000-2a2b-fc30-3ec1-08df31149a39,Hyde Park Member of Town Council- Ward 4,01000000-2a2b-fc30-3f0a-08df31149a39,Rogerrio Rodriguez,
+714,NY,Rosanna Hamm,Amenia Town Supervisor,auto,name_in_state,ny.dutchess,01000000-2a2b-fc30-35c5-08df31149a39,Amenia Town Supervisor,01000000-2a2b-fc30-3609-08df31149a39,Rosanna L. Hamm,
+715,NY,Meghan Murphy-Borland,Pleasant Valley Town Supervisor,auto,name_in_state,ny.dutchess,01000000-2a2b-fc30-4172-08df31149a39,Pleasant Valley Town Supervisor,01000000-2a2b-fc30-41bd-08df31149a39,Meghan Borland,
+716,NY,Julia Descoteaux,Stanford Town Supervisor,auto,name_in_state,ny.dutchess,01000000-2a2b-fc30-48fa-08df31149a39,Stanford Town Supervisor,01000000-2a2b-fc30-4943-08df31149a39,Julia Descoteaux,
+717,NY,Heather O’Dell,"Wappingers Town Council, Ward 2",auto,name_in_state,ny.dutchess,01000000-2a2b-fc30-4cf8-08df31149a39,WappingerMember of Town Council- Ward 2,01000000-2a2b-fc30-4d44-08df31149a39,Heather O'Dell ,
+718,NY,Juan Figueroa,Ulster County Sheriff,auto,name_in_state,ny.ulster,01000000-535b-89ee-ce99-08df20b6864b,Ulster County Sheriff,01000000-535b-89ee-cee1-08df20b6864b,Juan Figueroa,
+719,NY,Ann Peters,"Ulster County Legislature, District 2",auto,name_in_state,ny.ulster,01000000-535b-89ee-f20e-08df20b6864b,"Ulster County Legislator, District 2",01000000-535b-89ee-f25e-08df20b6864b,Ann Peters,
+720,NY,Kate Leon,"Ulster County Legislature, District 3",auto,name_in_state,ny.ulster,01000000-535b-89ee-78c5-08df20b6864b,"Ulster County Legislator, District 3",01000000-535b-89ee-791b-08df20b6864b,Kate Leon,
+721,NY,Michael Berardi,"Ulster County Legislature, District 4",auto,name_in_state,ny.ulster,01000000-535b-89ee-cf8c-08df20b6864b,"Ulster County Legislator, District 4",01000000-535b-89ee-cfdb-08df20b6864b,Michael Berardi,
+722,NY,Abe Uchitelle,"Ulster County Legislature, District 5",auto,name_in_state,ny.ulster,01000000-535b-89ee-c88f-08df20b6864b,"Ulster County Legislator, District 5",01000000-535b-89ee-c8d7-08df20b6864b,Abe Uchitelle,
+724,NY,Peter Criswell,"Ulster County Legislature, District 7",auto,name_in_state,ny.ulster,01000000-535b-89ee-c8ea-08df20b6864b,"Ulster County Legislator, District 7",01000000-535b-89ee-c937-08df20b6864b,Peter Criswell,
+725,NY,Joseph Donaldson,"Ulster County Legislature, District 8",auto,name_in_state,ny.ulster,01000000-535b-89ee-f0c0-08df20b6864b,"Ulster County Legislator, District 8",01000000-535b-89ee-f114-08df20b6864b,Joseph Donaldson,
+726,NY,Amy Dooley,"Ulster County Legislature, District 9",auto,name_in_state,ny.ulster,01000000-535b-89ee-f55b-08df20b6864b,"Ulster County Legislator, District 9",01000000-535b-89ee-f5a8-08df20b6864b,Amy Dooley,
+727,NY,Dominick Marino,"Ulster County Legislature, District 10",auto,name_in_state,ny.ulster,01000000-535b-89ee-796f-08df20b6864b,"Ulster County Legislator, District 10",01000000-535b-89ee-79c2-08df20b6864b,Dominick Marino,
+728,NY,Laura Donovan,"Ulster County Legislature, District 11",auto,name_in_state,ny.ulster,01000000-535b-89ee-9470-08df20b6864b,"Ulster County Legislator, District 11",01000000-535b-89ee-94de-08df20b6864b,Laura Donovan,
+729,NY,Marisa McClinton,"Ulster County Legislature, District 12",auto,name_in_state,ny.ulster,01000000-535b-89ee-0699-08df20b6864c,"Ulster County Legislator, District 12",01000000-535b-89ee-06ec-08df20b6864c,Marisa J McClinton,
+730,NY,Adrienne Gelfand-Perine,"Ulster County Legislature, District 13",auto,name_in_state,ny.ulster,01000000-535b-89ee-ce01-08df20b6864b,"Ulster County Legislator, District 13",01000000-535b-89ee-ce4a-08df20b6864b,Adrienne Gelfand-Perine,
+731,NY,Debra Clinton,"Ulster County Legislature, District 16",auto,name_in_state,ny.ulster,01000000-535b-89ee-cd9c-08df20b6864b,"Ulster County Legislator, District 16",01000000-535b-89ee-cded-08df20b6864b,Debra Clinton,
+733,NY,Eric Stewart,"Ulster County Legislature, District 18",auto,name_in_state,ny.ulster,01000000-535b-89ee-f502-08df20b6864b,"Ulster County Legislator, District 18",01000000-535b-89ee-f549-08df20b6864b,Eric Stewart,
+734,NY,Lindsey Grossman,"Ulster County Legislature, District 19",auto,name_in_state,ny.ulster,01000000-535b-89ee-c5ad-08df20b6864b,"Ulster County Legislator, District 19",01000000-535b-89ee-c602-08df20b6864b,Lindsey Grossman,
+736,NY,Robert Drake,"Ulster County Legislature, District 22",auto,name_in_state,ny.ulster,01000000-535b-89ee-c76c-08df20b6864b,"Ulster County Legislator, District 22",01000000-535b-89ee-c7be-08df20b6864b,Robert Drake,
+737,NY,Jeffery Collins,"Ulster County Legislature, District 23",auto,name_in_state,ny.ulster,01000000-535b-89ee-9085-08df20b6864b,"Ulster County Legislator, District 23",01000000-535b-89ee-90e0-08df20b6864b,Jeffery Collins,
+738,NY,Fred Costello,Saugerties Town Supervisor,auto,name_in_state,ny.ulster,01000000-535b-89ee-f310-08df20b6864b,Saugerties Supervisor,01000000-535b-89ee-f356-08df20b6864b,Fred M Costello Jr,
+740,NY,Alexandria Wojcik,New Paltz Village Mayor,auto,name_in_state,ny.ulster,01000000-535b-89ee-8518-08df20b6864b,Village Mayor New Paltz-Unexpired Term,01000000-535b-89ee-857a-08df20b6864b,Alexandria Wojcik,
+741,NY,Al Lanzetta,Marlborough Town Supervisor,auto,name_in_state,ny.ulster,01000000-535b-89ee-edfe-08df20b6864b,Marlborough Supervisor,01000000-535b-89ee-ee5b-08df20b6864b,Al Lanzetta,
+742,NY,Rolando Garcia,Marlborough Town Board,auto,name_in_state,ny.ulster,01000000-535b-89ee-f5eb-08df20b6864b,Marlborough Councilperson-Unexpired Term,01000000-535b-89ee-f650-08df20b6864b,Rolando Garcia Jr,
+743,NY,Hayden Kellermeyer,Wappingers Town Board Ward 1,auto,name_in_state,ny.dutchess,01000000-2a2b-fc30-4c30-08df31149a39,Wappinger Member of Town Council- Ward 1,01000000-2a2b-fc30-4c7c-08df31149a39,Hayden Kellermeyer,
+744,NY,Roscoe Pecora,Esopus Town Supervisor,auto,name_in_state,ny.ulster,01000000-535b-89ee-9668-08df20b6864b,Esopus Supervisor,01000000-535b-89ee-96b1-08df20b6864b,Roscoe Pecora,
+745,NY,Charlotte Smiseth,Town of Rochester Highway Superintendent,auto,name_in_state,ny.ulster,01000000-535b-89ee-fc10-08df20b6864b,Rochester Superintendent of Highways,01000000-535b-89ee-fc62-08df20b6864b,Charlotte Smiseth,
+746,NY,Lynn Corcoran-Johnston,Esopus Town Tax Receiver,auto,name_in_state,ny.ulster,01000000-535b-89ee-ce85-08df20b68643,Esopus Tax Collector,01000000-535b-89ee-ced6-08df20b68643,Lynn Corcoran- Johnston,
+764,NY,Brian Zweig,North Greenbush Town Supervisor,auto,name_in_state,ny.rensselaer,01000000-b600-c2c6-da8f-08df1e3d092a,Town of North Greenbush Town Supervisor,01000000-b600-c2c6-daae-08df1e3d092a,Brian Zweig,
+765,NY,James McCarthy,North Greenbush Highway Superintendent,auto,name_in_state,ny.rensselaer,01000000-b600-c2c6-f879-08df1e3d092a,Town of North Greenbush Superintendent of Highways,01000000-b600-c2c6-f895-08df1e3d092a,James Paco McCarthy,
+766,NY,Kristen Kelley,Sand Lake Town Clerk,auto,name_in_state,ny.rensselaer,01000000-b600-c2c6-62b2-08df1e3d092b,Sand Lake Town Clerk,01000000-b600-c2c6-63bd-08df1e3d092b,Kristen L. Kelley,
+767,NY,Sonja Renee Okun,"Hudson Supervisor, Ward 3",auto,name_in_state,ny.columbia,01000000-0a48-0724-810a-08df28560e9a,Supervisor for 3rd Ward for Hudson,01000000-0a48-0724-8127-08df28560e9a,Sonja Okun,
+771,NY,Lee Jamison,Stuyvesant Town Supervisor,auto,name_in_state,ny.columbia,01000000-0a48-0724-7e12-08df28560e9a,Town Supervisor for Stuyvesant,01000000-0a48-0724-7e31-08df28560e9a,Lee Jamison,
+772,NY,Keith Bruno,Clinton County Court,auto,name_in_state,ny.clinton,01000000-99e5-71fc-4512-08df1ff45904,County Court Judge,01000000-99e5-71fc-452a-08df1ff45904,Keith M. Bruno,
+773,NY,Jaime A Douthat,Clinton County Surrogate’s Court Judge,auto,name_in_state,ny.clinton,01000000-99e5-71fc-4543-08df1ff45904,Surrogate Court Judge,01000000-99e5-71fc-455c-08df1ff45904,Jaime A. Douthat,
+774,NY,Marvin Shaw,Plattsburgh City Council Ward 5,auto,name_in_state,ny.clinton,01000000-99e5-71fc-4110-08df1ff45904,City Councilor Ward 5 (3 Year Term) - Ward 5,01000000-99e5-71fc-4136-08df1ff45904,"Marvin D. Shaw, Jr.",
+776,NY,Ilona Selzer-Kelting,"Town of Plattsburgh Council, District 5",auto,name_in_state,ny.clinton,01000000-99e5-71fc-432b-08df1ff45904,Town Councilperson (1 Year Unexpired Term) - Town of Plattsburgh,01000000-99e5-71fc-4341-08df1ff45904,Ilona M. Kelting,
+777,NY,Jay White,Town of Plattsburgh Clerk,auto,name_in_state,ny.clinton,01000000-99e5-71fc-4367-08df1ff45904,Town Clerk (1 Year Unexpired Term) - Town of Plattsburgh,01000000-99e5-71fc-437f-08df1ff45904,Jay White,
+817,NY,Michael D. Brown,Oneida County Clerk,auto,name_in_state,ny.oneida,01000000-4759-b58d-bb5c-08df1a5e4f90,County Clerk,01000000-4759-b58d-bb9b-08df1a5e4f90,Michael D. Brown,
+818,NY,Jacob T. Addington,"Oneida County Legislature, District 2",auto,name_in_state,ny.oneida,01000000-4759-b58d-bd18-08df1a5e4f90,"County Legislator, District 2",01000000-4759-b58d-bd50-08df1a5e4f90,Jacob T. Addington,
+820,NY,Thomas N. Theall,"Oneida County Legislature, District 12",auto,name_in_state,ny.oneida,01000000-4759-b58d-c1e3-08df1a5e4f90,"County Legislator, District 12",01000000-4759-b58d-c21b-08df1a5e4f90,Thomas N. Theall,
+821,NY,Maria McNiel,"Oneida County Legislature, District 15",auto,name_in_state,ny.oneida,01000000-4759-b58d-c372-08df1a5e4f90,"County Legislator, District 15",01000000-4759-b58d-c3aa-08df1a5e4f90,Maria McNiel,
+822,NY,Joseph Furgol,"Oneida County Legislature, District 18",auto,name_in_state,ny.oneida,01000000-4759-b58d-c52c-08df1a5e4f90,"County Legislator, District 18",01000000-4759-b58d-c55f-08df1a5e4f90,Joseph M. Furgol,
+823,NY,Venice A. Ervin,"Oneida County Legislature, District 20",auto,name_in_state,ny.oneida,01000000-4759-b58d-c667-08df1a5e4f90,"County Legislator, District 20",01000000-4759-b58d-c69d-08df1a5e4f90,Venice A. Ervin,
+824,NY,Lori A. Washburn,"Oneida County Legislature, District 21",auto,name_in_state,ny.oneida,01000000-4759-b58d-c6d9-08df1a5e4f90,"County Legislator, District 21",01000000-4759-b58d-c711-08df1a5e4f90,Lori A. Washburn,
+826,NY,Matt Ryan,Broome County Sheriff,auto,name_in_state,ny.broome,01000000-1fbe-aa34-030c-08df2fb19136,County Sheriff,01000000-1fbe-aa34-0327-08df2fb19136,Matt Ryan,
+827,NY,Jennings Terrell,"Broome County Legislature, District 1",auto,name_in_state,ny.broome,01000000-1fbe-aa34-0cb4-08df2fb19136,County Legislator District #01,01000000-1fbe-aa34-0cce-08df2fb19136,Jennings W. Terrell,
+828,NY,Scott Wager,"Broome County Legislature, District 5",auto,name_in_state,ny.broome,01000000-1fbe-aa34-1d01-08df2fb19136,County Legislator District #05,01000000-1fbe-aa34-1d1a-08df2fb19136,Scott Wager,
+829,NY,Autumn Lester,"Broome County Legislature, District 6",auto,name_in_state,ny.broome,01000000-1fbe-aa34-2298-08df2fb19136,County Legislator District #06,01000000-1fbe-aa34-22b3-08df2fb19136,Autumn Lester,
+830,NY,Chris Moore,"Broome County Legislature, District 12",auto,name_in_state,ny.broome,01000000-1fbe-aa34-31b8-08df2fb19136,County Legislator District #12,01000000-1fbe-aa34-31cd-08df2fb19136,Chris Moore,
+831,NY,Mary Kaminsky,"Broome County Legislature, District 14",auto,name_in_state,ny.broome,01000000-1fbe-aa34-36fd-08df2fb19136,County Legislator District #14,01000000-1fbe-aa34-370d-08df2fb19136,Mary Kaminsky,
+832,NY,Timothy Ames,"Broome County Legislature, District 15",auto,name_in_state,ny.broome,01000000-1fbe-aa34-38bf-08df2fb19136,County Legislator District #15,01000000-1fbe-aa34-38d7-08df2fb19136,Timothy D. Ames,
+833,NY,Robert Egan,Town of Union Supervisor,auto,name_in_state,ny.broome,01000000-1fbe-aa34-6d9e-08df2fb19136,Union Town Supervisor,01000000-1fbe-aa34-6db5-08df2fb19136,Robert M Egan,
+834,NY,Lisa Smith,Broome County Surrogate Court,auto,name_in_state,ny.broome,01000000-1fbe-aa34-a99f-08df2fb19136,County Surrogate Judge,01000000-1fbe-aa34-a9bb-08df2fb19136,Lisa D. Smith,
+835,NY,Meggan Taylor,Endicott Town Council Member,auto,name_in_state,ny.broome,01000000-1fbe-aa34-78b1-08df2fb19136,Union Town Council Member,01000000-1fbe-aa34-78d0-08df2fb19136,Meggan Taylor,
+837,NY,Joshua Shapiro,Town of Vestal Justice,auto,name_in_state,ny.broome,01000000-1fbe-aa34-bde1-08df2fb19136,Vestal Town Justice,01000000-1fbe-aa34-bdfa-08df2fb19136,Joshua S. Shapiro,
+838,NY,Leona Perreault,Village of Johnson City Trustee,auto,name_in_state,ny.broome,01000000-1fbe-aa34-91c7-08df2fb19136,Johnson City Village Trustee,01000000-1fbe-aa34-9228-08df2fb19136,Leona Rhea Perreault,
+839,NY,Joseph Picalila,Village of Johnson City Trustee,auto,name_in_state,ny.broome,01000000-1fbe-aa34-91c7-08df2fb19136,Johnson City Village Trustee,01000000-1fbe-aa34-91e5-08df2fb19136,Joseph M. Picalila,
 859,NY,Steven Meyer,Erie County Clerk,auto,name_in_state,ny.erie,20,County Clerk,73,Steven G. Meyer,
 860,NY,Lawrence Dupre,"Erie County Legislature, District 1",auto,name_in_state,ny.erie,21,County Legislator 1st,77,Lawrence J. Dupre,
 861,NY,Taisha St. Jean Tard,"Erie County Legislature, District 2",auto,name_in_state,ny.erie,22,County Legislator 2nd,80,Taisha E. St. Jean Tard,
@@ -496,6 +649,32 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 868,NY,Raymond Wrazen,Aurora Town Supervisor,auto,name_in_state,ny.erie,33,Supervisor Aurora,118,Raymond M. Wrazen,
 869,NY,Molly Flynn,Aurora Town Board,auto,name_in_state,ny.erie,39,Councilmember Aurora,137,Molly Flynn,
 870,NY,Rachel Martinez,Cheektowaga Town Council,auto,name_in_state,ny.erie,41,Councilmember Cheektowaga,145,Rachel L. Martinez,
+872,NY,John Perticone,Irondequoit Town Supervisor,auto,name_in_state,ny.monroe,01000000-fff9-9fc1-1545-08df1feafbfd,Supervisor Irondequoit,01000000-fff9-9fc1-1574-08df1feafbfd,John Perticone,
+873,NY,Kathryn Walker,Irondequoit Town Board,auto,name_in_state,ny.monroe,01000000-fff9-9fc1-ca92-08df1feafbfd,Irondequoit - Member of Town Council - Term Ending 2028 Irondequoit,01000000-fff9-9fc1-cba1-08df1feafbfd,Kathryn J Walker,
+875,NY,Alex Scialdone,Webster Town Supervisor,auto,name_in_state,ny.monroe,01000000-fff9-9fc1-7576-08df1feafbfd,Supervisor Webster,01000000-fff9-9fc1-7593-08df1feafbfd,Alex Scialdone,
+876,NY,Kevin Berry,Penfield Town Supervisor,auto,name_in_state,ny.monroe,01000000-fff9-9fc1-3db2-08df1feafbfd,Supervisor Penfield,01000000-fff9-9fc1-3dce-08df1feafbfd,Kevin Berry,
+878,NY,Emily Wallace-Kalouch,Chili Town Supervisor,auto,name_in_state,ny.monroe,01000000-fff9-9fc1-e96b-08df1feafbfc,Supervisor Chili,01000000-fff9-9fc1-e98b-08df1feafbfc,Emily Kalouch,
+879,NY,Ryan McDonald,"Greece Town Council Member, Ward 1",auto,name_in_state,ny.monroe,01000000-fff9-9fc1-dc46-08df1feafbfd,Member of Town Council Greece Ward 1,01000000-fff9-9fc1-dc62-08df1feafbfd,Ryan J McDonald,
+880,NY,Frank Femia,"Greece Town Council Member, Ward 2",auto,name_in_state,ny.monroe,01000000-fff9-9fc1-ea52-08df1feafbfd,Member of Town Council Greece Ward 2,01000000-fff9-9fc1-ea69-08df1feafbfd,Frank Femia,
+881,NY,Amorette Miller,"Greece Town Council Member, Ward 3",auto,name_in_state,ny.monroe,01000000-fff9-9fc1-f91d-08df1feafbfd,Member of Town Council Greece Ward 3,01000000-fff9-9fc1-f932-08df1feafbfd,Amorette Miller,
+883,NY,Catherine Dean,Penfield Town Council,auto,name_in_state,ny.monroe,01000000-fff9-9fc1-beb3-08df1feafbfd,Member of Town Council - 1 Year Term Penfield,01000000-fff9-9fc1-bed9-08df1feafbfd,Catherine Dean,
+884,NY,Sarah Nazarian,Fairport Town Trustee,auto,name_in_state,ny.monroe,01000000-fff9-9fc1-4584-08df1feafbfe,Village Trustee Fairport,01000000-fff9-9fc1-45c2-08df1feafbfe,Sarah Nazarian,
+899,NY,Alexandria Moss,Chautauqua County Family Court Judge,auto,name_in_state,ny.chautauqua,119,County Family Court Judge,370,Alexandria B. Moss,
+900,NY,Marcus Sam Buchanan,"Chautauqua County Legislature, District 1",auto,name_in_state,ny.chautauqua,3,County Legislator District 1,5,Marcus Buchanan,
+901,NY,Robert Bankoski,"Chautauqua County Legislature, District 2",auto,name_in_state,ny.chautauqua,4,County Legislator District 2,6,Robert Bankoski,
+902,NY,Michael Lee,"Chautauqua County Legislature, District 3",auto,name_in_state,ny.chautauqua,5,County Legislator District 3,7,Michael Lee,
+903,NY,Kevin K O’Connell,"Chautauqua County Legislature, District 6",auto,name_in_state,ny.chautauqua,8,County Legislator District 6,12,Kevin O'Connell,
+904,NY,Carla Michelle Rodriguez,"Chautauqua County Legislature, District 7",auto,name_in_state,ny.chautauqua,9,County Legislator District 7,350,Carla Rodriguez,
+905,NY,Julie Jackson-Forsberg,"Chautauqua County Legislature, District 10",auto,name_in_state,ny.chautauqua,12,County Legislator District 10,17,Julie Jackson-Forsberg,
+906,NY,Frederick Larson,"Chautauqua County Legislature, District 12",auto,name_in_state,ny.chautauqua,14,County Legislator District 12,21,Frederick A. Larson,
+907,NY,Thomas Nelson,"Chautauqua County Legislature, District 13",auto,name_in_state,ny.chautauqua,15,County Legislator District 13,23,Thomas Nelson,
+908,NY,Christopher Deblass,"Chautauqua County Legislature, District 16",auto,name_in_state,ny.chautauqua,18,County Legislator District 16,352,Christopher DeBlass,
+910,NY,John Hamels,"Chautauqua County Legislature, District 19",auto,name_in_state,ny.chautauqua,21,County Legislator District 19,354,John Hamels,
+911,NY,EvaDawn Bashaw,Pomfret Town Council Member,auto,name_in_state,ny.chautauqua,139,"Town Councilmember Vacancy, Town of Pomfret",360,EvaDawn Bashaw,
+912,NY,Kristin Colburn,Cattaraugus County Clerk,auto,name_in_state,ny.cattaraugus,01000000-ddd6-4af2-e37e-08df23af25a3,County Clerk,01000000-ddd6-4af2-e3d1-08df23af25a3,Kristin M. Colburn,
+913,NY,Ann Marie Sitter-Tompkins,"Olean City Council Member, Ward 5",auto,name_in_state,ny.cattaraugus,01000000-ddd6-4af2-e583-08df23af25a3,Alderman for City of Olean Ward 5,01000000-ddd6-4af2-e5a9-08df23af25a3,Ann Marie Sitter-Tompkins,
+914,NY,Susan Wilks,"Chemung County Legislature, District 7",auto,name_in_state,ny.chemung,01000000-e2d0-3eae-dfb5-08df2ecfd274,County Legislator 7th District,01000000-e2d0-3eae-dfd2-08df2ecfd274,Susan Wilks,
+915,NY,Meg Magnusen,"Chemung County Legislature, District 9",auto,name_in_state,ny.chemung,01000000-e2d0-3eae-e052-08df2ecfd274,County Legislator 9th District,01000000-e2d0-3eae-e06f-08df2ecfd274,Meg Magnusen,
 926,OH,Brian Poindexter,"U.S. House of Representatives, District 7",auto,district_surname,oh,_55A742EA571A09A3E0633390EE0AE290,Representative to Congress - District 07,Brian Poindexter,Brian Poindexter,
 927,OH,Vanessa Enoch,"U.S. House of Representatives, District 8",auto,district_surname,oh,_55A742EA574109A3E0633390EE0AE290,Representative to Congress - District 08,Vanessa Enoch,Vanessa Enoch,
 928,OH,Alison Hatheway,Hamilton County Court of Common Pleas,auto,name_in_state,oh.hamilton,30,For Judge of the Court of Common Pleas (Full term commencing 2-13-2027),Alison Hatheway,Alison Hatheway,
@@ -694,7 +873,28 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 637,NY,Leslye Oquendo-Thomas,"Westchester County Legislature, District 17",confirmed,name_in_state,ny.westchester,01000000-0c6a-a4eb-96bf-08df2a1b67df,County Legislator 17th District,01000000-0c6a-a4eb-9777-08df2a1b67df,Leslye A. Oquendo-Thomas,found by name only; check the office (County Legislator 17th District) | confirmed Nov 3: same district/place
 644,NY,Catherine Sayles,Eastchester Town Supervisor,confirmed,near_name,ny.westchester,01000000-0c6a-a4eb-9900-08df2a1b67df,Supervisor for Eastchester,01000000-0c6a-a4eb-9951-08df2a1b67df,Cat Sayles,"first name differs: WFP 'Catherine Sayles', feed 'Cat Sayles' | confirmed Nov 3: same district/place"
 646,NY,Len Simon,Croton-on-Hudson Village Trustee,confirmed,near_name,ny.westchester,01000000-0c6a-a4eb-3911-08df2a1b67e5,Village Trustee for Village of Croton on Hudson,01000000-0c6a-a4eb-396c-08df2a1b67e5,Leonard S. Simon,"first name differs: WFP 'Len Simon', feed 'Leonard S. Simon' | confirmed Nov 3: same district/place"
+655,NY,Greg Sheehan,Clarkstown Town Clerk,confirmed,near_name,ny.rockland,01000000-8e29-c85f-ace0-08df1fed1cf0,Town Clerk Clarkstown,01000000-8e29-c85f-acf5-08df1fed1cf0,Gregory Sheehan,first-name variant (Gregory Sheehan); same surname and district
+656,NY,Joe Damiani,"Clarkstown Town Board, Ward 1",confirmed,near_name,ny.rockland,01000000-8e29-c85f-8bb5-08df1fed1cf0,Clarkstown Town Council (Ward 1) Clarkstown Ward 1,01000000-8e29-c85f-8bcd-08df1fed1cf0,Joseph C. Damiani,first-name variant (Joseph C. Damiani); same surname and district
+660,NY,Bernard Rivers,Orange County Sheriff,confirmed,near_name,ny.orange,01000000-453d-3e8f-9a25-08df1a7f46db,Sheriff,01000000-453d-3e8f-9a60-08df1a7f46db,Bernie Rivers,feed lists 'Bernie Rivers' | confirmed Nov 4: Orange County Sheriff
+661,NY,Steven Krasner,Newburgh Town Supervisor,confirmed,near_name,ny.orange,01000000-453d-3e8f-a465-08df1a7f46db,Supervisor for Newburgh Town,01000000-453d-3e8f-a4a5-08df1a7f46db,Stephen Krasner,first-name variant (Stephen Krasner); same surname and district
+675,NY,Samuel Bergsohn,Goshen Town Supervisor,confirmed,near_name,ny.orange,01000000-453d-3e8f-9dcc-08df1a7f46db,Supervisor for Goshen,01000000-453d-3e8f-9dfc-08df1a7f46db,Sam Bergsohn,first-name variant (Sam Bergsohn); same surname and district
+684,NY,Brandan Lawler,"Dutchess County Legislature, District 4",confirmed,near_name,ny.dutchess,01000000-2a2b-fc30-2621-08df31149a39,County Legislator for County Legislative District 4,01000000-2a2b-fc30-265b-08df31149a39,Brendan Lawler,first-name variant (Brendan Lawler); same surname and district
+685,NY,Annuja Shah,"Dutchess County Legislature, District 5",confirmed,near_name,ny.dutchess,01000000-2a2b-fc30-26b2-08df31149a39,County Legislator for County Legislative District 5,01000000-2a2b-fc30-26eb-08df31149a39,Anna Shah,first-name variant (Anna Shah); same surname and district
+697,NY,Christopher Drago,"Dutchess County Legislature, District 19",confirmed,near_name,ny.dutchess,01000000-2a2b-fc30-309e-08df31149a39,County Legislator for County Legislative District 19,01000000-2a2b-fc30-30dc-08df31149a39,Chris Drago,first-name variant (Chris Drago); same surname and district
+701,NY,Martin Mygan,"Dutchess County Legislature, District 23",confirmed,near_name,ny.dutchess,01000000-2a2b-fc30-334b-08df31149a39,County Legislator for County Legislative District 23,01000000-2a2b-fc30-338b-08df31149a39,Marty Mygan,first-name variant (Marty Mygan); same surname and district
+706,NY,Shanthakumar Thangiah,"Poughkeepsie Town Council, Ward 3",confirmed,near_name,ny.dutchess,01000000-2a2b-fc30-44f9-08df31149a39,Poughkeepsie Member of Town Council- Ward 3,01000000-2a2b-fc30-4542-08df31149a39,Shantha Thangiah,first-name variant (Shantha Thangiah); same surname and district
+711,NY,Greg Komar,"Hyde Park Town Council, Ward 2",confirmed,near_name,ny.dutchess,01000000-2a2b-fc30-3d5c-08df31149a39,Hyde Park Member of Town Council- Ward 2,01000000-2a2b-fc30-3da4-08df31149a39,Gregory Komar,first-name variant (Gregory Komar); same surname and district
+723,NY,Greg McCollough,"Ulster County Legislature, District 6",confirmed,near_name,ny.ulster,01000000-535b-89ee-7443-08df20b6864b,"Ulster County Legislator, District 6",01000000-535b-89ee-74a4-08df20b6864b,Gregory McCollough,first-name variant (Gregory McCollough); same surname and district
+732,NY,Pierette Farber,"Ulster County Legislature, District 17",confirmed,near_name,ny.ulster,01000000-535b-89ee-9322-08df20b6864b,"Ulster County Legislator, District 17",01000000-535b-89ee-9372-08df20b6864b,Pierrette Farber,first-name variant (Pierrette Farber); same surname and district
+735,NY,Kenneth Stephens,"Ulster County Legislature, District 21",confirmed,near_name,ny.ulster,01000000-535b-89ee-c52a-08df20b6864b,"Ulster County Legislator, District 21",01000000-535b-89ee-c590-08df20b6864b,Ken Stephens,first-name variant (Ken Stephens); same surname and district
+775,NY,Charles Kostyk,Town of Plattsburgh Supervisor,confirmed,near_name,ny.clinton,01000000-99e5-71fc-42f9-08df1ff45904,Town Supervisor (1 Year Unexpired Term) - Town of Plattsburgh,01000000-99e5-71fc-430e-08df1ff45904,Chuck Kostyk,first-name variant (Chuck Kostyk); same surname and district
+825,NY,Kellyann Mercurio Bianco,"Oneida County Legislature, District 22",confirmed,near_name,ny.oneida,01000000-4759-b58d-c77c-08df1a5e4f90,"County Legislator, District 22",01000000-4759-b58d-c7b4-08df1a5e4f90,Kellyann C. Mercurio,first-name variant (Kellyann C. Mercurio); same surname and district
+836,NY,Meghan Jacobs,Town of Conklin Council Member,confirmed,near_name,ny.broome,01000000-1fbe-aa34-4c1f-08df2fb19136,Conklin Town Council Member,01000000-1fbe-aa34-4c33-08df2fb19136,Meg Jacobs,first-name variant (Meg Jacobs); same surname and district
 863,NY,Bharathy (Rathi) S Ravichandran (Ravi),"Erie County Legislature, District 6",confirmed,manual,ny.erie,26,County Legislator 6th,93,Rathi Ravi,WFP lists her full name; the ballot says Rathi Ravi
+871,NY,Nathaniel V Salzman,Brighton Town Supervisor,confirmed,near_name,ny.monroe,01000000-fff9-9fc1-df57-08df1feafbfc,Supervisor Brighton,01000000-fff9-9fc1-df70-08df1feafbfc,Nate Salzman,first-name variant (Nate Salzman); same surname and district
+874,NY,Maximillian Gordon,Pittsford Town Supervisor,confirmed,near_name,ny.monroe,01000000-fff9-9fc1-59e8-08df1feafbfd,Supervisor Pittsford,01000000-fff9-9fc1-5a05-08df1feafbfd,Max Gordon,first-name variant (Max Gordon); same surname and district
+877,NY,Nicholas Coffee,Gates Town Supervisor,confirmed,near_name,ny.monroe,01000000-fff9-9fc1-fa8a-08df1feafbfc,Supervisor Gates,01000000-fff9-9fc1-faa5-08df1feafbfc,Nick Coffee,first-name variant (Nick Coffee); same surname and district
+882,NY,Jennifer Townsend,Perinton Town Supervisor,confirmed,near_name,ny.monroe,01000000-fff9-9fc1-4d5a-08df1feafbfd,Supervisor Perinton,01000000-fff9-9fc1-4d73-08df1feafbfd,Jenn Townsend,first-name variant (Jenn Townsend); same surname and district
 17,AR,Bobby Forrest Jr.,State Circuit Court District 6 Prosecuting Attorney,no_source,,,,,,,no source covers AR yet
 1,AZ,Clara Pratte,Arizona Corporation Commission,no_source,,,,,,,no source covers AZ yet
 2,AZ,Jonathon Hill,Arizona Corporation Commission,no_source,,,,,,,no source covers AZ yet
@@ -731,20 +931,12 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 32,CA,Jeremy Lee,"City College of San Francisco Board of Trustees, At-large",no_source,,,,,,,no source carries San Francisco local races yet
 33,CA,Leah LaCroix,"City College of San Francisco Board of Trustees, At-large",no_source,,,,,,,no source carries San Francisco local races yet
 34,CA,Jenny Wong,"City of Berkeley Auditor, Citywide",no_source,,,,,,,no source carries Alameda local races yet
-38,CA,Rod Daus-Magbual,"Daly City City Council, At-large",no_source,,,,,,,no source carries San Mateo local races yet
 39,CA,Seema Badar,"Dublin Unified School District Board of Trustees, Area 5",no_source,,,,,,,no source carries Alameda local races yet
-40,CA,Ofelia Bello,"East Palo Alto City Council, At-large",no_source,,,,,,,no source carries San Mateo local races yet
-41,CA,Ruben Abrica,"East Palo Alto City Council, At-large",no_source,,,,,,,no source carries San Mateo local races yet
-45,CA,Phoebe Shin Venkat,"Foster City Council, District 1",no_source,,,,,,,no source carries San Mateo local races yet
 47,CA,George Syrop,"Hayward City Council, District 1",no_source,,,,,,,no source carries Alameda local races yet
 48,CA,Michelle Fernellius,"Hayward Unified School District Board of Trustee, Area 4",no_source,,,,,,,no source carries Alameda local races yet
 54,CA,Barbara Lee,Oakland Mayor,no_source,,,,,,,no source carries Alameda local races yet
 55,CA,Jennifer Brouhard,"OUSD School Board, District 2",no_source,,,,,,,no source carries Alameda local races yet
 56,CA,Valarie Bachelor,"OUSD School Board, District 6",no_source,,,,,,,no source carries Alameda local races yet
-57,CA,Christine Boles,"Pacifica City Council, District 2",no_source,,,,,,,no source carries San Mateo local races yet
-58,CA,Sam Casillas,"Pacifica City Council, District 5",no_source,,,,,,,no source carries San Mateo local races yet
-63,CA,Chris Sturken,"Redwood City Council, District 2",no_source,,,,,,,no source carries San Mateo local races yet
-65,CA,Marty Medina,"San Bruno City Council, District 4",no_source,,,,,,,no source carries San Mateo local races yet
 66,CA,Gary McCoy,"San Francisco Board of Supervisors, District 8",no_source,,,,,,,no source carries San Francisco local races yet
 67,CA,Michael Nguyen,"San Francisco Board of Supervisors, District 8",no_source,,,,,,,no source carries San Francisco local races yet
 68,CA,Dion-Jay (DJ) Brookter,"San Francisco Board of Supervisors, District 10",no_source,,,,,,,no source carries San Francisco local races yet
@@ -752,10 +944,6 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 70,CA,Reina Tello,"San Francisco Unified School District Board of Education, At-large",no_source,,,,,,,no source carries San Francisco local races yet
 71,CA,Ryan Hazelton,"San Francisco Unified School District Board of Education, At-large",no_source,,,,,,,no source carries San Francisco local races yet
 72,CA,Virginia Cheung,"San Francisco Unified School District Board of Education, At-large",no_source,,,,,,,no source carries San Francisco local races yet
-76,CA,Dana Johnson,"San Mateo County Board of Education, District 2",no_source,,,,,,,no source carries San Mateo local races yet
-77,CA,Mark Nagales,"San Mateo County Board of Supervisors, District 5",no_source,,,,,,,no source carries San Mateo local races yet
-78,CA,Diana Harris,"San Mateo Union High School District Board of Trustees, Area 3",no_source,,,,,,,no source carries San Mateo local races yet
-79,CA,Allyson Chan,"San Mateo-Foster City School District, District 1",no_source,,,,,,,no source carries San Mateo local races yet
 85,CA,Aysha Dominguez Pamukcu,"South San Francisco City Council, District 1",no_source,,,,,,,no source carries San Francisco local races yet
 86,CA,Melanie Olson,"South San Francisco City Council, District 3",no_source,,,,,,,no source carries San Francisco local races yet
 87,CA,Eddie Flores,"South San Francisco City Council, District 5",no_source,,,,,,,no source carries San Francisco local races yet
@@ -787,43 +975,17 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 128,CA,Jose Salazar,"Fresno County Superior Court, Seat 7",no_source,,,,,,,no source carries Fresno local races yet
 133,CA,Emmanuel Soto,"Visalia City Council, Distrcit 4",no_source,,,,,,,no source carries Tulare local races yet
 134,CA,Wences Sosa,"Visalia City Council, Distrcit 5",no_source,,,,,,,no source carries Tulare local races yet
-135,CA,Stevevonna Evans,"Adelanto Mayor, At-large",no_source,,,,,,,no source carries San Bernardino local races yet
 136,CA,Marco Santana,"Banning City Council, District 4",no_source,,,,,,,no source carries Riverside local races yet
 137,CA,Chris Castorena,"Banning City Council, District 5",no_source,,,,,,,no source carries Riverside local races yet
 138,CA,Anyse Smith,"Desert Healthcare District, Zone 5",no_source,,,,,,,no source carries Riverside local races yet
 139,CA,Nathan Urena,"Eastern Municipal Water District, District 5",no_source,,,,,,,no source carries Riverside local races yet
-140,CA,Nubia Diaz,"Fontana City Council, District 1",no_source,,,,,,,no source carries San Bernardino local races yet
-141,CA,Luz Perez,"Fontana City Council, District 4",no_source,,,,,,,no source carries San Bernardino local races yet
-142,CA,Joz Sida,Fontana City Mayor,no_source,,,,,,,no source carries San Bernardino local races yet
 143,CA,Andrea Garcia,"Riverside County Superior Court, Seat 10",no_source,,,,,,,no source carries Riverside local races yet
 144,CA,Edgar Castelan,"Jurupa Valley City Council, District 3",no_source,,,,,,,no source carries Riverside local races yet
 145,CA,Ulises Cabrera,"Moreno Valley Mayor, At-large",no_source,,,,,,,no source carries Riverside local races yet
 146,CA,Sammie Luna,"Moreno Valley School Baord, Trustee Area 1",no_source,,,,,,,no source carries Riverside local races yet
 147,CA,Justin Jackson,"Moreno Valley School Baord, Trustee Area 3",no_source,,,,,,,no source carries Riverside local races yet
 148,CA,Abel Chavez,"Nuevo Union School Board, At-large",no_source,,,,,,,no source carries Riverside local races yet
-149,CA,Denise Davis,"Redlands City Council, District 1",no_source,,,,,,,no source carries San Bernardino local races yet
-150,CA,Ryan Schavrien,"Redlands USD, Trustee Area 2",no_source,,,,,,,no source carries San Bernardino local races yet
-151,CA,Ana Gonzalez,"Rialto City Council, At-large",no_source,,,,,,,no source carries San Bernardino local races yet
 152,CA,Aram Ayra,"Riverside City Council, Ward 2",no_source,,,,,,,no source carries Riverside local races yet
-153,CA,Christian Shaughnessy,"San Bernardino City Council, Ward 2",no_source,,,,,,,no source carries San Bernardino local races yet
-154,CA,Joe Salas,"San Bernardino City Council, Ward 4",no_source,,,,,,,no source carries San Bernardino local races yet
-158,CA,Derek Marshall,"Victorville City Council, District 4",no_source,,,,,,,no source carries San Bernardino local races yet
-221,CA,Alexander Kraft,El Cajon Mayor,no_source,,,,,,,no source carries San Diego local races yet
-222,CA,Liliana Soriano,"Helix Water District, Division 4",no_source,,,,,,,no source carries San Diego local races yet
-223,CA,Jose Lopez,"Imperial Beach, District 1",no_source,,,,,,,no source carries San Diego local races yet
-224,CA,Joe Smith,"Lemon Grove City Council, At large",no_source,,,,,,,no source carries San Diego local races yet
-225,CA,Krystle Johnson,"Lemon Grove City Council, At large",no_source,,,,,,,no source carries San Diego local races yet
-226,CA,Cindy Lopez,"National City Council, District 1",no_source,,,,,,,no source carries San Diego local races yet
-227,CA,Jose Rodriguez,National City Mayor,no_source,,,,,,,no source carries San Diego local races yet
-228,CA,Eric Joyce,"Oceanside City Council, District 1",no_source,,,,,,,no source carries San Diego local races yet
-229,CA,Emily Gonzales,"Oceanside City Council, District 2",no_source,,,,,,,no source carries San Diego local races yet
-230,CA,Nicole Crosby,"San Diego City Council, District 2",no_source,,,,,,,no source carries San Diego local races yet
-231,CA,Henry Foster,"San Diego City Council, District 4",no_source,,,,,,,no source carries San Diego local races yet
-232,CA,Monica Montgomery Steppe,"San Diego County Board of Supervisors, District 4",no_source,,,,,,,no source carries San Diego local races yet
-233,CA,Hayden Gore,"SDUSD Board, District C",no_source,,,,,,,no source carries San Diego local races yet
-235,CA,Kayla Lauriano,"Tri-City Healthcare District Board, Zone 2",no_source,,,,,,,no source carries San Diego local races yet
-236,CA,Corinna Contreras,"Vista City Council, District 1",no_source,,,,,,,no source carries San Diego local races yet
-237,CA,Kenneth Zuniga,Vista Mayor,no_source,,,,,,,no source carries San Diego local races yet
 390,DC,Robert White,U.S. House of Representatives,no_source,,,,,,,no source covers DC yet
 391,DC,Janeese Lewis George,D.C. Mayor,no_source,,,,,,,no source covers DC yet
 392,DC,Brian Schwalb,Attorney General,no_source,,,,,,,no source covers DC yet
@@ -905,11 +1067,6 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 555,NY,Noah Burroughs,"State Assembly, District 18",no_source,,,,,,,NY has only county sources so far
 556,NY,Michaelle C Solages,"State Assembly, District 22",no_source,,,,,,,NY has only county sources so far
 557,NY,Carrie Solages,"Nassau County Legislature, District 3",no_source,,,,,,,no source carries Nassau local races yet
-558,NY,Kathee Burke-Gonzalez,East Hampton Town Supervisor,no_source,,,,,,,no source carries Suffolk local races yet
-559,NY,James Mack,Southampton Town Trustee,no_source,,,,,,,no source carries Suffolk local races yet
-560,NY,Sara Topping,Southampton Town Trustee,no_source,,,,,,,no source carries Suffolk local races yet
-561,NY,Joseph McLoughlin,Southampton Town Trustee,no_source,,,,,,,no source carries Suffolk local races yet
-562,NY,Matthew Parsons,Southampton Town Trustee,no_source,,,,,,,no source carries Suffolk local races yet
 565,NY,Aber Kawas,"State Senate, District 12",no_source,,,,,,,NY has only county sources so far
 576,NY,Nathalia Fernandez,"State Senate, District 34",no_source,,,,,,,NY has only county sources so far
 579,NY,Andrew Hevesi,"State Assembly, District 28",no_source,,,,,,,NY has only county sources so far
@@ -932,99 +1089,6 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 628,NY,Chris Eachus,"State Assembly, District 99",no_source,,,,,,,NY has only county sources so far
 629,NY,Sarahana Shrestha,"State Assembly, District 103",no_source,,,,,,,NY has only county sources so far
 630,NY,Jonathan Jacobson,"State Assembly, District 104",no_source,,,,,,,NY has only county sources so far
-651,NY,Brett Yarris,Putnam County Executive,no_source,,,,,,,no source carries Putnam local races yet
-652,NY,Maia Gilleo,"Putnam County Legislature, District 2",no_source,,,,,,,no source carries Putnam local races yet
-653,NY,Alex Sewell,Kent Town Supervisor,no_source,,,,,,,no source carries Putnam local races yet
-654,NY,Eugene Bondar,Clarkstown Town Supervisor,no_source,,,,,,,no source carries Rockland local races yet
-655,NY,Greg Sheehan,Clarkstown Town Clerk,no_source,,,,,,,no source carries Rockland local races yet
-656,NY,Joe Damiani,"Clarkstown Town Board, Ward 1",no_source,,,,,,,no source carries Rockland local races yet
-657,NY,Sylke Jackson,"Clarkstown Town Board, Ward 2",no_source,,,,,,,no source carries Rockland local races yet
-658,NY,Susan Bloom,"Clarkstown Town Board, Ward 3",no_source,,,,,,,no source carries Rockland local races yet
-659,NY,Gina DeFelice,"Clarkstown Town Board, Ward 4",no_source,,,,,,,no source carries Rockland local races yet
-660,NY,Bernard Rivers,Orange County Sheriff,no_source,,,,,,,no source carries Orange local races yet
-661,NY,Steven Krasner,Newburgh Town Supervisor,no_source,,,,,,,no source carries Orange local races yet
-662,NY,Jennifer Knox,Newburgh Town Clerk,no_source,,,,,,,no source carries Orange local races yet
-663,NY,Kenyon Trachte,Newburgh Town Justice,no_source,,,,,,,no source carries Orange local races yet
-664,NY,Josh Wojehowski,Cornwall Town Supervisor,no_source,,,,,,,no source carries Orange local races yet
-665,NY,Scott Teresi,"Cornwall Town Board, At-Large",no_source,,,,,,,no source carries Orange local races yet
-666,NY,Joseph Cocchiara,New Windsor Town Council,no_source,,,,,,,no source carries Orange local races yet
-667,NY,Michele Marte-Indzonka,New Windsor Town Justice,no_source,,,,,,,no source carries Orange local races yet
-668,NY,Jean Day,"Wallkill Town Council, Ward 1",no_source,,,,,,,no source carries Orange local races yet
-669,NY,Don Sileo,"Wallkill Town Council, Ward 2",no_source,,,,,,,no source carries Orange local races yet
-670,NY,Steven Vinella,"Wallkill Town Council, Ward 3",no_source,,,,,,,no source carries Orange local races yet
-671,NY,Ashley Dmitrieff,Montgomery Town Supervisor,no_source,,,,,,,no source carries Orange local races yet
-672,NY,Robert Courtenay,"Chester Town Council, Ward 1",no_source,,,,,,,no source carries Orange local races yet
-673,NY,Stephen Diffley,"Chester Town Council, Ward 3",no_source,,,,,,,no source carries Orange local races yet
-674,NY,Ryan Senning,"Chester Town Council, Ward 4",no_source,,,,,,,no source carries Orange local races yet
-675,NY,Samuel Bergsohn,Goshen Town Supervisor,no_source,,,,,,,no source carries Orange local races yet
-676,NY,Robert Middlemiss,Goshen Town Justice,no_source,,,,,,,no source carries Orange local races yet
-677,NY,Stephanie Vandemark,Deerpark Town Supervisor,no_source,,,,,,,no source carries Orange local races yet
-681,NY,Trevor Redl,"Dutchess County Legislature, District 1",no_source,,,,,,,no source carries Dutchess local races yet
-682,NY,Emma Arnoff,"Dutchess County Legislature, District 2",no_source,,,,,,,no source carries Dutchess local races yet
-683,NY,David Siegel,"Dutchess County Legislature, District 3",no_source,,,,,,,no source carries Dutchess local races yet
-684,NY,Brandan Lawler,"Dutchess County Legislature, District 4",no_source,,,,,,,no source carries Dutchess local races yet
-685,NY,Annuja Shah,"Dutchess County Legislature, District 5",no_source,,,,,,,no source carries Dutchess local races yet
-686,NY,Trish Prunty,"Dutchess County Legislature, District 7",no_source,,,,,,,no source carries Dutchess local races yet
-687,NY,Craig Brendli,"Dutchess County Legislature, District 8",no_source,,,,,,,no source carries Dutchess local races yet
-688,NY,Barrington Atkins,"Dutchess County Legislature, District 9",no_source,,,,,,,no source carries Dutchess local races yet
-689,NY,Nakia Simmons,"Dutchess County Legislature, District 10",no_source,,,,,,,no source carries Dutchess local races yet
-690,NY,Brennan Kearney,"Dutchess County Legislature, District 11",no_source,,,,,,,no source carries Dutchess local races yet
-691,NY,Keith Odums,"Dutchess County Legislature, District 13",no_source,,,,,,,no source carries Dutchess local races yet
-692,NY,Alix Winsby,"Dutchess County Legislature, District 14",no_source,,,,,,,no source carries Dutchess local races yet
-693,NY,Kyle Fendrich,"Dutchess County Legislature, District 15",no_source,,,,,,,no source carries Dutchess local races yet
-694,NY,Yvette Valdés Smith,"Dutchess County Legislature, District 16",no_source,,,,,,,no source carries Dutchess local races yet
-695,NY,Mike Schade,"Dutchess County Legislature, District 17",no_source,,,,,,,no source carries Dutchess local races yet
-696,NY,Molly Rhodes,"Dutchess County Legislature, District 18",no_source,,,,,,,no source carries Dutchess local races yet
-697,NY,Christopher Drago,"Dutchess County Legislature, District 19",no_source,,,,,,,no source carries Dutchess local races yet
-698,NY,Kristofer Munn,"Dutchess County Legislature, District 20",no_source,,,,,,,no source carries Dutchess local races yet
-699,NY,Francine Caracappa,"Dutchess County Legislature, District 21",no_source,,,,,,,no source carries Dutchess local races yet
-700,NY,Heidi Tucci,"Dutchess County Legislature, District 22",no_source,,,,,,,no source carries Dutchess local races yet
-701,NY,Martin Mygan,"Dutchess County Legislature, District 23",no_source,,,,,,,no source carries Dutchess local races yet
-702,NY,August Uribe,"Dutchess County Legislature, District 24",no_source,,,,,,,no source carries Dutchess local races yet
-703,NY,Eric Alexander,"Dutchess County Legislature, District 25",no_source,,,,,,,no source carries Dutchess local races yet
-704,NY,Rebecca Edwards,Town of Poughkeepsie Supervisor,no_source,,,,,,,no source carries Dutchess local races yet
-705,NY,Linzy Dineen,"Poughkeepsie Town Council, Ward 2",no_source,,,,,,,no source carries Dutchess local races yet
-706,NY,Shanthakumar Thangiah,"Poughkeepsie Town Council, Ward 3",no_source,,,,,,,no source carries Dutchess local races yet
-707,NY,Emily Watson,"Poughkeepsie Town Council, Ward 4",no_source,,,,,,,no source carries Dutchess local races yet
-708,NY,Ryan Sharpe,"Poughkeepsie Town Council, Ward 5",no_source,,,,,,,no source carries Dutchess local races yet
-709,NY,Ann Shershin,"Poughkeepsie Town Council, Ward 6",no_source,,,,,,,no source carries Dutchess local races yet
-710,NY,Marc Prine,"Hyde Park Town Council, Ward 1",no_source,,,,,,,no source carries Dutchess local races yet
-711,NY,Greg Komar,"Hyde Park Town Council, Ward 2",no_source,,,,,,,no source carries Dutchess local races yet
-712,NY,Paul Donnelly,"Hyde Park Town Council, Ward 3",no_source,,,,,,,no source carries Dutchess local races yet
-713,NY,Rogerrio Rodriguez,"Hyde Park Town Council, Ward 4",no_source,,,,,,,no source carries Dutchess local races yet
-714,NY,Rosanna Hamm,Amenia Town Supervisor,no_source,,,,,,,no source carries Dutchess local races yet
-715,NY,Meghan Murphy-Borland,Pleasant Valley Town Supervisor,no_source,,,,,,,no source carries Dutchess local races yet
-716,NY,Julia Descoteaux,Stanford Town Supervisor,no_source,,,,,,,no source carries Dutchess local races yet
-717,NY,Heather O’Dell,"Wappingers Town Council, Ward 2",no_source,,,,,,,no source carries Dutchess local races yet
-718,NY,Juan Figueroa,Ulster County Sheriff,no_source,,,,,,,no source carries Ulster local races yet
-719,NY,Ann Peters,"Ulster County Legislature, District 2",no_source,,,,,,,no source carries Ulster local races yet
-720,NY,Kate Leon,"Ulster County Legislature, District 3",no_source,,,,,,,no source carries Ulster local races yet
-721,NY,Michael Berardi,"Ulster County Legislature, District 4",no_source,,,,,,,no source carries Ulster local races yet
-722,NY,Abe Uchitelle,"Ulster County Legislature, District 5",no_source,,,,,,,no source carries Ulster local races yet
-723,NY,Greg McCollough,"Ulster County Legislature, District 6",no_source,,,,,,,no source carries Ulster local races yet
-724,NY,Peter Criswell,"Ulster County Legislature, District 7",no_source,,,,,,,no source carries Ulster local races yet
-725,NY,Joseph Donaldson,"Ulster County Legislature, District 8",no_source,,,,,,,no source carries Ulster local races yet
-726,NY,Amy Dooley,"Ulster County Legislature, District 9",no_source,,,,,,,no source carries Ulster local races yet
-727,NY,Dominick Marino,"Ulster County Legislature, District 10",no_source,,,,,,,no source carries Ulster local races yet
-728,NY,Laura Donovan,"Ulster County Legislature, District 11",no_source,,,,,,,no source carries Ulster local races yet
-729,NY,Marisa McClinton,"Ulster County Legislature, District 12",no_source,,,,,,,no source carries Ulster local races yet
-730,NY,Adrienne Gelfand-Perine,"Ulster County Legislature, District 13",no_source,,,,,,,no source carries Ulster local races yet
-731,NY,Debra Clinton,"Ulster County Legislature, District 16",no_source,,,,,,,no source carries Ulster local races yet
-732,NY,Pierette Farber,"Ulster County Legislature, District 17",no_source,,,,,,,no source carries Ulster local races yet
-733,NY,Eric Stewart,"Ulster County Legislature, District 18",no_source,,,,,,,no source carries Ulster local races yet
-734,NY,Lindsey Grossman,"Ulster County Legislature, District 19",no_source,,,,,,,no source carries Ulster local races yet
-735,NY,Kenneth Stephens,"Ulster County Legislature, District 21",no_source,,,,,,,no source carries Ulster local races yet
-736,NY,Robert Drake,"Ulster County Legislature, District 22",no_source,,,,,,,no source carries Ulster local races yet
-737,NY,Jeffery Collins,"Ulster County Legislature, District 23",no_source,,,,,,,no source carries Ulster local races yet
-738,NY,Fred Costello,Saugerties Town Supervisor,no_source,,,,,,,no source carries Ulster local races yet
-739,NY,Alexandria Smith,(Town of) Ulster Town Board,no_source,,,,,,,no source carries Ulster local races yet
-740,NY,Alexandria Wojcik,New Paltz Village Mayor,no_source,,,,,,,no source carries Ulster local races yet
-741,NY,Al Lanzetta,Marlborough Town Supervisor,no_source,,,,,,,no source carries Ulster local races yet
-742,NY,Rolando Garcia,Marlborough Town Board,no_source,,,,,,,no source carries Ulster local races yet
-743,NY,Hayden Kellermeyer,Wappingers Town Board Ward 1,no_source,,,,,,,no source carries Dutchess local races yet
-744,NY,Roscoe Pecora,Esopus Town Supervisor,no_source,,,,,,,no source carries Ulster local races yet
-745,NY,Charlotte Smiseth,Town of Rochester Highway Superintendent,no_source,,,,,,,no source carries Ulster local races yet
-746,NY,Lynn Corcoran-Johnston,Esopus Town Tax Receiver,no_source,,,,,,,no source carries Ulster local races yet
 747,NY,Devin Lander,"State Senate, District 43",no_source,,,,,,,NY has only county sources so far
 748,NY,Sarah Rogerson,"State Senate, District 44",no_source,,,,,,,NY has only county sources so far
 749,NY,Melissa T Seale,"State Senate, District 45",no_source,,,,,,,NY has only county sources so far
@@ -1042,20 +1106,9 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 761,NY,Lisa Renee Williams,New Scotland Town Clerk,no_source,,,,,,,no source carries Albany local races yet
 762,NY,Deanna Rizzo,Coeymans Town Council,no_source,,,,,,,no source carries Albany local races yet
 763,NY,Justin Chaires,Schenectady City Council,no_source,,,,,,,no source carries Schenectady local races yet
-764,NY,Brian Zweig,North Greenbush Town Supervisor,no_source,,,,,,,no source carries Rensselaer local races yet
-765,NY,James McCarthy,North Greenbush Highway Superintendent,no_source,,,,,,,no source carries Rensselaer local races yet
-766,NY,Kristen Kelley,Sand Lake Town Clerk,no_source,,,,,,,no source carries Rensselaer local races yet
-767,NY,Sonja Renee Okun,"Hudson Supervisor, Ward 3",no_source,,,,,,,no source carries Columbia local races yet
 768,NY,Marty O’Connor,Saratoga County Supervisor (for Clifton Park),no_source,,,,,,,no source carries Saratoga local races yet
 769,NY,Ram Lalukota,Clifton Park Town Supervisor,no_source,,,,,,,no source carries Saratoga local races yet
 770,NY,Caitlin Fantini,Clifton Park Town Clerk,no_source,,,,,,,no source carries Saratoga local races yet
-771,NY,Lee Jamison,Stuyvesant Town Supervisor,no_source,,,,,,,no source carries Columbia local races yet
-772,NY,Keith Bruno,Clinton County Court,no_source,,,,,,,no source carries Clinton local races yet
-773,NY,Jaime A Douthat,Clinton County Surrogate’s Court Judge,no_source,,,,,,,no source carries Clinton local races yet
-774,NY,Marvin Shaw,Plattsburgh City Council Ward 5,no_source,,,,,,,no source carries Clinton local races yet
-775,NY,Charles Kostyk,Town of Plattsburgh Supervisor,no_source,,,,,,,no source carries Clinton local races yet
-776,NY,Ilona Selzer-Kelting,"Town of Plattsburgh Council, District 5",no_source,,,,,,,no source carries Clinton local races yet
-777,NY,Jay White,Town of Plattsburgh Clerk,no_source,,,,,,,no source carries Clinton local races yet
 778,NY,Kaitlin Parker,Malone Village Trustee,no_source,,,,,,,no source carries Franklin local races yet
 780,NY,James Michael Sienkiewycz,"North Lawrence, NY County Coroner",no_source,,,,,,,no source carries St. Lawrence local races yet
 781,NY,Rachel May,"State Senate, District 48",no_source,,,,,,,NY has only county sources so far
@@ -1094,29 +1147,7 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 814,NY,Frederick Page Steinhardt,"Salina Town Council, Ward 3",no_source,,,,,,,no source carries Onondaga local races yet
 815,NY,John O’Hara,"Camilius Town Board, Ward 6",no_source,,,,,,,no source carries Onondaga local races yet
 816,NY,Rachel Graham,Tompkins County Clerk,no_source,,,,,,,no source carries Tompkins local races yet
-817,NY,Michael D. Brown,Oneida County Clerk,no_source,,,,,,,no source carries Oneida local races yet
-818,NY,Jacob T. Addington,"Oneida County Legislature, District 2",no_source,,,,,,,no source carries Oneida local races yet
 819,NY,Leslie Berliant,"Otsego County Legislature, District 7",no_source,,,,,,,no source carries Otsego local races yet
-820,NY,Thomas N. Theall,"Oneida County Legislature, District 12",no_source,,,,,,,no source carries Oneida local races yet
-821,NY,Maria McNiel,"Oneida County Legislature, District 15",no_source,,,,,,,no source carries Oneida local races yet
-822,NY,Joseph Furgol,"Oneida County Legislature, District 18",no_source,,,,,,,no source carries Oneida local races yet
-823,NY,Venice A. Ervin,"Oneida County Legislature, District 20",no_source,,,,,,,no source carries Oneida local races yet
-824,NY,Lori A. Washburn,"Oneida County Legislature, District 21",no_source,,,,,,,no source carries Oneida local races yet
-825,NY,Kellyann Mercurio Bianco,"Oneida County Legislature, District 22",no_source,,,,,,,no source carries Oneida local races yet
-826,NY,Matt Ryan,Broome County Sheriff,no_source,,,,,,,no source carries Broome local races yet
-827,NY,Jennings Terrell,"Broome County Legislature, District 1",no_source,,,,,,,no source carries Broome local races yet
-828,NY,Scott Wager,"Broome County Legislature, District 5",no_source,,,,,,,no source carries Broome local races yet
-829,NY,Autumn Lester,"Broome County Legislature, District 6",no_source,,,,,,,no source carries Broome local races yet
-830,NY,Chris Moore,"Broome County Legislature, District 12",no_source,,,,,,,no source carries Broome local races yet
-831,NY,Mary Kaminsky,"Broome County Legislature, District 14",no_source,,,,,,,no source carries Broome local races yet
-832,NY,Timothy Ames,"Broome County Legislature, District 15",no_source,,,,,,,no source carries Broome local races yet
-833,NY,Robert Egan,Town of Union Supervisor,no_source,,,,,,,no source carries Broome local races yet
-834,NY,Lisa Smith,Broome County Surrogate Court,no_source,,,,,,,no source carries Broome local races yet
-835,NY,Meggan Taylor,Endicott Town Council Member,no_source,,,,,,,no source carries Broome local races yet
-836,NY,Meghan Jacobs,Town of Conklin Council Member,no_source,,,,,,,no source carries Broome local races yet
-837,NY,Joshua Shapiro,Town of Vestal Justice,no_source,,,,,,,no source carries Broome local races yet
-838,NY,Leona Perreault,Village of Johnson City Trustee,no_source,,,,,,,no source carries Broome local races yet
-839,NY,Joseph Picalila,Village of Johnson City Trustee,no_source,,,,,,,no source carries Broome local races yet
 840,NY,Manford Benjamin Susman,Cayuga County Court Judge,no_source,,,,,,,no source carries Cayuga local races yet
 841,NY,Heather J. McGregor,"Jefferson County Legislature, District 6",no_source,,,,,,,no source carries Jefferson local races yet
 842,NY,Samra Brouk,"State Senate, District 55",no_source,,,,,,,NY has only county sources so far
@@ -1136,20 +1167,6 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 856,NY,Donna L Dye Sholk,"State Assembly, District 144",no_source,,,,,,,NY has only county sources so far
 857,NY,Adam Bojak,"State Assembly, District 149",no_source,,,,,,,NY has only county sources so far
 858,NY,Thomas Carle,"State Assembly, District 150",no_source,,,,,,,NY has only county sources so far
-871,NY,Nathaniel V Salzman,Brighton Town Supervisor,no_source,,,,,,,no source carries Monroe local races yet
-872,NY,John Perticone,Irondequoit Town Supervisor,no_source,,,,,,,no source carries Monroe local races yet
-873,NY,Kathryn Walker,Irondequoit Town Board,no_source,,,,,,,no source carries Monroe local races yet
-874,NY,Maximillian Gordon,Pittsford Town Supervisor,no_source,,,,,,,no source carries Monroe local races yet
-875,NY,Alex Scialdone,Webster Town Supervisor,no_source,,,,,,,no source carries Monroe local races yet
-876,NY,Kevin Berry,Penfield Town Supervisor,no_source,,,,,,,no source carries Monroe local races yet
-877,NY,Nicholas Coffee,Gates Town Supervisor,no_source,,,,,,,no source carries Monroe local races yet
-878,NY,Emily Wallace-Kalouch,Chili Town Supervisor,no_source,,,,,,,no source carries Monroe local races yet
-879,NY,Ryan McDonald,"Greece Town Council Member, Ward 1",no_source,,,,,,,no source carries Monroe local races yet
-880,NY,Frank Femia,"Greece Town Council Member, Ward 2",no_source,,,,,,,no source carries Monroe local races yet
-881,NY,Amorette Miller,"Greece Town Council Member, Ward 3",no_source,,,,,,,no source carries Monroe local races yet
-882,NY,Jennifer Townsend,Perinton Town Supervisor,no_source,,,,,,,no source carries Monroe local races yet
-883,NY,Catherine Dean,Penfield Town Council,no_source,,,,,,,no source carries Monroe local races yet
-884,NY,Sarah Nazarian,Fairport Town Trustee,no_source,,,,,,,no source carries Monroe local races yet
 888,NY,Matthew Chavez,"Niagara County Legislature, District 3",no_source,,,,,,,no source carries Niagara local races yet
 889,NY,Jeffrey Elder,"Niagara County Legislature, District 4",no_source,,,,,,,no source carries Niagara local races yet
 890,NY,Johnny Parks,"Niagara County Legislature, District 5",no_source,,,,,,,no source carries Niagara local races yet
@@ -1161,23 +1178,6 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 896,NY,Jocelyn Welton,"Niagara County Legislature, District 13",no_source,,,,,,,no source carries Niagara local races yet
 897,NY,Maria Fabrizio,"Niagara County Legislature, District 15",no_source,,,,,,,no source carries Niagara local races yet
 898,NY,Duncan Ross,Cambria Town Supervisor,no_source,,,,,,,no source carries Niagara local races yet
-899,NY,Alexandria Moss,Chautauqua County Family Court Judge,no_source,,,,,,,no source carries Chautauqua local races yet
-900,NY,Marcus Sam Buchanan,"Chautauqua County Legislature, District 1",no_source,,,,,,,no source carries Chautauqua local races yet
-901,NY,Robert Bankoski,"Chautauqua County Legislature, District 2",no_source,,,,,,,no source carries Chautauqua local races yet
-902,NY,Michael Lee,"Chautauqua County Legislature, District 3",no_source,,,,,,,no source carries Chautauqua local races yet
-903,NY,Kevin K O’Connell,"Chautauqua County Legislature, District 6",no_source,,,,,,,no source carries Chautauqua local races yet
-904,NY,Carla Michelle Rodriguez,"Chautauqua County Legislature, District 7",no_source,,,,,,,no source carries Chautauqua local races yet
-905,NY,Julie Jackson-Forsberg,"Chautauqua County Legislature, District 10",no_source,,,,,,,no source carries Chautauqua local races yet
-906,NY,Frederick Larson,"Chautauqua County Legislature, District 12",no_source,,,,,,,no source carries Chautauqua local races yet
-907,NY,Thomas Nelson,"Chautauqua County Legislature, District 13",no_source,,,,,,,no source carries Chautauqua local races yet
-908,NY,Christopher Deblass,"Chautauqua County Legislature, District 16",no_source,,,,,,,no source carries Chautauqua local races yet
-909,NY,Melissa First,"Chautauqua County Legislature, District 17",no_source,,,,,,,no source carries Chautauqua local races yet
-910,NY,John Hamels,"Chautauqua County Legislature, District 19",no_source,,,,,,,no source carries Chautauqua local races yet
-911,NY,EvaDawn Bashaw,Pomfret Town Council Member,no_source,,,,,,,no source carries Chautauqua local races yet
-912,NY,Kristin Colburn,Cattaraugus County Clerk,no_source,,,,,,,no source carries Cattaraugus local races yet
-913,NY,Ann Marie Sitter-Tompkins,"Olean City Council Member, Ward 5",no_source,,,,,,,no source carries Cattaraugus local races yet
-914,NY,Susan Wilks,"Chemung County Legislature, District 7",no_source,,,,,,,no source carries Chemung local races yet
-915,NY,Meg Magnusen,"Chemung County Legislature, District 9",no_source,,,,,,,no source carries Chemung local races yet
 1086,TN,Justin J. Pearson,"U.S. House of Representatives, District 9",no_source,,,,,,,no source covers TN yet
 1087,TN,Aftyn Behn,"State House, District 51",no_source,,,,,,,no source covers TN yet
 1088,TN,Allie Phillips,"State House, District 75",no_source,,,,,,,no source covers TN yet

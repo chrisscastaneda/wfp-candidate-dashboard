@@ -1,0 +1,4553 @@
+{
+ "source": "ny.oneida",
+ "contests": [
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-a40b-08df1a5e4f90",
+   "state": "NY",
+   "title": "Governor and Lieutenant Governor",
+   "office_type": "governor",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 72,
+    "units_total": 72,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Kathy C. Hochul / Adrienne E. Adams",
+     "votes": 28795,
+     "party": "DEM",
+     "pct": 37.46,
+     "choice_id": "01000000-4759-b58d-b004-08df1a5e4f90",
+     "party_lines": {
+      "DEM": 26389,
+      "WFP": 2406
+     }
+    },
+    {
+     "name": "Bruce A. Blakeman / Todd Hood",
+     "votes": 47892,
+     "party": "REP",
+     "pct": 62.31,
+     "choice_id": "01000000-4759-b58d-b3b9-08df1a5e4f90",
+     "party_lines": {
+      "REP": 42810,
+      "CONSERVATIVE": 4240,
+      "VOTE AFFORDA": 842
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 173,
+     "party": null,
+     "pct": 0.23,
+     "choice_id": "01000000-4759-b58d-b3eb-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-b420-08df1a5e4f90",
+   "state": "NY",
+   "title": "Comptroller",
+   "office_type": "controller",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 72,
+    "units_total": 72,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Thomas P. DiNapoli",
+     "votes": 36543,
+     "party": "DEM",
+     "pct": 48.42,
+     "choice_id": "01000000-4759-b58d-b4a8-08df1a5e4f90",
+     "party_lines": {
+      "DEM": 32536,
+      "WFP": 4007
+     }
+    },
+    {
+     "name": "Joseph Hernandez",
+     "votes": 38894,
+     "party": "REP",
+     "pct": 51.54,
+     "choice_id": "01000000-4759-b58d-b4ed-08df1a5e4f90",
+     "party_lines": {
+      "REP": 35017,
+      "CONSERVATIVE": 3877
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 29,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-4759-b58d-b52c-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-b621-08df1a5e4f90",
+   "state": "NY",
+   "title": "Attorney General",
+   "office_type": "attorney_general",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 72,
+    "units_total": 72,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Letitia A. James",
+     "votes": 31281,
+     "party": "DEM",
+     "pct": 41.37,
+     "choice_id": "01000000-4759-b58d-b67b-08df1a5e4f90",
+     "party_lines": {
+      "DEM": 28353,
+      "WFP": 2928
+     }
+    },
+    {
+     "name": "Saritha Komatireddy",
+     "votes": 44306,
+     "party": "REP",
+     "pct": 58.59,
+     "choice_id": "01000000-4759-b58d-b6a4-08df1a5e4f90",
+     "party_lines": {
+      "REP": 39924,
+      "CONSERVATIVE": 4382
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 32,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-4759-b58d-b6bb-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-b6d7-08df1a5e4f90",
+   "state": "NY",
+   "title": "Representative in Congress, District 21",
+   "office_type": "federal_house",
+   "district": "21",
+   "jurisdiction": "Oneida County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 33,
+    "units_total": 33,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Blake Gendebien",
+     "votes": 12636,
+     "party": "DEM",
+     "pct": 39.32,
+     "choice_id": "01000000-4759-b58d-b729-08df1a5e4f90",
+     "party_lines": {
+      "DEM": 12636
+     }
+    },
+    {
+     "name": "Anthony Constantino",
+     "votes": 19448,
+     "party": "REP",
+     "pct": 60.52,
+     "choice_id": "01000000-4759-b58d-b751-08df1a5e4f90",
+     "party_lines": {
+      "REP": 19268,
+      "TAXPAYER RIG": 180
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 50,
+     "party": null,
+     "pct": 0.16,
+     "choice_id": "01000000-4759-b58d-b76a-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-b786-08df1a5e4f90",
+   "state": "NY",
+   "title": "Representative in Congress, District 22",
+   "office_type": "federal_house",
+   "district": "22",
+   "jurisdiction": "Oneida County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 40,
+    "units_total": 40,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "John W. Mannion",
+     "votes": 22235,
+     "party": "DEM",
+     "pct": 50.89,
+     "choice_id": "01000000-4759-b58d-b7c8-08df1a5e4f90",
+     "party_lines": {
+      "DEM": 19984,
+      "WFP": 2251
+     }
+    },
+    {
+     "name": "Kailee Marie Buller",
+     "votes": 21435,
+     "party": "REP",
+     "pct": 49.06,
+     "choice_id": "01000000-4759-b58d-b7f2-08df1a5e4f90",
+     "party_lines": {
+      "REP": 19285,
+      "CONSERVATIVE": 2150
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 22,
+     "party": null,
+     "pct": 0.05,
+     "choice_id": "01000000-4759-b58d-b80c-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-b82b-08df1a5e4f90",
+   "state": "NY",
+   "title": "State Senator, District 53",
+   "office_type": "state_senate",
+   "district": "53",
+   "jurisdiction": "Oneida County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 72,
+    "units_total": 72,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Mandi Drake",
+     "votes": 23451,
+     "party": "DEM",
+     "pct": 30.59,
+     "choice_id": "01000000-4759-b58d-b877-08df1a5e4f90",
+     "party_lines": {
+      "DEM": 21114,
+      "WFP": 2337
+     }
+    },
+    {
+     "name": "Joseph A. Griffo",
+     "votes": 53167,
+     "party": "REP",
+     "pct": 69.36,
+     "choice_id": "01000000-4759-b58d-b8a1-08df1a5e4f90",
+     "party_lines": {
+      "REP": 47691,
+      "CONSERVATIVE": 5476
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 36,
+     "party": null,
+     "pct": 0.05,
+     "choice_id": "01000000-4759-b58d-b8b9-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-b8d4-08df1a5e4f90",
+   "state": "NY",
+   "title": "Member of Assembly, District 117",
+   "office_type": "state_house",
+   "district": "117",
+   "jurisdiction": "Oneida County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 9,
+    "units_total": 9,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Dennis Gordon",
+     "votes": 2854,
+     "party": "DEM",
+     "pct": 28.2,
+     "choice_id": "01000000-4759-b58d-b918-08df1a5e4f90",
+     "party_lines": {
+      "DEM": 2590,
+      "WFP": 264
+     }
+    },
+    {
+     "name": "Tammie Nabywaniec",
+     "votes": 7263,
+     "party": "REP",
+     "pct": 71.78,
+     "choice_id": "01000000-4759-b58d-b941-08df1a5e4f90",
+     "party_lines": {
+      "REP": 6674,
+      "CONSERVATIVE": 589
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.02,
+     "choice_id": "01000000-4759-b58d-b957-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-b97a-08df1a5e4f90",
+   "state": "NY",
+   "title": "Member of Assembly, District 118",
+   "office_type": "state_house",
+   "district": "118",
+   "jurisdiction": "Oneida County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Colleen Maxwell",
+     "votes": 1204,
+     "party": "DEM",
+     "pct": 29.01,
+     "choice_id": "01000000-4759-b58d-b9be-08df1a5e4f90",
+     "party_lines": {
+      "DEM": 1204
+     }
+    },
+    {
+     "name": "Heather A. Scribner",
+     "votes": 2944,
+     "party": "REP",
+     "pct": 70.94,
+     "choice_id": "01000000-4759-b58d-b9e5-08df1a5e4f90",
+     "party_lines": {
+      "REP": 2692,
+      "CONSERVATIVE": 252
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.05,
+     "choice_id": "01000000-4759-b58d-b9fb-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-ba16-08df1a5e4f90",
+   "state": "NY",
+   "title": "Member of Assembly, District 119",
+   "office_type": "state_house",
+   "district": "119",
+   "jurisdiction": "Oneida County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 34,
+    "units_total": 34,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Jonathan E. Lipe",
+     "votes": 16497,
+     "party": "DEM",
+     "pct": 47.26,
+     "choice_id": "01000000-4759-b58d-ba5a-08df1a5e4f90",
+     "party_lines": {
+      "DEM": 14848,
+      "WFP": 1542,
+      "MOHAWK VALLE": 107
+     }
+    },
+    {
+     "name": "Michael C. Gentile",
+     "votes": 18378,
+     "party": "REP",
+     "pct": 52.65,
+     "choice_id": "01000000-4759-b58d-ba86-08df1a5e4f90",
+     "party_lines": {
+      "REP": 16673,
+      "CONSERVATIVE": 1705
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 30,
+     "party": null,
+     "pct": 0.09,
+     "choice_id": "01000000-4759-b58d-baa2-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-babd-08df1a5e4f90",
+   "state": "NY",
+   "title": "Member of Assembly, District 122",
+   "office_type": "state_house",
+   "district": "122",
+   "jurisdiction": "Oneida County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 24,
+    "units_total": 24,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Ihor Semko",
+     "votes": 9040,
+     "party": "DEM",
+     "pct": 34.09,
+     "choice_id": "01000000-4759-b58d-bb01-08df1a5e4f90",
+     "party_lines": {
+      "DEM": 8217,
+      "WFP": 823
+     }
+    },
+    {
+     "name": "Brian D. Miller",
+     "votes": 17464,
+     "party": "REP",
+     "pct": 65.86,
+     "choice_id": "01000000-4759-b58d-bb2a-08df1a5e4f90",
+     "party_lines": {
+      "REP": 15522,
+      "CONSERVATIVE": 1942
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 11,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-4759-b58d-bb40-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-bb5c-08df1a5e4f90",
+   "state": "NY",
+   "title": "County Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 72,
+    "units_total": 72,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Michael D. Brown",
+     "votes": 26714,
+     "party": "DEM",
+     "pct": 35.36,
+     "choice_id": "01000000-4759-b58d-bb9b-08df1a5e4f90",
+     "party_lines": {
+      "DEM": 24157,
+      "WFP": 2557
+     }
+    },
+    {
+     "name": "Mary Finegan",
+     "votes": 48798,
+     "party": "REP",
+     "pct": 64.6,
+     "choice_id": "01000000-4759-b58d-bbc4-08df1a5e4f90",
+     "party_lines": {
+      "REP": 43955,
+      "CONSERVATIVE": 4843
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 30,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-4759-b58d-bbe5-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-bc02-08df1a5e4f90",
+   "state": "NY",
+   "title": "County Sheriff",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 72,
+    "units_total": 72,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Robert M. Maciol",
+     "votes": 37224,
+     "party": "DEM",
+     "pct": 48.77,
+     "choice_id": "01000000-4759-b58d-bc41-08df1a5e4f90",
+     "party_lines": {
+      "DEM": 37224
+     }
+    },
+    {
+     "name": "Jared A. Pearl",
+     "votes": 39062,
+     "party": "REP",
+     "pct": 51.18,
+     "choice_id": "01000000-4759-b58d-bc68-08df1a5e4f90",
+     "party_lines": {
+      "REP": 35255,
+      "CONSERVATIVE": 3807
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 39,
+     "party": null,
+     "pct": 0.05,
+     "choice_id": "01000000-4759-b58d-bc81-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-dfa2-08df1a5e4f90",
+   "state": "NY",
+   "title": "County Court Judge",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 72,
+    "units_total": 72,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Robert L. Bauer",
+     "votes": 58072,
+     "party": "REP",
+     "pct": 99.23,
+     "choice_id": "01000000-4759-b58d-dfe1-08df1a5e4f90",
+     "party_lines": {
+      "REP": 49545,
+      "CONSERVATIVE": 8527
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 449,
+     "party": null,
+     "pct": 0.77,
+     "choice_id": "01000000-4759-b58d-dff8-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-e0a9-08df1a5e4f90",
+   "state": "NY",
+   "title": "Family Court Judge",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 72,
+    "units_total": 72,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Stephanie Singe-Cully",
+     "votes": 57510,
+     "party": "REP",
+     "pct": 99.27,
+     "choice_id": "01000000-4759-b58d-e0f0-08df1a5e4f90",
+     "party_lines": {
+      "REP": 48928,
+      "CONSERVATIVE": 8582
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 421,
+     "party": null,
+     "pct": 0.73,
+     "choice_id": "01000000-4759-b58d-e107-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-e123-08df1a5e4f90",
+   "state": "NY",
+   "title": "Surrogate Court Judge",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 72,
+    "units_total": 72,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Megan Dorr",
+     "votes": 57277,
+     "party": "REP",
+     "pct": 99.28,
+     "choice_id": "01000000-4759-b58d-e165-08df1a5e4f90",
+     "party_lines": {
+      "REP": 48688,
+      "CONSERVATIVE": 8589
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 417,
+     "party": null,
+     "pct": 0.72,
+     "choice_id": "01000000-4759-b58d-e17d-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-bc9e-08df1a5e4f90",
+   "state": "NY",
+   "title": "County Legislator, District 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 6,
+    "units_total": 6,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Keith H. Schiebel",
+     "votes": 3336,
+     "party": "REP",
+     "pct": 98.9,
+     "choice_id": "01000000-4759-b58d-bcd4-08df1a5e4f90",
+     "party_lines": {
+      "REP": 2836,
+      "CONSERVATIVE": 500
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 37,
+     "party": null,
+     "pct": 1.1,
+     "choice_id": "01000000-4759-b58d-bcef-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-bd18-08df1a5e4f90",
+   "state": "NY",
+   "title": "County Legislator, District 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 4,
+    "units_total": 4,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Jacob T. Addington",
+     "votes": 1042,
+     "party": "DEM",
+     "pct": 34.12,
+     "choice_id": "01000000-4759-b58d-bd50-08df1a5e4f90",
+     "party_lines": {
+      "DEM": 903,
+      "WFP": 139
+     }
+    },
+    {
+     "name": "Colin E. Idzi",
+     "votes": 2009,
+     "party": "REP",
+     "pct": 65.78,
+     "choice_id": "01000000-4759-b58d-bd79-08df1a5e4f90",
+     "party_lines": {
+      "REP": 1770,
+      "CONSERVATIVE": 239
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.1,
+     "choice_id": "01000000-4759-b58d-bd94-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-bdb7-08df1a5e4f90",
+   "state": "NY",
+   "title": "County Legislator, District 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 4,
+    "units_total": 4,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Norman Leach",
+     "votes": 2813,
+     "party": "REP",
+     "pct": 99.43,
+     "choice_id": "01000000-4759-b58d-bdf0-08df1a5e4f90",
+     "party_lines": {
+      "REP": 2405,
+      "CONSERVATIVE": 408
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 16,
+     "party": null,
+     "pct": 0.57,
+     "choice_id": "01000000-4759-b58d-be09-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-be2b-08df1a5e4f90",
+   "state": "NY",
+   "title": "County Legislator, District 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 6,
+    "units_total": 6,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Cynthia L. Rogers-Witt",
+     "votes": 2331,
+     "party": "REP",
+     "pct": 99.02,
+     "choice_id": "01000000-4759-b58d-be66-08df1a5e4f90",
+     "party_lines": {
+      "REP": 1953,
+      "CONSERVATIVE": 378
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 23,
+     "party": null,
+     "pct": 0.98,
+     "choice_id": "01000000-4759-b58d-be82-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-bea5-08df1a5e4f90",
+   "state": "NY",
+   "title": "County Legislator, District 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 4,
+    "units_total": 4,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Michael B. Waterman",
+     "votes": 2687,
+     "party": "REP",
+     "pct": 99.59,
+     "choice_id": "01000000-4759-b58d-bed9-08df1a5e4f90",
+     "party_lines": {
+      "REP": 2687
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 11,
+     "party": null,
+     "pct": 0.41,
+     "choice_id": "01000000-4759-b58d-bef5-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-bf19-08df1a5e4f90",
+   "state": "NY",
+   "title": "County Legislator, District 6",
+   "office_type": "local",
+   "district": "6",
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 6,
+    "units_total": 6,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Steven R. Boucher",
+     "votes": 3335,
+     "party": "REP",
+     "pct": 99.73,
+     "choice_id": "01000000-4759-b58d-bf4a-08df1a5e4f90",
+     "party_lines": {
+      "REP": 2970,
+      "CONSERVATIVE": 365
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 9,
+     "party": null,
+     "pct": 0.27,
+     "choice_id": "01000000-4759-b58d-bf69-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-bf96-08df1a5e4f90",
+   "state": "NY",
+   "title": "County Legislator, District 7",
+   "office_type": "local",
+   "district": "7",
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 4,
+    "units_total": 4,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Stewart Rood",
+     "votes": 3269,
+     "party": "REP",
+     "pct": 98.91,
+     "choice_id": "01000000-4759-b58d-bfc9-08df1a5e4f90",
+     "party_lines": {
+      "REP": 2778,
+      "CONSERVATIVE": 491
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 36,
+     "party": null,
+     "pct": 1.09,
+     "choice_id": "01000000-4759-b58d-bfe7-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-c00b-08df1a5e4f90",
+   "state": "NY",
+   "title": "County Legislator, District 8",
+   "office_type": "local",
+   "district": "8",
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 6,
+    "units_total": 6,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Victoria Celia",
+     "votes": 3029,
+     "party": "REP",
+     "pct": 98.92,
+     "choice_id": "01000000-4759-b58d-c043-08df1a5e4f90",
+     "party_lines": {
+      "REP": 2630,
+      "CONSERVATIVE": 399
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 33,
+     "party": null,
+     "pct": 1.08,
+     "choice_id": "01000000-4759-b58d-c05e-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-c080-08df1a5e4f90",
+   "state": "NY",
+   "title": "County Legislator, District 9",
+   "office_type": "local",
+   "district": "9",
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "David A. Buck",
+     "votes": 3686,
+     "party": "REP",
+     "pct": 99.3,
+     "choice_id": "01000000-4759-b58d-c0ba-08df1a5e4f90",
+     "party_lines": {
+      "REP": 3238,
+      "CONSERVATIVE": 448
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 26,
+     "party": null,
+     "pct": 0.7,
+     "choice_id": "01000000-4759-b58d-c0da-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-c0fc-08df1a5e4f90",
+   "state": "NY",
+   "title": "County Legislator, District 10",
+   "office_type": "local",
+   "district": "10",
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "George Joseph",
+     "votes": 3559,
+     "party": "REP",
+     "pct": 99.55,
+     "choice_id": "01000000-4759-b58d-c12d-08df1a5e4f90",
+     "party_lines": {
+      "REP": 3045,
+      "CONSERVATIVE": 514
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 16,
+     "party": null,
+     "pct": 0.45,
+     "choice_id": "01000000-4759-b58d-c14b-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-c170-08df1a5e4f90",
+   "state": "NY",
+   "title": "County Legislator, District 11",
+   "office_type": "local",
+   "district": "11",
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Robert A. Koenig",
+     "votes": 2771,
+     "party": "REP",
+     "pct": 99.04,
+     "choice_id": "01000000-4759-b58d-c1a2-08df1a5e4f90",
+     "party_lines": {
+      "REP": 2331,
+      "CONSERVATIVE": 440
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 27,
+     "party": null,
+     "pct": 0.96,
+     "choice_id": "01000000-4759-b58d-c1bf-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-c1e3-08df1a5e4f90",
+   "state": "NY",
+   "title": "County Legislator, District 12",
+   "office_type": "local",
+   "district": "12",
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 4,
+    "units_total": 4,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Thomas N. Theall",
+     "votes": 1259,
+     "party": "DEM",
+     "pct": 44.18,
+     "choice_id": "01000000-4759-b58d-c21b-08df1a5e4f90",
+     "party_lines": {
+      "DEM": 1157,
+      "WFP": 102
+     }
+    },
+    {
+     "name": "Kenneth White",
+     "votes": 1588,
+     "party": "REP",
+     "pct": 55.72,
+     "choice_id": "01000000-4759-b58d-c243-08df1a5e4f90",
+     "party_lines": {
+      "REP": 1449,
+      "CONSERVATIVE": 139
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.11,
+     "choice_id": "01000000-4759-b58d-c260-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-c284-08df1a5e4f90",
+   "state": "NY",
+   "title": "County Legislator, District 13",
+   "office_type": "local",
+   "district": "13",
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Christopher Newton",
+     "votes": 2779,
+     "party": "REP",
+     "pct": 98.9,
+     "choice_id": "01000000-4759-b58d-c2b5-08df1a5e4f90",
+     "party_lines": {
+      "REP": 2332,
+      "CONSERVATIVE": 447
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 31,
+     "party": null,
+     "pct": 1.1,
+     "choice_id": "01000000-4759-b58d-c2d2-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-c2f7-08df1a5e4f90",
+   "state": "NY",
+   "title": "County Legislator, District 14",
+   "office_type": "local",
+   "district": "14",
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 6,
+    "units_total": 6,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "D. Chad Davis",
+     "votes": 3503,
+     "party": "DEM",
+     "pct": 99.69,
+     "choice_id": "01000000-4759-b58d-c32f-08df1a5e4f90",
+     "party_lines": {
+      "DEM": 2707,
+      "CONSERVATIVE": 796
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 11,
+     "party": null,
+     "pct": 0.31,
+     "choice_id": "01000000-4759-b58d-c350-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-c372-08df1a5e4f90",
+   "state": "NY",
+   "title": "County Legislator, District 15",
+   "office_type": "local",
+   "district": "15",
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 6,
+    "units_total": 6,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Maria McNiel",
+     "votes": 2347,
+     "party": "DEM",
+     "pct": 53.6,
+     "choice_id": "01000000-4759-b58d-c3aa-08df1a5e4f90",
+     "party_lines": {
+      "DEM": 2134,
+      "WFP": 213
+     }
+    },
+    {
+     "name": "Louis Faga",
+     "votes": 2031,
+     "party": "REP",
+     "pct": 46.38,
+     "choice_id": "01000000-4759-b58d-c3d3-08df1a5e4f90",
+     "party_lines": {
+      "REP": 1842,
+      "CONSERVATIVE": 189
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.02,
+     "choice_id": "01000000-4759-b58d-c3ed-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-c40f-08df1a5e4f90",
+   "state": "NY",
+   "title": "County Legislator, District 16",
+   "office_type": "local",
+   "district": "16",
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 3,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Mary Austin Pratt",
+     "votes": 3065,
+     "party": "REP",
+     "pct": 99.09,
+     "choice_id": "01000000-4759-b58d-c445-08df1a5e4f90",
+     "party_lines": {
+      "REP": 2650,
+      "CONSERVATIVE": 415
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 28,
+     "party": null,
+     "pct": 0.91,
+     "choice_id": "01000000-4759-b58d-c492-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-c4b5-08df1a5e4f90",
+   "state": "NY",
+   "title": "County Legislator, District 17",
+   "office_type": "local",
+   "district": "17",
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Stephen DiMaggio",
+     "votes": 3070,
+     "party": "REP",
+     "pct": 99.29,
+     "choice_id": "01000000-4759-b58d-c4ee-08df1a5e4f90",
+     "party_lines": {
+      "REP": 2682,
+      "CONSERVATIVE": 388
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 22,
+     "party": null,
+     "pct": 0.71,
+     "choice_id": "01000000-4759-b58d-c509-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-c52c-08df1a5e4f90",
+   "state": "NY",
+   "title": "County Legislator, District 18",
+   "office_type": "local",
+   "district": "18",
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Joseph M. Furgol",
+     "votes": 1271,
+     "party": "DEM",
+     "pct": 66.72,
+     "choice_id": "01000000-4759-b58d-c55f-08df1a5e4f90",
+     "party_lines": {
+      "DEM": 1165,
+      "WFP": 106
+     }
+    },
+    {
+     "name": "John N. Mirante",
+     "votes": 634,
+     "party": "REP",
+     "pct": 33.28,
+     "choice_id": "01000000-4759-b58d-c587-08df1a5e4f90",
+     "party_lines": {
+      "REP": 593,
+      "CONSERVATIVE": 41
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-c5ce-08df1a5e4f90",
+   "state": "NY",
+   "title": "County Legislator, District 19",
+   "office_type": "local",
+   "district": "19",
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Timothy J. Julian",
+     "votes": 2035,
+     "party": "DEM",
+     "pct": 82.16,
+     "choice_id": "01000000-4759-b58d-c604-08df1a5e4f90",
+     "party_lines": {
+      "DEM": 2035
+     }
+    },
+    {
+     "name": "James A. Zecca",
+     "votes": 434,
+     "party": "CONSERVATIVE",
+     "pct": 17.52,
+     "choice_id": "01000000-4759-b58d-c62c-08df1a5e4f90",
+     "party_lines": {
+      "CONSERVATIVE": 434
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": null,
+     "pct": 0.32,
+     "choice_id": "01000000-4759-b58d-c644-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-c667-08df1a5e4f90",
+   "state": "NY",
+   "title": "County Legislator, District 20",
+   "office_type": "local",
+   "district": "20",
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 3,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Venice A. Ervin",
+     "votes": 710,
+     "party": "DEM",
+     "pct": 99.72,
+     "choice_id": "01000000-4759-b58d-c69d-08df1a5e4f90",
+     "party_lines": {
+      "DEM": 641,
+      "WFP": 69
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.28,
+     "choice_id": "01000000-4759-b58d-c6b7-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-c6d9-08df1a5e4f90",
+   "state": "NY",
+   "title": "County Legislator, District 21",
+   "office_type": "local",
+   "district": "21",
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 4,
+    "units_total": 4,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Lori A. Washburn",
+     "votes": 768,
+     "party": "DEM",
+     "pct": 65.81,
+     "choice_id": "01000000-4759-b58d-c711-08df1a5e4f90",
+     "party_lines": {
+      "DEM": 690,
+      "WFP": 78
+     }
+    },
+    {
+     "name": "Tony Myers",
+     "votes": 398,
+     "party": "REP",
+     "pct": 34.1,
+     "choice_id": "01000000-4759-b58d-c73f-08df1a5e4f90",
+     "party_lines": {
+      "REP": 359,
+      "CONSERVATIVE": 39
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.09,
+     "choice_id": "01000000-4759-b58d-c759-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-c77c-08df1a5e4f90",
+   "state": "NY",
+   "title": "County Legislator, District 22",
+   "office_type": "local",
+   "district": "22",
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Kellyann C. Mercurio",
+     "votes": 749,
+     "party": "DEM",
+     "pct": 99.6,
+     "choice_id": "01000000-4759-b58d-c7b4-08df1a5e4f90",
+     "party_lines": {
+      "DEM": 649,
+      "WFP": 100
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.4,
+     "choice_id": "01000000-4759-b58d-c7cc-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-c7ed-08df1a5e4f90",
+   "state": "NY",
+   "title": "County Legislator, District 23",
+   "office_type": "local",
+   "district": "23",
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 3,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Anthony C. Leone Jr.",
+     "votes": 1809,
+     "party": "DEM",
+     "pct": 57.19,
+     "choice_id": "01000000-4759-b58d-c822-08df1a5e4f90",
+     "party_lines": {
+      "DEM": 1631,
+      "CONSERVATIVE": 178
+     }
+    },
+    {
+     "name": "Frank A. Pelli",
+     "votes": 1351,
+     "party": "REP",
+     "pct": 42.71,
+     "choice_id": "01000000-4759-b58d-c852-08df1a5e4f90",
+     "party_lines": {
+      "REP": 1326,
+      "VOTE AFFORDA": 25
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.09,
+     "choice_id": "01000000-4759-b58d-c870-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-c894-08df1a5e4f90",
+   "state": "NY",
+   "title": "Annsville Town Supervisor, 1-Year Term (To Fill a Vacancy)",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Billie Jo Pitoniak",
+     "votes": 272,
+     "party": "DEM",
+     "pct": 28.33,
+     "choice_id": "01000000-4759-b58d-c905-08df1a5e4f90",
+     "party_lines": {
+      "DEM": 272
+     }
+    },
+    {
+     "name": "Pamela L. Dibble",
+     "votes": 688,
+     "party": "REP",
+     "pct": 71.67,
+     "choice_id": "01000000-4759-b58d-c8d8-08df1a5e4f90",
+     "party_lines": {
+      "REP": 688
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-c931-08df1a5e4f90",
+   "state": "NY",
+   "title": "Annsville Town Councilperson, 1-Year Term (To Fill a Vacancy)",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Don L. Smith",
+     "votes": 213,
+     "party": "DEM",
+     "pct": 22.64,
+     "choice_id": "01000000-4759-b58d-c99e-08df1a5e4f90",
+     "party_lines": {
+      "DEM": 213
+     }
+    },
+    {
+     "name": "Joshua M. Perusse",
+     "votes": 728,
+     "party": "REP",
+     "pct": 77.36,
+     "choice_id": "01000000-4759-b58d-c96e-08df1a5e4f90",
+     "party_lines": {
+      "REP": 728
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-e197-08df1a5e4f90",
+   "state": "NY",
+   "title": "Annsville Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Dennis Hilts Sr.",
+     "votes": 220,
+     "party": "DEM",
+     "pct": 23.4,
+     "choice_id": "01000000-4759-b58d-e203-08df1a5e4f90",
+     "party_lines": {
+      "DEM": 220
+     }
+    },
+    {
+     "name": "Paul E. Tryon",
+     "votes": 720,
+     "party": "REP",
+     "pct": 76.6,
+     "choice_id": "01000000-4759-b58d-e1da-08df1a5e4f90",
+     "party_lines": {
+      "REP": 720
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-e236-08df1a5e4f90",
+   "state": "NY",
+   "title": "Augusta Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Geri A. Cook",
+     "votes": 552,
+     "party": "REP",
+     "pct": 99.1,
+     "choice_id": "01000000-4759-b58d-e276-08df1a5e4f90",
+     "party_lines": {
+      "REP": 552
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 5,
+     "party": null,
+     "pct": 0.9,
+     "choice_id": "01000000-4759-b58d-e28c-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-c9d2-08df1a5e4f90",
+   "state": "NY",
+   "title": "Ava Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Keith Redhead",
+     "votes": 221,
+     "party": "REP",
+     "pct": 99.55,
+     "choice_id": "01000000-4759-b58d-ca0d-08df1a5e4f90",
+     "party_lines": {
+      "REP": 221
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.45,
+     "choice_id": "01000000-4759-b58d-ca25-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-ca43-08df1a5e4f90",
+   "state": "NY",
+   "title": "Ava Highway Superintendent",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Ryan Dutch",
+     "votes": 223,
+     "party": "REP",
+     "pct": 99.55,
+     "choice_id": "01000000-4759-b58d-ca7c-08df1a5e4f90",
+     "party_lines": {
+      "REP": 223
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.45,
+     "choice_id": "01000000-4759-b58d-ca93-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-cab3-08df1a5e4f90",
+   "state": "NY",
+   "title": "Ava Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Kathleen Redhead",
+     "votes": 134,
+     "party": "AVA",
+     "pct": 99.26,
+     "choice_id": "01000000-4759-b58d-cae6-08df1a5e4f90",
+     "party_lines": {
+      "AVA": 134
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.74,
+     "choice_id": "01000000-4759-b58d-caff-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-e906-08df1a5e4f90",
+   "state": "NY",
+   "title": "Proposal one, a proposition for Ava",
+   "office_type": "measure",
+   "district": "proposal one a proposition for ava",
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 134,
+     "party": null,
+     "pct": 56.54,
+     "choice_id": "01000000-4759-b58d-e94a-08df1a5e4f90",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 103,
+     "party": null,
+     "pct": 43.46,
+     "choice_id": "01000000-4759-b58d-e981-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-cb29-08df1a5e4f90",
+   "state": "NY",
+   "title": "Boonville Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "David C. Stocklosa",
+     "votes": 1421,
+     "party": "REP",
+     "pct": 98.68,
+     "choice_id": "01000000-4759-b58d-cb63-08df1a5e4f90",
+     "party_lines": {
+      "REP": 1421
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 19,
+     "party": null,
+     "pct": 1.32,
+     "choice_id": "01000000-4759-b58d-cb7a-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-cb9b-08df1a5e4f90",
+   "state": "NY",
+   "title": "Boonville Town Clerk/Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Katherine S. Crill",
+     "votes": 1448,
+     "party": "REP",
+     "pct": 99.45,
+     "choice_id": "01000000-4759-b58d-cbd5-08df1a5e4f90",
+     "party_lines": {
+      "REP": 1448
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": null,
+     "pct": 0.55,
+     "choice_id": "01000000-4759-b58d-cbec-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-cc0b-08df1a5e4f90",
+   "state": "NY",
+   "title": "Boonville Highway Superintendent",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Matthew A. Chrysler",
+     "votes": 1453,
+     "party": "REP",
+     "pct": 99.25,
+     "choice_id": "01000000-4759-b58d-cc44-08df1a5e4f90",
+     "party_lines": {
+      "REP": 1453
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 11,
+     "party": null,
+     "pct": 0.75,
+     "choice_id": "01000000-4759-b58d-cc5a-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-cc79-08df1a5e4f90",
+   "state": "NY",
+   "title": "Bridgewater Town Clerk/Tax Collector, 2-Year Term (To Fill a Vacancy)",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Roselle Wheeldon",
+     "votes": 428,
+     "party": "REP",
+     "pct": 99.77,
+     "choice_id": "01000000-4759-b58d-ccc0-08df1a5e4f90",
+     "party_lines": {
+      "REP": 428
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.23,
+     "choice_id": "01000000-4759-b58d-ccd7-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-ccf4-08df1a5e4f90",
+   "state": "NY",
+   "title": "Camden Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Daniel M. Christmas",
+     "votes": 1324,
+     "party": "REP",
+     "pct": 98.37,
+     "choice_id": "01000000-4759-b58d-cd32-08df1a5e4f90",
+     "party_lines": {
+      "REP": 1324
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 22,
+     "party": null,
+     "pct": 1.63,
+     "choice_id": "01000000-4759-b58d-cd4a-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-cd69-08df1a5e4f90",
+   "state": "NY",
+   "title": "Camden Town Clerk/Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Allyson I. Snow",
+     "votes": 1342,
+     "party": "REP",
+     "pct": 99.04,
+     "choice_id": "01000000-4759-b58d-cda4-08df1a5e4f90",
+     "party_lines": {
+      "REP": 1342
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 13,
+     "party": null,
+     "pct": 0.96,
+     "choice_id": "01000000-4759-b58d-cdbb-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-cdd9-08df1a5e4f90",
+   "state": "NY",
+   "title": "Camden Highway Superintendent",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Harold H. Huntley Jr.",
+     "votes": 1080,
+     "party": "REP",
+     "pct": 83.01,
+     "choice_id": "01000000-4759-b58d-ce18-08df1a5e4f90",
+     "party_lines": {
+      "REP": 1080
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 221,
+     "party": null,
+     "pct": 16.99,
+     "choice_id": "01000000-4759-b58d-ce30-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-ce4f-08df1a5e4f90",
+   "state": "NY",
+   "title": "Camden Town Councilperson, 2-Year Term (To Fill a Vacancy)",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Karl J. Seckner",
+     "votes": 1379,
+     "party": "REP",
+     "pct": 99.42,
+     "choice_id": "01000000-4759-b58d-ce93-08df1a5e4f90",
+     "party_lines": {
+      "REP": 1379
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": null,
+     "pct": 0.58,
+     "choice_id": "01000000-4759-b58d-cebb-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-e2a7-08df1a5e4f90",
+   "state": "NY",
+   "title": "Camden Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Harold C. Closs Jr.",
+     "votes": 1433,
+     "party": "REP",
+     "pct": 99.79,
+     "choice_id": "01000000-4759-b58d-e2e4-08df1a5e4f90",
+     "party_lines": {
+      "REP": 1433
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.21,
+     "choice_id": "01000000-4759-b58d-e302-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-cec1-08df1a5e4f90",
+   "state": "NY",
+   "title": "Florence Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Scott P. Outtrim",
+     "votes": 199,
+     "party": "DEM",
+     "pct": 47.72,
+     "choice_id": "01000000-4759-b58d-cf07-08df1a5e4f90",
+     "party_lines": {
+      "DEM": 199
+     }
+    },
+    {
+     "name": "Karrie Casler",
+     "votes": 218,
+     "party": "REP",
+     "pct": 52.28,
+     "choice_id": "01000000-4759-b58d-cf2e-08df1a5e4f90",
+     "party_lines": {
+      "REP": 218
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-cf59-08df1a5e4f90",
+   "state": "NY",
+   "title": "Florence Town Clerk/Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Sharron McNamara",
+     "votes": 152,
+     "party": "DEM",
+     "pct": 36.45,
+     "choice_id": "01000000-4759-b58d-cfa8-08df1a5e4f90",
+     "party_lines": {
+      "DEM": 152
+     }
+    },
+    {
+     "name": "April Spink",
+     "votes": 265,
+     "party": "REP",
+     "pct": 63.55,
+     "choice_id": "01000000-4759-b58d-cfcf-08df1a5e4f90",
+     "party_lines": {
+      "REP": 265
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-cffb-08df1a5e4f90",
+   "state": "NY",
+   "title": "Florence Highway Superintendent",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Daniel Metott",
+     "votes": 317,
+     "party": "REP",
+     "pct": 89.8,
+     "choice_id": "01000000-4759-b58d-d043-08df1a5e4f90",
+     "party_lines": {
+      "REP": 317
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 36,
+     "party": null,
+     "pct": 10.2,
+     "choice_id": "01000000-4759-b58d-d04d-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-e31e-08df1a5e4f90",
+   "state": "NY",
+   "title": "Florence Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-d06d-08df1a5e4f90",
+   "state": "NY",
+   "title": "Floyd Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Dawn Mazza",
+     "votes": 1318,
+     "party": "REP",
+     "pct": 99.7,
+     "choice_id": "01000000-4759-b58d-d0a7-08df1a5e4f90",
+     "party_lines": {
+      "REP": 1318
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 4,
+     "party": null,
+     "pct": 0.3,
+     "choice_id": "01000000-4759-b58d-d0be-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-e395-08df1a5e4f90",
+   "state": "NY",
+   "title": "Floyd Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Obie Burger Jr.",
+     "votes": 1281,
+     "party": "REP",
+     "pct": 99.69,
+     "choice_id": "01000000-4759-b58d-e3d4-08df1a5e4f90",
+     "party_lines": {
+      "REP": 1281
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 4,
+     "party": null,
+     "pct": 0.31,
+     "choice_id": "01000000-4759-b58d-e3ea-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-e988-08df1a5e4f90",
+   "state": "NY",
+   "title": "Proposal one, a proposition for Floyd",
+   "office_type": "measure",
+   "district": "proposal one a proposition for floyd",
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 785,
+     "party": null,
+     "pct": 54.97,
+     "choice_id": "01000000-4759-b58d-e9d0-08df1a5e4f90",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 643,
+     "party": null,
+     "pct": 45.03,
+     "choice_id": "01000000-4759-b58d-e9f6-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-d0e0-08df1a5e4f90",
+   "state": "NY",
+   "title": "Forestport Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Harold E. Entwistle III",
+     "votes": 660,
+     "party": "REP",
+     "pct": 99.7,
+     "choice_id": "01000000-4759-b58d-d123-08df1a5e4f90",
+     "party_lines": {
+      "REP": 660
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.3,
+     "choice_id": "01000000-4759-b58d-d13a-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-d15b-08df1a5e4f90",
+   "state": "NY",
+   "title": "Forestport Town Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Tracy M. Terry",
+     "votes": 663,
+     "party": "REP",
+     "pct": 99.55,
+     "choice_id": "01000000-4759-b58d-d197-08df1a5e4f90",
+     "party_lines": {
+      "REP": 663
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.45,
+     "choice_id": "01000000-4759-b58d-d1af-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-d1ce-08df1a5e4f90",
+   "state": "NY",
+   "title": "Forestport Highway Superintendent",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "William G. Gardner",
+     "votes": 651,
+     "party": "REP",
+     "pct": 99.69,
+     "choice_id": "01000000-4759-b58d-d209-08df1a5e4f90",
+     "party_lines": {
+      "REP": 651
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.31,
+     "choice_id": "01000000-4759-b58d-d220-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-d240-08df1a5e4f90",
+   "state": "NY",
+   "title": "Forestport Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Vicky L. Palen",
+     "votes": 655,
+     "party": "REP",
+     "pct": 99.85,
+     "choice_id": "01000000-4759-b58d-d280-08df1a5e4f90",
+     "party_lines": {
+      "REP": 655
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.15,
+     "choice_id": "01000000-4759-b58d-d296-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-d2b7-08df1a5e4f90",
+   "state": "NY",
+   "title": "Kirkland Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 4,
+    "units_total": 4,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Garry Colarusso",
+     "votes": 2261,
+     "party": "DEM",
+     "pct": 60.62,
+     "choice_id": "01000000-4759-b58d-d2f3-08df1a5e4f90",
+     "party_lines": {
+      "DEM": 2261
+     }
+    },
+    {
+     "name": "Gregory D. Boivin",
+     "votes": 1465,
+     "party": "REP",
+     "pct": 39.28,
+     "choice_id": "01000000-4759-b58d-d318-08df1a5e4f90",
+     "party_lines": {
+      "REP": 1465
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 4,
+     "party": null,
+     "pct": 0.11,
+     "choice_id": "01000000-4759-b58d-d330-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-e406-08df1a5e4f90",
+   "state": "NY",
+   "title": "Lee Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Sharon Merrill",
+     "votes": 1078,
+     "party": "DEM",
+     "pct": 21.69,
+     "choice_id": "01000000-4759-b58d-e438-08df1a5e4f90",
+     "party_lines": {
+      "DEM": 1078
+     }
+    },
+    {
+     "name": "Joseph D. VanWagenen",
+     "votes": 696,
+     "party": "DEM",
+     "pct": 14.0,
+     "choice_id": "01000000-4759-b58d-e45f-08df1a5e4f90",
+     "party_lines": {
+      "DEM": 696
+     }
+    },
+    {
+     "name": "Erin E. McClusky",
+     "votes": 1501,
+     "party": "REP",
+     "pct": 30.2,
+     "choice_id": "01000000-4759-b58d-e486-08df1a5e4f90",
+     "party_lines": {
+      "REP": 1501
+     }
+    },
+    {
+     "name": "Meade H. Versace",
+     "votes": 1693,
+     "party": "REP",
+     "pct": 34.06,
+     "choice_id": "01000000-4759-b58d-e4ac-08df1a5e4f90",
+     "party_lines": {
+      "REP": 1545,
+      "CONSERVATIVE": 148
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.06,
+     "choice_id": "01000000-4759-b58d-e4c9-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-e4f4-08df1a5e4f90",
+   "state": "NY",
+   "title": "Marcy Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 3,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Stephen J. Crane",
+     "votes": 2319,
+     "party": "REP",
+     "pct": 99.53,
+     "choice_id": "01000000-4759-b58d-e532-08df1a5e4f90",
+     "party_lines": {
+      "REP": 1988,
+      "CONSERVATIVE": 331
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 11,
+     "party": null,
+     "pct": 0.47,
+     "choice_id": "01000000-4759-b58d-e54b-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-d34e-08df1a5e4f90",
+   "state": "NY",
+   "title": "Marshall Highway Superintendent, 2-Year Term (To Fill a Vacancy)",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Sean Baldwin",
+     "votes": 271,
+     "party": "DEM",
+     "pct": 32.11,
+     "choice_id": "01000000-4759-b58d-d393-08df1a5e4f90",
+     "party_lines": {
+      "DEM": 271
+     }
+    },
+    {
+     "name": "Samuel T. Eastman",
+     "votes": 551,
+     "party": "REP",
+     "pct": 65.28,
+     "choice_id": "01000000-4759-b58d-d3b9-08df1a5e4f90",
+     "party_lines": {
+      "REP": 551
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 22,
+     "party": null,
+     "pct": 2.61,
+     "choice_id": "01000000-4759-b58d-d3e0-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-e568-08df1a5e4f90",
+   "state": "NY",
+   "title": "Marshall Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Peter Mack",
+     "votes": 305,
+     "party": "DEM",
+     "pct": 37.29,
+     "choice_id": "01000000-4759-b58d-e5a4-08df1a5e4f90",
+     "party_lines": {
+      "DEM": 305
+     }
+    },
+    {
+     "name": "Andrew J. Hersman",
+     "votes": 469,
+     "party": "REP",
+     "pct": 57.33,
+     "choice_id": "01000000-4759-b58d-e5ca-08df1a5e4f90",
+     "party_lines": {
+      "REP": 469
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 44,
+     "party": null,
+     "pct": 5.38,
+     "choice_id": "01000000-4759-b58d-e5e0-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-d3eb-08df1a5e4f90",
+   "state": "NY",
+   "title": "Remsen Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Thomas H. McDonald",
+     "votes": 685,
+     "party": "REP",
+     "pct": 99.42,
+     "choice_id": "01000000-4759-b58d-d422-08df1a5e4f90",
+     "party_lines": {
+      "REP": 685
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 4,
+     "party": null,
+     "pct": 0.58,
+     "choice_id": "01000000-4759-b58d-d439-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-d45a-08df1a5e4f90",
+   "state": "NY",
+   "title": "Remsen Town Clerk/Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Meghan M. Spadaro",
+     "votes": 679,
+     "party": "REP",
+     "pct": 99.56,
+     "choice_id": "01000000-4759-b58d-d493-08df1a5e4f90",
+     "party_lines": {
+      "REP": 679
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.44,
+     "choice_id": "01000000-4759-b58d-d4a9-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-d4ca-08df1a5e4f90",
+   "state": "NY",
+   "title": "Remsen Highway Superintendent",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Thomas J. Murphy",
+     "votes": 653,
+     "party": "REP",
+     "pct": 98.05,
+     "choice_id": "01000000-4759-b58d-d509-08df1a5e4f90",
+     "party_lines": {
+      "REP": 653
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 13,
+     "party": null,
+     "pct": 1.95,
+     "choice_id": "01000000-4759-b58d-d520-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-d53f-08df1a5e4f90",
+   "state": "NY",
+   "title": "Sangerfield Town Councilperson, 2-Year Term (To Fill a Vacancy)",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Write-in",
+     "votes": 53,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "01000000-4759-b58d-d59a-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-d5ba-08df1a5e4f90",
+   "state": "NY",
+   "title": "Steuben Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "William G. LaDuke",
+     "votes": 273,
+     "party": "DEM",
+     "pct": 96.81,
+     "choice_id": "01000000-4759-b58d-d5ea-08df1a5e4f90",
+     "party_lines": {
+      "DEM": 273
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 9,
+     "party": null,
+     "pct": 3.19,
+     "choice_id": "01000000-4759-b58d-d605-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-d62a-08df1a5e4f90",
+   "state": "NY",
+   "title": "Steuben Town Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Christina J. Anken",
+     "votes": 430,
+     "party": "REP",
+     "pct": 97.29,
+     "choice_id": "01000000-4759-b58d-d667-08df1a5e4f90",
+     "party_lines": {
+      "REP": 430
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 12,
+     "party": null,
+     "pct": 2.71,
+     "choice_id": "01000000-4759-b58d-d67e-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-d69b-08df1a5e4f90",
+   "state": "NY",
+   "title": "Steuben Highway Superintendent",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Robert H. Waugh",
+     "votes": 278,
+     "party": "REP",
+     "pct": 57.44,
+     "choice_id": "01000000-4759-b58d-d6ea-08df1a5e4f90",
+     "party_lines": {
+      "REP": 278
+     }
+    },
+    {
+     "name": "Justin R. Teel",
+     "votes": 206,
+     "party": "FOR THE PEOP",
+     "pct": 42.56,
+     "choice_id": "01000000-4759-b58d-d711-08df1a5e4f90",
+     "party_lines": {
+      "FOR THE PEOP": 206
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-d747-08df1a5e4f90",
+   "state": "NY",
+   "title": "Steuben Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Emma R. Henderson",
+     "votes": 450,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "01000000-4759-b58d-d782-08df1a5e4f90",
+     "party_lines": {
+      "REP": 450
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-e600-08df1a5e4f90",
+   "state": "NY",
+   "title": "Steuben Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Anne M. Edwards",
+     "votes": 452,
+     "party": "REP",
+     "pct": 99.34,
+     "choice_id": "01000000-4759-b58d-e640-08df1a5e4f90",
+     "party_lines": {
+      "REP": 452
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.66,
+     "choice_id": "01000000-4759-b58d-e65e-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-d7b8-08df1a5e4f90",
+   "state": "NY",
+   "title": "Trenton Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Michael J. Bennison",
+     "votes": 1653,
+     "party": "REP",
+     "pct": 98.92,
+     "choice_id": "01000000-4759-b58d-d7f0-08df1a5e4f90",
+     "party_lines": {
+      "REP": 1653
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 18,
+     "party": null,
+     "pct": 1.08,
+     "choice_id": "01000000-4759-b58d-d808-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-d830-08df1a5e4f90",
+   "state": "NY",
+   "title": "Trenton Town Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Rachel I. Poland-Bunker",
+     "votes": 1677,
+     "party": "REP",
+     "pct": 99.47,
+     "choice_id": "01000000-4759-b58d-d86c-08df1a5e4f90",
+     "party_lines": {
+      "REP": 1677
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 9,
+     "party": null,
+     "pct": 0.53,
+     "choice_id": "01000000-4759-b58d-d883-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-d8a1-08df1a5e4f90",
+   "state": "NY",
+   "title": "Trenton Highway Superintendent",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Jason R. Stiehl",
+     "votes": 1665,
+     "party": "REP",
+     "pct": 99.52,
+     "choice_id": "01000000-4759-b58d-d8df-08df1a5e4f90",
+     "party_lines": {
+      "REP": 1665
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": null,
+     "pct": 0.48,
+     "choice_id": "01000000-4759-b58d-d8f7-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-e67a-08df1a5e4f90",
+   "state": "NY",
+   "title": "Trenton Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Al Farrier",
+     "votes": 611,
+     "party": "DEM",
+     "pct": 30.57,
+     "choice_id": "01000000-4759-b58d-e6bd-08df1a5e4f90",
+     "party_lines": {
+      "DEM": 611
+     }
+    },
+    {
+     "name": "Anne M. Zielenski",
+     "votes": 1388,
+     "party": "REP",
+     "pct": 69.43,
+     "choice_id": "01000000-4759-b58d-e6e3-08df1a5e4f90",
+     "party_lines": {
+      "REP": 1388
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-d915-08df1a5e4f90",
+   "state": "NY",
+   "title": "Vernon Highway Superintendent, 1-Year Term (To Fill a Vacancy)",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 4,
+    "units_total": 4,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Garrett M. Burke",
+     "votes": 2771,
+     "party": "REP",
+     "pct": 99.5,
+     "choice_id": "01000000-4759-b58d-d958-08df1a5e4f90",
+     "party_lines": {
+      "REP": 2771
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 14,
+     "party": null,
+     "pct": 0.5,
+     "choice_id": "01000000-4759-b58d-d96e-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-e712-08df1a5e4f90",
+   "state": "NY",
+   "title": "Vernon Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 4,
+    "units_total": 4,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Lori B. Klopfer",
+     "votes": 2671,
+     "party": "REP",
+     "pct": 99.55,
+     "choice_id": "01000000-4759-b58d-e754-08df1a5e4f90",
+     "party_lines": {
+      "REP": 2671
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 12,
+     "party": null,
+     "pct": 0.45,
+     "choice_id": "01000000-4759-b58d-e767-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-d98a-08df1a5e4f90",
+   "state": "NY",
+   "title": "Verona Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 3,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Scott Musacchio",
+     "votes": 2010,
+     "party": "REP",
+     "pct": 98.05,
+     "choice_id": "01000000-4759-b58d-d9cb-08df1a5e4f90",
+     "party_lines": {
+      "REP": 2010
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 40,
+     "party": null,
+     "pct": 1.95,
+     "choice_id": "01000000-4759-b58d-d9e3-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-da05-08df1a5e4f90",
+   "state": "NY",
+   "title": "Verona Town Clerk/Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 3,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Amy Kotwica",
+     "votes": 2061,
+     "party": "REP",
+     "pct": 99.18,
+     "choice_id": "01000000-4759-b58d-da42-08df1a5e4f90",
+     "party_lines": {
+      "REP": 2061
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 17,
+     "party": null,
+     "pct": 0.82,
+     "choice_id": "01000000-4759-b58d-da59-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-da7a-08df1a5e4f90",
+   "state": "NY",
+   "title": "Verona Highway Superintendent",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 3,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Billy Lohr",
+     "votes": 2047,
+     "party": "REP",
+     "pct": 98.94,
+     "choice_id": "01000000-4759-b58d-dab4-08df1a5e4f90",
+     "party_lines": {
+      "REP": 2047
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 22,
+     "party": null,
+     "pct": 1.06,
+     "choice_id": "01000000-4759-b58d-dacb-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-daeb-08df1a5e4f90",
+   "state": "NY",
+   "title": "Vienna Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Darrin E. Smith",
+     "votes": 1116,
+     "party": "REP",
+     "pct": 59.11,
+     "choice_id": "01000000-4759-b58d-db29-08df1a5e4f90",
+     "party_lines": {
+      "REP": 971,
+      "CONSERVATIVE": 145
+     }
+    },
+    {
+     "name": "Jason H. Spellicy",
+     "votes": 770,
+     "party": "RIGHT FOR VI",
+     "pct": 40.78,
+     "choice_id": "01000000-4759-b58d-db51-08df1a5e4f90",
+     "party_lines": {
+      "RIGHT FOR VI": 770
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.11,
+     "choice_id": "01000000-4759-b58d-db69-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-db8c-08df1a5e4f90",
+   "state": "NY",
+   "title": "Vienna Town Clerk/Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Carol L. Huber",
+     "votes": 1571,
+     "party": "REP",
+     "pct": 99.43,
+     "choice_id": "01000000-4759-b58d-dbc8-08df1a5e4f90",
+     "party_lines": {
+      "REP": 1571
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 9,
+     "party": null,
+     "pct": 0.57,
+     "choice_id": "01000000-4759-b58d-dbdf-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-dbfd-08df1a5e4f90",
+   "state": "NY",
+   "title": "Vienna Highway Superintendent",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Clayton Conover Jr.",
+     "votes": 1618,
+     "party": "REP",
+     "pct": 99.39,
+     "choice_id": "01000000-4759-b58d-dc37-08df1a5e4f90",
+     "party_lines": {
+      "REP": 1618
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 10,
+     "party": null,
+     "pct": 0.61,
+     "choice_id": "01000000-4759-b58d-dc4e-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-dc6c-08df1a5e4f90",
+   "state": "NY",
+   "title": "Vienna Town Councilperson, 1-Year Term (To Fill a Vacancy)",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Theodore Learned",
+     "votes": 1496,
+     "party": "REP",
+     "pct": 51.85,
+     "choice_id": "01000000-4759-b58d-dcb4-08df1a5e4f90",
+     "party_lines": {
+      "REP": 1496
+     }
+    },
+    {
+     "name": "Douglas Jordan",
+     "votes": 1377,
+     "party": "REP",
+     "pct": 47.73,
+     "choice_id": "01000000-4759-b58d-dcdb-08df1a5e4f90",
+     "party_lines": {
+      "REP": 1377
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 12,
+     "party": null,
+     "pct": 0.42,
+     "choice_id": "01000000-4759-b58d-dcf2-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-e782-08df1a5e4f90",
+   "state": "NY",
+   "title": "Vienna Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Martin D. Handler",
+     "votes": 571,
+     "party": "DEM",
+     "pct": 28.41,
+     "choice_id": "01000000-4759-b58d-e7bf-08df1a5e4f90",
+     "party_lines": {
+      "DEM": 571
+     }
+    },
+    {
+     "name": "Jason C. Lamb",
+     "votes": 1435,
+     "party": "REP",
+     "pct": 71.39,
+     "choice_id": "01000000-4759-b58d-e7ed-08df1a5e4f90",
+     "party_lines": {
+      "REP": 1435
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 4,
+     "party": null,
+     "pct": 0.2,
+     "choice_id": "01000000-4759-b58d-e804-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-dd0f-08df1a5e4f90",
+   "state": "NY",
+   "title": "Western Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Anna Radell-Weaver",
+     "votes": 734,
+     "party": "REP",
+     "pct": 98.79,
+     "choice_id": "01000000-4759-b58d-dd41-08df1a5e4f90",
+     "party_lines": {
+      "REP": 734
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 9,
+     "party": null,
+     "pct": 1.21,
+     "choice_id": "01000000-4759-b58d-dd5a-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-dd7e-08df1a5e4f90",
+   "state": "NY",
+   "title": "Western Town Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Melissa A. Rowlands",
+     "votes": 742,
+     "party": "REP",
+     "pct": 99.2,
+     "choice_id": "01000000-4759-b58d-ddba-08df1a5e4f90",
+     "party_lines": {
+      "REP": 742
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 6,
+     "party": null,
+     "pct": 0.8,
+     "choice_id": "01000000-4759-b58d-ddd0-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-ddf4-08df1a5e4f90",
+   "state": "NY",
+   "title": "Western Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Claudia J. Donahue",
+     "votes": 745,
+     "party": "REP",
+     "pct": 99.33,
+     "choice_id": "01000000-4759-b58d-de2e-08df1a5e4f90",
+     "party_lines": {
+      "REP": 745
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 5,
+     "party": null,
+     "pct": 0.67,
+     "choice_id": "01000000-4759-b58d-de45-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-e9fa-08df1a5e4f90",
+   "state": "NY",
+   "title": "Proposal one, a proposition for Western",
+   "office_type": "measure",
+   "district": "proposal one a proposition for western",
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 486,
+     "party": null,
+     "pct": 58.98,
+     "choice_id": "01000000-4759-b58d-ea44-08df1a5e4f90",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 338,
+     "party": null,
+     "pct": 41.02,
+     "choice_id": "01000000-4759-b58d-ea69-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-ea6d-08df1a5e4f90",
+   "state": "NY",
+   "title": "Proposal two, a proposition for Western",
+   "office_type": "measure",
+   "district": "proposal two a proposition for western",
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 443,
+     "party": null,
+     "pct": 53.76,
+     "choice_id": "01000000-4759-b58d-eab4-08df1a5e4f90",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 381,
+     "party": null,
+     "pct": 46.24,
+     "choice_id": "01000000-4759-b58d-eada-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-e821-08df1a5e4f90",
+   "state": "NY",
+   "title": "Westmoreland Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Thomas Hart",
+     "votes": 2156,
+     "party": "REP",
+     "pct": 99.68,
+     "choice_id": "01000000-4759-b58d-e85f-08df1a5e4f90",
+     "party_lines": {
+      "REP": 2156
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 7,
+     "party": null,
+     "pct": 0.32,
+     "choice_id": "01000000-4759-b58d-e876-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-e893-08df1a5e4f90",
+   "state": "NY",
+   "title": "Whitestown Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 7,
+    "units_total": 7,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Troy D. Little",
+     "votes": 5174,
+     "party": "REP",
+     "pct": 98.97,
+     "choice_id": "01000000-4759-b58d-e8ce-08df1a5e4f90",
+     "party_lines": {
+      "REP": 5174
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 54,
+     "party": null,
+     "pct": 1.03,
+     "choice_id": "01000000-4759-b58d-e8e5-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-de66-08df1a5e4f90",
+   "state": "NY",
+   "title": "Boonville Village Trustee",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Oneida County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Marie Lamm",
+     "votes": 193,
+     "party": "KEY TO A NEW",
+     "pct": 40.21,
+     "choice_id": "01000000-4759-b58d-de9f-08df1a5e4f90",
+     "party_lines": {
+      "KEY TO A NEW": 193
+     }
+    },
+    {
+     "name": "Kenneth P. Stabb",
+     "votes": 283,
+     "party": "TREK",
+     "pct": 58.96,
+     "choice_id": "01000000-4759-b58d-dec6-08df1a5e4f90",
+     "party_lines": {
+      "TREK": 283
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 4,
+     "party": null,
+     "pct": 0.83,
+     "choice_id": "01000000-4759-b58d-dede-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.oneida",
+   "contest_id": "01000000-4759-b58d-defe-08df1a5e4f90",
+   "state": "NY",
+   "title": "Supreme Court Justice, Judicial District 5",
+   "office_type": "judicial",
+   "district": "5",
+   "jurisdiction": "Oneida County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 72,
+    "units_total": 72,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:27:07.3049687Z",
+   "choices": [
+    {
+     "name": "Joseph Zavaglia",
+     "votes": 30290,
+     "party": "DEM",
+     "pct": 40.15,
+     "choice_id": "01000000-4759-b58d-df6c-08df1a5e4f90",
+     "party_lines": {
+      "DEM": 27601,
+      "WFP": 2689
+     }
+    },
+    {
+     "name": "Michael J. Manfredi",
+     "votes": 45119,
+     "party": "REP",
+     "pct": 59.81,
+     "choice_id": "01000000-4759-b58d-df43-08df1a5e4f90",
+     "party_lines": {
+      "REP": 40875,
+      "CONSERVATIVE": 4244
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 31,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-4759-b58d-df80-08df1a5e4f90",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  }
+ ],
+ "contests_hash": "540dda5bc768f337",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-04T15:00:34+00:00",
+ "fetched_at": "2026-11-04T15:00:34+00:00",
+ "contests_changed_at": "2026-11-04T14:55:34+00:00"
+}

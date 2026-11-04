@@ -1,0 +1,1872 @@
+{
+ "source": "ny.rockland",
+ "contests": [
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-7332-08df1fed1ceb",
+   "state": "NY",
+   "title": "Governor and Lieutenant Governor",
+   "office_type": "governor",
+   "district": null,
+   "jurisdiction": "Rockland County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 307,
+    "pct": 0.0,
+    "text": "0 of 307 precincts fully reported, 307 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "Kathy C. Hochul",
+     "votes": 63962,
+     "party": "DEM",
+     "pct": 53.37,
+     "choice_id": "01000000-8e29-c85f-8420-08df1fed1ceb",
+     "party_lines": {
+      "DEM": 60298,
+      "WFP": 3664
+     }
+    },
+    {
+     "name": "Bruce A. Blakeman",
+     "votes": 55095,
+     "party": "REP",
+     "pct": 45.97,
+     "choice_id": "01000000-8e29-c85f-9233-08df1fed1ceb",
+     "party_lines": {
+      "REP": 50517,
+      "CONSERVATIVE": 4578
+     }
+    },
+    {
+     "name": "VAF Bruce A. Blakeman",
+     "votes": 631,
+     "party": "VOTE AFFORDA",
+     "pct": 0.53,
+     "choice_id": "01000000-8e29-c85f-9d43-08df1fed1ceb",
+     "party_lines": {
+      "VOTE AFFORDA": 631
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 161,
+     "party": null,
+     "pct": 0.13,
+     "choice_id": "01000000-8e29-c85f-a11f-08df1fed1ceb",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-71e5-08df1fed1cef",
+   "state": "NY",
+   "title": "Comptroller",
+   "office_type": "controller",
+   "district": null,
+   "jurisdiction": "Rockland County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 307,
+    "pct": 0.0,
+    "text": "0 of 307 precincts fully reported, 307 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "Thomas P. DiNapoli",
+     "votes": 67513,
+     "party": "DEM",
+     "pct": 58.97,
+     "choice_id": "01000000-8e29-c85f-726e-08df1fed1cef",
+     "party_lines": {
+      "DEM": 62739,
+      "WFP": 4774
+     }
+    },
+    {
+     "name": "Joseph Hernandez",
+     "votes": 46869,
+     "party": "REP",
+     "pct": 40.94,
+     "choice_id": "01000000-8e29-c85f-766c-08df1fed1cef",
+     "party_lines": {
+      "REP": 42505,
+      "CONSERVATIVE": 4364
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 110,
+     "party": null,
+     "pct": 0.1,
+     "choice_id": "01000000-8e29-c85f-8084-08df1fed1cef",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-90b1-08df1fed1cef",
+   "state": "NY",
+   "title": "Attorney General",
+   "office_type": "attorney_general",
+   "district": null,
+   "jurisdiction": "Rockland County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 307,
+    "pct": 0.0,
+    "text": "0 of 307 precincts fully reported, 307 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "Letitia A. James",
+     "votes": 63106,
+     "party": "DEM",
+     "pct": 54.56,
+     "choice_id": "01000000-8e29-c85f-90d9-08df1fed1cef",
+     "party_lines": {
+      "DEM": 59092,
+      "WFP": 4014
+     }
+    },
+    {
+     "name": "Saritha Komatireddy",
+     "votes": 52450,
+     "party": "REP",
+     "pct": 45.35,
+     "choice_id": "01000000-8e29-c85f-9480-08df1fed1cef",
+     "party_lines": {
+      "REP": 47479,
+      "CONSERVATIVE": 4971
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 106,
+     "party": null,
+     "pct": 0.09,
+     "choice_id": "01000000-8e29-c85f-a116-08df1fed1cef",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-b0e0-08df1fed1cef",
+   "state": "NY",
+   "title": "Representative in Congress 17th Congressional District",
+   "office_type": "federal_house",
+   "district": "17",
+   "jurisdiction": "Rockland County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 307,
+    "pct": 0.0,
+    "text": "0 of 307 precincts fully reported, 307 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "Cait Conley",
+     "votes": 56059,
+     "party": "DEM",
+     "pct": 45.59,
+     "choice_id": "01000000-8e29-c85f-b132-08df1fed1cef",
+     "party_lines": {
+      "DEM": 52118,
+      "WFP": 3941
+     }
+    },
+    {
+     "name": "Mike Lawler",
+     "votes": 66735,
+     "party": "REP",
+     "pct": 54.28,
+     "choice_id": "01000000-8e29-c85f-b539-08df1fed1cef",
+     "party_lines": {
+      "REP": 61464,
+      "CONSERVATIVE": 5271
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 156,
+     "party": null,
+     "pct": 0.13,
+     "choice_id": "01000000-8e29-c85f-bf8d-08df1fed1cef",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-cebc-08df1fed1cef",
+   "state": "NY",
+   "title": "State Senator 38th Senatorial District",
+   "office_type": "state_senate",
+   "district": "38",
+   "jurisdiction": "Rockland County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 293,
+    "pct": 0.0,
+    "text": "0 of 293 precincts fully reported, 293 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "Joseph W. Rand",
+     "votes": 61610,
+     "party": "DEM",
+     "pct": 54.06,
+     "choice_id": "01000000-8e29-c85f-cee3-08df1fed1cef",
+     "party_lines": {
+      "DEM": 57650,
+      "WFP": 3960
+     }
+    },
+    {
+     "name": "Bill Weber",
+     "votes": 52258,
+     "party": "REP",
+     "pct": 45.85,
+     "choice_id": "01000000-8e29-c85f-d260-08df1fed1cef",
+     "party_lines": {
+      "REP": 47356,
+      "CONSERVATIVE": 4902
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 97,
+     "party": null,
+     "pct": 0.09,
+     "choice_id": "01000000-8e29-c85f-dbfb-08df1fed1cef",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-eed2-08df1fed1cef",
+   "state": "NY",
+   "title": "State Senator 40th Senatorial District",
+   "office_type": "state_senate",
+   "district": "40",
+   "jurisdiction": "Rockland County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 14,
+    "pct": 0.0,
+    "text": "0 of 14 precincts fully reported, 14 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "Peter B. Harckham",
+     "votes": 2841,
+     "party": "DEM",
+     "pct": 45.38,
+     "choice_id": "01000000-8e29-c85f-eee9-08df1fed1cef",
+     "party_lines": {
+      "DEM": 2647,
+      "WFP": 194
+     }
+    },
+    {
+     "name": "Sergio J. Esposito",
+     "votes": 3413,
+     "party": "REP",
+     "pct": 54.52,
+     "choice_id": "01000000-8e29-c85f-ef29-08df1fed1cef",
+     "party_lines": {
+      "REP": 3064,
+      "CONSERVATIVE": 349
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 6,
+     "party": null,
+     "pct": 0.1,
+     "choice_id": "01000000-8e29-c85f-efe3-08df1fed1cef",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-f539-08df1fed1cef",
+   "state": "NY",
+   "title": "Member of Assembly 96th Assembly District",
+   "office_type": "state_house",
+   "district": "96",
+   "jurisdiction": "Rockland County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 130,
+    "pct": 0.0,
+    "text": "0 of 130 precincts fully reported, 130 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "Patrick Carroll",
+     "votes": 34172,
+     "party": "DEM",
+     "pct": 66.0,
+     "choice_id": "01000000-8e29-c85f-f54c-08df1fed1cef",
+     "party_lines": {
+      "DEM": 31329,
+      "WFP": 2843
+     }
+    },
+    {
+     "name": "Brett L. Yagel",
+     "votes": 17568,
+     "party": "REP",
+     "pct": 33.93,
+     "choice_id": "01000000-8e29-c85f-f70d-08df1fed1cef",
+     "party_lines": {
+      "REP": 15824,
+      "CONSERVATIVE": 1744
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 39,
+     "party": null,
+     "pct": 0.08,
+     "choice_id": "01000000-8e29-c85f-fbcb-08df1fed1cef",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-17d1-08df1fed1cf0",
+   "state": "NY",
+   "title": "Member of Assembly 97th Assembly District",
+   "office_type": "state_house",
+   "district": "97",
+   "jurisdiction": "Rockland County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 108,
+    "pct": 0.0,
+    "text": "0 of 108 precincts fully reported, 108 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "Aron B. Wieder",
+     "votes": 25863,
+     "party": "DEM",
+     "pct": 60.38,
+     "choice_id": "01000000-8e29-c85f-17ee-08df1fed1cf0",
+     "party_lines": {
+      "DEM": 25863
+     }
+    },
+    {
+     "name": "Rob Bonomolo",
+     "votes": 15841,
+     "party": "REP",
+     "pct": 36.98,
+     "choice_id": "01000000-8e29-c85f-193e-08df1fed1cf0",
+     "party_lines": {
+      "REP": 15841
+     }
+    },
+    {
+     "name": "Abraham Klein",
+     "votes": 1010,
+     "party": "CONSERVATIVE",
+     "pct": 2.36,
+     "choice_id": "01000000-8e29-c85f-1a8e-08df1fed1cf0",
+     "party_lines": {
+      "CONSERVATIVE": 1010
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 119,
+     "party": null,
+     "pct": 0.28,
+     "choice_id": "01000000-8e29-c85f-1bea-08df1fed1cf0",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-3121-08df1fed1cf0",
+   "state": "NY",
+   "title": "Member of Assembly 98th Assembly District",
+   "office_type": "state_house",
+   "district": "98",
+   "jurisdiction": "Rockland County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 55,
+    "pct": 0.0,
+    "text": "0 of 55 precincts fully reported, 55 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "Karl A. Brabenec",
+     "votes": 10546,
+     "party": "REP",
+     "pct": 97.18,
+     "choice_id": "01000000-8e29-c85f-3137-08df1fed1cf0",
+     "party_lines": {
+      "REP": 9264,
+      "CONSERVATIVE": 1282
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 306,
+     "party": null,
+     "pct": 2.82,
+     "choice_id": "01000000-8e29-c85f-32a4-08df1fed1cf0",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-3e2e-08df1fed1cf0",
+   "state": "NY",
+   "title": "Member of Assembly 99th Assembly District",
+   "office_type": "state_house",
+   "district": "99",
+   "jurisdiction": "Rockland County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 14,
+    "pct": 0.0,
+    "text": "0 of 14 precincts fully reported, 14 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "Christopher W. Eachus",
+     "votes": 2807,
+     "party": "DEM",
+     "pct": 45.38,
+     "choice_id": "01000000-8e29-c85f-3e54-08df1fed1cf0",
+     "party_lines": {
+      "DEM": 2600,
+      "WFP": 207
+     }
+    },
+    {
+     "name": "Richard A. Vargus",
+     "votes": 3372,
+     "party": "REP",
+     "pct": 54.51,
+     "choice_id": "01000000-8e29-c85f-3ea8-08df1fed1cf0",
+     "party_lines": {
+      "REP": 3035,
+      "CONSERVATIVE": 337
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 7,
+     "party": null,
+     "pct": 0.11,
+     "choice_id": "01000000-8e29-c85f-3fa4-08df1fed1cf0",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-44e3-08df1fed1cf0",
+   "state": "NY",
+   "title": "Supervisor Clarkstown",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rockland County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 87,
+    "pct": 0.0,
+    "text": "0 of 87 precincts fully reported, 87 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "Eugene Bondar",
+     "votes": 19885,
+     "party": "DEM",
+     "pct": 54.39,
+     "choice_id": "01000000-8e29-c85f-44fd-08df1fed1cf0",
+     "party_lines": {
+      "DEM": 18286,
+      "WFP": 1599
+     }
+    },
+    {
+     "name": "George A. Hoehmann",
+     "votes": 16636,
+     "party": "REP",
+     "pct": 45.51,
+     "choice_id": "01000000-8e29-c85f-45e6-08df1fed1cf0",
+     "party_lines": {
+      "REP": 14956,
+      "CONSERVATIVE": 1680
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 37,
+     "party": null,
+     "pct": 0.1,
+     "choice_id": "01000000-8e29-c85f-4903-08df1fed1cf0",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-5e3c-08df1fed1cf0",
+   "state": "NY",
+   "title": "Supervisor Haverstraw",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rockland County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 33,
+    "pct": 0.0,
+    "text": "0 of 33 precincts fully reported, 33 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "Howard T. Phillips Jr.",
+     "votes": 9494,
+     "party": "DEM",
+     "pct": 99.35,
+     "choice_id": "01000000-8e29-c85f-5e55-08df1fed1cf0",
+     "party_lines": {
+      "DEM": 7943,
+      "CONSERVATIVE": 1551
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 62,
+     "party": null,
+     "pct": 0.65,
+     "choice_id": "01000000-8e29-c85f-5f6c-08df1fed1cf0",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-6657-08df1fed1cf0",
+   "state": "NY",
+   "title": "Supervisor Orangetown",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rockland County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 51,
+    "pct": 0.0,
+    "text": "0 of 51 precincts fully reported, 51 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "Teresa M. Kenny",
+     "votes": 14768,
+     "party": "REP",
+     "pct": 97.89,
+     "choice_id": "01000000-8e29-c85f-66c3-08df1fed1cf0",
+     "party_lines": {
+      "REP": 12839,
+      "CONSERVATIVE": 1929
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 319,
+     "party": null,
+     "pct": 2.11,
+     "choice_id": "01000000-8e29-c85f-6823-08df1fed1cf0",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-721b-08df1fed1cf0",
+   "state": "NY",
+   "title": "Supervisor Ramapo",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rockland County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 122,
+    "pct": 0.0,
+    "text": "0 of 122 precincts fully reported, 122 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "Michael B. Specht",
+     "votes": 30006,
+     "party": "DEM",
+     "pct": 95.48,
+     "choice_id": "01000000-8e29-c85f-722e-08df1fed1cf0",
+     "party_lines": {
+      "DEM": 23467,
+      "CONSERVATIVE": 6539
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1421,
+     "party": null,
+     "pct": 4.52,
+     "choice_id": "01000000-8e29-c85f-74ff-08df1fed1cf0",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-8789-08df1fed1cf0",
+   "state": "NY",
+   "title": "Supervisor Stony Point",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rockland County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 14,
+    "pct": 0.0,
+    "text": "0 of 14 precincts fully reported, 14 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "Amy Conklin",
+     "votes": 4375,
+     "party": "REP",
+     "pct": 98.05,
+     "choice_id": "01000000-8e29-c85f-87a2-08df1fed1cf0",
+     "party_lines": {
+      "REP": 3768,
+      "CONSERVATIVE": 607
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 87,
+     "party": null,
+     "pct": 1.95,
+     "choice_id": "01000000-8e29-c85f-881d-08df1fed1cf0",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-8bb5-08df1fed1cf0",
+   "state": "NY",
+   "title": "Clarkstown Town Council (Ward 1) Clarkstown Ward 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Rockland County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 22,
+    "pct": 0.0,
+    "text": "0 of 22 precincts fully reported, 22 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "Joseph C. Damiani",
+     "votes": 5212,
+     "party": "DEM",
+     "pct": 54.31,
+     "choice_id": "01000000-8e29-c85f-8bcd-08df1fed1cf0",
+     "party_lines": {
+      "DEM": 4855,
+      "WFP": 357
+     }
+    },
+    {
+     "name": "Jon P. Valentino",
+     "votes": 4378,
+     "party": "REP",
+     "pct": 45.62,
+     "choice_id": "01000000-8e29-c85f-8c1b-08df1fed1cf0",
+     "party_lines": {
+      "REP": 3844,
+      "CONSERVATIVE": 534
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 6,
+     "party": null,
+     "pct": 0.06,
+     "choice_id": "01000000-8e29-c85f-8d05-08df1fed1cf0",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-93e2-08df1fed1cf0",
+   "state": "NY",
+   "title": "Clarkstown Town Council (Ward 2) Clarkstown Ward 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Rockland County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 22,
+    "pct": 0.0,
+    "text": "0 of 22 precincts fully reported, 22 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "Sylke E. Jackson",
+     "votes": 5357,
+     "party": "DEM",
+     "pct": 53.69,
+     "choice_id": "01000000-8e29-c85f-93f6-08df1fed1cf0",
+     "party_lines": {
+      "DEM": 4862,
+      "WFP": 495
+     }
+    },
+    {
+     "name": "Mike Graziano",
+     "votes": 4612,
+     "party": "REP",
+     "pct": 46.23,
+     "choice_id": "01000000-8e29-c85f-943f-08df1fed1cf0",
+     "party_lines": {
+      "REP": 4160,
+      "CONSERVATIVE": 452
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": null,
+     "pct": 0.08,
+     "choice_id": "01000000-8e29-c85f-9551-08df1fed1cf0",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-9c30-08df1fed1cf0",
+   "state": "NY",
+   "title": "Clarkstown Town Council (Ward 3) Clarkstown Ward 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Rockland County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 21,
+    "pct": 0.0,
+    "text": "0 of 21 precincts fully reported, 21 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "Susan M. Bloom",
+     "votes": 4087,
+     "party": "DEM",
+     "pct": 56.47,
+     "choice_id": "01000000-8e29-c85f-9c44-08df1fed1cf0",
+     "party_lines": {
+      "DEM": 3810,
+      "WFP": 277
+     }
+    },
+    {
+     "name": "Donald Franchino",
+     "votes": 3147,
+     "party": "REP",
+     "pct": 43.48,
+     "choice_id": "01000000-8e29-c85f-9c91-08df1fed1cf0",
+     "party_lines": {
+      "REP": 2818,
+      "CONSERVATIVE": 329
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 4,
+     "party": null,
+     "pct": 0.06,
+     "choice_id": "01000000-8e29-c85f-9d93-08df1fed1cf0",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-a406-08df1fed1cf0",
+   "state": "NY",
+   "title": "Clarkstown Town Council (Ward 4) Clarkstown Ward 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Rockland County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 22,
+    "pct": 0.0,
+    "text": "0 of 22 precincts fully reported, 22 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "Gina DeFelice",
+     "votes": 5235,
+     "party": "DEM",
+     "pct": 54.69,
+     "choice_id": "01000000-8e29-c85f-a418-08df1fed1cf0",
+     "party_lines": {
+      "DEM": 4929,
+      "WFP": 306
+     }
+    },
+    {
+     "name": "Robert A. Axelrod",
+     "votes": 4331,
+     "party": "REP",
+     "pct": 45.25,
+     "choice_id": "01000000-8e29-c85f-a461-08df1fed1cf0",
+     "party_lines": {
+      "REP": 3954,
+      "CONSERVATIVE": 377
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 6,
+     "party": null,
+     "pct": 0.06,
+     "choice_id": "01000000-8e29-c85f-a54a-08df1fed1cf0",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-ace0-08df1fed1cf0",
+   "state": "NY",
+   "title": "Town Clerk Clarkstown",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rockland County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 87,
+    "pct": 0.0,
+    "text": "0 of 87 precincts fully reported, 87 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "Gregory Sheehan",
+     "votes": 19725,
+     "party": "DEM",
+     "pct": 54.26,
+     "choice_id": "01000000-8e29-c85f-acf5-08df1fed1cf0",
+     "party_lines": {
+      "DEM": 18272,
+      "WFP": 1453
+     }
+    },
+    {
+     "name": "Lauren M. Wohl",
+     "votes": 16601,
+     "party": "REP",
+     "pct": 45.66,
+     "choice_id": "01000000-8e29-c85f-addf-08df1fed1cf0",
+     "party_lines": {
+      "REP": 14866,
+      "CONSERVATIVE": 1735
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 29,
+     "party": null,
+     "pct": 0.08,
+     "choice_id": "01000000-8e29-c85f-b122-08df1fed1cf0",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-ca12-08df1fed1cf0",
+   "state": "NY",
+   "title": "Town Clerk Haverstraw",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rockland County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 33,
+    "pct": 0.0,
+    "text": "0 of 33 precincts fully reported, 33 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "Raquel Ventura",
+     "votes": 9403,
+     "party": "DEM",
+     "pct": 99.63,
+     "choice_id": "01000000-8e29-c85f-ca3e-08df1fed1cf0",
+     "party_lines": {
+      "DEM": 7864,
+      "CONSERVATIVE": 1539
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 35,
+     "party": null,
+     "pct": 0.37,
+     "choice_id": "01000000-8e29-c85f-cb67-08df1fed1cf0",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-d26a-08df1fed1cf0",
+   "state": "NY",
+   "title": "Town Clerk Orangetown",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rockland County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 51,
+    "pct": 0.0,
+    "text": "0 of 51 precincts fully reported, 51 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "Rosanna Sfraga",
+     "votes": 14957,
+     "party": "REP",
+     "pct": 98.67,
+     "choice_id": "01000000-8e29-c85f-d283-08df1fed1cf0",
+     "party_lines": {
+      "REP": 12995,
+      "CONSERVATIVE": 1962
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 201,
+     "party": null,
+     "pct": 1.33,
+     "choice_id": "01000000-8e29-c85f-d49f-08df1fed1cf0",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-dea8-08df1fed1cf0",
+   "state": "NY",
+   "title": "Superintendent of Highways Clarkstown",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rockland County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 87,
+    "pct": 0.0,
+    "text": "0 of 87 precincts fully reported, 87 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "Robert E. Milone",
+     "votes": 20809,
+     "party": "DEM",
+     "pct": 57.61,
+     "choice_id": "01000000-8e29-c85f-dec4-08df1fed1cf0",
+     "party_lines": {
+      "DEM": 20809
+     }
+    },
+    {
+     "name": "Robert Sambevski",
+     "votes": 15267,
+     "party": "REP",
+     "pct": 42.26,
+     "choice_id": "01000000-8e29-c85f-dfbe-08df1fed1cf0",
+     "party_lines": {
+      "REP": 13653,
+      "CONSERVATIVE": 1614
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 47,
+     "party": null,
+     "pct": 0.13,
+     "choice_id": "01000000-8e29-c85f-e1e2-08df1fed1cf0",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-f406-08df1fed1cf0",
+   "state": "NY",
+   "title": "Superintendent of Highways Haverstraw",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rockland County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 33,
+    "pct": 0.0,
+    "text": "0 of 33 precincts fully reported, 33 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "John Bart Gordon",
+     "votes": 9220,
+     "party": "DEM",
+     "pct": 99.55,
+     "choice_id": "01000000-8e29-c85f-f432-08df1fed1cf0",
+     "party_lines": {
+      "DEM": 7707,
+      "CONSERVATIVE": 1513
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 42,
+     "party": null,
+     "pct": 0.45,
+     "choice_id": "01000000-8e29-c85f-f52c-08df1fed1cf0",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-fc5b-08df1fed1cf0",
+   "state": "NY",
+   "title": "Superintendent of Highways Orangetown",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rockland County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 51,
+    "pct": 0.0,
+    "text": "0 of 51 precincts fully reported, 51 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "James J. Dean",
+     "votes": 14753,
+     "party": "REP",
+     "pct": 98.63,
+     "choice_id": "01000000-8e29-c85f-fc6f-08df1fed1cf0",
+     "party_lines": {
+      "REP": 12810,
+      "CONSERVATIVE": 1943
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 205,
+     "party": null,
+     "pct": 1.37,
+     "choice_id": "01000000-8e29-c85f-fdc2-08df1fed1cf0",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-083d-08df1fed1cf1",
+   "state": "NY",
+   "title": "Superintendent of Highways Ramapo",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rockland County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 122,
+    "pct": 0.0,
+    "text": "0 of 122 precincts fully reported, 122 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "Fredric M. Brinn",
+     "votes": 23993,
+     "party": "DEM",
+     "pct": 98.19,
+     "choice_id": "01000000-8e29-c85f-0855-08df1fed1cf1",
+     "party_lines": {
+      "DEM": 23993
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 442,
+     "party": null,
+     "pct": 1.81,
+     "choice_id": "01000000-8e29-c85f-0996-08df1fed1cf1",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-170c-08df1fed1cf1",
+   "state": "NY",
+   "title": "Haverstraw Village Trustee Village of Haverstraw",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rockland County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 8,
+    "pct": 0.0,
+    "text": "0 of 8 precincts fully reported, 8 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "Andrea Caccuro",
+     "votes": 2110,
+     "party": "DEM",
+     "pct": 99.67,
+     "choice_id": "01000000-8e29-c85f-1723-08df1fed1cf1",
+     "party_lines": {
+      "DEM": 2110
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 7,
+     "party": null,
+     "pct": 0.33,
+     "choice_id": "01000000-8e29-c85f-1758-08df1fed1cf1",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-18fe-08df1fed1cf1",
+   "state": "NY",
+   "title": "Nyack Village Trustee Village of Nyack",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rockland County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 8,
+    "pct": 0.0,
+    "text": "0 of 8 precincts fully reported, 8 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "Donna Lightfoot Cooper",
+     "votes": 2456,
+     "party": "DEM",
+     "pct": 51.8,
+     "choice_id": "01000000-8e29-c85f-1917-08df1fed1cf1",
+     "party_lines": {
+      "DEM": 2456
+     }
+    },
+    {
+     "name": "Pascale Jean-Gilles",
+     "votes": 2241,
+     "party": "DEM",
+     "pct": 47.27,
+     "choice_id": "01000000-8e29-c85f-196d-08df1fed1cf1",
+     "party_lines": {
+      "DEM": 2241
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 44,
+     "party": null,
+     "pct": 0.93,
+     "choice_id": "01000000-8e29-c85f-19a6-08df1fed1cf1",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-1bce-08df1fed1cf1",
+   "state": "NY",
+   "title": "Piermont Village Trustee Village of Piermont",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rockland County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported, 2 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "Kevin J. Timoney",
+     "votes": 937,
+     "party": "DEM",
+     "pct": 51.74,
+     "choice_id": "01000000-8e29-c85f-1be0-08df1fed1cf1",
+     "party_lines": {
+      "DEM": 937
+     }
+    },
+    {
+     "name": "Mark W. Blomquist",
+     "votes": 856,
+     "party": "DEM",
+     "pct": 47.27,
+     "choice_id": "01000000-8e29-c85f-1bf9-08df1fed1cf1",
+     "party_lines": {
+      "DEM": 856
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 18,
+     "party": null,
+     "pct": 0.99,
+     "choice_id": "01000000-8e29-c85f-1c0b-08df1fed1cf1",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-1d13-08df1fed1cf1",
+   "state": "NY",
+   "title": "Sloatsburg Village Trustee Village of Sloatsburg",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rockland County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported, 4 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "Marc A. Bitterman",
+     "votes": 856,
+     "party": "REP",
+     "pct": 50.98,
+     "choice_id": "01000000-8e29-c85f-1d26-08df1fed1cf1",
+     "party_lines": {
+      "REP": 689,
+      "CONSERVATIVE": 167
+     }
+    },
+    {
+     "name": "John M. Bonkoski",
+     "votes": 797,
+     "party": "REP",
+     "pct": 47.47,
+     "choice_id": "01000000-8e29-c85f-1d4c-08df1fed1cf1",
+     "party_lines": {
+      "REP": 634,
+      "CONSERVATIVE": 163
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 26,
+     "party": null,
+     "pct": 1.55,
+     "choice_id": "01000000-8e29-c85f-1da4-08df1fed1cf1",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-1f77-08df1fed1cf1",
+   "state": "NY",
+   "title": "Suffern Village Trustee Village of Suffern",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rockland County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 11,
+    "pct": 0.0,
+    "text": "0 of 11 precincts fully reported, 11 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "Steven P. Alpert",
+     "votes": 2573,
+     "party": "DEM",
+     "pct": 32.65,
+     "choice_id": "01000000-8e29-c85f-2015-08df1fed1cf1",
+     "party_lines": {
+      "DEM": 2573
+     }
+    },
+    {
+     "name": "Angela M. Hogue",
+     "votes": 2648,
+     "party": "DEM",
+     "pct": 33.6,
+     "choice_id": "01000000-8e29-c85f-2056-08df1fed1cf1",
+     "party_lines": {
+      "DEM": 2396,
+      "CONSERVATIVE": 252
+     }
+    },
+    {
+     "name": "Wayne Jennings",
+     "votes": 1286,
+     "party": "REP",
+     "pct": 16.32,
+     "choice_id": "01000000-8e29-c85f-208e-08df1fed1cf1",
+     "party_lines": {
+      "REP": 1286
+     }
+    },
+    {
+     "name": "Meghan Lynch",
+     "votes": 1231,
+     "party": "REP",
+     "pct": 15.62,
+     "choice_id": "01000000-8e29-c85f-20c0-08df1fed1cf1",
+     "party_lines": {
+      "REP": 1231
+     }
+    },
+    {
+     "name": "CST Wayne Jennings",
+     "votes": 69,
+     "party": "CUT SUFFERN ",
+     "pct": 0.88,
+     "choice_id": "01000000-8e29-c85f-212f-08df1fed1cf1",
+     "party_lines": {
+      "CUT SUFFERN ": 69
+     }
+    },
+    {
+     "name": "CST Meghan Lynch",
+     "votes": 66,
+     "party": "CUT SUFFERN ",
+     "pct": 0.84,
+     "choice_id": "01000000-8e29-c85f-2164-08df1fed1cf1",
+     "party_lines": {
+      "CUT SUFFERN ": 66
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 7,
+     "party": null,
+     "pct": 0.09,
+     "choice_id": "01000000-8e29-c85f-219f-08df1fed1cf1",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-283e-08df1fed1cf1",
+   "state": "NY",
+   "title": "Supreme Court Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Rockland County",
+   "scope": "partial",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 307,
+    "pct": 0.0,
+    "text": "0 of 307 precincts fully reported, 307 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "Maria G. Rosa",
+     "votes": 63365,
+     "party": "DEM",
+     "pct": 20.32,
+     "choice_id": "01000000-8e29-c85f-2855-08df1fed1cf1",
+     "party_lines": {
+      "DEM": 59340,
+      "WFP": 4025
+     }
+    },
+    {
+     "name": "George E. Fufidio",
+     "votes": 97261,
+     "party": "DEM",
+     "pct": 31.19,
+     "choice_id": "01000000-8e29-c85f-2bd1-08df1fed1cf1",
+     "party_lines": {
+      "DEM": 55883,
+      "REP": 41378
+     }
+    },
+    {
+     "name": "Alden H. Wolfe",
+     "votes": 60161,
+     "party": "DEM",
+     "pct": 19.29,
+     "choice_id": "01000000-8e29-c85f-2f27-08df1fed1cf1",
+     "party_lines": {
+      "DEM": 55364,
+      "CONSERVATIVE": 4797
+     }
+    },
+    {
+     "name": "Richard S. Fava Pastilha",
+     "votes": 47463,
+     "party": "REP",
+     "pct": 15.22,
+     "choice_id": "01000000-8e29-c85f-3261-08df1fed1cf1",
+     "party_lines": {
+      "REP": 42221,
+      "CONSERVATIVE": 5242
+     }
+    },
+    {
+     "name": "John Ciampoli",
+     "votes": 42925,
+     "party": "REP",
+     "pct": 13.77,
+     "choice_id": "01000000-8e29-c85f-3996-08df1fed1cf1",
+     "party_lines": {
+      "REP": 42925
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 639,
+     "party": null,
+     "pct": 0.2,
+     "choice_id": "01000000-8e29-c85f-47cf-08df1fed1cf1",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-5736-08df1fed1cf1",
+   "state": "NY",
+   "title": "County Court Judge",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Rockland County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 307,
+    "pct": 0.0,
+    "text": "0 of 307 precincts fully reported, 307 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "Ivonne S. Santos",
+     "votes": 105650,
+     "party": "DEM",
+     "pct": 99.57,
+     "choice_id": "01000000-8e29-c85f-575e-08df1fed1cf1",
+     "party_lines": {
+      "DEM": 59707,
+      "REP": 40942,
+      "CONSERVATIVE": 5001
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 452,
+     "party": null,
+     "pct": 0.43,
+     "choice_id": "01000000-8e29-c85f-618c-08df1fed1cf1",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-7173-08df1fed1cf1",
+   "state": "NY",
+   "title": "Sloatsburg Village Justice Village of Sloatsburg",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Rockland County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported, 4 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "Theresa Bitterman",
+     "votes": 791,
+     "party": "REP",
+     "pct": 98.14,
+     "choice_id": "01000000-8e29-c85f-71af-08df1fed1cf1",
+     "party_lines": {
+      "REP": 791
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 15,
+     "party": null,
+     "pct": 1.86,
+     "choice_id": "01000000-8e29-c85f-71dd-08df1fed1cf1",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-7312-08df1fed1cf1",
+   "state": "NY",
+   "title": "Suffern Village Justice Village of Suffern",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Rockland County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 11,
+    "pct": 0.0,
+    "text": "0 of 11 precincts fully reported, 11 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "Ernest S. Buonocore",
+     "votes": 2468,
+     "party": "REP",
+     "pct": 98.84,
+     "choice_id": "01000000-8e29-c85f-7330-08df1fed1cf1",
+     "party_lines": {
+      "WFP": 640,
+      "REP": 1828
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 29,
+     "party": null,
+     "pct": 1.16,
+     "choice_id": "01000000-8e29-c85f-73a8-08df1fed1cf1",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-76a8-08df1fed1cf1",
+   "state": "NY",
+   "title": "County of Rockland",
+   "office_type": "measure",
+   "district": "county of rockland",
+   "jurisdiction": "Rockland County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 307,
+    "pct": 0.0,
+    "text": "0 of 307 precincts fully reported, 307 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 42250,
+     "party": null,
+     "pct": 47.39,
+     "choice_id": "01000000-8e29-c85f-76c6-08df1fed1cf1",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 46905,
+     "party": null,
+     "pct": 52.61,
+     "choice_id": "01000000-8e29-c85f-7a57-08df1fed1cf1",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rockland",
+   "contest_id": "01000000-8e29-c85f-897b-08df1fed1cf1",
+   "state": "NY",
+   "title": "Town of Orangetown",
+   "office_type": "measure",
+   "district": "town of orangetown",
+   "jurisdiction": "Rockland County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 51,
+    "pct": 0.0,
+    "text": "0 of 51 precincts fully reported, 51 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:09:42.3727833Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 16487,
+     "party": null,
+     "pct": 78.48,
+     "choice_id": "01000000-8e29-c85f-8991-08df1fed1cf1",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 4520,
+     "party": null,
+     "pct": 21.52,
+     "choice_id": "01000000-8e29-c85f-8a26-08df1fed1cf1",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  }
+ ],
+ "contests_hash": "c837bf535dbb8c31",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-04T15:00:36+00:00",
+ "fetched_at": "2026-11-04T15:00:36+00:00",
+ "contests_changed_at": "2026-11-04T14:56:53+00:00"
+}

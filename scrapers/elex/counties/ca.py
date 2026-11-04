@@ -83,5 +83,14 @@ SOURCES = [
     LosAngeles(),
     LiveVoterTurnoutSource("ca.orange", "CA", "Orange", "https://ocvote.gov/results/current-election-results",
                            f"{config.ELECTION_DATE.year} General Election"),
+    LiveVoterTurnoutSource("ca.san_diego", "CA", "San Diego", "https://sdvote.com/results",
+                           "Gubernatorial General Election"),
+    LiveVoterTurnoutSource("ca.san_mateo", "CA", "San Mateo",
+                           "https://www.smcacre.gov/elections/november-3-2026-election-results",
+                           "Statewide General Election"),
+    # San Bernardino's results page (elections.sbcounty.gov/elections/2026/1103/results/) forwards browsers here.
+    LiveVoterTurnoutSource("ca.san_bernardino", "CA", "San Bernardino",
+                           "https://www.livevoterturnout.com/ENR/sanbernardinocaenr/3/en/Index_3.html",
+                           "November 3, 2026, General Election"),
     *[clarity_county(n, _CLARITY_EIDS.get(n)) for n in ("Santa Clara", "Contra Costa", "Sonoma", "Ventura", "Marin")],
 ]

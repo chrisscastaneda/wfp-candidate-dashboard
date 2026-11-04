@@ -16,9 +16,10 @@ complete.
 """
 import html
 import re
+import xml.etree.ElementTree as ET
 from datetime import datetime
 
-from .. import names
+from .. import config, names
 from ..model import Choice, Contest, Reporting
 from ..platforms.enhanced_voting import EnhancedVotingSource
 from ..platforms.resultscaster import ResultsCasterSource
@@ -116,6 +117,91 @@ class NewYorkCity(Source):
         return contests
 
 
+# Chautauqua County's results site (enr.chqvotes.com) is a page that reads one XML file, Default_3_0.xml:
+#   <election timestamp="11/3/2026 10:03:35 PM" date="Tuesday, November 3, 2026" ...>
+#   areatypes/admindivision[@name="Town"]/area[@id, @name="Town of Busti"]
+#   offices/office/contests/contest[@id, @name="Town Supervisor", @areaid]/choices/choice[@id, @name]/aff[@id]
+#   parties/party[@id, @abbrev]; simpleresults/ch[@id, @v]; contestoverview/co[@c, @n (seats)]
+#   progress[@closed, @total] (tabulators, countywide)
+# State and district races are filed under the "New York State" area and are the county's share.
+CHAUTAUQUA = "https://enr.chqvotes.com/"
+_PLACE_AREAS = {"Town", "Town Ward", "Village", "City", "City Ward"}
+
+
+def parse_chautauqua(xml: bytes | str) -> list[Contest]:
+    root = ET.fromstring(xml)
+    areas = {a.get("id"): (d.get("name"), a.get("name").strip())
+             for d in root.find("areatypes") for a in d}
+    parties = {p.get("id"): p.get("abbrev") for p in root.find("parties")}
+    votes = {ch.get("id"): names.to_int(ch.get("v")) for ch in root.find("simpleresults")}
+    seats = {co.get("c"): names.to_int(co.get("n")) for co in root.find("contestoverview")}
+    stamp = root.get("timestamp")
+    updated = (datetime.strptime(stamp, "%m/%d/%Y %I:%M:%S %p").isoformat() + "-05:00") if stamp else None
+    progress = root.find("progress")
+    closed, total = (names.to_int(progress.get("closed")), names.to_int(progress.get("total"))) \
+        if progress is not None else (None, None)
+    contests = []
+    for item in root.iter("contest"):
+        kind_of_area, area = areas.get(item.get("areaid"), ("", ""))
+        title = re.sub(r"\s+", " ", item.get("name")).strip()
+        if kind_of_area in _PLACE_AREAS:
+            title = f"{title}, {area}"  # "Town Supervisor, Town of Kiantone"
+        choices = []
+        for choice in item.iter("choice"):
+            name = re.sub(r"\s+", " ", choice.get("name")).strip()
+            n = votes.get(choice.get("id"), 0)
+            if choice.get("isw") == "True" and not n:
+                continue
+            affs = [parties.get(a.get("id")) for a in choice.findall("aff")]
+            choices.append(Choice(name, n, names.party(affs[0]) if affs and affs[0] else None,
+                                  choice_id=choice.get("id")))
+        kind = names.office_type(title)
+        if kind_of_area != "State" and kind not in ("local", "judicial"):
+            kind = "local"  # "County Sheriff", "Town Clerk"
+        contest = Contest(
+            source="ny.chautauqua", contest_id=item.get("id"), state="NY", title=title, office_type=kind,
+            district=names.district(title), jurisdiction="Chautauqua County",
+            scope="partial" if kind_of_area == "State" else "complete", vote_for=seats.get(item.get("id")) or 1,
+            reporting=Reporting(closed, total, as_percent=False,
+                                text=f"Countywide, {closed} of {total} poll sites reported") if total else Reporting(),
+            feed_updated_at=updated, choices=choices)
+        contest.fill_percentages()
+        contests.append(contest)
+    return contests
+
+
+class Chautauqua(Source):
+    id = "ny.chautauqua"
+    state = "NY"
+    level = "county"
+    county = "Chautauqua"
+    title = "Chautauqua County election night results"
+    site_name = "Chautauqua County Board of Elections"
+    url = CHAUTAUQUA
+    platform = "Chautauqua ENR (XML)"
+    tiers = frozenset({4})
+
+    def pull(self, fetch):
+        data = fetch.get(CHAUTAUQUA + "Default_3_0.xml", expect="bytes")
+        when = config.ELECTION_DATE.strftime("%B %-d, %Y")
+        if when.encode() not in data:
+            raise NotPublished(f"Chautauqua's results file isn't the {when} election")
+        return parse_chautauqua(data)
+
+
+# Counties whose Nov 3 results are on Enhanced Voting's shared host, at <name>-county-ny. Found by probing the
+# jurisdictions API for every county with a WFP race (Nov 4, 2026); Onondaga, Chautauqua, Niagara, Albany, Saratoga,
+# Nassau and Schenectady aren't there.
+_EV_COUNTIES = ("Orange", "Monroe", "Broome", "Oneida", "Rockland", "Clinton", "Suffolk", "Putnam", "Rensselaer",
+                "Columbia", "Cattaraugus", "Chemung", "Dutchess", "Ulster", "Sullivan")
+
+
+def ev_county(name: str) -> EnhancedVotingSource:
+    return EnhancedVotingSource(f"ny.{name.lower()}", "NY", f"{name} County (Enhanced Voting)",
+                                f"{name} County Board of Elections", "https://app.enhancedvoting.com",
+                                f"{name.lower()}-county-ny", tiers=(4,), level="county", county=name)
+
+
 SOURCES = [
     NewYorkCity(),
     # Westchester's results are on Enhanced Voting's shared host (westchestercountyny.gov/boe99 links there).
@@ -123,4 +209,6 @@ SOURCES = [
                          "Westchester County Board of Elections", "https://app.enhancedvoting.com",
                          "westchester-county-ny", tiers=(4,), level="county", county="Westchester"),
     ResultsCasterSource("ny.erie", "NY", "Erie", "erie", "Erie County Board of Elections"),
+    *[ev_county(name) for name in _EV_COUNTIES],
+    Chautauqua(),
 ]

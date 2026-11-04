@@ -165,6 +165,9 @@ what to check when they go live.
 | `mi.wayne` | ok, 4 matched | Built on election night (`counties/mi.py`). waynecountymi.gov returns 403, but its results are on TotalVote (`michigan.totalvote.com/Wayne`), server-rendered HTML per category. Whole-county districts: MI-13, SD-2, HD-26, HD-27; MI-12, HD-7, HD-8, HD-11 cross county lines and are partial |
 | `mi.washtenaw` | ok, 2 matched | Built on election night. `electionresults.ewashtenaw.org/electionreporting/<mon><year>/index.jsp`, one summary table. Bay County posts PDFs only; its two Bay City races aren't on the county report |
 | `wi.dane`, `wi.kenosha` | ok, 3 matched | Built on election night (`counties/wi.py`). Dane has a public API (`api.danecounty.gov/api/v1/elections`); Kenosha's results page is `apps.kenoshacounty.org/ElectionResults_v4/?eid=70`. Only districts wholly inside the county stay complete: AD-76 (Dane), AD-64 and AD-65 (Kenosha). The statewide questions and multi-county districts are partial |
+| 15 NY counties on Enhanced Voting (`ny.orange`, `ny.monroe`, `ny.broome`, `ny.oneida`, `ny.rockland`, `ny.clinton`, `ny.suffolk`, `ny.putnam`, `ny.rensselaer`, `ny.columbia`, `ny.cattaraugus`, `ny.chemung`, `ny.dutchess`, `ny.ulster`, `ny.sullivan`) | ok, 148 matched (Nov 4; none in Sullivan) | Configuration (`_EV_COUNTIES` in `counties/ny.py`), found by probing `<name>-county-ny` on Enhanced Voting's API. The "WOR " fusion-line prefix is stripped |
+| `ny.chautauqua` | ok, 12 matched (Nov 4) | `enr.chqvotes.com/Default_3_0.xml`, parsed in `counties/ny.py` |
+| `ca.san_diego`, `ca.san_mateo`, `ca.san_bernardino` | ok, 37 matched (Nov 4) | Live Voter Turnout. Pages without contest groups (San Diego, San Mateo, San Bernardino) mark state and district races partial by office and title |
 | `ny.erie` | ok, 12 matched (Rathi Ravi by hand) | New platform module `platforms/resultscaster.py`, a JSON API under `erie.resultscaster.com/api/resultscasts/`. Erie's Nov 3 election is titled "General Election 2026 test" (slug `testgen`) but holds the real ballot. Onondaga can reuse the module if its site is reachable |
 
 **Probably not on the ballot:**
@@ -185,13 +188,13 @@ what to check when they go live.
 
 | County | Rows | What we know |
 |---|---:|---|
-| Onondaga | 21 | Results Caster, like Erie: try `platforms/resultscaster.py` with its subdomain |
+| Onondaga | 21 | Not on Enhanced Voting; ongov.net doesn't answer scripts. Results Caster, like Erie, if its subdomain can be found |
+| Niagara, Albany, Saratoga | 11, 5, 3 | Niagara's `ny.votereporting.com` returns 403; Albany and Saratoga not checked yet |
 | Wisconsin: Milwaukee | ~10 (AD 8–21, SD 5, 7) | The county's election-night page has full results but returns 403 to scripts. Manual entries |
 | Wisconsin: Racine, Brown, Eau Claire, Douglas | AD 61–63, 90, 93, 73; SD 21, 31 | Racine and Brown post PDFs; the others weren't checked. Several of these districts cross county lines |
-| San Diego, Alameda, San Bernardino, San Mateo, Santa Barbara | 16, 15, 10, 12, 7 | Each county's Nov 3 page has no results link yet. Alameda posted June results as PDF/XLSX canvasses |
+| Alameda, Santa Barbara, Santa Cruz, Stanislaus | 15, 7, 3, 3 | Not on Clarity or Live Voter Turnout. Santa Cruz shows results on its own page (`www2.santacruzcountyca.gov/ElectionSites/ElectionResults/Results`) |
 | San Francisco | 13 | `sfelections.org/results/20261103w/` returns 403 to scripts. Blocked: use manual entries |
-| Dutchess, Ulster | 38, 28 | Cumulative PDFs; needs `pdfplumber` |
-| Riverside, Kern, Fresno, Tulare; Orange NY, Onondaga, Rockland | | Blocked to scripts (from the source research) |
+| Riverside, Kern, Fresno, Tulare | 11, 5, 4, 4 | Blocked to scripts (from the source research) |
 
 Until then, the high-priority rows stay with the [manual federal races](#manual-federal-races). New York's state
 legislative races outside NYC have no source: the state BOE site (`nyenr.elections.ny.gov`) still returns 403 to

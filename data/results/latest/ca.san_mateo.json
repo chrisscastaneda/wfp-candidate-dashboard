@@ -1,0 +1,5287 @@
+{
+ "source": "ca.san_mateo",
+ "contests": [
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "1",
+   "state": "CA",
+   "title": "Governor",
+   "office_type": "governor",
+   "district": null,
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "XAVIER BECERRA",
+     "votes": 109157,
+     "party": null,
+     "pct": 73.43,
+     "choice_id": "2",
+     "party_lines": null
+    },
+    {
+     "name": "STEVE HILTON",
+     "votes": 39492,
+     "party": null,
+     "pct": 26.57,
+     "choice_id": "1",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "2",
+   "state": "CA",
+   "title": "Lieutenant Governor",
+   "office_type": "lt_governor",
+   "district": null,
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "FIONA MA",
+     "votes": 108503,
+     "party": null,
+     "pct": 74.14,
+     "choice_id": "4",
+     "party_lines": null
+    },
+    {
+     "name": "GLORIA ROMERO",
+     "votes": 37838,
+     "party": null,
+     "pct": 25.86,
+     "choice_id": "3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "3",
+   "state": "CA",
+   "title": "Secretary of State",
+   "office_type": "secretary_of_state",
+   "district": null,
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "SHIRLEY N. WEBER",
+     "votes": 109292,
+     "party": null,
+     "pct": 74.56,
+     "choice_id": "6",
+     "party_lines": null
+    },
+    {
+     "name": "DONALD P. (DON) WAGNER",
+     "votes": 37293,
+     "party": null,
+     "pct": 25.44,
+     "choice_id": "5",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "4",
+   "state": "CA",
+   "title": "Controller",
+   "office_type": "controller",
+   "district": null,
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "MALIA M. COHEN",
+     "votes": 106483,
+     "party": null,
+     "pct": 73.12,
+     "choice_id": "7",
+     "party_lines": null
+    },
+    {
+     "name": "HERB W MORGAN",
+     "votes": 39136,
+     "party": null,
+     "pct": 26.88,
+     "choice_id": "8",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "5",
+   "state": "CA",
+   "title": "Treasurer",
+   "office_type": "treasurer",
+   "district": null,
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ELENI KOUNALAKIS",
+     "votes": 107821,
+     "party": null,
+     "pct": 73.81,
+     "choice_id": "10",
+     "party_lines": null
+    },
+    {
+     "name": "JENNIFER HAWKS",
+     "votes": 38257,
+     "party": null,
+     "pct": 26.19,
+     "choice_id": "9",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "6",
+   "state": "CA",
+   "title": "Attorney General",
+   "office_type": "attorney_general",
+   "district": null,
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ROB BONTA",
+     "votes": 108134,
+     "party": null,
+     "pct": 73.73,
+     "choice_id": "11",
+     "party_lines": null
+    },
+    {
+     "name": "MICHAEL E. GATES",
+     "votes": 38535,
+     "party": null,
+     "pct": 26.27,
+     "choice_id": "12",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "7",
+   "state": "CA",
+   "title": "Insurance Commissioner",
+   "office_type": "insurance_commissioner",
+   "district": null,
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JANE KIM",
+     "votes": 75270,
+     "party": null,
+     "pct": 57.14,
+     "choice_id": "13",
+     "party_lines": null
+    },
+    {
+     "name": "BEN ALLEN",
+     "votes": 56459,
+     "party": null,
+     "pct": 42.86,
+     "choice_id": "14",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "8",
+   "state": "CA",
+   "title": "Member, State Board of Equalization, District 2",
+   "office_type": "board_of_equalization",
+   "district": "2",
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "SALLY J. LIEBER",
+     "votes": 68836,
+     "party": null,
+     "pct": 54.79,
+     "choice_id": "16",
+     "party_lines": null
+    },
+    {
+     "name": "JOHN PIMENTEL",
+     "votes": 56809,
+     "party": null,
+     "pct": 45.21,
+     "choice_id": "15",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "9",
+   "state": "CA",
+   "title": "U.S. Representative, District 15",
+   "office_type": "federal_house",
+   "district": "15",
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "KEVIN MULLIN",
+     "votes": 88024,
+     "party": null,
+     "pct": 77.19,
+     "choice_id": "18",
+     "party_lines": null
+    },
+    {
+     "name": "CHARLES HOELTER",
+     "votes": 26011,
+     "party": null,
+     "pct": 22.81,
+     "choice_id": "17",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "10",
+   "state": "CA",
+   "title": "U.S. Representative, District 16",
+   "office_type": "federal_house",
+   "district": "16",
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "SAM LICCARDO",
+     "votes": 25074,
+     "party": null,
+     "pct": 77.51,
+     "choice_id": "19",
+     "party_lines": null
+    },
+    {
+     "name": "PETER SUNDIN SOULÉ",
+     "votes": 7275,
+     "party": null,
+     "pct": 22.49,
+     "choice_id": "20",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "11",
+   "state": "CA",
+   "title": "Member of the State Assembly, District 19",
+   "office_type": "state_house",
+   "district": "19",
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "CATHERINE STEFANI",
+     "votes": 16437,
+     "party": null,
+     "pct": 75.55,
+     "choice_id": "22",
+     "party_lines": null
+    },
+    {
+     "name": "PHILIP LOUIS WING",
+     "votes": 5320,
+     "party": null,
+     "pct": 24.45,
+     "choice_id": "21",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "12",
+   "state": "CA",
+   "title": "Member of the State Assembly, District 21",
+   "office_type": "state_house",
+   "district": "21",
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DIANE PAPAN",
+     "votes": 69890,
+     "party": null,
+     "pct": 77.4,
+     "choice_id": "23",
+     "party_lines": null
+    },
+    {
+     "name": "JABRA J MUHAWIEH",
+     "votes": 20409,
+     "party": null,
+     "pct": 22.6,
+     "choice_id": "24",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "13",
+   "state": "CA",
+   "title": "Member of the State Assembly, District 23",
+   "office_type": "state_house",
+   "district": "23",
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "MARC BERMAN",
+     "votes": 24889,
+     "party": null,
+     "pct": 75.47,
+     "choice_id": "25",
+     "party_lines": null
+    },
+    {
+     "name": "DAVID G. JOHNSON",
+     "votes": 8089,
+     "party": null,
+     "pct": 24.53,
+     "choice_id": "26",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "15",
+   "state": "CA",
+   "title": "For Associate Justice of the Supreme Court (Joshua Groban)",
+   "office_type": "measure",
+   "district": "for associate justice of the supreme court joshua groban",
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 93014,
+     "party": null,
+     "pct": 81.8,
+     "choice_id": "257",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 20700,
+     "party": null,
+     "pct": 18.2,
+     "choice_id": "258",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "14",
+   "state": "CA",
+   "title": "For Associate Justice of the Supreme Court (Kelli M. Evans)",
+   "office_type": "measure",
+   "district": "for associate justice of the supreme court kelli m evans",
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 92153,
+     "party": null,
+     "pct": 81.55,
+     "choice_id": "255",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 20845,
+     "party": null,
+     "pct": 18.45,
+     "choice_id": "256",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "18",
+   "state": "CA",
+   "title": "For Associate Justice, Court of Appeal, 1st District, Division 1 (Monique Langhorne Wilson)",
+   "office_type": "measure",
+   "district": "for associate justice court of appeal 1st district division ",
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 89339,
+     "party": null,
+     "pct": 81.39,
+     "choice_id": "263",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 20423,
+     "party": null,
+     "pct": 18.61,
+     "choice_id": "264",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "16",
+   "state": "CA",
+   "title": "For Associate Justice, Court of Appeal, 1st District, Division 1 (Charles A. Smiley)",
+   "office_type": "measure",
+   "district": "for associate justice court of appeal 1st district division ",
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 87437,
+     "party": null,
+     "pct": 80.27,
+     "choice_id": "259",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 21494,
+     "party": null,
+     "pct": 19.73,
+     "choice_id": "260",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "17",
+   "state": "CA",
+   "title": "For Associate Justice, Court of Appeal, 1st District, Division 1 (Kathleen M. Banke)",
+   "office_type": "measure",
+   "district": "for associate justice court of appeal 1st district division ",
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 89502,
+     "party": null,
+     "pct": 82.01,
+     "choice_id": "261",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 19628,
+     "party": null,
+     "pct": 17.99,
+     "choice_id": "262",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "19",
+   "state": "CA",
+   "title": "For Presiding Justice, Court of Appeal, 1st District, Division 2 (Therese M. Stewart)",
+   "office_type": "measure",
+   "district": "for presiding justice court of appeal 1st district division ",
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 88953,
+     "party": null,
+     "pct": 81.38,
+     "choice_id": "265",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 20347,
+     "party": null,
+     "pct": 18.62,
+     "choice_id": "266",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "20",
+   "state": "CA",
+   "title": "For Associate Justice, Court of Appeal, 1st District, Division 2 (Tara M. Desautels)",
+   "office_type": "measure",
+   "district": "for associate justice court of appeal 1st district division ",
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 88636,
+     "party": null,
+     "pct": 81.24,
+     "choice_id": "267",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 20465,
+     "party": null,
+     "pct": 18.76,
+     "choice_id": "268",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "21",
+   "state": "CA",
+   "title": "For Associate Justice, Court of Appeal, 1st District, Division 3 (Ioana Petrou)",
+   "office_type": "measure",
+   "district": "for associate justice court of appeal 1st district division ",
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 85844,
+     "party": null,
+     "pct": 80.19,
+     "choice_id": "269",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 21204,
+     "party": null,
+     "pct": 19.81,
+     "choice_id": "270",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "22",
+   "state": "CA",
+   "title": "For Associate Justice, Court of Appeal, 1st District, Division 3 (Victor A. Rodriguez)",
+   "office_type": "measure",
+   "district": "for associate justice court of appeal 1st district division ",
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 86482,
+     "party": null,
+     "pct": 80.85,
+     "choice_id": "271",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 20480,
+     "party": null,
+     "pct": 19.15,
+     "choice_id": "272",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "23",
+   "state": "CA",
+   "title": "For Presiding Justice, Court of Appeal, 1st District, Division 4 (Tracie L. Brown)",
+   "office_type": "measure",
+   "district": "for presiding justice court of appeal 1st district division ",
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 87883,
+     "party": null,
+     "pct": 82.18,
+     "choice_id": "273",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 19061,
+     "party": null,
+     "pct": 17.82,
+     "choice_id": "274",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "25",
+   "state": "CA",
+   "title": "For Associate Justice, Court of Appeal, 1st District, Division 5 (Danny Y. Chou)",
+   "office_type": "measure",
+   "district": "for associate justice court of appeal 1st district division ",
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 86057,
+     "party": null,
+     "pct": 80.48,
+     "choice_id": "277",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 20877,
+     "party": null,
+     "pct": 19.52,
+     "choice_id": "278",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "24",
+   "state": "CA",
+   "title": "For Associate Justice, Court of Appeal, 1st District, Division 5 (Mark Simons)",
+   "office_type": "measure",
+   "district": "for associate justice court of appeal 1st district division ",
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 83976,
+     "party": null,
+     "pct": 79.32,
+     "choice_id": "275",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 21898,
+     "party": null,
+     "pct": 20.68,
+     "choice_id": "276",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "26",
+   "state": "CA",
+   "title": "For Associate Justice, Court of Appeal, 1st District, Division 5 (Gordon Burns)",
+   "office_type": "measure",
+   "district": "for associate justice court of appeal 1st district division ",
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 84504,
+     "party": null,
+     "pct": 79.98,
+     "choice_id": "279",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 21151,
+     "party": null,
+     "pct": 20.02,
+     "choice_id": "280",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "27",
+   "state": "CA",
+   "title": "Superintendent of Public Instruction",
+   "office_type": "superintendent",
+   "district": null,
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "RICHARD BARRERA",
+     "votes": 70895,
+     "party": null,
+     "pct": 58.97,
+     "choice_id": "28",
+     "party_lines": null
+    },
+    {
+     "name": "SONJA SHAW",
+     "votes": 49333,
+     "party": null,
+     "pct": 41.03,
+     "choice_id": "27",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "28",
+   "state": "CA",
+   "title": "County Board of Education Member, Trustee Area 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DANA JOHNSON",
+     "votes": 6142,
+     "party": null,
+     "pct": 52.33,
+     "choice_id": "29",
+     "party_lines": null
+    },
+    {
+     "name": "BEVERLY GERARD",
+     "votes": 5595,
+     "party": null,
+     "pct": 47.67,
+     "choice_id": "30",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "29",
+   "state": "CA",
+   "title": "San Mateo County Community College District Member, Governing Board, Trustee Area 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "MIKE GUINGONA",
+     "votes": 10137,
+     "party": null,
+     "pct": 58.08,
+     "choice_id": "32",
+     "party_lines": null
+    },
+    {
+     "name": "JASON HOLT",
+     "votes": 7318,
+     "party": null,
+     "pct": 41.92,
+     "choice_id": "31",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "30",
+   "state": "CA",
+   "title": "Cabrillo Unified School District Member, Governing Board, Trustee Area C",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "PETER TOKOFSKY",
+     "votes": 602,
+     "party": null,
+     "pct": 56.0,
+     "choice_id": "34",
+     "party_lines": null
+    },
+    {
+     "name": "LIZET CORTES-RONQUILLO",
+     "votes": 473,
+     "party": null,
+     "pct": 44.0,
+     "choice_id": "33",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "31",
+   "state": "CA",
+   "title": "Cabrillo Unified School District Member, Governing Board, Trustee Area E",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ANDREA ROSENTHAL",
+     "votes": 705,
+     "party": null,
+     "pct": 53.61,
+     "choice_id": "36",
+     "party_lines": null
+    },
+    {
+     "name": "MARY BETH ALEXANDER",
+     "votes": 610,
+     "party": null,
+     "pct": 46.39,
+     "choice_id": "35",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "32",
+   "state": "CA",
+   "title": "South San Francisco Unified School District Member, Governing Board, Trustee Area C",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "CHIALIN HSIEH",
+     "votes": 1531,
+     "party": null,
+     "pct": 53.49,
+     "choice_id": "37",
+     "party_lines": null
+    },
+    {
+     "name": "AVIN SHARMA",
+     "votes": 1331,
+     "party": null,
+     "pct": 46.51,
+     "choice_id": "38",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "33",
+   "state": "CA",
+   "title": "South San Francisco Unified School District Member, Governing Board, Trustee Area E",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "FRANK LARA",
+     "votes": 1148,
+     "party": null,
+     "pct": 60.9,
+     "choice_id": "39",
+     "party_lines": null
+    },
+    {
+     "name": "MINA A. RICHARDSON",
+     "votes": 737,
+     "party": null,
+     "pct": 39.1,
+     "choice_id": "40",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "34",
+   "state": "CA",
+   "title": "San Mateo Union High School District Member, Governing Board, Trustee Area 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JENNIFER JACOBSON",
+     "votes": 5237,
+     "party": null,
+     "pct": 50.98,
+     "choice_id": "42",
+     "party_lines": null
+    },
+    {
+     "name": "DIANA HARRIS",
+     "votes": 5036,
+     "party": null,
+     "pct": 49.02,
+     "choice_id": "41",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "35",
+   "state": "CA",
+   "title": "San Mateo Union High School District Member, Governing Board, Trustee Area 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ALISON PROCTOR",
+     "votes": 5794,
+     "party": null,
+     "pct": 81.33,
+     "choice_id": "43",
+     "party_lines": null
+    },
+    {
+     "name": "KIMO ROSENBAUM",
+     "votes": 1330,
+     "party": null,
+     "pct": 18.67,
+     "choice_id": "44",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "36",
+   "state": "CA",
+   "title": "Sequoia Union High School District Member, Governing Board, Trustee Area A",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "AMY KOO",
+     "votes": 5545,
+     "party": null,
+     "pct": 64.25,
+     "choice_id": "45",
+     "party_lines": null
+    },
+    {
+     "name": "ALON SHIRAN",
+     "votes": 3086,
+     "party": null,
+     "pct": 35.75,
+     "choice_id": "46",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "37",
+   "state": "CA",
+   "title": "Sequoia Union High School District Member, Governing Board, Trustee Area D",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "MICHAEL DEKSHENIEKS",
+     "votes": 5840,
+     "party": null,
+     "pct": 89.34,
+     "choice_id": "47",
+     "party_lines": null
+    },
+    {
+     "name": "SATHVIK NORI",
+     "votes": 697,
+     "party": null,
+     "pct": 10.66,
+     "choice_id": "48",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "38",
+   "state": "CA",
+   "title": "Brisbane School District Member, Governing Board",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "SARAH DUFFY",
+     "votes": 959,
+     "party": null,
+     "pct": 30.69,
+     "choice_id": "51",
+     "party_lines": null
+    },
+    {
+     "name": "EMILY WIROWEK",
+     "votes": 840,
+     "party": null,
+     "pct": 26.88,
+     "choice_id": "49",
+     "party_lines": null
+    },
+    {
+     "name": "MORGAN FINLAY",
+     "votes": 729,
+     "party": null,
+     "pct": 23.33,
+     "choice_id": "52",
+     "party_lines": null
+    },
+    {
+     "name": "CHARLENE LARSON",
+     "votes": 597,
+     "party": null,
+     "pct": 19.1,
+     "choice_id": "50",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "39",
+   "state": "CA",
+   "title": "Menlo Park City School District Member, Governing Board",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "MAYA HERSTEIN",
+     "votes": 3700,
+     "party": null,
+     "pct": 30.07,
+     "choice_id": "53",
+     "party_lines": null
+    },
+    {
+     "name": "SHERWIN CHEN",
+     "votes": 3294,
+     "party": null,
+     "pct": 26.77,
+     "choice_id": "54",
+     "party_lines": null
+    },
+    {
+     "name": "JED SCOLNICK",
+     "votes": 3038,
+     "party": null,
+     "pct": 24.69,
+     "choice_id": "55",
+     "party_lines": null
+    },
+    {
+     "name": "ANDREW BARNES",
+     "votes": 2274,
+     "party": null,
+     "pct": 18.48,
+     "choice_id": "56",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "40",
+   "state": "CA",
+   "title": "Pacifica School District Member, Governing Board (Full Term)",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "GRACE SOBIESKI",
+     "votes": 4837,
+     "party": null,
+     "pct": 22.52,
+     "choice_id": "60",
+     "party_lines": null
+    },
+    {
+     "name": "CHRISTOPHER SWIEDLER",
+     "votes": 3971,
+     "party": null,
+     "pct": 18.49,
+     "choice_id": "59",
+     "party_lines": null
+    },
+    {
+     "name": "TIFFANY BUTTON",
+     "votes": 3752,
+     "party": null,
+     "pct": 17.47,
+     "choice_id": "62",
+     "party_lines": null
+    },
+    {
+     "name": "BRIDGET HARDT",
+     "votes": 2751,
+     "party": null,
+     "pct": 12.81,
+     "choice_id": "57",
+     "party_lines": null
+    },
+    {
+     "name": "KATY BRADLEY",
+     "votes": 2640,
+     "party": null,
+     "pct": 12.29,
+     "choice_id": "61",
+     "party_lines": null
+    },
+    {
+     "name": "LAVERNE R VILLALOBOS",
+     "votes": 2127,
+     "party": null,
+     "pct": 9.9,
+     "choice_id": "63",
+     "party_lines": null
+    },
+    {
+     "name": "RACHEL DURKIN",
+     "votes": 1401,
+     "party": null,
+     "pct": 6.52,
+     "choice_id": "58",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "41",
+   "state": "CA",
+   "title": "Pacifica School District Member, Governing Board (Short Term)",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "KELLY MENDOZA",
+     "votes": 4162,
+     "party": null,
+     "pct": 52.74,
+     "choice_id": "66",
+     "party_lines": null
+    },
+    {
+     "name": "ELIZABETH A. BREDALL",
+     "votes": 2238,
+     "party": null,
+     "pct": 28.36,
+     "choice_id": "65",
+     "party_lines": null
+    },
+    {
+     "name": "TRACEY SIMMONS",
+     "votes": 1491,
+     "party": null,
+     "pct": 18.89,
+     "choice_id": "64",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "42",
+   "state": "CA",
+   "title": "San Carlos School District Member, Governing Board",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "BORIS LIPKIN",
+     "votes": 4647,
+     "party": null,
+     "pct": 31.66,
+     "choice_id": "69",
+     "party_lines": null
+    },
+    {
+     "name": "MEGHA CHAWLA",
+     "votes": 4193,
+     "party": null,
+     "pct": 28.56,
+     "choice_id": "68",
+     "party_lines": null
+    },
+    {
+     "name": "SHIVANI TRIPATHI",
+     "votes": 3297,
+     "party": null,
+     "pct": 22.46,
+     "choice_id": "70",
+     "party_lines": null
+    },
+    {
+     "name": "RICHARD F. WAHL",
+     "votes": 2542,
+     "party": null,
+     "pct": 17.32,
+     "choice_id": "67",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "43",
+   "state": "CA",
+   "title": "Member, Board of Supervisors, District 5 (Short Term)",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JUSLYN CABRERA MANALO",
+     "votes": 10657,
+     "party": null,
+     "pct": 54.12,
+     "choice_id": "72",
+     "party_lines": null
+    },
+    {
+     "name": "MARK NAGALES",
+     "votes": 9036,
+     "party": null,
+     "pct": 45.88,
+     "choice_id": "71",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "44",
+   "state": "CA",
+   "title": "City of Belmont Mayor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JULIA MATES",
+     "votes": 4782,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "45",
+   "state": "CA",
+   "title": "City of Belmont Member, City Council, District 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "GINA LATIMERLO",
+     "votes": 937,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "74",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "46",
+   "state": "CA",
+   "title": "City of Belmont Member, City Council, District 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "SARAH K.M. DELISLE",
+     "votes": 1243,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "75",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "47",
+   "state": "CA",
+   "title": "City of Brisbane Member, City Council",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JULIE SIMS",
+     "votes": 509,
+     "party": null,
+     "pct": 33.27,
+     "choice_id": "80",
+     "party_lines": null
+    },
+    {
+     "name": "MADISON DAVIS",
+     "votes": 422,
+     "party": null,
+     "pct": 27.58,
+     "choice_id": "78",
+     "party_lines": null
+    },
+    {
+     "name": "CHARLES SPENCER",
+     "votes": 276,
+     "party": null,
+     "pct": 18.04,
+     "choice_id": "79",
+     "party_lines": null
+    },
+    {
+     "name": "CHRISTOPHER HORNICK",
+     "votes": 186,
+     "party": null,
+     "pct": 12.16,
+     "choice_id": "76",
+     "party_lines": null
+    },
+    {
+     "name": "CHAYA-BELLA DAVID",
+     "votes": 137,
+     "party": null,
+     "pct": 8.95,
+     "choice_id": "77",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "48",
+   "state": "CA",
+   "title": "City of Burlingame Member, City Council, District 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ANDREA PAPPAJOHN",
+     "votes": 940,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "81",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "49",
+   "state": "CA",
+   "title": "City of Burlingame Member, City Council, District 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "HOWARD WETTAN",
+     "votes": 906,
+     "party": null,
+     "pct": 64.3,
+     "choice_id": "82",
+     "party_lines": null
+    },
+    {
+     "name": "JEN FABER",
+     "votes": 503,
+     "party": null,
+     "pct": 35.7,
+     "choice_id": "83",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "50",
+   "state": "CA",
+   "title": "City of Burlingame Member, City Council, District 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "PETER W. STEVENSON",
+     "votes": 929,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "84",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "51",
+   "state": "CA",
+   "title": "Town of Colma Member, City Council",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "HELEN FISICARO",
+     "votes": 155,
+     "party": null,
+     "pct": 32.77,
+     "choice_id": "88",
+     "party_lines": null
+    },
+    {
+     "name": "JOANNE F. DEL ROSARIO",
+     "votes": 121,
+     "party": null,
+     "pct": 25.58,
+     "choice_id": "87",
+     "party_lines": null
+    },
+    {
+     "name": "LAURA M WALSH",
+     "votes": 110,
+     "party": null,
+     "pct": 23.26,
+     "choice_id": "85",
+     "party_lines": null
+    },
+    {
+     "name": "ELISABETH AURORA JENSON",
+     "votes": 87,
+     "party": null,
+     "pct": 18.39,
+     "choice_id": "86",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "52",
+   "state": "CA",
+   "title": "City of Daly City Member, City Council",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "TERESA PROAÑO",
+     "votes": 7987,
+     "party": null,
+     "pct": 25.13,
+     "choice_id": "89",
+     "party_lines": null
+    },
+    {
+     "name": "ROD DAUS-MAGBUAL",
+     "votes": 6955,
+     "party": null,
+     "pct": 21.88,
+     "choice_id": "90",
+     "party_lines": null
+    },
+    {
+     "name": "PAMELA DIGIOVANNI",
+     "votes": 5888,
+     "party": null,
+     "pct": 18.53,
+     "choice_id": "91",
+     "party_lines": null
+    },
+    {
+     "name": "TONY BAYUDAN",
+     "votes": 3606,
+     "party": null,
+     "pct": 11.35,
+     "choice_id": "94",
+     "party_lines": null
+    },
+    {
+     "name": "THOMAS A. NURIS",
+     "votes": 3296,
+     "party": null,
+     "pct": 10.37,
+     "choice_id": "92",
+     "party_lines": null
+    },
+    {
+     "name": "ASIA SU",
+     "votes": 2901,
+     "party": null,
+     "pct": 9.13,
+     "choice_id": "93",
+     "party_lines": null
+    },
+    {
+     "name": "BARRY RODRIGUEZ",
+     "votes": 1148,
+     "party": null,
+     "pct": 3.61,
+     "choice_id": "95",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "53",
+   "state": "CA",
+   "title": "City of East Palo Alto Member, City Council",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "OFELIA BELLO",
+     "votes": 1031,
+     "party": null,
+     "pct": 22.3,
+     "choice_id": "101",
+     "party_lines": null
+    },
+    {
+     "name": "RUBEN ABRICA",
+     "votes": 986,
+     "party": null,
+     "pct": 21.33,
+     "choice_id": "98",
+     "party_lines": null
+    },
+    {
+     "name": "SAM JIMENEZ",
+     "votes": 726,
+     "party": null,
+     "pct": 15.7,
+     "choice_id": "97",
+     "party_lines": null
+    },
+    {
+     "name": "MICHAEL MASHACK",
+     "votes": 629,
+     "party": null,
+     "pct": 13.61,
+     "choice_id": "102",
+     "party_lines": null
+    },
+    {
+     "name": "HOLIFA WINDOM",
+     "votes": 532,
+     "party": null,
+     "pct": 11.51,
+     "choice_id": "96",
+     "party_lines": null
+    },
+    {
+     "name": "DEBORAH LEWIS-VIRGES",
+     "votes": 476,
+     "party": null,
+     "pct": 10.3,
+     "choice_id": "99",
+     "party_lines": null
+    },
+    {
+     "name": "GAIL WILK DIXON",
+     "votes": 243,
+     "party": null,
+     "pct": 5.26,
+     "choice_id": "100",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "54",
+   "state": "CA",
+   "title": "City of Foster City Member, City Council, District 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ART KIESEL",
+     "votes": 756,
+     "party": null,
+     "pct": 65.17,
+     "choice_id": "103",
+     "party_lines": null
+    },
+    {
+     "name": "PHOEBE SHIN VENKAT",
+     "votes": 404,
+     "party": null,
+     "pct": 34.83,
+     "choice_id": "104",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "55",
+   "state": "CA",
+   "title": "City of Foster City Member, City Council, District 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "STACY JIMENEZ",
+     "votes": 1003,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "105",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "56",
+   "state": "CA",
+   "title": "City of Half Moon Bay Member, City Council, District 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DAVID GORN",
+     "votes": 390,
+     "party": null,
+     "pct": 67.01,
+     "choice_id": "107",
+     "party_lines": null
+    },
+    {
+     "name": "ROBERT BROWNSTONE",
+     "votes": 192,
+     "party": null,
+     "pct": 32.99,
+     "choice_id": "106",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "57",
+   "state": "CA",
+   "title": "City of Half Moon Bay Member, City Council, District 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "RON KIES",
+     "votes": 520,
+     "party": null,
+     "pct": 59.43,
+     "choice_id": "108",
+     "party_lines": null
+    },
+    {
+     "name": "DEBBIE RUDDOCK",
+     "votes": 355,
+     "party": null,
+     "pct": 40.57,
+     "choice_id": "109",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "58",
+   "state": "CA",
+   "title": "City of Half Moon Bay Member, City Council, District 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "SUSIE MORASCI",
+     "votes": 341,
+     "party": null,
+     "pct": 58.59,
+     "choice_id": "111",
+     "party_lines": null
+    },
+    {
+     "name": "STEVEN R. BOOKER",
+     "votes": 241,
+     "party": null,
+     "pct": 41.41,
+     "choice_id": "110",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "59",
+   "state": "CA",
+   "title": "City of Menlo Park Member, City Council, District 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "WONMAN LEE",
+     "votes": 510,
+     "party": null,
+     "pct": 74.45,
+     "choice_id": "112",
+     "party_lines": null
+    },
+    {
+     "name": "JAMES ROHR",
+     "votes": 175,
+     "party": null,
+     "pct": 25.55,
+     "choice_id": "113",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "60",
+   "state": "CA",
+   "title": "City of Menlo Park Member, City Council, District 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "VAMSI VELAGAPUDI",
+     "votes": 721,
+     "party": null,
+     "pct": 50.31,
+     "choice_id": "115",
+     "party_lines": null
+    },
+    {
+     "name": "DREW COMBS",
+     "votes": 712,
+     "party": null,
+     "pct": 49.69,
+     "choice_id": "114",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "61",
+   "state": "CA",
+   "title": "City of Menlo Park Member, City Council, District 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "LAURA MELAHN",
+     "votes": 968,
+     "party": null,
+     "pct": 63.68,
+     "choice_id": "117",
+     "party_lines": null
+    },
+    {
+     "name": "CHARLOTTE REED",
+     "votes": 552,
+     "party": null,
+     "pct": 36.32,
+     "choice_id": "116",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "62",
+   "state": "CA",
+   "title": "City of Millbrae Member, City Council, District 2 (Full Term)",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "SISSY RILEY",
+     "votes": 561,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "118",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "63",
+   "state": "CA",
+   "title": "City of Millbrae Member, City Council, District 3 (Short Term)",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ANN SCHNEIDER",
+     "votes": 389,
+     "party": null,
+     "pct": 50.98,
+     "choice_id": "119",
+     "party_lines": null
+    },
+    {
+     "name": "JUAN GÁMEZ",
+     "votes": 374,
+     "party": null,
+     "pct": 49.02,
+     "choice_id": "120",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "64",
+   "state": "CA",
+   "title": "City of Millbrae Member, City Council, District 4 (Full Term)",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ALBERT YAM",
+     "votes": 535,
+     "party": null,
+     "pct": 52.81,
+     "choice_id": "122",
+     "party_lines": null
+    },
+    {
+     "name": "BOB NGUYEN",
+     "votes": 478,
+     "party": null,
+     "pct": 47.19,
+     "choice_id": "121",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "65",
+   "state": "CA",
+   "title": "City of Pacifica Member, City Council, District 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "CHRISTINE BOLES",
+     "votes": 1110,
+     "party": null,
+     "pct": 75.15,
+     "choice_id": "123",
+     "party_lines": null
+    },
+    {
+     "name": "DAN URBAN",
+     "votes": 367,
+     "party": null,
+     "pct": 24.85,
+     "choice_id": "124",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "66",
+   "state": "CA",
+   "title": "City of Pacifica Member, City Council, District 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "CINDY ABBOTT",
+     "votes": 1483,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "125",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "67",
+   "state": "CA",
+   "title": "City of Pacifica Member, City Council, District 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "MARGO MEIMAN",
+     "votes": 1352,
+     "party": null,
+     "pct": 65.41,
+     "choice_id": "127",
+     "party_lines": null
+    },
+    {
+     "name": "SAM CASILLAS",
+     "votes": 715,
+     "party": null,
+     "pct": 34.59,
+     "choice_id": "126",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "68",
+   "state": "CA",
+   "title": "Town of Portola Valley Member, Town Council",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JUDITH A. HASKO",
+     "votes": 1150,
+     "party": null,
+     "pct": 34.24,
+     "choice_id": "128",
+     "party_lines": null
+    },
+    {
+     "name": "MARY HUFTY",
+     "votes": 1132,
+     "party": null,
+     "pct": 33.7,
+     "choice_id": "129",
+     "party_lines": null
+    },
+    {
+     "name": "CRAIG S TAYLOR",
+     "votes": 1077,
+     "party": null,
+     "pct": 32.06,
+     "choice_id": "130",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "69",
+   "state": "CA",
+   "title": "City of Redwood City Member, City Council, District 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "CHRIS STURKEN",
+     "votes": 1258,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "131",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "70",
+   "state": "CA",
+   "title": "City of Redwood City Member, City Council, District 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "KAIA EAKIN",
+     "votes": 1522,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "132",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "71",
+   "state": "CA",
+   "title": "City of Redwood City Member, City Council, District 6",
+   "office_type": "local",
+   "district": "6",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DIANE HOWARD",
+     "votes": 2131,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "133",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "72",
+   "state": "CA",
+   "title": "City of San Bruno Mayor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "RICO E. MEDINA",
+     "votes": 5979,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "134",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "73",
+   "state": "CA",
+   "title": "City of San Bruno Member, City Council, District 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "KINGSLEY MA",
+     "votes": 1317,
+     "party": null,
+     "pct": 60.39,
+     "choice_id": "136",
+     "party_lines": null
+    },
+    {
+     "name": "JENNIFER M. BLANCO",
+     "votes": 864,
+     "party": null,
+     "pct": 39.61,
+     "choice_id": "135",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "74",
+   "state": "CA",
+   "title": "City of San Bruno Member, City Council, District 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "MARTY P. MEDINA",
+     "votes": 645,
+     "party": null,
+     "pct": 54.52,
+     "choice_id": "138",
+     "party_lines": null
+    },
+    {
+     "name": "AUROS HARMAN",
+     "votes": 538,
+     "party": null,
+     "pct": 45.48,
+     "choice_id": "137",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "75",
+   "state": "CA",
+   "title": "City of San Carlos Member, City Council",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "SARA MCDOWELL",
+     "votes": 5157,
+     "party": null,
+     "pct": 30.05,
+     "choice_id": "142",
+     "party_lines": null
+    },
+    {
+     "name": "ADAM RAK",
+     "votes": 4919,
+     "party": null,
+     "pct": 28.66,
+     "choice_id": "140",
+     "party_lines": null
+    },
+    {
+     "name": "PRANITA VENKATESH",
+     "votes": 4410,
+     "party": null,
+     "pct": 25.7,
+     "choice_id": "141",
+     "party_lines": null
+    },
+    {
+     "name": "MARK D. IWANOWSKI",
+     "votes": 2676,
+     "party": null,
+     "pct": 15.59,
+     "choice_id": "139",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "76",
+   "state": "CA",
+   "title": "City of San Mateo Member, City Council, District 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "LISA DIAZ NASH",
+     "votes": 2624,
+     "party": null,
+     "pct": 60.46,
+     "choice_id": "144",
+     "party_lines": null
+    },
+    {
+     "name": "TASO ZOGRAFOS",
+     "votes": 1716,
+     "party": null,
+     "pct": 39.54,
+     "choice_id": "143",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "77",
+   "state": "CA",
+   "title": "City of San Mateo Member, City Council, District 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "SEEMA PATEL",
+     "votes": 2060,
+     "party": null,
+     "pct": 62.24,
+     "choice_id": "145",
+     "party_lines": null
+    },
+    {
+     "name": "ROBERT G. NEWSOM JR.",
+     "votes": 1250,
+     "party": null,
+     "pct": 37.76,
+     "choice_id": "146",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "78",
+   "state": "CA",
+   "title": "City of San Mateo Member, City Council, District 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DANA YATES SAHAE",
+     "votes": 1670,
+     "party": null,
+     "pct": 39.49,
+     "choice_id": "149",
+     "party_lines": null
+    },
+    {
+     "name": "ADAM LORAINE",
+     "votes": 1665,
+     "party": null,
+     "pct": 39.37,
+     "choice_id": "148",
+     "party_lines": null
+    },
+    {
+     "name": "DAVE JOHNSON",
+     "votes": 894,
+     "party": null,
+     "pct": 21.14,
+     "choice_id": "147",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "79",
+   "state": "CA",
+   "title": "City of South San Francisco Member, City Council, District 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "AYSHA DOMINGUEZ PAMUKCU",
+     "votes": 1814,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "150",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "80",
+   "state": "CA",
+   "title": "City of South San Francisco Member, City Council, District 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "BUENAFLOR (FLOR) NICOLAS",
+     "votes": 961,
+     "party": null,
+     "pct": 51.47,
+     "choice_id": "153",
+     "party_lines": null
+    },
+    {
+     "name": "MELANIE OLSON",
+     "votes": 671,
+     "party": null,
+     "pct": 35.94,
+     "choice_id": "152",
+     "party_lines": null
+    },
+    {
+     "name": "SOPHIA CYRIS",
+     "votes": 235,
+     "party": null,
+     "pct": 12.59,
+     "choice_id": "151",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "81",
+   "state": "CA",
+   "title": "City of South San Francisco Member, City Council, District 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "EDDIE FLORES",
+     "votes": 1267,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "154",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "82",
+   "state": "CA",
+   "title": "City of South San Francisco City Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ROSA GOVEA ACOSTA",
+     "votes": 8936,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "155",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "83",
+   "state": "CA",
+   "title": "City of South San Francisco City Treasurer",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "FRANK RISSO",
+     "votes": 8949,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "156",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "84",
+   "state": "CA",
+   "title": "Town of Woodside Member, Town Council, District 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "LYLE WEAVER",
+     "votes": 247,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "157",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "85",
+   "state": "CA",
+   "title": "Town of Woodside Member, Town Council, District 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DANIEL DRUKER",
+     "votes": 226,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "158",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "86",
+   "state": "CA",
+   "title": "Coastside County Water District Member, Board of Directors, Zone 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JOEY P. SILVA",
+     "votes": 679,
+     "party": null,
+     "pct": 64.79,
+     "choice_id": "160",
+     "party_lines": null
+    },
+    {
+     "name": "NANCY ELEANORA POSS",
+     "votes": 369,
+     "party": null,
+     "pct": 35.21,
+     "choice_id": "159",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "87",
+   "state": "CA",
+   "title": "Coastside Fire Protection District Member, Board of Directors, District D",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "CYNTHIA SHERRILL",
+     "votes": 528,
+     "party": null,
+     "pct": 52.28,
+     "choice_id": "161",
+     "party_lines": null
+    },
+    {
+     "name": "RYAN MCGRAW",
+     "votes": 482,
+     "party": null,
+     "pct": 47.72,
+     "choice_id": "162",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "88",
+   "state": "CA",
+   "title": "Coastside Fire Protection District Member, Board of Directors, District E",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "GARY BURKE",
+     "votes": 655,
+     "party": null,
+     "pct": 56.71,
+     "choice_id": "164",
+     "party_lines": null
+    },
+    {
+     "name": "ALEX CARRILLO",
+     "votes": 500,
+     "party": null,
+     "pct": 43.29,
+     "choice_id": "163",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "89",
+   "state": "CA",
+   "title": "Granada Community Services District Member, Board of Directors",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "MATT ALLEN",
+     "votes": 1281,
+     "party": null,
+     "pct": 28.22,
+     "choice_id": "165",
+     "party_lines": null
+    },
+    {
+     "name": "BARBARA DYE",
+     "votes": 1216,
+     "party": null,
+     "pct": 26.79,
+     "choice_id": "166",
+     "party_lines": null
+    },
+    {
+     "name": "PATRICK TIERNEY",
+     "votes": 1197,
+     "party": null,
+     "pct": 26.37,
+     "choice_id": "168",
+     "party_lines": null
+    },
+    {
+     "name": "KEVIN W. SNIECINSKI",
+     "votes": 845,
+     "party": null,
+     "pct": 18.62,
+     "choice_id": "167",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "90",
+   "state": "CA",
+   "title": "Proposition 1 (Majority Approval Required)",
+   "office_type": "measure",
+   "district": "1",
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 92984,
+     "party": null,
+     "pct": 64.38,
+     "choice_id": "169",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 51453,
+     "party": null,
+     "pct": 35.62,
+     "choice_id": "170",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "91",
+   "state": "CA",
+   "title": "Proposition 2 (Majority Approval Required)",
+   "office_type": "measure",
+   "district": "2",
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 98103,
+     "party": null,
+     "pct": 68.1,
+     "choice_id": "171",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 45964,
+     "party": null,
+     "pct": 31.9,
+     "choice_id": "172",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "92",
+   "state": "CA",
+   "title": "Proposition 3 (Majority Approval Required)",
+   "office_type": "measure",
+   "district": "3",
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 89464,
+     "party": null,
+     "pct": 61.6,
+     "choice_id": "173",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 55780,
+     "party": null,
+     "pct": 38.4,
+     "choice_id": "174",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "93",
+   "state": "CA",
+   "title": "Proposition 4 (Majority Approval Required)",
+   "office_type": "measure",
+   "district": "4",
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 72720,
+     "party": null,
+     "pct": 51.28,
+     "choice_id": "175",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 69091,
+     "party": null,
+     "pct": 48.72,
+     "choice_id": "176",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "94",
+   "state": "CA",
+   "title": "Proposition 5 (Majority Approval Required)",
+   "office_type": "measure",
+   "district": "5",
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 74299,
+     "party": null,
+     "pct": 54.24,
+     "choice_id": "177",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 62686,
+     "party": null,
+     "pct": 45.76,
+     "choice_id": "178",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "95",
+   "state": "CA",
+   "title": "Proposition 37 (Majority Approval Required)",
+   "office_type": "measure",
+   "district": "37",
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 93587,
+     "party": null,
+     "pct": 65.38,
+     "choice_id": "179",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 49567,
+     "party": null,
+     "pct": 34.62,
+     "choice_id": "180",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "96",
+   "state": "CA",
+   "title": "Proposition 38 (Majority Approval Required)",
+   "office_type": "measure",
+   "district": "38",
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 78722,
+     "party": null,
+     "pct": 54.75,
+     "choice_id": "181",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 65056,
+     "party": null,
+     "pct": 45.25,
+     "choice_id": "182",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "97",
+   "state": "CA",
+   "title": "Proposition 39 (Majority Approval Required)",
+   "office_type": "measure",
+   "district": "39",
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 99459,
+     "party": null,
+     "pct": 68.03,
+     "choice_id": "184",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 46743,
+     "party": null,
+     "pct": 31.97,
+     "choice_id": "183",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "98",
+   "state": "CA",
+   "title": "Proposition 40 (Majority Approval Required)",
+   "office_type": "measure",
+   "district": "40",
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 81369,
+     "party": null,
+     "pct": 55.51,
+     "choice_id": "186",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 65220,
+     "party": null,
+     "pct": 44.49,
+     "choice_id": "185",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "99",
+   "state": "CA",
+   "title": "Proposition 41 (Majority Approval Required)",
+   "office_type": "measure",
+   "district": "41",
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 82968,
+     "party": null,
+     "pct": 58.35,
+     "choice_id": "188",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 59234,
+     "party": null,
+     "pct": 41.65,
+     "choice_id": "187",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "100",
+   "state": "CA",
+   "title": "Proposition 42 (Majority Approval Required)",
+   "office_type": "measure",
+   "district": "42",
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 72191,
+     "party": null,
+     "pct": 50.08,
+     "choice_id": "190",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 71956,
+     "party": null,
+     "pct": 49.92,
+     "choice_id": "189",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "101",
+   "state": "CA",
+   "title": "Proposition 43 (Majority Approval Required)",
+   "office_type": "measure",
+   "district": "43",
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 84172,
+     "party": null,
+     "pct": 59.59,
+     "choice_id": "192",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 57075,
+     "party": null,
+     "pct": 40.41,
+     "choice_id": "191",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "102",
+   "state": "CA",
+   "title": "Proposition 44 (Majority Approval Required)",
+   "office_type": "measure",
+   "district": "44",
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 116702,
+     "party": null,
+     "pct": 82.92,
+     "choice_id": "194",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 24045,
+     "party": null,
+     "pct": 17.08,
+     "choice_id": "193",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "103",
+   "state": "CA",
+   "title": "Proposition 45 (Majority Approval Required)",
+   "office_type": "measure",
+   "district": "45",
+   "jurisdiction": "San Mateo County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 85609,
+     "party": null,
+     "pct": 60.85,
+     "choice_id": "196",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 55081,
+     "party": null,
+     "pct": 39.15,
+     "choice_id": "195",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "104",
+   "state": "CA",
+   "title": "Regional Transit Measure (Majority Approval Required)",
+   "office_type": "measure",
+   "district": "regional transit measure majority approval required",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 82892,
+     "party": null,
+     "pct": 59.58,
+     "choice_id": "197",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 56227,
+     "party": null,
+     "pct": 40.42,
+     "choice_id": "198",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "105",
+   "state": "CA",
+   "title": "San Mateo County Community College District, Measure V (55 Percent Approval Required)",
+   "office_type": "measure",
+   "district": "v",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 89075,
+     "party": null,
+     "pct": 64.08,
+     "choice_id": "199",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 49923,
+     "party": null,
+     "pct": 35.92,
+     "choice_id": "200",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "106",
+   "state": "CA",
+   "title": "Cabrillo Unified School District, Measure Z (2/3 Approval Required)",
+   "office_type": "measure",
+   "district": "z",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 4996,
+     "party": null,
+     "pct": 70.06,
+     "choice_id": "201",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 2135,
+     "party": null,
+     "pct": 29.94,
+     "choice_id": "202",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "107",
+   "state": "CA",
+   "title": "Jefferson Union High School District, Measure M (2/3 Approval Required)",
+   "office_type": "measure",
+   "district": "m",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 15182,
+     "party": null,
+     "pct": 68.14,
+     "choice_id": "203",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 7099,
+     "party": null,
+     "pct": 31.86,
+     "choice_id": "204",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "108",
+   "state": "CA",
+   "title": "Burlingame School District, Measure R (55 Percent Approval Required)",
+   "office_type": "measure",
+   "district": "r",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 4532,
+     "party": null,
+     "pct": 68.02,
+     "choice_id": "205",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 2131,
+     "party": null,
+     "pct": 31.98,
+     "choice_id": "206",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "109",
+   "state": "CA",
+   "title": "Pacifica School District, Measure T (2/3 Approval Required)",
+   "office_type": "measure",
+   "district": "t",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 6133,
+     "party": null,
+     "pct": 65.66,
+     "choice_id": "207",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 3208,
+     "party": null,
+     "pct": 34.34,
+     "choice_id": "208",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "110",
+   "state": "CA",
+   "title": "San Carlos School District, Measure K (2/3 Approval Required)",
+   "office_type": "measure",
+   "district": "k",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 4984,
+     "party": null,
+     "pct": 69.4,
+     "choice_id": "209",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 2198,
+     "party": null,
+     "pct": 30.6,
+     "choice_id": "210",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "111",
+   "state": "CA",
+   "title": "San Mateo-Foster City School District, Measure W (55 Percent Approval Required)",
+   "office_type": "measure",
+   "district": "w",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 14902,
+     "party": null,
+     "pct": 60.41,
+     "choice_id": "211",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 9765,
+     "party": null,
+     "pct": 39.59,
+     "choice_id": "212",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "112",
+   "state": "CA",
+   "title": "County of San Mateo, Measure L (Majority Approval Required)",
+   "office_type": "measure",
+   "district": "l",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 88150,
+     "party": null,
+     "pct": 69.07,
+     "choice_id": "213",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 39471,
+     "party": null,
+     "pct": 30.93,
+     "choice_id": "214",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "113",
+   "state": "CA",
+   "title": "County of San Mateo, Measure AA (Majority Approval Required)",
+   "office_type": "measure",
+   "district": "aa",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 92480,
+     "party": null,
+     "pct": 71.45,
+     "choice_id": "215",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 36953,
+     "party": null,
+     "pct": 28.55,
+     "choice_id": "216",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "114",
+   "state": "CA",
+   "title": "County of San Mateo, Measure J (Majority Approval Required)",
+   "office_type": "measure",
+   "district": "j",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 93564,
+     "party": null,
+     "pct": 73.35,
+     "choice_id": "217",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 33992,
+     "party": null,
+     "pct": 26.65,
+     "choice_id": "218",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "115",
+   "state": "CA",
+   "title": "County of San Mateo, Measure U (Majority Approval Required)",
+   "office_type": "measure",
+   "district": "u",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 105692,
+     "party": null,
+     "pct": 80.62,
+     "choice_id": "219",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 25411,
+     "party": null,
+     "pct": 19.38,
+     "choice_id": "220",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "116",
+   "state": "CA",
+   "title": "City of Belmont, Measure Y (Majority Approval Required)",
+   "office_type": "measure",
+   "district": "y",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 3311,
+     "party": null,
+     "pct": 55.26,
+     "choice_id": "222",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 2681,
+     "party": null,
+     "pct": 44.74,
+     "choice_id": "221",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "117",
+   "state": "CA",
+   "title": "City of Brisbane, Measure X (Majority Approval Required)",
+   "office_type": "measure",
+   "district": "x",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 663,
+     "party": null,
+     "pct": 72.14,
+     "choice_id": "223",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 256,
+     "party": null,
+     "pct": 27.86,
+     "choice_id": "224",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "118",
+   "state": "CA",
+   "title": "City of Burlingame, Measure D (Majority Approval Required)",
+   "office_type": "measure",
+   "district": "d",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 4969,
+     "party": null,
+     "pct": 77.64,
+     "choice_id": "225",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 1431,
+     "party": null,
+     "pct": 22.36,
+     "choice_id": "226",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "119",
+   "state": "CA",
+   "title": "City of East Palo Alto, Measure O (2/3 Approval Required)",
+   "office_type": "measure",
+   "district": "o",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1949,
+     "party": null,
+     "pct": 72.45,
+     "choice_id": "227",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 741,
+     "party": null,
+     "pct": 27.55,
+     "choice_id": "228",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "120",
+   "state": "CA",
+   "title": "City of East Palo Alto, Measure CC (Majority Approval Required)",
+   "office_type": "measure",
+   "district": "cc",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1777,
+     "party": null,
+     "pct": 67.13,
+     "choice_id": "229",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 870,
+     "party": null,
+     "pct": 32.87,
+     "choice_id": "230",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "121",
+   "state": "CA",
+   "title": "City of Half Moon Bay, Measure I (Majority Approval Required)",
+   "office_type": "measure",
+   "district": "i",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1941,
+     "party": null,
+     "pct": 65.13,
+     "choice_id": "231",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 1039,
+     "party": null,
+     "pct": 34.87,
+     "choice_id": "232",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "122",
+   "state": "CA",
+   "title": "City of Half Moon Bay, Measure Q (Majority Approval Required)",
+   "office_type": "measure",
+   "district": "q",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 1672,
+     "party": null,
+     "pct": 50.98,
+     "choice_id": "234",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 1608,
+     "party": null,
+     "pct": 49.02,
+     "choice_id": "233",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "123",
+   "state": "CA",
+   "title": "City of Menlo Park, Measure P (Majority Approval Required)",
+   "office_type": "measure",
+   "district": "p",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 3799,
+     "party": null,
+     "pct": 52.23,
+     "choice_id": "236",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 3474,
+     "party": null,
+     "pct": 47.77,
+     "choice_id": "235",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "124",
+   "state": "CA",
+   "title": "City of Pacifica, Measure BB (Majority Approval Required)",
+   "office_type": "measure",
+   "district": "bb",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 5807,
+     "party": null,
+     "pct": 60.21,
+     "choice_id": "237",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 3837,
+     "party": null,
+     "pct": 39.79,
+     "choice_id": "238",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "125",
+   "state": "CA",
+   "title": "Town of Portola Valley, Measure N (Majority Approval Required)",
+   "office_type": "measure",
+   "district": "n",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 994,
+     "party": null,
+     "pct": 62.99,
+     "choice_id": "239",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 584,
+     "party": null,
+     "pct": 37.01,
+     "choice_id": "240",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "126",
+   "state": "CA",
+   "title": "City of Redwood City, Measure E (Majority Approval Required)",
+   "office_type": "measure",
+   "district": "e",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 8164,
+     "party": null,
+     "pct": 56.26,
+     "choice_id": "242",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 6348,
+     "party": null,
+     "pct": 43.74,
+     "choice_id": "241",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "127",
+   "state": "CA",
+   "title": "City of San Bruno, Measure S (Majority Approval Required)",
+   "office_type": "measure",
+   "district": "s",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 4712,
+     "party": null,
+     "pct": 64.16,
+     "choice_id": "243",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 2632,
+     "party": null,
+     "pct": 35.84,
+     "choice_id": "244",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "128",
+   "state": "CA",
+   "title": "City of San Bruno, Measure DD (Majority Approval Required)",
+   "office_type": "measure",
+   "district": "dd",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 4822,
+     "party": null,
+     "pct": 63.31,
+     "choice_id": "246",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 2795,
+     "party": null,
+     "pct": 36.69,
+     "choice_id": "245",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "129",
+   "state": "CA",
+   "title": "City of San Bruno, Measure EE (Majority Approval Required)",
+   "office_type": "measure",
+   "district": "ee",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 4838,
+     "party": null,
+     "pct": 64.97,
+     "choice_id": "247",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 2608,
+     "party": null,
+     "pct": 35.03,
+     "choice_id": "248",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "130",
+   "state": "CA",
+   "title": "City of San Carlos, Measure G (Majority Approval Required)",
+   "office_type": "measure",
+   "district": "g",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 4267,
+     "party": null,
+     "pct": 54.94,
+     "choice_id": "249",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 3499,
+     "party": null,
+     "pct": 45.06,
+     "choice_id": "250",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "131",
+   "state": "CA",
+   "title": "City of San Mateo, Measure H (Majority Approval Required)",
+   "office_type": "measure",
+   "district": "h",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 10950,
+     "party": null,
+     "pct": 59.39,
+     "choice_id": "251",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 7486,
+     "party": null,
+     "pct": 40.61,
+     "choice_id": "252",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ca.san_mateo",
+   "contest_id": "132",
+   "state": "CA",
+   "title": "City of San Mateo, Measure F (Majority Approval Required)",
+   "office_type": "measure",
+   "district": "f",
+   "jurisdiction": "San Mateo County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 13609,
+     "party": null,
+     "pct": 79.77,
+     "choice_id": "253",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 3451,
+     "party": null,
+     "pct": 20.23,
+     "choice_id": "254",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  }
+ ],
+ "contests_hash": "67ce2ab4eb5e94ef",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-04T15:00:13+00:00",
+ "fetched_at": "2026-11-04T15:00:13+00:00",
+ "contests_changed_at": "2026-11-04T14:55:34+00:00"
+}

@@ -1,0 +1,3042 @@
+{
+ "source": "ny.monroe",
+ "contests": [
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-4c7d-08df1feafbf3",
+   "state": "NY",
+   "title": "Governor and Lieutenant Governor",
+   "office_type": "governor",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 659,
+    "pct": 0.0,
+    "text": "0 of 659 precincts fully reported, 659 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Kathy C Hochul Adrienne E Adams",
+     "votes": 167130,
+     "party": "DEM",
+     "pct": 61.29,
+     "choice_id": "01000000-fff9-9fc1-5b01-08df1feafbf3",
+     "party_lines": {
+      "DEM": 151888,
+      "WFP": 15242
+     }
+    },
+    {
+     "name": "Bruce A Blakeman Todd Hood",
+     "votes": 102823,
+     "party": "REP",
+     "pct": 37.71,
+     "choice_id": "01000000-fff9-9fc1-6a5d-08df1feafbf3",
+     "party_lines": {
+      "REP": 87703,
+      "CONSERVATIVE": 15120
+     }
+    },
+    {
+     "name": "VOT Bruce A Blakeman Todd Hood",
+     "votes": 1988,
+     "party": "VOTE AFFORDA",
+     "pct": 0.73,
+     "choice_id": "01000000-fff9-9fc1-7c53-08df1feafbf3",
+     "party_lines": {
+      "VOTE AFFORDA": 1988
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 749,
+     "party": null,
+     "pct": 0.27,
+     "choice_id": "01000000-fff9-9fc1-828f-08df1feafbf3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-c289-08df1feafbf9",
+   "state": "NY",
+   "title": "Comptroller",
+   "office_type": "controller",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 659,
+    "pct": 0.0,
+    "text": "0 of 659 precincts fully reported, 659 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Thomas P DiNapoli",
+     "votes": 175932,
+     "party": "DEM",
+     "pct": 65.06,
+     "choice_id": "01000000-fff9-9fc1-c337-08df1feafbf9",
+     "party_lines": {
+      "DEM": 157372,
+      "WFP": 18560
+     }
+    },
+    {
+     "name": "Joseph Hernandez",
+     "votes": 94322,
+     "party": "REP",
+     "pct": 34.88,
+     "choice_id": "01000000-fff9-9fc1-c9ae-08df1feafbf9",
+     "party_lines": {
+      "REP": 78102,
+      "CONSERVATIVE": 16220
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 180,
+     "party": null,
+     "pct": 0.07,
+     "choice_id": "01000000-fff9-9fc1-dce3-08df1feafbf9",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-05d9-08df1feafbfa",
+   "state": "NY",
+   "title": "Attorney General",
+   "office_type": "attorney_general",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 659,
+    "pct": 0.0,
+    "text": "0 of 659 precincts fully reported, 659 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Letitia A James",
+     "votes": 164923,
+     "party": "DEM",
+     "pct": 60.69,
+     "choice_id": "01000000-fff9-9fc1-0625-08df1feafbfa",
+     "party_lines": {
+      "DEM": 148542,
+      "WFP": 16381
+     }
+    },
+    {
+     "name": "Saritha Komatireddy",
+     "votes": 106649,
+     "party": "REP",
+     "pct": 39.24,
+     "choice_id": "01000000-fff9-9fc1-0c74-08df1feafbfa",
+     "party_lines": {
+      "REP": 88358,
+      "CONSERVATIVE": 18291
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 189,
+     "party": null,
+     "pct": 0.07,
+     "choice_id": "01000000-fff9-9fc1-1e4f-08df1feafbfa",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-8f99-08df1feafbfa",
+   "state": "NY",
+   "title": "State Senator 54th District",
+   "office_type": "state_senate",
+   "district": "54",
+   "jurisdiction": "Monroe County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 48,
+    "pct": 0.0,
+    "text": "0 of 48 precincts fully reported, 48 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Michael Mills",
+     "votes": 11478,
+     "party": "DEM",
+     "pct": 48.14,
+     "choice_id": "01000000-fff9-9fc1-8fe7-08df1feafbfa",
+     "party_lines": {
+      "DEM": 11478
+     }
+    },
+    {
+     "name": "Pamela A Helming",
+     "votes": 12355,
+     "party": "REP",
+     "pct": 51.82,
+     "choice_id": "01000000-fff9-9fc1-9094-08df1feafbfa",
+     "party_lines": {
+      "REP": 10121,
+      "CONSERVATIVE": 2234
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 10,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-fff9-9fc1-91ad-08df1feafbfa",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-a46b-08df1feafbfa",
+   "state": "NY",
+   "title": "State Senator 55th District",
+   "office_type": "state_senate",
+   "district": "55",
+   "jurisdiction": "Monroe County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 281,
+    "pct": 0.0,
+    "text": "0 of 281 precincts fully reported, 281 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Samra G Brouk",
+     "votes": 83257,
+     "party": "DEM",
+     "pct": 66.56,
+     "choice_id": "01000000-fff9-9fc1-a48a-08df1feafbfa",
+     "party_lines": {
+      "DEM": 74490,
+      "WFP": 8767
+     }
+    },
+    {
+     "name": "Chris Brown",
+     "votes": 41740,
+     "party": "REP",
+     "pct": 33.37,
+     "choice_id": "01000000-fff9-9fc1-a749-08df1feafbfa",
+     "party_lines": {
+      "REP": 34744,
+      "CONSERVATIVE": 6996
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 85,
+     "party": null,
+     "pct": 0.07,
+     "choice_id": "01000000-fff9-9fc1-aebd-08df1feafbfa",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-fba8-08df1feafbfa",
+   "state": "NY",
+   "title": "State Senator 56th District",
+   "office_type": "state_senate",
+   "district": "56",
+   "jurisdiction": "Monroe County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 271,
+    "pct": 0.0,
+    "text": "0 of 271 precincts fully reported, 271 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Jeremy A Cooney",
+     "votes": 64476,
+     "party": "DEM",
+     "pct": 66.65,
+     "choice_id": "01000000-fff9-9fc1-fbc9-08df1feafbfa",
+     "party_lines": {
+      "DEM": 58065,
+      "WFP": 6411
+     }
+    },
+    {
+     "name": "Orlando Rivera",
+     "votes": 32200,
+     "party": "REP",
+     "pct": 33.29,
+     "choice_id": "01000000-fff9-9fc1-fe79-08df1feafbfa",
+     "party_lines": {
+      "REP": 26884,
+      "CONSERVATIVE": 5316
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 62,
+     "party": null,
+     "pct": 0.06,
+     "choice_id": "01000000-fff9-9fc1-05bc-08df1feafbfb",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-5470-08df1feafbfb",
+   "state": "NY",
+   "title": "State Senator 62nd District",
+   "office_type": "state_senate",
+   "district": "62",
+   "jurisdiction": "Monroe County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 59,
+    "pct": 0.0,
+    "text": "0 of 59 precincts fully reported, 59 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Thomas E Arida",
+     "votes": 10129,
+     "party": "DEM",
+     "pct": 39.16,
+     "choice_id": "01000000-fff9-9fc1-54bd-08df1feafbfb",
+     "party_lines": {
+      "DEM": 9168,
+      "WFP": 961
+     }
+    },
+    {
+     "name": "Robert G Ortt",
+     "votes": 15730,
+     "party": "REP",
+     "pct": 60.82,
+     "choice_id": "01000000-fff9-9fc1-557d-08df1feafbfb",
+     "party_lines": {
+      "REP": 13006,
+      "CONSERVATIVE": 2724
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 5,
+     "party": null,
+     "pct": 0.02,
+     "choice_id": "01000000-fff9-9fc1-578a-08df1feafbfb",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-7308-08df1feafbfb",
+   "state": "NY",
+   "title": "Member of Assembly 130th District",
+   "office_type": "state_house",
+   "district": "130",
+   "jurisdiction": "Monroe County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 37,
+    "pct": 0.0,
+    "text": "0 of 37 precincts fully reported, 37 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Carl Fitzsimmons",
+     "votes": 10744,
+     "party": "DEM",
+     "pct": 51.03,
+     "choice_id": "01000000-fff9-9fc1-7337-08df1feafbfb",
+     "party_lines": {
+      "DEM": 10744
+     }
+    },
+    {
+     "name": "George Dobbins",
+     "votes": 9805,
+     "party": "REP",
+     "pct": 46.57,
+     "choice_id": "01000000-fff9-9fc1-73a6-08df1feafbfb",
+     "party_lines": {
+      "REP": 8248,
+      "CONSERVATIVE": 1557
+     }
+    },
+    {
+     "name": "COS Joseph Lamanna",
+     "votes": 497,
+     "party": "COMMON SENSE",
+     "pct": 2.36,
+     "choice_id": "01000000-fff9-9fc1-748c-08df1feafbfb",
+     "party_lines": {
+      "COMMON SENSE": 497
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-fff9-9fc1-74f9-08df1feafbfb",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-faac-08df1feafbfb",
+   "state": "NY",
+   "title": "Member of Assembly 136th District",
+   "office_type": "state_house",
+   "district": "136",
+   "jurisdiction": "Monroe County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 122,
+    "pct": 0.0,
+    "text": "0 of 122 precincts fully reported, 122 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Sarah H Clark",
+     "votes": 35709,
+     "party": "DEM",
+     "pct": 73.96,
+     "choice_id": "01000000-fff9-9fc1-facc-08df1feafbfb",
+     "party_lines": {
+      "DEM": 31381,
+      "WFP": 4328
+     }
+    },
+    {
+     "name": "Clianda Florence",
+     "votes": 12538,
+     "party": "REP",
+     "pct": 25.97,
+     "choice_id": "01000000-fff9-9fc1-fbf1-08df1feafbfb",
+     "party_lines": {
+      "REP": 10500,
+      "CONSERVATIVE": 2038
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 36,
+     "party": null,
+     "pct": 0.07,
+     "choice_id": "01000000-fff9-9fc1-ff7c-08df1feafbfb",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-8627-08df1feafbfb",
+   "state": "NY",
+   "title": "Member of Assembly 133rd District",
+   "office_type": "state_house",
+   "district": "133",
+   "jurisdiction": "Monroe County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported, 4 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Gladys Flores",
+     "votes": 834,
+     "party": "DEM",
+     "pct": 44.39,
+     "choice_id": "01000000-fff9-9fc1-8643-08df1feafbfb",
+     "party_lines": {
+      "DEM": 834
+     }
+    },
+    {
+     "name": "Andrea K Bailey",
+     "votes": 1045,
+     "party": "REP",
+     "pct": 55.61,
+     "choice_id": "01000000-fff9-9fc1-866c-08df1feafbfb",
+     "party_lines": {
+      "REP": 840,
+      "CONSERVATIVE": 205
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-8985-08df1feafbfb",
+   "state": "NY",
+   "title": "Member of Assembly 134th District",
+   "office_type": "state_house",
+   "district": "134",
+   "jurisdiction": "Monroe County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 131,
+    "pct": 0.0,
+    "text": "0 of 131 precincts fully reported, 131 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Kurt VanWuyckhuyse",
+     "votes": 22533,
+     "party": "DEM",
+     "pct": 44.11,
+     "choice_id": "01000000-fff9-9fc1-89a3-08df1feafbfb",
+     "party_lines": {
+      "DEM": 20535,
+      "WFP": 1998
+     }
+    },
+    {
+     "name": "Josh Jensen",
+     "votes": 28528,
+     "party": "REP",
+     "pct": 55.85,
+     "choice_id": "01000000-fff9-9fc1-8b01-08df1feafbfb",
+     "party_lines": {
+      "REP": 23620,
+      "CONSERVATIVE": 4908
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 23,
+     "party": null,
+     "pct": 0.05,
+     "choice_id": "01000000-fff9-9fc1-8eab-08df1feafbfb",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-c9fd-08df1feafbfb",
+   "state": "NY",
+   "title": "Member of Assembly 135th District",
+   "office_type": "state_house",
+   "district": "135",
+   "jurisdiction": "Monroe County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 118,
+    "pct": 0.0,
+    "text": "0 of 118 precincts fully reported, 118 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Jen Lunsford",
+     "votes": 40098,
+     "party": "DEM",
+     "pct": 64.02,
+     "choice_id": "01000000-fff9-9fc1-ca35-08df1feafbfb",
+     "party_lines": {
+      "DEM": 36884,
+      "WFP": 3214
+     }
+    },
+    {
+     "name": "Kalinda Washington",
+     "votes": 22498,
+     "party": "REP",
+     "pct": 35.92,
+     "choice_id": "01000000-fff9-9fc1-cb58-08df1feafbfb",
+     "party_lines": {
+      "REP": 18648,
+      "CONSERVATIVE": 3850
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 33,
+     "party": null,
+     "pct": 0.05,
+     "choice_id": "01000000-fff9-9fc1-ce9d-08df1feafbfb",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-2fc0-08df1feafbfc",
+   "state": "NY",
+   "title": "Member of Assembly 137th District",
+   "office_type": "state_house",
+   "district": "137",
+   "jurisdiction": "Monroe County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 100,
+    "pct": 0.0,
+    "text": "0 of 100 precincts fully reported, 100 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Demond L Meeks",
+     "votes": 19602,
+     "party": "DEM",
+     "pct": 73.29,
+     "choice_id": "01000000-fff9-9fc1-2fe1-08df1feafbfc",
+     "party_lines": {
+      "DEM": 17904,
+      "WFP": 1698
+     }
+    },
+    {
+     "name": "Dave Ferris",
+     "votes": 6034,
+     "party": "REP",
+     "pct": 22.56,
+     "choice_id": "01000000-fff9-9fc1-30ee-08df1feafbfc",
+     "party_lines": {
+      "REP": 5143,
+      "CONSERVATIVE": 891
+     }
+    },
+    {
+     "name": "MSC Mercedes Vazquez-Simmons",
+     "votes": 1094,
+     "party": "MERCEDES SIM",
+     "pct": 4.09,
+     "choice_id": "01000000-fff9-9fc1-33e8-08df1feafbfc",
+     "party_lines": {
+      "MERCEDES SIM": 1094
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 15,
+     "party": null,
+     "pct": 0.06,
+     "choice_id": "01000000-fff9-9fc1-3509-08df1feafbfc",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-634d-08df1feafbfc",
+   "state": "NY",
+   "title": "Member of Assembly 138th District",
+   "office_type": "state_house",
+   "district": "138",
+   "jurisdiction": "Monroe County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 114,
+    "pct": 0.0,
+    "text": "0 of 114 precincts fully reported, 114 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Harry B Bronson",
+     "votes": 31722,
+     "party": "DEM",
+     "pct": 67.78,
+     "choice_id": "01000000-fff9-9fc1-6384-08df1feafbfc",
+     "party_lines": {
+      "DEM": 27308,
+      "WFP": 4414
+     }
+    },
+    {
+     "name": "Tracy DiFlorio",
+     "votes": 15022,
+     "party": "REP",
+     "pct": 32.1,
+     "choice_id": "01000000-fff9-9fc1-64b7-08df1feafbfc",
+     "party_lines": {
+      "REP": 15022
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 55,
+     "party": null,
+     "pct": 0.12,
+     "choice_id": "01000000-fff9-9fc1-66eb-08df1feafbfc",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-8b41-08df1feafbfc",
+   "state": "NY",
+   "title": "Member of Assembly 139th District",
+   "office_type": "state_house",
+   "district": "139",
+   "jurisdiction": "Monroe County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 33,
+    "pct": 0.0,
+    "text": "0 of 33 precincts fully reported, 33 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Sarah R Wolcott",
+     "votes": 4950,
+     "party": "DEM",
+     "pct": 39.83,
+     "choice_id": "01000000-fff9-9fc1-8b66-08df1feafbfc",
+     "party_lines": {
+      "DEM": 4950
+     }
+    },
+    {
+     "name": "Stephen M Hawley",
+     "votes": 7471,
+     "party": "REP",
+     "pct": 60.12,
+     "choice_id": "01000000-fff9-9fc1-8bbf-08df1feafbfc",
+     "party_lines": {
+      "REP": 6100,
+      "CONSERVATIVE": 1371
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 6,
+     "party": null,
+     "pct": 0.05,
+     "choice_id": "01000000-fff9-9fc1-8c8e-08df1feafbfc",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-4e08-08df1feafbfa",
+   "state": "NY",
+   "title": "Representative in Congress",
+   "office_type": "federal_house",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 659,
+    "pct": 0.0,
+    "text": "0 of 659 precincts fully reported, 659 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Joseph D Morelle",
+     "votes": 171570,
+     "party": "DEM",
+     "pct": 63.11,
+     "choice_id": "01000000-fff9-9fc1-4e5e-08df1feafbfa",
+     "party_lines": {
+      "DEM": 154844,
+      "WFP": 16726
+     }
+    },
+    {
+     "name": "Virginia E Mclntyre",
+     "votes": 99523,
+     "party": "REP",
+     "pct": 36.61,
+     "choice_id": "01000000-fff9-9fc1-5484-08df1feafbfa",
+     "party_lines": {
+      "REP": 82579,
+      "CONSERVATIVE": 16944
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 765,
+     "party": null,
+     "pct": 0.28,
+     "choice_id": "01000000-fff9-9fc1-664c-08df1feafbfa",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-9a35-08df1feafbfc",
+   "state": "NY",
+   "title": "District Attorney",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 659,
+    "pct": 0.0,
+    "text": "0 of 659 precincts fully reported, 659 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Brian Green",
+     "votes": 200575,
+     "party": "DEM",
+     "pct": 98.19,
+     "choice_id": "01000000-fff9-9fc1-9a51-08df1feafbfc",
+     "party_lines": {
+      "DEM": 200575
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3705,
+     "party": null,
+     "pct": 1.81,
+     "choice_id": "01000000-fff9-9fc1-a07a-08df1feafbfc",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-c572-08df1feafbfc",
+   "state": "NY",
+   "title": "City Court Judge Rochester",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 171,
+    "pct": 0.0,
+    "text": "0 of 171 precincts fully reported, 171 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Maija C Dixon",
+     "votes": 38667,
+     "party": "DEM",
+     "pct": 99.23,
+     "choice_id": "01000000-fff9-9fc1-c593-08df1feafbfc",
+     "party_lines": {
+      "DEM": 38667
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 301,
+     "party": null,
+     "pct": 0.77,
+     "choice_id": "01000000-fff9-9fc1-c741-08df1feafbfc",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-df57-08df1feafbfc",
+   "state": "NY",
+   "title": "Supervisor Brighton",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 38,
+    "pct": 0.0,
+    "text": "0 of 38 precincts fully reported, 38 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Nate Salzman",
+     "votes": 13140,
+     "party": "DEM",
+     "pct": 98.1,
+     "choice_id": "01000000-fff9-9fc1-df70-08df1feafbfc",
+     "party_lines": {
+      "DEM": 13140
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 255,
+     "party": null,
+     "pct": 1.9,
+     "choice_id": "01000000-fff9-9fc1-e0b9-08df1feafbfc",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-9027-08df1feafbfd",
+   "state": "NY",
+   "title": "Town Clerk Brighton",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 38,
+    "pct": 0.0,
+    "text": "0 of 38 precincts fully reported, 38 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Daniel E Aman",
+     "votes": 13378,
+     "party": "DEM",
+     "pct": 99.07,
+     "choice_id": "01000000-fff9-9fc1-9042-08df1feafbfd",
+     "party_lines": {
+      "DEM": 13378
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 126,
+     "party": null,
+     "pct": 0.93,
+     "choice_id": "01000000-fff9-9fc1-90b8-08df1feafbfd",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-e96b-08df1feafbfc",
+   "state": "NY",
+   "title": "Supervisor Chili",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 24,
+    "pct": 0.0,
+    "text": "0 of 24 precincts fully reported, 24 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Emily Kalouch",
+     "votes": 6111,
+     "party": "DEM",
+     "pct": 49.5,
+     "choice_id": "01000000-fff9-9fc1-e98b-08df1feafbfc",
+     "party_lines": {
+      "DEM": 5501,
+      "WFP": 610
+     }
+    },
+    {
+     "name": "David J Dunning",
+     "votes": 6228,
+     "party": "REP",
+     "pct": 50.45,
+     "choice_id": "01000000-fff9-9fc1-e9dd-08df1feafbfc",
+     "party_lines": {
+      "REP": 5200,
+      "CONSERVATIVE": 1028
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 6,
+     "party": null,
+     "pct": 0.05,
+     "choice_id": "01000000-fff9-9fc1-ead1-08df1feafbfc",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-994a-08df1feafbfd",
+   "state": "NY",
+   "title": "Town Clerk Chili",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 24,
+    "pct": 0.0,
+    "text": "0 of 24 precincts fully reported, 24 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Virginia L Ignatowski",
+     "votes": 9559,
+     "party": "REP",
+     "pct": 97.69,
+     "choice_id": "01000000-fff9-9fc1-996c-08df1feafbfd",
+     "party_lines": {
+      "REP": 7350,
+      "CONSERVATIVE": 2209
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 226,
+     "party": null,
+     "pct": 2.31,
+     "choice_id": "01000000-fff9-9fc1-99f8-08df1feafbfd",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-f6b2-08df1feafbfc",
+   "state": "NY",
+   "title": "Supervisor Clarkson",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported, 6 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Ursula Liotta",
+     "votes": 2176,
+     "party": "REP",
+     "pct": 98.37,
+     "choice_id": "01000000-fff9-9fc1-f6dc-08df1feafbfc",
+     "party_lines": {
+      "REP": 1681,
+      "CONSERVATIVE": 495
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 36,
+     "party": null,
+     "pct": 1.63,
+     "choice_id": "01000000-fff9-9fc1-f734-08df1feafbfc",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-1f7a-08df1feafbfe",
+   "state": "NY",
+   "title": "Town Justice Clarkson",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported, 6 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Christopher T Wilcox",
+     "votes": 2201,
+     "party": "REP",
+     "pct": 98.52,
+     "choice_id": "01000000-fff9-9fc1-1f94-08df1feafbfe",
+     "party_lines": {
+      "REP": 1688,
+      "CONSERVATIVE": 513
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 33,
+     "party": null,
+     "pct": 1.48,
+     "choice_id": "01000000-fff9-9fc1-1fde-08df1feafbfe",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-3cb0-08df1feafbfe",
+   "state": "NY",
+   "title": "Town Justice (2) East Rochester",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported, 5 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Dennis J Greco",
+     "votes": 1296,
+     "party": "DEM",
+     "pct": 29.08,
+     "choice_id": "01000000-fff9-9fc1-3ccc-08df1feafbfe",
+     "party_lines": {
+      "DEM": 1296
+     }
+    },
+    {
+     "name": "Sam Hauser",
+     "votes": 1259,
+     "party": "DEM",
+     "pct": 28.25,
+     "choice_id": "01000000-fff9-9fc1-3ced-08df1feafbfe",
+     "party_lines": {
+      "DEM": 1259
+     }
+    },
+    {
+     "name": "Shannon Pizzingrilli Romach",
+     "votes": 969,
+     "party": "REP",
+     "pct": 21.74,
+     "choice_id": "01000000-fff9-9fc1-3d06-08df1feafbfe",
+     "party_lines": {
+      "REP": 739,
+      "CONSERVATIVE": 142,
+      "WORKING FAMI": 88
+     }
+    },
+    {
+     "name": "Adrianna Flocco",
+     "votes": 931,
+     "party": "REP",
+     "pct": 20.89,
+     "choice_id": "01000000-fff9-9fc1-3d21-08df1feafbfe",
+     "party_lines": {
+      "REP": 699,
+      "CONSERVATIVE": 141,
+      "WORKING FAMI": 91
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-fff9-9fc1-3dbd-08df1feafbfe",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-fa8a-08df1feafbfc",
+   "state": "NY",
+   "title": "Supervisor Gates",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 24,
+    "pct": 0.0,
+    "text": "0 of 24 precincts fully reported, 24 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Nick Coffee",
+     "votes": 5332,
+     "party": "DEM",
+     "pct": 51.26,
+     "choice_id": "01000000-fff9-9fc1-faa5-08df1feafbfc",
+     "party_lines": {
+      "DEM": 4742,
+      "WFP": 590
+     }
+    },
+    {
+     "name": "Cosmo Giunta",
+     "votes": 5059,
+     "party": "REP",
+     "pct": 48.63,
+     "choice_id": "01000000-fff9-9fc1-faf9-08df1feafbfc",
+     "party_lines": {
+      "REP": 4344,
+      "CONSERVATIVE": 715
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 11,
+     "party": null,
+     "pct": 0.11,
+     "choice_id": "01000000-fff9-9fc1-fbd6-08df1feafbfc",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-dc46-08df1feafbfd",
+   "state": "NY",
+   "title": "Member of Town Council Greece Ward 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 24,
+    "pct": 0.0,
+    "text": "0 of 24 precincts fully reported, 24 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Ryan J McDonald",
+     "votes": 4190,
+     "party": "DEM",
+     "pct": 51.83,
+     "choice_id": "01000000-fff9-9fc1-dc62-08df1feafbfd",
+     "party_lines": {
+      "DEM": 3798,
+      "WFP": 392
+     }
+    },
+    {
+     "name": "David DiPonzio",
+     "votes": 3888,
+     "party": "REP",
+     "pct": 48.1,
+     "choice_id": "01000000-fff9-9fc1-dcaa-08df1feafbfd",
+     "party_lines": {
+      "REP": 3191,
+      "CONSERVATIVE": 697
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 6,
+     "party": null,
+     "pct": 0.07,
+     "choice_id": "01000000-fff9-9fc1-dd8d-08df1feafbfd",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-ea52-08df1feafbfd",
+   "state": "NY",
+   "title": "Member of Town Council Greece Ward 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 28,
+    "pct": 0.0,
+    "text": "0 of 28 precincts fully reported, 28 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Frank Femia",
+     "votes": 4502,
+     "party": "DEM",
+     "pct": 50.67,
+     "choice_id": "01000000-fff9-9fc1-ea69-08df1feafbfd",
+     "party_lines": {
+      "DEM": 4177,
+      "WFP": 325
+     }
+    },
+    {
+     "name": "Spencer Bernard",
+     "votes": 4371,
+     "party": "REP",
+     "pct": 49.2,
+     "choice_id": "01000000-fff9-9fc1-eab1-08df1feafbfd",
+     "party_lines": {
+      "REP": 3594,
+      "CONSERVATIVE": 777
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 12,
+     "party": null,
+     "pct": 0.14,
+     "choice_id": "01000000-fff9-9fc1-ebb8-08df1feafbfd",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-f91d-08df1feafbfd",
+   "state": "NY",
+   "title": "Member of Town Council Greece Ward 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 24,
+    "pct": 0.0,
+    "text": "0 of 24 precincts fully reported, 24 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Amorette Miller",
+     "votes": 4364,
+     "party": "DEM",
+     "pct": 54.91,
+     "choice_id": "01000000-fff9-9fc1-f932-08df1feafbfd",
+     "party_lines": {
+      "DEM": 3939,
+      "WFP": 425
+     }
+    },
+    {
+     "name": "Megan Ferra",
+     "votes": 3578,
+     "party": "REPUBLICAN /",
+     "pct": 45.02,
+     "choice_id": "01000000-fff9-9fc1-f987-08df1feafbfd",
+     "party_lines": {
+      "REPUBLICAN /": 2969,
+      "CONSERVATIVE": 609
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 5,
+     "party": null,
+     "pct": 0.06,
+     "choice_id": "01000000-fff9-9fc1-fa88-08df1feafbfd",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-0649-08df1feafbfe",
+   "state": "NY",
+   "title": "Member of Town Council Greece Ward 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 24,
+    "pct": 0.0,
+    "text": "0 of 24 precincts fully reported, 24 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Rick Antelli, Jr",
+     "votes": 7945,
+     "party": "REP",
+     "pct": 97.72,
+     "choice_id": "01000000-fff9-9fc1-0667-08df1feafbfe",
+     "party_lines": {
+      "REP": 6116,
+      "CONSERVATIVE": 1829
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 185,
+     "party": null,
+     "pct": 2.28,
+     "choice_id": "01000000-fff9-9fc1-06fc-08df1feafbfe",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-07a0-08df1feafbfd",
+   "state": "NY",
+   "title": "Supervisor Hamlin",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 10,
+    "pct": 0.0,
+    "text": "0 of 10 precincts fully reported, 10 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Sharon Martin Steigerwald",
+     "votes": 1163,
+     "party": "DEM",
+     "pct": 34.6,
+     "choice_id": "01000000-fff9-9fc1-07bc-08df1feafbfd",
+     "party_lines": {
+      "DEM": 1163
+     }
+    },
+    {
+     "name": "Steven J Baase",
+     "votes": 2189,
+     "party": "REP",
+     "pct": 65.13,
+     "choice_id": "01000000-fff9-9fc1-07ed-08df1feafbfd",
+     "party_lines": {
+      "REP": 1830,
+      "CONSERVATIVE": 359
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 9,
+     "party": null,
+     "pct": 0.27,
+     "choice_id": "01000000-fff9-9fc1-0854-08df1feafbfd",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-0d93-08df1feafbfd",
+   "state": "NY",
+   "title": "Supervisor Henrietta",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 28,
+    "pct": 0.0,
+    "text": "0 of 28 precincts fully reported, 28 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Stephen L Schultz",
+     "votes": 12088,
+     "party": "DEM",
+     "pct": 97.7,
+     "choice_id": "01000000-fff9-9fc1-0dad-08df1feafbfd",
+     "party_lines": {
+      "DEM": 12088
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 285,
+     "party": null,
+     "pct": 2.3,
+     "choice_id": "01000000-fff9-9fc1-0dfd-08df1feafbfd",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-1545-08df1feafbfd",
+   "state": "NY",
+   "title": "Supervisor Irondequoit",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 45,
+    "pct": 0.0,
+    "text": "0 of 45 precincts fully reported, 45 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "John Perticone",
+     "votes": 17400,
+     "party": "DEM",
+     "pct": 98.53,
+     "choice_id": "01000000-fff9-9fc1-1574-08df1feafbfd",
+     "party_lines": {
+      "DEM": 14562,
+      "WFP": 2838
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 260,
+     "party": null,
+     "pct": 1.47,
+     "choice_id": "01000000-fff9-9fc1-1680-08df1feafbfd",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-a6c7-08df1feafbfd",
+   "state": "NY",
+   "title": "Member of Town Council - 1 Year Term Irondequoit",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 45,
+    "pct": 0.0,
+    "text": "0 of 45 precincts fully reported, 45 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Steven Barz",
+     "votes": 13917,
+     "party": "DEM",
+     "pct": 65.33,
+     "choice_id": "01000000-fff9-9fc1-a6dd-08df1feafbfd",
+     "party_lines": {
+      "DEM": 13917
+     }
+    },
+    {
+     "name": "Michael Cotsworth",
+     "votes": 7360,
+     "party": "REP",
+     "pct": 34.55,
+     "choice_id": "01000000-fff9-9fc1-a758-08df1feafbfd",
+     "party_lines": {
+      "REP": 6094,
+      "CONSERVATIVE": 1266
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 27,
+     "party": null,
+     "pct": 0.13,
+     "choice_id": "01000000-fff9-9fc1-a84e-08df1feafbfd",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-ca92-08df1feafbfd",
+   "state": "NY",
+   "title": "Irondequoit - Member of Town Council - Term Ending 2028 Irondequoit",
+   "office_type": "local",
+   "district": "2028",
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 45,
+    "pct": 0.0,
+    "text": "0 of 45 precincts fully reported, 45 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Ryan Trevas",
+     "votes": 12601,
+     "party": "DEM",
+     "pct": 59.47,
+     "choice_id": "01000000-fff9-9fc1-caae-08df1feafbfd",
+     "party_lines": {
+      "DEM": 12601
+     }
+    },
+    {
+     "name": "Daniel Gaiteri",
+     "votes": 6511,
+     "party": "REP",
+     "pct": 30.73,
+     "choice_id": "01000000-fff9-9fc1-cb1d-08df1feafbfd",
+     "party_lines": {
+      "REP": 6511
+     }
+    },
+    {
+     "name": "Kathryn J Walker",
+     "votes": 2056,
+     "party": "WFP",
+     "pct": 9.7,
+     "choice_id": "01000000-fff9-9fc1-cba1-08df1feafbfd",
+     "party_lines": {
+      "WFP": 2056
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 21,
+     "party": null,
+     "pct": 0.1,
+     "choice_id": "01000000-fff9-9fc1-cc2b-08df1feafbfd",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-22bc-08df1feafbfe",
+   "state": "NY",
+   "title": "Town Justice Irondequoit",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 45,
+    "pct": 0.0,
+    "text": "0 of 45 precincts fully reported, 45 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Roman Misula",
+     "votes": 16675,
+     "party": "DEM",
+     "pct": 98.8,
+     "choice_id": "01000000-fff9-9fc1-22da-08df1feafbfe",
+     "party_lines": {
+      "DEM": 16675
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 202,
+     "party": null,
+     "pct": 1.2,
+     "choice_id": "01000000-fff9-9fc1-2343-08df1feafbfe",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-2933-08df1feafbfd",
+   "state": "NY",
+   "title": "Supervisor Mendon",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 9,
+    "pct": 0.0,
+    "text": "0 of 9 precincts fully reported, 9 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Joseph W Alati",
+     "votes": 2621,
+     "party": "DEM",
+     "pct": 54.01,
+     "choice_id": "01000000-fff9-9fc1-2961-08df1feafbfd",
+     "party_lines": {
+      "DEM": 2621
+     }
+    },
+    {
+     "name": "Cynthia Gleason",
+     "votes": 2226,
+     "party": "REP",
+     "pct": 45.87,
+     "choice_id": "01000000-fff9-9fc1-29a0-08df1feafbfd",
+     "party_lines": {
+      "REP": 1820,
+      "CONSERVATIVE": 406
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 6,
+     "party": null,
+     "pct": 0.12,
+     "choice_id": "01000000-fff9-9fc1-2a02-08df1feafbfd",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-a252-08df1feafbfd",
+   "state": "NY",
+   "title": "Town Clerk Mendon",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 9,
+    "pct": 0.0,
+    "text": "0 of 9 precincts fully reported, 9 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Michelle Booth",
+     "votes": 3585,
+     "party": "REP",
+     "pct": 96.94,
+     "choice_id": "01000000-fff9-9fc1-a26f-08df1feafbfd",
+     "party_lines": {
+      "REP": 2810,
+      "CONSERVATIVE": 775
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 113,
+     "party": null,
+     "pct": 3.06,
+     "choice_id": "01000000-fff9-9fc1-a2ca-08df1feafbfd",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-0ee1-08df1feafbfe",
+   "state": "NY",
+   "title": "Superintendent of Highways Mendon",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 9,
+    "pct": 0.0,
+    "text": "0 of 9 precincts fully reported, 9 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Jeff Klein",
+     "votes": 2384,
+     "party": "DEM",
+     "pct": 49.25,
+     "choice_id": "01000000-fff9-9fc1-0f03-08df1feafbfe",
+     "party_lines": {
+      "DEM": 2384
+     }
+    },
+    {
+     "name": "Peter Doyle",
+     "votes": 2454,
+     "party": "REP",
+     "pct": 50.69,
+     "choice_id": "01000000-fff9-9fc1-0f2b-08df1feafbfe",
+     "party_lines": {
+      "REP": 2003,
+      "CONSERVATIVE": 451
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.06,
+     "choice_id": "01000000-fff9-9fc1-0f7d-08df1feafbfe",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-2ecb-08df1feafbfd",
+   "state": "NY",
+   "title": "Supervisor Ogden",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 18,
+    "pct": 0.0,
+    "text": "0 of 18 precincts fully reported, 18 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Mike Zale",
+     "votes": 7054,
+     "party": "REP",
+     "pct": 97.48,
+     "choice_id": "01000000-fff9-9fc1-2ee5-08df1feafbfd",
+     "party_lines": {
+      "REP": 5454,
+      "CONSERVATIVE": 1600
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 182,
+     "party": null,
+     "pct": 2.52,
+     "choice_id": "01000000-fff9-9fc1-2f66-08df1feafbfd",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-3642-08df1feafbfd",
+   "state": "NY",
+   "title": "Supervisor Parma",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 13,
+    "pct": 0.0,
+    "text": "0 of 13 precincts fully reported, 13 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Linda Judd",
+     "votes": 2970,
+     "party": "DEM",
+     "pct": 43.16,
+     "choice_id": "01000000-fff9-9fc1-365a-08df1feafbfd",
+     "party_lines": {
+      "DEM": 2970
+     }
+    },
+    {
+     "name": "Dave Ciufo",
+     "votes": 3912,
+     "party": "REP",
+     "pct": 56.84,
+     "choice_id": "01000000-fff9-9fc1-369b-08df1feafbfd",
+     "party_lines": {
+      "REP": 3275,
+      "CONSERVATIVE": 637
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-b90c-08df1feafbfd",
+   "state": "NY",
+   "title": "Member of Town Council - 1 Year Term Parma",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 13,
+    "pct": 0.0,
+    "text": "0 of 13 precincts fully reported, 13 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Stephanie Michalowski",
+     "votes": 5452,
+     "party": "REP",
+     "pct": 98.86,
+     "choice_id": "01000000-fff9-9fc1-b929-08df1feafbfd",
+     "party_lines": {
+      "REP": 4274,
+      "CONSERVATIVE": 1178
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 63,
+     "party": null,
+     "pct": 1.14,
+     "choice_id": "01000000-fff9-9fc1-b991-08df1feafbfd",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-13f2-08df1feafbfe",
+   "state": "NY",
+   "title": "Superintendent of Highways Parma",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 13,
+    "pct": 0.0,
+    "text": "0 of 13 precincts fully reported, 13 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Jim Christ",
+     "votes": 5511,
+     "party": "REP",
+     "pct": 98.82,
+     "choice_id": "01000000-fff9-9fc1-140c-08df1feafbfe",
+     "party_lines": {
+      "REP": 4337,
+      "CONSERVATIVE": 1174
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 66,
+     "party": null,
+     "pct": 1.18,
+     "choice_id": "01000000-fff9-9fc1-1487-08df1feafbfe",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-2bac-08df1feafbfe",
+   "state": "NY",
+   "title": "Town Justice Parma",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 13,
+    "pct": 0.0,
+    "text": "0 of 13 precincts fully reported, 13 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Greg Colavecchia",
+     "votes": 5503,
+     "party": "REP",
+     "pct": 99.19,
+     "choice_id": "01000000-fff9-9fc1-2bd1-08df1feafbfe",
+     "party_lines": {
+      "REP": 4314,
+      "CONSERVATIVE": 1189
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 45,
+     "party": null,
+     "pct": 0.81,
+     "choice_id": "01000000-fff9-9fc1-2c4b-08df1feafbfe",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-3db2-08df1feafbfd",
+   "state": "NY",
+   "title": "Supervisor Penfield",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 37,
+    "pct": 0.0,
+    "text": "0 of 37 precincts fully reported, 37 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Kevin Berry",
+     "votes": 11897,
+     "party": "DEM",
+     "pct": 72.06,
+     "choice_id": "01000000-fff9-9fc1-3dce-08df1feafbfd",
+     "party_lines": {
+      "DEM": 10662,
+      "WFP": 1235
+     }
+    },
+    {
+     "name": "Andris E Silins",
+     "votes": 4569,
+     "party": "CONSERVATIVE",
+     "pct": 27.67,
+     "choice_id": "01000000-fff9-9fc1-3e42-08df1feafbfd",
+     "party_lines": {
+      "CONSERVATIVE": 4569
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 44,
+     "party": null,
+     "pct": 0.27,
+     "choice_id": "01000000-fff9-9fc1-3f31-08df1feafbfd",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-beb3-08df1feafbfd",
+   "state": "NY",
+   "title": "Member of Town Council - 1 Year Term Penfield",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 37,
+    "pct": 0.0,
+    "text": "0 of 37 precincts fully reported, 37 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Catherine Dean",
+     "votes": 13617,
+     "party": "DEM",
+     "pct": 98.28,
+     "choice_id": "01000000-fff9-9fc1-bed9-08df1feafbfd",
+     "party_lines": {
+      "DEM": 11325,
+      "WFP": 2292
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 238,
+     "party": null,
+     "pct": 1.72,
+     "choice_id": "01000000-fff9-9fc1-bf9e-08df1feafbfd",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-4d5a-08df1feafbfd",
+   "state": "NY",
+   "title": "Supervisor Perinton",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 39,
+    "pct": 0.0,
+    "text": "0 of 39 precincts fully reported, 39 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Jenn Townsend",
+     "votes": 18165,
+     "party": "DEM",
+     "pct": 97.31,
+     "choice_id": "01000000-fff9-9fc1-4d73-08df1feafbfd",
+     "party_lines": {
+      "DEM": 15924,
+      "WFP": 2241
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 503,
+     "party": null,
+     "pct": 2.69,
+     "choice_id": "01000000-fff9-9fc1-4e73-08df1feafbfd",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-59e8-08df1feafbfd",
+   "state": "NY",
+   "title": "Supervisor Pittsford",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 28,
+    "pct": 0.0,
+    "text": "0 of 28 precincts fully reported, 28 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Max Gordon",
+     "votes": 6365,
+     "party": "DEM",
+     "pct": 45.43,
+     "choice_id": "01000000-fff9-9fc1-5a05-08df1feafbfd",
+     "party_lines": {
+      "DEM": 5875,
+      "WFP": 490
+     }
+    },
+    {
+     "name": "William A Smith, Jr",
+     "votes": 7621,
+     "party": "REP",
+     "pct": 54.39,
+     "choice_id": "01000000-fff9-9fc1-5a4f-08df1feafbfd",
+     "party_lines": {
+      "REP": 6565,
+      "CONSERVATIVE": 1056
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 25,
+     "party": null,
+     "pct": 0.18,
+     "choice_id": "01000000-fff9-9fc1-5b59-08df1feafbfd",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-6898-08df1feafbfd",
+   "state": "NY",
+   "title": "Supervisor Riga",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported, 6 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Brad O'Brocta",
+     "votes": 2276,
+     "party": "REP",
+     "pct": 98.23,
+     "choice_id": "01000000-fff9-9fc1-68ae-08df1feafbfd",
+     "party_lines": {
+      "REP": 1812,
+      "CONSERVATIVE": 464
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 41,
+     "party": null,
+     "pct": 1.77,
+     "choice_id": "01000000-fff9-9fc1-68ea-08df1feafbfd",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-30f9-08df1feafbfe",
+   "state": "NY",
+   "title": "Town Justice Riga",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported, 6 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Chris Lockwood",
+     "votes": 2273,
+     "party": "REP",
+     "pct": 98.65,
+     "choice_id": "01000000-fff9-9fc1-310d-08df1feafbfe",
+     "party_lines": {
+      "REP": 1802,
+      "CONSERVATIVE": 471
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 31,
+     "party": null,
+     "pct": 1.35,
+     "choice_id": "01000000-fff9-9fc1-3151-08df1feafbfe",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-6c17-08df1feafbfd",
+   "state": "NY",
+   "title": "Supervisor Rush",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported, 4 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Lee Hankins",
+     "votes": 839,
+     "party": "DEM",
+     "pct": 44.32,
+     "choice_id": "01000000-fff9-9fc1-6c2f-08df1feafbfd",
+     "party_lines": {
+      "DEM": 839
+     }
+    },
+    {
+     "name": "Frank D Tasber",
+     "votes": 939,
+     "party": "REP",
+     "pct": 49.6,
+     "choice_id": "01000000-fff9-9fc1-6c53-08df1feafbfd",
+     "party_lines": {
+      "REP": 744,
+      "CONSERVATIVE": 195
+     }
+    },
+    {
+     "name": "RNT Lee Hankins",
+     "votes": 39,
+     "party": "RUSH NEIGHBO",
+     "pct": 2.06,
+     "choice_id": "01000000-fff9-9fc1-6c8d-08df1feafbfd",
+     "party_lines": {
+      "RUSH NEIGHBO": 39
+     }
+    },
+    {
+     "name": "RHT Mary Ellen Heyman",
+     "votes": 75,
+     "party": "RUSH HOMETOW",
+     "pct": 3.96,
+     "choice_id": "01000000-fff9-9fc1-6cae-08df1feafbfd",
+     "party_lines": {
+      "RUSH HOMETOW": 75
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.05,
+     "choice_id": "01000000-fff9-9fc1-6cd3-08df1feafbfd",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-343c-08df1feafbfe",
+   "state": "NY",
+   "title": "Town Justice Rush",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported, 4 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Logan C Geen",
+     "votes": 759,
+     "party": "DEM",
+     "pct": 40.59,
+     "choice_id": "01000000-fff9-9fc1-3453-08df1feafbfe",
+     "party_lines": {
+      "DEM": 759
+     }
+    },
+    {
+     "name": "Michael J Tallon",
+     "votes": 1068,
+     "party": "REP",
+     "pct": 57.11,
+     "choice_id": "01000000-fff9-9fc1-346e-08df1feafbfe",
+     "party_lines": {
+      "REP": 852,
+      "CONSERVATIVE": 216
+     }
+    },
+    {
+     "name": "RHT Logan C Geen",
+     "votes": 42,
+     "party": "RUSH HOMETOW",
+     "pct": 2.25,
+     "choice_id": "01000000-fff9-9fc1-349c-08df1feafbfe",
+     "party_lines": {
+      "RUSH HOMETOW": 42
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.05,
+     "choice_id": "01000000-fff9-9fc1-34bb-08df1feafbfe",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-7054-08df1feafbfd",
+   "state": "NY",
+   "title": "Supervisor Sweden",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 12,
+    "pct": 0.0,
+    "text": "0 of 12 precincts fully reported, 12 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Patricia Hayles",
+     "votes": 3121,
+     "party": "REP",
+     "pct": 97.53,
+     "choice_id": "01000000-fff9-9fc1-706c-08df1feafbfd",
+     "party_lines": {
+      "REP": 2347,
+      "CONSERVATIVE": 774
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 79,
+     "party": null,
+     "pct": 2.47,
+     "choice_id": "01000000-fff9-9fc1-70d8-08df1feafbfd",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-1a39-08df1feafbfe",
+   "state": "NY",
+   "title": "Receiver of Taxes Sweden",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 12,
+    "pct": 0.0,
+    "text": "0 of 12 precincts fully reported, 12 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Kathleen Roberts",
+     "votes": 3215,
+     "party": "REP",
+     "pct": 98.14,
+     "choice_id": "01000000-fff9-9fc1-1a69-08df1feafbfe",
+     "party_lines": {
+      "REP": 2401,
+      "CONSERVATIVE": 814
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 61,
+     "party": null,
+     "pct": 1.86,
+     "choice_id": "01000000-fff9-9fc1-1ae1-08df1feafbfe",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-37dc-08df1feafbfe",
+   "state": "NY",
+   "title": "Town Justice Sweden",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 12,
+    "pct": 0.0,
+    "text": "0 of 12 precincts fully reported, 12 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Robert P Connors",
+     "votes": 3187,
+     "party": "REP",
+     "pct": 97.97,
+     "choice_id": "01000000-fff9-9fc1-37f7-08df1feafbfe",
+     "party_lines": {
+      "REP": 2379,
+      "CONSERVATIVE": 808
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 66,
+     "party": null,
+     "pct": 2.03,
+     "choice_id": "01000000-fff9-9fc1-3860-08df1feafbfe",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-4e98-08df1feafbfe",
+   "state": "NY",
+   "title": "Proposal Sweden",
+   "office_type": "measure",
+   "district": "proposal sweden",
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 12,
+    "pct": 0.0,
+    "text": "0 of 12 precincts fully reported, 12 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1981,
+     "party": null,
+     "pct": 51.87,
+     "choice_id": "01000000-fff9-9fc1-4ed8-08df1feafbfe",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 1838,
+     "party": null,
+     "pct": 48.13,
+     "choice_id": "01000000-fff9-9fc1-4f16-08df1feafbfe",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-7576-08df1feafbfd",
+   "state": "NY",
+   "title": "Supervisor Webster",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 37,
+    "pct": 0.0,
+    "text": "0 of 37 precincts fully reported, 37 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Alex Scialdone",
+     "votes": 10515,
+     "party": "DEM",
+     "pct": 49.54,
+     "choice_id": "01000000-fff9-9fc1-7593-08df1feafbfd",
+     "party_lines": {
+      "DEM": 9808,
+      "WFP": 707
+     }
+    },
+    {
+     "name": "Sean T Hanna",
+     "votes": 10037,
+     "party": "REP",
+     "pct": 47.29,
+     "choice_id": "01000000-fff9-9fc1-7604-08df1feafbfd",
+     "party_lines": {
+      "REP": 8443,
+      "CONSERVATIVE": 1594
+     }
+    },
+    {
+     "name": "JNP Kevin L Lockhart",
+     "votes": 646,
+     "party": "JUSTICE AND ",
+     "pct": 3.04,
+     "choice_id": "01000000-fff9-9fc1-7784-08df1feafbfd",
+     "party_lines": {
+      "JUSTICE AND ": 646
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 27,
+     "party": null,
+     "pct": 0.13,
+     "choice_id": "01000000-fff9-9fc1-77f6-08df1feafbfd",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-8cbb-08df1feafbfd",
+   "state": "NY",
+   "title": "Supervisor Wheatland",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported, 5 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Jim Kirch",
+     "votes": 1646,
+     "party": "REP",
+     "pct": 96.65,
+     "choice_id": "01000000-fff9-9fc1-8ce9-08df1feafbfd",
+     "party_lines": {
+      "REP": 1267,
+      "CONSERVATIVE": 379
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 57,
+     "party": null,
+     "pct": 3.35,
+     "choice_id": "01000000-fff9-9fc1-8d37-08df1feafbfd",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-42db-08df1feafbfe",
+   "state": "NY",
+   "title": "Village Mayor Fairport",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported, 4 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Heidi Woika",
+     "votes": 1252,
+     "party": "DEM",
+     "pct": 48.7,
+     "choice_id": "01000000-fff9-9fc1-42f2-08df1feafbfe",
+     "party_lines": {
+      "DEM": 1110,
+      "WFP": 142
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1319,
+     "party": null,
+     "pct": 51.3,
+     "choice_id": "01000000-fff9-9fc1-4329-08df1feafbfe",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-4584-08df1feafbfe",
+   "state": "NY",
+   "title": "Village Trustee Fairport",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported, 4 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Adam Bonosky",
+     "votes": 1496,
+     "party": "DEM",
+     "pct": 27.66,
+     "choice_id": "01000000-fff9-9fc1-45a2-08df1feafbfe",
+     "party_lines": {
+      "DEM": 1344,
+      "WFP": 152
+     }
+    },
+    {
+     "name": "Sarah Nazarian",
+     "votes": 1465,
+     "party": "DEM",
+     "pct": 27.09,
+     "choice_id": "01000000-fff9-9fc1-45c2-08df1feafbfe",
+     "party_lines": {
+      "DEM": 1308,
+      "WFP": 157
+     }
+    },
+    {
+     "name": "Paul Keitz",
+     "votes": 1169,
+     "party": "REP",
+     "pct": 21.62,
+     "choice_id": "01000000-fff9-9fc1-45dc-08df1feafbfe",
+     "party_lines": {
+      "REP": 968,
+      "CONSERVATIVE": 201
+     }
+    },
+    {
+     "name": "Ian Winner",
+     "votes": 1264,
+     "party": "REP",
+     "pct": 23.37,
+     "choice_id": "01000000-fff9-9fc1-45f4-08df1feafbfe",
+     "party_lines": {
+      "REP": 1050,
+      "CONSERVATIVE": 214
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 14,
+     "party": null,
+     "pct": 0.26,
+     "choice_id": "01000000-fff9-9fc1-467d-08df1feafbfe",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.monroe",
+   "contest_id": "01000000-fff9-9fc1-4ae8-08df1feafbfe",
+   "state": "NY",
+   "title": "Village Trustee - 1 Year Term Fairport",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Monroe County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported, 4 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:22:14.0190877Z",
+   "choices": [
+    {
+     "name": "Matthew Brown",
+     "votes": 1490,
+     "party": "DEM",
+     "pct": 54.88,
+     "choice_id": "01000000-fff9-9fc1-4b03-08df1feafbfe",
+     "party_lines": {
+      "DEM": 1333,
+      "WFP": 157
+     }
+    },
+    {
+     "name": "Jason Rinaudo",
+     "votes": 1215,
+     "party": "REP",
+     "pct": 44.75,
+     "choice_id": "01000000-fff9-9fc1-4b24-08df1feafbfe",
+     "party_lines": {
+      "REP": 1017,
+      "CONSERVATIVE": 198
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 10,
+     "party": null,
+     "pct": 0.37,
+     "choice_id": "01000000-fff9-9fc1-4b87-08df1feafbfe",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  }
+ ],
+ "contests_hash": "42d74702a13eb4f1",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-04T15:00:31+00:00",
+ "fetched_at": "2026-11-04T15:00:31+00:00",
+ "contests_changed_at": "2026-11-04T14:56:53+00:00"
+}

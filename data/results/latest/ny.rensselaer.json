@@ -1,0 +1,2356 @@
+{
+ "source": "ny.rensselaer",
+ "contests": [
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-e465-08df1e3d0926",
+   "state": "NY",
+   "title": "Governor and Lieutenant Governor",
+   "office_type": "governor",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 117,
+    "pct": 0.0,
+    "text": "0 of 117 precincts fully reported, 117 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Write-in",
+     "votes": 222,
+     "party": null,
+     "pct": 0.36,
+     "choice_id": "01000000-b600-c2c6-ff02-08df1e3d0926",
+     "party_lines": null
+    },
+    {
+     "name": "Kathy C. Hocul and Adrienne E. Adams",
+     "votes": 32577,
+     "party": "DEM",
+     "pct": 52.45,
+     "choice_id": "01000000-b600-c2c6-0e2f-08df1e3d0927",
+     "party_lines": {
+      "DEM": 28432,
+      "WFP": 4145
+     }
+    },
+    {
+     "name": "Bruce A. Blakeman and Todd Hood",
+     "votes": 29310,
+     "party": "REP",
+     "pct": 47.19,
+     "choice_id": "01000000-b600-c2c6-161f-08df1e3d0927",
+     "party_lines": {
+      "REP": 24382,
+      "CONSERVATIVE": 4347,
+      "VOTE AFFORDA": 581
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-966e-08df1e3d0928",
+   "state": "NY",
+   "title": "Comptroller",
+   "office_type": "controller",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 117,
+    "pct": 0.0,
+    "text": "0 of 117 precincts fully reported, 117 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Thomas P. DiNapoli",
+     "votes": 38204,
+     "party": "DEM",
+     "pct": 62.01,
+     "choice_id": "01000000-b600-c2c6-9701-08df1e3d0928",
+     "party_lines": {
+      "DEM": 32740,
+      "WFP": 5464
+     }
+    },
+    {
+     "name": "Joseph Hernandez",
+     "votes": 23358,
+     "party": "REP",
+     "pct": 37.91,
+     "choice_id": "01000000-b600-c2c6-9d16-08df1e3d0928",
+     "party_lines": {
+      "REP": 19579,
+      "CONSERVATIVE": 3779
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 47,
+     "party": null,
+     "pct": 0.08,
+     "choice_id": "01000000-b600-c2c6-a38d-08df1e3d0928",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-c5fc-08df1e3d0928",
+   "state": "NY",
+   "title": "Attorney General",
+   "office_type": "attorney_general",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 117,
+    "pct": 0.0,
+    "text": "0 of 117 precincts fully reported, 117 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Letitia A. James",
+     "votes": 32264,
+     "party": "DEM",
+     "pct": 52.23,
+     "choice_id": "01000000-b600-c2c6-c638-08df1e3d0928",
+     "party_lines": {
+      "DEM": 27851,
+      "WFP": 4413
+     }
+    },
+    {
+     "name": "Saritha Komatireddy",
+     "votes": 29454,
+     "party": "REP",
+     "pct": 47.68,
+     "choice_id": "01000000-b600-c2c6-cc2c-08df1e3d0928",
+     "party_lines": {
+      "REP": 24465,
+      "CONSERVATIVE": 4989
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 56,
+     "party": null,
+     "pct": 0.09,
+     "choice_id": "01000000-b600-c2c6-d29e-08df1e3d0928",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-f3ef-08df1e3d0928",
+   "state": "NY",
+   "title": "Representative in Congress 19th",
+   "office_type": "federal_house",
+   "district": "19",
+   "jurisdiction": "Rensselaer County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 51,
+    "pct": 0.0,
+    "text": "0 of 51 precincts fully reported, 51 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Josh Riley",
+     "votes": 16875,
+     "party": "DEM",
+     "pct": 54.21,
+     "choice_id": "01000000-b600-c2c6-f425-08df1e3d0928",
+     "party_lines": {
+      "DEM": 14615,
+      "WFP": 2260
+     }
+    },
+    {
+     "name": "Peter K. Oberacker",
+     "votes": 14229,
+     "party": "REP",
+     "pct": 45.71,
+     "choice_id": "01000000-b600-c2c6-f7a3-08df1e3d0928",
+     "party_lines": {
+      "REP": 11889,
+      "CONSERVATIVE": 2340
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 25,
+     "party": null,
+     "pct": 0.08,
+     "choice_id": "01000000-b600-c2c6-fb8f-08df1e3d0928",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-4634-08df1e3d0929",
+   "state": "NY",
+   "title": "Representative in Congress 20th",
+   "office_type": "federal_house",
+   "district": "20",
+   "jurisdiction": "Rensselaer County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 66,
+    "pct": 0.0,
+    "text": "0 of 66 precincts fully reported, 66 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Paul D. Tonko",
+     "votes": 18441,
+     "party": "DEM",
+     "pct": 60.04,
+     "choice_id": "01000000-b600-c2c6-4677-08df1e3d0929",
+     "party_lines": {
+      "DEM": 15717,
+      "WFP": 2724
+     }
+    },
+    {
+     "name": "Ralph F. Ambrosio",
+     "votes": 12250,
+     "party": "REP",
+     "pct": 39.88,
+     "choice_id": "01000000-b600-c2c6-4ad6-08df1e3d0929",
+     "party_lines": {
+      "REP": 10254,
+      "CONSERVATIVE": 1996
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 26,
+     "party": null,
+     "pct": 0.08,
+     "choice_id": "01000000-b600-c2c6-4f18-08df1e3d0929",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-9a36-08df1e3d0929",
+   "state": "NY",
+   "title": "State Senator",
+   "office_type": "state_senate",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 117,
+    "pct": 0.0,
+    "text": "0 of 117 precincts fully reported, 117 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Devin R. Lander",
+     "votes": 29725,
+     "party": "DEM",
+     "pct": 48.06,
+     "choice_id": "01000000-b600-c2c6-9ab8-08df1e3d0929",
+     "party_lines": {
+      "DEM": 25596,
+      "WFP": 4129
+     }
+    },
+    {
+     "name": "Jake Ashby",
+     "votes": 32087,
+     "party": "REP",
+     "pct": 51.88,
+     "choice_id": "01000000-b600-c2c6-a1ff-08df1e3d0929",
+     "party_lines": {
+      "REP": 26736,
+      "CONSERVATIVE": 5351
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 34,
+     "party": null,
+     "pct": 0.05,
+     "choice_id": "01000000-b600-c2c6-a9b2-08df1e3d0929",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-caea-08df1e3d0929",
+   "state": "NY",
+   "title": "Member of Assembly 107",
+   "office_type": "state_house",
+   "district": "107",
+   "jurisdiction": "Rensselaer County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 62,
+    "pct": 0.0,
+    "text": "0 of 62 precincts fully reported, 62 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Chloe E. Pierce",
+     "votes": 14120,
+     "party": "DEM",
+     "pct": 42.93,
+     "choice_id": "01000000-b600-c2c6-cb2a-08df1e3d0929",
+     "party_lines": {
+      "DEM": 12209,
+      "WFP": 1911
+     }
+    },
+    {
+     "name": "Scott H. Bendett",
+     "votes": 18750,
+     "party": "REP",
+     "pct": 57.0,
+     "choice_id": "01000000-b600-c2c6-cf45-08df1e3d0929",
+     "party_lines": {
+      "REP": 15610,
+      "CONSERVATIVE": 3140
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 24,
+     "party": null,
+     "pct": 0.07,
+     "choice_id": "01000000-b600-c2c6-d30e-08df1e3d0929",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-2313-08df1e3d092a",
+   "state": "NY",
+   "title": "Member of Assembly 108",
+   "office_type": "state_house",
+   "district": "108",
+   "jurisdiction": "Rensselaer County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 55,
+    "pct": 0.0,
+    "text": "0 of 55 precincts fully reported, 55 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "John T. McDonald, III",
+     "votes": 18724,
+     "party": "DEM",
+     "pct": 66.86,
+     "choice_id": "01000000-b600-c2c6-2375-08df1e3d092a",
+     "party_lines": {
+      "DEM": 18724
+     }
+    },
+    {
+     "name": "Joseph J. Adamo, III",
+     "votes": 9257,
+     "party": "REP",
+     "pct": 33.06,
+     "choice_id": "01000000-b600-c2c6-25e0-08df1e3d092a",
+     "party_lines": {
+      "REP": 9257
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 22,
+     "party": null,
+     "pct": 0.08,
+     "choice_id": "01000000-b600-c2c6-28b5-08df1e3d092a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-5957-08df1e3d092a",
+   "state": "NY",
+   "title": "District Attorney",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 117,
+    "pct": 0.0,
+    "text": "0 of 117 precincts fully reported, 117 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Mary Pat Donnelly",
+     "votes": 39610,
+     "party": "DEM",
+     "pct": 98.88,
+     "choice_id": "01000000-b600-c2c6-598c-08df1e3d092a",
+     "party_lines": {
+      "DEM": 39610
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 449,
+     "party": null,
+     "pct": 1.12,
+     "choice_id": "01000000-b600-c2c6-5d3b-08df1e3d092a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-7b92-08df1e3d092a",
+   "state": "NY",
+   "title": "County Legislator 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 21,
+    "pct": 0.0,
+    "text": "0 of 21 precincts fully reported, 21 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Write-in",
+     "votes": 196,
+     "party": null,
+     "pct": 2.27,
+     "choice_id": "01000000-b600-c2c6-7bb1-08df1e3d092a",
+     "party_lines": null
+    },
+    {
+     "name": "William J. Film",
+     "votes": 8425,
+     "party": "REP",
+     "pct": 97.73,
+     "choice_id": "01000000-b600-c2c6-7cb7-08df1e3d092a",
+     "party_lines": {
+      "REP": 6553,
+      "CONSERVATIVE": 1872
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-99ab-08df1e3d092a",
+   "state": "NY",
+   "title": "Town of Berlin Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported, 2 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Robert C. Jaeger",
+     "votes": 609,
+     "party": "DEM",
+     "pct": 99.51,
+     "choice_id": "01000000-b600-c2c6-99cc-08df1e3d092a",
+     "party_lines": {
+      "DEM": 231,
+      "REP": 318,
+      "CONSERVATIVE": 60
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.49,
+     "choice_id": "01000000-b600-c2c6-9a2f-08df1e3d092a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-9e47-08df1e3d092a",
+   "state": "NY",
+   "title": "Town of Berlin Town Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported, 2 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Sarah G. VanBuskirk",
+     "votes": 642,
+     "party": "DEM",
+     "pct": 99.69,
+     "choice_id": "01000000-b600-c2c6-9e63-08df1e3d092a",
+     "party_lines": {
+      "DEM": 244,
+      "REP": 339,
+      "CONSERVATIVE": 59
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.31,
+     "choice_id": "01000000-b600-c2c6-9ec9-08df1e3d092a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-a289-08df1e3d092a",
+   "state": "NY",
+   "title": "Town of Berlin Superintendent of Highways",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported, 2 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "James A. Winn",
+     "votes": 617,
+     "party": "DEM",
+     "pct": 99.68,
+     "choice_id": "01000000-b600-c2c6-a2fa-08df1e3d092a",
+     "party_lines": {
+      "DEM": 231,
+      "REP": 330,
+      "CONSERVATIVE": 56
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.32,
+     "choice_id": "01000000-b600-c2c6-a359-08df1e3d092a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-a7a4-08df1e3d092a",
+   "state": "NY",
+   "title": "Town of Berlin Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported, 2 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Nancy L. Sweener",
+     "votes": 619,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "01000000-b600-c2c6-a7bf-08df1e3d092a",
+     "party_lines": {
+      "DEM": 249,
+      "REP": 370
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-ab37-08df1e3d092a",
+   "state": "NY",
+   "title": "Town of Brunswick Town Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 10,
+    "pct": 0.0,
+    "text": "0 of 10 precincts fully reported, 10 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Alicia F. Saunders",
+     "votes": 3103,
+     "party": "CONSERVATIVE",
+     "pct": 97.33,
+     "choice_id": "01000000-b600-c2c6-ab50-08df1e3d092a",
+     "party_lines": {
+      "CONSERVATIVE": 3103
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 85,
+     "party": null,
+     "pct": 2.67,
+     "choice_id": "01000000-b600-c2c6-abb2-08df1e3d092a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-b4a2-08df1e3d092a",
+   "state": "NY",
+   "title": "Town of Grafton Town Council",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported, 2 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Michael Longo",
+     "votes": 788,
+     "party": "REP",
+     "pct": 97.89,
+     "choice_id": "01000000-b600-c2c6-b4ba-08df1e3d092a",
+     "party_lines": {
+      "REP": 601,
+      "CONSERVATIVE": 187
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 17,
+     "party": null,
+     "pct": 2.11,
+     "choice_id": "01000000-b600-c2c6-b4f6-08df1e3d092a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-b7e9-08df1e3d092a",
+   "state": "NY",
+   "title": "Town of Hoosick Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": "0 of 7 precincts fully reported, 7 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Eric R. Sheffer",
+     "votes": 1710,
+     "party": "REP",
+     "pct": 97.99,
+     "choice_id": "01000000-b600-c2c6-b801-08df1e3d092a",
+     "party_lines": {
+      "REP": 1331,
+      "CONSERVATIVE": 379
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 35,
+     "party": null,
+     "pct": 2.01,
+     "choice_id": "01000000-b600-c2c6-b8ae-08df1e3d092a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-c382-08df1e3d092a",
+   "state": "NY",
+   "title": "Town of Hoosick Town Council",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": "0 of 7 precincts fully reported, 7 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Christopher M. Bettis",
+     "votes": 1742,
+     "party": "REP",
+     "pct": 98.53,
+     "choice_id": "01000000-b600-c2c6-c39f-08df1e3d092a",
+     "party_lines": {
+      "REP": 1349,
+      "CONSERVATIVE": 393
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 26,
+     "party": null,
+     "pct": 1.47,
+     "choice_id": "01000000-b600-c2c6-c4cf-08df1e3d092a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-cdd1-08df1e3d092a",
+   "state": "NY",
+   "title": "Town of Nassau Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported, 4 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "David F. Fleming",
+     "votes": 1627,
+     "party": "REP",
+     "pct": 97.84,
+     "choice_id": "01000000-b600-c2c6-cdee-08df1e3d092a",
+     "party_lines": {
+      "REP": 1285,
+      "CONSERVATIVE": 342
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 36,
+     "party": null,
+     "pct": 2.16,
+     "choice_id": "01000000-b600-c2c6-cea4-08df1e3d092a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-d416-08df1e3d092a",
+   "state": "NY",
+   "title": "Town of Nassau Superintendent of Highways",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported, 4 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Donald W. Denue",
+     "votes": 1589,
+     "party": "REP",
+     "pct": 98.51,
+     "choice_id": "01000000-b600-c2c6-d430-08df1e3d092a",
+     "party_lines": {
+      "REP": 1247,
+      "CONSERVATIVE": 342
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 24,
+     "party": null,
+     "pct": 1.49,
+     "choice_id": "01000000-b600-c2c6-d486-08df1e3d092a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-da8f-08df1e3d092a",
+   "state": "NY",
+   "title": "Town of North Greenbush Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 8,
+    "pct": 0.0,
+    "text": "0 of 8 precincts fully reported, 8 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Brian Zweig",
+     "votes": 3637,
+     "party": "DEM",
+     "pct": 56.92,
+     "choice_id": "01000000-b600-c2c6-daae-08df1e3d092a",
+     "party_lines": {
+      "DEM": 3138,
+      "WFP": 499
+     }
+    },
+    {
+     "name": "Joseph. H. Bott, III",
+     "votes": 2748,
+     "party": "REP",
+     "pct": 43.0,
+     "choice_id": "01000000-b600-c2c6-db4c-08df1e3d092a",
+     "party_lines": {
+      "REP": 2245,
+      "CONSERVATIVE": 503
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 5,
+     "party": null,
+     "pct": 0.08,
+     "choice_id": "01000000-b600-c2c6-dc2b-08df1e3d092a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-ecf9-08df1e3d092a",
+   "state": "NY",
+   "title": "Town of North Greenbush Town Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 8,
+    "pct": 0.0,
+    "text": "0 of 8 precincts fully reported, 8 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Janice Hannigan Kerwin",
+     "votes": 4362,
+     "party": "REP",
+     "pct": 98.07,
+     "choice_id": "01000000-b600-c2c6-ed4f-08df1e3d092a",
+     "party_lines": {
+      "REP": 3288,
+      "CONSERVATIVE": 1074
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 86,
+     "party": null,
+     "pct": 1.93,
+     "choice_id": "01000000-b600-c2c6-edee-08df1e3d092a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-f879-08df1e3d092a",
+   "state": "NY",
+   "title": "Town of North Greenbush Superintendent of Highways",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 8,
+    "pct": 0.0,
+    "text": "0 of 8 precincts fully reported, 8 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "James Paco McCarthy",
+     "votes": 3540,
+     "party": "DEM",
+     "pct": 55.93,
+     "choice_id": "01000000-b600-c2c6-f895-08df1e3d092a",
+     "party_lines": {
+      "DEM": 3031,
+      "WFP": 509
+     }
+    },
+    {
+     "name": "Michael E. Martinez",
+     "votes": 2786,
+     "party": "REP",
+     "pct": 44.02,
+     "choice_id": "01000000-b600-c2c6-f926-08df1e3d092a",
+     "party_lines": {
+      "REP": 2257,
+      "CONSERVATIVE": 529
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.05,
+     "choice_id": "01000000-b600-c2c6-f9a8-08df1e3d092a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-0a69-08df1e3d092b",
+   "state": "NY",
+   "title": "Petersburgh Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported, 1 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Heinz H. Noeding",
+     "votes": 389,
+     "party": "REP",
+     "pct": 98.98,
+     "choice_id": "01000000-b600-c2c6-0a81-08df1e3d092b",
+     "party_lines": {
+      "REP": 389
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 4,
+     "party": null,
+     "pct": 1.02,
+     "choice_id": "01000000-b600-c2c6-0a9d-08df1e3d092b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-0c01-08df1e3d092b",
+   "state": "NY",
+   "title": "Town of Petersburgh Town Council",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported, 1 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Jay P. Springer",
+     "votes": 518,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "01000000-b600-c2c6-0c18-08df1e3d092b",
+     "party_lines": {
+      "DEM": 209,
+      "REP": 309
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-0dea-08df1e3d092b",
+   "state": "NY",
+   "title": "Pittstown Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported, 6 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Matthew W. Curley, III",
+     "votes": 1972,
+     "party": "REP",
+     "pct": 98.95,
+     "choice_id": "01000000-b600-c2c6-0e03-08df1e3d092b",
+     "party_lines": {
+      "REP": 1612,
+      "CONSERVATIVE": 360
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 21,
+     "party": null,
+     "pct": 1.05,
+     "choice_id": "01000000-b600-c2c6-0f08-08df1e3d092b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-16eb-08df1e3d092b",
+   "state": "NY",
+   "title": "Pittstown Town Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported, 6 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Michelle A. Hoag",
+     "votes": 2052,
+     "party": "REP",
+     "pct": 99.61,
+     "choice_id": "01000000-b600-c2c6-1707-08df1e3d092b",
+     "party_lines": {
+      "REP": 1672,
+      "CONSERVATIVE": 380
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": null,
+     "pct": 0.39,
+     "choice_id": "01000000-b600-c2c6-17d8-08df1e3d092b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-1fb0-08df1e3d092b",
+   "state": "NY",
+   "title": "Pittstown Superintendent of Highways",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported, 6 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Paul G. Campbell",
+     "votes": 2007,
+     "party": "REP",
+     "pct": 99.01,
+     "choice_id": "01000000-b600-c2c6-1fca-08df1e3d092b",
+     "party_lines": {
+      "REP": 1643,
+      "CONSERVATIVE": 364
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 20,
+     "party": null,
+     "pct": 0.99,
+     "choice_id": "01000000-b600-c2c6-203f-08df1e3d092b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-2a33-08df1e3d092b",
+   "state": "NY",
+   "title": "Pittstown Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported, 6 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Judy L. Herrington",
+     "votes": 2018,
+     "party": "REP",
+     "pct": 99.56,
+     "choice_id": "01000000-b600-c2c6-2a5a-08df1e3d092b",
+     "party_lines": {
+      "REP": 1651,
+      "CONSERVATIVE": 367
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 9,
+     "party": null,
+     "pct": 0.44,
+     "choice_id": "01000000-b600-c2c6-2b20-08df1e3d092b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-36ea-08df1e3d092b",
+   "state": "NY",
+   "title": "Poestenkill Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported, 4 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Dominic Jacangelo",
+     "votes": 1069,
+     "party": "DEM",
+     "pct": 46.82,
+     "choice_id": "01000000-b600-c2c6-3716-08df1e3d092b",
+     "party_lines": {
+      "DEM": 1069
+     }
+    },
+    {
+     "name": "Michelle M. Garofolo",
+     "votes": 1211,
+     "party": "REP",
+     "pct": 53.04,
+     "choice_id": "01000000-b600-c2c6-3766-08df1e3d092b",
+     "party_lines": {
+      "REP": 1017,
+      "CONSERVATIVE": 194
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.13,
+     "choice_id": "01000000-b600-c2c6-37f8-08df1e3d092b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-3fbc-08df1e3d092b",
+   "state": "NY",
+   "title": "Poestenkill Town Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported, 4 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Susan A. Horton",
+     "votes": 2210,
+     "party": "DEM",
+     "pct": 99.68,
+     "choice_id": "01000000-b600-c2c6-3fdb-08df1e3d092b",
+     "party_lines": {
+      "DEM": 918,
+      "REP": 1083,
+      "CONSERVATIVE": 209
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 7,
+     "party": null,
+     "pct": 0.32,
+     "choice_id": "01000000-b600-c2c6-406c-08df1e3d092b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-47b5-08df1e3d092b",
+   "state": "NY",
+   "title": "Poestenkill Town Council",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported, 4 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Robert W. Bayly",
+     "votes": 1652,
+     "party": "REP",
+     "pct": 97.69,
+     "choice_id": "01000000-b600-c2c6-47cf-08df1e3d092b",
+     "party_lines": {
+      "REP": 1316,
+      "CONSERVATIVE": 336
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 39,
+     "party": null,
+     "pct": 2.31,
+     "choice_id": "01000000-b600-c2c6-4831-08df1e3d092b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-4dee-08df1e3d092b",
+   "state": "NY",
+   "title": "Poestenkill Superintendent of Highways",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported, 4 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "David T. Goyer, Jr.",
+     "votes": 2175,
+     "party": "DEM",
+     "pct": 99.41,
+     "choice_id": "01000000-b600-c2c6-4e4b-08df1e3d092b",
+     "party_lines": {
+      "DEM": 882,
+      "REP": 1085,
+      "CONSERVATIVE": 208
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 13,
+     "party": null,
+     "pct": 0.59,
+     "choice_id": "01000000-b600-c2c6-4ecd-08df1e3d092b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-56f3-08df1e3d092b",
+   "state": "NY",
+   "title": "Sand Lake Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported, 6 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Olivia Kelley",
+     "votes": 2010,
+     "party": "DEM",
+     "pct": 46.84,
+     "choice_id": "01000000-b600-c2c6-5713-08df1e3d092b",
+     "party_lines": {
+      "DEM": 2010
+     }
+    },
+    {
+     "name": "Stephen Z. Clemens",
+     "votes": 2280,
+     "party": "REP",
+     "pct": 53.13,
+     "choice_id": "01000000-b600-c2c6-57cf-08df1e3d092b",
+     "party_lines": {
+      "REP": 1855,
+      "CONSERVATIVE": 425
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.02,
+     "choice_id": "01000000-b600-c2c6-5843-08df1e3d092b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-62b2-08df1e3d092b",
+   "state": "NY",
+   "title": "Sand Lake Town Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported, 6 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Kristen L. Kelley",
+     "votes": 1876,
+     "party": "DEM",
+     "pct": 43.38,
+     "choice_id": "01000000-b600-c2c6-63bd-08df1e3d092b",
+     "party_lines": {
+      "DEM": 1639,
+      "WFP": 237
+     }
+    },
+    {
+     "name": "Barbara A. Hansen",
+     "votes": 2447,
+     "party": "REP",
+     "pct": 56.58,
+     "choice_id": "01000000-b600-c2c6-6437-08df1e3d092b",
+     "party_lines": {
+      "REP": 1999,
+      "CONSERVATIVE": 448
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.05,
+     "choice_id": "01000000-b600-c2c6-649f-08df1e3d092b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-71cd-08df1e3d092b",
+   "state": "NY",
+   "title": "Schaghticoke Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": "0 of 7 precincts fully reported, 7 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Timothy S. Salisbury",
+     "votes": 2626,
+     "party": "REP",
+     "pct": 99.06,
+     "choice_id": "01000000-b600-c2c6-71ea-08df1e3d092b",
+     "party_lines": {
+      "REP": 2095,
+      "CONSERVATIVE": 531
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 25,
+     "party": null,
+     "pct": 0.94,
+     "choice_id": "01000000-b600-c2c6-7271-08df1e3d092b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-7bda-08df1e3d092b",
+   "state": "NY",
+   "title": "Schaghticoke Town Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": "0 of 7 precincts fully reported, 7 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Emily D. Calhoun",
+     "votes": 2660,
+     "party": "REP",
+     "pct": 99.36,
+     "choice_id": "01000000-b600-c2c6-7bf5-08df1e3d092b",
+     "party_lines": {
+      "REP": 2130,
+      "CONSERVATIVE": 530
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 17,
+     "party": null,
+     "pct": 0.64,
+     "choice_id": "01000000-b600-c2c6-7c78-08df1e3d092b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-85d2-08df1e3d092b",
+   "state": "NY",
+   "title": "Schodack Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 11,
+    "pct": 0.0,
+    "text": "0 of 11 precincts fully reported, 11 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Charles J. Peter",
+     "votes": 4251,
+     "party": "REP",
+     "pct": 97.37,
+     "choice_id": "01000000-b600-c2c6-85ee-08df1e3d092b",
+     "party_lines": {
+      "REP": 3303,
+      "CONSERVATIVE": 948
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 115,
+     "party": null,
+     "pct": 2.63,
+     "choice_id": "01000000-b600-c2c6-86a7-08df1e3d092b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-94ad-08df1e3d092b",
+   "state": "NY",
+   "title": "Supreme Court Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "partial",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 117,
+    "pct": 0.0,
+    "text": "0 of 117 precincts fully reported, 117 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Amy E. Joyce",
+     "votes": 37374,
+     "party": "DEM",
+     "pct": 50.34,
+     "choice_id": "01000000-b600-c2c6-94d5-08df1e3d092b",
+     "party_lines": {
+      "DEM": 37374
+     }
+    },
+    {
+     "name": "Jennifer G. Sober",
+     "votes": 36026,
+     "party": "DEM",
+     "pct": 48.53,
+     "choice_id": "01000000-b600-c2c6-980b-08df1e3d092b",
+     "party_lines": {
+      "DEM": 36026
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 840,
+     "party": null,
+     "pct": 1.13,
+     "choice_id": "01000000-b600-c2c6-9d3e-08df1e3d092b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-bfb2-08df1e3d092b",
+   "state": "NY",
+   "title": "Town of Grafton Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported, 2 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Write-in",
+     "votes": 9,
+     "party": null,
+     "pct": 1.12,
+     "choice_id": "01000000-b600-c2c6-c040-08df1e3d092b",
+     "party_lines": null
+    },
+    {
+     "name": "Joseph Alund",
+     "votes": 798,
+     "party": "REP",
+     "pct": 98.88,
+     "choice_id": "01000000-b600-c2c6-c06c-08df1e3d092b",
+     "party_lines": {
+      "REP": 602,
+      "CONSERVATIVE": 196
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-c378-08df1e3d092b",
+   "state": "NY",
+   "title": "Poestenkill Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported, 4 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Thomas F. Slavin, JR",
+     "votes": 1643,
+     "party": "REP",
+     "pct": 97.62,
+     "choice_id": "01000000-b600-c2c6-c394-08df1e3d092b",
+     "party_lines": {
+      "REP": 1252,
+      "CONSERVATIVE": 391
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 40,
+     "party": null,
+     "pct": 2.38,
+     "choice_id": "01000000-b600-c2c6-c3f0-08df1e3d092b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-c99a-08df1e3d092b",
+   "state": "NY",
+   "title": "Schaghticoke Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": "0 of 7 precincts fully reported, 7 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Jaime B. Thomas",
+     "votes": 2614,
+     "party": "REP",
+     "pct": 99.28,
+     "choice_id": "01000000-b600-c2c6-c9b8-08df1e3d092b",
+     "party_lines": {
+      "REP": 2078,
+      "CONSERVATIVE": 536
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 19,
+     "party": null,
+     "pct": 0.72,
+     "choice_id": "01000000-b600-c2c6-ca42-08df1e3d092b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-d3a5-08df1e3d092b",
+   "state": "NY",
+   "title": "Schodack Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 11,
+    "pct": 0.0,
+    "text": "0 of 11 precincts fully reported, 11 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Ryan P. Mullahy",
+     "votes": 4273,
+     "party": "REP",
+     "pct": 97.85,
+     "choice_id": "01000000-b600-c2c6-d3be-08df1e3d092b",
+     "party_lines": {
+      "REP": 3321,
+      "CONSERVATIVE": 952
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 94,
+     "party": null,
+     "pct": 2.15,
+     "choice_id": "01000000-b600-c2c6-d473-08df1e3d092b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-e67d-08df1e3d092b",
+   "state": "NY",
+   "title": "Stephentown Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported, 2 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Phyliss H. DeFreest",
+     "votes": 502,
+     "party": "REP",
+     "pct": 26.82,
+     "choice_id": "01000000-b600-c2c6-e6c4-08df1e3d092b",
+     "party_lines": {
+      "REP": 413,
+      "CONSERVATIVE": 89
+     }
+    },
+    {
+     "name": "Bruce B. Smith",
+     "votes": 469,
+     "party": "REP",
+     "pct": 25.05,
+     "choice_id": "01000000-b600-c2c6-e738-08df1e3d092b",
+     "party_lines": {
+      "REP": 376,
+      "CONSERVATIVE": 93
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 901,
+     "party": null,
+     "pct": 48.13,
+     "choice_id": "01000000-b600-c2c6-e797-08df1e3d092b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-ef1c-08df1e3d092b",
+   "state": "NY",
+   "title": "PROPOSITION NO. 1 - North Greenbush",
+   "office_type": "measure",
+   "district": "1",
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 8,
+    "pct": 0.0,
+    "text": "0 of 8 precincts fully reported, 8 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2379,
+     "party": null,
+     "pct": 38.44,
+     "choice_id": "01000000-b600-c2c6-ef37-08df1e3d092b",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 3810,
+     "party": null,
+     "pct": 61.56,
+     "choice_id": "01000000-b600-c2c6-ef88-08df1e3d092b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-f9c0-08df1e3d092b",
+   "state": "NY",
+   "title": "PROPOSITION NO. 2 - North Greenbush",
+   "office_type": "measure",
+   "district": "2",
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 8,
+    "pct": 0.0,
+    "text": "0 of 8 precincts fully reported, 8 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2668,
+     "party": null,
+     "pct": 43.29,
+     "choice_id": "01000000-b600-c2c6-f9e4-08df1e3d092b",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 3495,
+     "party": null,
+     "pct": 56.71,
+     "choice_id": "01000000-b600-c2c6-fac8-08df1e3d092b",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-0823-08df1e3d092c",
+   "state": "NY",
+   "title": "PROPOSITION NO. 3 - North Greenbush",
+   "office_type": "measure",
+   "district": "3",
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 8,
+    "pct": 0.0,
+    "text": "0 of 8 precincts fully reported, 8 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2546,
+     "party": null,
+     "pct": 41.38,
+     "choice_id": "01000000-b600-c2c6-0858-08df1e3d092c",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 3606,
+     "party": null,
+     "pct": 58.62,
+     "choice_id": "01000000-b600-c2c6-08d2-08df1e3d092c",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-145d-08df1e3d092c",
+   "state": "NY",
+   "title": "PROPOSITION NO. 1 - Sand Lake",
+   "office_type": "measure",
+   "district": "1",
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported, 6 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1628,
+     "party": null,
+     "pct": 39.54,
+     "choice_id": "01000000-b600-c2c6-1486-08df1e3d092c",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 2489,
+     "party": null,
+     "pct": 60.46,
+     "choice_id": "01000000-b600-c2c6-14f0-08df1e3d092c",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-1d72-08df1e3d092c",
+   "state": "NY",
+   "title": "PROPOSITION NO. 2 - Sand Lake",
+   "office_type": "measure",
+   "district": "2",
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported, 6 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1800,
+     "party": null,
+     "pct": 43.9,
+     "choice_id": "01000000-b600-c2c6-1d98-08df1e3d092c",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 2300,
+     "party": null,
+     "pct": 56.1,
+     "choice_id": "01000000-b600-c2c6-1e61-08df1e3d092c",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-24d0-08df1e3d092c",
+   "state": "NY",
+   "title": "PROPOSITION NO. 1 - East Greenbush",
+   "office_type": "measure",
+   "district": "1",
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 12,
+    "pct": 0.0,
+    "text": "0 of 12 precincts fully reported, 12 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 4488,
+     "party": null,
+     "pct": 63.86,
+     "choice_id": "01000000-b600-c2c6-24f0-08df1e3d092c",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 2540,
+     "party": null,
+     "pct": 36.14,
+     "choice_id": "01000000-b600-c2c6-2586-08df1e3d092c",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-3443-08df1e3d092c",
+   "state": "NY",
+   "title": "PROPOSITION NO. 1 - Nassau",
+   "office_type": "measure",
+   "district": "1",
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported, 4 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1314,
+     "party": null,
+     "pct": 68.54,
+     "choice_id": "01000000-b600-c2c6-346b-08df1e3d092c",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 603,
+     "party": null,
+     "pct": 31.46,
+     "choice_id": "01000000-b600-c2c6-34ac-08df1e3d092c",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-3945-08df1e3d092c",
+   "state": "NY",
+   "title": "PROPOSITION NO. 1 - Schodack",
+   "office_type": "measure",
+   "district": "1",
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 11,
+    "pct": 0.0,
+    "text": "0 of 11 precincts fully reported, 11 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2919,
+     "party": null,
+     "pct": 49.08,
+     "choice_id": "01000000-b600-c2c6-39b6-08df1e3d092c",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 3029,
+     "party": null,
+     "pct": 50.92,
+     "choice_id": "01000000-b600-c2c6-3a19-08df1e3d092c",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.rensselaer",
+   "contest_id": "01000000-b600-c2c6-4389-08df1e3d092c",
+   "state": "NY",
+   "title": "Proposition NO. 1 - Postenkill",
+   "office_type": "measure",
+   "district": "1",
+   "jurisdiction": "Rensselaer County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported, 4 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:57:23.3656117Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1498,
+     "party": null,
+     "pct": 67.27,
+     "choice_id": "01000000-b600-c2c6-439d-08df1e3d092c",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 729,
+     "party": null,
+     "pct": 32.73,
+     "choice_id": "01000000-b600-c2c6-43f4-08df1e3d092c",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  }
+ ],
+ "contests_hash": "ad6674bad7eb4adb",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-04T15:00:43+00:00",
+ "fetched_at": "2026-11-04T15:00:43+00:00",
+ "contests_changed_at": "2026-11-04T14:55:42+00:00"
+}

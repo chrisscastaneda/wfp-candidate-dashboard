@@ -1,0 +1,4276 @@
+{
+ "source": "ny.orange",
+ "contests": [
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-9b55-08df1a7f46db",
+   "state": "NY",
+   "title": "Supervisor for Blooming Grove",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 21,
+    "pct": 0.0,
+    "text": "0 of 21 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Cathy Gregg-Acevedo",
+     "votes": 3435,
+     "party": "DEM",
+     "pct": 57.95,
+     "choice_id": "01000000-453d-3e8f-9b80-08df1a7f46db",
+     "party_lines": {
+      "DEM": 3435
+     }
+    },
+    {
+     "name": "Robert C. Jeroloman",
+     "votes": 2485,
+     "party": "REP",
+     "pct": 41.92,
+     "choice_id": "01000000-453d-3e8f-9ba8-08df1a7f46db",
+     "party_lines": {
+      "REP": 2166,
+      "CONSERVATIVE": 319
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": null,
+     "pct": 0.13,
+     "choice_id": "01000000-453d-3e8f-9bda-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-9bf3-08df1a7f46db",
+   "state": "NY",
+   "title": "Supervisor for Cornwall",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 15,
+    "pct": 0.0,
+    "text": "0 of 15 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Josh Wojehowski",
+     "votes": 2918,
+     "party": "DEM",
+     "pct": 50.26,
+     "choice_id": "01000000-453d-3e8f-9c2a-08df1a7f46db",
+     "party_lines": {
+      "DEM": 2579,
+      "WFP": 339
+     }
+    },
+    {
+     "name": "Helen L. Bunt",
+     "votes": 2880,
+     "party": "REP",
+     "pct": 49.6,
+     "choice_id": "01000000-453d-3e8f-9c5e-08df1a7f46db",
+     "party_lines": {
+      "REP": 2566,
+      "CONSERVATIVE": 314
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": null,
+     "pct": 0.14,
+     "choice_id": "01000000-453d-3e8f-9c81-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-9ca0-08df1a7f46db",
+   "state": "NY",
+   "title": "Supervisor for Crawford",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 8,
+    "pct": 0.0,
+    "text": "0 of 8 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Michael J. Menendez",
+     "votes": 2410,
+     "party": "REP",
+     "pct": 99.3,
+     "choice_id": "01000000-453d-3e8f-9ce6-08df1a7f46db",
+     "party_lines": {
+      "REP": 2062,
+      "CONSERVATIVE": 348
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 17,
+     "party": null,
+     "pct": 0.7,
+     "choice_id": "01000000-453d-3e8f-9d00-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-9d18-08df1a7f46db",
+   "state": "NY",
+   "title": "Supervisor for Deerpark",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": "0 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Stephanie A. Vandemark",
+     "votes": 855,
+     "party": "DEM",
+     "pct": 33.87,
+     "choice_id": "01000000-453d-3e8f-9d50-08df1a7f46db",
+     "party_lines": {
+      "DEM": 754,
+      "WFP": 101
+     }
+    },
+    {
+     "name": "Alan F. Schock",
+     "votes": 1665,
+     "party": "REP",
+     "pct": 65.97,
+     "choice_id": "01000000-453d-3e8f-9d7d-08df1a7f46db",
+     "party_lines": {
+      "REP": 1520,
+      "CONSERVATIVE": 145
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 4,
+     "party": null,
+     "pct": 0.16,
+     "choice_id": "01000000-453d-3e8f-9dac-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-9dcc-08df1a7f46db",
+   "state": "NY",
+   "title": "Supervisor for Goshen",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 13,
+    "pct": 0.0,
+    "text": "0 of 13 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Sam Bergsohn",
+     "votes": 2653,
+     "party": "DEM",
+     "pct": 50.26,
+     "choice_id": "01000000-453d-3e8f-9dfc-08df1a7f46db",
+     "party_lines": {
+      "DEM": 2435,
+      "WFP": 218
+     }
+    },
+    {
+     "name": "Joseph Betro",
+     "votes": 2625,
+     "party": "REP",
+     "pct": 49.73,
+     "choice_id": "01000000-453d-3e8f-9e2a-08df1a7f46db",
+     "party_lines": {
+      "REP": 2310,
+      "CONSERVATIVE": 315
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.02,
+     "choice_id": "01000000-453d-3e8f-9e5d-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-9395-08df1a7f46db",
+   "state": "NY",
+   "title": "Member of the House of Representatives for 18th Congressional District",
+   "office_type": "federal_house",
+   "district": "18",
+   "jurisdiction": "Orange County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 340,
+    "pct": 0.0,
+    "text": "0 of 340 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Pat Ryan",
+     "votes": 74065,
+     "party": "DEM",
+     "pct": 60.35,
+     "choice_id": "01000000-453d-3e8f-93ce-08df1a7f46db",
+     "party_lines": {
+      "DEM": 67910,
+      "WFP": 6155
+     }
+    },
+    {
+     "name": "Jackie Mary Auringer",
+     "votes": 48578,
+     "party": "REP",
+     "pct": 39.59,
+     "choice_id": "01000000-453d-3e8f-9412-08df1a7f46db",
+     "party_lines": {
+      "REP": 43534,
+      "CONSERVATIVE": 5044
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 74,
+     "party": null,
+     "pct": 0.06,
+     "choice_id": "01000000-453d-3e8f-9459-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-947f-08df1a7f46db",
+   "state": "NY",
+   "title": "New York State Senator for 39th Senatorial District",
+   "office_type": "state_senate",
+   "district": "39",
+   "jurisdiction": "Orange County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 63,
+    "pct": 0.0,
+    "text": "0 of 63 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Lisa Kaul",
+     "votes": 13599,
+     "party": "DEM",
+     "pct": 56.27,
+     "choice_id": "01000000-453d-3e8f-94bc-08df1a7f46db",
+     "party_lines": {
+      "DEM": 12054,
+      "WFP": 1545
+     }
+    },
+    {
+     "name": "Robert G. Rolison",
+     "votes": 10566,
+     "party": "REP",
+     "pct": 43.72,
+     "choice_id": "01000000-453d-3e8f-94f8-08df1a7f46db",
+     "party_lines": {
+      "REP": 9475,
+      "CONSERVATIVE": 1091
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.01,
+     "choice_id": "01000000-453d-3e8f-953b-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-956b-08df1a7f46db",
+   "state": "NY",
+   "title": "New York State Senator for 42nd Senatorial District",
+   "office_type": "state_senate",
+   "district": "42",
+   "jurisdiction": "Orange County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 277,
+    "pct": 0.0,
+    "text": "0 of 277 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "James G. Skoufis",
+     "votes": 59378,
+     "party": "DEM",
+     "pct": 60.32,
+     "choice_id": "01000000-453d-3e8f-95a5-08df1a7f46db",
+     "party_lines": {
+      "DEM": 54802,
+      "WFP": 4576
+     }
+    },
+    {
+     "name": "Jennifer R. Figueroa",
+     "votes": 35343,
+     "party": "REP",
+     "pct": 35.9,
+     "choice_id": "01000000-453d-3e8f-95e9-08df1a7f46db",
+     "party_lines": {
+      "REP": 35343
+     }
+    },
+    {
+     "name": "Joshua Blumenthal",
+     "votes": 3625,
+     "party": "CONSERVATIVE",
+     "pct": 3.68,
+     "choice_id": "01000000-453d-3e8f-9632-08df1a7f46db",
+     "party_lines": {
+      "CONSERVATIVE": 3625
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 90,
+     "party": null,
+     "pct": 0.09,
+     "choice_id": "01000000-453d-3e8f-965f-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-9e79-08df1a7f46db",
+   "state": "NY",
+   "title": "Supervisor for Greenville",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "David Zubikowski",
+     "votes": 1302,
+     "party": "REP",
+     "pct": 99.24,
+     "choice_id": "01000000-453d-3e8f-9eb9-08df1a7f46db",
+     "party_lines": {
+      "REP": 1106,
+      "CONSERVATIVE": 196
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 10,
+     "party": null,
+     "pct": 0.76,
+     "choice_id": "01000000-453d-3e8f-a10d-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-a131-08df1a7f46db",
+   "state": "NY",
+   "title": "Supervisor for Hamptonburgh",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Robert S. Jankowski",
+     "votes": 1583,
+     "party": "REP",
+     "pct": 99.06,
+     "choice_id": "01000000-453d-3e8f-a171-08df1a7f46db",
+     "party_lines": {
+      "REP": 1361,
+      "CONSERVATIVE": 222
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 15,
+     "party": null,
+     "pct": 0.94,
+     "choice_id": "01000000-453d-3e8f-a194-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-a1b2-08df1a7f46db",
+   "state": "NY",
+   "title": "Supervisor for Highlands",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 8,
+    "pct": 0.0,
+    "text": "0 of 8 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Bob Livsey",
+     "votes": 1342,
+     "party": "DEM",
+     "pct": 81.43,
+     "choice_id": "01000000-453d-3e8f-a1f3-08df1a7f46db",
+     "party_lines": {
+      "DEM": 1210,
+      "HIGHLANDS FI": 132
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 306,
+     "party": null,
+     "pct": 18.57,
+     "choice_id": "01000000-453d-3e8f-a215-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-a22f-08df1a7f46db",
+   "state": "NY",
+   "title": "Supervisor for Minisink",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Barbara A. Clifford",
+     "votes": 1273,
+     "party": "REP",
+     "pct": 98.15,
+     "choice_id": "01000000-453d-3e8f-a26d-08df1a7f46db",
+     "party_lines": {
+      "REP": 1126,
+      "CONSERVATIVE": 147
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 24,
+     "party": null,
+     "pct": 1.85,
+     "choice_id": "01000000-453d-3e8f-a29a-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-a2b6-08df1a7f46db",
+   "state": "NY",
+   "title": "Supervisor for Montgomery",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 19,
+    "pct": 0.0,
+    "text": "0 of 19 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Ashley L. Dmitrieff",
+     "votes": 3598,
+     "party": "DEM",
+     "pct": 45.16,
+     "choice_id": "01000000-453d-3e8f-a2ee-08df1a7f46db",
+     "party_lines": {
+      "DEM": 3208,
+      "WFP": 390
+     }
+    },
+    {
+     "name": "L. Stephen Brescia",
+     "votes": 4362,
+     "party": "REP",
+     "pct": 54.75,
+     "choice_id": "01000000-453d-3e8f-a31c-08df1a7f46db",
+     "party_lines": {
+      "REP": 3871,
+      "CONSERVATIVE": 491
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 7,
+     "party": null,
+     "pct": 0.09,
+     "choice_id": "01000000-453d-3e8f-a341-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-a360-08df1a7f46db",
+   "state": "NY",
+   "title": "Supervisor for Mount Hope",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Paul J. Rickard Jr",
+     "votes": 1421,
+     "party": "REP",
+     "pct": 98.82,
+     "choice_id": "01000000-453d-3e8f-a3a3-08df1a7f46db",
+     "party_lines": {
+      "REP": 1244,
+      "CONSERVATIVE": 177
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 17,
+     "party": null,
+     "pct": 1.18,
+     "choice_id": "01000000-453d-3e8f-a3cc-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-a3e6-08df1a7f46db",
+   "state": "NY",
+   "title": "Supervisor for New Windsor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 23,
+    "pct": 0.0,
+    "text": "0 of 23 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Stephen A. Bedetti",
+     "votes": 5578,
+     "party": "REP",
+     "pct": 98.94,
+     "choice_id": "01000000-453d-3e8f-a432-08df1a7f46db",
+     "party_lines": {
+      "REP": 4642,
+      "CONSERVATIVE": 936
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 60,
+     "party": null,
+     "pct": 1.06,
+     "choice_id": "01000000-453d-3e8f-a44b-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-a465-08df1a7f46db",
+   "state": "NY",
+   "title": "Supervisor for Newburgh Town",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 27,
+    "pct": 0.0,
+    "text": "0 of 27 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Stephen Krasner",
+     "votes": 5861,
+     "party": "DEM",
+     "pct": 50.02,
+     "choice_id": "01000000-453d-3e8f-a4a5-08df1a7f46db",
+     "party_lines": {
+      "DEM": 5308,
+      "WFP": 553
+     }
+    },
+    {
+     "name": "Scott M. Manley",
+     "votes": 5854,
+     "party": "REP",
+     "pct": 49.96,
+     "choice_id": "01000000-453d-3e8f-a4d2-08df1a7f46db",
+     "party_lines": {
+      "REP": 5237,
+      "CONSERVATIVE": 617
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.03,
+     "choice_id": "01000000-453d-3e8f-a4f4-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-a516-08df1a7f46db",
+   "state": "NY",
+   "title": "Supervisor for Tuxedo",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "David M. McMillen",
+     "votes": 956,
+     "party": "REP",
+     "pct": 98.15,
+     "choice_id": "01000000-453d-3e8f-a558-08df1a7f46db",
+     "party_lines": {
+      "REP": 956
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 18,
+     "party": null,
+     "pct": 1.85,
+     "choice_id": "01000000-453d-3e8f-a575-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-a58e-08df1a7f46db",
+   "state": "NY",
+   "title": "Supervisor for Wallkill",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 27,
+    "pct": 0.0,
+    "text": "0 of 27 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Frank DenDanto III",
+     "votes": 5265,
+     "party": "DEM",
+     "pct": 56.25,
+     "choice_id": "01000000-453d-3e8f-a5ce-08df1a7f46db",
+     "party_lines": {
+      "DEM": 5265
+     }
+    },
+    {
+     "name": "Jillian R. Wilkins",
+     "votes": 4084,
+     "party": "REP",
+     "pct": 43.63,
+     "choice_id": "01000000-453d-3e8f-a5f9-08df1a7f46db",
+     "party_lines": {
+      "REP": 3562,
+      "CONSERVATIVE": 522
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 11,
+     "party": null,
+     "pct": 0.12,
+     "choice_id": "01000000-453d-3e8f-a61a-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-a635-08df1a7f46db",
+   "state": "NY",
+   "title": "Supervisor for Wawayanda",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": "0 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Charles M. Kangethe",
+     "votes": 1294,
+     "party": "DEM",
+     "pct": 45.85,
+     "choice_id": "01000000-453d-3e8f-a671-08df1a7f46db",
+     "party_lines": {
+      "DEM": 1203,
+      "SAVE WAWAYAN": 91
+     }
+    },
+    {
+     "name": "Denise F. Quinn",
+     "votes": 1528,
+     "party": "REP",
+     "pct": 54.15,
+     "choice_id": "01000000-453d-3e8f-a6a8-08df1a7f46db",
+     "party_lines": {
+      "REP": 1373,
+      "CONSERVATIVE": 155
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-a6e5-08df1a7f46db",
+   "state": "NY",
+   "title": "Supervisor for Woodbury",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 13,
+    "pct": 0.0,
+    "text": "0 of 13 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Jacqueline C. Hernandez",
+     "votes": 2347,
+     "party": "DEM",
+     "pct": 66.52,
+     "choice_id": "01000000-453d-3e8f-a722-08df1a7f46db",
+     "party_lines": {
+      "DEM": 2124,
+      "WE THE PEOPL": 223
+     }
+    },
+    {
+     "name": "Kathryn D. Luciani",
+     "votes": 1175,
+     "party": "REP",
+     "pct": 33.3,
+     "choice_id": "01000000-453d-3e8f-a74e-08df1a7f46db",
+     "party_lines": {
+      "REP": 1064,
+      "CONSERVATIVE": 111
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 6,
+     "party": null,
+     "pct": 0.17,
+     "choice_id": "01000000-453d-3e8f-a770-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-a78c-08df1a7f46db",
+   "state": "NY",
+   "title": "Town Clerk for Blooming Grove",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 21,
+    "pct": 0.0,
+    "text": "0 of 21 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Darlena E. Decker",
+     "votes": 3642,
+     "party": "REP",
+     "pct": 99.35,
+     "choice_id": "01000000-453d-3e8f-a7d6-08df1a7f46db",
+     "party_lines": {
+      "REP": 3642
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 24,
+     "party": null,
+     "pct": 0.65,
+     "choice_id": "01000000-453d-3e8f-a7f1-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-a80d-08df1a7f46db",
+   "state": "NY",
+   "title": "Town Clerk for Crawford",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 8,
+    "pct": 0.0,
+    "text": "0 of 8 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Jessica M. Kempter",
+     "votes": 2451,
+     "party": "REP",
+     "pct": 99.39,
+     "choice_id": "01000000-453d-3e8f-a852-08df1a7f46db",
+     "party_lines": {
+      "REP": 2101,
+      "CONSERVATIVE": 350
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 15,
+     "party": null,
+     "pct": 0.61,
+     "choice_id": "01000000-453d-3e8f-a86f-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-a88b-08df1a7f46db",
+   "state": "NY",
+   "title": "Town Clerk for Deerpark",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": "0 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Florence T. Santini",
+     "votes": 1954,
+     "party": "REP",
+     "pct": 99.29,
+     "choice_id": "01000000-453d-3e8f-a8cc-08df1a7f46db",
+     "party_lines": {
+      "REP": 1730,
+      "CONSERVATIVE": 224
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 14,
+     "party": null,
+     "pct": 0.71,
+     "choice_id": "01000000-453d-3e8f-a8eb-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-a910-08df1a7f46db",
+   "state": "NY",
+   "title": "Town Clerk for Goshen",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 13,
+    "pct": 0.0,
+    "text": "0 of 13 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Mary A. Riso",
+     "votes": 3417,
+     "party": "REP",
+     "pct": 99.01,
+     "choice_id": "01000000-453d-3e8f-a93a-08df1a7f46db",
+     "party_lines": {
+      "REP": 2904,
+      "CONSERVATIVE": 513
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 34,
+     "party": null,
+     "pct": 0.99,
+     "choice_id": "01000000-453d-3e8f-a96b-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-a987-08df1a7f46db",
+   "state": "NY",
+   "title": "Town Clerk for Greenville",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Theresa M. Whelan",
+     "votes": 1303,
+     "party": "REP",
+     "pct": 99.47,
+     "choice_id": "01000000-453d-3e8f-a9c6-08df1a7f46db",
+     "party_lines": {
+      "REP": 1105,
+      "CONSERVATIVE": 198
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 7,
+     "party": null,
+     "pct": 0.53,
+     "choice_id": "01000000-453d-3e8f-a9e6-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-aa01-08df1a7f46db",
+   "state": "NY",
+   "title": "Town Clerk for Hamptonburgh",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Christine Durante",
+     "votes": 1620,
+     "party": "REP",
+     "pct": 99.45,
+     "choice_id": "01000000-453d-3e8f-aa47-08df1a7f46db",
+     "party_lines": {
+      "REP": 1397,
+      "CONSERVATIVE": 223
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 9,
+     "party": null,
+     "pct": 0.55,
+     "choice_id": "01000000-453d-3e8f-aa6a-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-aa85-08df1a7f46db",
+   "state": "NY",
+   "title": "Town Clerk for Minisink",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Sally A. Crawford",
+     "votes": 1337,
+     "party": "REP",
+     "pct": 99.41,
+     "choice_id": "01000000-453d-3e8f-aabf-08df1a7f46db",
+     "party_lines": {
+      "REP": 1189,
+      "CONSERVATIVE": 148
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": null,
+     "pct": 0.59,
+     "choice_id": "01000000-453d-3e8f-aae1-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-aafe-08df1a7f46db",
+   "state": "NY",
+   "title": "Town Clerk for Mount Hope",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Heidi Phillips",
+     "votes": 1446,
+     "party": "REP",
+     "pct": 99.59,
+     "choice_id": "01000000-453d-3e8f-ab44-08df1a7f46db",
+     "party_lines": {
+      "REP": 1257,
+      "CONSERVATIVE": 189
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 6,
+     "party": null,
+     "pct": 0.41,
+     "choice_id": "01000000-453d-3e8f-ab5e-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-ab78-08df1a7f46db",
+   "state": "NY",
+   "title": "Town Clerk for Newburgh Town",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 27,
+    "pct": 0.0,
+    "text": "0 of 27 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Jennifer R. Knox",
+     "votes": 6220,
+     "party": "DEM",
+     "pct": 53.24,
+     "choice_id": "01000000-453d-3e8f-abbf-08df1a7f46db",
+     "party_lines": {
+      "DEM": 5645,
+      "WFP": 575
+     }
+    },
+    {
+     "name": "Lisa M. Vance-Ayers",
+     "votes": 5462,
+     "party": "REP",
+     "pct": 46.75,
+     "choice_id": "01000000-453d-3e8f-abec-08df1a7f46db",
+     "party_lines": {
+      "REP": 4907,
+      "CONSERVATIVE": 555
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.01,
+     "choice_id": "01000000-453d-3e8f-ac0d-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-ac28-08df1a7f46db",
+   "state": "NY",
+   "title": "Town Clerk for Wallkill",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 27,
+    "pct": 0.0,
+    "text": "0 of 27 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Clifton Alan Baker",
+     "votes": 4823,
+     "party": "DEM",
+     "pct": 51.35,
+     "choice_id": "01000000-453d-3e8f-ac66-08df1a7f46db",
+     "party_lines": {
+      "DEM": 4763,
+      "WALLKILLWINN": 60
+     }
+    },
+    {
+     "name": "Louisa M. Ingrassia",
+     "votes": 4565,
+     "party": "REP",
+     "pct": 48.6,
+     "choice_id": "01000000-453d-3e8f-ac94-08df1a7f46db",
+     "party_lines": {
+      "REP": 3989,
+      "CONSERVATIVE": 576
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 5,
+     "party": null,
+     "pct": 0.05,
+     "choice_id": "01000000-453d-3e8f-acb4-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-acd0-08df1a7f46db",
+   "state": "NY",
+   "title": "Town Clerk for Wawayanda",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": "0 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Rosemary Solimando",
+     "votes": 1281,
+     "party": "DEM",
+     "pct": 45.35,
+     "choice_id": "01000000-453d-3e8f-ad17-08df1a7f46db",
+     "party_lines": {
+      "DEM": 1183,
+      "SAVE WAWAYAN": 98
+     }
+    },
+    {
+     "name": "Kathryn A. Sherlock",
+     "votes": 1542,
+     "party": "REP",
+     "pct": 54.58,
+     "choice_id": "01000000-453d-3e8f-ad44-08df1a7f46db",
+     "party_lines": {
+      "REP": 1383,
+      "CONSERVATIVE": 159
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.07,
+     "choice_id": "01000000-453d-3e8f-ad63-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-ad7e-08df1a7f46db",
+   "state": "NY",
+   "title": "Council Member (TFV) for Cornwall",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 15,
+    "pct": 0.0,
+    "text": "0 of 15 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Scott Teresi",
+     "votes": 2982,
+     "party": "DEM",
+     "pct": 51.9,
+     "choice_id": "01000000-453d-3e8f-adb9-08df1a7f46db",
+     "party_lines": {
+      "DEM": 2625,
+      "WFP": 357
+     }
+    },
+    {
+     "name": "Angelo Schembari",
+     "votes": 2762,
+     "party": "REP",
+     "pct": 48.07,
+     "choice_id": "01000000-453d-3e8f-ade7-08df1a7f46db",
+     "party_lines": {
+      "REP": 2462,
+      "CONSERVATIVE": 300
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.03,
+     "choice_id": "01000000-453d-3e8f-ae09-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-ae2d-08df1a7f46db",
+   "state": "NY",
+   "title": "Council Member (TFV) for Monroe",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 22,
+    "pct": 0.0,
+    "text": "0 of 22 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Richard Colon",
+     "votes": 3192,
+     "party": "DEM",
+     "pct": 79.68,
+     "choice_id": "01000000-453d-3e8f-ae76-08df1a7f46db",
+     "party_lines": {
+      "DEM": 3192
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 814,
+     "party": null,
+     "pct": 20.32,
+     "choice_id": "01000000-453d-3e8f-aea1-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-aea7-08df1a7f46db",
+   "state": "NY",
+   "title": "Council Member (TFV) for New Windsor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 23,
+    "pct": 0.0,
+    "text": "0 of 23 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Joseph A. Cocchiara",
+     "votes": 4881,
+     "party": "DEM",
+     "pct": 54.81,
+     "choice_id": "01000000-453d-3e8f-aeee-08df1a7f46db",
+     "party_lines": {
+      "DEM": 4881
+     }
+    },
+    {
+     "name": "Michael J. Schwartz",
+     "votes": 4023,
+     "party": "REP",
+     "pct": 45.17,
+     "choice_id": "01000000-453d-3e8f-af18-08df1a7f46db",
+     "party_lines": {
+      "REP": 3581,
+      "CONSERVATIVE": 442
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.02,
+     "choice_id": "01000000-453d-3e8f-af34-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-af50-08df1a7f46db",
+   "state": "NY",
+   "title": "Tax Collector for Crawford",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 8,
+    "pct": 0.0,
+    "text": "0 of 8 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Constance F. Latimer",
+     "votes": 2313,
+     "party": "REP",
+     "pct": 99.23,
+     "choice_id": "01000000-453d-3e8f-af88-08df1a7f46db",
+     "party_lines": {
+      "REP": 2313
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 18,
+     "party": null,
+     "pct": 0.77,
+     "choice_id": "01000000-453d-3e8f-afb0-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-afcf-08df1a7f46db",
+   "state": "NY",
+   "title": "Tax Collector for Greenville",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Lisa M. O'Connor",
+     "votes": 1317,
+     "party": "REP",
+     "pct": 99.62,
+     "choice_id": "01000000-453d-3e8f-b012-08df1a7f46db",
+     "party_lines": {
+      "REP": 1119,
+      "CONSERVATIVE": 198
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 5,
+     "party": null,
+     "pct": 0.38,
+     "choice_id": "01000000-453d-3e8f-b02f-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-b04a-08df1a7f46db",
+   "state": "NY",
+   "title": "Tax Collector for Minisink",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Stacey L. Drake",
+     "votes": 1324,
+     "party": "REP",
+     "pct": 99.47,
+     "choice_id": "01000000-453d-3e8f-b085-08df1a7f46db",
+     "party_lines": {
+      "REP": 1179,
+      "CONSERVATIVE": 145
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 7,
+     "party": null,
+     "pct": 0.53,
+     "choice_id": "01000000-453d-3e8f-b0a6-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-b0c1-08df1a7f46db",
+   "state": "NY",
+   "title": "Superintendent of Highways for Blooming Grove",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 21,
+    "pct": 0.0,
+    "text": "0 of 21 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Wayne W. Kirkpatrick",
+     "votes": 4143,
+     "party": "REP",
+     "pct": 99.21,
+     "choice_id": "01000000-453d-3e8f-b104-08df1a7f46db",
+     "party_lines": {
+      "REP": 3576,
+      "CONSERVATIVE": 567
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 33,
+     "party": null,
+     "pct": 0.79,
+     "choice_id": "01000000-453d-3e8f-b127-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-b144-08df1a7f46db",
+   "state": "NY",
+   "title": "Superintendent of Highways (TFV) for Chester",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 9,
+    "pct": 0.0,
+    "text": "0 of 9 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Walter M. Popailo",
+     "votes": 1804,
+     "party": "REP",
+     "pct": 52.79,
+     "choice_id": "01000000-453d-3e8f-b18c-08df1a7f46db",
+     "party_lines": {
+      "REP": 1577,
+      "CONSERVATIVE": 227
+     }
+    },
+    {
+     "name": "Anthony Riale",
+     "votes": 1094,
+     "party": "CHESTER FIRS",
+     "pct": 32.02,
+     "choice_id": "01000000-453d-3e8f-b1b9-08df1a7f46db",
+     "party_lines": {
+      "CHESTER FIRS": 1094
+     }
+    },
+    {
+     "name": "Stephen Smith",
+     "votes": 495,
+     "party": "CHESTER GRIT",
+     "pct": 14.49,
+     "choice_id": "01000000-453d-3e8f-b1e5-08df1a7f46db",
+     "party_lines": {
+      "CHESTER GRIT": 495
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 24,
+     "party": null,
+     "pct": 0.7,
+     "choice_id": "01000000-453d-3e8f-b20f-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-b214-08df1a7f46db",
+   "state": "NY",
+   "title": "Superintendent of Highways for Crawford",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 8,
+    "pct": 0.0,
+    "text": "0 of 8 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Russell R. Futrell",
+     "votes": 2314,
+     "party": "REP",
+     "pct": 99.36,
+     "choice_id": "01000000-453d-3e8f-b255-08df1a7f46db",
+     "party_lines": {
+      "REP": 2314
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 15,
+     "party": null,
+     "pct": 0.64,
+     "choice_id": "01000000-453d-3e8f-b30d-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-b328-08df1a7f46db",
+   "state": "NY",
+   "title": "Superintendent of Highways for Deerpark",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": "0 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Raymond Cirulli",
+     "votes": 1929,
+     "party": "REP",
+     "pct": 98.92,
+     "choice_id": "01000000-453d-3e8f-b372-08df1a7f46db",
+     "party_lines": {
+      "REP": 1701,
+      "CONSERVATIVE": 228
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 21,
+     "party": null,
+     "pct": 1.08,
+     "choice_id": "01000000-453d-3e8f-b38c-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-b3a6-08df1a7f46db",
+   "state": "NY",
+   "title": "Superintendent of Highways for Goshen",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 13,
+    "pct": 0.0,
+    "text": "0 of 13 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "P. Broderick Knoell",
+     "votes": 3401,
+     "party": "REP",
+     "pct": 99.01,
+     "choice_id": "01000000-453d-3e8f-b3ea-08df1a7f46db",
+     "party_lines": {
+      "REP": 2872,
+      "CONSERVATIVE": 529
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 34,
+     "party": null,
+     "pct": 0.99,
+     "choice_id": "01000000-453d-3e8f-b408-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-b422-08df1a7f46db",
+   "state": "NY",
+   "title": "Superintendent of Highways for Greenville",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Stanley E. Hall",
+     "votes": 1288,
+     "party": "REP",
+     "pct": 99.38,
+     "choice_id": "01000000-453d-3e8f-b469-08df1a7f46db",
+     "party_lines": {
+      "REP": 1092,
+      "CONSERVATIVE": 196
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": null,
+     "pct": 0.62,
+     "choice_id": "01000000-453d-3e8f-b48b-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-b4a7-08df1a7f46db",
+   "state": "NY",
+   "title": "Superintendent of Highways for Hamptonburgh",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Michael Babb",
+     "votes": 1622,
+     "party": "REP",
+     "pct": 99.39,
+     "choice_id": "01000000-453d-3e8f-b4de-08df1a7f46db",
+     "party_lines": {
+      "REP": 1395,
+      "CONSERVATIVE": 227
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 10,
+     "party": null,
+     "pct": 0.61,
+     "choice_id": "01000000-453d-3e8f-b503-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-b522-08df1a7f46db",
+   "state": "NY",
+   "title": "Superintendent of Highways for Minisink",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "James A. Lain",
+     "votes": 1306,
+     "party": "REP",
+     "pct": 99.39,
+     "choice_id": "01000000-453d-3e8f-b568-08df1a7f46db",
+     "party_lines": {
+      "REP": 1158,
+      "CONSERVATIVE": 148
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": null,
+     "pct": 0.61,
+     "choice_id": "01000000-453d-3e8f-b585-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-b5a5-08df1a7f46db",
+   "state": "NY",
+   "title": "Superintendent of Highways for New Windsor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 23,
+    "pct": 0.0,
+    "text": "0 of 23 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Anthony E. Fayo",
+     "votes": 5398,
+     "party": "REP",
+     "pct": 99.06,
+     "choice_id": "01000000-453d-3e8f-b5eb-08df1a7f46db",
+     "party_lines": {
+      "REP": 4502,
+      "CONSERVATIVE": 896
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 51,
+     "party": null,
+     "pct": 0.94,
+     "choice_id": "01000000-453d-3e8f-b605-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-b61e-08df1a7f46db",
+   "state": "NY",
+   "title": "Superintendent of Highways for Wawayanda",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": "0 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Thomas J. DeBlock",
+     "votes": 1966,
+     "party": "REP",
+     "pct": 99.19,
+     "choice_id": "01000000-453d-3e8f-b661-08df1a7f46db",
+     "party_lines": {
+      "REP": 1694,
+      "CONSERVATIVE": 272
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 16,
+     "party": null,
+     "pct": 0.81,
+     "choice_id": "01000000-453d-3e8f-b67e-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-b699-08df1a7f46db",
+   "state": "NY",
+   "title": "Council Member for Blooming Grove Ward 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Vincent L. Lang",
+     "votes": 299,
+     "party": "VINNY'S YOUR",
+     "pct": 98.03,
+     "choice_id": "01000000-453d-3e8f-b6de-08df1a7f46db",
+     "party_lines": {
+      "VINNY'S YOUR": 299
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 6,
+     "party": null,
+     "pct": 1.97,
+     "choice_id": "01000000-453d-3e8f-b6f9-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-b71a-08df1a7f46db",
+   "state": "NY",
+   "title": "Council Member for Blooming Grove Ward 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Paul J. Niemann",
+     "votes": 634,
+     "party": "REP",
+     "pct": 99.06,
+     "choice_id": "01000000-453d-3e8f-b755-08df1a7f46db",
+     "party_lines": {
+      "REP": 538,
+      "CONSERVATIVE": 96
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 6,
+     "party": null,
+     "pct": 0.94,
+     "choice_id": "01000000-453d-3e8f-b778-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-b795-08df1a7f46db",
+   "state": "NY",
+   "title": "Council Member for Blooming Grove Ward 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "John F. Byrnes",
+     "votes": 552,
+     "party": "REP",
+     "pct": 99.46,
+     "choice_id": "01000000-453d-3e8f-b7d0-08df1a7f46db",
+     "party_lines": {
+      "REP": 457,
+      "CONSERVATIVE": 95
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.54,
+     "choice_id": "01000000-453d-3e8f-b7f2-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-b80f-08df1a7f46db",
+   "state": "NY",
+   "title": "Council Member for Blooming Grove Ward 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Simon Schwartz",
+     "votes": 624,
+     "party": "RSBM",
+     "pct": 97.96,
+     "choice_id": "01000000-453d-3e8f-b84e-08df1a7f46db",
+     "party_lines": {
+      "RSBM": 624
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 13,
+     "party": null,
+     "pct": 2.04,
+     "choice_id": "01000000-453d-3e8f-b874-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-b891-08df1a7f46db",
+   "state": "NY",
+   "title": "Council Member for Blooming Grove Ward 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "John P. Stegenga",
+     "votes": 656,
+     "party": "REP",
+     "pct": 98.8,
+     "choice_id": "01000000-453d-3e8f-b8ce-08df1a7f46db",
+     "party_lines": {
+      "REP": 555,
+      "CONSERVATIVE": 101
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": null,
+     "pct": 1.2,
+     "choice_id": "01000000-453d-3e8f-b8ee-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-b909-08df1a7f46db",
+   "state": "NY",
+   "title": "Council Member for Blooming Grove Ward 6",
+   "office_type": "local",
+   "district": "6",
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Steven J. Amante",
+     "votes": 695,
+     "party": "REP",
+     "pct": 98.86,
+     "choice_id": "01000000-453d-3e8f-b93e-08df1a7f46db",
+     "party_lines": {
+      "REP": 575,
+      "CONSERVATIVE": 120
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": null,
+     "pct": 1.14,
+     "choice_id": "01000000-453d-3e8f-b962-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-b980-08df1a7f46db",
+   "state": "NY",
+   "title": "Council Member for Chester Ward 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Robert G. Courtenay",
+     "votes": 558,
+     "party": "DEM",
+     "pct": 51.67,
+     "choice_id": "01000000-453d-3e8f-b9c8-08df1a7f46db",
+     "party_lines": {
+      "DEM": 485,
+      "WFP": 73
+     }
+    },
+    {
+     "name": "Robert W. Klein",
+     "votes": 522,
+     "party": "REP",
+     "pct": 48.33,
+     "choice_id": "01000000-453d-3e8f-b9f5-08df1a7f46db",
+     "party_lines": {
+      "REP": 495,
+      "VOTE AFFORDA": 27
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-ba2d-08df1a7f46db",
+   "state": "NY",
+   "title": "Council Member for Chester Ward 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Thomas Becker",
+     "votes": 660,
+     "party": "DEM",
+     "pct": 63.83,
+     "choice_id": "01000000-453d-3e8f-ba70-08df1a7f46db",
+     "party_lines": {
+      "DEM": 660
+     }
+    },
+    {
+     "name": "Cindy Smith",
+     "votes": 373,
+     "party": "REP",
+     "pct": 36.07,
+     "choice_id": "01000000-453d-3e8f-ba9a-08df1a7f46db",
+     "party_lines": {
+      "REP": 339,
+      "CONSERVATIVE": 34
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.1,
+     "choice_id": "01000000-453d-3e8f-bab7-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-badb-08df1a7f46db",
+   "state": "NY",
+   "title": "Council Member for Chester Ward 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Stephen Diffley",
+     "votes": 731,
+     "party": "DEM",
+     "pct": 60.92,
+     "choice_id": "01000000-453d-3e8f-bb21-08df1a7f46db",
+     "party_lines": {
+      "DEM": 651,
+      "WFP": 80
+     }
+    },
+    {
+     "name": "Yael Block",
+     "votes": 466,
+     "party": "REP",
+     "pct": 38.83,
+     "choice_id": "01000000-453d-3e8f-bb4d-08df1a7f46db",
+     "party_lines": {
+      "REP": 420,
+      "CONSERVATIVE": 46
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.25,
+     "choice_id": "01000000-453d-3e8f-bb67-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-bb82-08df1a7f46db",
+   "state": "NY",
+   "title": "Council Member for Chester Ward 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Ryan Senning",
+     "votes": 533,
+     "party": "DEM",
+     "pct": 48.32,
+     "choice_id": "01000000-453d-3e8f-bbba-08df1a7f46db",
+     "party_lines": {
+      "DEM": 472,
+      "WFP": 61
+     }
+    },
+    {
+     "name": "Giuseppe Cassara",
+     "votes": 570,
+     "party": "REP",
+     "pct": 51.68,
+     "choice_id": "01000000-453d-3e8f-bbe7-08df1a7f46db",
+     "party_lines": {
+      "REP": 512,
+      "CONSERVATIVE": 58
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-bc30-08df1a7f46db",
+   "state": "NY",
+   "title": "Council Member for Wallkill Ward 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": "0 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Jean Day",
+     "votes": 1171,
+     "party": "DEM",
+     "pct": 52.96,
+     "choice_id": "01000000-453d-3e8f-bc71-08df1a7f46db",
+     "party_lines": {
+      "DEM": 1149,
+      "WALLKILLWINN": 22
+     }
+    },
+    {
+     "name": "David L. Furlin",
+     "votes": 1039,
+     "party": "REP",
+     "pct": 46.99,
+     "choice_id": "01000000-453d-3e8f-bc9e-08df1a7f46db",
+     "party_lines": {
+      "REP": 899,
+      "CONSERVATIVE": 140
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.05,
+     "choice_id": "01000000-453d-3e8f-bcbd-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-bcd8-08df1a7f46db",
+   "state": "NY",
+   "title": "Council Member for Wallkill Ward 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Don Sileo",
+     "votes": 1349,
+     "party": "DEM",
+     "pct": 60.49,
+     "choice_id": "01000000-453d-3e8f-bd15-08df1a7f46db",
+     "party_lines": {
+      "DEM": 1289,
+      "WFP": 60
+     }
+    },
+    {
+     "name": "Raymond E. Merriman",
+     "votes": 881,
+     "party": "REP",
+     "pct": 39.51,
+     "choice_id": "01000000-453d-3e8f-bd41-08df1a7f46db",
+     "party_lines": {
+      "REP": 774,
+      "CONSERVATIVE": 107
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-bd88-08df1a7f46db",
+   "state": "NY",
+   "title": "Council Member for Wallkill Ward 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 8,
+    "pct": 0.0,
+    "text": "0 of 8 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Steven Vinella",
+     "votes": 2229,
+     "party": "DEM",
+     "pct": 99.38,
+     "choice_id": "01000000-453d-3e8f-bdc4-08df1a7f46db",
+     "party_lines": {
+      "DEM": 2229
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 14,
+     "party": null,
+     "pct": 0.62,
+     "choice_id": "01000000-453d-3e8f-bde3-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-bdff-08df1a7f46db",
+   "state": "NY",
+   "title": "Council Member for Wallkill Ward 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Tina Marie Arzonetti",
+     "votes": 816,
+     "party": "DEM",
+     "pct": 43.61,
+     "choice_id": "01000000-453d-3e8f-be44-08df1a7f46db",
+     "party_lines": {
+      "DEM": 801,
+      "WALLKILLWINN": 15
+     }
+    },
+    {
+     "name": "Justin P. Reed",
+     "votes": 1055,
+     "party": "REP",
+     "pct": 56.39,
+     "choice_id": "01000000-453d-3e8f-be72-08df1a7f46db",
+     "party_lines": {
+      "REP": 945,
+      "CONSERVATIVE": 110
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-bea7-08df1a7f46db",
+   "state": "NY",
+   "title": "Village Trustee for Chester Village",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Elizabeth A. Reilly",
+     "votes": 475,
+     "party": "COMMUNITY FI",
+     "pct": 52.08,
+     "choice_id": "01000000-453d-3e8f-bee0-08df1a7f46db",
+     "party_lines": {
+      "COMMUNITY FI": 475
+     }
+    },
+    {
+     "name": "Anthony LaSpina",
+     "votes": 424,
+     "party": "COMMUNITY FI",
+     "pct": 46.49,
+     "choice_id": "01000000-453d-3e8f-bf0c-08df1a7f46db",
+     "party_lines": {
+      "COMMUNITY FI": 424
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 13,
+     "party": null,
+     "pct": 1.43,
+     "choice_id": "01000000-453d-3e8f-bf35-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-bf54-08df1a7f46db",
+   "state": "NY",
+   "title": "Village Trustee for Tuxedo Park Village",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Christopher P. Mahan",
+     "votes": 123,
+     "party": "ROCK RIDGE P",
+     "pct": 42.41,
+     "choice_id": "01000000-453d-3e8f-bf96-08df1a7f46db",
+     "party_lines": {
+      "ROCK RIDGE P": 123
+     }
+    },
+    {
+     "name": "Jeremy Kidde",
+     "votes": 167,
+     "party": "CLEAN LAKES",
+     "pct": 57.59,
+     "choice_id": "01000000-453d-3e8f-bfc1-08df1a7f46db",
+     "party_lines": {
+      "CLEAN LAKES": 167
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-bff6-08df1a7f46db",
+   "state": "NY",
+   "title": "Village Trustee for Woodbury Village",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 12,
+    "pct": 0.0,
+    "text": "0 of 12 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Stephanie Powell",
+     "votes": 2248,
+     "party": "DEM",
+     "pct": 54.99,
+     "choice_id": "01000000-453d-3e8f-c03a-08df1a7f46db",
+     "party_lines": {
+      "DEM": 1964,
+      "WE THE PEOPL": 284
+     }
+    },
+    {
+     "name": "Kathleen Mottola",
+     "votes": 1818,
+     "party": "REP",
+     "pct": 44.47,
+     "choice_id": "01000000-453d-3e8f-c070-08df1a7f46db",
+     "party_lines": {
+      "REP": 1527,
+      "WE THE PEOPL": 291
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 22,
+     "party": null,
+     "pct": 0.54,
+     "choice_id": "01000000-453d-3e8f-c08e-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-c0aa-08df1a7f46db",
+   "state": "NY",
+   "title": "State Supreme Court Justice - 9th Judicial District",
+   "office_type": "judicial",
+   "district": "9",
+   "jurisdiction": "Orange County",
+   "scope": "partial",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 340,
+    "pct": 0.0,
+    "text": "0 of 340 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Maria G. Rosa",
+     "votes": 68090,
+     "party": "DEM",
+     "pct": 20.74,
+     "choice_id": "01000000-453d-3e8f-c0d7-08df1a7f46db",
+     "party_lines": {
+      "DEM": 62617,
+      "WFP": 5473
+     }
+    },
+    {
+     "name": "George E. Fufidio",
+     "votes": 101610,
+     "party": "DEM",
+     "pct": 30.95,
+     "choice_id": "01000000-453d-3e8f-c102-08df1a7f46db",
+     "party_lines": {
+      "DEM": 54057,
+      "REP": 47553
+     }
+    },
+    {
+     "name": "Alden H. Wolfe",
+     "votes": 62449,
+     "party": "DEM",
+     "pct": 19.02,
+     "choice_id": "01000000-453d-3e8f-c12e-08df1a7f46db",
+     "party_lines": {
+      "DEM": 57865,
+      "CONSERVATIVE": 4584
+     }
+    },
+    {
+     "name": "Richard S. Fava Pastilha",
+     "votes": 50929,
+     "party": "REP",
+     "pct": 15.51,
+     "choice_id": "01000000-453d-3e8f-c15a-08df1a7f46db",
+     "party_lines": {
+      "REP": 45440,
+      "CONSERVATIVE": 5489
+     }
+    },
+    {
+     "name": "John Ciampoli",
+     "votes": 45003,
+     "party": "REP",
+     "pct": 13.71,
+     "choice_id": "01000000-453d-3e8f-c1aa-08df1a7f46db",
+     "party_lines": {
+      "REP": 45003
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 270,
+     "party": null,
+     "pct": 0.08,
+     "choice_id": "01000000-453d-3e8f-c1bd-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-c1d8-08df1a7f46db",
+   "state": "NY",
+   "title": "Town Justice for Blooming Grove",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 21,
+    "pct": 0.0,
+    "text": "0 of 21 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Stephen J. Smith",
+     "votes": 3694,
+     "party": "REP",
+     "pct": 99.35,
+     "choice_id": "01000000-453d-3e8f-c21f-08df1a7f46db",
+     "party_lines": {
+      "REP": 3150,
+      "CONSERVATIVE": 544
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 24,
+     "party": null,
+     "pct": 0.65,
+     "choice_id": "01000000-453d-3e8f-c23b-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-c256-08df1a7f46db",
+   "state": "NY",
+   "title": "Town Justice for Deerpark",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": "0 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Matthew Costello",
+     "votes": 1889,
+     "party": "REP",
+     "pct": 99.26,
+     "choice_id": "01000000-453d-3e8f-c29f-08df1a7f46db",
+     "party_lines": {
+      "REP": 1681,
+      "CONSERVATIVE": 208
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 14,
+     "party": null,
+     "pct": 0.74,
+     "choice_id": "01000000-453d-3e8f-c2cc-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-c2da-08df1a7f46db",
+   "state": "NY",
+   "title": "Town Justice for Goshen",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 13,
+    "pct": 0.0,
+    "text": "0 of 13 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Robert Middlemiss",
+     "votes": 2412,
+     "party": "DEM",
+     "pct": 29.76,
+     "choice_id": "01000000-453d-3e8f-c306-08df1a7f46db",
+     "party_lines": {
+      "DEM": 2223,
+      "WFP": 189
+     }
+    },
+    {
+     "name": "Kimberly VanHaaster",
+     "votes": 2804,
+     "party": "REP",
+     "pct": 34.6,
+     "choice_id": "01000000-453d-3e8f-c332-08df1a7f46db",
+     "party_lines": {
+      "REP": 2459,
+      "CONSERVATIVE": 345
+     }
+    },
+    {
+     "name": "Seamus P. Weir",
+     "votes": 2865,
+     "party": "REP",
+     "pct": 35.35,
+     "choice_id": "01000000-453d-3e8f-c35d-08df1a7f46db",
+     "party_lines": {
+      "REP": 2441,
+      "CONSERVATIVE": 424
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 24,
+     "party": null,
+     "pct": 0.3,
+     "choice_id": "01000000-453d-3e8f-c38b-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-c3b6-08df1a7f46db",
+   "state": "NY",
+   "title": "Town Justice for Hamptonburgh",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "J. Scott Bonacic",
+     "votes": 1519,
+     "party": "REP",
+     "pct": 53.13,
+     "choice_id": "01000000-453d-3e8f-c3f9-08df1a7f46db",
+     "party_lines": {
+      "REP": 1519
+     }
+    },
+    {
+     "name": "Richard J. Croughan",
+     "votes": 1324,
+     "party": "REP",
+     "pct": 46.31,
+     "choice_id": "01000000-453d-3e8f-c424-08df1a7f46db",
+     "party_lines": {
+      "REP": 1324
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 16,
+     "party": null,
+     "pct": 0.56,
+     "choice_id": "01000000-453d-3e8f-c43e-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-c5c6-08df1a7f46db",
+   "state": "NY",
+   "title": "Town Justice for Minisink",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "James Booth",
+     "votes": 1211,
+     "party": "REP",
+     "pct": 99.34,
+     "choice_id": "01000000-453d-3e8f-c633-08df1a7f46db",
+     "party_lines": {
+      "REP": 1211
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": null,
+     "pct": 0.66,
+     "choice_id": "01000000-453d-3e8f-c657-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-c67c-08df1a7f46db",
+   "state": "NY",
+   "title": "Town Justice for Mount Hope",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "John W. Goldsmith",
+     "votes": 1465,
+     "party": "REP",
+     "pct": 99.66,
+     "choice_id": "01000000-453d-3e8f-c6e1-08df1a7f46db",
+     "party_lines": {
+      "REP": 1259,
+      "CONSERVATIVE": 206
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 5,
+     "party": null,
+     "pct": 0.34,
+     "choice_id": "01000000-453d-3e8f-c720-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-c746-08df1a7f46db",
+   "state": "NY",
+   "title": "Town Justice for Newburgh Town",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 27,
+    "pct": 0.0,
+    "text": "0 of 27 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Kenyon C. Trachte",
+     "votes": 6091,
+     "party": "DEM",
+     "pct": 52.48,
+     "choice_id": "01000000-453d-3e8f-c795-08df1a7f46db",
+     "party_lines": {
+      "DEM": 5542,
+      "WFP": 549
+     }
+    },
+    {
+     "name": "Anthony LoBiondo",
+     "votes": 5514,
+     "party": "REP",
+     "pct": 47.51,
+     "choice_id": "01000000-453d-3e8f-c7db-08df1a7f46db",
+     "party_lines": {
+      "REP": 4943,
+      "CONSERVATIVE": 571
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.01,
+     "choice_id": "01000000-453d-3e8f-c811-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-c83c-08df1a7f46db",
+   "state": "NY",
+   "title": "Town Justice for New Windsor",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 23,
+    "pct": 0.0,
+    "text": "0 of 23 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Michele Marte-Indzonka",
+     "votes": 4583,
+     "party": "DEM",
+     "pct": 51.29,
+     "choice_id": "01000000-453d-3e8f-c889-08df1a7f46db",
+     "party_lines": {
+      "DEM": 4583
+     }
+    },
+    {
+     "name": "Eve I. Lincoln",
+     "votes": 4349,
+     "party": "REP",
+     "pct": 48.67,
+     "choice_id": "01000000-453d-3e8f-c8b3-08df1a7f46db",
+     "party_lines": {
+      "REP": 3682,
+      "CONSERVATIVE": 385,
+      "WFP": 282
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.03,
+     "choice_id": "01000000-453d-3e8f-c8d8-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-c8f6-08df1a7f46db",
+   "state": "NY",
+   "title": "Town Justice for Tuxedo",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Alyse McCathern",
+     "votes": 995,
+     "party": "DEM",
+     "pct": 99.4,
+     "choice_id": "01000000-453d-3e8f-c94b-08df1a7f46db",
+     "party_lines": {
+      "DEM": 995
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 6,
+     "party": null,
+     "pct": 0.6,
+     "choice_id": "01000000-453d-3e8f-c982-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-c9ac-08df1a7f46db",
+   "state": "NY",
+   "title": "Town Justice for Wallkill",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 27,
+    "pct": 0.0,
+    "text": "0 of 27 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Peter Green",
+     "votes": 6358,
+     "party": "DEM",
+     "pct": 59.65,
+     "choice_id": "01000000-453d-3e8f-ca0a-08df1a7f46db",
+     "party_lines": {
+      "DEM": 5580,
+      "CONSERVATIVE": 778
+     }
+    },
+    {
+     "name": "Patrick S. Owen",
+     "votes": 4274,
+     "party": "REP",
+     "pct": 40.1,
+     "choice_id": "01000000-453d-3e8f-ca48-08df1a7f46db",
+     "party_lines": {
+      "REP": 3594,
+      "CONSERVATIVE": 680
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 27,
+     "party": null,
+     "pct": 0.25,
+     "choice_id": "01000000-453d-3e8f-ca6d-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-ca95-08df1a7f46db",
+   "state": "NY",
+   "title": "Chester Real Estate Transfer Tax",
+   "office_type": "measure",
+   "district": "chester real estate transfer tax",
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 9,
+    "pct": 0.0,
+    "text": "0 of 9 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 3403,
+     "party": null,
+     "pct": 78.19,
+     "choice_id": "01000000-453d-3e8f-caec-08df1a7f46db",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 949,
+     "party": null,
+     "pct": 21.81,
+     "choice_id": "01000000-453d-3e8f-cb16-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-cb23-08df1a7f46db",
+   "state": "NY",
+   "title": "Chester Highway Superintendent Proposition",
+   "office_type": "measure",
+   "district": "chester highway superintendent proposition",
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 9,
+    "pct": 0.0,
+    "text": "0 of 9 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1796,
+     "party": null,
+     "pct": 41.64,
+     "choice_id": "01000000-453d-3e8f-cb6f-08df1a7f46db",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 2517,
+     "party": null,
+     "pct": 58.36,
+     "choice_id": "01000000-453d-3e8f-cbb8-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-cbbf-08df1a7f46db",
+   "state": "NY",
+   "title": "Chester Public Library Proposition",
+   "office_type": "measure",
+   "district": "chester public library proposition",
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 9,
+    "pct": 0.0,
+    "text": "0 of 9 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2668,
+     "party": null,
+     "pct": 61.32,
+     "choice_id": "01000000-453d-3e8f-cc22-08df1a7f46db",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 1683,
+     "party": null,
+     "pct": 38.68,
+     "choice_id": "01000000-453d-3e8f-cc59-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-cc5f-08df1a7f46db",
+   "state": "NY",
+   "title": "Monroe Library Proposition",
+   "office_type": "measure",
+   "district": "monroe library proposition",
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 22,
+    "pct": 0.0,
+    "text": "0 of 22 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 3398,
+     "party": null,
+     "pct": 59.44,
+     "choice_id": "01000000-453d-3e8f-cccf-08df1a7f46db",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 2319,
+     "party": null,
+     "pct": 40.56,
+     "choice_id": "01000000-453d-3e8f-ccfa-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-ccfe-08df1a7f46db",
+   "state": "NY",
+   "title": "Tuxedo Library Budget Proposition",
+   "office_type": "measure",
+   "district": "tuxedo library budget proposition",
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 995,
+     "party": null,
+     "pct": 65.16,
+     "choice_id": "01000000-453d-3e8f-cd52-08df1a7f46db",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 532,
+     "party": null,
+     "pct": 34.84,
+     "choice_id": "01000000-453d-3e8f-cd7b-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-cd7e-08df1a7f46db",
+   "state": "NY",
+   "title": "Wallkill Term Limit Proposition",
+   "office_type": "measure",
+   "district": "wallkill term limit proposition",
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 27,
+    "pct": 0.0,
+    "text": "0 of 27 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 5612,
+     "party": null,
+     "pct": 65.41,
+     "choice_id": "01000000-453d-3e8f-cdc8-08df1a7f46db",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 2968,
+     "party": null,
+     "pct": 34.59,
+     "choice_id": "01000000-453d-3e8f-cdf1-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-cdf5-08df1a7f46db",
+   "state": "NY",
+   "title": "Woodbury Public Library Operating Budget Annual Contribution Ballot Proposition",
+   "office_type": "measure",
+   "district": "woodbury public library operating budget annual contribution ballot proposition",
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 13,
+    "pct": 0.0,
+    "text": "0 of 13 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2278,
+     "party": null,
+     "pct": 65.52,
+     "choice_id": "01000000-453d-3e8f-ce3e-08df1a7f46db",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 1199,
+     "party": null,
+     "pct": 34.48,
+     "choice_id": "01000000-453d-3e8f-ce68-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-81a0-08df1a7f46db",
+   "state": "NY",
+   "title": "Governor and Lieutenant Governor",
+   "office_type": "governor",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 340,
+    "pct": 0.0,
+    "text": "0 of 340 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Kathy C. Hochul and Adrienne E. Adams",
+     "votes": 67552,
+     "party": "DEM",
+     "pct": 54.59,
+     "choice_id": "01000000-453d-3e8f-8df1-08df1a7f46db",
+     "party_lines": {
+      "DEM": 62686,
+      "WFP": 4866
+     }
+    },
+    {
+     "name": "Bruce A. Blakeman and Todd Hood",
+     "votes": 55972,
+     "party": "REP",
+     "pct": 45.23,
+     "choice_id": "01000000-453d-3e8f-90ee-08df1a7f46db",
+     "party_lines": {
+      "REP": 50028,
+      "CONSERVATIVE": 5170,
+      "VOTE AFFORDA": 774
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 219,
+     "party": null,
+     "pct": 0.18,
+     "choice_id": "01000000-453d-3e8f-9144-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-9178-08df1a7f46db",
+   "state": "NY",
+   "title": "New York State Comptroller",
+   "office_type": "controller",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 340,
+    "pct": 0.0,
+    "text": "0 of 340 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Thomas P. DiNapoli",
+     "votes": 71986,
+     "party": "DEM",
+     "pct": 59.24,
+     "choice_id": "01000000-453d-3e8f-91e1-08df1a7f46db",
+     "party_lines": {
+      "DEM": 65993,
+      "WFP": 5993
+     }
+    },
+    {
+     "name": "Joseph Hernandez",
+     "votes": 49466,
+     "party": "REP",
+     "pct": 40.71,
+     "choice_id": "01000000-453d-3e8f-9215-08df1a7f46db",
+     "party_lines": {
+      "REP": 44279,
+      "CONSERVATIVE": 5187
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 54,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-453d-3e8f-9288-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-92ae-08df1a7f46db",
+   "state": "NY",
+   "title": "New York State Attorney General",
+   "office_type": "attorney_general",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 340,
+    "pct": 0.0,
+    "text": "0 of 340 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Letitia A. James",
+     "votes": 67573,
+     "party": "DEM",
+     "pct": 55.25,
+     "choice_id": "01000000-453d-3e8f-92e6-08df1a7f46db",
+     "party_lines": {
+      "DEM": 62336,
+      "WFP": 5237
+     }
+    },
+    {
+     "name": "Saritha Komatireddy",
+     "votes": 54678,
+     "party": "REP",
+     "pct": 44.71,
+     "choice_id": "01000000-453d-3e8f-9320-08df1a7f46db",
+     "party_lines": {
+      "REP": 48889,
+      "CONSERVATIVE": 5789
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 53,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-453d-3e8f-9366-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-9688-08df1a7f46db",
+   "state": "NY",
+   "title": "Member of the New York State Assembly for 98th Assembly District",
+   "office_type": "state_house",
+   "district": "98",
+   "jurisdiction": "Orange County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 79,
+    "pct": 0.0,
+    "text": "0 of 79 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Karl A. Brabenec",
+     "votes": 18905,
+     "party": "REP",
+     "pct": 98.96,
+     "choice_id": "01000000-453d-3e8f-96c0-08df1a7f46db",
+     "party_lines": {
+      "REP": 16400,
+      "CONSERVATIVE": 2505
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 199,
+     "party": null,
+     "pct": 1.04,
+     "choice_id": "01000000-453d-3e8f-9705-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-972c-08df1a7f46db",
+   "state": "NY",
+   "title": "Member of the New York State Assembly for 99th Assembly District",
+   "office_type": "state_house",
+   "district": "99",
+   "jurisdiction": "Orange County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 90,
+    "pct": 0.0,
+    "text": "0 of 90 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Christopher W. Eachus",
+     "votes": 21480,
+     "party": "DEM",
+     "pct": 68.17,
+     "choice_id": "01000000-453d-3e8f-9760-08df1a7f46db",
+     "party_lines": {
+      "DEM": 20117,
+      "WFP": 1363
+     }
+    },
+    {
+     "name": "Richard A. Vargus",
+     "votes": 10016,
+     "party": "REP",
+     "pct": 31.79,
+     "choice_id": "01000000-453d-3e8f-97a6-08df1a7f46db",
+     "party_lines": {
+      "REP": 9022,
+      "CONSERVATIVE": 994
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 14,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-453d-3e8f-97e5-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-9810-08df1a7f46db",
+   "state": "NY",
+   "title": "Member of the New York State Assembly for 100th Assembly District",
+   "office_type": "state_house",
+   "district": "100",
+   "jurisdiction": "Orange County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 52,
+    "pct": 0.0,
+    "text": "0 of 52 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Paula Elaine Kay",
+     "votes": 11162,
+     "party": "DEM",
+     "pct": 99.61,
+     "choice_id": "01000000-453d-3e8f-9847-08df1a7f46db",
+     "party_lines": {
+      "DEM": 10533,
+      "PEOPLE OVER ": 629
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 44,
+     "party": null,
+     "pct": 0.39,
+     "choice_id": "01000000-453d-3e8f-9893-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-98b9-08df1a7f46db",
+   "state": "NY",
+   "title": "Member of the New York State Assembly for 101st Assembly District",
+   "office_type": "state_house",
+   "district": "101",
+   "jurisdiction": "Orange County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 75,
+    "pct": 0.0,
+    "text": "0 of 75 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Brian M. Maher",
+     "votes": 19123,
+     "party": "REP",
+     "pct": 99.05,
+     "choice_id": "01000000-453d-3e8f-98fe-08df1a7f46db",
+     "party_lines": {
+      "REP": 16282,
+      "CONSERVATIVE": 2841
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 183,
+     "party": null,
+     "pct": 0.95,
+     "choice_id": "01000000-453d-3e8f-9944-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-9976-08df1a7f46db",
+   "state": "NY",
+   "title": "Member of the New York State Assembly for 104th Assembly District",
+   "office_type": "state_house",
+   "district": "104",
+   "jurisdiction": "Orange County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 44,
+    "pct": 0.0,
+    "text": "0 of 44 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Jonathan G. Jacobson",
+     "votes": 11120,
+     "party": "DEM",
+     "pct": 99.41,
+     "choice_id": "01000000-453d-3e8f-99ba-08df1a7f46db",
+     "party_lines": {
+      "DEM": 9366,
+      "WFP": 1754
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 66,
+     "party": null,
+     "pct": 0.59,
+     "choice_id": "01000000-453d-3e8f-99fb-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-9a25-08df1a7f46db",
+   "state": "NY",
+   "title": "Sheriff",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 340,
+    "pct": 0.0,
+    "text": "0 of 340 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Bernie Rivers",
+     "votes": 58145,
+     "party": "DEM",
+     "pct": 47.88,
+     "choice_id": "01000000-453d-3e8f-9a60-08df1a7f46db",
+     "party_lines": {
+      "DEM": 52969,
+      "WFP": 5176
+     }
+    },
+    {
+     "name": "Paul Arteta",
+     "votes": 63254,
+     "party": "REP",
+     "pct": 52.08,
+     "choice_id": "01000000-453d-3e8f-9a8a-08df1a7f46db",
+     "party_lines": {
+      "REP": 57325,
+      "CONSERVATIVE": 5929
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 49,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-453d-3e8f-9abb-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.orange",
+   "contest_id": "01000000-453d-3e8f-9ad7-08df1a7f46db",
+   "state": "NY",
+   "title": "County Legislator (TFV) for 1st Legislative District",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Orange County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 9,
+    "pct": 0.0,
+    "text": "0 of 9 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T05:26:59.8073693Z",
+   "choices": [
+    {
+     "name": "Matthew A. Turnbull",
+     "votes": 1120,
+     "party": "ORANGE-1",
+     "pct": 98.5,
+     "choice_id": "01000000-453d-3e8f-9b26-08df1a7f46db",
+     "party_lines": {
+      "ORANGE-1": 1120
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 17,
+     "party": null,
+     "pct": 1.5,
+     "choice_id": "01000000-453d-3e8f-9b50-08df1a7f46db",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  }
+ ],
+ "contests_hash": "0b65729fec1a8bdd",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-04T15:00:30+00:00",
+ "fetched_at": "2026-11-04T15:00:30+00:00",
+ "contests_changed_at": "2026-11-04T14:55:34+00:00"
+}

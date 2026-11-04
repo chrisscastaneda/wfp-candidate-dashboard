@@ -1,0 +1,2552 @@
+{
+ "source": "ny.sullivan",
+ "contests": [
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-79d0-08df1fe5ac73",
+   "state": "NY",
+   "title": "Governor and Lieutenant Governor",
+   "office_type": "governor",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 96,
+    "pct": 0.0,
+    "text": "0 of 96 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Kathy C. Hochul and Adrienne E. Adams",
+     "votes": 11182,
+     "party": "DEM",
+     "pct": 45.81,
+     "choice_id": "01000000-da31-b0e8-8906-08df1fe5ac73",
+     "party_lines": {
+      "DEM": 10085,
+      "WFP": 1097
+     }
+    },
+    {
+     "name": "Bruce A. Blakeman and Todd Hood",
+     "votes": 13190,
+     "party": "REP",
+     "pct": 54.04,
+     "choice_id": "01000000-da31-b0e8-8de1-08df1fe5ac73",
+     "party_lines": {
+      "REP": 11573,
+      "CONSERVATIVE": 1366,
+      "VOTE AFFORDA": 251
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 36,
+     "party": null,
+     "pct": 0.15,
+     "choice_id": "01000000-da31-b0e8-8e15-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-8e24-08df1fe5ac73",
+   "state": "NY",
+   "title": "Comptroller",
+   "office_type": "controller",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 96,
+    "pct": 0.0,
+    "text": "0 of 96 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Thomas P. DiNapoli",
+     "votes": 12929,
+     "party": "DEM",
+     "pct": 54.3,
+     "choice_id": "01000000-da31-b0e8-8ea7-08df1fe5ac73",
+     "party_lines": {
+      "DEM": 11307,
+      "WFP": 1622
+     }
+    },
+    {
+     "name": "Joseph Hernandez",
+     "votes": 10868,
+     "party": "REP",
+     "pct": 45.65,
+     "choice_id": "01000000-da31-b0e8-8ec8-08df1fe5ac73",
+     "party_lines": {
+      "REP": 9599,
+      "CONSERVATIVE": 1269
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 12,
+     "party": null,
+     "pct": 0.05,
+     "choice_id": "01000000-da31-b0e8-8eec-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-8ef2-08df1fe5ac73",
+   "state": "NY",
+   "title": "Attorney General",
+   "office_type": "attorney_general",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 96,
+    "pct": 0.0,
+    "text": "0 of 96 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Letitia A. James",
+     "votes": 11392,
+     "party": "DEM",
+     "pct": 47.49,
+     "choice_id": "01000000-da31-b0e8-8f1c-08df1fe5ac73",
+     "party_lines": {
+      "DEM": 10109,
+      "WFP": 1283
+     }
+    },
+    {
+     "name": "Saritha Komatireddy",
+     "votes": 12583,
+     "party": "REP",
+     "pct": 52.46,
+     "choice_id": "01000000-da31-b0e8-8f3a-08df1fe5ac73",
+     "party_lines": {
+      "REP": 11041,
+      "CONSERVATIVE": 1542
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 11,
+     "party": null,
+     "pct": 0.05,
+     "choice_id": "01000000-da31-b0e8-8f59-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-8f6b-08df1fe5ac73",
+   "state": "NY",
+   "title": "Representative in Congress 19th District",
+   "office_type": "federal_house",
+   "district": "19",
+   "jurisdiction": "Sullivan County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 96,
+    "pct": 0.0,
+    "text": "0 of 96 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Josh Riley",
+     "votes": 12878,
+     "party": "DEM",
+     "pct": 53.17,
+     "choice_id": "01000000-da31-b0e8-8f98-08df1fe5ac73",
+     "party_lines": {
+      "DEM": 11398,
+      "WFP": 1480
+     }
+    },
+    {
+     "name": "Peter K. Oberacker",
+     "votes": 11327,
+     "party": "REP",
+     "pct": 46.76,
+     "choice_id": "01000000-da31-b0e8-8fb5-08df1fe5ac73",
+     "party_lines": {
+      "REP": 9991,
+      "CONSERVATIVE": 1336
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 17,
+     "party": null,
+     "pct": 0.07,
+     "choice_id": "01000000-da31-b0e8-8fd6-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-8fdc-08df1fe5ac73",
+   "state": "NY",
+   "title": "State Senator 51st District",
+   "office_type": "state_senate",
+   "district": "51",
+   "jurisdiction": "Sullivan County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 96,
+    "pct": 0.0,
+    "text": "0 of 96 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Michele Frazier",
+     "votes": 11530,
+     "party": "DEM",
+     "pct": 48.53,
+     "choice_id": "01000000-da31-b0e8-9005-08df1fe5ac73",
+     "party_lines": {
+      "DEM": 10198,
+      "WFP": 1332
+     }
+    },
+    {
+     "name": "Christopher W. Tague",
+     "votes": 12219,
+     "party": "REP",
+     "pct": 51.43,
+     "choice_id": "01000000-da31-b0e8-9021-08df1fe5ac73",
+     "party_lines": {
+      "REP": 10804,
+      "CONSERVATIVE": 1415
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 11,
+     "party": null,
+     "pct": 0.05,
+     "choice_id": "01000000-da31-b0e8-9049-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-9056-08df1fe5ac73",
+   "state": "NY",
+   "title": "Member of Assembly 100th District",
+   "office_type": "state_house",
+   "district": "100",
+   "jurisdiction": "Sullivan County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 84,
+    "pct": 0.0,
+    "text": "0 of 84 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Paula Elaine Kay",
+     "votes": 14092,
+     "party": "DEM",
+     "pct": 99.29,
+     "choice_id": "01000000-da31-b0e8-9080-08df1fe5ac73",
+     "party_lines": {
+      "DEM": 11850,
+      "PEOPLE OVER ": 2242
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 101,
+     "party": null,
+     "pct": 0.71,
+     "choice_id": "01000000-da31-b0e8-90a3-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-90a7-08df1fe5ac73",
+   "state": "NY",
+   "title": "Member of Assembly 101st Distict",
+   "office_type": "state_house",
+   "district": "101",
+   "jurisdiction": "Sullivan County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 12,
+    "pct": 0.0,
+    "text": "0 of 12 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Brian M. Maher",
+     "votes": 2300,
+     "party": "REP",
+     "pct": 98.92,
+     "choice_id": "01000000-da31-b0e8-90cf-08df1fe5ac73",
+     "party_lines": {
+      "REP": 1904,
+      "CONSERVATIVE": 396
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 25,
+     "party": null,
+     "pct": 1.08,
+     "choice_id": "01000000-da31-b0e8-90ee-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-90f6-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Bethel Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Daniel Sturm",
+     "votes": 1173,
+     "party": "DEM",
+     "pct": 97.26,
+     "choice_id": "01000000-da31-b0e8-911e-08df1fe5ac73",
+     "party_lines": {
+      "DEM": 988,
+      "PEOPLE OVER ": 185
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 33,
+     "party": null,
+     "pct": 2.74,
+     "choice_id": "01000000-da31-b0e8-914b-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-9155-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Bethel Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Rita Sheehan",
+     "votes": 1262,
+     "party": "REP",
+     "pct": 99.29,
+     "choice_id": "01000000-da31-b0e8-916f-08df1fe5ac73",
+     "party_lines": {
+      "REP": 1000,
+      "CONSERVATIVE": 262
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 9,
+     "party": null,
+     "pct": 0.71,
+     "choice_id": "01000000-da31-b0e8-919c-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-91a5-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Bethel Superintendent of Highways",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Rob Bonnaci",
+     "votes": 1191,
+     "party": "DEM",
+     "pct": 99.33,
+     "choice_id": "01000000-da31-b0e8-91bf-08df1fe5ac73",
+     "party_lines": {
+      "DEM": 995,
+      "PEOPLE OVER ": 196
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": null,
+     "pct": 0.67,
+     "choice_id": "01000000-da31-b0e8-91ea-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-91f9-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Bethel Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Julie Rozar",
+     "votes": 866,
+     "party": "DEM",
+     "pct": 51.0,
+     "choice_id": "01000000-da31-b0e8-9214-08df1fe5ac73",
+     "party_lines": {
+      "DEM": 781,
+      "PEOPLE OVER ": 85
+     }
+    },
+    {
+     "name": "Robert A. Doherty",
+     "votes": 832,
+     "party": "REP",
+     "pct": 49.0,
+     "choice_id": "01000000-da31-b0e8-9230-08df1fe5ac73",
+     "party_lines": {
+      "REP": 728,
+      "CONSERVATIVE": 104
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-9261-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Callicoon Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Thomas R. Bose",
+     "votes": 811,
+     "party": "REP",
+     "pct": 97.83,
+     "choice_id": "01000000-da31-b0e8-927a-08df1fe5ac73",
+     "party_lines": {
+      "REP": 676,
+      "CONSERVATIVE": 135
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 18,
+     "party": null,
+     "pct": 2.17,
+     "choice_id": "01000000-da31-b0e8-92a3-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-92ad-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Callicoon Superintedent of Highways",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Ryan T. Bose",
+     "votes": 802,
+     "party": "REP",
+     "pct": 97.92,
+     "choice_id": "01000000-da31-b0e8-92ce-08df1fe5ac73",
+     "party_lines": {
+      "REP": 660,
+      "CONSERVATIVE": 142
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 17,
+     "party": null,
+     "pct": 2.08,
+     "choice_id": "01000000-da31-b0e8-92f6-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-92ff-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Cochecton Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Leanna Ballester",
+     "votes": 165,
+     "party": "DEM",
+     "pct": 24.81,
+     "choice_id": "01000000-da31-b0e8-931a-08df1fe5ac73",
+     "party_lines": {
+      "DEM": 148,
+      "RIGHT TO FAR": 17
+     }
+    },
+    {
+     "name": "Edwin P. Grund",
+     "votes": 352,
+     "party": "REP",
+     "pct": 52.93,
+     "choice_id": "01000000-da31-b0e8-9337-08df1fe5ac73",
+     "party_lines": {
+      "REP": 309,
+      "CONSERVATIVE": 43
+     }
+    },
+    {
+     "name": "Scott J. Goodman",
+     "votes": 146,
+     "party": "COCHECTON UN",
+     "pct": 21.95,
+     "choice_id": "01000000-da31-b0e8-9354-08df1fe5ac73",
+     "party_lines": {
+      "COCHECTON UN": 146
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.3,
+     "choice_id": "01000000-da31-b0e8-937f-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-9384-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Cochecton Superintendent of Highways",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Kevin R. Esselman",
+     "votes": 471,
+     "party": "REP",
+     "pct": 97.11,
+     "choice_id": "01000000-da31-b0e8-93a5-08df1fe5ac73",
+     "party_lines": {
+      "REP": 384,
+      "CONSERVATIVE": 87
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 14,
+     "party": null,
+     "pct": 2.89,
+     "choice_id": "01000000-da31-b0e8-93d1-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-93d6-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Cochecton Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Eileen Hennessy",
+     "votes": 486,
+     "party": "DEM",
+     "pct": 99.59,
+     "choice_id": "01000000-da31-b0e8-93f0-08df1fe5ac73",
+     "party_lines": {
+      "DEM": 486
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.41,
+     "choice_id": "01000000-da31-b0e8-9418-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-9420-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Delaware Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Scott DuBois",
+     "votes": 704,
+     "party": "DEM",
+     "pct": 99.72,
+     "choice_id": "01000000-da31-b0e8-943d-08df1fe5ac73",
+     "party_lines": {
+      "DEM": 704
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.28,
+     "choice_id": "01000000-da31-b0e8-9466-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-946b-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Delaware Clerk/Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Leila McCullough",
+     "votes": 703,
+     "party": "DEM",
+     "pct": 99.72,
+     "choice_id": "01000000-da31-b0e8-9491-08df1fe5ac73",
+     "party_lines": {
+      "DEM": 607,
+      "PEOPLE OVER ": 96
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.28,
+     "choice_id": "01000000-da31-b0e8-94bd-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-94c4-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Delaware Council Member To Fill Vacancy",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "   ",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "01000000-da31-b0e8-94ea-08df1fe5ac73",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 102,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "01000000-da31-b0e8-9509-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-950f-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Delaware Superintendent of Highways",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Christopher Hermann",
+     "votes": 726,
+     "party": "DEM",
+     "pct": 99.45,
+     "choice_id": "01000000-da31-b0e8-952b-08df1fe5ac73",
+     "party_lines": {
+      "DEM": 726
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 4,
+     "party": null,
+     "pct": 0.55,
+     "choice_id": "01000000-da31-b0e8-9554-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-9559-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Fallsburg Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 13,
+    "pct": 0.0,
+    "text": "0 of 13 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Nathan Steingart",
+     "votes": 2752,
+     "party": "DEM",
+     "pct": 98.53,
+     "choice_id": "01000000-da31-b0e8-957e-08df1fe5ac73",
+     "party_lines": {
+      "DEM": 1205,
+      "REP": 1410,
+      "CONSERVATIVE": 137
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 41,
+     "party": null,
+     "pct": 1.47,
+     "choice_id": "01000000-da31-b0e8-95ab-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-95b3-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Fallsburg Council Member To Fill Vacancy",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 13,
+    "pct": 0.0,
+    "text": "0 of 13 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Arnold Seletsky",
+     "votes": 2027,
+     "party": "REP",
+     "pct": 97.97,
+     "choice_id": "01000000-da31-b0e8-95d1-08df1fe5ac73",
+     "party_lines": {
+      "REP": 1781,
+      "CONSERVATIVE": 246
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 42,
+     "party": null,
+     "pct": 2.03,
+     "choice_id": "01000000-da31-b0e8-95fb-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-9601-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Fallsburg Receiver of Taxes To Fill Vacancy",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 13,
+    "pct": 0.0,
+    "text": "0 of 13 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Heather Brown",
+     "votes": 1701,
+     "party": "REP",
+     "pct": 96.81,
+     "choice_id": "01000000-da31-b0e8-961d-08df1fe5ac73",
+     "party_lines": {
+      "REP": 1701
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 56,
+     "party": null,
+     "pct": 3.19,
+     "choice_id": "01000000-da31-b0e8-964d-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-9652-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Forestburgh Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Gillian Kaiser",
+     "votes": 321,
+     "party": "DEM",
+     "pct": 60.0,
+     "choice_id": "01000000-da31-b0e8-966f-08df1fe5ac73",
+     "party_lines": {
+      "DEM": 293,
+      "FORESTBURGH ": 28
+     }
+    },
+    {
+     "name": "William B. Sipos",
+     "votes": 214,
+     "party": "REP",
+     "pct": 40.0,
+     "choice_id": "01000000-da31-b0e8-968e-08df1fe5ac73",
+     "party_lines": {
+      "REP": 161,
+      "CONSERVATIVE": 53
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-96bc-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Forestburg Clerk/Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Teresa Collins",
+     "votes": 330,
+     "party": "REP",
+     "pct": 99.4,
+     "choice_id": "01000000-da31-b0e8-96da-08df1fe5ac73",
+     "party_lines": {
+      "REP": 330
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.6,
+     "choice_id": "01000000-da31-b0e8-9701-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-9707-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Forestburgh Superintendent of Highways",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Todd Petrowsky",
+     "votes": 316,
+     "party": "DEM",
+     "pct": 60.77,
+     "choice_id": "01000000-da31-b0e8-972b-08df1fe5ac73",
+     "party_lines": {
+      "DEM": 284,
+      "FORESTBURGH ": 32
+     }
+    },
+    {
+     "name": "William VanAken",
+     "votes": 202,
+     "party": "REP",
+     "pct": 38.85,
+     "choice_id": "01000000-da31-b0e8-9749-08df1fe5ac73",
+     "party_lines": {
+      "REP": 169,
+      "CONSERVATIVE": 33
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.38,
+     "choice_id": "01000000-da31-b0e8-9771-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-9778-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Fremont Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Brian P. Brustman",
+     "votes": 385,
+     "party": "REP",
+     "pct": 99.48,
+     "choice_id": "01000000-da31-b0e8-9798-08df1fe5ac73",
+     "party_lines": {
+      "REP": 331,
+      "CONSERVATIVE": 54
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.52,
+     "choice_id": "01000000-da31-b0e8-97c0-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-97c9-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Fremont Clerk/Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Jody Schanil",
+     "votes": 387,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "01000000-da31-b0e8-97e7-08df1fe5ac73",
+     "party_lines": {
+      "DEM": 387
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-9abe-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Fremont Superintendent of Highways",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "George E. Conklin III",
+     "votes": 363,
+     "party": "REP",
+     "pct": 96.03,
+     "choice_id": "01000000-da31-b0e8-9ae2-08df1fe5ac73",
+     "party_lines": {
+      "REP": 363
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 15,
+     "party": null,
+     "pct": 3.97,
+     "choice_id": "01000000-da31-b0e8-9b09-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-9b0e-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Highland Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "John M. Pizzolato",
+     "votes": 550,
+     "party": "DEM",
+     "pct": 53.14,
+     "choice_id": "01000000-da31-b0e8-9b2e-08df1fe5ac73",
+     "party_lines": {
+      "DEM": 493,
+      "LIFTING NEIG": 57
+     }
+    },
+    {
+     "name": "Mary Ellen Carney",
+     "votes": 483,
+     "party": "REP",
+     "pct": 46.67,
+     "choice_id": "01000000-da31-b0e8-9b4c-08df1fe5ac73",
+     "party_lines": {
+      "REP": 483
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.19,
+     "choice_id": "01000000-da31-b0e8-9b72-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-9b76-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Highland Superintendent of Highways",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Joseph R. Consiglio",
+     "votes": 634,
+     "party": "DEM",
+     "pct": 81.49,
+     "choice_id": "01000000-da31-b0e8-9ba0-08df1fe5ac73",
+     "party_lines": {
+      "DEM": 554,
+      "LIFTING NEIG": 80
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 144,
+     "party": null,
+     "pct": 18.51,
+     "choice_id": "01000000-da31-b0e8-9bc8-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-9bcf-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Lumberland Council Member To Fill Vacancy",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Douglas S. Dobrzynski",
+     "votes": 543,
+     "party": "REP",
+     "pct": 96.62,
+     "choice_id": "01000000-da31-b0e8-9bf0-08df1fe5ac73",
+     "party_lines": {
+      "REP": 449,
+      "CONSERVATIVE": 94
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 19,
+     "party": null,
+     "pct": 3.38,
+     "choice_id": "01000000-da31-b0e8-9c17-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-9c20-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Mamakating Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 29,
+    "pct": 0.0,
+    "text": "0 of 29 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Peter C. Goodman",
+     "votes": 2187,
+     "party": "DEM",
+     "pct": 53.92,
+     "choice_id": "01000000-da31-b0e8-9c40-08df1fe5ac73",
+     "party_lines": {
+      "DEM": 1815,
+      "CONSERVATIVE": 372
+     }
+    },
+    {
+     "name": "Viktor Gjelaj",
+     "votes": 1862,
+     "party": "REP",
+     "pct": 45.91,
+     "choice_id": "01000000-da31-b0e8-9c5d-08df1fe5ac73",
+     "party_lines": {
+      "REP": 1862
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 7,
+     "party": null,
+     "pct": 0.17,
+     "choice_id": "01000000-da31-b0e8-9c8c-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-9c94-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Mamakating Council Member Ward 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Michael W. Robbins",
+     "votes": 506,
+     "party": "REP",
+     "pct": 99.22,
+     "choice_id": "01000000-da31-b0e8-9cb5-08df1fe5ac73",
+     "party_lines": {
+      "REP": 417,
+      "CONSERVATIVE": 89
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 4,
+     "party": null,
+     "pct": 0.78,
+     "choice_id": "01000000-da31-b0e8-9cdc-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-9ce2-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Mamakating Council Member Ward 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Gary A. Forthoffer",
+     "votes": 465,
+     "party": "REP",
+     "pct": 97.48,
+     "choice_id": "01000000-da31-b0e8-9d02-08df1fe5ac73",
+     "party_lines": {
+      "REP": 389,
+      "CONSERVATIVE": 76
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 12,
+     "party": null,
+     "pct": 2.52,
+     "choice_id": "01000000-da31-b0e8-9d29-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-9d2f-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Mamakating Council Member Ward 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Matthew P. Mordas",
+     "votes": 413,
+     "party": "DEM",
+     "pct": 58.92,
+     "choice_id": "01000000-da31-b0e8-9d5a-08df1fe5ac73",
+     "party_lines": {
+      "DEM": 341,
+      "CONSERVATIVE": 72
+     }
+    },
+    {
+     "name": "Dino Orfanos",
+     "votes": 288,
+     "party": "REP",
+     "pct": 41.08,
+     "choice_id": "01000000-da31-b0e8-9d78-08df1fe5ac73",
+     "party_lines": {
+      "REP": 288
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-9da1-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Mamakating Council Member Ward 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Kalin P. Moon",
+     "votes": 258,
+     "party": "DEM",
+     "pct": 40.5,
+     "choice_id": "01000000-da31-b0e8-9dc4-08df1fe5ac73",
+     "party_lines": {
+      "DEM": 244,
+      "MAMAKATING U": 14
+     }
+    },
+    {
+     "name": "Robert F. Rogers",
+     "votes": 379,
+     "party": "REP",
+     "pct": 59.5,
+     "choice_id": "01000000-da31-b0e8-9de2-08df1fe5ac73",
+     "party_lines": {
+      "REP": 319,
+      "CONSERVATIVE": 60
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-9e0e-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Mamakating Council Member Ward 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Leslie Ocasio",
+     "votes": 296,
+     "party": "DEM",
+     "pct": 47.74,
+     "choice_id": "01000000-da31-b0e8-9e3d-08df1fe5ac73",
+     "party_lines": {
+      "DEM": 285,
+      "MAMAKATING U": 11
+     }
+    },
+    {
+     "name": "James Post",
+     "votes": 324,
+     "party": "REP",
+     "pct": 52.26,
+     "choice_id": "01000000-da31-b0e8-9e5b-08df1fe5ac73",
+     "party_lines": {
+      "REP": 276,
+      "CONSERVATIVE": 48
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-9e89-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Mamakating Council Member Ward 6",
+   "office_type": "local",
+   "district": "6",
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Tyler Wood",
+     "votes": 507,
+     "party": "REP",
+     "pct": 99.02,
+     "choice_id": "01000000-da31-b0e8-9eaa-08df1fe5ac73",
+     "party_lines": {
+      "REP": 472,
+      "CONSERVATIVE": 35
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 5,
+     "party": null,
+     "pct": 0.98,
+     "choice_id": "01000000-da31-b0e8-9ecf-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-9ed6-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Mamakating Superintendent of Highways",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 29,
+    "pct": 0.0,
+    "text": "0 of 29 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Thomas Morrow",
+     "votes": 2690,
+     "party": "REP",
+     "pct": 98.86,
+     "choice_id": "01000000-da31-b0e8-9f01-08df1fe5ac73",
+     "party_lines": {
+      "REP": 2690
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 31,
+     "party": null,
+     "pct": 1.14,
+     "choice_id": "01000000-da31-b0e8-9f26-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-9f2d-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Neversink Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Christopher Mathews",
+     "votes": 1075,
+     "party": "REP",
+     "pct": 96.67,
+     "choice_id": "01000000-da31-b0e8-9f4f-08df1fe5ac73",
+     "party_lines": {
+      "REP": 885,
+      "CONSERVATIVE": 190
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 37,
+     "party": null,
+     "pct": 3.33,
+     "choice_id": "01000000-da31-b0e8-9f74-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-9f7c-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Neversink Clerk/Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Staci Conjura",
+     "votes": 1116,
+     "party": "REP",
+     "pct": 99.38,
+     "choice_id": "01000000-da31-b0e8-9f9e-08df1fe5ac73",
+     "party_lines": {
+      "REP": 912,
+      "CONSERVATIVE": 204
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 7,
+     "party": null,
+     "pct": 0.62,
+     "choice_id": "01000000-da31-b0e8-9fc4-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-9fc9-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Neversink Superintendent of Highways",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Preston Kelly",
+     "votes": 1355,
+     "party": "DEM",
+     "pct": 99.93,
+     "choice_id": "01000000-da31-b0e8-9ff7-08df1fe5ac73",
+     "party_lines": {
+      "DEM": 484,
+      "REP": 871
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.07,
+     "choice_id": "01000000-da31-b0e8-a01b-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-a024-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Rockland Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Robert W. Eggleton",
+     "votes": 884,
+     "party": "DEM",
+     "pct": 97.68,
+     "choice_id": "01000000-da31-b0e8-a049-08df1fe5ac73",
+     "party_lines": {
+      "DEM": 639,
+      "CONSERVATIVE": 245
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 21,
+     "party": null,
+     "pct": 2.32,
+     "choice_id": "01000000-da31-b0e8-a06c-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-a074-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Rockland Superintendent of Highways",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Roger S. Decker",
+     "votes": 930,
+     "party": "REP",
+     "pct": 98.52,
+     "choice_id": "01000000-da31-b0e8-a096-08df1fe5ac73",
+     "party_lines": {
+      "REP": 743,
+      "CONSERVATIVE": 187
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 14,
+     "party": null,
+     "pct": 1.48,
+     "choice_id": "01000000-da31-b0e8-a0b9-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-a0c6-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Thompson Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 13,
+    "pct": 0.0,
+    "text": "0 of 13 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Scott S. Mace",
+     "votes": 2292,
+     "party": "REP",
+     "pct": 98.24,
+     "choice_id": "01000000-da31-b0e8-a0ed-08df1fe5ac73",
+     "party_lines": {
+      "REP": 1778,
+      "CONSERVATIVE": 514
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 41,
+     "party": null,
+     "pct": 1.76,
+     "choice_id": "01000000-da31-b0e8-a111-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-a116-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Thompson Council Member To Fill Vacancy",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 13,
+    "pct": 0.0,
+    "text": "0 of 13 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Shawn F. Wiles",
+     "votes": 1583,
+     "party": "REP",
+     "pct": 59.53,
+     "choice_id": "01000000-da31-b0e8-a13b-08df1fe5ac73",
+     "party_lines": {
+      "REP": 1505,
+      "PEOPLE'S CHO": 78
+     }
+    },
+    {
+     "name": "Richard L. Benjamin, Jr. ",
+     "votes": 1059,
+     "party": "CONSERVATIVE",
+     "pct": 39.83,
+     "choice_id": "01000000-da31-b0e8-a15a-08df1fe5ac73",
+     "party_lines": {
+      "CONSERVATIVE": 899,
+      "PEOPLE OVER ": 160
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 17,
+     "party": null,
+     "pct": 0.64,
+     "choice_id": "01000000-da31-b0e8-a180-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-a183-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Tusten Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Bernard R. Johnson",
+     "votes": 374,
+     "party": "REP",
+     "pct": 97.65,
+     "choice_id": "01000000-da31-b0e8-a1b0-08df1fe5ac73",
+     "party_lines": {
+      "REP": 308,
+      "CONSERVATIVE": 66
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 9,
+     "party": null,
+     "pct": 2.35,
+     "choice_id": "01000000-da31-b0e8-a1d3-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-a1d8-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Tusten Superintendent of Highways",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Donald J. Neiger",
+     "votes": 373,
+     "party": "REP",
+     "pct": 97.9,
+     "choice_id": "01000000-da31-b0e8-a1fd-08df1fe5ac73",
+     "party_lines": {
+      "REP": 309,
+      "CONSERVATIVE": 64
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": null,
+     "pct": 2.1,
+     "choice_id": "01000000-da31-b0e8-a220-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-a226-08df1fe5ac73",
+   "state": "NY",
+   "title": "Village of Woodridge Mayor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "David Schlesinger",
+     "votes": 201,
+     "party": "REP",
+     "pct": 77.01,
+     "choice_id": "01000000-da31-b0e8-a243-08df1fe5ac73",
+     "party_lines": {
+      "REP": 201
+     }
+    },
+    {
+     "name": "Martin Rosenberger",
+     "votes": 59,
+     "party": "MARTIN ROSEN",
+     "pct": 22.61,
+     "choice_id": "01000000-da31-b0e8-a25d-08df1fe5ac73",
+     "party_lines": {
+      "MARTIN ROSEN": 59
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.38,
+     "choice_id": "01000000-da31-b0e8-a28d-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-a293-08df1fe5ac73",
+   "state": "NY",
+   "title": "Village of Woodridge Trustee",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Yoranda Sanabria",
+     "votes": 221,
+     "party": "DEM",
+     "pct": 48.68,
+     "choice_id": "01000000-da31-b0e8-a2bc-08df1fe5ac73",
+     "party_lines": {
+      "DEM": 221
+     }
+    },
+    {
+     "name": "Yitzchok Wertzberger",
+     "votes": 193,
+     "party": "REP",
+     "pct": 42.51,
+     "choice_id": "01000000-da31-b0e8-a2d6-08df1fe5ac73",
+     "party_lines": {
+      "REP": 193
+     }
+    },
+    {
+     "name": "Louis Saperstein",
+     "votes": 40,
+     "party": "CIRCLE L",
+     "pct": 8.81,
+     "choice_id": "01000000-da31-b0e8-a2f0-08df1fe5ac73",
+     "party_lines": {
+      "CIRCLE L": 40
+     }
+    },
+    {
+     "name": "   ",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "01000000-da31-b0e8-a30a-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-a32a-08df1fe5ac73",
+   "state": "NY",
+   "title": "Village of Bloomingburg Mayor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Eziel Fleischman",
+     "votes": 132,
+     "party": "REP",
+     "pct": 47.14,
+     "choice_id": "01000000-da31-b0e8-a34d-08df1fe5ac73",
+     "party_lines": {
+      "REP": 132
+     }
+    },
+    {
+     "name": "Moshe Smilowitz",
+     "votes": 148,
+     "party": "YETEV LEV",
+     "pct": 52.86,
+     "choice_id": "01000000-da31-b0e8-a368-08df1fe5ac73",
+     "party_lines": {
+      "YETEV LEV": 148
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-a39a-08df1fe5ac73",
+   "state": "NY",
+   "title": "Village of Bloomingburg Trustee",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Samuel Weingarten",
+     "votes": 242,
+     "party": "REP",
+     "pct": 96.03,
+     "choice_id": "01000000-da31-b0e8-a3bc-08df1fe5ac73",
+     "party_lines": {
+      "REP": 242
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 10,
+     "party": null,
+     "pct": 3.97,
+     "choice_id": "01000000-da31-b0e8-a3de-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-a3e4-08df1fe5ac73",
+   "state": "NY",
+   "title": "State Supreme Court Justice 3rd Judicial District",
+   "office_type": "judicial",
+   "district": "3",
+   "jurisdiction": "Sullivan County",
+   "scope": "partial",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 96,
+    "pct": 0.0,
+    "text": "0 of 96 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Amy E. Joyce",
+     "votes": 13571,
+     "party": "DEM",
+     "pct": 51.8,
+     "choice_id": "01000000-da31-b0e8-a40e-08df1fe5ac73",
+     "party_lines": {
+      "DEM": 13571
+     }
+    },
+    {
+     "name": "Jennifer G. Sober",
+     "votes": 12408,
+     "party": "DEM",
+     "pct": 47.36,
+     "choice_id": "01000000-da31-b0e8-a429-08df1fe5ac73",
+     "party_lines": {
+      "DEM": 12408
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 222,
+     "party": null,
+     "pct": 0.85,
+     "choice_id": "01000000-da31-b0e8-a444-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-a44c-08df1fe5ac73",
+   "state": "NY",
+   "title": "Town of Fremont Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Anna B. Milucky",
+     "votes": 366,
+     "party": "REP",
+     "pct": 99.73,
+     "choice_id": "01000000-da31-b0e8-a46b-08df1fe5ac73",
+     "party_lines": {
+      "REP": 366
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.27,
+     "choice_id": "01000000-da31-b0e8-a494-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-a49e-08df1fe5ac73",
+   "state": "NY",
+   "title": "Village of Bloomingburg Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Nicholas M. Salomone, Jr. ",
+     "votes": 221,
+     "party": "REP",
+     "pct": 98.66,
+     "choice_id": "01000000-da31-b0e8-a4c0-08df1fe5ac73",
+     "party_lines": {
+      "REP": 221
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 1.34,
+     "choice_id": "01000000-da31-b0e8-a4e3-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.sullivan",
+   "contest_id": "01000000-da31-b0e8-a4e7-08df1fe5ac73",
+   "state": "NY",
+   "title": "Proposal One, A Proposition",
+   "office_type": "measure",
+   "district": "proposal one a proposition",
+   "jurisdiction": "Sullivan County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 13,
+    "pct": 0.0,
+    "text": "0 of 13 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:53:46.920486Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1287,
+     "party": null,
+     "pct": 44.77,
+     "choice_id": "01000000-da31-b0e8-a511-08df1fe5ac73",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 1588,
+     "party": null,
+     "pct": 55.23,
+     "choice_id": "01000000-da31-b0e8-a52c-08df1fe5ac73",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  }
+ ],
+ "contests_hash": "40a6a129a5465747",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-04T15:00:54+00:00",
+ "fetched_at": "2026-11-04T15:00:54+00:00",
+ "contests_changed_at": "2026-11-04T14:55:53+00:00"
+}

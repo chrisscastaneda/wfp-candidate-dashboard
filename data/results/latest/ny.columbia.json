@@ -1,0 +1,1924 @@
+{
+ "source": "ny.columbia",
+ "contests": [
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-5e03-08df28560e9a",
+   "state": "NY",
+   "title": "Governor and Lieutenant Governor",
+   "office_type": "governor",
+   "district": null,
+   "jurisdiction": "Columbia County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 62,
+    "pct": 0.0,
+    "text": "0 of 62 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Kathy C. Hochul, Adrienne E. Adams",
+     "votes": 17011,
+     "party": "DEM",
+     "pct": 59.46,
+     "choice_id": "01000000-0a48-0724-71fe-08df28560e9a",
+     "party_lines": {
+      "DEM": 14740,
+      "WFP": 2271
+     }
+    },
+    {
+     "name": "Bruce A. Blakeman, Todd Hood",
+     "votes": 11521,
+     "party": "REP",
+     "pct": 40.27,
+     "choice_id": "01000000-0a48-0724-7900-08df28560e9a",
+     "party_lines": {
+      "REP": 9832,
+      "CONSERVATIVE": 1433,
+      "VOTE AFFORDA": 256
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 75,
+     "party": null,
+     "pct": 0.26,
+     "choice_id": "01000000-0a48-0724-7947-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-7956-08df28560e9a",
+   "state": "NY",
+   "title": "Comptroller",
+   "office_type": "controller",
+   "district": null,
+   "jurisdiction": "Columbia County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 62,
+    "pct": 0.0,
+    "text": "0 of 62 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Thomas P. Dinapoli",
+     "votes": 18684,
+     "party": "DEM",
+     "pct": 65.91,
+     "choice_id": "01000000-0a48-0724-798d-08df28560e9a",
+     "party_lines": {
+      "DEM": 15930,
+      "WFP": 2754
+     }
+    },
+    {
+     "name": "Joseph Hernendez",
+     "votes": 9646,
+     "party": "REP",
+     "pct": 34.03,
+     "choice_id": "01000000-0a48-0724-79a7-08df28560e9a",
+     "party_lines": {
+      "REP": 8300,
+      "CONSERVATIVE": 1346
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 19,
+     "party": null,
+     "pct": 0.07,
+     "choice_id": "01000000-0a48-0724-79cb-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-79d4-08df28560e9a",
+   "state": "NY",
+   "title": "Attorney General",
+   "office_type": "attorney_general",
+   "district": null,
+   "jurisdiction": "Columbia County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 62,
+    "pct": 0.0,
+    "text": "0 of 62 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Letitia James",
+     "votes": 17054,
+     "party": "DEM",
+     "pct": 59.88,
+     "choice_id": "01000000-0a48-0724-79ec-08df28560e9a",
+     "party_lines": {
+      "DEM": 14637,
+      "WFP": 2417
+     }
+    },
+    {
+     "name": "Saritha Komatireddy",
+     "votes": 11410,
+     "party": "REP",
+     "pct": 40.06,
+     "choice_id": "01000000-0a48-0724-7a03-08df28560e9a",
+     "party_lines": {
+      "REP": 9780,
+      "CONSERVATIVE": 1630
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 16,
+     "party": null,
+     "pct": 0.06,
+     "choice_id": "01000000-0a48-0724-7a36-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-7a82-08df28560e9a",
+   "state": "NY",
+   "title": "Representative in Congress 19th District",
+   "office_type": "federal_house",
+   "district": "19",
+   "jurisdiction": "Columbia County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 62,
+    "pct": 0.0,
+    "text": "0 of 62 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Josh Riley",
+     "votes": 18236,
+     "party": "DEM",
+     "pct": 63.64,
+     "choice_id": "01000000-0a48-0724-7ac7-08df28560e9a",
+     "party_lines": {
+      "DEM": 15602,
+      "WFP": 2634
+     }
+    },
+    {
+     "name": "Peter K. Oberacker",
+     "votes": 10389,
+     "party": "REP",
+     "pct": 36.25,
+     "choice_id": "01000000-0a48-0724-7ae1-08df28560e9a",
+     "party_lines": {
+      "REP": 8960,
+      "CONSERVATIVE": 1429
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 31,
+     "party": null,
+     "pct": 0.11,
+     "choice_id": "01000000-0a48-0724-7af9-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-7afe-08df28560e9a",
+   "state": "NY",
+   "title": "State Senator for 41st Senatorial District",
+   "office_type": "state_senate",
+   "district": "41",
+   "jurisdiction": "Columbia County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 62,
+    "pct": 0.0,
+    "text": "0 of 62 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Michelle Hinchey",
+     "votes": 17944,
+     "party": "DEM",
+     "pct": 62.91,
+     "choice_id": "01000000-0a48-0724-7b16-08df28560e9a",
+     "party_lines": {
+      "DEM": 15313,
+      "WFP": 2631
+     }
+    },
+    {
+     "name": "Patrick Sheehan",
+     "votes": 10577,
+     "party": "REP",
+     "pct": 37.08,
+     "choice_id": "01000000-0a48-0724-7b30-08df28560e9a",
+     "party_lines": {
+      "REP": 9125,
+      "CONSERVATIVE": 1452
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.01,
+     "choice_id": "01000000-0a48-0724-7b5b-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-7b63-08df28560e9a",
+   "state": "NY",
+   "title": "Member of Assembly 106th District",
+   "office_type": "state_house",
+   "district": "106",
+   "jurisdiction": "Columbia County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 43,
+    "pct": 0.0,
+    "text": "0 of 43 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Didi Barrett",
+     "votes": 12566,
+     "party": "DEM",
+     "pct": 65.7,
+     "choice_id": "01000000-0a48-0724-7b79-08df28560e9a",
+     "party_lines": {
+      "DEM": 12566
+     }
+    },
+    {
+     "name": "Gregory Campus",
+     "votes": 6543,
+     "party": "REP",
+     "pct": 34.21,
+     "choice_id": "01000000-0a48-0724-7b8d-08df28560e9a",
+     "party_lines": {
+      "REP": 5661,
+      "CONSERVATIVE": 882
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 17,
+     "party": null,
+     "pct": 0.09,
+     "choice_id": "01000000-0a48-0724-7bb0-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-7bb8-08df28560e9a",
+   "state": "NY",
+   "title": "Member of Assembly 107th District",
+   "office_type": "state_house",
+   "district": "107",
+   "jurisdiction": "Columbia County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 19,
+    "pct": 0.0,
+    "text": "0 of 19 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Chloe E. Pierce",
+     "votes": 4920,
+     "party": "DEM",
+     "pct": 54.29,
+     "choice_id": "01000000-0a48-0724-7bcf-08df28560e9a",
+     "party_lines": {
+      "DEM": 4224,
+      "WFP": 696
+     }
+    },
+    {
+     "name": "Scott Bendett",
+     "votes": 4139,
+     "party": "REP",
+     "pct": 45.67,
+     "choice_id": "01000000-0a48-0724-7bf0-08df28560e9a",
+     "party_lines": {
+      "REP": 3497,
+      "CONSERVATIVE": 642
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.03,
+     "choice_id": "01000000-0a48-0724-7c13-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-7c18-08df28560e9a",
+   "state": "NY",
+   "title": "County Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Columbia County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 62,
+    "pct": 0.0,
+    "text": "0 of 62 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Holly C. Tanner",
+     "votes": 16916,
+     "party": "REP",
+     "pct": 99.04,
+     "choice_id": "01000000-0a48-0724-7c2e-08df28560e9a",
+     "party_lines": {
+      "REP": 13551,
+      "CONSERVATIVE": 3365
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 164,
+     "party": null,
+     "pct": 0.96,
+     "choice_id": "01000000-0a48-0724-7c50-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-7c56-08df28560e9a",
+   "state": "NY",
+   "title": "County Coroner",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Columbia County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 62,
+    "pct": 0.0,
+    "text": "0 of 62 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Peter J. Doty",
+     "votes": 15960,
+     "party": "REP",
+     "pct": 93.01,
+     "choice_id": "01000000-0a48-0724-7c6b-08df28560e9a",
+     "party_lines": {
+      "REP": 12746,
+      "CONSERVATIVE": 3214
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1199,
+     "party": null,
+     "pct": 6.99,
+     "choice_id": "01000000-0a48-0724-7c8e-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-8464-08df28560e9a",
+   "state": "NY",
+   "title": "State Supreme Court Justice 3rd District for Columbia County",
+   "office_type": "judicial",
+   "district": "3",
+   "jurisdiction": "Columbia County",
+   "scope": "partial",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 62,
+    "pct": 0.0,
+    "text": "0 of 62 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Amy E. Joyce",
+     "votes": 18444,
+     "party": "DEM",
+     "pct": 51.56,
+     "choice_id": "01000000-0a48-0724-8483-08df28560e9a",
+     "party_lines": {
+      "DEM": 18444
+     }
+    },
+    {
+     "name": "Jennifer G. Sober",
+     "votes": 17155,
+     "party": "DEM",
+     "pct": 47.95,
+     "choice_id": "01000000-0a48-0724-8499-08df28560e9a",
+     "party_lines": {
+      "DEM": 17155
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 176,
+     "party": null,
+     "pct": 0.49,
+     "choice_id": "01000000-0a48-0724-84b0-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-7c99-08df28560e9a",
+   "state": "NY",
+   "title": "Town Supervisor for Ancram",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Columbia County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Colleen Lutz",
+     "votes": 461,
+     "party": "DEM",
+     "pct": 54.69,
+     "choice_id": "01000000-0a48-0724-7cb8-08df28560e9a",
+     "party_lines": {
+      "DEM": 461
+     }
+    },
+    {
+     "name": "James MacArther",
+     "votes": 381,
+     "party": "REP",
+     "pct": 45.2,
+     "choice_id": "01000000-0a48-0724-7cd3-08df28560e9a",
+     "party_lines": {
+      "REP": 381
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.12,
+     "choice_id": "01000000-0a48-0724-7cf2-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-7e6f-08df28560e9a",
+   "state": "NY",
+   "title": "Town Council Unexpired Term for Ancram",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Columbia County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Joe Brown",
+     "votes": 445,
+     "party": "DEM",
+     "pct": 53.23,
+     "choice_id": "01000000-0a48-0724-7e89-08df28560e9a",
+     "party_lines": {
+      "DEM": 445
+     }
+    },
+    {
+     "name": "Ricky Dubray",
+     "votes": 390,
+     "party": "REP",
+     "pct": 46.65,
+     "choice_id": "01000000-0a48-0724-7e9d-08df28560e9a",
+     "party_lines": {
+      "REP": 390
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.12,
+     "choice_id": "01000000-0a48-0724-7eb8-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-85d2-08df28560e9a",
+   "state": "NY",
+   "title": "Town Justice for Ancram",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Columbia County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Catherine Redlich",
+     "votes": 541,
+     "party": "DEM",
+     "pct": 51.77,
+     "choice_id": "01000000-0a48-0724-85f2-08df28560e9a",
+     "party_lines": {
+      "DEM": 541
+     }
+    },
+    {
+     "name": "Suzan Flamm",
+     "votes": 502,
+     "party": "DEM",
+     "pct": 48.04,
+     "choice_id": "01000000-0a48-0724-8607-08df28560e9a",
+     "party_lines": {
+      "DEM": 502
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.19,
+     "choice_id": "01000000-0a48-0724-8620-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-877b-08df28560e9a",
+   "state": "NY",
+   "title": "Proposal One, Town of Ancram",
+   "office_type": "measure",
+   "district": "proposal one town of ancram",
+   "jurisdiction": "Columbia County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 446,
+     "party": null,
+     "pct": 54.39,
+     "choice_id": "01000000-0a48-0724-8799-08df28560e9a",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 374,
+     "party": null,
+     "pct": 45.61,
+     "choice_id": "01000000-0a48-0724-87af-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-7cf8-08df28560e9a",
+   "state": "NY",
+   "title": "Town Supervisor for Canaan",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Columbia County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Brenda Adams",
+     "votes": 858,
+     "party": "DEM",
+     "pct": 98.96,
+     "choice_id": "01000000-0a48-0724-7d1a-08df28560e9a",
+     "party_lines": {
+      "DEM": 626,
+      "REP": 232
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 9,
+     "party": null,
+     "pct": 1.04,
+     "choice_id": "01000000-0a48-0724-7d37-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-804e-08df28560e9a",
+   "state": "NY",
+   "title": "Highway Superintendent Unexpired Term for Canaan",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Columbia County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Harry McMann",
+     "votes": 876,
+     "party": "DEM",
+     "pct": 98.98,
+     "choice_id": "01000000-0a48-0724-806b-08df28560e9a",
+     "party_lines": {
+      "DEM": 626,
+      "REP": 250
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 9,
+     "party": null,
+     "pct": 1.02,
+     "choice_id": "01000000-0a48-0724-8086-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-84c0-08df28560e9a",
+   "state": "NY",
+   "title": "Town Justice for Claverack",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Columbia County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Michael Brandon",
+     "votes": 1441,
+     "party": "REP",
+     "pct": 98.5,
+     "choice_id": "01000000-0a48-0724-84de-08df28560e9a",
+     "party_lines": {
+      "REP": 1441
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 22,
+     "party": null,
+     "pct": 1.5,
+     "choice_id": "01000000-0a48-0724-84f8-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-87b8-08df28560e9a",
+   "state": "NY",
+   "title": "Proposal One, Town of Claverack",
+   "office_type": "measure",
+   "district": "proposal one town of claverack",
+   "jurisdiction": "Columbia County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1476,
+     "party": null,
+     "pct": 65.78,
+     "choice_id": "01000000-0a48-0724-87d5-08df28560e9a",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 768,
+     "party": null,
+     "pct": 34.22,
+     "choice_id": "01000000-0a48-0724-87ea-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-84fe-08df28560e9a",
+   "state": "NY",
+   "title": "Town Justice for Copake",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Columbia County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Glenn Schermerhorn",
+     "votes": 929,
+     "party": "REP",
+     "pct": 99.15,
+     "choice_id": "01000000-0a48-0724-851b-08df28560e9a",
+     "party_lines": {
+      "REP": 929
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": null,
+     "pct": 0.85,
+     "choice_id": "01000000-0a48-0724-8534-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-7d3c-08df28560e9a",
+   "state": "NY",
+   "title": "Town Supervisor for Gallatin",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Columbia County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Tara Silberberg",
+     "votes": 511,
+     "party": "DEM",
+     "pct": 99.03,
+     "choice_id": "01000000-0a48-0724-7d55-08df28560e9a",
+     "party_lines": {
+      "DEM": 511
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 5,
+     "party": null,
+     "pct": 0.97,
+     "choice_id": "01000000-0a48-0724-7d7a-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-83e7-08df28560e9a",
+   "state": "NY",
+   "title": "Town Clerk/Tax Collector for Gallatin",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Columbia County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Lisa Deleeuw",
+     "votes": 549,
+     "party": "DEM",
+     "pct": 99.82,
+     "choice_id": "01000000-0a48-0724-8406-08df28560e9a",
+     "party_lines": {
+      "DEM": 549
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.18,
+     "choice_id": "01000000-0a48-0724-8421-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-8425-08df28560e9a",
+   "state": "NY",
+   "title": "Town Council Unexpired Term for Gallatin",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Columbia County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "John Gomm",
+     "votes": 512,
+     "party": "DEM",
+     "pct": 99.81,
+     "choice_id": "01000000-0a48-0724-8440-08df28560e9a",
+     "party_lines": {
+      "DEM": 512
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.19,
+     "choice_id": "01000000-0a48-0724-845c-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-7ebf-08df28560e9a",
+   "state": "NY",
+   "title": "Town Council Unexpired Term for Germantown",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Columbia County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Sandra Osborne",
+     "votes": 622,
+     "party": "DEM",
+     "pct": 61.28,
+     "choice_id": "01000000-0a48-0724-7ef6-08df28560e9a",
+     "party_lines": {
+      "DEM": 622
+     }
+    },
+    {
+     "name": "Brittany Dufresne",
+     "votes": 393,
+     "party": "REP",
+     "pct": 38.72,
+     "choice_id": "01000000-0a48-0724-7ee0-08df28560e9a",
+     "party_lines": {
+      "REP": 393
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-87fb-08df28560e9a",
+   "state": "NY",
+   "title": "Proposal One, Town of Germantown",
+   "office_type": "measure",
+   "district": "proposal one town of germantown",
+   "jurisdiction": "Columbia County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 650,
+     "party": null,
+     "pct": 66.53,
+     "choice_id": "01000000-0a48-0724-8819-08df28560e9a",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 327,
+     "party": null,
+     "pct": 33.47,
+     "choice_id": "01000000-0a48-0724-882d-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-7f19-08df28560e9a",
+   "state": "NY",
+   "title": "Town Council Unexpired Term for Ghent",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Columbia County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Penny Sanchez",
+     "votes": 1279,
+     "party": "DEM",
+     "pct": 51.41,
+     "choice_id": "01000000-0a48-0724-7f33-08df28560e9a",
+     "party_lines": {
+      "DEM": 1232,
+      "GHENT TOGETH": 47
+     }
+    },
+    {
+     "name": "Marie Meltz",
+     "votes": 1209,
+     "party": "REP",
+     "pct": 48.59,
+     "choice_id": "01000000-0a48-0724-7f4c-08df28560e9a",
+     "party_lines": {
+      "REP": 1124,
+      "CONNECT GHEN": 85
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-7d81-08df28560e9a",
+   "state": "NY",
+   "title": "Town Supervisor for Greenport",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Columbia County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "John J. Porreca, Sr.",
+     "votes": 1005,
+     "party": "DEM",
+     "pct": 61.09,
+     "choice_id": "01000000-0a48-0724-7d99-08df28560e9a",
+     "party_lines": {
+      "DEM": 1005
+     }
+    },
+    {
+     "name": "Clayton Clark",
+     "votes": 639,
+     "party": "REP",
+     "pct": 38.84,
+     "choice_id": "01000000-0a48-0724-7dad-08df28560e9a",
+     "party_lines": {
+      "REP": 528,
+      "CONSERVATIVE": 111
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.06,
+     "choice_id": "01000000-0a48-0724-7dce-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-7fcb-08df28560e9a",
+   "state": "NY",
+   "title": "Town Clerk/Tax Collector Unexpired Term for Greenport",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Columbia County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Deborah L. Mausolf",
+     "votes": 1463,
+     "party": "DEM",
+     "pct": 98.99,
+     "choice_id": "01000000-0a48-0724-7fe9-08df28560e9a",
+     "party_lines": {
+      "DEM": 846,
+      "REP": 617
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 15,
+     "party": null,
+     "pct": 1.01,
+     "choice_id": "01000000-0a48-0724-8003-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-8008-08df28560e9a",
+   "state": "NY",
+   "title": "Highway Superintendent for Greenport",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Columbia County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "John P. Mausolf, Sr.",
+     "votes": 1471,
+     "party": "DEM",
+     "pct": 99.53,
+     "choice_id": "01000000-0a48-0724-8024-08df28560e9a",
+     "party_lines": {
+      "DEM": 813,
+      "REP": 570,
+      "CONSERVATIVE": 88
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 7,
+     "party": null,
+     "pct": 0.47,
+     "choice_id": "01000000-0a48-0724-8043-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-853a-08df28560e9a",
+   "state": "NY",
+   "title": "Town Justice for Greenport",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Columbia County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Eugene Keeler",
+     "votes": 1118,
+     "party": "DEM",
+     "pct": 98.85,
+     "choice_id": "01000000-0a48-0724-8557-08df28560e9a",
+     "party_lines": {
+      "DEM": 1118
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 13,
+     "party": null,
+     "pct": 1.15,
+     "choice_id": "01000000-0a48-0724-8570-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-8836-08df28560e9a",
+   "state": "NY",
+   "title": "Proposal One, Town of Greenport",
+   "office_type": "measure",
+   "district": "proposal one town of greenport",
+   "jurisdiction": "Columbia County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 869,
+     "party": null,
+     "pct": 54.41,
+     "choice_id": "01000000-0a48-0724-8853-08df28560e9a",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 728,
+     "party": null,
+     "pct": 45.59,
+     "choice_id": "01000000-0a48-0724-8868-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-808c-08df28560e9a",
+   "state": "NY",
+   "title": "Supervisor for 1st Ward for Hudson",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Columbia County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Alexandria Madero",
+     "votes": 418,
+     "party": "DEM",
+     "pct": 99.05,
+     "choice_id": "01000000-0a48-0724-80a6-08df28560e9a",
+     "party_lines": {
+      "DEM": 418
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 4,
+     "party": null,
+     "pct": 0.95,
+     "choice_id": "01000000-0a48-0724-80c3-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-80c7-08df28560e9a",
+   "state": "NY",
+   "title": "Supervisor for 2nd Ward for Hudson",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Columbia County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Abdus Miah",
+     "votes": 237,
+     "party": "DEM",
+     "pct": 99.58,
+     "choice_id": "01000000-0a48-0724-80e1-08df28560e9a",
+     "party_lines": {
+      "DEM": 237
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.42,
+     "choice_id": "01000000-0a48-0724-80fc-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-810a-08df28560e9a",
+   "state": "NY",
+   "title": "Supervisor for 3rd Ward for Hudson",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Columbia County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Sonja Okun",
+     "votes": 413,
+     "party": "DEM",
+     "pct": 98.8,
+     "choice_id": "01000000-0a48-0724-8127-08df28560e9a",
+     "party_lines": {
+      "DEM": 329,
+      "WFP": 84
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 5,
+     "party": null,
+     "pct": 1.2,
+     "choice_id": "01000000-0a48-0724-8145-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-814b-08df28560e9a",
+   "state": "NY",
+   "title": "Supervisor for 4th Ward for Hudson",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Columbia County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Carla Sadoff",
+     "votes": 297,
+     "party": "DEM",
+     "pct": 99.33,
+     "choice_id": "01000000-0a48-0724-8164-08df28560e9a",
+     "party_lines": {
+      "DEM": 297
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.67,
+     "choice_id": "01000000-0a48-0724-817e-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-8184-08df28560e9a",
+   "state": "NY",
+   "title": "Supervisor for 5th Ward for Hudson",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Columbia County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Richard E. Scalera",
+     "votes": 391,
+     "party": "DEM",
+     "pct": 99.49,
+     "choice_id": "01000000-0a48-0724-819f-08df28560e9a",
+     "party_lines": {
+      "DEM": 391
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.51,
+     "choice_id": "01000000-0a48-0724-81bb-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-8628-08df28560e9a",
+   "state": "NY",
+   "title": "Proposal One, City of Hudson",
+   "office_type": "measure",
+   "district": "proposal one city of hudson",
+   "jurisdiction": "Columbia County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1513,
+     "party": null,
+     "pct": 76.88,
+     "choice_id": "01000000-0a48-0724-8653-08df28560e9a",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 455,
+     "party": null,
+     "pct": 23.12,
+     "choice_id": "01000000-0a48-0724-8668-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-7dd4-08df28560e9a",
+   "state": "NY",
+   "title": "Town Supervisor for Kinderhook",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Columbia County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 8,
+    "pct": 0.0,
+    "text": "0 of 8 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Timothy Ooms",
+     "votes": 2900,
+     "party": "REP",
+     "pct": 98.67,
+     "choice_id": "01000000-0a48-0724-7deb-08df28560e9a",
+     "party_lines": {
+      "REP": 2231,
+      "CONSERVATIVE": 669
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 39,
+     "party": null,
+     "pct": 1.33,
+     "choice_id": "01000000-0a48-0724-7e0b-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-8870-08df28560e9a",
+   "state": "NY",
+   "title": "Proposal One, Town of Kinderhook",
+   "office_type": "measure",
+   "district": "proposal one town of kinderhook",
+   "jurisdiction": "Columbia County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 8,
+    "pct": 0.0,
+    "text": "0 of 8 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2349,
+     "party": null,
+     "pct": 58.83,
+     "choice_id": "01000000-0a48-0724-888d-08df28560e9a",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 1644,
+     "party": null,
+     "pct": 41.17,
+     "choice_id": "01000000-0a48-0724-88a3-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-88ab-08df28560e9a",
+   "state": "NY",
+   "title": "Proposal One, Town of New Lebanon",
+   "office_type": "measure",
+   "district": "proposal one town of new lebanon",
+   "jurisdiction": "Columbia County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 606,
+     "party": null,
+     "pct": 56.95,
+     "choice_id": "01000000-0a48-0724-88d2-08df28560e9a",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 458,
+     "party": null,
+     "pct": 43.05,
+     "choice_id": "01000000-0a48-0724-88e6-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-7e12-08df28560e9a",
+   "state": "NY",
+   "title": "Town Supervisor for Stuyvesant",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Columbia County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Lee Jamison",
+     "votes": 425,
+     "party": "DEM",
+     "pct": 44.04,
+     "choice_id": "01000000-0a48-0724-7e31-08df28560e9a",
+     "party_lines": {
+      "DEM": 366,
+      "WFP": 59
+     }
+    },
+    {
+     "name": "Ron Knott",
+     "votes": 538,
+     "party": "REP",
+     "pct": 55.75,
+     "choice_id": "01000000-0a48-0724-7e48-08df28560e9a",
+     "party_lines": {
+      "REP": 443,
+      "CONSERVATIVE": 95
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.21,
+     "choice_id": "01000000-0a48-0724-7e67-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-88ef-08df28560e9a",
+   "state": "NY",
+   "title": "Proposal One, Town of Stuyvesant",
+   "office_type": "measure",
+   "district": "proposal one town of stuyvesant",
+   "jurisdiction": "Columbia County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 578,
+     "party": null,
+     "pct": 61.1,
+     "choice_id": "01000000-0a48-0724-890c-08df28560e9a",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 368,
+     "party": null,
+     "pct": 38.9,
+     "choice_id": "01000000-0a48-0724-8920-08df28560e9a",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-7f72-08df28560e9a",
+   "state": "NY",
+   "title": "Town Council Unexpired Term for Taghkanic",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Columbia County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "John Lewis",
+     "votes": 403,
+     "party": "DEM",
+     "pct": 58.24,
+     "choice_id": "01000000-0a48-0724-7f8a-08df28560e9a",
+     "party_lines": {
+      "DEM": 403
+     }
+    },
+    {
+     "name": "Karen Gaylord",
+     "votes": 289,
+     "party": "REP",
+     "pct": 41.76,
+     "choice_id": "01000000-0a48-0724-7fa8-08df28560e9a",
+     "party_lines": {
+      "REP": 289
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.columbia",
+   "contest_id": "01000000-0a48-0724-8580-08df28560e9a",
+   "state": "NY",
+   "title": "Town Justice for Taghkanic",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Columbia County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:28:56.2311382Z",
+   "choices": [
+    {
+     "name": "Arthur McGuire",
+     "votes": 439,
+     "party": "DEM",
+     "pct": 63.9,
+     "choice_id": "01000000-0a48-0724-859e-08df28560e9a",
+     "party_lines": {
+      "DEM": 439
+     }
+    },
+    {
+     "name": "Tynna Gaylord",
+     "votes": 248,
+     "party": "REP",
+     "pct": 36.1,
+     "choice_id": "01000000-0a48-0724-85b3-08df28560e9a",
+     "party_lines": {
+      "REP": 248
+     }
+    }
+   ],
+   "url": null
+  }
+ ],
+ "contests_hash": "098e111674179a9e",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-04T15:00:45+00:00",
+ "fetched_at": "2026-11-04T15:00:45+00:00",
+ "contests_changed_at": "2026-11-04T14:55:46+00:00"
+}

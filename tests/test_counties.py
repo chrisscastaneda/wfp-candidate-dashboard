@@ -1,11 +1,14 @@
 """Phase 3 county sources and county-aware matching."""
 import gzip
 
+import pytest
+
 from conftest import FIXTURES, FakeFetch
 from elex import match
 from elex.counties import ca, ny
 from elex.model import Choice, Contest
-from elex.platforms import livevoterturnout
+from elex.platforms import enhanced_voting, livevoterturnout
+from elex.source import NotPublished
 
 
 def test_los_angeles():
@@ -165,3 +168,79 @@ def test_washtenaw_summary_table():
     assert [(c.name, c.votes) for c in mayor.choices] == [("Yousef Rabhi", 37914)]  # write-ins dropped
     assert mayor.scope == "complete" and hd23.scope == "partial"  # HD-23 also has Wayne precincts
     assert mayor.reporting.pct is None and mayor.reporting.text == "Countywide, 36 of 112 precincts fully counted"
+
+
+class _Pages:
+    """A fetcher that serves inline text by URL fragment."""
+
+    def __init__(self, pages: dict):
+        self.pages = pages
+
+    def get(self, url, *, params=None, expect="json"):
+        for fragment, body in self.pages.items():
+            if fragment in url:
+                return body.encode() if expect == "bytes" else body
+        raise AssertionError(url)
+
+
+def _lvt_race(race, title, *candidates):
+    """One contest in Live Voter Turnout's markup, without a contest group (San Diego's page)."""
+    rows = "".join(f'<td data-race="{race}" data-contestant="{i}" data-candidate="true"><span>{name}</span></td>'
+                   f'<td data-race="{race}" data-contestant="{i}" data-votes="true">{votes}</td>'
+                   for i, (name, votes) in enumerate(candidates))
+    return f'<span id="raceHeading_{race}" class="sr-only">Contest: {title}, VOTE FOR 1</span>{rows}'
+
+
+def test_live_voter_turnout_page_without_groups():
+    page = '<h1 class="election-title" tabindex="0">Gubernatorial General Election</h1>' + "".join([
+        _lvt_race(1, "GOVERNOR", ("XAVIER BECERRA (DEM)", "100"), ("STEVE HILTON (REP)", "80")),
+        _lvt_race(2, "MEMBER OF THE STATE ASSEMBLY 79TH DISTRICT", ("A (DEM)", "5")),
+        _lvt_race(3, "CITY OF CARLSBAD TREASURER", ("B", "7")),
+        _lvt_race(4, "PROP 1 - HOUSING BONDS", ("YES", "3"), ("NO", "2")),
+        _lvt_race(5, "CITY OF OCEANSIDE - MEASURE R - Majority Required", ("YES", "3"), ("NO", "2")),
+        _lvt_race(6, "RETAIN COURT OF APPEAL AJ TRUC T. DO", ("YES", "3"), ("NO", "2")),
+    ]) + "<p>Last updated 11/4/2026 2:51:51 AM</p>"
+    source = livevoterturnout.LiveVoterTurnoutSource("ca.san_diego", "CA", "San Diego", "https://sdvote.com/results",
+                                                     "Gubernatorial General Election")
+    governor, assembly, treasurer, prop, measure, court = source.pull(_Pages({"sdvote.com": page}))
+    assert [(ch.name, ch.party) for ch in governor.choices] == [("XAVIER BECERRA", "DEM"), ("STEVE HILTON", "REP")]
+    assert (governor.scope, assembly.scope, prop.scope, court.scope) == ("partial",) * 4
+    assert (treasurer.office_type, treasurer.scope) == ("local", "complete")
+    assert measure.scope == "complete"
+    stale = page.replace("11/4/2026", "6/3/2026")
+    with pytest.raises(NotPublished):
+        source.pull(_Pages({"sdvote.com": stale}))
+
+
+def test_enhanced_voting_strips_fusion_line_prefix():
+    payload = {"ballotItems": [{"id": "1", "name": "Supervisor Penfield", "summaryResults": {"ballotOptions": [
+        {"name": "Kevin Berry", "voteCount": 100, "party": "DEM"},
+        {"name": "WOR Kevin Berry", "voteCount": 12, "party": "WOR"}]}}]}
+    contest, = enhanced_voting.parse(payload, source_id="ny.monroe", state="NY", jurisdiction="Monroe County")
+    assert [(ch.name, ch.votes) for ch in contest.choices] == [("Kevin Berry", 112)]
+
+
+def test_chautauqua_xml():
+    xml = """<election timestamp="11/3/2026 10:03:35 PM" date="Tuesday, November 3, 2026">
+      <areatypes>
+        <admindivision name="State"><area id="1" name="New York State"/></admindivision>
+        <admindivision name="Town"><area id="23" name="Town of Kiantone"/></admindivision>
+      </areatypes>
+      <parties><party id="1" abbrev="DEM"/><party id="2" abbrev="REP"/></parties>
+      <offices>
+        <office><contests><contest id="135" name="Member of Assembly District 150" areaid="1"><choices>
+          <choice id="10" name="Thomas A. Carle" isw="False"><aff id="1"/></choice>
+          <choice id="11" name="Write-in" isw="True"/></choices></contest></contests></office>
+        <office><contests><contest id="73" name="Town Clerk" areaid="23"><choices>
+          <choice id="20" name="Mary Cook" isw="False"><aff id="2"/></choice>
+          <choice id="21" name="Jennifer A. Schmitt" isw="False"/></choices></contest></contests></office>
+      </offices>
+      <simpleresults><ch id="10" v="900"/><ch id="11" v="0"/><ch id="20" v="300"/><ch id="21" v="200"/></simpleresults>
+      <contestoverview><co c="135" n="1"/><co c="73" n="1"/></contestoverview>
+      <progress closed="91" total="91"/>
+    </election>"""
+    assembly, clerk = ny.parse_chautauqua(xml)
+    assert (assembly.office_type, assembly.district, assembly.scope) == ("state_house", "150", "partial")
+    assert [ch.name for ch in assembly.choices] == ["Thomas A. Carle"]  # empty write-in dropped
+    assert (clerk.title, clerk.office_type, clerk.scope) == ("Town Clerk, Town of Kiantone", "local", "complete")
+    assert clerk.choices[0].party == "REP" and clerk.reporting.text == "Countywide, 91 of 91 poll sites reported"

@@ -1,0 +1,4645 @@
+{
+ "source": "ny.dutchess",
+ "contests": [
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-f6ea-08df31149a38",
+   "state": "NY",
+   "title": "Governor/ Lieutenant Governor",
+   "office_type": "governor",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 69,
+    "units_total": 69,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Kathy C. Hochul/ Adrienne E. Adams",
+     "votes": 63452,
+     "party": "DEM",
+     "pct": 56.1,
+     "choice_id": "01000000-2a2b-fc30-1724-08df31149a39",
+     "party_lines": {
+      "DEM": 56940,
+      "WFP": 6512
+     }
+    },
+    {
+     "name": "Bruce A. Blakeman/ Todd Hood",
+     "votes": 49458,
+     "party": "REP",
+     "pct": 43.73,
+     "choice_id": "01000000-2a2b-fc30-1ac2-08df31149a39",
+     "party_lines": {
+      "REP": 43272,
+      "CONSERVATIVE": 5396,
+      "VOTE AFFORDA": 790
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 198,
+     "party": null,
+     "pct": 0.18,
+     "choice_id": "01000000-2a2b-fc30-1b40-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-1b51-08df31149a39",
+   "state": "NY",
+   "title": "State Comptroller",
+   "office_type": "controller",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 69,
+    "units_total": 69,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Thomas P. DiNapoli",
+     "votes": 67958,
+     "party": "DEM",
+     "pct": 60.74,
+     "choice_id": "01000000-2a2b-fc30-1ba2-08df31149a39",
+     "party_lines": {
+      "DEM": 60178,
+      "WFP": 7780
+     }
+    },
+    {
+     "name": "Joseph Hernandez",
+     "votes": 43882,
+     "party": "REP",
+     "pct": 39.22,
+     "choice_id": "01000000-2a2b-fc30-1bd3-08df31149a39",
+     "party_lines": {
+      "REP": 38587,
+      "CONSERVATIVE": 5295
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 46,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-2a2b-fc30-1c1f-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-1c32-08df31149a39",
+   "state": "NY",
+   "title": "Attorney General",
+   "office_type": "attorney_general",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 69,
+    "units_total": 69,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Letitia A. James",
+     "votes": 63319,
+     "party": "DEM",
+     "pct": 56.45,
+     "choice_id": "01000000-2a2b-fc30-1c66-08df31149a39",
+     "party_lines": {
+      "DEM": 56375,
+      "WFP": 6944
+     }
+    },
+    {
+     "name": "Saritha Komatireddy",
+     "votes": 48805,
+     "party": "REP",
+     "pct": 43.51,
+     "choice_id": "01000000-2a2b-fc30-1c96-08df31149a39",
+     "party_lines": {
+      "REP": 42738,
+      "CONSERVATIVE": 6067
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 41,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-2a2b-fc30-1ced-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-1cfc-08df31149a39",
+   "state": "NY",
+   "title": "Representative in Congress for Congressional District 17",
+   "office_type": "federal_house",
+   "district": "17",
+   "jurisdiction": "Dutchess County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 10,
+    "units_total": 10,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Cait Conley",
+     "votes": 7811,
+     "party": "DEM",
+     "pct": 44.64,
+     "choice_id": "01000000-2a2b-fc30-1d2e-08df31149a39",
+     "party_lines": {
+      "DEM": 7172,
+      "WFP": 639
+     }
+    },
+    {
+     "name": "Mike Lawler",
+     "votes": 9670,
+     "party": "REP",
+     "pct": 55.27,
+     "choice_id": "01000000-2a2b-fc30-1d5e-08df31149a39",
+     "party_lines": {
+      "REP": 8551,
+      "CONSERVATIVE": 1119
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 16,
+     "party": null,
+     "pct": 0.09,
+     "choice_id": "01000000-2a2b-fc30-1dae-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-1db8-08df31149a39",
+   "state": "NY",
+   "title": "Representative in Congress for Congressional District 18",
+   "office_type": "federal_house",
+   "district": "18",
+   "jurisdiction": "Dutchess County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 62,
+    "units_total": 62,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Pat Ryan",
+     "votes": 60296,
+     "party": "DEM",
+     "pct": 63.22,
+     "choice_id": "01000000-2a2b-fc30-1de7-08df31149a39",
+     "party_lines": {
+      "DEM": 53246,
+      "WFP": 7050
+     }
+    },
+    {
+     "name": "Jackie Mary Auringer",
+     "votes": 35026,
+     "party": "REP",
+     "pct": 36.72,
+     "choice_id": "01000000-2a2b-fc30-1e21-08df31149a39",
+     "party_lines": {
+      "REP": 30729,
+      "CONSERVATIVE": 4297
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 56,
+     "party": null,
+     "pct": 0.06,
+     "choice_id": "01000000-2a2b-fc30-1e75-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-1e7f-08df31149a39",
+   "state": "NY",
+   "title": "State Senator for State Senate District 39",
+   "office_type": "state_senate",
+   "district": "39",
+   "jurisdiction": "Dutchess County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 47,
+    "units_total": 47,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Lisa Kaul",
+     "votes": 43004,
+     "party": "DEM",
+     "pct": 54.39,
+     "choice_id": "01000000-2a2b-fc30-1eae-08df31149a39",
+     "party_lines": {
+      "DEM": 38278,
+      "WFP": 4726
+     }
+    },
+    {
+     "name": "Robert G. Rolison",
+     "votes": 36039,
+     "party": "REP",
+     "pct": 45.58,
+     "choice_id": "01000000-2a2b-fc30-1ee0-08df31149a39",
+     "party_lines": {
+      "REP": 31592,
+      "CONSERVATIVE": 4447
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 23,
+     "party": null,
+     "pct": 0.03,
+     "choice_id": "01000000-2a2b-fc30-1f30-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-1f3d-08df31149a39",
+   "state": "NY",
+   "title": "State Senator for State Senate District 41",
+   "office_type": "state_senate",
+   "district": "41",
+   "jurisdiction": "Dutchess County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 22,
+    "units_total": 22,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Michelle Hinchey",
+     "votes": 20277,
+     "party": "DEM",
+     "pct": 60.29,
+     "choice_id": "01000000-2a2b-fc30-1f6e-08df31149a39",
+     "party_lines": {
+      "DEM": 17919,
+      "WFP": 2358
+     }
+    },
+    {
+     "name": "Patrick Sheehan",
+     "votes": 13350,
+     "party": "REP",
+     "pct": 39.69,
+     "choice_id": "01000000-2a2b-fc30-1ff0-08df31149a39",
+     "party_lines": {
+      "REP": 11746,
+      "CONSERVATIVE": 1604
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 6,
+     "party": null,
+     "pct": 0.02,
+     "choice_id": "01000000-2a2b-fc30-203b-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-204e-08df31149a39",
+   "state": "NY",
+   "title": "Member of Assembly for State Assembly District 103",
+   "office_type": "state_house",
+   "district": "103",
+   "jurisdiction": "Dutchess County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 6,
+    "units_total": 6,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Sarahana Shrestha",
+     "votes": 6144,
+     "party": "DEM",
+     "pct": 71.46,
+     "choice_id": "01000000-2a2b-fc30-207c-08df31149a39",
+     "party_lines": {
+      "DEM": 5282,
+      "WFP": 862
+     }
+    },
+    {
+     "name": "Santos Lopez",
+     "votes": 2443,
+     "party": "REP",
+     "pct": 28.41,
+     "choice_id": "01000000-2a2b-fc30-20af-08df31149a39",
+     "party_lines": {
+      "REP": 2096,
+      "CONSERVATIVE": 347
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 11,
+     "party": null,
+     "pct": 0.13,
+     "choice_id": "01000000-2a2b-fc30-20fe-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-210a-08df31149a39",
+   "state": "NY",
+   "title": "Member of Assembly for State Assembly District 104",
+   "office_type": "state_house",
+   "district": "104",
+   "jurisdiction": "Dutchess County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 11,
+    "units_total": 11,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Jonathan G. Jacobson",
+     "votes": 11171,
+     "party": "DEM",
+     "pct": 99.55,
+     "choice_id": "01000000-2a2b-fc30-2146-08df31149a39",
+     "party_lines": {
+      "DEM": 9182,
+      "WFP": 1989
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 50,
+     "party": null,
+     "pct": 0.45,
+     "choice_id": "01000000-2a2b-fc30-219b-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-21a2-08df31149a39",
+   "state": "NY",
+   "title": "Member of Assembly for State Assembly District 105",
+   "office_type": "state_house",
+   "district": "105",
+   "jurisdiction": "Dutchess County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 28,
+    "units_total": 28,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Brooklyn Talarico",
+     "votes": 24319,
+     "party": "DEM",
+     "pct": 45.71,
+     "choice_id": "01000000-2a2b-fc30-21db-08df31149a39",
+     "party_lines": {
+      "DEM": 24319
+     }
+    },
+    {
+     "name": "Anil R. Beephan, Jr.",
+     "votes": 28850,
+     "party": "REP",
+     "pct": 54.23,
+     "choice_id": "01000000-2a2b-fc30-220a-08df31149a39",
+     "party_lines": {
+      "REP": 25370,
+      "CONSERVATIVE": 3480
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 28,
+     "party": null,
+     "pct": 0.05,
+     "choice_id": "01000000-2a2b-fc30-2256-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-2263-08df31149a39",
+   "state": "NY",
+   "title": "Member of Assembly for State Assembly District 106",
+   "office_type": "state_house",
+   "district": "106",
+   "jurisdiction": "Dutchess County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 24,
+    "units_total": 24,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Didi Barrett",
+     "votes": 21814,
+     "party": "DEM",
+     "pct": 60.18,
+     "choice_id": "01000000-2a2b-fc30-229b-08df31149a39",
+     "party_lines": {
+      "DEM": 21814
+     }
+    },
+    {
+     "name": "Gregory Campus",
+     "votes": 14413,
+     "party": "REP",
+     "pct": 39.77,
+     "choice_id": "01000000-2a2b-fc30-22d2-08df31149a39",
+     "party_lines": {
+      "REP": 12506,
+      "CONSERVATIVE": 1907
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 18,
+     "party": null,
+     "pct": 0.05,
+     "choice_id": "01000000-2a2b-fc30-2323-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-232d-08df31149a39",
+   "state": "NY",
+   "title": "County Sheriff",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 69,
+    "units_total": 69,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Kirk A. Imperati",
+     "votes": 69289,
+     "party": "REP",
+     "pct": 98.29,
+     "choice_id": "01000000-2a2b-fc30-2367-08df31149a39",
+     "party_lines": {
+      "REP": 56762,
+      "CONSERVATIVE": 12527
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1204,
+     "party": null,
+     "pct": 1.71,
+     "choice_id": "01000000-2a2b-fc30-23b9-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-23c1-08df31149a39",
+   "state": "NY",
+   "title": "County Legislator for County Legislative District 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 11,
+    "units_total": 11,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Trevor Redl",
+     "votes": 2049,
+     "party": "DEM",
+     "pct": 67.83,
+     "choice_id": "01000000-2a2b-fc30-23fa-08df31149a39",
+     "party_lines": {
+      "DEM": 1850,
+      "WFP": 199
+     }
+    },
+    {
+     "name": "Robert V. Gorman",
+     "votes": 972,
+     "party": "REP",
+     "pct": 32.17,
+     "choice_id": "01000000-2a2b-fc30-242b-08df31149a39",
+     "party_lines": {
+      "REP": 836,
+      "CONSERVATIVE": 136
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-2490-08df31149a39",
+   "state": "NY",
+   "title": "County Legislator for County Legislative District 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 18,
+    "units_total": 18,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Emma Arnoff",
+     "votes": 2748,
+     "party": "DEM",
+     "pct": 53.54,
+     "choice_id": "01000000-2a2b-fc30-24c9-08df31149a39",
+     "party_lines": {
+      "DEM": 2469,
+      "WFP": 279
+     }
+    },
+    {
+     "name": "Anne Burger",
+     "votes": 2383,
+     "party": "REP",
+     "pct": 46.43,
+     "choice_id": "01000000-2a2b-fc30-24fc-08df31149a39",
+     "party_lines": {
+      "REP": 2080,
+      "CONSERVATIVE": 303
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-2a2b-fc30-254e-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-2555-08df31149a39",
+   "state": "NY",
+   "title": "County Legislator for County Legislative District 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 4,
+    "units_total": 4,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "David Siegel",
+     "votes": 2508,
+     "party": "DEM",
+     "pct": 50.63,
+     "choice_id": "01000000-2a2b-fc30-258e-08df31149a39",
+     "party_lines": {
+      "DEM": 2282,
+      "WFP": 226
+     }
+    },
+    {
+     "name": "Michael Polasek",
+     "votes": 2444,
+     "party": "REP",
+     "pct": 49.33,
+     "choice_id": "01000000-2a2b-fc30-25c0-08df31149a39",
+     "party_lines": {
+      "REP": 2117,
+      "CONSERVATIVE": 327
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-2a2b-fc30-260f-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-2621-08df31149a39",
+   "state": "NY",
+   "title": "County Legislator for County Legislative District 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 15,
+    "units_total": 15,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Brendan Lawler",
+     "votes": 2929,
+     "party": "DEM",
+     "pct": 99.12,
+     "choice_id": "01000000-2a2b-fc30-265b-08df31149a39",
+     "party_lines": {
+      "DEM": 2466,
+      "WFP": 463
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 26,
+     "party": null,
+     "pct": 0.88,
+     "choice_id": "01000000-2a2b-fc30-26ab-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-26b2-08df31149a39",
+   "state": "NY",
+   "title": "County Legislator for County Legislative District 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 11,
+    "units_total": 11,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Anna Shah",
+     "votes": 2677,
+     "party": "DEM",
+     "pct": 57.18,
+     "choice_id": "01000000-2a2b-fc30-26eb-08df31149a39",
+     "party_lines": {
+      "DEM": 2447,
+      "WFP": 230
+     }
+    },
+    {
+     "name": "Tony D'Aquanni",
+     "votes": 2004,
+     "party": "REP",
+     "pct": 42.8,
+     "choice_id": "01000000-2a2b-fc30-271d-08df31149a39",
+     "party_lines": {
+      "REP": 1740,
+      "CONSERVATIVE": 264
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.02,
+     "choice_id": "01000000-2a2b-fc30-2775-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-277d-08df31149a39",
+   "state": "NY",
+   "title": "County Legislator for County Legislative District 6",
+   "office_type": "local",
+   "district": "6",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 11,
+    "units_total": 11,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Tonya Speed",
+     "votes": 2750,
+     "party": "DEM",
+     "pct": 99.17,
+     "choice_id": "01000000-2a2b-fc30-27bc-08df31149a39",
+     "party_lines": {
+      "DEM": 2750
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 23,
+     "party": null,
+     "pct": 0.83,
+     "choice_id": "01000000-2a2b-fc30-2807-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-280f-08df31149a39",
+   "state": "NY",
+   "title": "County Legislator for County Legislative District 7",
+   "office_type": "local",
+   "district": "7",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 7,
+    "units_total": 7,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Trish Prunty",
+     "votes": 2268,
+     "party": "DEM",
+     "pct": 49.61,
+     "choice_id": "01000000-2a2b-fc30-284b-08df31149a39",
+     "party_lines": {
+      "DEM": 2046,
+      "WFP": 222
+     }
+    },
+    {
+     "name": "Lew Darrow",
+     "votes": 2304,
+     "party": "REP",
+     "pct": 50.39,
+     "choice_id": "01000000-2a2b-fc30-287c-08df31149a39",
+     "party_lines": {
+      "REP": 2006,
+      "CONSERVATIVE": 298
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-28d8-08df31149a39",
+   "state": "NY",
+   "title": "County Legislator for County Legislative District 8",
+   "office_type": "local",
+   "district": "8",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 19,
+    "units_total": 19,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Craig P. Brendli",
+     "votes": 3769,
+     "party": "DEM",
+     "pct": 99.55,
+     "choice_id": "01000000-2a2b-fc30-2914-08df31149a39",
+     "party_lines": {
+      "DEM": 3203,
+      "WFP": 566
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 17,
+     "party": null,
+     "pct": 0.45,
+     "choice_id": "01000000-2a2b-fc30-2962-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-296a-08df31149a39",
+   "state": "NY",
+   "title": "County Legislator for County Legislative District 9",
+   "office_type": "local",
+   "district": "9",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 8,
+    "units_total": 8,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Barrington R. Atkins",
+     "votes": 1785,
+     "party": "DEM",
+     "pct": 79.37,
+     "choice_id": "01000000-2a2b-fc30-29a5-08df31149a39",
+     "party_lines": {
+      "DEM": 1549,
+      "WFP": 236
+     }
+    },
+    {
+     "name": "Aaron P. Scott",
+     "votes": 464,
+     "party": "REP",
+     "pct": 20.63,
+     "choice_id": "01000000-2a2b-fc30-29d7-08df31149a39",
+     "party_lines": {
+      "REP": 418,
+      "CONSERVATIVE": 46
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-2a2c-08df31149a39",
+   "state": "NY",
+   "title": "County Legislator for County Legislative District 10",
+   "office_type": "local",
+   "district": "10",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 8,
+    "units_total": 8,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Nakia N. Simmons",
+     "votes": 1443,
+     "party": "DEM",
+     "pct": 88.04,
+     "choice_id": "01000000-2a2b-fc30-2a72-08df31149a39",
+     "party_lines": {
+      "DEM": 1317,
+      "WFP": 126
+     }
+    },
+    {
+     "name": "Shanta A. Persad Saeteros",
+     "votes": 196,
+     "party": "REP",
+     "pct": 11.96,
+     "choice_id": "01000000-2a2b-fc30-2aa3-08df31149a39",
+     "party_lines": {
+      "REP": 196
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-2af6-08df31149a39",
+   "state": "NY",
+   "title": "County Legislator for County Legislative District 11",
+   "office_type": "local",
+   "district": "11",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 6,
+    "units_total": 6,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Brennan Kearney",
+     "votes": 4067,
+     "party": "DEM",
+     "pct": 99.22,
+     "choice_id": "01000000-2a2b-fc30-2b32-08df31149a39",
+     "party_lines": {
+      "DEM": 3483,
+      "WFP": 584
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 32,
+     "party": null,
+     "pct": 0.78,
+     "choice_id": "01000000-2a2b-fc30-2b77-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-2b86-08df31149a39",
+   "state": "NY",
+   "title": "County Legislator for County Legislative District 12",
+   "office_type": "local",
+   "district": "12",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Anthony Giaccone",
+     "votes": 2065,
+     "party": "DEM",
+     "pct": 41.42,
+     "choice_id": "01000000-2a2b-fc30-2bc3-08df31149a39",
+     "party_lines": {
+      "DEM": 2065
+     }
+    },
+    {
+     "name": "John Metzger",
+     "votes": 2919,
+     "party": "REP",
+     "pct": 58.54,
+     "choice_id": "01000000-2a2b-fc30-2bf2-08df31149a39",
+     "party_lines": {
+      "REP": 2602,
+      "CONSERVATIVE": 317
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-2a2b-fc30-2c41-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-2c4f-08df31149a39",
+   "state": "NY",
+   "title": "County Legislator for County Legislative District 13",
+   "office_type": "local",
+   "district": "13",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 10,
+    "units_total": 10,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Keith Odums",
+     "votes": 2251,
+     "party": "DEM",
+     "pct": 44.98,
+     "choice_id": "01000000-2a2b-fc30-2c8b-08df31149a39",
+     "party_lines": {
+      "DEM": 2041,
+      "WFP": 210
+     }
+    },
+    {
+     "name": "Kevin M. Giles",
+     "votes": 2752,
+     "party": "REP",
+     "pct": 54.99,
+     "choice_id": "01000000-2a2b-fc30-2cbd-08df31149a39",
+     "party_lines": {
+      "REP": 2752
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-2a2b-fc30-2d03-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-2d0e-08df31149a39",
+   "state": "NY",
+   "title": "County Legislator for County Legislative District 14",
+   "office_type": "local",
+   "district": "14",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 16,
+    "units_total": 16,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Alix Winsby",
+     "votes": 2113,
+     "party": "DEM",
+     "pct": 54.83,
+     "choice_id": "01000000-2a2b-fc30-2d4f-08df31149a39",
+     "party_lines": {
+      "DEM": 1892,
+      "WFP": 221
+     }
+    },
+    {
+     "name": "Lynne Miele-Versaci",
+     "votes": 1741,
+     "party": "REP",
+     "pct": 45.17,
+     "choice_id": "01000000-2a2b-fc30-2d80-08df31149a39",
+     "party_lines": {
+      "REP": 1551,
+      "CONSERVATIVE": 190
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-2dda-08df31149a39",
+   "state": "NY",
+   "title": "County Legislator for County Legislative District 15",
+   "office_type": "local",
+   "district": "15",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Kyle Fendrich",
+     "votes": 2238,
+     "party": "DEM",
+     "pct": 49.92,
+     "choice_id": "01000000-2a2b-fc30-2e18-08df31149a39",
+     "party_lines": {
+      "DEM": 2027,
+      "WFP": 211
+     }
+    },
+    {
+     "name": "Robert Faust",
+     "votes": 2244,
+     "party": "REP",
+     "pct": 50.06,
+     "choice_id": "01000000-2a2b-fc30-2e4c-08df31149a39",
+     "party_lines": {
+      "REP": 1995,
+      "CONSERVATIVE": 249
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.02,
+     "choice_id": "01000000-2a2b-fc30-2e97-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-2ea1-08df31149a39",
+   "state": "NY",
+   "title": "County Legislator for County Legislative District 16",
+   "office_type": "local",
+   "district": "16",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 8,
+    "units_total": 8,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Yvette Valdes Smith",
+     "votes": 3492,
+     "party": "DEM",
+     "pct": 99.35,
+     "choice_id": "01000000-2a2b-fc30-2ede-08df31149a39",
+     "party_lines": {
+      "DEM": 2893,
+      "WFP": 599
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 23,
+     "party": null,
+     "pct": 0.65,
+     "choice_id": "01000000-2a2b-fc30-2f34-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-2f3b-08df31149a39",
+   "state": "NY",
+   "title": "County Legislator for County Legislative District 17",
+   "office_type": "local",
+   "district": "17",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Mike Schade",
+     "votes": 2379,
+     "party": "DEM",
+     "pct": 48.96,
+     "choice_id": "01000000-2a2b-fc30-2f79-08df31149a39",
+     "party_lines": {
+      "DEM": 2177,
+      "WFP": 202
+     }
+    },
+    {
+     "name": "Douglas A.A. McHoul",
+     "votes": 2477,
+     "party": "REP",
+     "pct": 50.98,
+     "choice_id": "01000000-2a2b-fc30-2faa-08df31149a39",
+     "party_lines": {
+      "REP": 2180,
+      "CONSERVATIVE": 297
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.06,
+     "choice_id": "01000000-2a2b-fc30-2fec-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-2ffc-08df31149a39",
+   "state": "NY",
+   "title": "County Legislator for County Legislative District 18",
+   "office_type": "local",
+   "district": "18",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 8,
+    "units_total": 8,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Molly Rhodes",
+     "votes": 4098,
+     "party": "DEM",
+     "pct": 99.47,
+     "choice_id": "01000000-2a2b-fc30-3044-08df31149a39",
+     "party_lines": {
+      "DEM": 3158,
+      "WFP": 940
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 22,
+     "party": null,
+     "pct": 0.53,
+     "choice_id": "01000000-2a2b-fc30-3087-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-309e-08df31149a39",
+   "state": "NY",
+   "title": "County Legislator for County Legislative District 19",
+   "office_type": "local",
+   "district": "19",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 8,
+    "units_total": 8,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Chris Drago",
+     "votes": 3535,
+     "party": "DEM",
+     "pct": 99.05,
+     "choice_id": "01000000-2a2b-fc30-30dc-08df31149a39",
+     "party_lines": {
+      "DEM": 2898,
+      "WFP": 637
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 34,
+     "party": null,
+     "pct": 0.95,
+     "choice_id": "01000000-2a2b-fc30-311c-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-312f-08df31149a39",
+   "state": "NY",
+   "title": "County Legislator for County Legislative District 20",
+   "office_type": "local",
+   "district": "20",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 6,
+    "units_total": 6,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Kristofer Munn",
+     "votes": 4049,
+     "party": "DEM",
+     "pct": 98.61,
+     "choice_id": "01000000-2a2b-fc30-316e-08df31149a39",
+     "party_lines": {
+      "DEM": 3287,
+      "WFP": 762
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 57,
+     "party": null,
+     "pct": 1.39,
+     "choice_id": "01000000-2a2b-fc30-31b5-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-31bf-08df31149a39",
+   "state": "NY",
+   "title": "County Legislator for County Legislative District 21",
+   "office_type": "local",
+   "district": "21",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Francine M. Caracappa",
+     "votes": 2109,
+     "party": "DEM",
+     "pct": 43.15,
+     "choice_id": "01000000-2a2b-fc30-31ff-08df31149a39",
+     "party_lines": {
+      "DEM": 1941,
+      "WFP": 168
+     }
+    },
+    {
+     "name": "Stephen M. Caswell",
+     "votes": 2778,
+     "party": "REP",
+     "pct": 56.83,
+     "choice_id": "01000000-2a2b-fc30-3239-08df31149a39",
+     "party_lines": {
+      "REP": 2449,
+      "CONSERVATIVE": 329
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.02,
+     "choice_id": "01000000-2a2b-fc30-3280-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-328b-08df31149a39",
+   "state": "NY",
+   "title": "County Legislator for County Legislative District 22",
+   "office_type": "local",
+   "district": "22",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 3,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Heidi Tucci",
+     "votes": 2240,
+     "party": "DEM",
+     "pct": 44.72,
+     "choice_id": "01000000-2a2b-fc30-32cc-08df31149a39",
+     "party_lines": {
+      "DEM": 2047,
+      "WFP": 193
+     }
+    },
+    {
+     "name": "Joseph Tresca",
+     "votes": 2767,
+     "party": "REP",
+     "pct": 55.24,
+     "choice_id": "01000000-2a2b-fc30-32fe-08df31149a39",
+     "party_lines": {
+      "REP": 2767
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-2a2b-fc30-3344-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-334b-08df31149a39",
+   "state": "NY",
+   "title": "County Legislator for County Legislative District 23",
+   "office_type": "local",
+   "district": "23",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 10,
+    "units_total": 10,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Marty Mygan",
+     "votes": 2076,
+     "party": "DEM",
+     "pct": 42.74,
+     "choice_id": "01000000-2a2b-fc30-338b-08df31149a39",
+     "party_lines": {
+      "DEM": 1886,
+      "WFP": 190
+     }
+    },
+    {
+     "name": "Chris Rolison",
+     "votes": 2781,
+     "party": "REP",
+     "pct": 57.26,
+     "choice_id": "01000000-2a2b-fc30-33d9-08df31149a39",
+     "party_lines": {
+      "REP": 2423,
+      "CONSERVATIVE": 358
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-3429-08df31149a39",
+   "state": "NY",
+   "title": "County Legislator for County Legislative District 24",
+   "office_type": "local",
+   "district": "24",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 4,
+    "units_total": 4,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "August Uribe",
+     "votes": 1788,
+     "party": "DEM",
+     "pct": 44.83,
+     "choice_id": "01000000-2a2b-fc30-346f-08df31149a39",
+     "party_lines": {
+      "DEM": 1651,
+      "WFP": 137
+     }
+    },
+    {
+     "name": "Andrew J. House",
+     "votes": 2199,
+     "party": "REP",
+     "pct": 55.14,
+     "choice_id": "01000000-2a2b-fc30-34a3-08df31149a39",
+     "party_lines": {
+      "REP": 1965,
+      "CONSERVATIVE": 234
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.03,
+     "choice_id": "01000000-2a2b-fc30-34e9-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-34f4-08df31149a39",
+   "state": "NY",
+   "title": "County Legislator for County Legislative District 25",
+   "office_type": "local",
+   "district": "25",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Eric Alexander",
+     "votes": 2583,
+     "party": "DEM",
+     "pct": 54.63,
+     "choice_id": "01000000-2a2b-fc30-3542-08df31149a39",
+     "party_lines": {
+      "DEM": 2331,
+      "WFP": 252
+     }
+    },
+    {
+     "name": "Stefanie W. Hubert",
+     "votes": 2143,
+     "party": "REP",
+     "pct": 45.33,
+     "choice_id": "01000000-2a2b-fc30-3575-08df31149a39",
+     "party_lines": {
+      "REP": 1904,
+      "CONSERVATIVE": 239
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-2a2b-fc30-35b9-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-35c5-08df31149a39",
+   "state": "NY",
+   "title": "Amenia Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Rosanna L. Hamm",
+     "votes": 943,
+     "party": "DEM",
+     "pct": 98.02,
+     "choice_id": "01000000-2a2b-fc30-3609-08df31149a39",
+     "party_lines": {
+      "DEM": 752,
+      "WFP": 191
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 19,
+     "party": null,
+     "pct": 1.98,
+     "choice_id": "01000000-2a2b-fc30-364c-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-3658-08df31149a39",
+   "state": "NY",
+   "title": "Amenia Member of Town Council- Unexpired Term",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "P. Damian Gutierrez",
+     "votes": 903,
+     "party": "DEM",
+     "pct": 98.15,
+     "choice_id": "01000000-2a2b-fc30-369c-08df31149a39",
+     "party_lines": {
+      "DEM": 756,
+      "AMENIA WORKS": 147
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 17,
+     "party": null,
+     "pct": 1.85,
+     "choice_id": "01000000-2a2b-fc30-36e3-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-530b-08df31149a39",
+   "state": "NY",
+   "title": "Amenia Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Thomas P. Stefanopoulos",
+     "votes": 835,
+     "party": "REP",
+     "pct": 97.89,
+     "choice_id": "01000000-2a2b-fc30-5351-08df31149a39",
+     "party_lines": {
+      "REP": 835
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 18,
+     "party": null,
+     "pct": 2.11,
+     "choice_id": "01000000-2a2b-fc30-5395-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-36f3-08df31149a39",
+   "state": "NY",
+   "title": "Beekman Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 3,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Laureen Abbatantuono",
+     "votes": 3481,
+     "party": "REP",
+     "pct": 98.22,
+     "choice_id": "01000000-2a2b-fc30-3738-08df31149a39",
+     "party_lines": {
+      "REP": 3481
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 63,
+     "party": null,
+     "pct": 1.78,
+     "choice_id": "01000000-2a2b-fc30-3778-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-3785-08df31149a39",
+   "state": "NY",
+   "title": "Beekman Town Clerk- Unexpired Term",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 3,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Alicia Turenchalk",
+     "votes": 3615,
+     "party": "REP",
+     "pct": 98.93,
+     "choice_id": "01000000-2a2b-fc30-37cc-08df31149a39",
+     "party_lines": {
+      "REP": 3112,
+      "CONSERVATIVE": 503
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 39,
+     "party": null,
+     "pct": 1.07,
+     "choice_id": "01000000-2a2b-fc30-3810-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-381b-08df31149a39",
+   "state": "NY",
+   "title": "Clinton Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Michael Whitton",
+     "votes": 1281,
+     "party": "DEM",
+     "pct": 97.64,
+     "choice_id": "01000000-2a2b-fc30-3867-08df31149a39",
+     "party_lines": {
+      "DEM": 1281
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 31,
+     "party": null,
+     "pct": 2.36,
+     "choice_id": "01000000-2a2b-fc30-38a3-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-38b2-08df31149a39",
+   "state": "NY",
+   "title": "Dover Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Linda S. French",
+     "votes": 913,
+     "party": "DEM",
+     "pct": 35.37,
+     "choice_id": "01000000-2a2b-fc30-38f8-08df31149a39",
+     "party_lines": {
+      "DEM": 913
+     }
+    },
+    {
+     "name": "Richard C. Yeno",
+     "votes": 1662,
+     "party": "REP",
+     "pct": 64.39,
+     "choice_id": "01000000-2a2b-fc30-3927-08df31149a39",
+     "party_lines": {
+      "REP": 1492,
+      "CONSERVATIVE": 170
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 6,
+     "party": null,
+     "pct": 0.23,
+     "choice_id": "01000000-2a2b-fc30-3966-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-3975-08df31149a39",
+   "state": "NY",
+   "title": "Dover Town Clerk- Unexpired Term",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Nicole E. Plavchan",
+     "votes": 1884,
+     "party": "REP",
+     "pct": 99.16,
+     "choice_id": "01000000-2a2b-fc30-39bc-08df31149a39",
+     "party_lines": {
+      "REP": 1636,
+      "CONSERVATIVE": 248
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 16,
+     "party": null,
+     "pct": 0.84,
+     "choice_id": "01000000-2a2b-fc30-39ff-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-3a0f-08df31149a39",
+   "state": "NY",
+   "title": "Dover Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Dina Marie Yeno",
+     "votes": 1886,
+     "party": "REP",
+     "pct": 99.21,
+     "choice_id": "01000000-2a2b-fc30-3ba9-08df31149a39",
+     "party_lines": {
+      "REP": 1886
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 15,
+     "party": null,
+     "pct": 0.79,
+     "choice_id": "01000000-2a2b-fc30-3bef-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-539c-08df31149a39",
+   "state": "NY",
+   "title": "Dover Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Robert Taylor",
+     "votes": 992,
+     "party": "DEM",
+     "pct": 40.06,
+     "choice_id": "01000000-2a2b-fc30-53e2-08df31149a39",
+     "party_lines": {
+      "DEM": 992
+     }
+    },
+    {
+     "name": "Patricia A. Hammond",
+     "votes": 1481,
+     "party": "REP",
+     "pct": 59.81,
+     "choice_id": "01000000-2a2b-fc30-5412-08df31149a39",
+     "party_lines": {
+      "REP": 1481
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.12,
+     "choice_id": "01000000-2a2b-fc30-5454-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-545c-08df31149a39",
+   "state": "NY",
+   "title": "East Fishkill Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Rick Romig",
+     "votes": 8747,
+     "party": "REP",
+     "pct": 98.81,
+     "choice_id": "01000000-2a2b-fc30-54a2-08df31149a39",
+     "party_lines": {
+      "REP": 7367,
+      "CONSERVATIVE": 1380
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 105,
+     "party": null,
+     "pct": 1.19,
+     "choice_id": "01000000-2a2b-fc30-54e9-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-3bf6-08df31149a39",
+   "state": "NY",
+   "title": "Hyde Park Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 4,
+    "units_total": 4,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Russell Urban-Mead",
+     "votes": 4063,
+     "party": "DEM",
+     "pct": 51.22,
+     "choice_id": "01000000-2a2b-fc30-3c3e-08df31149a39",
+     "party_lines": {
+      "DEM": 4063
+     }
+    },
+    {
+     "name": "Al Torreggiani",
+     "votes": 3867,
+     "party": "REP",
+     "pct": 48.75,
+     "choice_id": "01000000-2a2b-fc30-3c6d-08df31149a39",
+     "party_lines": {
+      "REP": 3328,
+      "CONSERVATIVE": 539
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-2a2b-fc30-3cab-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-3cba-08df31149a39",
+   "state": "NY",
+   "title": "Hyde Park Member of Town Council- Ward 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 4,
+    "units_total": 4,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Marc Prine",
+     "votes": 1504,
+     "party": "DEM",
+     "pct": 99.08,
+     "choice_id": "01000000-2a2b-fc30-3d02-08df31149a39",
+     "party_lines": {
+      "DEM": 1285,
+      "WFP": 219
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 14,
+     "party": null,
+     "pct": 0.92,
+     "choice_id": "01000000-2a2b-fc30-3d4c-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-3d5c-08df31149a39",
+   "state": "NY",
+   "title": "Hyde Park Member of Town Council- Ward 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 4,
+    "units_total": 4,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Gregory Komar",
+     "votes": 1238,
+     "party": "DEM",
+     "pct": 99.44,
+     "choice_id": "01000000-2a2b-fc30-3da4-08df31149a39",
+     "party_lines": {
+      "DEM": 1024,
+      "WFP": 214
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 7,
+     "party": null,
+     "pct": 0.56,
+     "choice_id": "01000000-2a2b-fc30-3de3-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-3df0-08df31149a39",
+   "state": "NY",
+   "title": "Hyde Park Member of Town Council- Ward 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 4,
+    "units_total": 4,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Paul Donnelly",
+     "votes": 897,
+     "party": "DEM",
+     "pct": 55.37,
+     "choice_id": "01000000-2a2b-fc30-3e38-08df31149a39",
+     "party_lines": {
+      "DEM": 813,
+      "WFP": 84
+     }
+    },
+    {
+     "name": "Julie Pizzarelli",
+     "votes": 723,
+     "party": "REP",
+     "pct": 44.63,
+     "choice_id": "01000000-2a2b-fc30-3e6b-08df31149a39",
+     "party_lines": {
+      "REP": 634,
+      "CONSERVATIVE": 89
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-3ec1-08df31149a39",
+   "state": "NY",
+   "title": "Hyde Park Member of Town Council- Ward 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 4,
+    "units_total": 4,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Rogerrio Rodriguez",
+     "votes": 1117,
+     "party": "DEM",
+     "pct": 47.37,
+     "choice_id": "01000000-2a2b-fc30-3f0a-08df31149a39",
+     "party_lines": {
+      "DEM": 992,
+      "WFP": 125
+     }
+    },
+    {
+     "name": "James Sheedy",
+     "votes": 1241,
+     "party": "REP",
+     "pct": 52.63,
+     "choice_id": "01000000-2a2b-fc30-3f3c-08df31149a39",
+     "party_lines": {
+      "REP": 1066,
+      "CONSERVATIVE": 175
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-54f8-08df31149a39",
+   "state": "NY",
+   "title": "LaGrange Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 4,
+    "units_total": 4,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Susan M. Sullivan-Bisceglia",
+     "votes": 4979,
+     "party": "REP",
+     "pct": 99.3,
+     "choice_id": "01000000-2a2b-fc30-5541-08df31149a39",
+     "party_lines": {
+      "REP": 3512,
+      "CONSERVATIVE": 561,
+      "WFP": 906
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 35,
+     "party": null,
+     "pct": 0.7,
+     "choice_id": "01000000-2a2b-fc30-5580-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-3f88-08df31149a39",
+   "state": "NY",
+   "title": "Milan Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "William Jeffway",
+     "votes": 817,
+     "party": "DEM",
+     "pct": 99.76,
+     "choice_id": "01000000-2a2b-fc30-3fd0-08df31149a39",
+     "party_lines": {
+      "DEM": 817
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.24,
+     "choice_id": "01000000-2a2b-fc30-400c-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-558e-08df31149a39",
+   "state": "NY",
+   "title": "Milan Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Thomas Jones",
+     "votes": 806,
+     "party": "DEM",
+     "pct": 99.75,
+     "choice_id": "01000000-2a2b-fc30-55d8-08df31149a39",
+     "party_lines": {
+      "DEM": 806
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.25,
+     "choice_id": "01000000-2a2b-fc30-5614-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-4017-08df31149a39",
+   "state": "NY",
+   "title": "Pawling Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Catherine Giordano",
+     "votes": 2228,
+     "party": "REP",
+     "pct": 88.98,
+     "choice_id": "01000000-2a2b-fc30-4068-08df31149a39",
+     "party_lines": {
+      "REP": 1825,
+      "CONSERVATIVE": 403
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 276,
+     "party": null,
+     "pct": 11.02,
+     "choice_id": "01000000-2a2b-fc30-40a6-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-561f-08df31149a39",
+   "state": "NY",
+   "title": "Pawling Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Gayle Zelazny",
+     "votes": 2158,
+     "party": "REP",
+     "pct": 98.36,
+     "choice_id": "01000000-2a2b-fc30-5675-08df31149a39",
+     "party_lines": {
+      "REP": 2158
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 36,
+     "party": null,
+     "pct": 1.64,
+     "choice_id": "01000000-2a2b-fc30-56ac-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-40b1-08df31149a39",
+   "state": "NY",
+   "title": "Pine Plains Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Trevor Roush",
+     "votes": 598,
+     "party": "DEM",
+     "pct": 56.15,
+     "choice_id": "01000000-2a2b-fc30-40fa-08df31149a39",
+     "party_lines": {
+      "DEM": 598
+     }
+    },
+    {
+     "name": "Brian Walsh",
+     "votes": 465,
+     "party": "REP",
+     "pct": 43.66,
+     "choice_id": "01000000-2a2b-fc30-412b-08df31149a39",
+     "party_lines": {
+      "REP": 465
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.19,
+     "choice_id": "01000000-2a2b-fc30-4163-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-56bc-08df31149a39",
+   "state": "NY",
+   "title": "Pine Plains Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Ibis Guzman",
+     "votes": 704,
+     "party": "REP",
+     "pct": 99.29,
+     "choice_id": "01000000-2a2b-fc30-5708-08df31149a39",
+     "party_lines": {
+      "REP": 704
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 5,
+     "party": null,
+     "pct": 0.71,
+     "choice_id": "01000000-2a2b-fc30-5740-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-4172-08df31149a39",
+   "state": "NY",
+   "title": "Pleasant Valley Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 3,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Meghan Borland",
+     "votes": 2064,
+     "party": "DEM",
+     "pct": 51.94,
+     "choice_id": "01000000-2a2b-fc30-41bd-08df31149a39",
+     "party_lines": {
+      "DEM": 1807,
+      "WFP": 257
+     }
+    },
+    {
+     "name": "Mary Albrecht",
+     "votes": 1903,
+     "party": "REP",
+     "pct": 47.89,
+     "choice_id": "01000000-2a2b-fc30-41f8-08df31149a39",
+     "party_lines": {
+      "REP": 1903
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 7,
+     "party": null,
+     "pct": 0.18,
+     "choice_id": "01000000-2a2b-fc30-4234-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-423e-08df31149a39",
+   "state": "NY",
+   "title": "Pleasant Valley Superintendent of Highways- Unexpired Term",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 3,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Mark Luby",
+     "votes": 2539,
+     "party": "REP",
+     "pct": 98.76,
+     "choice_id": "01000000-2a2b-fc30-4288-08df31149a39",
+     "party_lines": {
+      "REP": 2539
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 32,
+     "party": null,
+     "pct": 1.24,
+     "choice_id": "01000000-2a2b-fc30-42c7-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-42cf-08df31149a39",
+   "state": "NY",
+   "title": "Poughkeepsie Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 11,
+    "units_total": 11,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Rebecca Edwards",
+     "votes": 9797,
+     "party": "DEM",
+     "pct": 62.58,
+     "choice_id": "01000000-2a2b-fc30-4317-08df31149a39",
+     "party_lines": {
+      "DEM": 8777,
+      "WFP": 1020
+     }
+    },
+    {
+     "name": "Stephen C. Oscarlece",
+     "votes": 5853,
+     "party": "REP",
+     "pct": 37.39,
+     "choice_id": "01000000-2a2b-fc30-434a-08df31149a39",
+     "party_lines": {
+      "REP": 5058,
+      "CONSERVATIVE": 795
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 5,
+     "party": null,
+     "pct": 0.03,
+     "choice_id": "01000000-2a2b-fc30-4388-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-439c-08df31149a39",
+   "state": "NY",
+   "title": "Poughkeepsie Member of Town Council- Ward 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 11,
+    "units_total": 11,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Nicholas Rizzo",
+     "votes": 1379,
+     "party": "DEM",
+     "pct": 98.08,
+     "choice_id": "01000000-2a2b-fc30-43e6-08df31149a39",
+     "party_lines": {
+      "DEM": 1379
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 27,
+     "party": null,
+     "pct": 1.92,
+     "choice_id": "01000000-2a2b-fc30-4421-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-4430-08df31149a39",
+   "state": "NY",
+   "title": "Poughkeepsie Member of Town Council- Ward 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 11,
+    "units_total": 11,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Linzy Dineen",
+     "votes": 1559,
+     "party": "DEM",
+     "pct": 59.48,
+     "choice_id": "01000000-2a2b-fc30-447e-08df31149a39",
+     "party_lines": {
+      "DEM": 1407,
+      "WFP": 152
+     }
+    },
+    {
+     "name": "Lawrence F. Sheehan",
+     "votes": 1061,
+     "party": "REP",
+     "pct": 40.48,
+     "choice_id": "01000000-2a2b-fc30-44b2-08df31149a39",
+     "party_lines": {
+      "REP": 1061
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-2a2b-fc30-44e7-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-44f9-08df31149a39",
+   "state": "NY",
+   "title": "Poughkeepsie Member of Town Council- Ward 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 11,
+    "units_total": 11,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Shantha Thangiah",
+     "votes": 2103,
+     "party": "DEM",
+     "pct": 99.29,
+     "choice_id": "01000000-2a2b-fc30-4542-08df31149a39",
+     "party_lines": {
+      "DEM": 1780,
+      "WFP": 323
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 15,
+     "party": null,
+     "pct": 0.71,
+     "choice_id": "01000000-2a2b-fc30-4585-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-4592-08df31149a39",
+   "state": "NY",
+   "title": "Poughkeepsie Member of Town Council- Ward 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 11,
+    "units_total": 11,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Emily Watson",
+     "votes": 1641,
+     "party": "DEM",
+     "pct": 66.73,
+     "choice_id": "01000000-2a2b-fc30-45db-08df31149a39",
+     "party_lines": {
+      "DEM": 1485,
+      "WFP": 156
+     }
+    },
+    {
+     "name": "Margaret Kakish",
+     "votes": 818,
+     "party": "REP",
+     "pct": 33.27,
+     "choice_id": "01000000-2a2b-fc30-460e-08df31149a39",
+     "party_lines": {
+      "REP": 818
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-4655-08df31149a39",
+   "state": "NY",
+   "title": "Poughkeepsie Member of Town Council- Ward 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 11,
+    "units_total": 11,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Ryan Sharpe",
+     "votes": 1603,
+     "party": "DEM",
+     "pct": 64.98,
+     "choice_id": "01000000-2a2b-fc30-469e-08df31149a39",
+     "party_lines": {
+      "DEM": 1455,
+      "WFP": 148
+     }
+    },
+    {
+     "name": "Theresa A. Sheehan",
+     "votes": 863,
+     "party": "REP",
+     "pct": 34.98,
+     "choice_id": "01000000-2a2b-fc30-46cf-08df31149a39",
+     "party_lines": {
+      "REP": 722,
+      "CONSERVATIVE": 141
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-2a2b-fc30-4719-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-4721-08df31149a39",
+   "state": "NY",
+   "title": "Poughkeepsie Member of Town Council- Ward 6",
+   "office_type": "local",
+   "district": "6",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 11,
+    "units_total": 11,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Ann Shershin",
+     "votes": 2059,
+     "party": "DEM",
+     "pct": 99.66,
+     "choice_id": "01000000-2a2b-fc30-476a-08df31149a39",
+     "party_lines": {
+      "DEM": 1736,
+      "WFP": 323
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 7,
+     "party": null,
+     "pct": 0.34,
+     "choice_id": "01000000-2a2b-fc30-47aa-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-47b2-08df31149a39",
+   "state": "NY",
+   "title": "Rhinebeck Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Debbie Hecht",
+     "votes": 2608,
+     "party": "DEM",
+     "pct": 86.62,
+     "choice_id": "01000000-2a2b-fc30-47fc-08df31149a39",
+     "party_lines": {
+      "DEM": 2608
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 403,
+     "party": null,
+     "pct": 13.38,
+     "choice_id": "01000000-2a2b-fc30-4855-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-4863-08df31149a39",
+   "state": "NY",
+   "title": "Rhinebeck Member of Town Council- Unexpired Term",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Josh Pulver",
+     "votes": 2780,
+     "party": "DEM",
+     "pct": 98.97,
+     "choice_id": "01000000-2a2b-fc30-48a9-08df31149a39",
+     "party_lines": {
+      "DEM": 2780
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 29,
+     "party": null,
+     "pct": 1.03,
+     "choice_id": "01000000-2a2b-fc30-48f1-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-48fa-08df31149a39",
+   "state": "NY",
+   "title": "Stanford Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Julia Descoteaux",
+     "votes": 1101,
+     "party": "DEM",
+     "pct": 99.19,
+     "choice_id": "01000000-2a2b-fc30-4943-08df31149a39",
+     "party_lines": {
+      "DEM": 906,
+      "WFP": 195
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 9,
+     "party": null,
+     "pct": 0.81,
+     "choice_id": "01000000-2a2b-fc30-4982-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-4990-08df31149a39",
+   "state": "NY",
+   "title": "Stanford Town Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Ritamary Bell",
+     "votes": 1579,
+     "party": "DEM",
+     "pct": 99.62,
+     "choice_id": "01000000-2a2b-fc30-49d9-08df31149a39",
+     "party_lines": {
+      "DEM": 878,
+      "REP": 701
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 6,
+     "party": null,
+     "pct": 0.38,
+     "choice_id": "01000000-2a2b-fc30-4a14-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-4a44-08df31149a39",
+   "state": "NY",
+   "title": "Stanford Superintendent of Highways",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Jim Myers",
+     "votes": 1561,
+     "party": "DEM",
+     "pct": 99.68,
+     "choice_id": "01000000-2a2b-fc30-4a8e-08df31149a39",
+     "party_lines": {
+      "DEM": 838,
+      "REP": 723
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 5,
+     "party": null,
+     "pct": 0.32,
+     "choice_id": "01000000-2a2b-fc30-4ad3-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-4ad9-08df31149a39",
+   "state": "NY",
+   "title": "Stanford Member of Town Council- Unexpired Term",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Nathan Lavertue",
+     "votes": 855,
+     "party": "DEM",
+     "pct": 52.13,
+     "choice_id": "01000000-2a2b-fc30-4b21-08df31149a39",
+     "party_lines": {
+      "DEM": 855
+     }
+    },
+    {
+     "name": "Jack Evans",
+     "votes": 785,
+     "party": "REP",
+     "pct": 47.87,
+     "choice_id": "01000000-2a2b-fc30-4b50-08df31149a39",
+     "party_lines": {
+      "REP": 785
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-7775-0d2e-af7c-08df3394cb05",
+   "state": "NY",
+   "title": "Union Vale Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Steven Frazier",
+     "votes": 1449,
+     "party": "REP",
+     "pct": 97.51,
+     "choice_id": "01000000-7775-0d2e-af97-08df3394cb05",
+     "party_lines": {
+      "REP": 1224,
+      "CONSERVATIVE": 225
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 37,
+     "party": null,
+     "pct": 2.49,
+     "choice_id": "01000000-7775-0d2e-afb1-08df3394cb05",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-7775-0d2e-afb8-08df3394cb05",
+   "state": "NY",
+   "title": "Union Vale Town Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Andrea Casey",
+     "votes": 1561,
+     "party": "REP",
+     "pct": 99.17,
+     "choice_id": "01000000-7775-0d2e-afd3-08df3394cb05",
+     "party_lines": {
+      "REP": 1305,
+      "CONSERVATIVE": 256
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 13,
+     "party": null,
+     "pct": 0.83,
+     "choice_id": "01000000-7775-0d2e-afe6-08df3394cb05",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-7775-0d2e-afeb-08df3394cb05",
+   "state": "NY",
+   "title": "Union Vale Superintendent of Highways",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Mark Rundall",
+     "votes": 1500,
+     "party": "REP",
+     "pct": 99.21,
+     "choice_id": "01000000-7775-0d2e-b007-08df3394cb05",
+     "party_lines": {
+      "REP": 1262,
+      "CONSERVATIVE": 238
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 12,
+     "party": null,
+     "pct": 0.79,
+     "choice_id": "01000000-7775-0d2e-b01a-08df3394cb05",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-7775-0d2e-b01f-08df3394cb05",
+   "state": "NY",
+   "title": "Union Vale Tax Collector",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Kaye Saglibene",
+     "votes": 1480,
+     "party": "REP",
+     "pct": 99.0,
+     "choice_id": "01000000-7775-0d2e-b4c3-08df3394cb05",
+     "party_lines": {
+      "REP": 1239,
+      "CONSERVATIVE": 241
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 15,
+     "party": null,
+     "pct": 1.0,
+     "choice_id": "01000000-7775-0d2e-b4d9-08df3394cb05",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-7775-0d2e-b560-08df3394cb05",
+   "state": "NY",
+   "title": "Union Vale Town Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Andrea B. Malin",
+     "votes": 1417,
+     "party": "REP",
+     "pct": 99.65,
+     "choice_id": "01000000-7775-0d2e-b57d-08df3394cb05",
+     "party_lines": {
+      "REP": 1196,
+      "CONSERVATIVE": 221
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 5,
+     "party": null,
+     "pct": 0.35,
+     "choice_id": "01000000-7775-0d2e-b58f-08df3394cb05",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-4b98-08df31149a39",
+   "state": "NY",
+   "title": "Wappinger Town Supervisor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Joseph D. Cavaccini",
+     "votes": 7309,
+     "party": "REP",
+     "pct": 98.88,
+     "choice_id": "01000000-2a2b-fc30-4be2-08df31149a39",
+     "party_lines": {
+      "REP": 7309
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 83,
+     "party": null,
+     "pct": 1.12,
+     "choice_id": "01000000-2a2b-fc30-4c25-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-4c30-08df31149a39",
+   "state": "NY",
+   "title": "Wappinger Member of Town Council- Ward 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Hayden Kellermeyer",
+     "votes": 1190,
+     "party": "DEM",
+     "pct": 56.99,
+     "choice_id": "01000000-2a2b-fc30-4c7c-08df31149a39",
+     "party_lines": {
+      "DEM": 1059,
+      "WFP": 131
+     }
+    },
+    {
+     "name": "John F. Lorenzini",
+     "votes": 897,
+     "party": "REP",
+     "pct": 42.96,
+     "choice_id": "01000000-2a2b-fc30-4caf-08df31149a39",
+     "party_lines": {
+      "REP": 876,
+      "COMMON GROUN": 21
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.05,
+     "choice_id": "01000000-2a2b-fc30-4cef-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-4cf8-08df31149a39",
+   "state": "NY",
+   "title": "WappingerMember of Town Council- Ward 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Heather O'Dell ",
+     "votes": 1256,
+     "party": "DEM",
+     "pct": 53.95,
+     "choice_id": "01000000-2a2b-fc30-4d44-08df31149a39",
+     "party_lines": {
+      "DEM": 1127,
+      "WFP": 129
+     }
+    },
+    {
+     "name": "Markos C. Peratikos",
+     "votes": 1071,
+     "party": "REP",
+     "pct": 46.01,
+     "choice_id": "01000000-2a2b-fc30-4d75-08df31149a39",
+     "party_lines": {
+      "REP": 942,
+      "CONSERVATIVE": 129
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-2a2b-fc30-4dba-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-4dc3-08df31149a39",
+   "state": "NY",
+   "title": "Wappinger Member of Town Council- Ward 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Robert Cofer Jr.",
+     "votes": 1667,
+     "party": "DEM",
+     "pct": 50.18,
+     "choice_id": "01000000-2a2b-fc30-4e0e-08df31149a39",
+     "party_lines": {
+      "DEM": 1667
+     }
+    },
+    {
+     "name": "Christopher Phillips",
+     "votes": 1655,
+     "party": "REP",
+     "pct": 49.82,
+     "choice_id": "01000000-2a2b-fc30-4e3e-08df31149a39",
+     "party_lines": {
+      "REP": 1655
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-4e81-08df31149a39",
+   "state": "NY",
+   "title": "Wappinger Member of Town Council- Ward 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Matthew Campoli",
+     "votes": 1090,
+     "party": "DEM",
+     "pct": 40.55,
+     "choice_id": "01000000-2a2b-fc30-4ed2-08df31149a39",
+     "party_lines": {
+      "DEM": 1090
+     }
+    },
+    {
+     "name": "Alfred J. Casella",
+     "votes": 1598,
+     "party": "REP",
+     "pct": 59.45,
+     "choice_id": "01000000-2a2b-fc30-4f02-08df31149a39",
+     "party_lines": {
+      "REP": 1598
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-4f46-08df31149a39",
+   "state": "NY",
+   "title": "Washington Member of Town Council- Unexpired Term",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Deirdre Houston",
+     "votes": 1296,
+     "party": "DEM",
+     "pct": 99.08,
+     "choice_id": "01000000-2a2b-fc30-4f9f-08df31149a39",
+     "party_lines": {
+      "DEM": 1296
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 12,
+     "party": null,
+     "pct": 0.92,
+     "choice_id": "01000000-2a2b-fc30-4fd2-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-4fe2-08df31149a39",
+   "state": "NY",
+   "title": "Millbrook Village Trustee",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Lisa Gamsu",
+     "votes": 366,
+     "party": "DEM",
+     "pct": 36.53,
+     "choice_id": "01000000-2a2b-fc30-502f-08df31149a39",
+     "party_lines": {
+      "DEM": 366
+     }
+    },
+    {
+     "name": "Theodore H. Briggs II",
+     "votes": 298,
+     "party": "REP",
+     "pct": 29.74,
+     "choice_id": "01000000-2a2b-fc30-505d-08df31149a39",
+     "party_lines": {
+      "REP": 298
+     }
+    },
+    {
+     "name": "Patrick Murphy",
+     "votes": 334,
+     "party": "REP",
+     "pct": 33.33,
+     "choice_id": "01000000-2a2b-fc30-508e-08df31149a39",
+     "party_lines": {
+      "REP": 334
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 4,
+     "party": null,
+     "pct": 0.4,
+     "choice_id": "01000000-2a2b-fc30-50c3-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-50d2-08df31149a39",
+   "state": "NY",
+   "title": "Pawling Village Trustee",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Freddy DiVitto",
+     "votes": 436,
+     "party": "REP",
+     "pct": 50.82,
+     "choice_id": "01000000-2a2b-fc30-5128-08df31149a39",
+     "party_lines": {
+      "REP": 436
+     }
+    },
+    {
+     "name": "Arthur Guzzo",
+     "votes": 408,
+     "party": "REP",
+     "pct": 47.55,
+     "choice_id": "01000000-2a2b-fc30-5162-08df31149a39",
+     "party_lines": {
+      "REP": 408
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 14,
+     "party": null,
+     "pct": 1.63,
+     "choice_id": "01000000-2a2b-fc30-5195-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-51a5-08df31149a39",
+   "state": "NY",
+   "title": "Supreme Court Justice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "partial",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 69,
+    "units_total": 69,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Maria G. Rosa",
+     "votes": 65164,
+     "party": "DEM",
+     "pct": 21.07,
+     "choice_id": "01000000-2a2b-fc30-51dd-08df31149a39",
+     "party_lines": {
+      "DEM": 57729,
+      "WFP": 7435
+     }
+    },
+    {
+     "name": "George E. Fufidio",
+     "votes": 95604,
+     "party": "DEM",
+     "pct": 30.91,
+     "choice_id": "01000000-2a2b-fc30-520f-08df31149a39",
+     "party_lines": {
+      "DEM": 55724,
+      "REP": 39880
+     }
+    },
+    {
+     "name": "Alden H. Wolfe",
+     "votes": 61126,
+     "party": "DEM",
+     "pct": 19.76,
+     "choice_id": "01000000-2a2b-fc30-5257-08df31149a39",
+     "party_lines": {
+      "DEM": 56055,
+      "CONSERVATIVE": 5071
+     }
+    },
+    {
+     "name": "Richard S. Fava-Pastilha",
+     "votes": 45633,
+     "party": "REP",
+     "pct": 14.75,
+     "choice_id": "01000000-2a2b-fc30-528b-08df31149a39",
+     "party_lines": {
+      "REP": 39934,
+      "CONSERVATIVE": 5699
+     }
+    },
+    {
+     "name": "John Ciampoli",
+     "votes": 41504,
+     "party": "REP",
+     "pct": 13.42,
+     "choice_id": "01000000-2a2b-fc30-52be-08df31149a39",
+     "party_lines": {
+      "REP": 41504
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 270,
+     "party": null,
+     "pct": 0.09,
+     "choice_id": "01000000-2a2b-fc30-5303-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-574e-08df31149a39",
+   "state": "NY",
+   "title": "Town of Poughkeepsie Library Trustee",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 11,
+    "units_total": 11,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Gretchen Lieb",
+     "votes": 6705,
+     "party": "NON- PARTISA",
+     "pct": 99.5,
+     "choice_id": "01000000-2a2b-fc30-579d-08df31149a39",
+     "party_lines": {
+      "NON- PARTISA": 6705
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 34,
+     "party": null,
+     "pct": 0.5,
+     "choice_id": "01000000-2a2b-fc30-57d2-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-57e0-08df31149a39",
+   "state": "NY",
+   "title": "City of Poughkeepsie Library Trustee",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 8,
+    "units_total": 8,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Jeffrey Kosmacher",
+     "votes": 1465,
+     "party": "NON- PARTISA",
+     "pct": 44.34,
+     "choice_id": "01000000-2a2b-fc30-5838-08df31149a39",
+     "party_lines": {
+      "NON- PARTISA": 1465
+     }
+    },
+    {
+     "name": "Jonathan McPhee",
+     "votes": 1828,
+     "party": "NON- PARTISA",
+     "pct": 55.33,
+     "choice_id": "01000000-2a2b-fc30-5869-08df31149a39",
+     "party_lines": {
+      "NON- PARTISA": 1828
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 11,
+     "party": null,
+     "pct": 0.33,
+     "choice_id": "01000000-2a2b-fc30-589e-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-58aa-08df31149a39",
+   "state": "NY",
+   "title": "Town of Beekman Proposition",
+   "office_type": "measure",
+   "district": "town of beekman proposition",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 3,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 3394,
+     "party": null,
+     "pct": 67.42,
+     "choice_id": "01000000-2a2b-fc30-5904-08df31149a39",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 1640,
+     "party": null,
+     "pct": 32.58,
+     "choice_id": "01000000-2a2b-fc30-5934-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-5939-08df31149a39",
+   "state": "NY",
+   "title": "Town of Clinton Proposition",
+   "office_type": "measure",
+   "district": "town of clinton proposition",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1486,
+     "party": null,
+     "pct": 74.97,
+     "choice_id": "01000000-2a2b-fc30-5993-08df31149a39",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 496,
+     "party": null,
+     "pct": 25.03,
+     "choice_id": "01000000-2a2b-fc30-59c3-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-59c8-08df31149a39",
+   "state": "NY",
+   "title": "Town of East Fishkill Proposition",
+   "office_type": "measure",
+   "district": "town of east fishkill proposition",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 6751,
+     "party": null,
+     "pct": 54.59,
+     "choice_id": "01000000-2a2b-fc30-5a2a-08df31149a39",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 5616,
+     "party": null,
+     "pct": 45.41,
+     "choice_id": "01000000-2a2b-fc30-5a59-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-5a5e-08df31149a39",
+   "state": "NY",
+   "title": "Town of Pine Plains Proposition",
+   "office_type": "measure",
+   "district": "town of pine plains proposition",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 733,
+     "party": null,
+     "pct": 69.41,
+     "choice_id": "01000000-2a2b-fc30-5aba-08df31149a39",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 323,
+     "party": null,
+     "pct": 30.59,
+     "choice_id": "01000000-2a2b-fc30-5aea-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-5aed-08df31149a39",
+   "state": "NY",
+   "title": "Town of Pleasant Valley Proposition",
+   "office_type": "measure",
+   "district": "town of pleasant valley proposition",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 3,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2494,
+     "party": null,
+     "pct": 63.22,
+     "choice_id": "01000000-2a2b-fc30-5b48-08df31149a39",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 1451,
+     "party": null,
+     "pct": 36.78,
+     "choice_id": "01000000-2a2b-fc30-5b79-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-5b7d-08df31149a39",
+   "state": "NY",
+   "title": "Town of Rhinebeck Proposition",
+   "office_type": "measure",
+   "district": "town of rhinebeck proposition",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2692,
+     "party": null,
+     "pct": 73.33,
+     "choice_id": "01000000-2a2b-fc30-5bda-08df31149a39",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 979,
+     "party": null,
+     "pct": 26.67,
+     "choice_id": "01000000-2a2b-fc30-5c11-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-5c15-08df31149a39",
+   "state": "NY",
+   "title": "Town of Stanford Proposition",
+   "office_type": "measure",
+   "district": "town of stanford proposition",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1264,
+     "party": null,
+     "pct": 76.51,
+     "choice_id": "01000000-2a2b-fc30-5c70-08df31149a39",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 388,
+     "party": null,
+     "pct": 23.49,
+     "choice_id": "01000000-2a2b-fc30-5c9f-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-5ca3-08df31149a39",
+   "state": "NY",
+   "title": "Town of Washington Proposition",
+   "office_type": "measure",
+   "district": "town of washington proposition",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1414,
+     "party": null,
+     "pct": 71.92,
+     "choice_id": "01000000-2a2b-fc30-5d00-08df31149a39",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 552,
+     "party": null,
+     "pct": 28.08,
+     "choice_id": "01000000-2a2b-fc30-5d31-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-5d35-08df31149a39",
+   "state": "NY",
+   "title": "Town of Poughkeepsie Library Proposition",
+   "office_type": "measure",
+   "district": "town of poughkeepsie library proposition",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 11,
+    "units_total": 11,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 10354,
+     "party": null,
+     "pct": 70.25,
+     "choice_id": "01000000-2a2b-fc30-5d8f-08df31149a39",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 4385,
+     "party": null,
+     "pct": 29.75,
+     "choice_id": "01000000-2a2b-fc30-5dc7-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.dutchess",
+   "contest_id": "01000000-2a2b-fc30-5dca-08df31149a39",
+   "state": "NY",
+   "title": "City of Poughkeepsie Library Proposition",
+   "office_type": "measure",
+   "district": "city of poughkeepsie library proposition",
+   "jurisdiction": "Dutchess County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 8,
+    "units_total": 8,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:50:59.2774357Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 5548,
+     "party": null,
+     "pct": 79.69,
+     "choice_id": "01000000-2a2b-fc30-5e24-08df31149a39",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 1414,
+     "party": null,
+     "pct": 20.31,
+     "choice_id": "01000000-2a2b-fc30-5e53-08df31149a39",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  }
+ ],
+ "contests_hash": "a5f5f3a12b016bf3",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-04T15:00:50+00:00",
+ "fetched_at": "2026-11-04T15:00:50+00:00",
+ "contests_changed_at": "2026-11-04T14:55:49+00:00"
+}

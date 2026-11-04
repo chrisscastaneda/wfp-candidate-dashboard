@@ -1,0 +1,1588 @@
+{
+ "source": "ny.chemung",
+ "contests": [
+  {
+   "source": "ny.chemung",
+   "contest_id": "01000000-e2d0-3eae-c13a-08df2ecfd274",
+   "state": "NY",
+   "title": "Governor and Lieutenant Governor",
+   "office_type": "governor",
+   "district": null,
+   "jurisdiction": "Chemung County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 89,
+    "pct": 0.0,
+    "text": "0 of 89 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:38:39.3023683Z",
+   "choices": [
+    {
+     "name": "Kathy C. Hochul",
+     "votes": 10528,
+     "party": "DEM",
+     "pct": 37.24,
+     "choice_id": "01000000-e2d0-3eae-d434-08df2ecfd274",
+     "party_lines": {
+      "DEM": 9799,
+      "WFP": 729
+     }
+    },
+    {
+     "name": "Bruce A. Blakeman",
+     "votes": 17684,
+     "party": "REP",
+     "pct": 62.55,
+     "choice_id": "01000000-e2d0-3eae-d913-08df2ecfd274",
+     "party_lines": {
+      "REP": 15684,
+      "CONSERVATIVE": 1630,
+      "VOTE AFFORDA": 370
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 60,
+     "party": null,
+     "pct": 0.21,
+     "choice_id": "01000000-e2d0-3eae-d947-08df2ecfd274",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.chemung",
+   "contest_id": "01000000-e2d0-3eae-d952-08df2ecfd274",
+   "state": "NY",
+   "title": "Comptroller",
+   "office_type": "controller",
+   "district": null,
+   "jurisdiction": "Chemung County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 89,
+    "pct": 0.0,
+    "text": "0 of 89 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:38:39.3023683Z",
+   "choices": [
+    {
+     "name": "Thomas P. DiNapoli",
+     "votes": 13190,
+     "party": "DEM",
+     "pct": 47.28,
+     "choice_id": "01000000-e2d0-3eae-d98b-08df2ecfd274",
+     "party_lines": {
+      "DEM": 11857,
+      "WFP": 1333
+     }
+    },
+    {
+     "name": "Joseph Hernandez",
+     "votes": 14698,
+     "party": "REP",
+     "pct": 52.69,
+     "choice_id": "01000000-e2d0-3eae-d9a3-08df2ecfd274",
+     "party_lines": {
+      "REP": 13157,
+      "CONSERVATIVE": 1541
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": null,
+     "pct": 0.03,
+     "choice_id": "01000000-e2d0-3eae-d9c8-08df2ecfd274",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.chemung",
+   "contest_id": "01000000-e2d0-3eae-d9ce-08df2ecfd274",
+   "state": "NY",
+   "title": "Attorney General",
+   "office_type": "attorney_general",
+   "district": null,
+   "jurisdiction": "Chemung County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 89,
+    "pct": 0.0,
+    "text": "0 of 89 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:38:39.3023683Z",
+   "choices": [
+    {
+     "name": "Letitia A. James",
+     "votes": 11529,
+     "party": "DEM",
+     "pct": 41.23,
+     "choice_id": "01000000-e2d0-3eae-d9f5-08df2ecfd274",
+     "party_lines": {
+      "DEM": 10579,
+      "WFP": 950
+     }
+    },
+    {
+     "name": "Saritha Komatireddy",
+     "votes": 16425,
+     "party": "REP",
+     "pct": 58.74,
+     "choice_id": "01000000-e2d0-3eae-da0b-08df2ecfd274",
+     "party_lines": {
+      "REP": 14673,
+      "CONSERVATIVE": 1752
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 7,
+     "party": null,
+     "pct": 0.03,
+     "choice_id": "01000000-e2d0-3eae-da2d-08df2ecfd274",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.chemung",
+   "contest_id": "01000000-e2d0-3eae-da33-08df2ecfd274",
+   "state": "NY",
+   "title": "Representative in Congress 23rd District",
+   "office_type": "federal_house",
+   "district": "23",
+   "jurisdiction": "Chemung County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 89,
+    "pct": 0.0,
+    "text": "0 of 89 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:38:39.3023683Z",
+   "choices": [
+    {
+     "name": "Aaron Gies",
+     "votes": 11529,
+     "party": "DEM",
+     "pct": 40.86,
+     "choice_id": "01000000-e2d0-3eae-da4c-08df2ecfd274",
+     "party_lines": {
+      "DEM": 10571,
+      "WFP": 958
+     }
+    },
+    {
+     "name": "Nicholas A. Langworthy",
+     "votes": 16675,
+     "party": "REP",
+     "pct": 59.1,
+     "choice_id": "01000000-e2d0-3eae-da7b-08df2ecfd274",
+     "party_lines": {
+      "REP": 14968,
+      "CONSERVATIVE": 1707
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 13,
+     "party": null,
+     "pct": 0.05,
+     "choice_id": "01000000-e2d0-3eae-dc1a-08df2ecfd274",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.chemung",
+   "contest_id": "01000000-e2d0-3eae-dc2b-08df2ecfd274",
+   "state": "NY",
+   "title": "State Senator 58th District",
+   "office_type": "state_senate",
+   "district": "58",
+   "jurisdiction": "Chemung County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 89,
+    "pct": 0.0,
+    "text": "0 of 89 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:38:39.3023683Z",
+   "choices": [
+    {
+     "name": "James J. Bobreski",
+     "votes": 10112,
+     "party": "DEM",
+     "pct": 36.09,
+     "choice_id": "01000000-e2d0-3eae-dc4e-08df2ecfd274",
+     "party_lines": {
+      "DEM": 10112
+     }
+    },
+    {
+     "name": "Thomas Fellers O'Mara",
+     "votes": 17896,
+     "party": "REP",
+     "pct": 63.87,
+     "choice_id": "01000000-e2d0-3eae-dc62-08df2ecfd274",
+     "party_lines": {
+      "REP": 15912,
+      "CONSERVATIVE": 1984
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 12,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-e2d0-3eae-dc87-08df2ecfd274",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.chemung",
+   "contest_id": "01000000-e2d0-3eae-dc8d-08df2ecfd274",
+   "state": "NY",
+   "title": "Member of Assembly 124th District",
+   "office_type": "state_house",
+   "district": "124",
+   "jurisdiction": "Chemung County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 80,
+    "pct": 0.0,
+    "text": "0 of 80 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:38:39.3023683Z",
+   "choices": [
+    {
+     "name": "Andrew G. Fagan",
+     "votes": 9974,
+     "party": "DEM",
+     "pct": 41.13,
+     "choice_id": "01000000-e2d0-3eae-dca9-08df2ecfd274",
+     "party_lines": {
+      "DEM": 9220,
+      "WFP": 754
+     }
+    },
+    {
+     "name": "Christopher S. Friend",
+     "votes": 14257,
+     "party": "REP",
+     "pct": 58.79,
+     "choice_id": "01000000-e2d0-3eae-dcc1-08df2ecfd274",
+     "party_lines": {
+      "REP": 12775,
+      "CONSERVATIVE": 1482
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 18,
+     "party": null,
+     "pct": 0.07,
+     "choice_id": "01000000-e2d0-3eae-dce0-08df2ecfd274",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.chemung",
+   "contest_id": "01000000-e2d0-3eae-dcf7-08df2ecfd274",
+   "state": "NY",
+   "title": "Member of Assembly 132nd District",
+   "office_type": "state_house",
+   "district": "132",
+   "jurisdiction": "Chemung County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 9,
+    "pct": 0.0,
+    "text": "0 of 9 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:38:39.3023683Z",
+   "choices": [
+    {
+     "name": "Philip A. Palmesano",
+     "votes": 3151,
+     "party": "REP",
+     "pct": 99.28,
+     "choice_id": "01000000-e2d0-3eae-dd10-08df2ecfd274",
+     "party_lines": {
+      "REP": 2654,
+      "CONSERVATIVE": 497
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 23,
+     "party": null,
+     "pct": 0.72,
+     "choice_id": "01000000-e2d0-3eae-dd33-08df2ecfd274",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.chemung",
+   "contest_id": "01000000-e2d0-3eae-dd38-08df2ecfd274",
+   "state": "NY",
+   "title": "County Executive",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Chemung County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 89,
+    "pct": 0.0,
+    "text": "0 of 89 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:38:39.3023683Z",
+   "choices": [
+    {
+     "name": "Mark A. Margeson",
+     "votes": 14571,
+     "party": "REP",
+     "pct": 58.55,
+     "choice_id": "01000000-e2d0-3eae-dd52-08df2ecfd274",
+     "party_lines": {
+      "REP": 14571
+     }
+    },
+    {
+     "name": "Chris Moss",
+     "votes": 10179,
+     "party": "CONSERVATIVE",
+     "pct": 40.9,
+     "choice_id": "01000000-e2d0-3eae-dd67-08df2ecfd274",
+     "party_lines": {
+      "CONSERVATIVE": 10179
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 138,
+     "party": null,
+     "pct": 0.55,
+     "choice_id": "01000000-e2d0-3eae-dd85-08df2ecfd274",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.chemung",
+   "contest_id": "01000000-e2d0-3eae-dd8a-08df2ecfd274",
+   "state": "NY",
+   "title": "County Treasurer",
+   "office_type": "treasurer",
+   "district": null,
+   "jurisdiction": "Chemung County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 89,
+    "pct": 0.0,
+    "text": "0 of 89 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:38:39.3023683Z",
+   "choices": [
+    {
+     "name": "Katlyn Colombani-Ruiz",
+     "votes": 22422,
+     "party": "REP",
+     "pct": 99.27,
+     "choice_id": "01000000-e2d0-3eae-dda6-08df2ecfd274",
+     "party_lines": {
+      "REP": 18025,
+      "CONSERVATIVE": 4397
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 165,
+     "party": null,
+     "pct": 0.73,
+     "choice_id": "01000000-e2d0-3eae-ddca-08df2ecfd274",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.chemung",
+   "contest_id": "01000000-e2d0-3eae-e8bc-08df2ecfd274",
+   "state": "NY",
+   "title": "Proposal One, County Proposition One",
+   "office_type": "measure",
+   "district": "proposal one county proposition one",
+   "jurisdiction": "Chemung County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 89,
+    "pct": 0.0,
+    "text": "0 of 89 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:38:39.3023683Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 18021,
+     "party": null,
+     "pct": 67.64,
+     "choice_id": "01000000-e2d0-3eae-e901-08df2ecfd274",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 8620,
+     "party": null,
+     "pct": 32.36,
+     "choice_id": "01000000-e2d0-3eae-ea61-08df2ecfd274",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.chemung",
+   "contest_id": "01000000-e2d0-3eae-ddd2-08df2ecfd274",
+   "state": "NY",
+   "title": "County Legislator 1st District",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Chemung County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:38:39.3023683Z",
+   "choices": [
+    {
+     "name": "Lawana E. Morse",
+     "votes": 1787,
+     "party": "REP",
+     "pct": 99.11,
+     "choice_id": "01000000-e2d0-3eae-ddef-08df2ecfd274",
+     "party_lines": {
+      "REP": 1787
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 16,
+     "party": null,
+     "pct": 0.89,
+     "choice_id": "01000000-e2d0-3eae-de0c-08df2ecfd274",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.chemung",
+   "contest_id": "01000000-e2d0-3eae-de14-08df2ecfd274",
+   "state": "NY",
+   "title": "County Legislator 2nd District",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Chemung County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:38:39.3023683Z",
+   "choices": [
+    {
+     "name": "John D. Boire",
+     "votes": 1026,
+     "party": "DEM",
+     "pct": 43.42,
+     "choice_id": "01000000-e2d0-3eae-de33-08df2ecfd274",
+     "party_lines": {
+      "DEM": 998,
+      "PUBLIC WORKS": 28
+     }
+    },
+    {
+     "name": "Ron Johanson",
+     "votes": 1336,
+     "party": "REP",
+     "pct": 56.54,
+     "choice_id": "01000000-e2d0-3eae-de4d-08df2ecfd274",
+     "party_lines": {
+      "REP": 1336
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-e2d0-3eae-de67-08df2ecfd274",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.chemung",
+   "contest_id": "01000000-e2d0-3eae-de6f-08df2ecfd274",
+   "state": "NY",
+   "title": "County Legislator 3rd District",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Chemung County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:38:39.3023683Z",
+   "choices": [
+    {
+     "name": "Tom Sweet",
+     "votes": 1143,
+     "party": "REP",
+     "pct": 70.43,
+     "choice_id": "01000000-e2d0-3eae-de95-08df2ecfd274",
+     "party_lines": {
+      "REP": 1143
+     }
+    },
+    {
+     "name": "Donald W. Zeigler",
+     "votes": 476,
+     "party": "CONSERVATIVE",
+     "pct": 29.33,
+     "choice_id": "01000000-e2d0-3eae-deaa-08df2ecfd274",
+     "party_lines": {
+      "CONSERVATIVE": 476
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 4,
+     "party": null,
+     "pct": 0.25,
+     "choice_id": "01000000-e2d0-3eae-dec7-08df2ecfd274",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.chemung",
+   "contest_id": "01000000-e2d0-3eae-decc-08df2ecfd274",
+   "state": "NY",
+   "title": "County Legislator 4th District",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Chemung County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:38:39.3023683Z",
+   "choices": [
+    {
+     "name": "Michael L. Saglibene",
+     "votes": 1679,
+     "party": "REP",
+     "pct": 99.11,
+     "choice_id": "01000000-e2d0-3eae-deeb-08df2ecfd274",
+     "party_lines": {
+      "REP": 1294,
+      "CONSERVATIVE": 385
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 15,
+     "party": null,
+     "pct": 0.89,
+     "choice_id": "01000000-e2d0-3eae-df0b-08df2ecfd274",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.chemung",
+   "contest_id": "01000000-e2d0-3eae-df11-08df2ecfd274",
+   "state": "NY",
+   "title": "County Legislator 5th District",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Chemung County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:38:39.3023683Z",
+   "choices": [
+    {
+     "name": "Ed Bond",
+     "votes": 737,
+     "party": "DEM",
+     "pct": 31.35,
+     "choice_id": "01000000-e2d0-3eae-df2e-08df2ecfd274",
+     "party_lines": {
+      "DEM": 717,
+      "MIDDLE": 20
+     }
+    },
+    {
+     "name": "Nicole M. Elston",
+     "votes": 1613,
+     "party": "REP",
+     "pct": 68.61,
+     "choice_id": "01000000-e2d0-3eae-df4b-08df2ecfd274",
+     "party_lines": {
+      "REP": 1425,
+      "CONSERVATIVE": 188
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "01000000-e2d0-3eae-df6d-08df2ecfd274",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.chemung",
+   "contest_id": "01000000-e2d0-3eae-df71-08df2ecfd274",
+   "state": "NY",
+   "title": "County Legislator 6th District",
+   "office_type": "local",
+   "district": "6",
+   "jurisdiction": "Chemung County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:38:39.3023683Z",
+   "choices": [
+    {
+     "name": "Kyle M. Wieder",
+     "votes": 1843,
+     "party": "REP",
+     "pct": 98.82,
+     "choice_id": "01000000-e2d0-3eae-df91-08df2ecfd274",
+     "party_lines": {
+      "REP": 1534,
+      "CONSERVATIVE": 309
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 22,
+     "party": null,
+     "pct": 1.18,
+     "choice_id": "01000000-e2d0-3eae-dfaf-08df2ecfd274",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.chemung",
+   "contest_id": "01000000-e2d0-3eae-dfb5-08df2ecfd274",
+   "state": "NY",
+   "title": "County Legislator 7th District",
+   "office_type": "local",
+   "district": "7",
+   "jurisdiction": "Chemung County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:38:39.3023683Z",
+   "choices": [
+    {
+     "name": "Susan Wilks",
+     "votes": 1123,
+     "party": "DEM",
+     "pct": 42.94,
+     "choice_id": "01000000-e2d0-3eae-dfd2-08df2ecfd274",
+     "party_lines": {
+      "DEM": 1045,
+      "WORKING FAMI": 78
+     }
+    },
+    {
+     "name": "James J. Palmer",
+     "votes": 1492,
+     "party": "REP",
+     "pct": 57.06,
+     "choice_id": "01000000-e2d0-3eae-dfe9-08df2ecfd274",
+     "party_lines": {
+      "REP": 1306,
+      "CONSERVATIVE": 186
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.chemung",
+   "contest_id": "01000000-e2d0-3eae-e013-08df2ecfd274",
+   "state": "NY",
+   "title": "County Legislator 8th District",
+   "office_type": "local",
+   "district": "8",
+   "jurisdiction": "Chemung County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:38:39.3023683Z",
+   "choices": [
+    {
+     "name": "Steven C. Pickering",
+     "votes": 1308,
+     "party": "REP",
+     "pct": 98.94,
+     "choice_id": "01000000-e2d0-3eae-e031-08df2ecfd274",
+     "party_lines": {
+      "REP": 1308
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 14,
+     "party": null,
+     "pct": 1.06,
+     "choice_id": "01000000-e2d0-3eae-e04a-08df2ecfd274",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.chemung",
+   "contest_id": "01000000-e2d0-3eae-e052-08df2ecfd274",
+   "state": "NY",
+   "title": "County Legislator 9th District",
+   "office_type": "local",
+   "district": "9",
+   "jurisdiction": "Chemung County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": "0 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:38:39.3023683Z",
+   "choices": [
+    {
+     "name": "Meg Magnusen",
+     "votes": 539,
+     "party": "DEM",
+     "pct": 46.51,
+     "choice_id": "01000000-e2d0-3eae-e06f-08df2ecfd274",
+     "party_lines": {
+      "DEM": 479,
+      "WFP": 60
+     }
+    },
+    {
+     "name": "John J. Burin",
+     "votes": 620,
+     "party": "REP",
+     "pct": 53.49,
+     "choice_id": "01000000-e2d0-3eae-e086-08df2ecfd274",
+     "party_lines": {
+      "REP": 531,
+      "CONSERVATIVE": 89
+     }
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.chemung",
+   "contest_id": "01000000-e2d0-3eae-e0af-08df2ecfd274",
+   "state": "NY",
+   "title": "County Legislator 10th District",
+   "office_type": "local",
+   "district": "10",
+   "jurisdiction": "Chemung County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 8,
+    "pct": 0.0,
+    "text": "0 of 8 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:38:39.3023683Z",
+   "choices": [
+    {
+     "name": "Martin D. Chalk",
+     "votes": 1127,
+     "party": "REP",
+     "pct": 98.77,
+     "choice_id": "01000000-e2d0-3eae-e0cd-08df2ecfd274",
+     "party_lines": {
+      "REP": 847,
+      "CONSERVATIVE": 280
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 14,
+     "party": null,
+     "pct": 1.23,
+     "choice_id": "01000000-e2d0-3eae-e0e9-08df2ecfd274",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.chemung",
+   "contest_id": "01000000-e2d0-3eae-e0ef-08df2ecfd274",
+   "state": "NY",
+   "title": "County Legislator 11th District",
+   "office_type": "local",
+   "district": "11",
+   "jurisdiction": "Chemung County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:38:39.3023683Z",
+   "choices": [
+    {
+     "name": "Brent Stermer",
+     "votes": 650,
+     "party": "DEM",
+     "pct": 98.78,
+     "choice_id": "01000000-e2d0-3eae-e10f-08df2ecfd274",
+     "party_lines": {
+      "DEM": 650
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": null,
+     "pct": 1.22,
+     "choice_id": "01000000-e2d0-3eae-e128-08df2ecfd274",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.chemung",
+   "contest_id": "01000000-e2d0-3eae-e12e-08df2ecfd274",
+   "state": "NY",
+   "title": "County Legislator 12th District",
+   "office_type": "local",
+   "district": "12",
+   "jurisdiction": "Chemung County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 8,
+    "pct": 0.0,
+    "text": "0 of 8 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:38:39.3023683Z",
+   "choices": [
+    {
+     "name": "Bill McCarthy",
+     "votes": 726,
+     "party": "DEM",
+     "pct": 57.12,
+     "choice_id": "01000000-e2d0-3eae-e14f-08df2ecfd274",
+     "party_lines": {
+      "DEM": 703,
+      "COMMON SENSE": 23
+     }
+    },
+    {
+     "name": "Kevin R. Sullivan",
+     "votes": 544,
+     "party": "REP",
+     "pct": 42.8,
+     "choice_id": "01000000-e2d0-3eae-e16d-08df2ecfd274",
+     "party_lines": {
+      "REP": 544
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.08,
+     "choice_id": "01000000-e2d0-3eae-e188-08df2ecfd274",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.chemung",
+   "contest_id": "01000000-e2d0-3eae-e18c-08df2ecfd274",
+   "state": "NY",
+   "title": "County Legislator 13th District",
+   "office_type": "local",
+   "district": "13",
+   "jurisdiction": "Chemung County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:38:39.3023683Z",
+   "choices": [
+    {
+     "name": "Scott Drake",
+     "votes": 998,
+     "party": "REP",
+     "pct": 99.01,
+     "choice_id": "01000000-e2d0-3eae-e1ac-08df2ecfd274",
+     "party_lines": {
+      "REP": 796,
+      "CONSERVATIVE": 202
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 10,
+     "party": null,
+     "pct": 0.99,
+     "choice_id": "01000000-e2d0-3eae-e1c6-08df2ecfd274",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.chemung",
+   "contest_id": "01000000-e2d0-3eae-e1cd-08df2ecfd274",
+   "state": "NY",
+   "title": "County Legislator 14th District",
+   "office_type": "local",
+   "district": "14",
+   "jurisdiction": "Chemung County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:38:39.3023683Z",
+   "choices": [
+    {
+     "name": "J. Cuba Leach",
+     "votes": 719,
+     "party": "DEM",
+     "pct": 28.36,
+     "choice_id": "01000000-e2d0-3eae-e1ed-08df2ecfd274",
+     "party_lines": {
+      "DEM": 703,
+      "THE PEOPLES": 16
+     }
+    },
+    {
+     "name": "Brenda L. Watts",
+     "votes": 1810,
+     "party": "REP",
+     "pct": 71.4,
+     "choice_id": "01000000-e2d0-3eae-e205-08df2ecfd274",
+     "party_lines": {
+      "REP": 1592,
+      "CONSERVATIVE": 218
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 6,
+     "party": null,
+     "pct": 0.24,
+     "choice_id": "01000000-e2d0-3eae-e223-08df2ecfd274",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.chemung",
+   "contest_id": "01000000-e2d0-3eae-e22c-08df2ecfd274",
+   "state": "NY",
+   "title": "County Legislator 15th District",
+   "office_type": "local",
+   "district": "15",
+   "jurisdiction": "Chemung County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": "0 of 7 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:38:39.3023683Z",
+   "choices": [
+    {
+     "name": "Rodney J. Strange",
+     "votes": 1672,
+     "party": "REP",
+     "pct": 99.58,
+     "choice_id": "01000000-e2d0-3eae-e24b-08df2ecfd274",
+     "party_lines": {
+      "REP": 1385,
+      "CONSERVATIVE": 287
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 7,
+     "party": null,
+     "pct": 0.42,
+     "choice_id": "01000000-e2d0-3eae-e265-08df2ecfd274",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.chemung",
+   "contest_id": "01000000-e2d0-3eae-e35b-08df2ecfd274",
+   "state": "NY",
+   "title": "Town Justice - Town of Ashland",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Chemung County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:38:39.3023683Z",
+   "choices": [
+    {
+     "name": "Leon E. Tuttle",
+     "votes": 452,
+     "party": "REP",
+     "pct": 99.78,
+     "choice_id": "01000000-e2d0-3eae-e37b-08df2ecfd274",
+     "party_lines": {
+      "REP": 452
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 1,
+     "party": null,
+     "pct": 0.22,
+     "choice_id": "01000000-e2d0-3eae-e51c-08df2ecfd274",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.chemung",
+   "contest_id": "01000000-e2d0-3eae-e26e-08df2ecfd274",
+   "state": "NY",
+   "title": "Supervisor - Town of Baldwin",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Chemung County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:38:39.3023683Z",
+   "choices": [
+    {
+     "name": "Russell E. Purvis",
+     "votes": 225,
+     "party": "REP",
+     "pct": 71.2,
+     "choice_id": "01000000-e2d0-3eae-e28d-08df2ecfd274",
+     "party_lines": {
+      "REP": 225
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 91,
+     "party": null,
+     "pct": 28.8,
+     "choice_id": "01000000-e2d0-3eae-e2a5-08df2ecfd274",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.chemung",
+   "contest_id": "01000000-e2d0-3eae-e531-08df2ecfd274",
+   "state": "NY",
+   "title": "Town Justice - Town of Baldwin",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Chemung County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:38:39.3023683Z",
+   "choices": [
+    {
+     "name": "Write-in",
+     "votes": 10,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "01000000-e2d0-3eae-e562-08df2ecfd274",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.chemung",
+   "contest_id": "01000000-e2d0-3eae-e56a-08df2ecfd274",
+   "state": "NY",
+   "title": "Town Justice - Town of Catlin",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Chemung County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:38:39.3023683Z",
+   "choices": [
+    {
+     "name": "Jeffrey A. Dunn",
+     "votes": 854,
+     "party": "REP",
+     "pct": 99.53,
+     "choice_id": "01000000-e2d0-3eae-e58d-08df2ecfd274",
+     "party_lines": {
+      "REP": 854
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 4,
+     "party": null,
+     "pct": 0.47,
+     "choice_id": "01000000-e2d0-3eae-e5a3-08df2ecfd274",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.chemung",
+   "contest_id": "01000000-e2d0-3eae-e5aa-08df2ecfd274",
+   "state": "NY",
+   "title": "Town Justice - Town of Erin",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Chemung County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:38:39.3023683Z",
+   "choices": [
+    {
+     "name": "Ryan Buzzetti",
+     "votes": 259,
+     "party": "RYAN BUZZETT",
+     "pct": 44.89,
+     "choice_id": "01000000-e2d0-3eae-e5cd-08df2ecfd274",
+     "party_lines": {
+      "RYAN BUZZETT": 259
+     }
+    },
+    {
+     "name": "Becky Dolaway",
+     "votes": 316,
+     "party": "COWLES JUSTI",
+     "pct": 54.77,
+     "choice_id": "01000000-e2d0-3eae-e5e2-08df2ecfd274",
+     "party_lines": {
+      "COWLES JUSTI": 316
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.35,
+     "choice_id": "01000000-e2d0-3eae-e5f7-08df2ecfd274",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.chemung",
+   "contest_id": "01000000-e2d0-3eae-e2f2-08df2ecfd274",
+   "state": "NY",
+   "title": "Member of Council (1 Year Unexpired Term) - Town of Van Etten",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Chemung County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:38:39.3023683Z",
+   "choices": [
+    {
+     "name": "Write-in",
+     "votes": 39,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "01000000-e2d0-3eae-e315-08df2ecfd274",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.chemung",
+   "contest_id": "01000000-e2d0-3eae-e31b-08df2ecfd274",
+   "state": "NY",
+   "title": "Superintendent of Highways (Unexpired Term) (2 Year Term) - Town of Van Etten",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Chemung County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:38:39.3023683Z",
+   "choices": [
+    {
+     "name": "Mark J. Sidle",
+     "votes": 328,
+     "party": "REP",
+     "pct": 63.32,
+     "choice_id": "01000000-e2d0-3eae-e33e-08df2ecfd274",
+     "party_lines": {
+      "REP": 328
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 190,
+     "party": null,
+     "pct": 36.68,
+     "choice_id": "01000000-e2d0-3eae-e356-08df2ecfd274",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.chemung",
+   "contest_id": "01000000-e2d0-3eae-e822-08df2ecfd274",
+   "state": "NY",
+   "title": "Town Justice - Town of Van Etten",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Chemung County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:38:39.3023683Z",
+   "choices": [
+    {
+     "name": "Christian M. Pelchar",
+     "votes": 392,
+     "party": "REP",
+     "pct": 97.76,
+     "choice_id": "01000000-e2d0-3eae-e885-08df2ecfd274",
+     "party_lines": {
+      "REP": 392
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 9,
+     "party": null,
+     "pct": 2.24,
+     "choice_id": "01000000-e2d0-3eae-e8b0-08df2ecfd274",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.chemung",
+   "contest_id": "01000000-e2d0-3eae-e2ab-08df2ecfd274",
+   "state": "NY",
+   "title": "Trustee  (1 Year Unexpired Term) - Village of Horseheads",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Chemung County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:38:39.3023683Z",
+   "choices": [
+    {
+     "name": "Leslie J. Baker",
+     "votes": 1885,
+     "party": "REP",
+     "pct": 99.58,
+     "choice_id": "01000000-e2d0-3eae-e2cb-08df2ecfd274",
+     "party_lines": {
+      "REP": 1536,
+      "CONSERVATIVE": 349
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 8,
+     "party": null,
+     "pct": 0.42,
+     "choice_id": "01000000-e2d0-3eae-e2ec-08df2ecfd274",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "ny.chemung",
+   "contest_id": "01000000-e2d0-3eae-e7d5-08df2ecfd274",
+   "state": "NY",
+   "title": "Village Justice - Village of Horseheads",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Chemung County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T03:38:39.3023683Z",
+   "choices": [
+    {
+     "name": "David M. Brockway",
+     "votes": 1851,
+     "party": "REP",
+     "pct": 99.68,
+     "choice_id": "01000000-e2d0-3eae-e802-08df2ecfd274",
+     "party_lines": {
+      "REP": 1851
+     }
+    },
+    {
+     "name": "Write-in",
+     "votes": 6,
+     "party": null,
+     "pct": 0.32,
+     "choice_id": "01000000-e2d0-3eae-e81d-08df2ecfd274",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  }
+ ],
+ "contests_hash": "f42f7034e4d036f0",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-04T15:00:48+00:00",
+ "fetched_at": "2026-11-04T15:00:48+00:00",
+ "contests_changed_at": "2026-11-04T14:55:48+00:00"
+}
