@@ -1,6 +1,14 @@
 wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id,choice,note
 93,CA,Damon Connolly,"State Senate, District 12",needs_review,surname_any_district,ca,state-senate/2,State Senate District 2,Damon Connolly,Damon Connolly,district differs from WFP listing (12 -> 2)
 194,CA,Helen Kreiger,West Hollywood City Council,needs_review,near_name,ca.los_angeles,10533,CITY OF WEST HOLLYWOOD GENERAL MUNICIPAL ELECTION Member of the City Council,26655,HELEN KRIEGER,"surname differs: WFP 'Helen Kreiger', feed 'HELEN KRIEGER'"
+1160,CA,Prop – 2: Strengthen California’s Rainy Day Fund,Ballot Measure,needs_review,,,,,,,measure '2': 3 contests
+1164,CA,Prop 38: Fund Life-Saving Medical Research,Ballot Measure,needs_review,,,,,,,measure '38': 3 contests
+1166,CA,Prop 40: Tax Billionaires to Fund Healthcare & Education,Ballot Measure,needs_review,,,,,,,measure '40': 4 contests
+1167,CA,Prop 41: Billionaire Tax Poison Pill,Ballot Measure,needs_review,,,,,,,measure '41': 5 contests
+1168,CA,Prop 42: Billionaire Tax Poison Pill,Ballot Measure,needs_review,,,,,,,measure '42': 5 contests
+1169,CA,Prop 43: Protect Local Funding,Ballot Measure,needs_review,,,,,,,measure '43': 4 contests
+1170,CA,Prop 44: Protect Community Health Clinics,Ballot Measure,needs_review,,,,,,,measure '44': 4 contests
+1171,CA,Prop 45: Reject Corporate Polluting Projects,Ballot Measure,needs_review,,,,,,,measure '45': 4 contests
 402,GA,Peter Hubbard,Public Service Commission,needs_review,name_in_state,ga,01000000-3a82-a359-c4c2-08df23e5ff63,PSC - District 3,01000000-3a82-a359-c4fc-08df23e5ff63,Peter Hubbard (I),found by name only; check the office (PSC - District 3)
 403,GA,Shelia Edwards,Public Service Commission,needs_review,name_in_state,ga,01000000-3a82-a359-4e6b-08df23e5ff65,PSC - District 5,01000000-3a82-a359-4e97-08df23e5ff65,Shelia Edwards,found by name only; check the office (PSC - District 5)
 428,GA,Jodi Merriday,"Fulton County Commission, District 3",needs_review,name_in_state,ga,01000000-3a82-a359-0573-08df23e6c6c9,County Commissioner - District 3,01000000-3a82-a359-062c-08df23e6c6c9,Jodi Merriday,found by name only; check the office (County Commissioner - District 3)
@@ -15,46 +23,18 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 1076,RI,Jackie Goldman,"Providence City Council, Ward 5",needs_review,near_name,ri,01000000-59ac-daed-6be1-08df1e27bc63,Providence: City Council Ward 5,01000000-59ac-daed-ed3e-08df1e27bc6b,Jacqueline Goldman,"first name differs: WFP 'Jackie Goldman', feed 'Jacqueline Goldman'"
 1080,RI,Libby Merrill,"East Providence School Committee, Ward 3",needs_review,near_name,ri,01000000-59ac-daed-cb6d-08df1e27af35,East Providence: Non-Partisan School Committee Ward 3,01000000-59ac-daed-7134-08df1e27af3e,Elizabeth Merrill,"first name differs: WFP 'Libby Merrill', feed 'Elizabeth Merrill'"
 1112,WA,Danny Tarkenton,Spokane County Prosecutor,needs_review,name_in_state,wa,01000000-bd5d-c14f-aefb-08df12b2898e,Prosecuting Attorney,01000000-bd5d-c14f-afad-08df12b2898e,Danny Tarkenton,found by name only; check the office (Prosecuting Attorney)
-18,CA,Tamisha Torres Walker,"Antioch City Council, District 1",unmatched,,,,,,,no 'walker' in any CA contest loaded
-19,CA,Monica Wilson,"Antioch City Council, District 4",unmatched,,,,,,,no 'wilson' in any CA contest loaded
-20,CA,Brandon Dawkins,"Antioch Unified School District Board of Education, Trustee Area 5",unmatched,,,,,,,no 'dawkins' in any CA contest loaded
-29,CA,Jaria Jaug,"Berryessa Union School District Board of Trustees, At-large",unmatched,,,,,,,no 'jaug' in any CA contest loaded
-35,CA,Laura Nakamura,"Concord City Council, District 5",unmatched,,,,,,,no 'nakamura' in any CA contest loaded
-36,CA,Cameron Sasai,"Contra Costa Community College Governing Board, Ward 1",unmatched,,,,,,,no 'sasai' in any CA contest loaded
-37,CA,Rebecca Barrett,"Contra Costa Community College Governing Board, Ward 3",unmatched,,,,,,,no 'barrett' in any CA contest loaded
-42,CA,Mer Currey Nunez,"East Side Union High School District Board of Trustees, Area 1",unmatched,,,,,,,no 'nunez' in any CA contest loaded
 43,CA,Anthony Montes,"East Side Union High School District Board of Trustees, Area 2",unmatched,,,,,,,no 'montes' in any CA contest loaded
 44,CA,Alexander Gvatua,"Foothill De Anza Community College District Board of Trustees, Area 2",unmatched,,,,,,,no 'gvatua' in any CA contest loaded
-46,CA,Rebeca Armendariz,"Gilroy City Council, District 6",unmatched,,,,,,,no 'armendariz' in any CA contest loaded
-49,CA,Chris Herrod,"Healdsburg City Council, District 4",unmatched,,,,,,,no 'herrod' in any CA contest loaded
 50,CA,Aaron Burnett,"Larkspur City Council, At-large",unmatched,,,,,,,no 'burnett' in any CA contest loaded
-51,CA,Seema Kanani,"Milpitas City Council, At-large",unmatched,,,,,,,no 'kanani' in any CA contest loaded
-52,CA,Erik Poicon,"Mountain View City Council, At-large",unmatched,,,,,,,no 'poicon' in any CA contest loaded
-53,CA,IdaRose Sylvester,"Mountain View City Council, At-large",unmatched,,,,,,,no 'sylvester' in any CA contest loaded
-59,CA,Eric Vazquez,"Petaluma City Council, District 3",unmatched,,,,,,,no 'vazquez' in any CA contest loaded
-60,CA,Sarah Seitchik Sebastian,"Petaluma City Schools Board of Trustees, Area 5",unmatched,,,,,,,no 'sebastian' in any CA contest loaded
-61,CA,Truc “Christy” Lam-Julian,"Pinole City Council, At-large",unmatched,,,,,,,no 'julian' in any CA contest loaded
 62,CA,Destiny Briscoe,"Pittsburg Unified School District Board of Education, At-large",unmatched,,,,,,,no 'briscoe' in any CA contest loaded
-64,CA,Claudia Jimenez,Richmond Mayor,unmatched,,,,,,,no 'jimenez' in any CA contest loaded
-73,CA,Peter Ortiz,"San Jose City Council, District 5",unmatched,,,,,,,no 'ortiz' in any CA contest loaded
-74,CA,Gordon Chester,"San Jose City Council, District 9",unmatched,,,,,,,no 'chester' in any CA contest loaded
-75,CA,Michael Melillo,"San Jose Unified School District Board of Trustees, Area 4",unmatched,,,,,,,no 'melillo' in any CA contest loaded
-80,CA,Kevin Park,Santa Clara Mayor,unmatched,,,,,,,no 'park' in any CA contest loaded
-81,CA,Melanie Jones-Carter,"Santa Rosa City Council, District 4",unmatched,,,,,,,no 'carter' in any CA contest loaded
-82,CA,Joanna Paun,"Sonoma County Board of Supervisors, District 2",unmatched,,,,,,,no 'paun' in any CA contest loaded
-83,CA,Melanie Bagby,"Sonoma County Board of Supervisors, District 4",unmatched,,,,,,,no 'bagby' in any CA contest loaded
-84,CA,Caitlin Quinn,"Sonoma County Office of Education, District 2",unmatched,,,,,,,no 'quinn' in any CA contest loaded
-102,CA,Kristina Pine,"Ventura County Board of Education, Trustee Area 4",unmatched,,,,,,,no 'pine' in any CA contest loaded
-113,CA,Jasmine Duron,"Oxnard School Board Trustee, Area 2",unmatched,,,,,,,no 'duron' in any CA contest loaded
-125,CA,Sam Cohen,"Simi Valley City Council, Distrcit 2",unmatched,,,,,,,no 'cohen' in any CA contest loaded
-126,CA,Josh Gray,"Simi Valley City Council, District 4",unmatched,,,,,,,no 'gray' in any CA contest loaded
-131,CA,Liz Campos,"Ventura City Council, Distcit 1",unmatched,,,,,,,no 'campos' in any CA contest loaded
-132,CA,Karba Eckley,"Ventura City Council, District 6",unmatched,,,,,,,no 'eckley' in any CA contest loaded
 163,CA,Estefany Castañeda,"Centinela Valley Union High School District, Trustee Area 5",unmatched,,,,,,,no 'castaneda' in any CA contest loaded
 168,CA,Andrew Yam,Garvey Unified School District,unmatched,,,,,,,no 'yam' in any CA contest loaded
 181,CA,Alton Wang,"Pasadena Area Community College District, Trustee Area No. 7",unmatched,,,,,,,no 'wang' in any CA contest loaded
 198,CA,Tiffany Ackley,"Aliso Viejo City Council, At-large",unmatched,,,,,,,no 'ackley' in any CA contest loaded
+1161,CA,Prop – 3: Keep the Wealthy Paying Their Fair Share,Ballot Measure,unmatched,,,,,,,measure '3': not found
+1162,CA,Prop – 4: Small-Donor Democracy Over Big Money in Politics,Ballot Measure,unmatched,,,,,,,measure '4': not found
 276,CO,Taishya Adams,Boulder Mayor,unmatched,,,,,,,no 'adams' in any CO contest loaded
+487,NJ,Shantell Cherry,"Piscataway City Council, Ward 1",unmatched,,,,,,,no 'cherry' in any NJ contest loaded
 1210,OH,"Columbus, OH | Issue 8: Our City, Our Say",Ballot Measure,unmatched,,,,,,,measure '8': not found
 1211,OH,Ohio | Senate Bill 396: Paid Family and Medical Leave Act,Ballot Measure,unmatched,,,,,,,measure None: not found
 989,OR,Christina Stephenson,Oregon Labor Commissioner,unmatched,,,,,,,no 'stephenson' in any OR contest loaded
@@ -67,7 +47,29 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 1096,TX,Dr. Jared Williams,"Tarrant County Commissioner, Precinct 2",unmatched,,,,,,,no 'williams' in any TX contest loaded
 1097,TX,Nydia Cardenas,"Tarrant County Commissioner, Precinct 4",unmatched,,,,,,,no 'cardenas' in any TX contest loaded
 1101,TX,Andrew Hairston,"Travis County Justice of the Peace, Precinct 1",unmatched,,,,,,,no 'hairston' in any TX contest loaded
+18,CA,Tamisha Torres Walker,"Antioch City Council, District 1",auto,name_in_state,ca.contra_costa,5006,CITY OF ANTIOCH  MEMBER  CITY COUNCIL  DISTRICT 1,TAMISHA TORRES-WALKER,TAMISHA TORRES-WALKER,
+19,CA,Monica Wilson,"Antioch City Council, District 4",auto,name_in_state,ca.contra_costa,5012,CITY OF ANTIOCH  MEMBER  CITY COUNCIL  DISTRICT 4,MONICA E WILSON,MONICA E WILSON,
+20,CA,Brandon Dawkins,"Antioch Unified School District Board of Education, Trustee Area 5",auto,name_in_state,ca.contra_costa,3305,ANTIOCH UNIFIED SCHOOL DISTRICT  GOVERNING BOARD MEMBER  TRUSTEE AREA 5,BRANDON DAWKINS,BRANDON DAWKINS,
+29,CA,Jaria Jaug,"Berryessa Union School District Board of Trustees, At-large",auto,name_in_state,ca.santa_clara,54,Berryessa Union SD,Jaria Jaug,Jaria Jaug,
 30,CA,Sally Lieber,"Board of Equalization, District 2",auto,district_surname,ca,board-of-equalization/2,Board of Equalization District 2,Sally J. Lieber,Sally J. Lieber,
+35,CA,Laura Nakamura,"Concord City Council, District 5",auto,name_in_state,ca.contra_costa,5305,CITY OF CONCORD  MEMBER  CITY COUNCIL  DISTRICT 5,LAURA NAKAMURA,LAURA NAKAMURA,
+36,CA,Cameron Sasai,"Contra Costa Community College Governing Board, Ward 1",auto,name_in_state,ca.contra_costa,3201,CONTRA COSTA COMMUNITY COLLEGE DISTRICT  GOVERNING BOARD MEMBER  WARD 1,CAMERON SASAI,CAMERON SASAI,
+42,CA,Mer Currey Nunez,"East Side Union High School District Board of Trustees, Area 1",auto,name_in_state,ca.santa_clara,46,"East Side Union HSD, TA 1, Short Term",Mer Curry Nuñez,Mer Curry Nuñez,
+46,CA,Rebeca Armendariz,"Gilroy City Council, District 6",auto,name_in_state,ca.santa_clara,74,"City of Gilroy Council, District 6",Rebeca G. Armendáriz,Rebeca G. Armendáriz,
+49,CA,Chris Herrod,"Healdsburg City Council, District 4",auto,name_in_state,ca.sonoma,53,"Member, Healdsburg City Council, District 4",CHRIS HERROD,CHRIS HERROD,
+51,CA,Seema Kanani,"Milpitas City Council, At-large",auto,name_in_state,ca.santa_clara,80,City of Milpitas Council,Seema Kanani,Seema Kanani,
+52,CA,Erik Poicon,"Mountain View City Council, At-large",auto,name_in_state,ca.santa_clara,84,City of Mountain View Council,Erik Poicon,Erik Poicon,
+53,CA,IdaRose Sylvester,"Mountain View City Council, At-large",auto,name_in_state,ca.santa_clara,84,City of Mountain View Council,IdaRose Sylvester,IdaRose Sylvester,
+59,CA,Eric Vazquez,"Petaluma City Council, District 3",auto,name_in_state,ca.sonoma,57,"Member, Petaluma City Council, District 3",ERIC VAZQUEZ,ERIC VAZQUEZ,
+60,CA,Sarah Seitchik Sebastian,"Petaluma City Schools Board of Trustees, Area 5",auto,name_in_state,ca.sonoma,37,"Governing Board Member, Petaluma Joint Union High School District, Trustee Area 5",SARAH SEITCHIK SEBASTIAN,SARAH SEITCHIK SEBASTIAN,
+61,CA,Truc “Christy” Lam-Julian,"Pinole City Council, At-large",auto,name_in_state,ca.contra_costa,6201,CITY OF PINOLE  MEMBER  CITY COUNCIL,TRUC 'CHRISTY' LAM-JULIAN,TRUC 'CHRISTY' LAM-JULIAN,
+64,CA,Claudia Jimenez,Richmond Mayor,auto,name_in_state,ca.contra_costa,6501,CITY OF RICHMOND  MAYOR,CLAUDIA JIMÉNEZ,CLAUDIA JIMÉNEZ,
+73,CA,Peter Ortiz,"San Jose City Council, District 5",auto,name_in_state,ca.santa_clara,86,"City of San José Council, District 5",Peter Ortiz,Peter Ortiz,
+74,CA,Gordon Chester,"San Jose City Council, District 9",auto,name_in_state,ca.santa_clara,88,"City of San José Council, District 9",Gordon Chester,Gordon Chester,
+75,CA,Michael Melillo,"San Jose Unified School District Board of Trustees, Area 4",auto,name_in_state,ca.santa_clara,44,"San José Unified SD, Trustee Area 4",Michael Melillo,Michael Melillo,
+80,CA,Kevin Park,Santa Clara Mayor,auto,name_in_state,ca.santa_clara,89,"Mayor, City of Santa Clara",Kevin Park,Kevin Park,
+81,CA,Melanie Jones-Carter,"Santa Rosa City Council, District 4",auto,name_in_state,ca.sonoma,48,"Member, Santa Rosa City Council, District 4",MELANIE JONES-CARTER,MELANIE JONES-CARTER,
+84,CA,Caitlin Quinn,"Sonoma County Office of Education, District 2",auto,name_in_state,ca.sonoma,30,"Governing Board Member, Sonoma County Board of Education, Trustee Area 2",CAITLIN QUINN,CAITLIN QUINN,
 88,CA,Chris Rogers,"State Assembly, District 2",auto,district_surname,ca,state-assembly/2,State Assembly District 2,Chris Rogers,Chris Rogers,
 89,CA,Jackie Elward,"State Assembly, District 12",auto,district_surname,ca,state-assembly/12,State Assembly District 12,Jackie Elward,Jackie Elward,
 90,CA,Liz Ortega,"State Assembly, District 20",auto,district_surname,ca,state-assembly/20,State Assembly District 20,Liz Ortega,Liz Ortega,
@@ -77,9 +79,15 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 95,CA,Lateefah Simon,"U.S. House of Representatives, District 12",auto,district_surname,ca,us-rep/12,U.S. House of Representatives District 12,Lateefah Simon,Lateefah Simon,
 96,CA,Aisha Wahab,"U.S. House of Representatives, District 14",auto,district_surname,ca,us-rep/14,U.S. House of Representatives District 14,Aisha Wahab,Aisha Wahab,
 97,CA,Ro Khanna,"U.S. House of Representatives, District 17",auto,district_surname,ca,us-rep/17,U.S. House of Representatives District 17,Ro Khanna,Ro Khanna,
+102,CA,Kristina Pine,"Ventura County Board of Education, Trustee Area 4",auto,name_in_state,ca.ventura,38,Ventura County Board Of Education Trustee Area 4,KRISTINA PINE,KRISTINA PINE,
+113,CA,Jasmine Duron,"Oxnard School Board Trustee, Area 2",auto,name_in_state,ca.ventura,50,Oxnard School District Trustee Area 2,JASMINE DURON,JASMINE DURON,
+125,CA,Sam Cohen,"Simi Valley City Council, Distrcit 2",auto,name_in_state,ca.ventura,77,Simi Valley City Council District 2,SAM COHEN,SAM COHEN,
+126,CA,Josh Gray,"Simi Valley City Council, District 4",auto,name_in_state,ca.ventura,78,Simi Valley City Council District 4,JOSH GRAY,JOSH GRAY,
 127,CA,Sean Frame,"State Senate, Distrcit 6",auto,district_surname,ca,state-senate/6,State Senate District 6,Sean Frame,Sean Frame,
 129,CA,Mai Vang,"U.S. House of Representatives, District 7",auto,district_surname,ca,us-rep/7,U.S. House of Representatives District 7,Mai Vang,Mai Vang,
 130,CA,Randy Villegas,"U.S. House of Representatives, District 22",auto,district_surname,ca,us-rep/22,U.S. House of Representatives District 22,Randy Villegas,Randy Villegas,
+131,CA,Liz Campos,"Ventura City Council, Distcit 1",auto,name_in_state,ca.ventura,82,San Buenaventura City Council District 1,LIZ CAMPOS,LIZ CAMPOS,
+132,CA,Karba Eckley,"Ventura City Council, District 6",auto,name_in_state,ca.ventura,85,San Buenaventura City Council District 6,KARBA ECKLEY,KARBA ECKLEY,
 155,CA,Leila Namvar,"Sate Assembly, District 47",auto,district_surname,ca,state-assembly/47,State Assembly District 47,Leila Namvar,Leila Namvar,
 156,CA,Clarissa Cervantes,"State Assembly, District 58",auto,district_surname,ca,state-assembly/58,State Assembly District 58,Clarissa Cervantes,Clarissa Cervantes,
 157,CA,Corey Jackson,"State Assembly, District 60",auto,district_surname,ca,state-assembly/60,State Assembly District 60,Corey A Jackson,Corey A Jackson,
@@ -142,19 +150,9 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 220,CA,Chris Kluwe,"State Assembly, District 72",auto,district_surname,ca,state-assembly/72,State Assembly District 72,Chris Kluwe,Chris Kluwe,
 234,CA,Lashae Sharp-Collins,"State Assembly, District 79",auto,district_surname,ca,state-assembly/79,State Assembly District 79,LaShae Sharp-Collins,LaShae Sharp-Collins,
 238,CA,Jane Kim,State Insurance Commissioner,auto,district_surname,ca,insurance-commissioner,Insurance Commissioner,Jane Kim,Jane Kim,
-1159,CA,Prop – 1: Invest in Affordable Homes,Ballot Measure,auto,measure_number,ca,prop/1,Proposition 1: Authorizes Bonds For Housing Affordability Programs. Legislative Statute.,Yes,Yes,
-1160,CA,Prop – 2: Strengthen California’s Rainy Day Fund,Ballot Measure,auto,measure_number,ca,prop/2,Proposition 2: Increases State's Rainy Day Fund. Legislative Constitutional Amendment.,Yes,Yes,
-1161,CA,Prop – 3: Keep the Wealthy Paying Their Fair Share,Ballot Measure,auto,measure_number,ca,prop/3,Proposition 3: Provides Permanent Funding For Schools And Health Care By Extending Existing Tax On High Incomes. Initiative Constitutional Amendment.,Yes,Yes,
-1162,CA,Prop – 4: Small-Donor Democracy Over Big Money in Politics,Ballot Measure,auto,measure_number,ca,prop/4,Proposition 4: Repeals Prohibition Against Public Funding Of Election Campaigns. Legislative Statute.,Yes,Yes,
-1163,CA,Prop – 5: Reform Recall Elections,Ballot Measure,auto,measure_number,ca,prop/5,Proposition 5: Changes Recall Election Process For Statewide Officers. Legislative Constitutional Amendment.,Yes,Yes,
-1164,CA,Prop 38: Fund Life-Saving Medical Research,Ballot Measure,auto,measure_number,ca,prop/38,Proposition 38: Authorizes Bonds For Immunology Medical Research. Initiative Statute.,Yes,Yes,
-1165,CA,Prop 39: Reject Voter Suppression,Ballot Measure,auto,measure_number,ca,prop/39,Proposition 39: Prohibits Citizens From Voting Unless They Present Government-Issued Identification. Initiative Constitutional Amendment.,No,No,
-1166,CA,Prop 40: Tax Billionaires to Fund Healthcare & Education,Ballot Measure,auto,measure_number,ca,prop/40,Proposition 40: Imposes One-Time Tax On Certain Taxpayers. Initiative Constitutional Amendment And Statute.,Yes,Yes,
-1167,CA,Prop 41: Billionaire Tax Poison Pill,Ballot Measure,auto,measure_number,ca,prop/41,Proposition 41: Prohibits New State Taxes That Exclude Revenues From State Spending Limit. Requires Audits For New State Special Taxes. Initiative Constitutional Amendment.,No,No,
-1168,CA,Prop 42: Billionaire Tax Poison Pill,Ballot Measure,auto,measure_number,ca,prop/42,Proposition 42: Prohibits New State Personal Property Taxes And Certain Retroactive State Taxes. Initiative Constitutional Amendment.,No,No,
-1169,CA,Prop 43: Protect Local Funding,Ballot Measure,auto,measure_number,ca,prop/43,Proposition 43: Limits Voters' Ability To Raise Revenues For Local Government Services. Legislative Constitutional Amendment.,No,No,
-1170,CA,Prop 44: Protect Community Health Clinics,Ballot Measure,auto,measure_number,ca,prop/44,Proposition 44: Requires Community Health Clinics Spend 90% Of Revenue On Program Services. Initiative Statute.,No,No,
-1171,CA,Prop 45: Reject Corporate Polluting Projects,Ballot Measure,auto,measure_number,ca,prop/45,Proposition 45: Modifies Environmental Review For Certain Projects. Initiative Statute.,No,No,
+1159,CA,Prop – 1: Invest in Affordable Homes,Ballot Measure,auto,measure_number,ca.santa_clara,101,State Proposition 1 - The Veterans and Affordable Housing Bond Act of 2026,Yes,Yes,
+1163,CA,Prop – 5: Reform Recall Elections,Ballot Measure,auto,measure_number,ca.santa_clara,105,State Proposition 5 - Elections: Recall of State Officers,Yes,Yes,
+1165,CA,Prop 39: Reject Voter Suppression,Ballot Measure,auto,measure_number,ca.santa_clara,108,State Proposition 39 - Establishes Additional Voter Identification and Citizenship Verification Requirements,No,No,
 239,CO,Melat Kiros,"U.S. House of Representatives, District 1",auto,district_surname,co,110,Representative to the 120th United States Congress - District 1,Melat Kiros,Melat Kiros,
 240,CO,Amanda Gonzalez,Colorado Secretary of State,auto,district_surname,co,220,Secretary of State,Amanda Gonzalez,Amanda Gonzalez,
 241,CO,Jena Griswold,Attorney General,auto,district_surname,co,240,Attorney General,Jena Griswold,Jena Griswold,
@@ -386,6 +384,10 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 922,NC,Rev. Rodney Sadler,State House District 106,auto,district_surname,nc,1274:NC HOUSE OF REPRESENTATIVES DISTRICT 106,Nc House Of Representatives District 106,Rodney Sadler,Rodney Sadler,
 923,NC,Satana Deberry,Durham County District Attorney,auto,name_in_state,nc,1015:DISTRICT ATTORNEY DISTRICT 16,District Attorney District 16,Satana Deberry,Satana Deberry,
 924,NC,Garry McFadden,Mecklenburg County Sheriff,auto,name_in_state,nc,9:MECKLENBURG COUNTY SHERIFF,Mecklenburg County Sheriff,Garry L. McFadden,Garry L. McFadden,
+483,NJ,Ron Bautista,Hudson County Commissioner District 5,auto,name_in_state,nj.hudson,0013,County Commissioner - 5th,RON BAUTISTA,RON BAUTISTA,
+484,NJ,Bill O’Dea,"Hudson County Commissioner, District 2",auto,name_in_state,nj.hudson,0010,County Commissioner - 2nd,BILL O'DEA,BILL O'DEA,
+485,NJ,Pam Johnson,"Hudson County Commissioner, District 3",auto,name_in_state,nj.hudson,0011,County Commissioner - 3rd,PAM JOHNSON,PAM JOHNSON,
+486,NJ,Alex Valdez,"Hudson County Commissioner, District 9",auto,name_in_state,nj.hudson,0017,County Commissioner - 9th,ALEX VALDEZ,ALEX VALDEZ,
 488,NM,Deb Haaland,Governor,auto,district_surname,nm,11530,Governor and Lieutenant Governor,20140,DEB HAALAND AND STEPHANIE GARCIA RICHARD,
 489,NM,Stephanie Garcia Richard,Lieutenant Governor,auto,district_surname,nm,11530,Governor and Lieutenant Governor,20140,DEB HAALAND AND STEPHANIE GARCIA RICHARD,
 490,NM,Amanda Lopez Askin,Secretary of State,auto,district_surname,nm,11191,Secretary of State,19620,AMANDA LÓPEZ ASKIN,
@@ -643,6 +645,11 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 1075,RI,Justin Roias,"Providence City Council, Ward 4",auto,name_in_state,ri,01000000-59ac-daed-4104-08df1e27bc53,Providence: City Council Ward 4,01000000-59ac-daed-6c1e-08df1e27bc5b,Justin M. Roias,
 1077,RI,Miguel Sanchez,"Providence City Council, Ward 6",auto,name_in_state,ri,01000000-59ac-daed-389b-08df1e27bc74,Providence: City Council Ward 6,01000000-59ac-daed-ea08-08df1e27bc7c,Miguel Angel Sanchez,
 1078,RI,AnnaJane (AJ) Yolken,"Providence City Council, Ward 13",auto,name_in_state,ri,01000000-59ac-daed-d1b7-08df1e27bcea,Providence: City Council Ward 13,01000000-59ac-daed-c9ec-08df1e27bcf3,Annajane E. Yolken,
+1081,SC,Courtney McClain,"U.S. House of Representatives, District 4",auto,district_surname,sc,"U.S. House of Representatives, District 4","U.S. House of Representatives, District 4",DEM Courtney McClain,Courtney McClain,
+1082,SC,Jumelle Brooks,"South Carolina State House, District 12",auto,district_surname,sc,"State House of Representatives, District 12","State House of Representatives, District 12",DEM Jumelle Brooks,Jumelle Brooks,
+1083,SC,Keishan Scott,"South Carolina State House, District 50",auto,district_surname,sc,"State House of Representatives, District 50","State House of Representatives, District 50",DEM Keishan M Scott,Keishan M Scott,
+1084,SC,Julie Zimmerman,"South Carolina State House, District 71",auto,district_surname,sc,"State House of Representatives, District 71","State House of Representatives, District 71",DEM Julie Zimmerman,Julie Zimmerman,
+1085,SC,Sonja Ogletree Satani,"South Carolina State House, District 98",auto,district_surname,sc,"State House of Representatives, District 98","State House of Representatives, District 98",DEM Sonja Ogletree Satani,Sonja Ogletree Satani,
 1095,TX,Michelle Butler,"Denton County Justice of the Peace, Precinct 6",auto,name_in_state,tx.denton,58,"Justice of the Peace, Precinct No. 6",Michelle Butler,Michelle Butler,
 1102,UT,Luke Maynes,"Salt Lake County Council, District 3",auto,name_in_state,ut,01000000-68b8-edcd-804b-08df2650840f,COUNTY COUNCIL DISTRICT 3,01000000-68b8-edcd-8072-08df2650840f,LUKE MAYNES,
 1103,UT,Rosie Rivera,Salt Lake County Sheriff,auto,name_in_state,ut,01000000-68b8-edcd-81d2-08df2650840f,COUNTY SHERIFF,01000000-68b8-edcd-8215-08df2650840f,ROSIE RIVERA,
@@ -675,6 +682,9 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 1145,WI,Tip McGuire,"State Assembly, District 64",auto,district_surname,wi.kenosha,Representative to the Assembly District 64,Representative to the Assembly District 64,Tip McGuire,Tip McGuire,
 1146,WI,Ben DeSmidt,"State Assembly, District 65",auto,district_surname,wi.kenosha,Representative to the Assembly District 65,Representative to the Assembly District 65,Ben DeSmidt,Ben DeSmidt,
 1148,WI,Dina Nina Martinez-Rutherford,"State Assembly, District 76",auto,district_surname,wi.dane,0020,Representative to the Assembly District 76,2,Dina Nina Martinez-Rutherford,
+37,CA,Rebecca Barrett,"Contra Costa Community College Governing Board, Ward 3",confirmed,near_name,ca.contra_costa,3211,CONTRA COSTA COMMUNITY COLLEGE DISTRICT  GOVERNING BOARD MEMBER  WARD 3,BECCA BARRETT,BECCA BARRETT,"first name differs: WFP 'Rebecca Barrett', feed 'BECCA BARRETT' | confirmed Nov 4: same district/ward"
+82,CA,Joanna Paun,"Sonoma County Board of Supervisors, District 2",confirmed,name_in_state,ca.sonoma,45,"County Supervisor, 2nd District",JOANNA PAUN,JOANNA PAUN,"found by name only; check the office (County Supervisor, 2nd District) | confirmed Nov 4: same district/ward"
+83,CA,Melanie Bagby,"Sonoma County Board of Supervisors, District 4",confirmed,name_in_state,ca.sonoma,46,"County Supervisor, 4th District",MELANIE BAGBY,MELANIE BAGBY,"found by name only; check the office (County Supervisor, 4th District) | confirmed Nov 4: same district/ward"
 631,NY,Colin Smith,"Westchester County Legislature, District 1",confirmed,name_in_state,ny.westchester,01000000-0c6a-a4eb-8bab-08df2a1b67df,County Legislator 1st District,01000000-0c6a-a4eb-8bf8-08df2a1b67df,Colin D. Smith,found by name only; check the office (County Legislator 1st District) | confirmed Nov 3: same district/place
 632,NY,Erika Pierce,"Westchester County Legislature, District 2",confirmed,name_in_state,ny.westchester,01000000-0c6a-a4eb-8c6c-08df2a1b67df,County Legislator 2nd District,01000000-0c6a-a4eb-8cc8-08df2a1b67df,Erika Lang Pierce,found by name only; check the office (County Legislator 2nd District) | confirmed Nov 3: same district/place
 633,NY,Jennifer Puja,"Westchester County Legislature, District 5",confirmed,name_in_state,ny.westchester,01000000-0c6a-a4eb-8eba-08df2a1b67df,County Legislator 5th District,01000000-0c6a-a4eb-8f13-08df2a1b67df,Jennifer L. Puja,found by name only; check the office (County Legislator 5th District) | confirmed Nov 3: same district/place
@@ -864,14 +874,9 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 477,NE,Makayla Danner,Douglas County District Attorney,no_source,,,,,,,no source carries Douglas local races yet
 478,NE,Mark Martinez,Douglas County Sheriff,no_source,,,,,,,no source carries Douglas local races yet
 479,NE,Randall Ritnour,Lancaster County District Attorney,no_source,,,,,,,no source carries Lancaster local races yet
-480,NJ,LaMonica McIver,"U.S. House of Representatives, District 10",no_source,,,,,,,no source covers NJ yet
-481,NJ,Analilia Mejia,"U.S. House of Representatives, District 11",no_source,,,,,,,no source covers NJ yet
-482,NJ,Adam Hamawy,"U.S. House of Representatives, District 12",no_source,,,,,,,no source covers NJ yet
-483,NJ,Ron Bautista,Hudson County Commissioner District 5,no_source,,,,,,,no source covers NJ yet
-484,NJ,Bill O’Dea,"Hudson County Commissioner, District 2",no_source,,,,,,,no source covers NJ yet
-485,NJ,Pam Johnson,"Hudson County Commissioner, District 3",no_source,,,,,,,no source covers NJ yet
-486,NJ,Alex Valdez,"Hudson County Commissioner, District 9",no_source,,,,,,,no source covers NJ yet
-487,NJ,Shantell Cherry,"Piscataway City Council, Ward 1",no_source,,,,,,,no source covers NJ yet
+480,NJ,LaMonica McIver,"U.S. House of Representatives, District 10",no_source,,,,,,,NJ has only county sources so far
+481,NJ,Analilia Mejia,"U.S. House of Representatives, District 11",no_source,,,,,,,NJ has only county sources so far
+482,NJ,Adam Hamawy,"U.S. House of Representatives, District 12",no_source,,,,,,,NJ has only county sources so far
 526,NY,Kathy Hochul,Governor,no_source,,,,,,,NY has only county sources so far
 527,NY,Adrienne Adams,Lt. Governor,no_source,,,,,,,NY has only county sources so far
 528,NY,Letitia James,Attorney General,no_source,,,,,,,NY has only county sources so far
@@ -1173,11 +1178,6 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 913,NY,Ann Marie Sitter-Tompkins,"Olean City Council Member, Ward 5",no_source,,,,,,,no source carries Cattaraugus local races yet
 914,NY,Susan Wilks,"Chemung County Legislature, District 7",no_source,,,,,,,no source carries Chemung local races yet
 915,NY,Meg Magnusen,"Chemung County Legislature, District 9",no_source,,,,,,,no source carries Chemung local races yet
-1081,SC,Courtney McClain,"U.S. House of Representatives, District 4",no_source,,,,,,,no source covers SC yet
-1082,SC,Jumelle Brooks,"South Carolina State House, District 12",no_source,,,,,,,no source covers SC yet
-1083,SC,Keishan Scott,"South Carolina State House, District 50",no_source,,,,,,,no source covers SC yet
-1084,SC,Julie Zimmerman,"South Carolina State House, District 71",no_source,,,,,,,no source covers SC yet
-1085,SC,Sonja Ogletree Satani,"South Carolina State House, District 98",no_source,,,,,,,no source covers SC yet
 1086,TN,Justin J. Pearson,"U.S. House of Representatives, District 9",no_source,,,,,,,no source covers TN yet
 1087,TN,Aftyn Behn,"State House, District 51",no_source,,,,,,,no source covers TN yet
 1088,TN,Allie Phillips,"State House, District 75",no_source,,,,,,,no source covers TN yet

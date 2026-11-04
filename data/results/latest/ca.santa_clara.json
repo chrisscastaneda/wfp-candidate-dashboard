@@ -1,8 +1,6349 @@
 {
  "source": "ca.santa_clara",
- "contests": [],
- "contests_hash": null,
- "status": "not_published",
- "message": "no 2026-11-03 election listed",
- "last_attempt_at": "2026-11-04T04:11:13+00:00"
+ "contests": [
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "1",
+   "state": "CA",
+   "title": "Governor",
+   "office_type": "governor",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 708,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Xavier Becerra",
+     "votes": 176632,
+     "party": "DEM",
+     "pct": 71.4507621112585,
+     "choice_id": "Xavier Becerra",
+     "party_lines": null
+    },
+    {
+     "name": "Steve Hilton",
+     "votes": 70576,
+     "party": "REP",
+     "pct": 28.5492378887415,
+     "choice_id": "Steve Hilton",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "2",
+   "state": "CA",
+   "title": "Lieutenant Governor",
+   "office_type": "lt_governor",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 708,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Fiona Ma",
+     "votes": 176642,
+     "party": "DEM",
+     "pct": 72.0928903762958,
+     "choice_id": "Fiona Ma",
+     "party_lines": null
+    },
+    {
+     "name": "Gloria Romero",
+     "votes": 68378,
+     "party": "REP",
+     "pct": 27.9071096237042,
+     "choice_id": "Gloria Romero",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "3",
+   "state": "CA",
+   "title": "Secretary of State",
+   "office_type": "secretary_of_state",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 708,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Shirley N. Weber",
+     "votes": 175634,
+     "party": "DEM",
+     "pct": 71.9666952128466,
+     "choice_id": "Shirley N. Weber",
+     "party_lines": null
+    },
+    {
+     "name": "Donald P. (Don) Wagner",
+     "votes": 68415,
+     "party": "REP",
+     "pct": 28.0333047871534,
+     "choice_id": "Donald P. (Don) Wagner",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "4",
+   "state": "CA",
+   "title": "Controller",
+   "office_type": "controller",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 708,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Malia M. Cohen",
+     "votes": 173115,
+     "party": "DEM",
+     "pct": 70.9929956366261,
+     "choice_id": "Malia M. Cohen",
+     "party_lines": null
+    },
+    {
+     "name": "Herb W Morgan",
+     "votes": 70733,
+     "party": "REP",
+     "pct": 29.0070043633739,
+     "choice_id": "Herb W Morgan",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "5",
+   "state": "CA",
+   "title": "Treasurer",
+   "office_type": "treasurer",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 708,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Eleni Kounalakis",
+     "votes": 173602,
+     "party": "DEM",
+     "pct": 71.2257164543459,
+     "choice_id": "Eleni Kounalakis",
+     "party_lines": null
+    },
+    {
+     "name": "Jennifer Hawks",
+     "votes": 70133,
+     "party": "REP",
+     "pct": 28.7742835456541,
+     "choice_id": "Jennifer Hawks",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "6",
+   "state": "CA",
+   "title": "Attorney General",
+   "office_type": "attorney_general",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 708,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Rob Bonta",
+     "votes": 174135,
+     "party": "DEM",
+     "pct": 71.110920540024,
+     "choice_id": "Rob Bonta",
+     "party_lines": null
+    },
+    {
+     "name": "Michael E. Gates",
+     "votes": 70743,
+     "party": "REP",
+     "pct": 28.889079459976,
+     "choice_id": "Michael E. Gates",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "7",
+   "state": "CA",
+   "title": "Insurance Commissioner",
+   "office_type": "insurance_commissioner",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 708,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jane Kim",
+     "votes": 111859,
+     "party": "DEM",
+     "pct": 50.9457336096372,
+     "choice_id": "Jane Kim",
+     "party_lines": null
+    },
+    {
+     "name": "Ben Allen",
+     "votes": 107706,
+     "party": "DEM",
+     "pct": 49.0542663903628,
+     "choice_id": "Ben Allen",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "8",
+   "state": "CA",
+   "title": "Member, State Board of Equalization, District 2",
+   "office_type": "board_of_equalization",
+   "district": "2",
+   "jurisdiction": "Santa Clara County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 708,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Sally J. Lieber",
+     "votes": 124309,
+     "party": "DEM",
+     "pct": 58.0500698138143,
+     "choice_id": "Sally J. Lieber",
+     "party_lines": null
+    },
+    {
+     "name": "John Pimentel",
+     "votes": 89832,
+     "party": "DEM",
+     "pct": 41.9499301861857,
+     "choice_id": "John Pimentel",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "9",
+   "state": "CA",
+   "title": "US Representative, District 16",
+   "office_type": "federal_house",
+   "district": "16",
+   "jurisdiction": "Santa Clara County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 242,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Sam Liccardo",
+     "votes": 72118,
+     "party": "DEM",
+     "pct": 77.3109784205054,
+     "choice_id": "Sam Liccardo",
+     "party_lines": null
+    },
+    {
+     "name": "Peter Sundin Soulé",
+     "votes": 21165,
+     "party": "REP",
+     "pct": 22.6890215794947,
+     "choice_id": "Peter Sundin Soulé",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "10",
+   "state": "CA",
+   "title": "US Representative, District 17",
+   "office_type": "federal_house",
+   "district": "17",
+   "jurisdiction": "Santa Clara County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 218,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Ro Khanna",
+     "votes": 51549,
+     "party": "DEM",
+     "pct": 72.4033316010506,
+     "choice_id": "Ro Khanna",
+     "party_lines": null
+    },
+    {
+     "name": "Ritesh Tandon",
+     "votes": 19648,
+     "party": "REP",
+     "pct": 27.5966683989494,
+     "choice_id": "Ritesh Tandon",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "11",
+   "state": "CA",
+   "title": "US Representative, District 18",
+   "office_type": "federal_house",
+   "district": "18",
+   "jurisdiction": "Santa Clara County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 134,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Zoe Lofgren",
+     "votes": 27509,
+     "party": "DEM",
+     "pct": 72.6367765103507,
+     "choice_id": "Zoe Lofgren",
+     "party_lines": null
+    },
+    {
+     "name": "Shane Lewis",
+     "votes": 10363,
+     "party": "REP",
+     "pct": 27.3632234896493,
+     "choice_id": "Shane Lewis",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "12",
+   "state": "CA",
+   "title": "US Representative, District 19",
+   "office_type": "federal_house",
+   "district": "19",
+   "jurisdiction": "Santa Clara County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 114,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jimmy Panetta",
+     "votes": 29852,
+     "party": "DEM",
+     "pct": 70.3641720683559,
+     "choice_id": "Jimmy Panetta",
+     "party_lines": null
+    },
+    {
+     "name": "Peter Coe Verbica",
+     "votes": 12573,
+     "party": "REP",
+     "pct": 29.6358279316441,
+     "choice_id": "Peter Coe Verbica",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "13",
+   "state": "CA",
+   "title": "State Senator, District 10",
+   "office_type": "state_senate",
+   "district": "10",
+   "jurisdiction": "Santa Clara County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 166,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Scott Sakakihara",
+     "votes": 37965,
+     "party": "DEM",
+     "pct": 72.7201333154558,
+     "choice_id": "Scott Sakakihara",
+     "party_lines": null
+    },
+    {
+     "name": "Linda R. Price",
+     "votes": 14242,
+     "party": "REP",
+     "pct": 27.2798666845442,
+     "choice_id": "Linda R. Price",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "14",
+   "state": "CA",
+   "title": "Member of the State Assembly, District 23",
+   "office_type": "state_house",
+   "district": "23",
+   "jurisdiction": "Santa Clara County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 128,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Marc Berman",
+     "votes": 40544,
+     "party": "DEM",
+     "pct": 76.3785015918467,
+     "choice_id": "Marc Berman",
+     "party_lines": null
+    },
+    {
+     "name": "David G. Johnson",
+     "votes": 12539,
+     "party": "REP",
+     "pct": 23.6214984081533,
+     "choice_id": "David G. Johnson",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "15",
+   "state": "CA",
+   "title": "Member of the State Assembly, District 24",
+   "office_type": "state_house",
+   "district": "24",
+   "jurisdiction": "Santa Clara County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 71,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Alex Lee",
+     "votes": 14604,
+     "party": "DEM",
+     "pct": 69.3908581203079,
+     "choice_id": "Alex Lee",
+     "party_lines": null
+    },
+    {
+     "name": "Max Hsia",
+     "votes": 6442,
+     "party": "REP",
+     "pct": 30.6091418796921,
+     "choice_id": "Max Hsia",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "16",
+   "state": "CA",
+   "title": "Member of the State Assembly, District 25",
+   "office_type": "state_house",
+   "district": "25",
+   "jurisdiction": "Santa Clara County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 169,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Ash Kalra",
+     "votes": 37851,
+     "party": "DEM",
+     "pct": 73.2269297736506,
+     "choice_id": "Ash Kalra",
+     "party_lines": null
+    },
+    {
+     "name": "Himat Singh Bainiwal",
+     "votes": 13839,
+     "party": "REP",
+     "pct": 26.7730702263494,
+     "choice_id": "Himat Singh Bainiwal",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "17",
+   "state": "CA",
+   "title": "Member of the State Assembly, District 26",
+   "office_type": "state_house",
+   "district": "26",
+   "jurisdiction": "Santa Clara County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 151,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Patrick Ahrens",
+     "votes": 36655,
+     "party": "DEM",
+     "pct": 76.1963164678003,
+     "choice_id": "Patrick Ahrens",
+     "party_lines": null
+    },
+    {
+     "name": "Tim Gorsulowsky",
+     "votes": 11451,
+     "party": "REP",
+     "pct": 23.8036835321997,
+     "choice_id": "Tim Gorsulowsky",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "18",
+   "state": "CA",
+   "title": "Member of the State Assembly, District 28",
+   "office_type": "state_house",
+   "district": "28",
+   "jurisdiction": "Santa Clara County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 162,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Gail Pellerin",
+     "votes": 40873,
+     "party": "DEM",
+     "pct": 69.2516223039257,
+     "choice_id": "Gail Pellerin",
+     "party_lines": null
+    },
+    {
+     "name": "Carol Pefley",
+     "votes": 18148,
+     "party": "REP",
+     "pct": 30.7483776960743,
+     "choice_id": "Carol Pefley",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "19",
+   "state": "CA",
+   "title": "Member of the State Assembly, District 29",
+   "office_type": "state_house",
+   "district": "29",
+   "jurisdiction": "Santa Clara County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 27,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Robert Rivas",
+     "votes": 6570,
+     "party": "DEM",
+     "pct": 68.9257238774654,
+     "choice_id": "Robert Rivas",
+     "party_lines": null
+    },
+    {
+     "name": "Dennis P. Sanchez",
+     "votes": 2962,
+     "party": "REP",
+     "pct": 31.0742761225346,
+     "choice_id": "Dennis P. Sanchez",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "27",
+   "state": "CA",
+   "title": "State Superintendent of Public Instruction",
+   "office_type": "superintendent",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 708,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Richard Barrera",
+     "votes": 125205,
+     "party": null,
+     "pct": 60.9160394478853,
+     "choice_id": "Richard Barrera",
+     "party_lines": null
+    },
+    {
+     "name": "Sonja Shaw",
+     "votes": 80332,
+     "party": null,
+     "pct": 39.0839605521147,
+     "choice_id": "Sonja Shaw",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "21",
+   "state": "CA",
+   "title": "Associate Justice of Supreme Court JOSHUA GROBAN",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 708,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 156673,
+     "party": null,
+     "pct": 81.0186214635509,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 36706,
+     "party": null,
+     "pct": 18.9813785364491,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "20",
+   "state": "CA",
+   "title": "Associate Justice of Supreme Court KELLI M. EVANS",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 708,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 155539,
+     "party": null,
+     "pct": 80.698868942617,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 37201,
+     "party": null,
+     "pct": 19.301131057383,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "22",
+   "state": "CA",
+   "title": "Associate Justice, Court of Appeal Sixth Appellate District CHARLES E. WILSON II",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 708,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 150539,
+     "party": null,
+     "pct": 80.5172091033081,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 36426,
+     "party": null,
+     "pct": 19.4827908966919,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "23",
+   "state": "CA",
+   "title": "Associate Justice, Court of Appeal Sixth Appellate District FREDERICK S. CHUNG",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 708,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 149722,
+     "party": null,
+     "pct": 80.0909382689633,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 37218,
+     "party": null,
+     "pct": 19.9090617310367,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "26",
+   "state": "CA",
+   "title": "Associate Justice, Court of Appeal Sixth Appellate District CHARLES F. ADAMS",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 708,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 147107,
+     "party": null,
+     "pct": 79.5254647774636,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 37874,
+     "party": null,
+     "pct": 20.4745352225364,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "25",
+   "state": "CA",
+   "title": "Associate Justice, Court of Appeal Sixth Appellate District ALLISON MARSTON DANNER",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 708,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 150389,
+     "party": null,
+     "pct": 81.158427008737,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 34914,
+     "party": null,
+     "pct": 18.841572991263,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "24",
+   "state": "CA",
+   "title": "Associate Justice, Court of Appeal Sixth Appellate District DANIEL H. BROMBERG",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 708,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 143133,
+     "party": null,
+     "pct": 79.1853150915317,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 37624,
+     "party": null,
+     "pct": 20.8146849084683,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "68",
+   "state": "CA",
+   "title": "City of Campbell Council, District 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Dan Furtado",
+     "votes": 782,
+     "party": null,
+     "pct": 64.0458640458641,
+     "choice_id": "Dan Furtado",
+     "party_lines": null
+    },
+    {
+     "name": "Joseph ''Joe'' Brenner",
+     "votes": 439,
+     "party": null,
+     "pct": 35.954135954136,
+     "choice_id": "Joseph ''Joe'' Brenner",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "69",
+   "state": "CA",
+   "title": "City of Campbell Council, District 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Davis Stuart Fields",
+     "votes": 771,
+     "party": null,
+     "pct": 70.6043956043956,
+     "choice_id": "Davis Stuart Fields",
+     "party_lines": null
+    },
+    {
+     "name": "Joseph I. Guardado",
+     "votes": 321,
+     "party": null,
+     "pct": 29.3956043956044,
+     "choice_id": "Joseph I. Guardado",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "70",
+   "state": "CA",
+   "title": "City of Campbell Council, District 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Daraius R. Sorabji",
+     "votes": 1094,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Daraius R. Sorabji",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "71",
+   "state": "CA",
+   "title": "City of Cupertino Council",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 24,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "John Tang",
+     "votes": 3761,
+     "party": null,
+     "pct": 19.4900761776442,
+     "choice_id": "John Tang",
+     "party_lines": null
+    },
+    {
+     "name": "J.R. Fruen",
+     "votes": 3473,
+     "party": null,
+     "pct": 17.9976162097735,
+     "choice_id": "J.R. Fruen",
+     "party_lines": null
+    },
+    {
+     "name": "Seema Sharma Lindskog",
+     "votes": 3270,
+     "party": null,
+     "pct": 16.9456392185314,
+     "choice_id": "Seema Sharma Lindskog",
+     "party_lines": null
+    },
+    {
+     "name": "Tracy Kosolcharoen",
+     "votes": 2398,
+     "party": null,
+     "pct": 12.4268020935897,
+     "choice_id": "Tracy Kosolcharoen",
+     "party_lines": null
+    },
+    {
+     "name": "Santosh Rao",
+     "votes": 2248,
+     "party": null,
+     "pct": 11.649479193657,
+     "choice_id": "Santosh Rao",
+     "party_lines": null
+    },
+    {
+     "name": "Gopal Kumarappan",
+     "votes": 1898,
+     "party": null,
+     "pct": 9.8357257604809,
+     "choice_id": "Gopal Kumarappan",
+     "party_lines": null
+    },
+    {
+     "name": "Mark Fantozzi",
+     "votes": 1210,
+     "party": null,
+     "pct": 6.27040472612323,
+     "choice_id": "Mark Fantozzi",
+     "party_lines": null
+    },
+    {
+     "name": "J.Z. Wang",
+     "votes": 1039,
+     "party": null,
+     "pct": 5.38425662020003,
+     "choice_id": "J.Z. Wang",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "72",
+   "state": "CA",
+   "title": "City of Gilroy Council, District 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Diana Sanchez Bentz",
+     "votes": 426,
+     "party": null,
+     "pct": 58.6776859504132,
+     "choice_id": "Diana Sanchez Bentz",
+     "party_lines": null
+    },
+    {
+     "name": "Fred Tovar",
+     "votes": 300,
+     "party": null,
+     "pct": 41.3223140495868,
+     "choice_id": "Fred Tovar",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "73",
+   "state": "CA",
+   "title": "City of Gilroy Council, District 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Christina Tovar",
+     "votes": 583,
+     "party": null,
+     "pct": 47.7477477477477,
+     "choice_id": "Christina Tovar",
+     "party_lines": null
+    },
+    {
+     "name": "Tom Cline",
+     "votes": 463,
+     "party": null,
+     "pct": 37.9197379197379,
+     "choice_id": "Tom Cline",
+     "party_lines": null
+    },
+    {
+     "name": "Joseph Garcia",
+     "votes": 175,
+     "party": null,
+     "pct": 14.3325143325143,
+     "choice_id": "Joseph Garcia",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "74",
+   "state": "CA",
+   "title": "City of Gilroy Council, District 6",
+   "office_type": "local",
+   "district": "6",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Rebeca G. Armendáriz",
+     "votes": 393,
+     "party": null,
+     "pct": 49.5586380832282,
+     "choice_id": "Rebeca G. Armendáriz",
+     "party_lines": null
+    },
+    {
+     "name": "Elizabeth Bracco",
+     "votes": 276,
+     "party": null,
+     "pct": 34.8045397225725,
+     "choice_id": "Elizabeth Bracco",
+     "party_lines": null
+    },
+    {
+     "name": "Brad Starks",
+     "votes": 124,
+     "party": null,
+     "pct": 15.6368221941992,
+     "choice_id": "Brad Starks",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "75",
+   "state": "CA",
+   "title": "City of Los Altos Council, D2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Anky van Deursen",
+     "votes": 723,
+     "party": null,
+     "pct": 55.1908396946565,
+     "choice_id": "Anky van Deursen",
+     "party_lines": null
+    },
+    {
+     "name": "Lynette Lee Eng",
+     "votes": 587,
+     "party": null,
+     "pct": 44.8091603053435,
+     "choice_id": "Lynette Lee Eng",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "76",
+   "state": "CA",
+   "title": "City of Los Altos Council, D4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Larry Lang",
+     "votes": 1128,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Larry Lang",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "77",
+   "state": "CA",
+   "title": "Town of Los Altos Hills Council",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jim Waschura",
+     "votes": 1140,
+     "party": null,
+     "pct": 40.9777138749101,
+     "choice_id": "Jim Waschura",
+     "party_lines": null
+    },
+    {
+     "name": "Jasmeen Pombra",
+     "votes": 1023,
+     "party": null,
+     "pct": 36.7721063982746,
+     "choice_id": "Jasmeen Pombra",
+     "party_lines": null
+    },
+    {
+     "name": "Indu Kadambi",
+     "votes": 619,
+     "party": null,
+     "pct": 22.2501797268152,
+     "choice_id": "Indu Kadambi",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "78",
+   "state": "CA",
+   "title": "Town of Los Gatos Council",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 15,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Rob Moore",
+     "votes": 3912,
+     "party": null,
+     "pct": 24.1005421389847,
+     "choice_id": "Rob Moore",
+     "party_lines": null
+    },
+    {
+     "name": "Jeff Suzuki",
+     "votes": 3080,
+     "party": null,
+     "pct": 18.9748644652538,
+     "choice_id": "Jeff Suzuki",
+     "party_lines": null
+    },
+    {
+     "name": "Rob Stump",
+     "votes": 2874,
+     "party": null,
+     "pct": 17.7057663873829,
+     "choice_id": "Rob Stump",
+     "party_lines": null
+    },
+    {
+     "name": "Mary Badame",
+     "votes": 2722,
+     "party": null,
+     "pct": 16.7693445046821,
+     "choice_id": "Mary Badame",
+     "party_lines": null
+    },
+    {
+     "name": "Steve Raspe",
+     "votes": 2144,
+     "party": null,
+     "pct": 13.2084770823066,
+     "choice_id": "Steve Raspe",
+     "party_lines": null
+    },
+    {
+     "name": "Heidi Owens",
+     "votes": 1500,
+     "party": null,
+     "pct": 9.24100542138985,
+     "choice_id": "Heidi Owens",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "79",
+   "state": "CA",
+   "title": "Mayor, City of Milpitas",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 14,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Hon Lien",
+     "votes": 3174,
+     "party": null,
+     "pct": 41.7192429022082,
+     "choice_id": "Hon Lien",
+     "party_lines": null
+    },
+    {
+     "name": "Carmen Montano",
+     "votes": 3103,
+     "party": null,
+     "pct": 40.7860147213459,
+     "choice_id": "Carmen Montano",
+     "party_lines": null
+    },
+    {
+     "name": "Santosh Sahoo",
+     "votes": 687,
+     "party": null,
+     "pct": 9.02996845425868,
+     "choice_id": "Santosh Sahoo",
+     "party_lines": null
+    },
+    {
+     "name": "Voltaire S. Montemayor",
+     "votes": 644,
+     "party": null,
+     "pct": 8.46477392218717,
+     "choice_id": "Voltaire S. Montemayor",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "80",
+   "state": "CA",
+   "title": "City of Milpitas Council",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 14,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Bill Chuan",
+     "votes": 3116,
+     "party": null,
+     "pct": 25.4056257643702,
+     "choice_id": "Bill Chuan",
+     "party_lines": null
+    },
+    {
+     "name": "Garry Barbadillo",
+     "votes": 3001,
+     "party": null,
+     "pct": 24.4679983693437,
+     "choice_id": "Garry Barbadillo",
+     "party_lines": null
+    },
+    {
+     "name": "Seema Kanani",
+     "votes": 2224,
+     "party": null,
+     "pct": 18.1328984916429,
+     "choice_id": "Seema Kanani",
+     "party_lines": null
+    },
+    {
+     "name": "Jennie Ha Phan",
+     "votes": 2030,
+     "party": null,
+     "pct": 16.5511618426417,
+     "choice_id": "Jennie Ha Phan",
+     "party_lines": null
+    },
+    {
+     "name": "Dipak Awasthi",
+     "votes": 1894,
+     "party": null,
+     "pct": 15.4423155320016,
+     "choice_id": "Dipak Awasthi",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "81",
+   "state": "CA",
+   "title": "Mayor, City of Morgan Hill",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 17,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Mark Turner",
+     "votes": 3915,
+     "party": null,
+     "pct": 50.4445303440278,
+     "choice_id": "Mark Turner",
+     "party_lines": null
+    },
+    {
+     "name": "Deborah M. Africa",
+     "votes": 2940,
+     "party": null,
+     "pct": 37.8817162736761,
+     "choice_id": "Deborah M. Africa",
+     "party_lines": null
+    },
+    {
+     "name": "Kristopher L. Clayton",
+     "votes": 808,
+     "party": null,
+     "pct": 10.4110295065069,
+     "choice_id": "Kristopher L. Clayton",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 49,
+     "party": null,
+     "pct": 0.631361937894601,
+     "choice_id": "Write-in",
+     "party_lines": null
+    },
+    {
+     "name": "Jacob Montoya",
+     "votes": 49,
+     "party": null,
+     "pct": 0.631361937894601,
+     "choice_id": "Jacob Montoya",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "82",
+   "state": "CA",
+   "title": "City of Morgan Hill Council, District B",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Steven Hayes",
+     "votes": 1227,
+     "party": null,
+     "pct": 63.8065522620905,
+     "choice_id": "Steven Hayes",
+     "party_lines": null
+    },
+    {
+     "name": "Yvonne Martinez Beltran",
+     "votes": 696,
+     "party": null,
+     "pct": 36.1934477379095,
+     "choice_id": "Yvonne Martinez Beltran",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "83",
+   "state": "CA",
+   "title": "City of Morgan Hill Council, District D",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Dolores Alvarado",
+     "votes": 1262,
+     "party": null,
+     "pct": 58.8344988344988,
+     "choice_id": "Dolores Alvarado",
+     "party_lines": null
+    },
+    {
+     "name": "Marilyn Librers",
+     "votes": 883,
+     "party": null,
+     "pct": 41.1655011655012,
+     "choice_id": "Marilyn Librers",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "84",
+   "state": "CA",
+   "title": "City of Mountain View Council",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 17,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "IdaRose Sylvester",
+     "votes": 4528,
+     "party": null,
+     "pct": 18.9940853223709,
+     "choice_id": "IdaRose Sylvester",
+     "party_lines": null
+    },
+    {
+     "name": "Silja Paymer",
+     "votes": 3732,
+     "party": null,
+     "pct": 15.6550190863711,
+     "choice_id": "Silja Paymer",
+     "party_lines": null
+    },
+    {
+     "name": "Robert Cox",
+     "votes": 3674,
+     "party": null,
+     "pct": 15.4117202902806,
+     "choice_id": "Robert Cox",
+     "party_lines": null
+    },
+    {
+     "name": "Erik Poicon",
+     "votes": 3468,
+     "party": null,
+     "pct": 14.5475900834767,
+     "choice_id": "Erik Poicon",
+     "party_lines": null
+    },
+    {
+     "name": "Paul Donahue",
+     "votes": 3107,
+     "party": null,
+     "pct": 13.0332648181551,
+     "choice_id": "Paul Donahue",
+     "party_lines": null
+    },
+    {
+     "name": "James Kuszmaul",
+     "votes": 2638,
+     "party": null,
+     "pct": 11.0659004152859,
+     "choice_id": "James Kuszmaul",
+     "party_lines": null
+    },
+    {
+     "name": "Alex Amoroso",
+     "votes": 1867,
+     "party": null,
+     "pct": 7.83170435001468,
+     "choice_id": "Alex Amoroso",
+     "party_lines": null
+    },
+    {
+     "name": "Samuel Ali",
+     "votes": 825,
+     "party": null,
+     "pct": 3.46071563404505,
+     "choice_id": "Samuel Ali",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "85",
+   "state": "CA",
+   "title": "City of Palo Alto Council",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 22,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Bryna Chang",
+     "votes": 7021,
+     "party": null,
+     "pct": 24.1686746987952,
+     "choice_id": "Bryna Chang",
+     "party_lines": null
+    },
+    {
+     "name": "Ed Lauing",
+     "votes": 6583,
+     "party": null,
+     "pct": 22.6609294320138,
+     "choice_id": "Ed Lauing",
+     "party_lines": null
+    },
+    {
+     "name": "Vicki Veenker",
+     "votes": 6559,
+     "party": null,
+     "pct": 22.578313253012,
+     "choice_id": "Vicki Veenker",
+     "party_lines": null
+    },
+    {
+     "name": "Yu ''Yudy'' Deng",
+     "votes": 3867,
+     "party": null,
+     "pct": 13.3115318416523,
+     "choice_id": "Yu ''Yudy'' Deng",
+     "party_lines": null
+    },
+    {
+     "name": "Brian Hamachek",
+     "votes": 1928,
+     "party": null,
+     "pct": 6.6368330464716,
+     "choice_id": "Brian Hamachek",
+     "party_lines": null
+    },
+    {
+     "name": "Raymond L. Goins",
+     "votes": 1419,
+     "party": null,
+     "pct": 4.88468158347676,
+     "choice_id": "Raymond L. Goins",
+     "party_lines": null
+    },
+    {
+     "name": "Gary Gechlik",
+     "votes": 943,
+     "party": null,
+     "pct": 3.24612736660929,
+     "choice_id": "Gary Gechlik",
+     "party_lines": null
+    },
+    {
+     "name": "Henry Etzkowitz",
+     "votes": 730,
+     "party": null,
+     "pct": 2.51290877796902,
+     "choice_id": "Henry Etzkowitz",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "86",
+   "state": "CA",
+   "title": "City of San José Council, District 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 40,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Peter Ortiz",
+     "votes": 4645,
+     "party": null,
+     "pct": 56.8056744527333,
+     "choice_id": "Peter Ortiz",
+     "party_lines": null
+    },
+    {
+     "name": "Nora Campos",
+     "votes": 3532,
+     "party": null,
+     "pct": 43.1943255472667,
+     "choice_id": "Nora Campos",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "87",
+   "state": "CA",
+   "title": "City of San José Council, District 7",
+   "office_type": "local",
+   "district": "7",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 24,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Bien Doan",
+     "votes": 5316,
+     "party": null,
+     "pct": 62.8294527833589,
+     "choice_id": "Bien Doan",
+     "party_lines": null
+    },
+    {
+     "name": "Van Le",
+     "votes": 3145,
+     "party": null,
+     "pct": 37.1705472166411,
+     "choice_id": "Van Le",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "88",
+   "state": "CA",
+   "title": "City of San José Council, District 9",
+   "office_type": "local",
+   "district": "9",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 33,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Genny Altwer",
+     "votes": 7104,
+     "party": null,
+     "pct": 53.6677494900657,
+     "choice_id": "Genny Altwer",
+     "party_lines": null
+    },
+    {
+     "name": "Gordon Chester",
+     "votes": 6133,
+     "party": null,
+     "pct": 46.3322505099343,
+     "choice_id": "Gordon Chester",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "89",
+   "state": "CA",
+   "title": "Mayor, City of Santa Clara",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 37,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Karen Hardy",
+     "votes": 2919,
+     "party": null,
+     "pct": 23.8733949456122,
+     "choice_id": "Karen Hardy",
+     "party_lines": null
+    },
+    {
+     "name": "Kathy Watanabe",
+     "votes": 2634,
+     "party": null,
+     "pct": 21.5424879365339,
+     "choice_id": "Kathy Watanabe",
+     "party_lines": null
+    },
+    {
+     "name": "David Kertes",
+     "votes": 2277,
+     "party": null,
+     "pct": 18.6227202093727,
+     "choice_id": "David Kertes",
+     "party_lines": null
+    },
+    {
+     "name": "Kevin Park",
+     "votes": 2074,
+     "party": null,
+     "pct": 16.9624601292222,
+     "choice_id": "Kevin Park",
+     "party_lines": null
+    },
+    {
+     "name": "Armando ''Gary'' Ferraris",
+     "votes": 1482,
+     "party": null,
+     "pct": 12.120716447207,
+     "choice_id": "Armando ''Gary'' Ferraris",
+     "party_lines": null
+    },
+    {
+     "name": "Mike Wiltberger",
+     "votes": 841,
+     "party": null,
+     "pct": 6.87822033205202,
+     "choice_id": "Mike Wiltberger",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "90",
+   "state": "CA",
+   "title": "City of Santa Clara Council, District 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Kimberley Williams",
+     "votes": 1029,
+     "party": null,
+     "pct": 57.9718309859155,
+     "choice_id": "Kimberley Williams",
+     "party_lines": null
+    },
+    {
+     "name": "Yvonne Inciarte",
+     "votes": 746,
+     "party": null,
+     "pct": 42.0281690140845,
+     "choice_id": "Yvonne Inciarte",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "91",
+   "state": "CA",
+   "title": "City of Santa Clara Council, District 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Eric Crutchlow",
+     "votes": 993,
+     "party": null,
+     "pct": 54.8315847598012,
+     "choice_id": "Eric Crutchlow",
+     "party_lines": null
+    },
+    {
+     "name": "Kyle Madej",
+     "votes": 818,
+     "party": null,
+     "pct": 45.1684152401988,
+     "choice_id": "Kyle Madej",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "92",
+   "state": "CA",
+   "title": "City of Saratoga Council",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 17,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Ping Li",
+     "votes": 4081,
+     "party": null,
+     "pct": 31.5842427056729,
+     "choice_id": "Ping Li",
+     "party_lines": null
+    },
+    {
+     "name": "Jeri Bromley",
+     "votes": 3661,
+     "party": null,
+     "pct": 28.3337203002864,
+     "choice_id": "Jeri Bromley",
+     "party_lines": null
+    },
+    {
+     "name": "Bill Dalton",
+     "votes": 3167,
+     "party": null,
+     "pct": 24.5104868044269,
+     "choice_id": "Bill Dalton",
+     "party_lines": null
+    },
+    {
+     "name": "Glenn K. Hendricks",
+     "votes": 2012,
+     "party": null,
+     "pct": 15.5715501896138,
+     "choice_id": "Glenn K. Hendricks",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "93",
+   "state": "CA",
+   "title": "City of Sunnyvale Council, District 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 10,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Linda Sell",
+     "votes": 3186,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Linda Sell",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "94",
+   "state": "CA",
+   "title": "City of Sunnyvale Council, District 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 8,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Murali Srinivasan",
+     "votes": 1932,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Murali Srinivasan",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "95",
+   "state": "CA",
+   "title": "City of Sunnyvale Council, District 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Richard Mehlinger",
+     "votes": 1666,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Richard Mehlinger",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "96",
+   "state": "CA",
+   "title": "Santa Clara Valley Water, District 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 151,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "John L. Varela",
+     "votes": 20799,
+     "party": null,
+     "pct": 59.6883429948918,
+     "choice_id": "John L. Varela",
+     "party_lines": null
+    },
+    {
+     "name": "Jimmy Forbis",
+     "votes": 14047,
+     "party": null,
+     "pct": 40.3116570051082,
+     "choice_id": "Jimmy Forbis",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "97",
+   "state": "CA",
+   "title": "Santa Clara Valley Water, District 6",
+   "office_type": "local",
+   "district": "6",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 82,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Phuong Tran Nguyen",
+     "votes": 11720,
+     "party": null,
+     "pct": 54.3322052756015,
+     "choice_id": "Phuong Tran Nguyen",
+     "party_lines": null
+    },
+    {
+     "name": "Milan Balinton",
+     "votes": 9851,
+     "party": null,
+     "pct": 45.6677947243985,
+     "choice_id": "Milan Balinton",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "98",
+   "state": "CA",
+   "title": "Santa Clara Valley Water, District 7",
+   "office_type": "local",
+   "district": "7",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 120,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Pete Dailey",
+     "votes": 22167,
+     "party": null,
+     "pct": 57.5556940333385,
+     "choice_id": "Pete Dailey",
+     "party_lines": null
+    },
+    {
+     "name": "Rebecca Eisenberg",
+     "votes": 16347,
+     "party": null,
+     "pct": 42.4443059666615,
+     "choice_id": "Rebecca Eisenberg",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "99",
+   "state": "CA",
+   "title": "Cupertino Sanitary District",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 27,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Patrick Shupui Kwok",
+     "votes": 4432,
+     "party": null,
+     "pct": 39.3221542010469,
+     "choice_id": "Patrick Shupui Kwok",
+     "party_lines": null
+    },
+    {
+     "name": "Gilbert Wong",
+     "votes": 3669,
+     "party": null,
+     "pct": 32.5525685387277,
+     "choice_id": "Gilbert Wong",
+     "party_lines": null
+    },
+    {
+     "name": "Taghi Saadati",
+     "votes": 3170,
+     "party": null,
+     "pct": 28.1252772602254,
+     "choice_id": "Taghi Saadati",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "100",
+   "state": "CA",
+   "title": "Midpeninsula Regional Open Space District, Ward 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 68,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Craig Gleason",
+     "votes": 11081,
+     "party": null,
+     "pct": 70.9138615128632,
+     "choice_id": "Craig Gleason",
+     "party_lines": null
+    },
+    {
+     "name": "Tina Marie To",
+     "votes": 4545,
+     "party": null,
+     "pct": 29.0861384871368,
+     "choice_id": "Tina Marie To",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "28",
+   "state": "CA",
+   "title": "Santa Clara County BOE, Trustee Area 7",
+   "office_type": "local",
+   "district": "7",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 113,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Raeena S. Lari",
+     "votes": 21790,
+     "party": null,
+     "pct": 63.0315302285218,
+     "choice_id": "Raeena S. Lari",
+     "party_lines": null
+    },
+    {
+     "name": "Karla Dominguez Vega",
+     "votes": 12780,
+     "party": null,
+     "pct": 36.9684697714782,
+     "choice_id": "Karla Dominguez Vega",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "29",
+   "state": "CA",
+   "title": "Foothill-De Anza CCD, Trustee Area 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 33,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "William ''Bill'' Wilson",
+     "votes": 6106,
+     "party": null,
+     "pct": 60.2645084879589,
+     "choice_id": "William ''Bill'' Wilson",
+     "party_lines": null
+    },
+    {
+     "name": "Liangfang ''Liang'' Chao",
+     "votes": 4026,
+     "party": null,
+     "pct": 39.7354915120411,
+     "choice_id": "Liangfang ''Liang'' Chao",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "30",
+   "state": "CA",
+   "title": "Gavilan Joint CCD, Trustee Area 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 20,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Gabriel Gutierrez",
+     "votes": 3510,
+     "party": null,
+     "pct": 71.9409715105554,
+     "choice_id": "Gabriel Gutierrez",
+     "party_lines": null
+    },
+    {
+     "name": "Shahida S. Merchant",
+     "votes": 1369,
+     "party": null,
+     "pct": 28.0590284894446,
+     "choice_id": "Shahida S. Merchant",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "31",
+   "state": "CA",
+   "title": "San José-Evergreen CCD, Trustee Area 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 47,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Karen Martinez",
+     "votes": 5128,
+     "party": null,
+     "pct": 53.8881883144178,
+     "choice_id": "Karen Martinez",
+     "party_lines": null
+    },
+    {
+     "name": "Scott Hung Pham",
+     "votes": 4388,
+     "party": null,
+     "pct": 46.1118116855822,
+     "choice_id": "Scott Hung Pham",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "32",
+   "state": "CA",
+   "title": "West Valley-Mission CCD, Trustee Area 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 23,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Anne J. Kepner",
+     "votes": 5019,
+     "party": null,
+     "pct": 78.3851319693893,
+     "choice_id": "Anne J. Kepner",
+     "party_lines": null
+    },
+    {
+     "name": "Colin Lee Elliott Glaves",
+     "votes": 1384,
+     "party": null,
+     "pct": 21.6148680306107,
+     "choice_id": "Colin Lee Elliott Glaves",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "33",
+   "state": "CA",
+   "title": "West Valley-Mission CCD, Trustee Area 7",
+   "office_type": "local",
+   "district": "7",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 34,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Susan Oster Fish",
+     "votes": 5144,
+     "party": null,
+     "pct": 54.370573935102,
+     "choice_id": "Susan Oster Fish",
+     "party_lines": null
+    },
+    {
+     "name": "Doug Robb",
+     "votes": 4317,
+     "party": null,
+     "pct": 45.629426064898,
+     "choice_id": "Doug Robb",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "34",
+   "state": "CA",
+   "title": "Yosemite CCD, Trustee Area 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jenny Nicolau",
+     "votes": 9,
+     "party": null,
+     "pct": 52.9411764705882,
+     "choice_id": "Jenny Nicolau",
+     "party_lines": null
+    },
+    {
+     "name": "Ryan Segoviano",
+     "votes": 8,
+     "party": null,
+     "pct": 47.0588235294118,
+     "choice_id": "Ryan Segoviano",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "35",
+   "state": "CA",
+   "title": "Gilroy Unified SD, Trustee Area 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Michelle Nelson",
+     "votes": 905,
+     "party": null,
+     "pct": 55.0151975683891,
+     "choice_id": "Michelle Nelson",
+     "party_lines": null
+    },
+    {
+     "name": "Daniel Harney",
+     "votes": 740,
+     "party": null,
+     "pct": 44.9848024316109,
+     "choice_id": "Daniel Harney",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "36",
+   "state": "CA",
+   "title": "Gilroy Unified SD, Trustee Area 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jane Stevens",
+     "votes": 708,
+     "party": null,
+     "pct": 71.6599190283401,
+     "choice_id": "Jane Stevens",
+     "party_lines": null
+    },
+    {
+     "name": "Trevor Scott Van Laar",
+     "votes": 280,
+     "party": null,
+     "pct": 28.3400809716599,
+     "choice_id": "Trevor Scott Van Laar",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "37",
+   "state": "CA",
+   "title": "Milpitas Unified SD",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 18,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Chris Norwood",
+     "votes": 5129,
+     "party": null,
+     "pct": 34.0458015267176,
+     "choice_id": "Chris Norwood",
+     "party_lines": null
+    },
+    {
+     "name": "Kelly Yip-Chuan",
+     "votes": 4838,
+     "party": null,
+     "pct": 32.1141719216727,
+     "choice_id": "Kelly Yip-Chuan",
+     "party_lines": null
+    },
+    {
+     "name": "Franchesca Lacanlale",
+     "votes": 2882,
+     "party": null,
+     "pct": 19.1304347826087,
+     "choice_id": "Franchesca Lacanlale",
+     "party_lines": null
+    },
+    {
+     "name": "Anuradha Sankaran",
+     "votes": 2216,
+     "party": null,
+     "pct": 14.709591769001,
+     "choice_id": "Anuradha Sankaran",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "38",
+   "state": "CA",
+   "title": "Morgan Hill Unified SD, Trustee Area 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 8,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Nancy Altman-Palm",
+     "votes": 1029,
+     "party": null,
+     "pct": 54.0725170782974,
+     "choice_id": "Nancy Altman-Palm",
+     "party_lines": null
+    },
+    {
+     "name": "Jason Amezcua",
+     "votes": 874,
+     "party": null,
+     "pct": 45.9274829217026,
+     "choice_id": "Jason Amezcua",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "39",
+   "state": "CA",
+   "title": "Morgan Hill Unified SD, Trustee Area 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 9,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Gabriela ''Gabby'' Winter",
+     "votes": 928,
+     "party": null,
+     "pct": 51.8725544997205,
+     "choice_id": "Gabriela ''Gabby'' Winter",
+     "party_lines": null
+    },
+    {
+     "name": "John T. Horner",
+     "votes": 861,
+     "party": null,
+     "pct": 48.1274455002795,
+     "choice_id": "John T. Horner",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "40",
+   "state": "CA",
+   "title": "Morgan Hill Unified SD, Trustee Area 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Art Cohen",
+     "votes": 686,
+     "party": null,
+     "pct": 49.7101449275362,
+     "choice_id": "Art Cohen",
+     "party_lines": null
+    },
+    {
+     "name": "Sarah Northrup Gadus",
+     "votes": 398,
+     "party": null,
+     "pct": 28.8405797101449,
+     "choice_id": "Sarah Northrup Gadus",
+     "party_lines": null
+    },
+    {
+     "name": "Cesar Gamboa",
+     "votes": 296,
+     "party": null,
+     "pct": 21.4492753623188,
+     "choice_id": "Cesar Gamboa",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "41",
+   "state": "CA",
+   "title": "Morgan Hill Unified SD, Trustee Area 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Glen R. Webb",
+     "votes": 1016,
+     "party": null,
+     "pct": 67.2847682119205,
+     "choice_id": "Glen R. Webb",
+     "party_lines": null
+    },
+    {
+     "name": "Claudia Ortiz",
+     "votes": 494,
+     "party": null,
+     "pct": 32.7152317880795,
+     "choice_id": "Claudia Ortiz",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "42",
+   "state": "CA",
+   "title": "Palo Alto Unified SD",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 22,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Linda Henigin",
+     "votes": 7678,
+     "party": null,
+     "pct": 38.74451228743,
+     "choice_id": "Linda Henigin",
+     "party_lines": null
+    },
+    {
+     "name": "Avery Wang",
+     "votes": 6787,
+     "party": null,
+     "pct": 34.2483726093758,
+     "choice_id": "Avery Wang",
+     "party_lines": null
+    },
+    {
+     "name": "John Craig",
+     "votes": 5352,
+     "party": null,
+     "pct": 27.0071151031942,
+     "choice_id": "John Craig",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "43",
+   "state": "CA",
+   "title": "San José Unified SD, Trustee Area 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 21,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jose Magana",
+     "votes": 2493,
+     "party": null,
+     "pct": 45.2614379084967,
+     "choice_id": "Jose Magana",
+     "party_lines": null
+    },
+    {
+     "name": "Tomara Hall",
+     "votes": 2030,
+     "party": null,
+     "pct": 36.8554829339143,
+     "choice_id": "Tomara Hall",
+     "party_lines": null
+    },
+    {
+     "name": "Carson Dance",
+     "votes": 985,
+     "party": null,
+     "pct": 17.883079157589,
+     "choice_id": "Carson Dance",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "44",
+   "state": "CA",
+   "title": "San José Unified SD, Trustee Area 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 21,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Mary J. Grunthaner",
+     "votes": 4413,
+     "party": null,
+     "pct": 60.2457337883959,
+     "choice_id": "Mary J. Grunthaner",
+     "party_lines": null
+    },
+    {
+     "name": "Michael Melillo",
+     "votes": 2912,
+     "party": null,
+     "pct": 39.7542662116041,
+     "choice_id": "Michael Melillo",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "45",
+   "state": "CA",
+   "title": "Santa Clara Unified SD, Trustee Area 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jim Canova",
+     "votes": 674,
+     "party": null,
+     "pct": 55.4732510288066,
+     "choice_id": "Jim Canova",
+     "party_lines": null
+    },
+    {
+     "name": "Kamal Yassin",
+     "votes": 541,
+     "party": null,
+     "pct": 44.5267489711934,
+     "choice_id": "Kamal Yassin",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "46",
+   "state": "CA",
+   "title": "East Side Union HSD, TA 1, Short Term",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 33,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Paul Pham",
+     "votes": 3158,
+     "party": null,
+     "pct": 39.2639562352356,
+     "choice_id": "Paul Pham",
+     "party_lines": null
+    },
+    {
+     "name": "Patricia Martínez-Roach",
+     "votes": 2457,
+     "party": null,
+     "pct": 30.5483028720627,
+     "choice_id": "Patricia Martínez-Roach",
+     "party_lines": null
+    },
+    {
+     "name": "Mer Curry Nuñez",
+     "votes": 2428,
+     "party": null,
+     "pct": 30.1877408927017,
+     "choice_id": "Mer Curry Nuñez",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "47",
+   "state": "CA",
+   "title": "East Side Union HSD, TA 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 33,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Lorena Chavez",
+     "votes": 5390,
+     "party": null,
+     "pct": 50.1395348837209,
+     "choice_id": "Lorena Chavez",
+     "party_lines": null
+    },
+    {
+     "name": "Tony Lam",
+     "votes": 4110,
+     "party": null,
+     "pct": 38.2325581395349,
+     "choice_id": "Tony Lam",
+     "party_lines": null
+    },
+    {
+     "name": "Mahbub Khan",
+     "votes": 1250,
+     "party": null,
+     "pct": 11.6279069767442,
+     "choice_id": "Mahbub Khan",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "48",
+   "state": "CA",
+   "title": "Fremont Union HSD, TA 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 33,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Rosa Kim",
+     "votes": 3638,
+     "party": null,
+     "pct": 53.2182562902282,
+     "choice_id": "Rosa Kim",
+     "party_lines": null
+    },
+    {
+     "name": "Jason Lin",
+     "votes": 3198,
+     "party": null,
+     "pct": 46.7817437097718,
+     "choice_id": "Jason Lin",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "49",
+   "state": "CA",
+   "title": "Fremont Union HSD, TA 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 16,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Naomi Nakano-Matsumoto",
+     "votes": 3447,
+     "party": null,
+     "pct": 75.3277972027972,
+     "choice_id": "Naomi Nakano-Matsumoto",
+     "party_lines": null
+    },
+    {
+     "name": "Ilanit Eliaz",
+     "votes": 1129,
+     "party": null,
+     "pct": 24.6722027972028,
+     "choice_id": "Ilanit Eliaz",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "50",
+   "state": "CA",
+   "title": "Los Gatos-Saratoga Union HSD, TA 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 18,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Sangeeta Balachandran Mallik",
+     "votes": 995,
+     "party": null,
+     "pct": 53.0949839914621,
+     "choice_id": "Sangeeta Balachandran Mallik",
+     "party_lines": null
+    },
+    {
+     "name": "Ishaan Prasad",
+     "votes": 879,
+     "party": null,
+     "pct": 46.9050160085379,
+     "choice_id": "Ishaan Prasad",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "51",
+   "state": "CA",
+   "title": "Mountain View-Los Altos Union HSD, TA 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Thida Cornes",
+     "votes": 1365,
+     "party": null,
+     "pct": 56.6860465116279,
+     "choice_id": "Thida Cornes",
+     "party_lines": null
+    },
+    {
+     "name": "Sanjay Dave",
+     "votes": 554,
+     "party": null,
+     "pct": 23.0066445182724,
+     "choice_id": "Sanjay Dave",
+     "party_lines": null
+    },
+    {
+     "name": "Catherine Vonnegut",
+     "votes": 489,
+     "party": null,
+     "pct": 20.3073089700997,
+     "choice_id": "Catherine Vonnegut",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "52",
+   "state": "CA",
+   "title": "Alum Rock Union SD, TA 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 9,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Andrés Quintero",
+     "votes": 1088,
+     "party": null,
+     "pct": 59.6818431157433,
+     "choice_id": "Andrés Quintero",
+     "party_lines": null
+    },
+    {
+     "name": "Delia Oseguera",
+     "votes": 735,
+     "party": null,
+     "pct": 40.3181568842567,
+     "choice_id": "Delia Oseguera",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "53",
+   "state": "CA",
+   "title": "Alum Rock Union SD, TA 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 22,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jenny Ludwig",
+     "votes": 1347,
+     "party": null,
+     "pct": 59.2348284960422,
+     "choice_id": "Jenny Ludwig",
+     "party_lines": null
+    },
+    {
+     "name": "Línda Lo Chávez",
+     "votes": 546,
+     "party": null,
+     "pct": 24.0105540897098,
+     "choice_id": "Línda Lo Chávez",
+     "party_lines": null
+    },
+    {
+     "name": "Manisha Kand",
+     "votes": 381,
+     "party": null,
+     "pct": 16.754617414248,
+     "choice_id": "Manisha Kand",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "54",
+   "state": "CA",
+   "title": "Berryessa Union SD",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 30,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jaria Jaug",
+     "votes": 5517,
+     "party": null,
+     "pct": 34.6088702088953,
+     "choice_id": "Jaria Jaug",
+     "party_lines": null
+    },
+    {
+     "name": "Thelma B. Boac",
+     "votes": 3912,
+     "party": null,
+     "pct": 24.5404930681889,
+     "choice_id": "Thelma B. Boac",
+     "party_lines": null
+    },
+    {
+     "name": "Shanna Brewer",
+     "votes": 3717,
+     "party": null,
+     "pct": 23.3172322940844,
+     "choice_id": "Shanna Brewer",
+     "party_lines": null
+    },
+    {
+     "name": "Jamal Khan",
+     "votes": 2795,
+     "party": null,
+     "pct": 17.5334044288313,
+     "choice_id": "Jamal Khan",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "55",
+   "state": "CA",
+   "title": "Cambrian SD",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 13,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Debora Bodenheimer",
+     "votes": 2481,
+     "party": null,
+     "pct": 31.5488301119023,
+     "choice_id": "Debora Bodenheimer",
+     "party_lines": null
+    },
+    {
+     "name": "Carol Presunka",
+     "votes": 2370,
+     "party": null,
+     "pct": 30.1373346897253,
+     "choice_id": "Carol Presunka",
+     "party_lines": null
+    },
+    {
+     "name": "Sergio Martínez",
+     "votes": 1810,
+     "party": null,
+     "pct": 23.0162767039674,
+     "choice_id": "Sergio Martínez",
+     "party_lines": null
+    },
+    {
+     "name": "Harmony ″Jay″ McMillin",
+     "votes": 1203,
+     "party": null,
+     "pct": 15.2975584944049,
+     "choice_id": "Harmony ″Jay″ McMillin",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "56",
+   "state": "CA",
+   "title": "Campbell Union SD, TA 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 8,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Chris Miller",
+     "votes": 1326,
+     "party": null,
+     "pct": 64.6829268292683,
+     "choice_id": "Chris Miller",
+     "party_lines": null
+    },
+    {
+     "name": "Mohit Vora",
+     "votes": 724,
+     "party": null,
+     "pct": 35.3170731707317,
+     "choice_id": "Mohit Vora",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "57",
+   "state": "CA",
+   "title": "Campbell Union SD, TA 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 10,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Vartika Chandra",
+     "votes": 1700,
+     "party": null,
+     "pct": 55.6100752371606,
+     "choice_id": "Vartika Chandra",
+     "party_lines": null
+    },
+    {
+     "name": "Sam Krow-Lucal",
+     "votes": 1357,
+     "party": null,
+     "pct": 44.3899247628394,
+     "choice_id": "Sam Krow-Lucal",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "58",
+   "state": "CA",
+   "title": "Evergreen SD",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 30,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Monte Wright",
+     "votes": 7320,
+     "party": null,
+     "pct": 26.9167126309983,
+     "choice_id": "Monte Wright",
+     "party_lines": null
+    },
+    {
+     "name": "Mary Hiền Pollett",
+     "votes": 6335,
+     "party": null,
+     "pct": 23.2947232947233,
+     "choice_id": "Mary Hiền Pollett",
+     "party_lines": null
+    },
+    {
+     "name": "Johnny Ray Reyna",
+     "votes": 5458,
+     "party": null,
+     "pct": 20.0698657841515,
+     "choice_id": "Johnny Ray Reyna",
+     "party_lines": null
+    },
+    {
+     "name": "Corinna Diener",
+     "votes": 3227,
+     "party": null,
+     "pct": 11.8661518661519,
+     "choice_id": "Corinna Diener",
+     "party_lines": null
+    },
+    {
+     "name": "Thong Quang La",
+     "votes": 2650,
+     "party": null,
+     "pct": 9.74443831586689,
+     "choice_id": "Thong Quang La",
+     "party_lines": null
+    },
+    {
+     "name": "Magaly Fernández",
+     "votes": 2205,
+     "party": null,
+     "pct": 8.10810810810811,
+     "choice_id": "Magaly Fernández",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "59",
+   "state": "CA",
+   "title": "Franklin-McKinley SD",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 21,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Marc Cooper",
+     "votes": 4256,
+     "party": null,
+     "pct": 27.8972207656004,
+     "choice_id": "Marc Cooper",
+     "party_lines": null
+    },
+    {
+     "name": "Steven Sanchez",
+     "votes": 3847,
+     "party": null,
+     "pct": 25.2163083377032,
+     "choice_id": "Steven Sanchez",
+     "party_lines": null
+    },
+    {
+     "name": "Rudy J. Rodriguez",
+     "votes": 3736,
+     "party": null,
+     "pct": 24.488725747247,
+     "choice_id": "Rudy J. Rodriguez",
+     "party_lines": null
+    },
+    {
+     "name": "Gilbert Borrayo",
+     "votes": 3417,
+     "party": null,
+     "pct": 22.3977451494494,
+     "choice_id": "Gilbert Borrayo",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "60",
+   "state": "CA",
+   "title": "Los Altos SD",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 20,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Bryan Harvey Johnson",
+     "votes": 5188,
+     "party": null,
+     "pct": 28.7185164683089,
+     "choice_id": "Bryan Harvey Johnson",
+     "party_lines": null
+    },
+    {
+     "name": "Vaishali ''Shali'' Sirkay",
+     "votes": 4716,
+     "party": null,
+     "pct": 26.105729310822,
+     "choice_id": "Vaishali ''Shali'' Sirkay",
+     "party_lines": null
+    },
+    {
+     "name": "Brandon Stroy",
+     "votes": 4205,
+     "party": null,
+     "pct": 23.2770550788818,
+     "choice_id": "Brandon Stroy",
+     "party_lines": null
+    },
+    {
+     "name": "David Poll",
+     "votes": 3956,
+     "party": null,
+     "pct": 21.8986991419873,
+     "choice_id": "David Poll",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "61",
+   "state": "CA",
+   "title": "Mountain View Whisman SD",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 19,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Devon Conley",
+     "votes": 4565,
+     "party": null,
+     "pct": 35.0749135612755,
+     "choice_id": "Devon Conley",
+     "party_lines": null
+    },
+    {
+     "name": "William Lambert",
+     "votes": 3752,
+     "party": null,
+     "pct": 28.8282750672301,
+     "choice_id": "William Lambert",
+     "party_lines": null
+    },
+    {
+     "name": "Sundar Subbarayan",
+     "votes": 2698,
+     "party": null,
+     "pct": 20.7299270072993,
+     "choice_id": "Sundar Subbarayan",
+     "party_lines": null
+    },
+    {
+     "name": "Quintin Riis",
+     "votes": 2000,
+     "party": null,
+     "pct": 15.3668843641952,
+     "choice_id": "Quintin Riis",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "62",
+   "state": "CA",
+   "title": "Oak Grove SD, Trustee Area 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Diego Martinez",
+     "votes": 1213,
+     "party": null,
+     "pct": 60.1686507936508,
+     "choice_id": "Diego Martinez",
+     "party_lines": null
+    },
+    {
+     "name": "Victor A. Ramirez",
+     "votes": 803,
+     "party": null,
+     "pct": 39.8313492063492,
+     "choice_id": "Victor A. Ramirez",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "63",
+   "state": "CA",
+   "title": "Oak Grove SD, Trustee Area 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Sophie Freestone",
+     "votes": 1168,
+     "party": null,
+     "pct": 52.8506787330317,
+     "choice_id": "Sophie Freestone",
+     "party_lines": null
+    },
+    {
+     "name": "Kaushik C. Joglekar",
+     "votes": 1042,
+     "party": null,
+     "pct": 47.1493212669683,
+     "choice_id": "Kaushik C. Joglekar",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "64",
+   "state": "CA",
+   "title": "Oak Grove SD, Trustee Area 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 10,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Paul Chun",
+     "votes": 1434,
+     "party": null,
+     "pct": 62.2395833333333,
+     "choice_id": "Paul Chun",
+     "party_lines": null
+    },
+    {
+     "name": "Casino Fajardo",
+     "votes": 502,
+     "party": null,
+     "pct": 21.7881944444444,
+     "choice_id": "Casino Fajardo",
+     "party_lines": null
+    },
+    {
+     "name": "Pradeep Kumar",
+     "votes": 368,
+     "party": null,
+     "pct": 15.9722222222222,
+     "choice_id": "Pradeep Kumar",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "65",
+   "state": "CA",
+   "title": "Orchard SD",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Katherine Kasolas-Jacobson",
+     "votes": 597,
+     "party": null,
+     "pct": 23.8228252194733,
+     "choice_id": "Katherine Kasolas-Jacobson",
+     "party_lines": null
+    },
+    {
+     "name": "Jeff Tang",
+     "votes": 588,
+     "party": null,
+     "pct": 23.463687150838,
+     "choice_id": "Jeff Tang",
+     "party_lines": null
+    },
+    {
+     "name": "Renee Lo",
+     "votes": 547,
+     "party": null,
+     "pct": 21.8276137270551,
+     "choice_id": "Renee Lo",
+     "party_lines": null
+    },
+    {
+     "name": "Lyseria Evelyn Phillips",
+     "votes": 403,
+     "party": null,
+     "pct": 16.0814046288907,
+     "choice_id": "Lyseria Evelyn Phillips",
+     "party_lines": null
+    },
+    {
+     "name": "Molly Eslao",
+     "votes": 367,
+     "party": null,
+     "pct": 14.6448523543496,
+     "choice_id": "Molly Eslao",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.0798084596967279,
+     "choice_id": "Write-in",
+     "party_lines": null
+    },
+    {
+     "name": "Hina Patel",
+     "votes": 2,
+     "party": null,
+     "pct": 0.0798084596967279,
+     "choice_id": "Hina Patel",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "66",
+   "state": "CA",
+   "title": "Saratoga Union SD",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 20,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Eric Cao",
+     "votes": 2338,
+     "party": null,
+     "pct": 27.1418620849779,
+     "choice_id": "Eric Cao",
+     "party_lines": null
+    },
+    {
+     "name": "Anna Goldberg",
+     "votes": 2233,
+     "party": null,
+     "pct": 25.922916182958,
+     "choice_id": "Anna Goldberg",
+     "party_lines": null
+    },
+    {
+     "name": "Vidya R. Vineet",
+     "votes": 1600,
+     "party": null,
+     "pct": 18.5744137450662,
+     "choice_id": "Vidya R. Vineet",
+     "party_lines": null
+    },
+    {
+     "name": "Farnoush Drexel",
+     "votes": 1452,
+     "party": null,
+     "pct": 16.8562804736476,
+     "choice_id": "Farnoush Drexel",
+     "party_lines": null
+    },
+    {
+     "name": "Catalina Rupert",
+     "votes": 991,
+     "party": null,
+     "pct": 11.5045275133504,
+     "choice_id": "Catalina Rupert",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "67",
+   "state": "CA",
+   "title": "Sunnyvale SD, Trustee Area 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 10,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Michelle Maginot",
+     "votes": 805,
+     "party": null,
+     "pct": 52.1710952689566,
+     "choice_id": "Michelle Maginot",
+     "party_lines": null
+    },
+    {
+     "name": "Rommy Kushner",
+     "votes": 738,
+     "party": null,
+     "pct": 47.8289047310434,
+     "choice_id": "Rommy Kushner",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "101",
+   "state": "CA",
+   "title": "State Proposition 1 - The Veterans and Affordable Housing Bond Act of 2026",
+   "office_type": "measure",
+   "district": "1",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 708,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 143562,
+     "party": null,
+     "pct": 59.6157998770825,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 97250,
+     "party": null,
+     "pct": 40.3842001229175,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "102",
+   "state": "CA",
+   "title": "State Proposition 2 - Save for California's Future Act",
+   "office_type": "measure",
+   "district": "2",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 708,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 154279,
+     "party": null,
+     "pct": 63.9294401372412,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 87048,
+     "party": null,
+     "pct": 36.0705598627588,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "103",
+   "state": "CA",
+   "title": "State Proposition 3 - Provides Permanent Funding for Schools and Healthcare by Extending Existing Tax on High Incomes",
+   "office_type": "measure",
+   "district": "3",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 708,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 145850,
+     "party": null,
+     "pct": 60.1182992930896,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 96755,
+     "party": null,
+     "pct": 39.8817007069104,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "104",
+   "state": "CA",
+   "title": "State Proposition 4 - Political Reform Act of 1974, Public Campaign Financing: California Fair Elections Act of 2026",
+   "office_type": "measure",
+   "district": "4",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 708,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 121326,
+     "party": null,
+     "pct": 50.7655035921554,
+     "choice_id": "No",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 117667,
+     "party": null,
+     "pct": 49.2344964078446,
+     "choice_id": "Yes",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "105",
+   "state": "CA",
+   "title": "State Proposition 5 - Elections: Recall of State Officers",
+   "office_type": "measure",
+   "district": "5",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 708,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 124693,
+     "party": null,
+     "pct": 52.7165112985393,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 111842,
+     "party": null,
+     "pct": 47.2834887014607,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "106",
+   "state": "CA",
+   "title": "State Proposition 37 - Creates Loan Program for Middle-Income Buyers of Qualified New Homes",
+   "office_type": "measure",
+   "district": "37",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 708,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 148977,
+     "party": null,
+     "pct": 61.5477729899897,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 93074,
+     "party": null,
+     "pct": 38.4522270100103,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "107",
+   "state": "CA",
+   "title": "State Proposition 38 - Authorizes Bonds for Immunology Research",
+   "office_type": "measure",
+   "district": "38",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 708,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 125833,
+     "party": null,
+     "pct": 51.8215138785932,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 116987,
+     "party": null,
+     "pct": 48.1784861214068,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "108",
+   "state": "CA",
+   "title": "State Proposition 39 - Establishes Additional Voter Identification and Citizenship Verification Requirements",
+   "office_type": "measure",
+   "district": "39",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 708,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 160606,
+     "party": null,
+     "pct": 65.2824804789913,
+     "choice_id": "No",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 85411,
+     "party": null,
+     "pct": 34.7175195210087,
+     "choice_id": "Yes",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "109",
+   "state": "CA",
+   "title": "State Proposition 40 - Imposes One-Time Tax on Certain Individuals and Trusts",
+   "office_type": "measure",
+   "district": "40",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 708,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 137929,
+     "party": null,
+     "pct": 56.4438442493811,
+     "choice_id": "No",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 106436,
+     "party": null,
+     "pct": 43.5561557506189,
+     "choice_id": "Yes",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "110",
+   "state": "CA",
+   "title": "State Proposition 41 - New State Special Taxes: Requires Audits of Programs Funded and Prohibits Exclusions from Existing Vot...",
+   "office_type": "measure",
+   "district": "41",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 708,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 133346,
+     "party": null,
+     "pct": 55.5650007083865,
+     "choice_id": "No",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 106636,
+     "party": null,
+     "pct": 44.4349992916135,
+     "choice_id": "Yes",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "111",
+   "state": "CA",
+   "title": "State Proposition 42 - Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes",
+   "office_type": "measure",
+   "district": "42",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 708,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 126724,
+     "party": null,
+     "pct": 52.2872904468953,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 115637,
+     "party": null,
+     "pct": 47.7127095531047,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "112",
+   "state": "CA",
+   "title": "State Proposition 43 - Local Taxes: Limitation",
+   "office_type": "measure",
+   "district": "43",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 708,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 134658,
+     "party": null,
+     "pct": 56.2060948580635,
+     "choice_id": "No",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 104921,
+     "party": null,
+     "pct": 43.7939051419365,
+     "choice_id": "Yes",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "113",
+   "state": "CA",
+   "title": "State Proposition 44 - Requires Community Health Clinics Spend 90% of Revenue on Program Services",
+   "office_type": "measure",
+   "district": "44",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 708,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 193211,
+     "party": null,
+     "pct": 80.5844962921564,
+     "choice_id": "No",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 46551,
+     "party": null,
+     "pct": 19.4155037078436,
+     "choice_id": "Yes",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "114",
+   "state": "CA",
+   "title": "State Proposition 45 - Modifies Environmental Review for Certain Projects",
+   "office_type": "measure",
+   "district": "45",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 708,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 138101,
+     "party": null,
+     "pct": 57.8377789783602,
+     "choice_id": "No",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 100672,
+     "party": null,
+     "pct": 42.1622210216398,
+     "choice_id": "Yes",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "115",
+   "state": "CA",
+   "title": "Measure RTM - Public Transit Revenue Measure District (PTRMD), Regional Transit Measure - Majority Vote Required",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 708,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 127916,
+     "party": null,
+     "pct": 53.7613529859246,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 110017,
+     "party": null,
+     "pct": 46.2386470140754,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "116",
+   "state": "CA",
+   "title": "Measure A - City of Morgan Hill, Elected City Treasurer to an Appointive Position - Majority Vote Required",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 17,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 3846,
+     "party": null,
+     "pct": 51.6380236305048,
+     "choice_id": "No",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 3602,
+     "party": null,
+     "pct": 48.3619763694952,
+     "choice_id": "Yes",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "117",
+   "state": "CA",
+   "title": "Measure B - City of Gilroy, Transient Occupancy Tax - Majority Vote Required",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 18,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 5168,
+     "party": null,
+     "pct": 66.5722014685044,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 2595,
+     "party": null,
+     "pct": 33.4277985314956,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "118",
+   "state": "CA",
+   "title": "Measure C - City of Santa Clara, Public Works Charter Amendment - Majority Vote Required",
+   "office_type": "measure",
+   "district": "c",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 37,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 9220,
+     "party": null,
+     "pct": 76.1417127756214,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 2889,
+     "party": null,
+     "pct": 23.8582872243786,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "119",
+   "state": "CA",
+   "title": "Measure D - City of Los Altos, Citizen-Sponsored Initiative, Los Altos Downtown Parking Plaza Ordinance - Majority Vote Required",
+   "office_type": "measure",
+   "district": "d",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 14,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 4142,
+     "party": null,
+     "pct": 59.9855177407676,
+     "choice_id": "No",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 2763,
+     "party": null,
+     "pct": 40.0144822592324,
+     "choice_id": "Yes",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "120",
+   "state": "CA",
+   "title": "Measure E - City of Mountain View, Charter Amendment, Modernize and Clarify Its Provisions - Majority Vote Required",
+   "office_type": "measure",
+   "district": "e",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 17,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 6981,
+     "party": null,
+     "pct": 71.5266393442623,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 2779,
+     "party": null,
+     "pct": 28.4733606557377,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "121",
+   "state": "CA",
+   "title": "Measure F - City of Mountain View, Transient Occupancy Tax - Majority Vote Required",
+   "office_type": "measure",
+   "district": "f",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 17,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 7879,
+     "party": null,
+     "pct": 79.5778204221796,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 2022,
+     "party": null,
+     "pct": 20.4221795778204,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "122",
+   "state": "CA",
+   "title": "Measure G - City of Sunnyvale, Charter Amendment, Public Works Contracts - Majority Vote Required",
+   "office_type": "measure",
+   "district": "g",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 49,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 12240,
+     "party": null,
+     "pct": 77.3704171934261,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 3580,
+     "party": null,
+     "pct": 22.629582806574,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "123",
+   "state": "CA",
+   "title": "Measure H - City of Sunnyvale, City Manager Settlement Authority - Majority Vote Required",
+   "office_type": "measure",
+   "district": "h",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 49,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 11101,
+     "party": null,
+     "pct": 71.8464824283218,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 4350,
+     "party": null,
+     "pct": 28.1535175716782,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "124",
+   "state": "CA",
+   "title": "Measure I - City of Sunnyvale, Charter Amendment, Elections to Fill Council Vacancies - Majority Vote Required",
+   "office_type": "measure",
+   "district": "i",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 49,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 9857,
+     "party": null,
+     "pct": 64.9170179135933,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 5327,
+     "party": null,
+     "pct": 35.0829820864067,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "125",
+   "state": "CA",
+   "title": "Measure J - City of Palo Alto, Transactions and Use Tax - Majority Vote Required",
+   "office_type": "measure",
+   "district": "j",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 22,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 6005,
+     "party": null,
+     "pct": 51.1150834184542,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 5743,
+     "party": null,
+     "pct": 48.8849165815458,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "126",
+   "state": "CA",
+   "title": "Measure K - City of Milpitas, Business Tax Modernization - Majority Vote Required",
+   "office_type": "measure",
+   "district": "k",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 14,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 5525,
+     "party": null,
+     "pct": 72.1279373368146,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 2135,
+     "party": null,
+     "pct": 27.8720626631854,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "127",
+   "state": "CA",
+   "title": "Measure L - City of Cupertino, General Plan Amendment - Majority Vote Required",
+   "office_type": "measure",
+   "district": "l",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 24,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 6483,
+     "party": null,
+     "pct": 88.3001906837374,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 859,
+     "party": null,
+     "pct": 11.6998093162626,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "128",
+   "state": "CA",
+   "title": "Measure M - Gilroy Unified School District, School Bond - 55% Vote Required",
+   "office_type": "measure",
+   "district": "m",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 26,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 4619,
+     "party": null,
+     "pct": 50.1901553841139,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 4584,
+     "party": null,
+     "pct": 49.8098446158861,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "129",
+   "state": "CA",
+   "title": "Measure N - Los Gatos-Saratoga Union High School District, School Bond - 55% Vote Required",
+   "office_type": "measure",
+   "district": "n",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 42,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 5899,
+     "party": null,
+     "pct": 54.4087806677735,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 4943,
+     "party": null,
+     "pct": 45.5912193322265,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "130",
+   "state": "CA",
+   "title": "Measure O - Alum Rock Union School District, Parcel Tax - 2/3rds (66.67%) Vote Required",
+   "office_type": "measure",
+   "district": "o",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 49,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 6821,
+     "party": null,
+     "pct": 70.9559970872777,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 2792,
+     "party": null,
+     "pct": 29.0440029127224,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "131",
+   "state": "CA",
+   "title": "Measure P - Alum Rock Union School District, School Bond - 55% Vote Required",
+   "office_type": "measure",
+   "district": "p",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 49,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 6899,
+     "party": null,
+     "pct": 72.4152408943004,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 2628,
+     "party": null,
+     "pct": 27.5847591056996,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "132",
+   "state": "CA",
+   "title": "Measure Q - Cambrian School District, Parcel Tax - 2/3rds (66.67%) Vote Required",
+   "office_type": "measure",
+   "district": "q",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 13,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2869,
+     "party": null,
+     "pct": 64.953588408422,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 1548,
+     "party": null,
+     "pct": 35.046411591578,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "133",
+   "state": "CA",
+   "title": "Measure R - Orchard School District, Parcel Tax - 2/3rds (66.67%) Vote Required",
+   "office_type": "measure",
+   "district": "r",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 868,
+     "party": null,
+     "pct": 63.3576642335766,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 502,
+     "party": null,
+     "pct": 36.6423357664234,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  },
+  {
+   "source": "ca.santa_clara",
+   "contest_id": "134",
+   "state": "CA",
+   "title": "Measure S - El Camino Healthcare District, Limit Number of Terms for Directors - Majority Vote Required",
+   "office_type": "measure",
+   "district": "s",
+   "jurisdiction": "Santa Clara County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 73,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 25929,
+     "party": null,
+     "pct": 91.8718775466818,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 2294,
+     "party": null,
+     "pct": 8.12812245331822,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/"
+  }
+ ],
+ "contests_hash": "17bd9107a3e95944",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-04T05:25:08+00:00",
+ "fetched_at": "2026-11-04T05:25:08+00:00",
+ "contests_changed_at": "2026-11-04T05:25:08+00:00"
 }

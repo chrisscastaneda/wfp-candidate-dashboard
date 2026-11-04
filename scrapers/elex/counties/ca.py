@@ -69,14 +69,19 @@ class LosAngeles(Source):
         return parse_la(fetch.get(LA + "GetElectionData", params={"electionID": election["ID"]})["Data"])
 
 
-def clarity_county(name: str) -> ClaritySource:
+def clarity_county(name: str, eid: str | None = None) -> ClaritySource:
     return ClaritySource(f"ca.{name.lower().replace(' ', '_')}", "CA", f"{name} County (Clarity)",
-                         f"{name} County", f"CA/{name.replace(' ', '_')}", tiers=(4,), level="county", county=name)
+                         f"{name} County", f"CA/{name.replace(' ', '_')}", tiers=(4,), level="county", county=name,
+                         eid=eid)
+
+
+# Nov 3 election ids linked from each county's site; Clarity's elections.json lists nothing for these counties.
+_CLARITY_EIDS = {"Sonoma": "127275", "Contra Costa": "127405", "Santa Clara": "127570", "Ventura": "127362"}
 
 
 SOURCES = [
     LosAngeles(),
     LiveVoterTurnoutSource("ca.orange", "CA", "Orange", "https://ocvote.gov/results/current-election-results",
                            f"{config.ELECTION_DATE.year} General Election"),
-    *[clarity_county(n) for n in ("Santa Clara", "Contra Costa", "Sonoma", "Ventura", "Marin")],
+    *[clarity_county(n, _CLARITY_EIDS.get(n)) for n in ("Santa Clara", "Contra Costa", "Sonoma", "Ventura", "Marin")],
 ]

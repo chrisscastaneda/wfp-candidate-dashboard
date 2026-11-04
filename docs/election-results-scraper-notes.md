@@ -27,9 +27,12 @@ See also [election-results-scraper-plan.md](election-results-scraper-plan.md) (d
 | 10:26pm | 363 | 313 | Westchester County NY (new scraper), Maryland (Montgomery County) |
 | 10:59pm–11:05pm | 373 | 322 | Florida (new scraper), Dane and Kenosha counties WI (new scrapers), Milwaukee WI (6 by hand) |
 | 11:10pm | 499 | 410 | Oregon, California (state and Orange County), Utah's legislative races, Washington |
+| 11:21pm–11:25pm | 504 | 415 | Wayne and Washtenaw counties MI (new scrapers) |
+| 12:16am | 576 | 480 | Washington (King County), more California, Connecticut and New Mexico |
+| 12:25am | 601 | 497 | Santa Clara, Contra Costa, Sonoma, Ventura (CA) and Hudson (NJ), via known Clarity ids |
+| 12:48am | 606 | 500 | South Carolina (new scraper, XLSX snapshots) |
 
-Not yet posted by 11:10pm: South Carolina, Bexar/Dallas/Tarrant counties (TX), Hudson and Middlesex counties (NJ),
-and the five California Clarity counties. Los Angeles and most of Washington hadn't posted their first counts yet.
+Still missing at 12:48am: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
 
 ---
 
@@ -288,6 +291,62 @@ Fixes made while building:
 - Bay's report also shows its share of the statewide races: El-Sayed 47% to Rogers 51%, Gilchrist 50.1%, Savit 48%
   (Bay County only, not on the dashboard).
 
+### 12:16am: King County and more California
+
+- 576 races with votes, WFP leading 480. All sources ran without errors.
+- **New: California 24, Connecticut 16, Washington 16, New Mexico 15, Oregon 1.**
+- Washington: Pramila Jayapal (WA-7) 88%, Teresa Mosqueda (King County Council) 70%, Shaun Scott (LD-43) 97%. Hannah
+  Sabio-Howell (LD-43 Senate) trails at 23%, and Danny Tarkenton (Prosecuting Attorney) at 47%.
+- California House: Lateefah Simon (CA-12) 81%, Ro Khanna (CA-17) 72%, Aisha Wahab (CA-14) 59%; Connie Chan trails
+  Scott Wiener in CA-11 (43%), and Mai Vang trails Doris Matsui in CA-7 (41%). Jane Kim (Insurance Commissioner) is at
+  51.5% with 49% of precincts in.
+- California props: WFP's side now leads on 5, 41, 43 and 45 (it trailed on all four at 11:10pm). It still trails
+  on 4, 40 and 42.
+- Flipped to leading: Sean Frame (CA SD-6, 50.7%), Leila Namvar (CA AD-47, 57%), Ethan Werstler (CT SD-35, 54%),
+  Elouise Brown (NM San Juan County Commission), and Nelly Burdette (RI SD-17, 43.4% in a four-way race; 4,819 to
+  Paolino's 4,318).
+- Flipped to trailing: Irene Bonham (Douglas County CO Commission, 49.6%), Suzanne Lovig (CT HD-66, 47%), David
+  Mooney (NM HD-38, 49.7%), Joanna Robinson (OR HD-15, 48.5%).
+- Amanda Hollowell (GA-1) trails at 49.3% with all 15 counties posted. Angie Nixon (FL U.S. Senate) is at 48.0% with
+  5,574 of 5,626 precincts.
+- Wayne County still shows under 1% of precincts in. Milwaukee's hand entries (as of 9:43pm CT) weren't re-read.
+
+### 12:25am: the silent Clarity counties
+
+- Eleven Clarity sources had reported "no Nov 3 election listed" all night. **Most hadn't moved: they linked
+  tonight's election from their own sites but never added it to Clarity's election list.** Clarity's own list page
+  says "Elections not available!", and `elections.json` is `[]`, but `<site>/<eid>/current_ver.txt` works.
+- **Fix:** a Clarity source can carry a known election id (`eid=`) to use when the list is empty. Ids, each read
+  from the county's results page and checked against the election's settings date:
+  Santa Clara 127570, Contra Costa 127405, Sonoma 127275, Ventura 127362, Hudson (NJ) 127495.
+- 34 races came in: Santa Clara 13, Contra Costa 8, Sonoma 7, Ventura 6, Hudson 4. Three Sonoma/Contra Costa
+  matches were confirmed by hand (Becca/Rebecca Barrett; Paun and Bagby, where "County Supervisor, 2nd District"
+  didn't overlap "Board of Supervisors" by word).
+- Selected: Claudia Jiménez (Richmond mayor), the four Hudson commissioners and Melanie Jones-Carter (Santa Rosa)
+  lead. Trailing include Kevin Park (Santa Clara mayor, 4th of 6), Tamisha Torres-Walker (Antioch D1, 44%), Gordon
+  Chester (San Jose D9, 46%) and Caitlin Quinn (Sonoma Board of Education, 48%).
+- Two Santa Clara candidates (Anthony Montes, East Side Union HSD; Alexander Gvatua, Foothill-De Anza) aren't on the
+  county's ballot. Their trustee areas aren't contested, so they stay unmatched.
+- **Still missing:**
+  - **South Carolina** left Clarity: scvotes.gov posts timestamped XLSX files
+    (`/wp-content/uploads/2026/11/2026-11-03-1130PM-General-Election-Results.xlsx`). Needs a small XLSX parser.
+  - **Marin's** results page still links an August election (127071). **Middlesex's** results page is a 404.
+  - **Bexar, Dallas, Tarrant:** their elections.json lists only older elections; the Nov 3 sites weren't found tonight.
+
+### 12:48am: South Carolina
+
+- The SC Election Commission didn't use Clarity this year. `scvotes.gov/2026-general-election-results/` links a new
+  XLSX snapshot every 15–30 minutes (`/wp-content/uploads/2026/11/2026-11-03-1130PM-General-Election-Results.xlsx`),
+  oldest first. New source `states/sc.py` replaces the Clarity entry: it takes the last link and reads the workbook
+  with the standard library (no new dependency).
+- Each contest is a sheet: the title (with double spaces) in row 1, candidate names above blocks of seven vote-type
+  columns (the last is "Total Votes"), one row per county, then "Total:". No precincts-reporting count.
+- The "12AM" file is dated 11-03 but means midnight going into Nov 4; `snapshot_time` handles that.
+- All five WFP races matched (midnight snapshot):
+  - Courtney McClain (SC-4) trails William Timmons, 129,561 to 146,808 (45.7%).
+  - Jumelle Brooks (HD-12) 54.9%, Keishan Scott (HD-50) 62.2% and Sonja Ogletree Satani (HD-98) 53.7% lead.
+  - Julie Zimmerman (HD-71) trails, 41.6%.
+
 ## Feed quirks worth remembering
 
 | Source | Quirk | How it's handled |
@@ -299,6 +358,8 @@ Fixes made while building:
 | NM/NE results CSV | `CandidatePercentage` is a fraction | Percentages computed from votes |
 | Clarity counties | Jurisdiction was the bare county name | Labeled "<name> County" so the county filter applies |
 | Clarity (all) | HTTP 502/504 under election-night load | Previous results kept; retried next run |
+| Clarity counties | Election linked from the county site but missing from `elections.json` | `eid=` on the source, used when the list is empty |
+| South Carolina | XLSX snapshots on scvotes.gov, no precinct counts; "12AM" file is the next day | Latest link read each run; stdlib XLSX reader |
 | NYC ENR | "*" marks the city's share of cross-city races | Marked partial |
 | Erie Results Caster | Nov 3 election slug is `testgen`, titled "test" | Found by date; non-test titles preferred if one appears |
 | NYS BOE | 403 to scripts | No source; state legislative races outside NYC stay `no_source` |

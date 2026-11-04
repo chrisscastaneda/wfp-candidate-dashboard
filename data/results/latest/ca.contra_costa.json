@@ -1,8 +1,4905 @@
 {
  "source": "ca.contra_costa",
- "contests": [],
- "contests_hash": null,
- "status": "not_published",
- "message": "no 2026-11-03 election listed",
- "last_attempt_at": "2026-11-04T04:11:14+00:00"
+ "contests": [
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "200",
+   "state": "CA",
+   "title": "GOVERNOR",
+   "office_type": "governor",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "XAVIER BECERRA",
+     "votes": 167858,
+     "party": "DEM",
+     "pct": 72.6114208839268,
+     "choice_id": "XAVIER BECERRA",
+     "party_lines": null
+    },
+    {
+     "name": "STEVE HILTON",
+     "votes": 63315,
+     "party": "REP",
+     "pct": 27.3885791160732,
+     "choice_id": "STEVE HILTON",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "220",
+   "state": "CA",
+   "title": "LIEUTENANT GOVERNOR",
+   "office_type": "lt_governor",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "FIONA MA",
+     "votes": 166451,
+     "party": "DEM",
+     "pct": 72.7473372755204,
+     "choice_id": "FIONA MA",
+     "party_lines": null
+    },
+    {
+     "name": "GLORIA ROMERO",
+     "votes": 62356,
+     "party": "REP",
+     "pct": 27.2526627244796,
+     "choice_id": "GLORIA ROMERO",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "240",
+   "state": "CA",
+   "title": "SECRETARY OF STATE",
+   "office_type": "secretary_of_state",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "SHIRLEY N. WEBER",
+     "votes": 167401,
+     "party": "DEM",
+     "pct": 73.1714886418771,
+     "choice_id": "SHIRLEY N. WEBER",
+     "party_lines": null
+    },
+    {
+     "name": "DONALD P. (DON) WAGNER",
+     "votes": 61378,
+     "party": "REP",
+     "pct": 26.8285113581229,
+     "choice_id": "DONALD P. (DON) WAGNER",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "260",
+   "state": "CA",
+   "title": "CONTROLLER",
+   "office_type": "controller",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "MALIA M. COHEN",
+     "votes": 163781,
+     "party": "DEM",
+     "pct": 71.9366286883878,
+     "choice_id": "MALIA M. COHEN",
+     "party_lines": null
+    },
+    {
+     "name": "HERB W MORGAN",
+     "votes": 63893,
+     "party": "REP",
+     "pct": 28.0633713116122,
+     "choice_id": "HERB W MORGAN",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "280",
+   "state": "CA",
+   "title": "TREASURER",
+   "office_type": "treasurer",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ELENI KOUNALAKIS",
+     "votes": 165586,
+     "party": "DEM",
+     "pct": 72.5274629009934,
+     "choice_id": "ELENI KOUNALAKIS",
+     "party_lines": null
+    },
+    {
+     "name": "JENNIFER HAWKS",
+     "votes": 62722,
+     "party": "REP",
+     "pct": 27.4725370990066,
+     "choice_id": "JENNIFER HAWKS",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "300",
+   "state": "CA",
+   "title": "ATTORNEY GENERAL",
+   "office_type": "attorney_general",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ROB BONTA",
+     "votes": 165054,
+     "party": "DEM",
+     "pct": 72.1333111905532,
+     "choice_id": "ROB BONTA",
+     "party_lines": null
+    },
+    {
+     "name": "MICHAEL E. GATES",
+     "votes": 63764,
+     "party": "REP",
+     "pct": 27.8666888094468,
+     "choice_id": "MICHAEL E. GATES",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "320",
+   "state": "CA",
+   "title": "INSURANCE COMMISSIONER",
+   "office_type": "insurance_commissioner",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "BEN ALLEN",
+     "votes": 105681,
+     "party": "DEM",
+     "pct": 51.2144414829174,
+     "choice_id": "BEN ALLEN",
+     "party_lines": null
+    },
+    {
+     "name": "JANE KIM",
+     "votes": 100669,
+     "party": "DEM",
+     "pct": 48.7855585170826,
+     "choice_id": "JANE KIM",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "340",
+   "state": "CA",
+   "title": "STATE BOARD OF EQUALIZATION  DISTRICT 2",
+   "office_type": "board_of_equalization",
+   "district": "2",
+   "jurisdiction": "Contra Costa County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "SALLY J. LIEBER",
+     "votes": 123332,
+     "party": "DEM",
+     "pct": 62.2914057133622,
+     "choice_id": "SALLY J. LIEBER",
+     "party_lines": null
+    },
+    {
+     "name": "JOHN PIMENTEL",
+     "votes": 74660,
+     "party": "DEM",
+     "pct": 37.7085942866378,
+     "choice_id": "JOHN PIMENTEL",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "510",
+   "state": "CA",
+   "title": "UNITED STATES REPRESENTATIVE  DISTRICT 8",
+   "office_type": "federal_house",
+   "district": "8",
+   "jurisdiction": "Contra Costa County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 165,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JOHN GARAMENDI",
+     "votes": 39065,
+     "party": "DEM",
+     "pct": 86.0803842933322,
+     "choice_id": "JOHN GARAMENDI",
+     "party_lines": null
+    },
+    {
+     "name": "RUDY RECILE",
+     "votes": 6317,
+     "party": "REP",
+     "pct": 13.9196157066678,
+     "choice_id": "RUDY RECILE",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "530",
+   "state": "CA",
+   "title": "UNITED STATES REPRESENTATIVE  DISTRICT 9",
+   "office_type": "federal_house",
+   "district": "9",
+   "jurisdiction": "Contra Costa County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 121,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JOSH HARDER",
+     "votes": 21875,
+     "party": "DEM",
+     "pct": 75.0506055511716,
+     "choice_id": "JOSH HARDER",
+     "party_lines": null
+    },
+    {
+     "name": "JOHN MCBRIDE",
+     "votes": 7272,
+     "party": "REP",
+     "pct": 24.9493944488284,
+     "choice_id": "JOHN MCBRIDE",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "550",
+   "state": "CA",
+   "title": "UNITED STATES REPRESENTATIVE  DISTRICT 10",
+   "office_type": "federal_house",
+   "district": "10",
+   "jurisdiction": "Contra Costa County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 665,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "MARK DESAULNIER",
+     "votes": 109245,
+     "party": "DEM",
+     "pct": 70.9779487246124,
+     "choice_id": "MARK DESAULNIER",
+     "party_lines": null
+    },
+    {
+     "name": "JEFF FRESE",
+     "votes": 44669,
+     "party": "REP",
+     "pct": 29.0220512753876,
+     "choice_id": "JEFF FRESE",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "700",
+   "state": "CA",
+   "title": "MEMBER OF THE STATE ASSEMBLY  DISTRICT 11",
+   "office_type": "state_house",
+   "district": "11",
+   "jurisdiction": "Contra Costa County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 126,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "LORI D WILSON",
+     "votes": 6662,
+     "party": "DEM",
+     "pct": 62.6363294471606,
+     "choice_id": "LORI D WILSON",
+     "party_lines": null
+    },
+    {
+     "name": "JENNY LEILANI CALLISON",
+     "votes": 3974,
+     "party": "NPP",
+     "pct": 37.3636705528394,
+     "choice_id": "JENNY LEILANI CALLISON",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "720",
+   "state": "CA",
+   "title": "MEMBER OF THE STATE ASSEMBLY  DISTRICT 14",
+   "office_type": "state_house",
+   "district": "14",
+   "jurisdiction": "Contra Costa County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 166,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "BUFFY WICKS",
+     "votes": 35058,
+     "party": "DEM",
+     "pct": 80.8607805148076,
+     "choice_id": "BUFFY WICKS",
+     "party_lines": null
+    },
+    {
+     "name": "MARK RENDON",
+     "votes": 8298,
+     "party": "GRN",
+     "pct": 19.1392194851924,
+     "choice_id": "MARK RENDON",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "740",
+   "state": "CA",
+   "title": "MEMBER OF THE STATE ASSEMBLY  DISTRICT 15",
+   "office_type": "state_house",
+   "district": "15",
+   "jurisdiction": "Contra Costa County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 410,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ANAMARIE AVILA FARIAS",
+     "votes": 60437,
+     "party": "DEM",
+     "pct": 71.1416901110026,
+     "choice_id": "ANAMARIE AVILA FARIAS",
+     "party_lines": null
+    },
+    {
+     "name": "ARTHUR WEBB",
+     "votes": 24516,
+     "party": "NPP",
+     "pct": 28.8583098889974,
+     "choice_id": "ARTHUR WEBB",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "760",
+   "state": "CA",
+   "title": "MEMBER OF THE STATE ASSEMBLY  DISTRICT 16",
+   "office_type": "state_house",
+   "district": "16",
+   "jurisdiction": "Contra Costa County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 249,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REBECCA BAUER-KAHAN",
+     "votes": 58430,
+     "party": "DEM",
+     "pct": 70.4400241109102,
+     "choice_id": "REBECCA BAUER-KAHAN",
+     "party_lines": null
+    },
+    {
+     "name": "JOSEPH A. RUBAY",
+     "votes": 24520,
+     "party": "REP",
+     "pct": 29.5599758890898,
+     "choice_id": "JOSEPH A. RUBAY",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "2016",
+   "state": "CA",
+   "title": "ASSOCIATE JUSTICE OF THE SUPREME COURT (GROBAN)",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 137633,
+     "party": null,
+     "pct": 78.2183450784269,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 38327,
+     "party": null,
+     "pct": 21.7816549215731,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "2021",
+   "state": "CA",
+   "title": "ASSOCIATE JUSTICE OF THE SUPREME COURT (EVANS)",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 136116,
+     "party": null,
+     "pct": 77.9185986604843,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 38574,
+     "party": null,
+     "pct": 22.0814013395157,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "2046",
+   "state": "CA",
+   "title": "ASSOCIATE JUSTICE  COURT OF APPEALS DISTRICT 1  DIVISION 1 (WILSON)",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 132349,
+     "party": null,
+     "pct": 77.9160607791076,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 37512,
+     "party": null,
+     "pct": 22.0839392208924,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "2051",
+   "state": "CA",
+   "title": "ASSOCIATE JUSTICE  COURT OF APPEALS DISTRICT 1  DIVISION 1 (SMILEY)",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 129345,
+     "party": null,
+     "pct": 76.6107537581293,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 39489,
+     "party": null,
+     "pct": 23.3892462418707,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "2056",
+   "state": "CA",
+   "title": "ASSOCIATE JUSTICE  COURT OF APPEALS DISTRICT 1  DIVISION 1 (BANKE)",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 133674,
+     "party": null,
+     "pct": 78.9666763154319,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 35605,
+     "party": null,
+     "pct": 21.0333236845681,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "2061",
+   "state": "CA",
+   "title": "PRESIDING JUSTICE  COURT OF APPEALS DISTRICT 1  DIVISION 2 (STEWART)",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 131855,
+     "party": null,
+     "pct": 77.5302965267039,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 38214,
+     "party": null,
+     "pct": 22.4697034732961,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "2076",
+   "state": "CA",
+   "title": "ASSOCIATE JUSTICE  COURT OF APPEALS DISTRICT 1  DIVISION 2 (DESAUTELS)",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 130655,
+     "party": null,
+     "pct": 77.4513465289016,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 38038,
+     "party": null,
+     "pct": 22.5486534710984,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "2091",
+   "state": "CA",
+   "title": "ASSOCIATE JUSTICE  COURT OF APPEALS DISTRICT 1  DIVISION 3 (PETROU)",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 127706,
+     "party": null,
+     "pct": 75.922380890099,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 40500,
+     "party": null,
+     "pct": 24.077619109901,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "2101",
+   "state": "CA",
+   "title": "ASSOCIATE JUSTICE  COURT OF APPEALS DISTRICT 1  DIVISION 3 (RODRIGUEZ)",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 130024,
+     "party": null,
+     "pct": 77.155047085561,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 38499,
+     "party": null,
+     "pct": 22.844952914439,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "2111",
+   "state": "CA",
+   "title": "PRESIDING JUSTICE  COURT OF APPEALS DISTRICT 1  DIVISION 4 (BROWN)",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 133231,
+     "party": null,
+     "pct": 78.8218520008519,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 35797,
+     "party": null,
+     "pct": 21.1781479991481,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "2141",
+   "state": "CA",
+   "title": "ASSOCIATE JUSTICE  COURT OF APPEALS DISTRICT 1  DIVISION 5 (CHOU)",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 129886,
+     "party": null,
+     "pct": 76.9102321174799,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 38994,
+     "party": null,
+     "pct": 23.0897678825201,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "2142",
+   "state": "CA",
+   "title": "ASSOCIATE JUSTICE  COURT OF APPEALS DISTRICT 1  DIVISION 5 (SIMONS)",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 127064,
+     "party": null,
+     "pct": 75.8011788006777,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 40564,
+     "party": null,
+     "pct": 24.1988211993223,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "2143",
+   "state": "CA",
+   "title": "ASSOCIATE JUSTICE  COURT OF APPEALS DISTRICT 1  DIVISION 5 (BURNS)",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 127935,
+     "party": null,
+     "pct": 76.2952935283032,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 39749,
+     "party": null,
+     "pct": 23.7047064716968,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "3000",
+   "state": "CA",
+   "title": "STATE SUPERINTENDENT OF PUBLIC INSTRUCTION",
+   "office_type": "superintendent",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "RICHARD BARRERA",
+     "votes": 132469,
+     "party": null,
+     "pct": 63.0988048909445,
+     "choice_id": "RICHARD BARRERA",
+     "party_lines": null
+    },
+    {
+     "name": "SONJA SHAW",
+     "votes": 77470,
+     "party": null,
+     "pct": 36.9011951090555,
+     "choice_id": "SONJA SHAW",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "3501",
+   "state": "CA",
+   "title": "BRENTWOOD UNION SCHOOL DISTRICT  GOVERNING BOARD MEMBER",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 74,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "STEVE GURSKY",
+     "votes": 8136,
+     "party": null,
+     "pct": 23.862036602534,
+     "choice_id": "STEVE GURSKY",
+     "party_lines": null
+    },
+    {
+     "name": "SCOTT S. DUDEK",
+     "votes": 8118,
+     "party": null,
+     "pct": 23.8092444861567,
+     "choice_id": "SCOTT S. DUDEK",
+     "party_lines": null
+    },
+    {
+     "name": "EMIL JOHNSON GEDDES",
+     "votes": 7224,
+     "party": null,
+     "pct": 21.1872360394181,
+     "choice_id": "EMIL JOHNSON GEDDES",
+     "party_lines": null
+    },
+    {
+     "name": "OXSANA PAJOLUK",
+     "votes": 5540,
+     "party": null,
+     "pct": 16.2482402627874,
+     "choice_id": "OXSANA PAJOLUK",
+     "party_lines": null
+    },
+    {
+     "name": "MARK ANDERSON",
+     "votes": 5078,
+     "party": null,
+     "pct": 14.8932426091037,
+     "choice_id": "MARK ANDERSON",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "3531",
+   "state": "CA",
+   "title": "KNIGHTSEN ELEMENTARY SCHOOL DISTRICT  GOVERNING BOARD MEMBER",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 35,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ROBIN PASTOR",
+     "votes": 455,
+     "party": null,
+     "pct": 38.9221556886228,
+     "choice_id": "ROBIN PASTOR",
+     "party_lines": null
+    },
+    {
+     "name": "LIESEL WILLIAMS",
+     "votes": 377,
+     "party": null,
+     "pct": 32.2497861420017,
+     "choice_id": "LIESEL WILLIAMS",
+     "party_lines": null
+    },
+    {
+     "name": "ERIK M. HANSEN",
+     "votes": 337,
+     "party": null,
+     "pct": 28.8280581693755,
+     "choice_id": "ERIK M. HANSEN",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "3564",
+   "state": "CA",
+   "title": "OAKLEY UNION ELEMENTARY SCHOOL DISTRICT  GOVERNING BOARD MEMBER  TRUSTEE AREA 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 15,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ISAIAH B.N. MATEAS",
+     "votes": 706,
+     "party": null,
+     "pct": 53.003003003003,
+     "choice_id": "ISAIAH B.N. MATEAS",
+     "party_lines": null
+    },
+    {
+     "name": "CRAIG PEARSON",
+     "votes": 626,
+     "party": null,
+     "pct": 46.996996996997,
+     "choice_id": "CRAIG PEARSON",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "10029",
+   "state": "CA",
+   "title": "ORINDA UNION SCHOOL DISTRICT  GOVERNING BOARD MEMBER",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 23,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "KATIE SHOGAN",
+     "votes": 4482,
+     "party": null,
+     "pct": 32.1751615218952,
+     "choice_id": "KATIE SHOGAN",
+     "party_lines": null
+    },
+    {
+     "name": "EDDA COLLINS COLEMAN",
+     "votes": 4451,
+     "party": null,
+     "pct": 31.9526202440775,
+     "choice_id": "EDDA COLLINS COLEMAN",
+     "party_lines": null
+    },
+    {
+     "name": "JOHN CHABALKO",
+     "votes": 3987,
+     "party": null,
+     "pct": 28.62167982771,
+     "choice_id": "JOHN CHABALKO",
+     "party_lines": null
+    },
+    {
+     "name": "CHLOE AFTEL",
+     "votes": 1010,
+     "party": null,
+     "pct": 7.2505384063173,
+     "choice_id": "CHLOE AFTEL",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "3581",
+   "state": "CA",
+   "title": "WALNUT CREEK SCHOOL DISTRICT  GOVERNING BOARD MEMBER",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 35,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "HEIDI HERNANDEZ GATTY",
+     "votes": 8985,
+     "party": null,
+     "pct": 23.8177287668328,
+     "choice_id": "HEIDI HERNANDEZ GATTY",
+     "party_lines": null
+    },
+    {
+     "name": "ERYN HOLL KING",
+     "votes": 8224,
+     "party": null,
+     "pct": 21.8004453398367,
+     "choice_id": "ERYN HOLL KING",
+     "party_lines": null
+    },
+    {
+     "name": "GEETHA GANTI",
+     "votes": 6608,
+     "party": null,
+     "pct": 17.5167002438766,
+     "choice_id": "GEETHA GANTI",
+     "party_lines": null
+    },
+    {
+     "name": "WENLEI JOHNSON",
+     "votes": 5737,
+     "party": null,
+     "pct": 15.2078252571307,
+     "choice_id": "WENLEI JOHNSON",
+     "party_lines": null
+    },
+    {
+     "name": "AILEEN ONG",
+     "votes": 5622,
+     "party": null,
+     "pct": 14.9029795355742,
+     "choice_id": "AILEEN ONG",
+     "party_lines": null
+    },
+    {
+     "name": "ROD EHSANI",
+     "votes": 2548,
+     "party": null,
+     "pct": 6.75432085674902,
+     "choice_id": "ROD EHSANI",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "9994",
+   "state": "CA",
+   "title": "CONTRA COSTA COUNTY BOARD OF EDUCATION  BOARD MEMBER  AREA 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 175,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "SARAH BUTLER",
+     "votes": 34985,
+     "party": null,
+     "pct": 72.186113690292,
+     "choice_id": "SARAH BUTLER",
+     "party_lines": null
+    },
+    {
+     "name": "PAMELA WEST",
+     "votes": 9177,
+     "party": null,
+     "pct": 18.9353141442278,
+     "choice_id": "PAMELA WEST",
+     "party_lines": null
+    },
+    {
+     "name": "SIBYL MINIGHINI",
+     "votes": 4303,
+     "party": null,
+     "pct": 8.87857216548024,
+     "choice_id": "SIBYL MINIGHINI",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "3201",
+   "state": "CA",
+   "title": "CONTRA COSTA COMMUNITY COLLEGE DISTRICT  GOVERNING BOARD MEMBER  WARD 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 138,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "RAQUEL DONOSO",
+     "votes": 20507,
+     "party": null,
+     "pct": 60.9058509058509,
+     "choice_id": "RAQUEL DONOSO",
+     "party_lines": null
+    },
+    {
+     "name": "CAMERON SASAI",
+     "votes": 13163,
+     "party": null,
+     "pct": 39.0941490941491,
+     "choice_id": "CAMERON SASAI",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "3211",
+   "state": "CA",
+   "title": "CONTRA COSTA COMMUNITY COLLEGE DISTRICT  GOVERNING BOARD MEMBER  WARD 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 183,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "BECCA BARRETT",
+     "votes": 27971,
+     "party": null,
+     "pct": 74.6689802455953,
+     "choice_id": "BECCA BARRETT",
+     "party_lines": null
+    },
+    {
+     "name": "ALLYSE TANOVITZ",
+     "votes": 9489,
+     "party": null,
+     "pct": 25.3310197544047,
+     "choice_id": "ALLYSE TANOVITZ",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "3305",
+   "state": "CA",
+   "title": "ANTIOCH UNIFIED SCHOOL DISTRICT  GOVERNING BOARD MEMBER  TRUSTEE AREA 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 15,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "MARY H ROCHA",
+     "votes": 1526,
+     "party": null,
+     "pct": 59.4931773879142,
+     "choice_id": "MARY H ROCHA",
+     "party_lines": null
+    },
+    {
+     "name": "BRANDON DAWKINS",
+     "votes": 1039,
+     "party": null,
+     "pct": 40.5068226120858,
+     "choice_id": "BRANDON DAWKINS",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "3311",
+   "state": "CA",
+   "title": "JOHN SWETT UNIFIED SCHOOL DISTRICT  GOVERNING BOARD MEMBER",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 15,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "SAMANTHA WATSON-ALVARADO",
+     "votes": 1371,
+     "party": null,
+     "pct": 34.0367428003972,
+     "choice_id": "SAMANTHA WATSON-ALVARADO",
+     "party_lines": null
+    },
+    {
+     "name": "TERRI BURK",
+     "votes": 1241,
+     "party": null,
+     "pct": 30.8093346573982,
+     "choice_id": "TERRI BURK",
+     "party_lines": null
+    },
+    {
+     "name": "SHANE REINHART",
+     "votes": 1113,
+     "party": null,
+     "pct": 27.6315789473684,
+     "choice_id": "SHANE REINHART",
+     "party_lines": null
+    },
+    {
+     "name": "BRUCE HOEGER",
+     "votes": 303,
+     "party": null,
+     "pct": 7.52234359483615,
+     "choice_id": "BRUCE HOEGER",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "3332",
+   "state": "CA",
+   "title": "MT. DIABLO UNIFIED SCHOOL DISTRICT  GOVERNING BOARD MEMBER  TRUSTEE AREA 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 52,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JANE BAULCH-ENLOE",
+     "votes": 6317,
+     "party": null,
+     "pct": 54.954327968682,
+     "choice_id": "JANE BAULCH-ENLOE",
+     "party_lines": null
+    },
+    {
+     "name": "DOROTHY WEISENBERGER",
+     "votes": 5178,
+     "party": null,
+     "pct": 45.045672031318,
+     "choice_id": "DOROTHY WEISENBERGER",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "3334",
+   "state": "CA",
+   "title": "MT. DIABLO UNIFIED SCHOOL DISTRICT  GOVERNING BOARD MEMBER  TRUSTEE AREA 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 54,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "BRIAN THOMAS LAWRENCE",
+     "votes": 8279,
+     "party": null,
+     "pct": 68.342413736173,
+     "choice_id": "BRIAN THOMAS LAWRENCE",
+     "party_lines": null
+    },
+    {
+     "name": "AL ANDERSON",
+     "votes": 3835,
+     "party": null,
+     "pct": 31.657586263827,
+     "choice_id": "AL ANDERSON",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "3355",
+   "state": "CA",
+   "title": "SAN RAMON VALLEY UNIFIED SCHOOL DISTRICT  GOVERNING BOARD MEMBER  TRUSTEE AREA 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 19,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "RACHEL HURD",
+     "votes": 4711,
+     "party": null,
+     "pct": 66.7564120731189,
+     "choice_id": "RACHEL HURD",
+     "party_lines": null
+    },
+    {
+     "name": "JOEL WOODS",
+     "votes": 2346,
+     "party": null,
+     "pct": 33.2435879268811,
+     "choice_id": "JOEL WOODS",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "3371",
+   "state": "CA",
+   "title": "LIVERMORE VALLEY JOINT UNIFIED SCHOOL DISTRICT  GOVERNING BOARD MEMBER  TRUSTEE AREA 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 8,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ANGELA M. BRADY",
+     "votes": 46,
+     "party": null,
+     "pct": 58.2278481012658,
+     "choice_id": "ANGELA M. BRADY",
+     "party_lines": null
+    },
+    {
+     "name": "DEBORAH GIBSON",
+     "votes": 33,
+     "party": null,
+     "pct": 41.7721518987342,
+     "choice_id": "DEBORAH GIBSON",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "3401",
+   "state": "CA",
+   "title": "ACALANES UNION HIGH SCHOOL DISTRICT  GOVERNING BOARD MEMBER  TRUSTEE AREA 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 12,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "STACEY SCHWEPPE",
+     "votes": 2402,
+     "party": null,
+     "pct": 58.0333413868084,
+     "choice_id": "STACEY SCHWEPPE",
+     "party_lines": null
+    },
+    {
+     "name": "NITHIN IYENGAR",
+     "votes": 1737,
+     "party": null,
+     "pct": 41.9666586131916,
+     "choice_id": "NITHIN IYENGAR",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "3417",
+   "state": "CA",
+   "title": "LIBERTY UNION HIGH SCHOOL DISTRICT  GOVERNING BOARD MEMBER  TRUSTEE AREA 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 54,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "TAMARA WEBER",
+     "votes": 2361,
+     "party": null,
+     "pct": 52.9728516939646,
+     "choice_id": "TAMARA WEBER",
+     "party_lines": null
+    },
+    {
+     "name": "HILLARY FAIRBAIRN PEDROTTI",
+     "votes": 2096,
+     "party": null,
+     "pct": 47.0271483060354,
+     "choice_id": "HILLARY FAIRBAIRN PEDROTTI",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "7011",
+   "state": "CA",
+   "title": "DIABLO COMMUNITY SERVICES DISTRICT  DIRECTOR",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "GREGORY R LORENZ",
+     "votes": 239,
+     "party": null,
+     "pct": 31.6556291390728,
+     "choice_id": "GREGORY R LORENZ",
+     "party_lines": null
+    },
+    {
+     "name": "ALAN BONNY",
+     "votes": 196,
+     "party": null,
+     "pct": 25.9602649006623,
+     "choice_id": "ALAN BONNY",
+     "party_lines": null
+    },
+    {
+     "name": "JESSICA RAEFIELD",
+     "votes": 163,
+     "party": null,
+     "pct": 21.5894039735099,
+     "choice_id": "JESSICA RAEFIELD",
+     "party_lines": null
+    },
+    {
+     "name": "STEVE LICHLITER",
+     "votes": 157,
+     "party": null,
+     "pct": 20.794701986755,
+     "choice_id": "STEVE LICHLITER",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "7033",
+   "state": "CA",
+   "title": "DUBLIN SAN RAMON SERVICES DISTRICT  DIRECTOR  DIVISION 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DONALD DOWNEY",
+     "votes": 2978,
+     "party": null,
+     "pct": 66.7114695340502,
+     "choice_id": "DONALD DOWNEY",
+     "party_lines": null
+    },
+    {
+     "name": "KISMAT KATHRANI",
+     "votes": 1486,
+     "party": null,
+     "pct": 33.2885304659498,
+     "choice_id": "KISMAT KATHRANI",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "7126",
+   "state": "CA",
+   "title": "MORAGA-ORINDA FIRE PROTECTION DISTRICT  DIRECTOR  DIVISION 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 20,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JOHN DONNELLY",
+     "votes": 1237,
+     "party": null,
+     "pct": 62.9516539440204,
+     "choice_id": "JOHN DONNELLY",
+     "party_lines": null
+    },
+    {
+     "name": "STEVE COHN",
+     "votes": 728,
+     "party": null,
+     "pct": 37.0483460559796,
+     "choice_id": "STEVE COHN",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "7127",
+   "state": "CA",
+   "title": "MORAGA-ORINDA FIRE PROTECTION DISTRICT  DIRECTOR  DIVISION 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "MIKE ROEMER",
+     "votes": 1383,
+     "party": null,
+     "pct": 63.6740331491713,
+     "choice_id": "MIKE ROEMER",
+     "party_lines": null
+    },
+    {
+     "name": "LINDA STEVENS",
+     "votes": 789,
+     "party": null,
+     "pct": 36.3259668508287,
+     "choice_id": "LINDA STEVENS",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "7526",
+   "state": "CA",
+   "title": "EAST BAY REGIONAL PARK DISTRICT  DIRECTOR  WARD 7",
+   "office_type": "local",
+   "district": "7",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 402,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "COLIN J. COFFEY",
+     "votes": 53020,
+     "party": null,
+     "pct": 82.2461800977274,
+     "choice_id": "COLIN J. COFFEY",
+     "party_lines": null
+    },
+    {
+     "name": "INDERPRIT 'INDY RISHI SINGH' SEKHON",
+     "votes": 11445,
+     "party": null,
+     "pct": 17.7538199022726,
+     "choice_id": "INDERPRIT 'INDY RISHI SINGH' SEKHON",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "7541",
+   "state": "CA",
+   "title": "PLEASANT HILL RECREATION &amp; PARK DISTRICT  DIRECTOR",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 39,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "SANDRA BONATO",
+     "votes": 6591,
+     "party": null,
+     "pct": 29.7938703553024,
+     "choice_id": "SANDRA BONATO",
+     "party_lines": null
+    },
+    {
+     "name": "DEREK M WURST",
+     "votes": 6521,
+     "party": null,
+     "pct": 29.4774432691438,
+     "choice_id": "DEREK M WURST",
+     "party_lines": null
+    },
+    {
+     "name": "ROBERT 'BOBBY' GLOVER",
+     "votes": 6413,
+     "party": null,
+     "pct": 28.9892414790706,
+     "choice_id": "ROBERT 'BOBBY' GLOVER",
+     "party_lines": null
+    },
+    {
+     "name": "RAUL ORTEGA",
+     "votes": 1943,
+     "party": null,
+     "pct": 8.78311183437302,
+     "choice_id": "RAUL ORTEGA",
+     "party_lines": null
+    },
+    {
+     "name": "ALEX NICHOL",
+     "votes": 654,
+     "party": null,
+     "pct": 2.95633306211012,
+     "choice_id": "ALEX NICHOL",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "7613",
+   "state": "CA",
+   "title": "CENTRAL CONTRA COSTA SANITARY DISTRICT  DIRECTOR  TRUSTEE AREA 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 65,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "MICHAEL ROBERT MCGILL",
+     "votes": 13419,
+     "party": null,
+     "pct": 76.6055831477993,
+     "choice_id": "MICHAEL ROBERT MCGILL",
+     "party_lines": null
+    },
+    {
+     "name": "BRIAN HENDERSON",
+     "votes": 4098,
+     "party": null,
+     "pct": 23.3944168522007,
+     "choice_id": "BRIAN HENDERSON",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "7621",
+   "state": "CA",
+   "title": "IRONHOUSE SANITARY DISTRICT  DIRECTOR",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 59,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "CHRIS LAURITZEN",
+     "votes": 3084,
+     "party": null,
+     "pct": 26.4493996569468,
+     "choice_id": "CHRIS LAURITZEN",
+     "party_lines": null
+    },
+    {
+     "name": "CHRIS A. CHRISTEAN",
+     "votes": 2774,
+     "party": null,
+     "pct": 23.7907375643225,
+     "choice_id": "CHRIS A. CHRISTEAN",
+     "party_lines": null
+    },
+    {
+     "name": "DAVE CORRIDON",
+     "votes": 2481,
+     "party": null,
+     "pct": 21.2778730703259,
+     "choice_id": "DAVE CORRIDON",
+     "party_lines": null
+    },
+    {
+     "name": "PASCHAL IWUH",
+     "votes": 2038,
+     "party": null,
+     "pct": 17.4785591766724,
+     "choice_id": "PASCHAL IWUH",
+     "party_lines": null
+    },
+    {
+     "name": "KERRY HARVEY",
+     "votes": 1283,
+     "party": null,
+     "pct": 11.0034305317324,
+     "choice_id": "KERRY HARVEY",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "7632",
+   "state": "CA",
+   "title": "MT. VIEW SANITARY DISTRICT  DIRECTOR  AREA 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "GWYNETH GILKEY",
+     "votes": 495,
+     "party": null,
+     "pct": 65.4761904761905,
+     "choice_id": "GWYNETH GILKEY",
+     "party_lines": null
+    },
+    {
+     "name": "ED MCGEE",
+     "votes": 261,
+     "party": null,
+     "pct": 34.5238095238095,
+     "choice_id": "ED MCGEE",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "7841",
+   "state": "CA",
+   "title": "CONTRA COSTA WATER DISTRICT  DIRECTOR  DIVISION 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 108,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DANIEL T. FITZPATRICK",
+     "votes": 10795,
+     "party": null,
+     "pct": 64.947957403285,
+     "choice_id": "DANIEL T. FITZPATRICK",
+     "party_lines": null
+    },
+    {
+     "name": "ALLISON PICARD",
+     "votes": 5826,
+     "party": null,
+     "pct": 35.052042596715,
+     "choice_id": "ALLISON PICARD",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "7411",
+   "state": "CA",
+   "title": "EAST BAY MUNICIPAL UTILITY DISTRICT  DIRECTOR  WARD 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 85,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "MARGUERITE YOUNG",
+     "votes": 11088,
+     "party": null,
+     "pct": 72.225117248567,
+     "choice_id": "MARGUERITE YOUNG",
+     "party_lines": null
+    },
+    {
+     "name": "DON GRAY",
+     "votes": 4264,
+     "party": null,
+     "pct": 27.774882751433,
+     "choice_id": "DON GRAY",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "7421",
+   "state": "CA",
+   "title": "EAST BAY MUNICIPAL UTILITY DISTRICT  DIRECTOR  WARD 7",
+   "office_type": "local",
+   "district": "7",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 8,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "GARY WOLFF",
+     "votes": 1619,
+     "party": null,
+     "pct": 47.3253434668226,
+     "choice_id": "GARY WOLFF",
+     "party_lines": null
+    },
+    {
+     "name": "APRIL CHAN",
+     "votes": 1476,
+     "party": null,
+     "pct": 43.1452791581409,
+     "choice_id": "APRIL CHAN",
+     "party_lines": null
+    },
+    {
+     "name": "LUIS REYNOSO",
+     "votes": 168,
+     "party": null,
+     "pct": 4.91084478222742,
+     "choice_id": "LUIS REYNOSO",
+     "party_lines": null
+    },
+    {
+     "name": "JOSEPH GRCAR",
+     "votes": 158,
+     "party": null,
+     "pct": 4.61853259280912,
+     "choice_id": "JOSEPH GRCAR",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "5006",
+   "state": "CA",
+   "title": "CITY OF ANTIOCH  MEMBER  CITY COUNCIL  DISTRICT 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 11,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JOY MOTTS",
+     "votes": 1536,
+     "party": null,
+     "pct": 56.2019758507135,
+     "choice_id": "JOY MOTTS",
+     "party_lines": null
+    },
+    {
+     "name": "TAMISHA TORRES-WALKER",
+     "votes": 1197,
+     "party": null,
+     "pct": 43.7980241492865,
+     "choice_id": "TAMISHA TORRES-WALKER",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "5012",
+   "state": "CA",
+   "title": "CITY OF ANTIOCH  MEMBER  CITY COUNCIL  DISTRICT 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 24,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "MONICA E WILSON",
+     "votes": 2102,
+     "party": null,
+     "pct": 45.4290036740869,
+     "choice_id": "MONICA E WILSON",
+     "party_lines": null
+    },
+    {
+     "name": "SANDRA G WHITE",
+     "votes": 1305,
+     "party": null,
+     "pct": 28.2040198832937,
+     "choice_id": "SANDRA G WHITE",
+     "party_lines": null
+    },
+    {
+     "name": "MATTY MATHEWS ALAPPAT",
+     "votes": 735,
+     "party": null,
+     "pct": 15.8850226928896,
+     "choice_id": "MATTY MATHEWS ALAPPAT",
+     "party_lines": null
+    },
+    {
+     "name": "ANDREW BECKER",
+     "votes": 485,
+     "party": null,
+     "pct": 10.4819537497298,
+     "choice_id": "ANDREW BECKER",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "5108",
+   "state": "CA",
+   "title": "CITY OF BRENTWOOD  MEMBER  CITY COUNCIL  DISTRICT 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 16,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "TAMMY ZICKUHR",
+     "votes": 1094,
+     "party": null,
+     "pct": 41.4865377322715,
+     "choice_id": "TAMMY ZICKUHR",
+     "party_lines": null
+    },
+    {
+     "name": "KRIS BRAND",
+     "votes": 932,
+     "party": null,
+     "pct": 35.3431930223739,
+     "choice_id": "KRIS BRAND",
+     "party_lines": null
+    },
+    {
+     "name": "VINOY MEREDDY",
+     "votes": 611,
+     "party": null,
+     "pct": 23.1702692453546,
+     "choice_id": "VINOY MEREDDY",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "5112",
+   "state": "CA",
+   "title": "CITY OF BRENTWOOD  MEMBER  CITY COUNCIL  DISTRICT 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 11,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "STEPHANIE WILLIAMS-ROGERS",
+     "votes": 1404,
+     "party": null,
+     "pct": 55.9808612440191,
+     "choice_id": "STEPHANIE WILLIAMS-ROGERS",
+     "party_lines": null
+    },
+    {
+     "name": "HOLLEY BISHOP-MELLO",
+     "votes": 833,
+     "party": null,
+     "pct": 33.2137161084529,
+     "choice_id": "HOLLEY BISHOP-MELLO",
+     "party_lines": null
+    },
+    {
+     "name": "SHEREE SHANNON",
+     "votes": 271,
+     "party": null,
+     "pct": 10.8054226475279,
+     "choice_id": "SHEREE SHANNON",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "5201",
+   "state": "CA",
+   "title": "CITY OF CLAYTON  MEMBER  CITY COUNCIL",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "CHARLES J. SCHMIDT",
+     "votes": 1634,
+     "party": null,
+     "pct": 30.2816901408451,
+     "choice_id": "CHARLES J. SCHMIDT",
+     "party_lines": null
+    },
+    {
+     "name": "AMY CALLAGHAN",
+     "votes": 1525,
+     "party": null,
+     "pct": 28.2616753150482,
+     "choice_id": "AMY CALLAGHAN",
+     "party_lines": null
+    },
+    {
+     "name": "KIM TRUPIANO",
+     "votes": 1146,
+     "party": null,
+     "pct": 21.2379540400297,
+     "choice_id": "KIM TRUPIANO",
+     "party_lines": null
+    },
+    {
+     "name": "MARIA SHULMAN",
+     "votes": 1091,
+     "party": null,
+     "pct": 20.2186805040771,
+     "choice_id": "MARIA SHULMAN",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "5316",
+   "state": "CA",
+   "title": "CITY OF CONCORD  CITY TREASURER",
+   "office_type": "treasurer",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 55,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "PATTI BARSOTTI",
+     "votes": 17226,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "PATTI BARSOTTI",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "5301",
+   "state": "CA",
+   "title": "CITY OF CONCORD  MEMBER  CITY COUNCIL  DISTRICT 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 9,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "LAURA HOFFMEISTER",
+     "votes": 2432,
+     "party": null,
+     "pct": 54.4802867383513,
+     "choice_id": "LAURA HOFFMEISTER",
+     "party_lines": null
+    },
+    {
+     "name": "MARIA BAGLEY",
+     "votes": 1392,
+     "party": null,
+     "pct": 31.1827956989247,
+     "choice_id": "MARIA BAGLEY",
+     "party_lines": null
+    },
+    {
+     "name": "TRISH BRAZIL",
+     "votes": 640,
+     "party": null,
+     "pct": 14.336917562724,
+     "choice_id": "TRISH BRAZIL",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "5303",
+   "state": "CA",
+   "title": "CITY OF CONCORD  MEMBER  CITY COUNCIL  DISTRICT 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ROBYN KUSLITS",
+     "votes": 463,
+     "party": null,
+     "pct": 29.3223559214693,
+     "choice_id": "ROBYN KUSLITS",
+     "party_lines": null
+    },
+    {
+     "name": "DENA ACOSTA BEERE",
+     "votes": 428,
+     "party": null,
+     "pct": 27.1057631412286,
+     "choice_id": "DENA ACOSTA BEERE",
+     "party_lines": null
+    },
+    {
+     "name": "DON SETA",
+     "votes": 408,
+     "party": null,
+     "pct": 25.8391386953768,
+     "choice_id": "DON SETA",
+     "party_lines": null
+    },
+    {
+     "name": "DOUGLAS LEZAMETA",
+     "votes": 280,
+     "party": null,
+     "pct": 17.7327422419253,
+     "choice_id": "DOUGLAS LEZAMETA",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "5305",
+   "state": "CA",
+   "title": "CITY OF CONCORD  MEMBER  CITY COUNCIL  DISTRICT 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 8,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "LAURA NAKAMURA",
+     "votes": 3260,
+     "party": null,
+     "pct": 64.0345708112355,
+     "choice_id": "LAURA NAKAMURA",
+     "party_lines": null
+    },
+    {
+     "name": "AEYSHA CORIO",
+     "votes": 1831,
+     "party": null,
+     "pct": 35.9654291887645,
+     "choice_id": "AEYSHA CORIO",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "5401",
+   "state": "CA",
+   "title": "TOWN OF DANVILLE  MEMBER  TOWN COUNCIL",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 19,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ROBERT STORER",
+     "votes": 9049,
+     "party": null,
+     "pct": 43.1171677705246,
+     "choice_id": "ROBERT STORER",
+     "party_lines": null
+    },
+    {
+     "name": "DENTON CARLSON",
+     "votes": 8293,
+     "party": null,
+     "pct": 39.5149378186496,
+     "choice_id": "DENTON CARLSON",
+     "party_lines": null
+    },
+    {
+     "name": "PRATIMA SONAVNE",
+     "votes": 3645,
+     "party": null,
+     "pct": 17.3678944108257,
+     "choice_id": "PRATIMA SONAVNE",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "5501",
+   "state": "CA",
+   "title": "CITY OF EL CERRITO  MEMBER  CITY COUNCIL",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 11,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "KIMBERLY WHITE",
+     "votes": 3227,
+     "party": null,
+     "pct": 24.9073788206236,
+     "choice_id": "KIMBERLY WHITE",
+     "party_lines": null
+    },
+    {
+     "name": "CAROLYN WYSINGER",
+     "votes": 2710,
+     "party": null,
+     "pct": 20.9169496758259,
+     "choice_id": "CAROLYN WYSINGER",
+     "party_lines": null
+    },
+    {
+     "name": "WALLY NOWINSKI",
+     "votes": 2708,
+     "party": null,
+     "pct": 20.9015128125965,
+     "choice_id": "WALLY NOWINSKI",
+     "party_lines": null
+    },
+    {
+     "name": "GABE QUINTO",
+     "votes": 2073,
+     "party": null,
+     "pct": 16.0003087372646,
+     "choice_id": "GABE QUINTO",
+     "party_lines": null
+    },
+    {
+     "name": "MARY ANN 'MJ' JAWILI",
+     "votes": 1476,
+     "party": null,
+     "pct": 11.3924050632911,
+     "choice_id": "MARY ANN 'MJ' JAWILI",
+     "party_lines": null
+    },
+    {
+     "name": "FORREST M. LANNING",
+     "votes": 762,
+     "party": null,
+     "pct": 5.88144489039827,
+     "choice_id": "FORREST M. LANNING",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "5601",
+   "state": "CA",
+   "title": "CITY OF HERCULES  MEMBER  CITY COUNCIL",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 10,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JOHN DELGADO",
+     "votes": 3631,
+     "party": null,
+     "pct": 39.7221310578711,
+     "choice_id": "JOHN DELGADO",
+     "party_lines": null
+    },
+    {
+     "name": "DION BAILEY",
+     "votes": 3230,
+     "party": null,
+     "pct": 35.3353024833169,
+     "choice_id": "DION BAILEY",
+     "party_lines": null
+    },
+    {
+     "name": "PREET SIDHU",
+     "votes": 1251,
+     "party": null,
+     "pct": 13.6855923859534,
+     "choice_id": "PREET SIDHU",
+     "party_lines": null
+    },
+    {
+     "name": "ADRENA BRECKENRIDGE",
+     "votes": 1024,
+     "party": null,
+     "pct": 11.2022754622033,
+     "choice_id": "ADRENA BRECKENRIDGE",
+     "party_lines": null
+    },
+    {
+     "name": "KOFI OPONG-MENSAH",
+     "votes": 5,
+     "party": null,
+     "pct": 0.0546986106552894,
+     "choice_id": "KOFI OPONG-MENSAH",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "5801",
+   "state": "CA",
+   "title": "TOWN OF MORAGA  MEMBER  TOWN COUNCIL",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 10,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "STEVEN WOEHLEKE",
+     "votes": 2753,
+     "party": null,
+     "pct": 35.0745317874889,
+     "choice_id": "STEVEN WOEHLEKE",
+     "party_lines": null
+    },
+    {
+     "name": "KERRY HILLIS",
+     "votes": 2417,
+     "party": null,
+     "pct": 30.793731685565,
+     "choice_id": "KERRY HILLIS",
+     "party_lines": null
+    },
+    {
+     "name": "ALEXIS I. MAPEL",
+     "votes": 2093,
+     "party": null,
+     "pct": 26.6658173015671,
+     "choice_id": "ALEXIS I. MAPEL",
+     "party_lines": null
+    },
+    {
+     "name": "BILL CARMAN",
+     "votes": 586,
+     "party": null,
+     "pct": 7.46591922537903,
+     "choice_id": "BILL CARMAN",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "5902",
+   "state": "CA",
+   "title": "CITY OF MARTINEZ  MEMBER  CITY COUNCIL  DISTRICT 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 11,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JAY HOWARD",
+     "votes": 1377,
+     "party": null,
+     "pct": 73.7152034261242,
+     "choice_id": "JAY HOWARD",
+     "party_lines": null
+    },
+    {
+     "name": "NAKENYA ALLEN",
+     "votes": 491,
+     "party": null,
+     "pct": 26.2847965738758,
+     "choice_id": "NAKENYA ALLEN",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "6101",
+   "state": "CA",
+   "title": "CITY OF ORINDA  MEMBER  CITY COUNCIL",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 14,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JANET RILEY",
+     "votes": 4382,
+     "party": null,
+     "pct": 29.9439661063277,
+     "choice_id": "JANET RILEY",
+     "party_lines": null
+    },
+    {
+     "name": "LATIKA MALKANI",
+     "votes": 4306,
+     "party": null,
+     "pct": 29.4246275796091,
+     "choice_id": "LATIKA MALKANI",
+     "party_lines": null
+    },
+    {
+     "name": "BRANDYN IVERSON",
+     "votes": 3919,
+     "party": null,
+     "pct": 26.7801011343447,
+     "choice_id": "BRANDYN IVERSON",
+     "party_lines": null
+    },
+    {
+     "name": "JUANA RUDATI",
+     "votes": 2027,
+     "party": null,
+     "pct": 13.8513051797185,
+     "choice_id": "JUANA RUDATI",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "6201",
+   "state": "CA",
+   "title": "CITY OF PINOLE  MEMBER  CITY COUNCIL",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 12,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "GABRIEL SANDOVAL",
+     "votes": 2529,
+     "party": null,
+     "pct": 24.2194981804252,
+     "choice_id": "GABRIEL SANDOVAL",
+     "party_lines": null
+    },
+    {
+     "name": "MATTHEW 'MATT' AVERY",
+     "votes": 2410,
+     "party": null,
+     "pct": 23.0798697567516,
+     "choice_id": "MATTHEW 'MATT' AVERY",
+     "party_lines": null
+    },
+    {
+     "name": "TRUC 'CHRISTY' LAM-JULIAN",
+     "votes": 2158,
+     "party": null,
+     "pct": 20.6665389772074,
+     "choice_id": "TRUC 'CHRISTY' LAM-JULIAN",
+     "party_lines": null
+    },
+    {
+     "name": "TINA BROWN",
+     "votes": 1778,
+     "party": null,
+     "pct": 17.0273893890059,
+     "choice_id": "TINA BROWN",
+     "party_lines": null
+    },
+    {
+     "name": "LIBBY DUARTE",
+     "votes": 1567,
+     "party": null,
+     "pct": 15.0067036966098,
+     "choice_id": "LIBBY DUARTE",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "6311",
+   "state": "CA",
+   "title": "CITY OF PITTSBURG  CITY CLERK",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 27,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ALICE E. EVENSON",
+     "votes": 2884,
+     "party": null,
+     "pct": 32.0408843461838,
+     "choice_id": "ALICE E. EVENSON",
+     "party_lines": null
+    },
+    {
+     "name": "ANGEL RODRIGUEZ",
+     "votes": 2658,
+     "party": null,
+     "pct": 29.5300522164204,
+     "choice_id": "ANGEL RODRIGUEZ",
+     "party_lines": null
+    },
+    {
+     "name": "LATOYYA P. ELLA BORDELON",
+     "votes": 1899,
+     "party": null,
+     "pct": 21.0976558160204,
+     "choice_id": "LATOYYA P. ELLA BORDELON",
+     "party_lines": null
+    },
+    {
+     "name": "MELAINE APPLE VENENCIANO",
+     "votes": 1560,
+     "party": null,
+     "pct": 17.3314076213754,
+     "choice_id": "MELAINE APPLE VENENCIANO",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "6316",
+   "state": "CA",
+   "title": "CITY OF PITTSBURG  CITY TREASURER",
+   "office_type": "treasurer",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 27,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "NANCY PARENT",
+     "votes": 7921,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "NANCY PARENT",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "6301",
+   "state": "CA",
+   "title": "CITY OF PITTSBURG  MEMBER  CITY COUNCIL",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 27,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DIONNE ADAMS",
+     "votes": 3508,
+     "party": null,
+     "pct": 13.9245028380899,
+     "choice_id": "DIONNE ADAMS",
+     "party_lines": null
+    },
+    {
+     "name": "ARLENE KOBATA (SIU LING)",
+     "votes": 3364,
+     "party": null,
+     "pct": 13.3529154923987,
+     "choice_id": "ARLENE KOBATA (SIU LING)",
+     "party_lines": null
+    },
+    {
+     "name": "SONJA SHEPHARD",
+     "votes": 3037,
+     "party": null,
+     "pct": 12.0549358948914,
+     "choice_id": "SONJA SHEPHARD",
+     "party_lines": null
+    },
+    {
+     "name": "WOLF CROSKEY",
+     "votes": 2874,
+     "party": null,
+     "pct": 11.4079307744215,
+     "choice_id": "WOLF CROSKEY",
+     "party_lines": null
+    },
+    {
+     "name": "PAULINE JOHNSON",
+     "votes": 2544,
+     "party": null,
+     "pct": 10.0980431072123,
+     "choice_id": "PAULINE JOHNSON",
+     "party_lines": null
+    },
+    {
+     "name": "IZTACCUAUHTLI HECTOR GONZALEZ",
+     "votes": 2431,
+     "party": null,
+     "pct": 9.64950581510737,
+     "choice_id": "IZTACCUAUHTLI HECTOR GONZALEZ",
+     "party_lines": null
+    },
+    {
+     "name": "ALVIN NELSON",
+     "votes": 2090,
+     "party": null,
+     "pct": 8.29595522565792,
+     "choice_id": "ALVIN NELSON",
+     "party_lines": null
+    },
+    {
+     "name": "C.C. CARDINALLI-MACALUSO",
+     "votes": 1803,
+     "party": null,
+     "pct": 7.15674989084269,
+     "choice_id": "C.C. CARDINALLI-MACALUSO",
+     "party_lines": null
+    },
+    {
+     "name": "AMHARI PERKINS",
+     "votes": 1729,
+     "party": null,
+     "pct": 6.86301750486246,
+     "choice_id": "AMHARI PERKINS",
+     "party_lines": null
+    },
+    {
+     "name": "CAROLYNNE BORN",
+     "votes": 1352,
+     "party": null,
+     "pct": 5.3665700789902,
+     "choice_id": "CAROLYNNE BORN",
+     "party_lines": null
+    },
+    {
+     "name": "MARK LINDE",
+     "votes": 461,
+     "party": null,
+     "pct": 1.8298733775255,
+     "choice_id": "MARK LINDE",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "6405",
+   "state": "CA",
+   "title": "CITY OF PLEASANT HILL  MEMBER  CITY COUNCIL  DISTRICT 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ZAC SHESS",
+     "votes": 1384,
+     "party": null,
+     "pct": 75.2582925502991,
+     "choice_id": "ZAC SHESS",
+     "party_lines": null
+    },
+    {
+     "name": "JASON SETO",
+     "votes": 455,
+     "party": null,
+     "pct": 24.7417074497009,
+     "choice_id": "JASON SETO",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "6407",
+   "state": "CA",
+   "title": "CITY OF PLEASANT HILL  MEMBER  CITY COUNCIL  DISTRICT 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "SUE NOACK",
+     "votes": 1189,
+     "party": null,
+     "pct": 60.570555272542,
+     "choice_id": "SUE NOACK",
+     "party_lines": null
+    },
+    {
+     "name": "QUY TRAN",
+     "votes": 774,
+     "party": null,
+     "pct": 39.429444727458,
+     "choice_id": "QUY TRAN",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "6501",
+   "state": "CA",
+   "title": "CITY OF RICHMOND  MAYOR",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 69,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "CLAUDIA JIMÉNEZ",
+     "votes": 8606,
+     "party": null,
+     "pct": 52.2082018927445,
+     "choice_id": "CLAUDIA JIMÉNEZ",
+     "party_lines": null
+    },
+    {
+     "name": "AHMAD ANDERSON",
+     "votes": 7878,
+     "party": null,
+     "pct": 47.7917981072555,
+     "choice_id": "AHMAD ANDERSON",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "6611",
+   "state": "CA",
+   "title": "CITY OF SAN PABLO  CITY CLERK",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 10,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DOROTHY GANTT",
+     "votes": 2592,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "DOROTHY GANTT",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "6616",
+   "state": "CA",
+   "title": "CITY OF SAN PABLO  CITY TREASURER",
+   "office_type": "treasurer",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 10,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "VIVIANA TOLEDO",
+     "votes": 2588,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "VIVIANA TOLEDO",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "6601",
+   "state": "CA",
+   "title": "CITY OF SAN PABLO  MEMBER  CITY COUNCIL",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 10,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "RITA XAVIER",
+     "votes": 1298,
+     "party": null,
+     "pct": 27.0473015211502,
+     "choice_id": "RITA XAVIER",
+     "party_lines": null
+    },
+    {
+     "name": "ELIZABETH PABON ALVARADO",
+     "votes": 1280,
+     "party": null,
+     "pct": 26.6722233798708,
+     "choice_id": "ELIZABETH PABON ALVARADO",
+     "party_lines": null
+    },
+    {
+     "name": "ANNA VILLALOBOS",
+     "votes": 1234,
+     "party": null,
+     "pct": 25.7136903521567,
+     "choice_id": "ANNA VILLALOBOS",
+     "party_lines": null
+    },
+    {
+     "name": "CADEN COTTON-BLAKE",
+     "votes": 987,
+     "party": null,
+     "pct": 20.5667847468223,
+     "choice_id": "CADEN COTTON-BLAKE",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "6701",
+   "state": "CA",
+   "title": "CITY OF SAN RAMON  MAYOR",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 43,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "MARK H. ARMSTRONG",
+     "votes": 12233,
+     "party": null,
+     "pct": 77.0000629445459,
+     "choice_id": "MARK H. ARMSTRONG",
+     "party_lines": null
+    },
+    {
+     "name": "PASCHALIS NTATSOS",
+     "votes": 2233,
+     "party": null,
+     "pct": 14.0555170894442,
+     "choice_id": "PASCHALIS NTATSOS",
+     "party_lines": null
+    },
+    {
+     "name": "EMMA CHIGBU",
+     "votes": 1421,
+     "party": null,
+     "pct": 8.94441996600995,
+     "choice_id": "EMMA CHIGBU",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "6708",
+   "state": "CA",
+   "title": "CITY OF SAN RAMON  MEMBER  CITY COUNCIL  DISTRICT 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 11,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "RICHARD J. ADLER",
+     "votes": 3364,
+     "party": null,
+     "pct": 70.9704641350211,
+     "choice_id": "RICHARD J. ADLER",
+     "party_lines": null
+    },
+    {
+     "name": "CHIRAG KATHRANI",
+     "votes": 1376,
+     "party": null,
+     "pct": 29.0295358649789,
+     "choice_id": "CHIRAG KATHRANI",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "6712",
+   "state": "CA",
+   "title": "CITY OF SAN RAMON  MEMBER  CITY COUNCIL  DISTRICT 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 15,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "MARISOL RUBIO",
+     "votes": 1949,
+     "party": null,
+     "pct": 51.7937815572681,
+     "choice_id": "MARISOL RUBIO",
+     "party_lines": null
+    },
+    {
+     "name": "JEFFREY JOH",
+     "votes": 1814,
+     "party": null,
+     "pct": 48.2062184427319,
+     "choice_id": "JEFFREY JOH",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "6811",
+   "state": "CA",
+   "title": "CITY OF WALNUT CREEK  CITY TREASURER",
+   "office_type": "treasurer",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 42,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "RONALD CASSANO",
+     "votes": 16358,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "RONALD CASSANO",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "6801",
+   "state": "CA",
+   "title": "CITY OF WALNUT CREEK  MEMBER  CITY COUNCIL",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 42,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "BRENDAN MORAN",
+     "votes": 14813,
+     "party": null,
+     "pct": 50.8269283557508,
+     "choice_id": "BRENDAN MORAN",
+     "party_lines": null
+    },
+    {
+     "name": "CHERISE MARIE KHAUND",
+     "votes": 14331,
+     "party": null,
+     "pct": 49.1730716442492,
+     "choice_id": "CHERISE MARIE KHAUND",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "8001",
+   "state": "CA",
+   "title": "PROPOSITION 1",
+   "office_type": "measure",
+   "district": "1",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 148361,
+     "party": null,
+     "pct": 63.2197720251412,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 86314,
+     "party": null,
+     "pct": 36.7802279748588,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "8002",
+   "state": "CA",
+   "title": "PROPOSITION 2",
+   "office_type": "measure",
+   "district": "2",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 153854,
+     "party": null,
+     "pct": 65.5107663091381,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 80999,
+     "party": null,
+     "pct": 34.4892336908619,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "8003",
+   "state": "CA",
+   "title": "PROPOSITION 3",
+   "office_type": "measure",
+   "district": "3",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 151389,
+     "party": null,
+     "pct": 64.0770165198657,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 84872,
+     "party": null,
+     "pct": 35.9229834801343,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "8004",
+   "state": "CA",
+   "title": "PROPOSITION 4",
+   "office_type": "measure",
+   "district": "4",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 122156,
+     "party": null,
+     "pct": 52.5460911757874,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 110318,
+     "party": null,
+     "pct": 47.4539088242126,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "8005",
+   "state": "CA",
+   "title": "PROPOSITION 5",
+   "office_type": "measure",
+   "district": "5",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 123905,
+     "party": null,
+     "pct": 53.8986884746721,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 105980,
+     "party": null,
+     "pct": 46.1013115253279,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "8006",
+   "state": "CA",
+   "title": "PROPOSITION 37",
+   "office_type": "measure",
+   "district": "37",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 153328,
+     "party": null,
+     "pct": 65.179668337308,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 81911,
+     "party": null,
+     "pct": 34.820331662692,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "8007",
+   "state": "CA",
+   "title": "PROPOSITION 38",
+   "office_type": "measure",
+   "district": "38",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 133052,
+     "party": null,
+     "pct": 56.4581079074109,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 102613,
+     "party": null,
+     "pct": 43.5418920925891,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "8008",
+   "state": "CA",
+   "title": "PROPOSITION 39",
+   "office_type": "measure",
+   "district": "39",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 161959,
+     "party": null,
+     "pct": 67.7632872677369,
+     "choice_id": "No",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 77048,
+     "party": null,
+     "pct": 32.2367127322631,
+     "choice_id": "Yes",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "8009",
+   "state": "CA",
+   "title": "PROPOSITION 40",
+   "office_type": "measure",
+   "district": "40",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 131940,
+     "party": null,
+     "pct": 55.4048492890677,
+     "choice_id": "No",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 106198,
+     "party": null,
+     "pct": 44.5951507109323,
+     "choice_id": "Yes",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "8010",
+   "state": "CA",
+   "title": "PROPOSITION 41",
+   "office_type": "measure",
+   "district": "41",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 135528,
+     "party": null,
+     "pct": 58.0325257559798,
+     "choice_id": "No",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 98010,
+     "party": null,
+     "pct": 41.9674742440202,
+     "choice_id": "Yes",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "8011",
+   "state": "CA",
+   "title": "PROPOSITION 42",
+   "office_type": "measure",
+   "district": "42",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 119373,
+     "party": null,
+     "pct": 50.4936297649866,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 117039,
+     "party": null,
+     "pct": 49.5063702350134,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "8012",
+   "state": "CA",
+   "title": "PROPOSITION 43",
+   "office_type": "measure",
+   "district": "43",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 140888,
+     "party": null,
+     "pct": 60.2497434143004,
+     "choice_id": "No",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 92952,
+     "party": null,
+     "pct": 39.7502565856996,
+     "choice_id": "Yes",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "8013",
+   "state": "CA",
+   "title": "PROPOSITION 44",
+   "office_type": "measure",
+   "district": "44",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 190475,
+     "party": null,
+     "pct": 81.4949984169498,
+     "choice_id": "No",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 43251,
+     "party": null,
+     "pct": 18.5050015830502,
+     "choice_id": "Yes",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "8014",
+   "state": "CA",
+   "title": "PROPOSITION 45",
+   "office_type": "measure",
+   "district": "45",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 142063,
+     "party": null,
+     "pct": 60.822191111054,
+     "choice_id": "No",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 91508,
+     "party": null,
+     "pct": 39.177808888946,
+     "choice_id": "Yes",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "9001",
+   "state": "CA",
+   "title": "MEASURE RTM - REGIONAL TRANSIT MEASURE - MAJORITY",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 951,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 127604,
+     "party": null,
+     "pct": 56.1973716661382,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 99460,
+     "party": null,
+     "pct": 43.8026283338618,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "9002",
+   "state": "CA",
+   "title": "MEASURE W - ACALANES UNION HIGH SCHOOL DISTRICT - 2/3",
+   "office_type": "measure",
+   "district": "w",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 111,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 24652,
+     "party": null,
+     "pct": 70.0938299687233,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 10518,
+     "party": null,
+     "pct": 29.9061700312767,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "9003",
+   "state": "CA",
+   "title": "MEASURE X - LIBERTY UNION HIGH SCHOOL DISTRICT - 55%",
+   "office_type": "measure",
+   "district": "x",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 208,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 13075,
+     "party": null,
+     "pct": 53.0942905871843,
+     "choice_id": "No",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 11551,
+     "party": null,
+     "pct": 46.9057094128157,
+     "choice_id": "Yes",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "9004",
+   "state": "CA",
+   "title": "MEASURE V - WEST CONTRA COSTA UNIFIED SCHOOL DISTRICT - 2/3",
+   "office_type": "measure",
+   "district": "v",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 152,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 31541,
+     "party": null,
+     "pct": 72.6132099362295,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 11896,
+     "party": null,
+     "pct": 27.3867900637705,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "9005",
+   "state": "CA",
+   "title": "MEASURE M - CITY OF CLAYTON - MAJORITY",
+   "office_type": "measure",
+   "district": "m",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 1729,
+     "party": null,
+     "pct": 57.4227831285287,
+     "choice_id": "No",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 1282,
+     "party": null,
+     "pct": 42.5772168714713,
+     "choice_id": "Yes",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "9006",
+   "state": "CA",
+   "title": "MEASURE N - CITY OF CLAYTON - 2/3",
+   "office_type": "measure",
+   "district": "n",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1628,
+     "party": null,
+     "pct": 54.3572621035058,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 1367,
+     "party": null,
+     "pct": 45.6427378964942,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "9007",
+   "state": "CA",
+   "title": "MEASURE O - CITY OF CONCORD - MAJORITY",
+   "office_type": "measure",
+   "district": "o",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 55,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 15408,
+     "party": null,
+     "pct": 73.8957364155196,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 5443,
+     "party": null,
+     "pct": 26.1042635844804,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "9008",
+   "state": "CA",
+   "title": "MEASURE P - CITY OF HERCULES - MAJORITY",
+   "office_type": "measure",
+   "district": "p",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 10,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2938,
+     "party": null,
+     "pct": 53.622923891221,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 2541,
+     "party": null,
+     "pct": 46.377076108779,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "9009",
+   "state": "CA",
+   "title": "MEASURE Q - CITY OF RICHMOND - 2/3",
+   "office_type": "measure",
+   "district": "q",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 69,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 11088,
+     "party": null,
+     "pct": 68.3853459972863,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 5126,
+     "party": null,
+     "pct": 31.6146540027137,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "9010",
+   "state": "CA",
+   "title": "MEASURE R - CITY OF SAN PABLO - MAJORITY",
+   "office_type": "measure",
+   "district": "r",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 10,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2026,
+     "party": null,
+     "pct": 70.3716568252866,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 853,
+     "party": null,
+     "pct": 29.6283431747134,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "9011",
+   "state": "CA",
+   "title": "MEASURE S - CITY OF SAN PABLO - MAJORITY",
+   "office_type": "measure",
+   "district": "s",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 10,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1681,
+     "party": null,
+     "pct": 58.5918438480307,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 1188,
+     "party": null,
+     "pct": 41.4081561519693,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "9012",
+   "state": "CA",
+   "title": "MEASURE T - CITY OF WALNUT CREEK - MAJORITY",
+   "office_type": "measure",
+   "district": "t",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 42,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 12088,
+     "party": null,
+     "pct": 60.7956545792888,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 7795,
+     "party": null,
+     "pct": 39.2043454207112,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  },
+  {
+   "source": "ca.contra_costa",
+   "contest_id": "9013",
+   "state": "CA",
+   "title": "MEASURE U - CITY OF WALNUT CREEK - MAJORITY",
+   "office_type": "measure",
+   "district": "u",
+   "jurisdiction": "Contra Costa County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 42,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 14487,
+     "party": null,
+     "pct": 72.0459518599562,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 5621,
+     "party": null,
+     "pct": 27.9540481400438,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Contra_Costa/127405/"
+  }
+ ],
+ "contests_hash": "af499df3d570394e",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-04T05:23:49+00:00",
+ "fetched_at": "2026-11-04T05:23:49+00:00",
+ "contests_changed_at": "2026-11-04T05:23:49+00:00"
 }

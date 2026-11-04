@@ -1,8 +1,6872 @@
 {
  "source": "sc",
- "contests": [],
- "contests_hash": null,
- "status": "not_published",
- "message": "no 2026-11-03 election listed",
- "last_attempt_at": "2026-11-04T04:10:56+00:00"
+ "contests": [
+  {
+   "source": "sc",
+   "contest_id": "Governor and Lieutenant Governor",
+   "state": "SC",
+   "title": "Governor and Lieutenant Governor",
+   "office_type": "governor",
+   "district": null,
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Michael Addison / Candace Brewer",
+     "votes": 16039,
+     "party": "UNC",
+     "pct": 0.79,
+     "choice_id": "UNC Michael Addison / Candace Brewer",
+     "party_lines": null
+    },
+    {
+     "name": "Walid Hakim / Arnold E Karr",
+     "votes": 9010,
+     "party": "GRN",
+     "pct": 0.45,
+     "choice_id": "GRN Walid Hakim / Arnold E Karr",
+     "party_lines": null
+    },
+    {
+     "name": "Alan Wilson / Mike Reichenbach",
+     "votes": 1046730,
+     "party": "REP",
+     "pct": 51.74,
+     "choice_id": "REP Alan Wilson / Mike Reichenbach",
+     "party_lines": null
+    },
+    {
+     "name": "Jermaine Johnson / Sam Skardon",
+     "votes": 951437,
+     "party": "DEM",
+     "pct": 47.03,
+     "choice_id": "DEM Jermaine Johnson / Sam Skardon",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "Secretary of State",
+   "state": "SC",
+   "title": "Secretary of State",
+   "office_type": "secretary_of_state",
+   "district": null,
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Mark Hammond",
+     "votes": 1069228,
+     "party": "REP",
+     "pct": 53.13,
+     "choice_id": "REP Mark Hammond",
+     "party_lines": null
+    },
+    {
+     "name": "Jason Belton",
+     "votes": 943387,
+     "party": "DEM",
+     "pct": 46.87,
+     "choice_id": "DEM Jason Belton",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State Treasurer",
+   "state": "SC",
+   "title": "State Treasurer",
+   "office_type": "treasurer",
+   "district": null,
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Curtis Loftis",
+     "votes": 1058314,
+     "party": "REP",
+     "pct": 52.68,
+     "choice_id": "REP Curtis Loftis",
+     "party_lines": null
+    },
+    {
+     "name": "Vincent Coe",
+     "votes": 950684,
+     "party": "DEM",
+     "pct": 47.32,
+     "choice_id": "DEM Vincent Coe",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "Attorney General",
+   "state": "SC",
+   "title": "Attorney General",
+   "office_type": "attorney_general",
+   "district": null,
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "David Stumbo",
+     "votes": 1055038,
+     "party": "REP",
+     "pct": 52.46,
+     "choice_id": "REP David Stumbo",
+     "party_lines": null
+    },
+    {
+     "name": "Richard Hricik",
+     "votes": 956014,
+     "party": "DEM",
+     "pct": 47.54,
+     "choice_id": "DEM Richard Hricik",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "Comptroller General",
+   "state": "SC",
+   "title": "Comptroller General",
+   "office_type": "controller",
+   "district": null,
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Mike Burkhold",
+     "votes": 1044290,
+     "party": "REP",
+     "pct": 52.2,
+     "choice_id": "REP Mike Burkhold",
+     "party_lines": null
+    },
+    {
+     "name": "Tiffany Boozer",
+     "votes": 956177,
+     "party": "DEM",
+     "pct": 47.8,
+     "choice_id": "DEM Tiffany Boozer",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State Superintendent of Education",
+   "state": "SC",
+   "title": "State Superintendent of Education",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Baba Amin Ojuok",
+     "votes": 15369,
+     "party": "UNC",
+     "pct": 0.76,
+     "choice_id": "UNC Baba Amin Ojuok",
+     "party_lines": null
+    },
+    {
+     "name": "Ellen Weaver",
+     "votes": 1028328,
+     "party": "REP",
+     "pct": 51.13,
+     "choice_id": "REP Ellen Weaver",
+     "party_lines": null
+    },
+    {
+     "name": "Sylvia Wright",
+     "votes": 967531,
+     "party": "DEM",
+     "pct": 48.11,
+     "choice_id": "DEM Sylvia Wright",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "Commissioner of Agriculture",
+   "state": "SC",
+   "title": "Commissioner of Agriculture",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Chris Nelums",
+     "votes": 15907,
+     "party": "UNC",
+     "pct": 0.79,
+     "choice_id": "UNC Chris Nelums",
+     "party_lines": null
+    },
+    {
+     "name": "Cody Simpson",
+     "votes": 1038401,
+     "party": "REP",
+     "pct": 51.74,
+     "choice_id": "REP Cody Simpson",
+     "party_lines": null
+    },
+    {
+     "name": "Michael Sullens",
+     "votes": 38206,
+     "party": "LIB",
+     "pct": 1.9,
+     "choice_id": "LIB Michael Sullens",
+     "party_lines": null
+    },
+    {
+     "name": "DeShawn Blanding",
+     "votes": 914384,
+     "party": "DEM",
+     "pct": 45.56,
+     "choice_id": "DEM DeShawn Blanding",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "U.S. Senate",
+   "state": "SC",
+   "title": "U.S. Senate",
+   "office_type": "federal_senate",
+   "district": null,
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Darline Graham",
+     "votes": 948133,
+     "party": "REP",
+     "pct": 46.87,
+     "choice_id": "REP Darline Graham",
+     "party_lines": null
+    },
+    {
+     "name": "Kasie Whitener",
+     "votes": 23441,
+     "party": "LIB",
+     "pct": 1.16,
+     "choice_id": "LIB Kasie Whitener",
+     "party_lines": null
+    },
+    {
+     "name": "Annie Andrews",
+     "votes": 1034418,
+     "party": "DEM",
+     "pct": 51.14,
+     "choice_id": "DEM Annie Andrews",
+     "party_lines": null
+    },
+    {
+     "name": "Mark Hackett",
+     "votes": 16722,
+     "party": "CON",
+     "pct": 0.83,
+     "choice_id": "CON Mark Hackett",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "U.S. House of Representatives, District 1",
+   "state": "SC",
+   "title": "U.S. House of Representatives, District 1",
+   "office_type": "federal_house",
+   "district": "1",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Jenny Costa Honeycutt",
+     "votes": 156521,
+     "party": "REP",
+     "pct": 48.81,
+     "choice_id": "REP Jenny Costa Honeycutt",
+     "party_lines": null
+    },
+    {
+     "name": "Bill Reeside",
+     "votes": 5252,
+     "party": "LIB",
+     "pct": 1.64,
+     "choice_id": "LIB Bill Reeside",
+     "party_lines": null
+    },
+    {
+     "name": "Nancy Lacore",
+     "votes": 158877,
+     "party": "DEM",
+     "pct": 49.55,
+     "choice_id": "DEM Nancy Lacore",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "U.S. House of Representatives, District 2",
+   "state": "SC",
+   "title": "U.S. House of Representatives, District 2",
+   "office_type": "federal_house",
+   "district": "2",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Joe Wilson",
+     "votes": 147193,
+     "party": "REP",
+     "pct": 50.08,
+     "choice_id": "REP Joe Wilson",
+     "party_lines": null
+    },
+    {
+     "name": "Zyon Khalifa",
+     "votes": 143084,
+     "party": "DEM",
+     "pct": 48.68,
+     "choice_id": "DEM Zyon Khalifa",
+     "party_lines": null
+    },
+    {
+     "name": "WRK Dayna Alane Smith",
+     "votes": 3653,
+     "party": null,
+     "pct": 1.24,
+     "choice_id": "WRK Dayna Alane Smith",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "U.S. House of Representatives, District 3",
+   "state": "SC",
+   "title": "U.S. House of Representatives, District 3",
+   "office_type": "federal_house",
+   "district": "3",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Sheri Biggs",
+     "votes": 173801,
+     "party": "REP",
+     "pct": 63.73,
+     "choice_id": "REP Sheri Biggs",
+     "party_lines": null
+    },
+    {
+     "name": "Brian Corriea",
+     "votes": 5094,
+     "party": "LIB",
+     "pct": 1.87,
+     "choice_id": "LIB Brian Corriea",
+     "party_lines": null
+    },
+    {
+     "name": "Eunice Lehmacher",
+     "votes": 93821,
+     "party": "DEM",
+     "pct": 34.4,
+     "choice_id": "DEM Eunice Lehmacher",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "U.S. House of Representatives, District 4",
+   "state": "SC",
+   "title": "U.S. House of Representatives, District 4",
+   "office_type": "federal_house",
+   "district": "4",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "William Timmons",
+     "votes": 146808,
+     "party": "REP",
+     "pct": 51.77,
+     "choice_id": "REP William Timmons",
+     "party_lines": null
+    },
+    {
+     "name": "Jessica Ethridge",
+     "votes": 7205,
+     "party": "LIB",
+     "pct": 2.54,
+     "choice_id": "LIB Jessica Ethridge",
+     "party_lines": null
+    },
+    {
+     "name": "Courtney McClain",
+     "votes": 129561,
+     "party": "DEM",
+     "pct": 45.69,
+     "choice_id": "DEM Courtney McClain",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "U.S. House of Representatives, District 5",
+   "state": "SC",
+   "title": "U.S. House of Representatives, District 5",
+   "office_type": "federal_house",
+   "district": "5",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Wes Climer",
+     "votes": 151553,
+     "party": "REP",
+     "pct": 52.86,
+     "choice_id": "REP Wes Climer",
+     "party_lines": null
+    },
+    {
+     "name": "Mallory Dittmer",
+     "votes": 135157,
+     "party": "DEM",
+     "pct": 47.14,
+     "choice_id": "DEM Mallory Dittmer",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "U.S. House of Representatives, District 6",
+   "state": "SC",
+   "title": "U.S. House of Representatives, District 6",
+   "office_type": "federal_house",
+   "district": "6",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "John Peterson",
+     "votes": 78852,
+     "party": "REP",
+     "pct": 30.74,
+     "choice_id": "REP John Peterson",
+     "party_lines": null
+    },
+    {
+     "name": "James E Jim Clyburn",
+     "votes": 177678,
+     "party": "DEM",
+     "pct": 69.26,
+     "choice_id": "DEM James E Jim Clyburn",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "U.S. House of Representatives, District 7",
+   "state": "SC",
+   "title": "U.S. House of Representatives, District 7",
+   "office_type": "federal_house",
+   "district": "7",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Russell Fry",
+     "votes": 172124,
+     "party": "REP",
+     "pct": 56.78,
+     "choice_id": "REP Russell Fry",
+     "party_lines": null
+    },
+    {
+     "name": "John Gregory Vincent",
+     "votes": 130993,
+     "party": "DEM",
+     "pct": 43.22,
+     "choice_id": "DEM John Gregory Vincent",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State Senate District 15 (Unexpired Term)",
+   "state": "SC",
+   "title": "State Senate District 15 (Unexpired Term)",
+   "office_type": "state_senate",
+   "district": "15",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "James Burns",
+     "votes": 26496,
+     "party": "REP",
+     "pct": 53.75,
+     "choice_id": "REP James Burns",
+     "party_lines": null
+    },
+    {
+     "name": "Chad Williams",
+     "votes": 22803,
+     "party": "DEM",
+     "pct": 46.25,
+     "choice_id": "DEM Chad Williams",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 1",
+   "state": "SC",
+   "title": "State House of Representatives, District 1",
+   "office_type": "state_house",
+   "district": "1",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Bill Whitmire",
+     "votes": 13839,
+     "party": "REP",
+     "pct": 75.95,
+     "choice_id": "REP Bill Whitmire",
+     "party_lines": null
+    },
+    {
+     "name": "Jasmine Williams",
+     "votes": 4383,
+     "party": "DEM",
+     "pct": 24.05,
+     "choice_id": "DEM Jasmine Williams",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 2",
+   "state": "SC",
+   "title": "State House of Representatives, District 2",
+   "office_type": "state_house",
+   "district": "2",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Adam Duncan",
+     "votes": 10977,
+     "party": "REP",
+     "pct": 66.0,
+     "choice_id": "REP Adam Duncan",
+     "party_lines": null
+    },
+    {
+     "name": "Christopher Damian Des Marais",
+     "votes": 207,
+     "party": "LIB",
+     "pct": 1.24,
+     "choice_id": "LIB Christopher Damian Des Marais",
+     "party_lines": null
+    },
+    {
+     "name": "Candace Schutt",
+     "votes": 5449,
+     "party": "DEM",
+     "pct": 32.76,
+     "choice_id": "DEM Candace Schutt",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 3",
+   "state": "SC",
+   "title": "State House of Representatives, District 3",
+   "office_type": "state_house",
+   "district": "3",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Phillip Bowers",
+     "votes": 5603,
+     "party": "REP",
+     "pct": 54.2,
+     "choice_id": "REP Phillip Bowers",
+     "party_lines": null
+    },
+    {
+     "name": "Claiborne Linvill",
+     "votes": 4735,
+     "party": "DEM",
+     "pct": 45.8,
+     "choice_id": "DEM Claiborne Linvill",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 4",
+   "state": "SC",
+   "title": "State House of Representatives, District 4",
+   "office_type": "state_house",
+   "district": "4",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Clay Counts",
+     "votes": 12235,
+     "party": "REP",
+     "pct": 80.67,
+     "choice_id": "REP Clay Counts",
+     "party_lines": null
+    },
+    {
+     "name": "Derrick Kruse",
+     "votes": 2931,
+     "party": "DEM",
+     "pct": 19.33,
+     "choice_id": "DEM Derrick Kruse",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 5",
+   "state": "SC",
+   "title": "State House of Representatives, District 5",
+   "office_type": "state_house",
+   "district": "5",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Neal Collins",
+     "votes": 10608,
+     "party": "REP",
+     "pct": 68.95,
+     "choice_id": "REP Neal Collins",
+     "party_lines": null
+    },
+    {
+     "name": "David F Jones",
+     "votes": 4777,
+     "party": "DEM",
+     "pct": 31.05,
+     "choice_id": "DEM David F Jones",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 6",
+   "state": "SC",
+   "title": "State House of Representatives, District 6",
+   "office_type": "state_house",
+   "district": "6",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "April Cromer",
+     "votes": 11402,
+     "party": "REP",
+     "pct": 65.81,
+     "choice_id": "REP April Cromer",
+     "party_lines": null
+    },
+    {
+     "name": "Jennifer Bachner",
+     "votes": 5923,
+     "party": "DEM",
+     "pct": 34.19,
+     "choice_id": "DEM Jennifer Bachner",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 7",
+   "state": "SC",
+   "title": "State House of Representatives, District 7",
+   "office_type": "state_house",
+   "district": "7",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Lee Gilreath",
+     "votes": 8644,
+     "party": "REP",
+     "pct": 67.49,
+     "choice_id": "REP Lee Gilreath",
+     "party_lines": null
+    },
+    {
+     "name": "Elizabeth W Cooley",
+     "votes": 4164,
+     "party": "DEM",
+     "pct": 32.51,
+     "choice_id": "DEM Elizabeth W Cooley",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 8",
+   "state": "SC",
+   "title": "State House of Representatives, District 8",
+   "office_type": "state_house",
+   "district": "8",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Don Chapman",
+     "votes": 9703,
+     "party": "REP",
+     "pct": 65.06,
+     "choice_id": "REP Don Chapman",
+     "party_lines": null
+    },
+    {
+     "name": "Demetrius Carson",
+     "votes": 5212,
+     "party": "DEM",
+     "pct": 34.94,
+     "choice_id": "DEM Demetrius Carson",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 9",
+   "state": "SC",
+   "title": "State House of Representatives, District 9",
+   "office_type": "state_house",
+   "district": "9",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Blake Sanders",
+     "votes": 8998,
+     "party": "REP",
+     "pct": 65.63,
+     "choice_id": "REP Blake Sanders",
+     "party_lines": null
+    },
+    {
+     "name": "Johnny Estrich",
+     "votes": 4713,
+     "party": "DEM",
+     "pct": 34.37,
+     "choice_id": "DEM Johnny Estrich",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 10",
+   "state": "SC",
+   "title": "State House of Representatives, District 10",
+   "office_type": "state_house",
+   "district": "10",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Thomas Beach",
+     "votes": 9865,
+     "party": "REP",
+     "pct": 66.19,
+     "choice_id": "REP Thomas Beach",
+     "party_lines": null
+    },
+    {
+     "name": "Thomas Stewart",
+     "votes": 5039,
+     "party": "DEM",
+     "pct": 33.81,
+     "choice_id": "DEM Thomas Stewart",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 11",
+   "state": "SC",
+   "title": "State House of Representatives, District 11",
+   "office_type": "state_house",
+   "district": "11",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "E T Stone",
+     "votes": 138,
+     "party": "UNC",
+     "pct": 1.0,
+     "choice_id": "UNC E T Stone",
+     "party_lines": null
+    },
+    {
+     "name": "Craig Gagnon",
+     "votes": 9263,
+     "party": "REP",
+     "pct": 67.08,
+     "choice_id": "REP Craig Gagnon",
+     "party_lines": null
+    },
+    {
+     "name": "Jessica Beasley",
+     "votes": 4407,
+     "party": "DEM",
+     "pct": 31.92,
+     "choice_id": "DEM Jessica Beasley",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 12",
+   "state": "SC",
+   "title": "State House of Representatives, District 12",
+   "office_type": "state_house",
+   "district": "12",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Daniel Gibson",
+     "votes": 6198,
+     "party": "REP",
+     "pct": 45.08,
+     "choice_id": "REP Daniel Gibson",
+     "party_lines": null
+    },
+    {
+     "name": "Jumelle Brooks",
+     "votes": 7550,
+     "party": "DEM",
+     "pct": 54.92,
+     "choice_id": "DEM Jumelle Brooks",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 13",
+   "state": "SC",
+   "title": "State House of Representatives, District 13",
+   "office_type": "state_house",
+   "district": "13",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "John McCravy",
+     "votes": 11235,
+     "party": "REP",
+     "pct": 66.94,
+     "choice_id": "REP John McCravy",
+     "party_lines": null
+    },
+    {
+     "name": "C Rauch Wise",
+     "votes": 5548,
+     "party": "DEM",
+     "pct": 33.06,
+     "choice_id": "DEM C Rauch Wise",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 14",
+   "state": "SC",
+   "title": "State House of Representatives, District 14",
+   "office_type": "state_house",
+   "district": "14",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Henry D Jones",
+     "votes": 156,
+     "party": "UNC",
+     "pct": 1.08,
+     "choice_id": "UNC Henry D Jones",
+     "party_lines": null
+    },
+    {
+     "name": "Rick Shealy",
+     "votes": 8959,
+     "party": "REP",
+     "pct": 62.06,
+     "choice_id": "REP Rick Shealy",
+     "party_lines": null
+    },
+    {
+     "name": "Michanna Tate",
+     "votes": 5321,
+     "party": "DEM",
+     "pct": 36.86,
+     "choice_id": "DEM Michanna Tate",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 15",
+   "state": "SC",
+   "title": "State House of Representatives, District 15",
+   "office_type": "state_house",
+   "district": "15",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Heather Hickman",
+     "votes": 2991,
+     "party": "REP",
+     "pct": 30.98,
+     "choice_id": "REP Heather Hickman",
+     "party_lines": null
+    },
+    {
+     "name": "Melissa Couture",
+     "votes": 202,
+     "party": "LIB",
+     "pct": 2.09,
+     "choice_id": "LIB Melissa Couture",
+     "party_lines": null
+    },
+    {
+     "name": "JA Moore",
+     "votes": 6461,
+     "party": "DEM",
+     "pct": 66.93,
+     "choice_id": "DEM JA Moore",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 16",
+   "state": "SC",
+   "title": "State House of Representatives, District 16",
+   "office_type": "state_house",
+   "district": "16",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Mark N Willis",
+     "votes": 10764,
+     "party": "REP",
+     "pct": 58.24,
+     "choice_id": "REP Mark N Willis",
+     "party_lines": null
+    },
+    {
+     "name": "Lynn Ramirez",
+     "votes": 7718,
+     "party": "DEM",
+     "pct": 41.76,
+     "choice_id": "DEM Lynn Ramirez",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 17",
+   "state": "SC",
+   "title": "State House of Representatives, District 17",
+   "office_type": "state_house",
+   "district": "17",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Mike Burns",
+     "votes": 13654,
+     "party": "REP",
+     "pct": 71.69,
+     "choice_id": "REP Mike Burns",
+     "party_lines": null
+    },
+    {
+     "name": "Rich Nicoloff",
+     "votes": 5393,
+     "party": "DEM",
+     "pct": 28.31,
+     "choice_id": "DEM Rich Nicoloff",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 18",
+   "state": "SC",
+   "title": "State House of Representatives, District 18",
+   "office_type": "state_house",
+   "district": "18",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Alan Morgan",
+     "votes": 11761,
+     "party": "REP",
+     "pct": 66.94,
+     "choice_id": "REP Alan Morgan",
+     "party_lines": null
+    },
+    {
+     "name": "Virginia B Maclure",
+     "votes": 5808,
+     "party": "DEM",
+     "pct": 33.06,
+     "choice_id": "DEM Virginia B Maclure",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 19",
+   "state": "SC",
+   "title": "State House of Representatives, District 19",
+   "office_type": "state_house",
+   "district": "19",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Patrick B Haddon",
+     "votes": 6749,
+     "party": "REP",
+     "pct": 51.41,
+     "choice_id": "REP Patrick B Haddon",
+     "party_lines": null
+    },
+    {
+     "name": "Rachel Smith",
+     "votes": 6380,
+     "party": "DEM",
+     "pct": 48.59,
+     "choice_id": "DEM Rachel Smith",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 20",
+   "state": "SC",
+   "title": "State House of Representatives, District 20",
+   "office_type": "state_house",
+   "district": "20",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Stephen D Frank",
+     "votes": 9860,
+     "party": "REP",
+     "pct": 61.01,
+     "choice_id": "REP Stephen D Frank",
+     "party_lines": null
+    },
+    {
+     "name": "Polly Elbertse",
+     "votes": 6302,
+     "party": "DEM",
+     "pct": 38.99,
+     "choice_id": "DEM Polly Elbertse",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 21",
+   "state": "SC",
+   "title": "State House of Representatives, District 21",
+   "office_type": "state_house",
+   "district": "21",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Dianne Mitchell",
+     "votes": 11573,
+     "party": "REP",
+     "pct": 60.88,
+     "choice_id": "REP Dianne Mitchell",
+     "party_lines": null
+    },
+    {
+     "name": "Dexter Reaves",
+     "votes": 7436,
+     "party": "DEM",
+     "pct": 39.12,
+     "choice_id": "DEM Dexter Reaves",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 22",
+   "state": "SC",
+   "title": "State House of Representatives, District 22",
+   "office_type": "state_house",
+   "district": "22",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Paul Wickensimer",
+     "votes": 9856,
+     "party": "REP",
+     "pct": 52.63,
+     "choice_id": "REP Paul Wickensimer",
+     "party_lines": null
+    },
+    {
+     "name": "Josh Kendrick",
+     "votes": 8872,
+     "party": "DEM",
+     "pct": 47.37,
+     "choice_id": "DEM Josh Kendrick",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 23",
+   "state": "SC",
+   "title": "State House of Representatives, District 23",
+   "office_type": "state_house",
+   "district": "23",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Chandra Dillard",
+     "votes": 9253,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Chandra Dillard",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 24",
+   "state": "SC",
+   "title": "State House of Representatives, District 24",
+   "office_type": "state_house",
+   "district": "24",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Bruce Bannister",
+     "votes": 10192,
+     "party": "REP",
+     "pct": 52.07,
+     "choice_id": "REP Bruce Bannister",
+     "party_lines": null
+    },
+    {
+     "name": "Caroline Avinger",
+     "votes": 9382,
+     "party": "DEM",
+     "pct": 47.93,
+     "choice_id": "DEM Caroline Avinger",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 25",
+   "state": "SC",
+   "title": "State House of Representatives, District 25",
+   "office_type": "state_house",
+   "district": "25",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Wendell Jones",
+     "votes": 10920,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Wendell Jones",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 26",
+   "state": "SC",
+   "title": "State House of Representatives, District 26",
+   "office_type": "state_house",
+   "district": "26",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "David W Martin",
+     "votes": 9990,
+     "party": "REP",
+     "pct": 54.41,
+     "choice_id": "REP David W Martin",
+     "party_lines": null
+    },
+    {
+     "name": "Jenny Desch",
+     "votes": 8247,
+     "party": "DEM",
+     "pct": 44.92,
+     "choice_id": "DEM Jenny Desch",
+     "party_lines": null
+    },
+    {
+     "name": "WRK Kiral Mace",
+     "votes": 122,
+     "party": null,
+     "pct": 0.66,
+     "choice_id": "WRK Kiral Mace",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 27",
+   "state": "SC",
+   "title": "State House of Representatives, District 27",
+   "office_type": "state_house",
+   "district": "27",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "David Vaughan",
+     "votes": 9135,
+     "party": "REP",
+     "pct": 50.12,
+     "choice_id": "REP David Vaughan",
+     "party_lines": null
+    },
+    {
+     "name": "John MacCarthy",
+     "votes": 9093,
+     "party": "DEM",
+     "pct": 49.88,
+     "choice_id": "DEM John MacCarthy",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 28",
+   "state": "SC",
+   "title": "State House of Representatives, District 28",
+   "office_type": "state_house",
+   "district": "28",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Chris Huff",
+     "votes": 10511,
+     "party": "REP",
+     "pct": 53.97,
+     "choice_id": "REP Chris Huff",
+     "party_lines": null
+    },
+    {
+     "name": "Alan G Buckalew",
+     "votes": 8966,
+     "party": "DEM",
+     "pct": 46.03,
+     "choice_id": "DEM Alan G Buckalew",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 29",
+   "state": "SC",
+   "title": "State House of Representatives, District 29",
+   "office_type": "state_house",
+   "district": "29",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Dennis Moss",
+     "votes": 9381,
+     "party": "REP",
+     "pct": 68.76,
+     "choice_id": "REP Dennis Moss",
+     "party_lines": null
+    },
+    {
+     "name": "Marina Franco",
+     "votes": 4263,
+     "party": "DEM",
+     "pct": 31.24,
+     "choice_id": "DEM Marina Franco",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 30",
+   "state": "SC",
+   "title": "State House of Representatives, District 30",
+   "office_type": "state_house",
+   "district": "30",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Brian Lawson",
+     "votes": 9084,
+     "party": "REP",
+     "pct": 70.5,
+     "choice_id": "REP Brian Lawson",
+     "party_lines": null
+    },
+    {
+     "name": "Stephanie Holstein",
+     "votes": 3802,
+     "party": "DEM",
+     "pct": 29.5,
+     "choice_id": "DEM Stephanie Holstein",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 31",
+   "state": "SC",
+   "title": "State House of Representatives, District 31",
+   "office_type": "state_house",
+   "district": "31",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "James A Jones Sr",
+     "votes": 833,
+     "party": "UNC",
+     "pct": 9.8,
+     "choice_id": "UNC James A Jones Sr",
+     "party_lines": null
+    },
+    {
+     "name": "Rosalyn Henderson-Myers",
+     "votes": 7667,
+     "party": "DEM",
+     "pct": 90.2,
+     "choice_id": "DEM Rosalyn Henderson-Myers",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 32",
+   "state": "SC",
+   "title": "State House of Representatives, District 32",
+   "office_type": "state_house",
+   "district": "32",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Scott Montgomery",
+     "votes": 7521,
+     "party": "REP",
+     "pct": 53.94,
+     "choice_id": "REP Scott Montgomery",
+     "party_lines": null
+    },
+    {
+     "name": "Irene Benson",
+     "votes": 6423,
+     "party": "DEM",
+     "pct": 46.06,
+     "choice_id": "DEM Irene Benson",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 33",
+   "state": "SC",
+   "title": "State House of Representatives, District 33",
+   "office_type": "state_house",
+   "district": "33",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Travis A Moore",
+     "votes": 10001,
+     "party": "REP",
+     "pct": 61.99,
+     "choice_id": "REP Travis A Moore",
+     "party_lines": null
+    },
+    {
+     "name": "Clemson G Turregano",
+     "votes": 6132,
+     "party": "DEM",
+     "pct": 38.01,
+     "choice_id": "DEM Clemson G Turregano",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 34",
+   "state": "SC",
+   "title": "State House of Representatives, District 34",
+   "office_type": "state_house",
+   "district": "34",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Sarita Edgerton",
+     "votes": 9204,
+     "party": "REP",
+     "pct": 52.05,
+     "choice_id": "REP Sarita Edgerton",
+     "party_lines": null
+    },
+    {
+     "name": "Saville Williams",
+     "votes": 8480,
+     "party": "DEM",
+     "pct": 47.95,
+     "choice_id": "DEM Saville Williams",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 35",
+   "state": "SC",
+   "title": "State House of Representatives, District 35",
+   "office_type": "state_house",
+   "district": "35",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Bill Chumley",
+     "votes": 12115,
+     "party": "REP",
+     "pct": 60.63,
+     "choice_id": "REP Bill Chumley",
+     "party_lines": null
+    },
+    {
+     "name": "Tatiana Skipper",
+     "votes": 7867,
+     "party": "DEM",
+     "pct": 39.37,
+     "choice_id": "DEM Tatiana Skipper",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 36",
+   "state": "SC",
+   "title": "State House of Representatives, District 36",
+   "office_type": "state_house",
+   "district": "36",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Rob Harris",
+     "votes": 7988,
+     "party": "REP",
+     "pct": 55.79,
+     "choice_id": "REP Rob Harris",
+     "party_lines": null
+    },
+    {
+     "name": "Virginia McLean",
+     "votes": 6329,
+     "party": "DEM",
+     "pct": 44.21,
+     "choice_id": "DEM Virginia McLean",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 37",
+   "state": "SC",
+   "title": "State House of Representatives, District 37",
+   "office_type": "state_house",
+   "district": "37",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Steven Long",
+     "votes": 8312,
+     "party": "REP",
+     "pct": 56.3,
+     "choice_id": "REP Steven Long",
+     "party_lines": null
+    },
+    {
+     "name": "Seth Sauer-Hart",
+     "votes": 6451,
+     "party": "DEM",
+     "pct": 43.7,
+     "choice_id": "DEM Seth Sauer-Hart",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 38",
+   "state": "SC",
+   "title": "State House of Representatives, District 38",
+   "office_type": "state_house",
+   "district": "38",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Josiah Magnuson",
+     "votes": 12164,
+     "party": "REP",
+     "pct": 73.67,
+     "choice_id": "REP Josiah Magnuson",
+     "party_lines": null
+    },
+    {
+     "name": "Tammy Hahn",
+     "votes": 4348,
+     "party": "DEM",
+     "pct": 26.33,
+     "choice_id": "DEM Tammy Hahn",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 39",
+   "state": "SC",
+   "title": "State House of Representatives, District 39",
+   "office_type": "state_house",
+   "district": "39",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Cally R Cal Forrest",
+     "votes": 11590,
+     "party": "REP",
+     "pct": 72.99,
+     "choice_id": "REP Cally R Cal Forrest",
+     "party_lines": null
+    },
+    {
+     "name": "Sherman Lott",
+     "votes": 4289,
+     "party": "DEM",
+     "pct": 27.01,
+     "choice_id": "DEM Sherman Lott",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 40",
+   "state": "SC",
+   "title": "State House of Representatives, District 40",
+   "office_type": "state_house",
+   "district": "40",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Joe White",
+     "votes": 9751,
+     "party": "REP",
+     "pct": 61.83,
+     "choice_id": "REP Joe White",
+     "party_lines": null
+    },
+    {
+     "name": "Engle Thompson",
+     "votes": 6019,
+     "party": "DEM",
+     "pct": 38.17,
+     "choice_id": "DEM Engle Thompson",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 41",
+   "state": "SC",
+   "title": "State House of Representatives, District 41",
+   "office_type": "state_house",
+   "district": "41",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Tibi Czentye",
+     "votes": 5938,
+     "party": "REP",
+     "pct": 33.72,
+     "choice_id": "REP Tibi Czentye",
+     "party_lines": null
+    },
+    {
+     "name": "Annie E McDaniel",
+     "votes": 11671,
+     "party": "DEM",
+     "pct": 66.28,
+     "choice_id": "DEM Annie E McDaniel",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 42",
+   "state": "SC",
+   "title": "State House of Representatives, District 42",
+   "office_type": "state_house",
+   "district": "42",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Doug Gilliam",
+     "votes": 7723,
+     "party": "REP",
+     "pct": 59.7,
+     "choice_id": "REP Doug Gilliam",
+     "party_lines": null
+    },
+    {
+     "name": "Robert Larry Williams",
+     "votes": 5213,
+     "party": "DEM",
+     "pct": 40.3,
+     "choice_id": "DEM Robert Larry Williams",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 43",
+   "state": "SC",
+   "title": "State House of Representatives, District 43",
+   "office_type": "state_house",
+   "district": "43",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Randy Ligon",
+     "votes": 9450,
+     "party": "REP",
+     "pct": 62.08,
+     "choice_id": "REP Randy Ligon",
+     "party_lines": null
+    },
+    {
+     "name": "Alex Clark",
+     "votes": 5772,
+     "party": "DEM",
+     "pct": 37.92,
+     "choice_id": "DEM Alex Clark",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 44",
+   "state": "SC",
+   "title": "State House of Representatives, District 44",
+   "office_type": "state_house",
+   "district": "44",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Mike Neese",
+     "votes": 12054,
+     "party": "REP",
+     "pct": 52.51,
+     "choice_id": "REP Mike Neese",
+     "party_lines": null
+    },
+    {
+     "name": "Katie Crosby",
+     "votes": 10901,
+     "party": "DEM",
+     "pct": 47.49,
+     "choice_id": "DEM Katie Crosby",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 45",
+   "state": "SC",
+   "title": "State House of Representatives, District 45",
+   "office_type": "state_house",
+   "district": "45",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Brandon Newton",
+     "votes": 8725,
+     "party": "REP",
+     "pct": 56.3,
+     "choice_id": "REP Brandon Newton",
+     "party_lines": null
+    },
+    {
+     "name": "Nicole Ventour",
+     "votes": 6773,
+     "party": "DEM",
+     "pct": 43.7,
+     "choice_id": "DEM Nicole Ventour",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 46",
+   "state": "SC",
+   "title": "State House of Representatives, District 46",
+   "office_type": "state_house",
+   "district": "46",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Heath Sessions",
+     "votes": 8760,
+     "party": "REP",
+     "pct": 51.71,
+     "choice_id": "REP Heath Sessions",
+     "party_lines": null
+    },
+    {
+     "name": "Omar L McCrorey",
+     "votes": 8181,
+     "party": "DEM",
+     "pct": 48.29,
+     "choice_id": "DEM Omar L McCrorey",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 47",
+   "state": "SC",
+   "title": "State House of Representatives, District 47",
+   "office_type": "state_house",
+   "district": "47",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Tommy Pope",
+     "votes": 11586,
+     "party": "REP",
+     "pct": 66.58,
+     "choice_id": "REP Tommy Pope",
+     "party_lines": null
+    },
+    {
+     "name": "Justin Bennett",
+     "votes": 5816,
+     "party": "DEM",
+     "pct": 33.42,
+     "choice_id": "DEM Justin Bennett",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 48",
+   "state": "SC",
+   "title": "State House of Representatives, District 48",
+   "office_type": "state_house",
+   "district": "48",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Brandon Guffey",
+     "votes": 10821,
+     "party": "REP",
+     "pct": 56.89,
+     "choice_id": "REP Brandon Guffey",
+     "party_lines": null
+    },
+    {
+     "name": "Rustin Terry",
+     "votes": 8200,
+     "party": "DEM",
+     "pct": 43.11,
+     "choice_id": "DEM Rustin Terry",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 49",
+   "state": "SC",
+   "title": "State House of Representatives, District 49",
+   "office_type": "state_house",
+   "district": "49",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "John R King",
+     "votes": 10939,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM John R King",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 50",
+   "state": "SC",
+   "title": "State House of Representatives, District 50",
+   "office_type": "state_house",
+   "district": "50",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "William Oden",
+     "votes": 5793,
+     "party": "REP",
+     "pct": 37.78,
+     "choice_id": "REP William Oden",
+     "party_lines": null
+    },
+    {
+     "name": "Keishan M Scott",
+     "votes": 9539,
+     "party": "DEM",
+     "pct": 62.22,
+     "choice_id": "DEM Keishan M Scott",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 51",
+   "state": "SC",
+   "title": "State House of Representatives, District 51",
+   "office_type": "state_house",
+   "district": "51",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "David Weeks",
+     "votes": 10122,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM David Weeks",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 52",
+   "state": "SC",
+   "title": "State House of Representatives, District 52",
+   "office_type": "state_house",
+   "district": "52",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Malcolm Taylor",
+     "votes": 12535,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Malcolm Taylor",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 53",
+   "state": "SC",
+   "title": "State House of Representatives, District 53",
+   "office_type": "state_house",
+   "district": "53",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Richard Richie Yow",
+     "votes": 8769,
+     "party": "REP",
+     "pct": 65.79,
+     "choice_id": "REP Richard Richie Yow",
+     "party_lines": null
+    },
+    {
+     "name": "Bruce M Wallace",
+     "votes": 4560,
+     "party": "DEM",
+     "pct": 34.21,
+     "choice_id": "DEM Bruce M Wallace",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 54",
+   "state": "SC",
+   "title": "State House of Representatives, District 54",
+   "office_type": "state_house",
+   "district": "54",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Jason Luck",
+     "votes": 9113,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Jason Luck",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 55",
+   "state": "SC",
+   "title": "State House of Representatives, District 55",
+   "office_type": "state_house",
+   "district": "55",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Jackie Hayes",
+     "votes": 9409,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Jackie Hayes",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 56",
+   "state": "SC",
+   "title": "State House of Representatives, District 56",
+   "office_type": "state_house",
+   "district": "56",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Tim McGinnis",
+     "votes": 13910,
+     "party": "REP",
+     "pct": 63.28,
+     "choice_id": "REP Tim McGinnis",
+     "party_lines": null
+    },
+    {
+     "name": "Jacqualyn Meadow",
+     "votes": 8073,
+     "party": "DEM",
+     "pct": 36.72,
+     "choice_id": "DEM Jacqualyn Meadow",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 57",
+   "state": "SC",
+   "title": "State House of Representatives, District 57",
+   "office_type": "state_house",
+   "district": "57",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Lucas Atkinson",
+     "votes": 7595,
+     "party": "REP",
+     "pct": 48.39,
+     "choice_id": "REP Lucas Atkinson",
+     "party_lines": null
+    },
+    {
+     "name": "Cynthia O Ford",
+     "votes": 8101,
+     "party": "DEM",
+     "pct": 51.61,
+     "choice_id": "DEM Cynthia O Ford",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 58",
+   "state": "SC",
+   "title": "State House of Representatives, District 58",
+   "office_type": "state_house",
+   "district": "58",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Jeff Johnson",
+     "votes": 10142,
+     "party": "REP",
+     "pct": 65.29,
+     "choice_id": "REP Jeff Johnson",
+     "party_lines": null
+    },
+    {
+     "name": "Sha-Ron E Jones",
+     "votes": 5392,
+     "party": "DEM",
+     "pct": 34.71,
+     "choice_id": "DEM Sha-Ron E Jones",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 59",
+   "state": "SC",
+   "title": "State House of Representatives, District 59",
+   "office_type": "state_house",
+   "district": "59",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Terry Alexander",
+     "votes": 9310,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Terry Alexander",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 60",
+   "state": "SC",
+   "title": "State House of Representatives, District 60",
+   "office_type": "state_house",
+   "district": "60",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Phillip Lowe",
+     "votes": 8158,
+     "party": "REP",
+     "pct": 54.15,
+     "choice_id": "REP Phillip Lowe",
+     "party_lines": null
+    },
+    {
+     "name": "Adrian Peguese Carter",
+     "votes": 6908,
+     "party": "DEM",
+     "pct": 45.85,
+     "choice_id": "DEM Adrian Peguese Carter",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 61",
+   "state": "SC",
+   "title": "State House of Representatives, District 61",
+   "office_type": "state_house",
+   "district": "61",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Carla Schuessler",
+     "votes": 8342,
+     "party": "REP",
+     "pct": 59.13,
+     "choice_id": "REP Carla Schuessler",
+     "party_lines": null
+    },
+    {
+     "name": "David Herndon",
+     "votes": 229,
+     "party": "LIB",
+     "pct": 1.62,
+     "choice_id": "LIB David Herndon",
+     "party_lines": null
+    },
+    {
+     "name": "Carol Goodman",
+     "votes": 5537,
+     "party": "DEM",
+     "pct": 39.25,
+     "choice_id": "DEM Carol Goodman",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 62",
+   "state": "SC",
+   "title": "State House of Representatives, District 62",
+   "office_type": "state_house",
+   "district": "62",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Robert Williams",
+     "votes": 9848,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Robert Williams",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 63",
+   "state": "SC",
+   "title": "State House of Representatives, District 63",
+   "office_type": "state_house",
+   "district": "63",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Jay Jordan",
+     "votes": 8761,
+     "party": "REP",
+     "pct": 56.82,
+     "choice_id": "REP Jay Jordan",
+     "party_lines": null
+    },
+    {
+     "name": "Kory Haskins",
+     "votes": 6658,
+     "party": "DEM",
+     "pct": 43.18,
+     "choice_id": "DEM Kory Haskins",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 64",
+   "state": "SC",
+   "title": "State House of Representatives, District 64",
+   "office_type": "state_house",
+   "district": "64",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Fawn Pedalino",
+     "votes": 7972,
+     "party": "REP",
+     "pct": 47.89,
+     "choice_id": "REP Fawn Pedalino",
+     "party_lines": null
+    },
+    {
+     "name": "Michele Demery",
+     "votes": 8676,
+     "party": "DEM",
+     "pct": 52.11,
+     "choice_id": "DEM Michele Demery",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 65",
+   "state": "SC",
+   "title": "State House of Representatives, District 65",
+   "office_type": "state_house",
+   "district": "65",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Cody T Mitchell",
+     "votes": 9634,
+     "party": "REP",
+     "pct": 67.86,
+     "choice_id": "REP Cody T Mitchell",
+     "party_lines": null
+    },
+    {
+     "name": "Tanisha Baskin",
+     "votes": 4563,
+     "party": "DEM",
+     "pct": 32.14,
+     "choice_id": "DEM Tanisha Baskin",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 66",
+   "state": "SC",
+   "title": "State House of Representatives, District 66",
+   "office_type": "state_house",
+   "district": "66",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Jackie Terribile",
+     "votes": 8576,
+     "party": "REP",
+     "pct": 48.67,
+     "choice_id": "REP Jackie Terribile",
+     "party_lines": null
+    },
+    {
+     "name": "Heather Hart",
+     "votes": 9046,
+     "party": "DEM",
+     "pct": 51.33,
+     "choice_id": "DEM Heather Hart",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 67",
+   "state": "SC",
+   "title": "State House of Representatives, District 67",
+   "office_type": "state_house",
+   "district": "67",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Murrell Smith",
+     "votes": 8585,
+     "party": "REP",
+     "pct": 55.91,
+     "choice_id": "REP Murrell Smith",
+     "party_lines": null
+    },
+    {
+     "name": "Lisa Davey",
+     "votes": 6771,
+     "party": "DEM",
+     "pct": 44.09,
+     "choice_id": "DEM Lisa Davey",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 68",
+   "state": "SC",
+   "title": "State House of Representatives, District 68",
+   "office_type": "state_house",
+   "district": "68",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Heather Ammons Crawford",
+     "votes": 11364,
+     "party": "REP",
+     "pct": 63.12,
+     "choice_id": "REP Heather Ammons Crawford",
+     "party_lines": null
+    },
+    {
+     "name": "Judy Davies",
+     "votes": 6639,
+     "party": "DEM",
+     "pct": 36.88,
+     "choice_id": "DEM Judy Davies",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 69",
+   "state": "SC",
+   "title": "State House of Representatives, District 69",
+   "office_type": "state_house",
+   "district": "69",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Chris Wooten",
+     "votes": 9950,
+     "party": "REP",
+     "pct": 60.48,
+     "choice_id": "REP Chris Wooten",
+     "party_lines": null
+    },
+    {
+     "name": "Allen Broadus",
+     "votes": 419,
+     "party": "LIB",
+     "pct": 2.55,
+     "choice_id": "LIB Allen Broadus",
+     "party_lines": null
+    },
+    {
+     "name": "Emery K Chaplin",
+     "votes": 6082,
+     "party": "DEM",
+     "pct": 36.97,
+     "choice_id": "DEM Emery K Chaplin",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 70",
+   "state": "SC",
+   "title": "State House of Representatives, District 70",
+   "office_type": "state_house",
+   "district": "70",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Robert Reese",
+     "votes": 12291,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Robert Reese",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 71",
+   "state": "SC",
+   "title": "State House of Representatives, District 71",
+   "office_type": "state_house",
+   "district": "71",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Nathan Ballentine",
+     "votes": 11570,
+     "party": "REP",
+     "pct": 58.38,
+     "choice_id": "REP Nathan Ballentine",
+     "party_lines": null
+    },
+    {
+     "name": "Julie Zimmerman",
+     "votes": 8250,
+     "party": "DEM",
+     "pct": 41.62,
+     "choice_id": "DEM Julie Zimmerman",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 72",
+   "state": "SC",
+   "title": "State House of Representatives, District 72",
+   "office_type": "state_house",
+   "district": "72",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Dixie Kvatek",
+     "votes": 1319,
+     "party": "REP",
+     "pct": 16.54,
+     "choice_id": "REP Dixie Kvatek",
+     "party_lines": null
+    },
+    {
+     "name": "Seth Rose",
+     "votes": 6658,
+     "party": "DEM",
+     "pct": 83.46,
+     "choice_id": "DEM Seth Rose",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 73",
+   "state": "SC",
+   "title": "State House of Representatives, District 73",
+   "office_type": "state_house",
+   "district": "73",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Allen Robertson",
+     "votes": 2396,
+     "party": "REP",
+     "pct": 18.99,
+     "choice_id": "REP Allen Robertson",
+     "party_lines": null
+    },
+    {
+     "name": "Chris Hart",
+     "votes": 10218,
+     "party": "DEM",
+     "pct": 81.01,
+     "choice_id": "DEM Chris Hart",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 74",
+   "state": "SC",
+   "title": "State House of Representatives, District 74",
+   "office_type": "state_house",
+   "district": "74",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Collin Shelton",
+     "votes": 1859,
+     "party": "REP",
+     "pct": 14.73,
+     "choice_id": "REP Collin Shelton",
+     "party_lines": null
+    },
+    {
+     "name": "J Todd Rutherford",
+     "votes": 10764,
+     "party": "DEM",
+     "pct": 85.27,
+     "choice_id": "DEM J Todd Rutherford",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 75",
+   "state": "SC",
+   "title": "State House of Representatives, District 75",
+   "office_type": "state_house",
+   "district": "75",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Tracy Robins",
+     "votes": 6639,
+     "party": "REP",
+     "pct": 41.98,
+     "choice_id": "REP Tracy Robins",
+     "party_lines": null
+    },
+    {
+     "name": "Joshua Parks",
+     "votes": 246,
+     "party": "LIB",
+     "pct": 1.56,
+     "choice_id": "LIB Joshua Parks",
+     "party_lines": null
+    },
+    {
+     "name": "Heather Bauer",
+     "votes": 8931,
+     "party": "DEM",
+     "pct": 56.47,
+     "choice_id": "DEM Heather Bauer",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 76",
+   "state": "SC",
+   "title": "State House of Representatives, District 76",
+   "office_type": "state_house",
+   "district": "76",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Leon Howard",
+     "votes": 11963,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Leon Howard",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 77",
+   "state": "SC",
+   "title": "State House of Representatives, District 77",
+   "office_type": "state_house",
+   "district": "77",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Kambrell Houston Garvin",
+     "votes": 16757,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Kambrell Houston Garvin",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 78",
+   "state": "SC",
+   "title": "State House of Representatives, District 78",
+   "office_type": "state_house",
+   "district": "78",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Sonia Pollard",
+     "votes": 4775,
+     "party": "REP",
+     "pct": 27.03,
+     "choice_id": "REP Sonia Pollard",
+     "party_lines": null
+    },
+    {
+     "name": "Angelo Joyner Sr",
+     "votes": 297,
+     "party": "LIB",
+     "pct": 1.68,
+     "choice_id": "LIB Angelo Joyner Sr",
+     "party_lines": null
+    },
+    {
+     "name": "Beth Bernstein",
+     "votes": 12591,
+     "party": "DEM",
+     "pct": 71.28,
+     "choice_id": "DEM Beth Bernstein",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 79",
+   "state": "SC",
+   "title": "State House of Representatives, District 79",
+   "office_type": "state_house",
+   "district": "79",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Hamilton R Grant",
+     "votes": 15217,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Hamilton R Grant",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 80",
+   "state": "SC",
+   "title": "State House of Representatives, District 80",
+   "office_type": "state_house",
+   "district": "80",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Kathy Landing",
+     "votes": 11201,
+     "party": "REP",
+     "pct": 57.06,
+     "choice_id": "REP Kathy Landing",
+     "party_lines": null
+    },
+    {
+     "name": "Benjamin E Brown",
+     "votes": 8429,
+     "party": "DEM",
+     "pct": 42.94,
+     "choice_id": "DEM Benjamin E Brown",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 81",
+   "state": "SC",
+   "title": "State House of Representatives, District 81",
+   "office_type": "state_house",
+   "district": "81",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Charles Hartz",
+     "votes": 12112,
+     "party": "REP",
+     "pct": 60.3,
+     "choice_id": "REP Charles Hartz",
+     "party_lines": null
+    },
+    {
+     "name": "Pete Swales",
+     "votes": 7975,
+     "party": "DEM",
+     "pct": 39.7,
+     "choice_id": "DEM Pete Swales",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 82",
+   "state": "SC",
+   "title": "State House of Representatives, District 82",
+   "office_type": "state_house",
+   "district": "82",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Suzy Spurgeon",
+     "votes": 5235,
+     "party": "REP",
+     "pct": 37.99,
+     "choice_id": "REP Suzy Spurgeon",
+     "party_lines": null
+    },
+    {
+     "name": "William Bill Clyburn",
+     "votes": 8544,
+     "party": "DEM",
+     "pct": 62.01,
+     "choice_id": "DEM William Bill Clyburn",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 83",
+   "state": "SC",
+   "title": "State House of Representatives, District 83",
+   "office_type": "state_house",
+   "district": "83",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Bill Hixon",
+     "votes": 10417,
+     "party": "REP",
+     "pct": 64.06,
+     "choice_id": "REP Bill Hixon",
+     "party_lines": null
+    },
+    {
+     "name": "Jason Payne",
+     "votes": 5844,
+     "party": "DEM",
+     "pct": 35.94,
+     "choice_id": "DEM Jason Payne",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 84",
+   "state": "SC",
+   "title": "State House of Representatives, District 84",
+   "office_type": "state_house",
+   "district": "84",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Melissa Oremus",
+     "votes": 8452,
+     "party": "REP",
+     "pct": 54.84,
+     "choice_id": "REP Melissa Oremus",
+     "party_lines": null
+    },
+    {
+     "name": "Darnell Holston",
+     "votes": 6959,
+     "party": "DEM",
+     "pct": 45.16,
+     "choice_id": "DEM Darnell Holston",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 85",
+   "state": "SC",
+   "title": "State House of Representatives, District 85",
+   "office_type": "state_house",
+   "district": "85",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Jay Kilmartin",
+     "votes": 11198,
+     "party": "REP",
+     "pct": 55.94,
+     "choice_id": "REP Jay Kilmartin",
+     "party_lines": null
+    },
+    {
+     "name": "Steven J Asbill Jr",
+     "votes": 8821,
+     "party": "DEM",
+     "pct": 44.06,
+     "choice_id": "DEM Steven J Asbill Jr",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 86",
+   "state": "SC",
+   "title": "State House of Representatives, District 86",
+   "office_type": "state_house",
+   "district": "86",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Tommy Paradise",
+     "votes": 9180,
+     "party": "REP",
+     "pct": 60.15,
+     "choice_id": "REP Tommy Paradise",
+     "party_lines": null
+    },
+    {
+     "name": "Malcolm Green",
+     "votes": 6083,
+     "party": "DEM",
+     "pct": 39.85,
+     "choice_id": "DEM Malcolm Green",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 87",
+   "state": "SC",
+   "title": "State House of Representatives, District 87",
+   "office_type": "state_house",
+   "district": "87",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Paula Rawl Calhoon",
+     "votes": 13007,
+     "party": "REP",
+     "pct": 68.91,
+     "choice_id": "REP Paula Rawl Calhoon",
+     "party_lines": null
+    },
+    {
+     "name": "Reid Beaman",
+     "votes": 5868,
+     "party": "DEM",
+     "pct": 31.09,
+     "choice_id": "DEM Reid Beaman",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 88",
+   "state": "SC",
+   "title": "State House of Representatives, District 88",
+   "office_type": "state_house",
+   "district": "88",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "John Lastinger",
+     "votes": 7920,
+     "party": "REP",
+     "pct": 57.12,
+     "choice_id": "REP John Lastinger",
+     "party_lines": null
+    },
+    {
+     "name": "Jeremy Jones",
+     "votes": 5946,
+     "party": "DEM",
+     "pct": 42.88,
+     "choice_id": "DEM Jeremy Jones",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 89",
+   "state": "SC",
+   "title": "State House of Representatives, District 89",
+   "office_type": "state_house",
+   "district": "89",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Micah Caskey",
+     "votes": 7147,
+     "party": "REP",
+     "pct": 49.65,
+     "choice_id": "REP Micah Caskey",
+     "party_lines": null
+    },
+    {
+     "name": "Joe Madge",
+     "votes": 7248,
+     "party": "DEM",
+     "pct": 50.35,
+     "choice_id": "DEM Joe Madge",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 90",
+   "state": "SC",
+   "title": "State House of Representatives, District 90",
+   "office_type": "state_house",
+   "district": "90",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Justin Bamberg",
+     "votes": 10813,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Justin Bamberg",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 91",
+   "state": "SC",
+   "title": "State House of Representatives, District 91",
+   "office_type": "state_house",
+   "district": "91",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Daniel Alexander",
+     "votes": 6127,
+     "party": "REP",
+     "pct": 41.99,
+     "choice_id": "REP Daniel Alexander",
+     "party_lines": null
+    },
+    {
+     "name": "Lonnie Hosey",
+     "votes": 8466,
+     "party": "DEM",
+     "pct": 58.01,
+     "choice_id": "DEM Lonnie Hosey",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 92",
+   "state": "SC",
+   "title": "State House of Representatives, District 92",
+   "office_type": "state_house",
+   "district": "92",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Brandon Cox",
+     "votes": 6996,
+     "party": "REP",
+     "pct": 48.41,
+     "choice_id": "REP Brandon Cox",
+     "party_lines": null
+    },
+    {
+     "name": "Byron Walters",
+     "votes": 7457,
+     "party": "DEM",
+     "pct": 51.59,
+     "choice_id": "DEM Byron Walters",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 93",
+   "state": "SC",
+   "title": "State House of Representatives, District 93",
+   "office_type": "state_house",
+   "district": "93",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Alex Morris",
+     "votes": 6293,
+     "party": "REP",
+     "pct": 39.5,
+     "choice_id": "REP Alex Morris",
+     "party_lines": null
+    },
+    {
+     "name": "Jerry Govan",
+     "votes": 9637,
+     "party": "DEM",
+     "pct": 60.5,
+     "choice_id": "DEM Jerry Govan",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 94",
+   "state": "SC",
+   "title": "State House of Representatives, District 94",
+   "office_type": "state_house",
+   "district": "94",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Gil Gatch",
+     "votes": 7171,
+     "party": "REP",
+     "pct": 51.13,
+     "choice_id": "REP Gil Gatch",
+     "party_lines": null
+    },
+    {
+     "name": "Sally Hebert",
+     "votes": 6853,
+     "party": "DEM",
+     "pct": 48.87,
+     "choice_id": "DEM Sally Hebert",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 95",
+   "state": "SC",
+   "title": "State House of Representatives, District 95",
+   "office_type": "state_house",
+   "district": "95",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Gilda Cobb-Hunter",
+     "votes": 11138,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Gilda Cobb-Hunter",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 96",
+   "state": "SC",
+   "title": "State House of Representatives, District 96",
+   "office_type": "state_house",
+   "district": "96",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Hunter Hackett",
+     "votes": 7615,
+     "party": "REP",
+     "pct": 59.83,
+     "choice_id": "REP Hunter Hackett",
+     "party_lines": null
+    },
+    {
+     "name": "Vivian Elston",
+     "votes": 5112,
+     "party": "DEM",
+     "pct": 40.17,
+     "choice_id": "DEM Vivian Elston",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 97",
+   "state": "SC",
+   "title": "State House of Representatives, District 97",
+   "office_type": "state_house",
+   "district": "97",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Robby Robbins",
+     "votes": 9335,
+     "party": "REP",
+     "pct": 59.19,
+     "choice_id": "REP Robby Robbins",
+     "party_lines": null
+    },
+    {
+     "name": "Cathy A Jaggars",
+     "votes": 6437,
+     "party": "DEM",
+     "pct": 40.81,
+     "choice_id": "DEM Cathy A Jaggars",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 98",
+   "state": "SC",
+   "title": "State House of Representatives, District 98",
+   "office_type": "state_house",
+   "district": "98",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Greg Ford",
+     "votes": 5390,
+     "party": "REP",
+     "pct": 46.33,
+     "choice_id": "REP Greg Ford",
+     "party_lines": null
+    },
+    {
+     "name": "Sonja Ogletree Satani",
+     "votes": 6244,
+     "party": "DEM",
+     "pct": 53.67,
+     "choice_id": "DEM Sonja Ogletree Satani",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 99",
+   "state": "SC",
+   "title": "State House of Representatives, District 99",
+   "office_type": "state_house",
+   "district": "99",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Jarrod Brooks",
+     "votes": 10053,
+     "party": "REP",
+     "pct": 58.25,
+     "choice_id": "REP Jarrod Brooks",
+     "party_lines": null
+    },
+    {
+     "name": "Samuel Price",
+     "votes": 7204,
+     "party": "DEM",
+     "pct": 41.75,
+     "choice_id": "DEM Samuel Price",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 100",
+   "state": "SC",
+   "title": "State House of Representatives, District 100",
+   "office_type": "state_house",
+   "district": "100",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Sylleste Davis",
+     "votes": 8108,
+     "party": "REP",
+     "pct": 50.86,
+     "choice_id": "REP Sylleste Davis",
+     "party_lines": null
+    },
+    {
+     "name": "Crystal Y Campbell",
+     "votes": 7835,
+     "party": "DEM",
+     "pct": 49.14,
+     "choice_id": "DEM Crystal Y Campbell",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 101",
+   "state": "SC",
+   "title": "State House of Representatives, District 101",
+   "office_type": "state_house",
+   "district": "101",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Arnie Borowsky",
+     "votes": 4356,
+     "party": "REP",
+     "pct": 30.39,
+     "choice_id": "REP Arnie Borowsky",
+     "party_lines": null
+    },
+    {
+     "name": "Roger K Kirby",
+     "votes": 9977,
+     "party": "DEM",
+     "pct": 69.61,
+     "choice_id": "DEM Roger K Kirby",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 102",
+   "state": "SC",
+   "title": "State House of Representatives, District 102",
+   "office_type": "state_house",
+   "district": "102",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Harriet Holman",
+     "votes": 7309,
+     "party": "REP",
+     "pct": 42.8,
+     "choice_id": "REP Harriet Holman",
+     "party_lines": null
+    },
+    {
+     "name": "Montez Aiken",
+     "votes": 9769,
+     "party": "DEM",
+     "pct": 57.2,
+     "choice_id": "DEM Montez Aiken",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 103",
+   "state": "SC",
+   "title": "State House of Representatives, District 103",
+   "office_type": "state_house",
+   "district": "103",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Carl Anderson",
+     "votes": 9985,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Carl Anderson",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 104",
+   "state": "SC",
+   "title": "State House of Representatives, District 104",
+   "office_type": "state_house",
+   "district": "104",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "William Bailey",
+     "votes": 17924,
+     "party": "REP",
+     "pct": 66.91,
+     "choice_id": "REP William Bailey",
+     "party_lines": null
+    },
+    {
+     "name": "George M Blumenthal",
+     "votes": 8865,
+     "party": "DEM",
+     "pct": 33.09,
+     "choice_id": "DEM George M Blumenthal",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 105",
+   "state": "SC",
+   "title": "State House of Representatives, District 105",
+   "office_type": "state_house",
+   "district": "105",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Kevin Hardee",
+     "votes": 13299,
+     "party": "REP",
+     "pct": 66.68,
+     "choice_id": "REP Kevin Hardee",
+     "party_lines": null
+    },
+    {
+     "name": "David Wilson",
+     "votes": 6646,
+     "party": "DEM",
+     "pct": 33.32,
+     "choice_id": "DEM David Wilson",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 106",
+   "state": "SC",
+   "title": "State House of Representatives, District 106",
+   "office_type": "state_house",
+   "district": "106",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Val Guest",
+     "votes": 15010,
+     "party": "REP",
+     "pct": 66.86,
+     "choice_id": "REP Val Guest",
+     "party_lines": null
+    },
+    {
+     "name": "Marisa McCann",
+     "votes": 7440,
+     "party": "DEM",
+     "pct": 33.14,
+     "choice_id": "DEM Marisa McCann",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 107",
+   "state": "SC",
+   "title": "State House of Representatives, District 107",
+   "office_type": "state_house",
+   "district": "107",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Case Brittain",
+     "votes": 10814,
+     "party": "REP",
+     "pct": 60.53,
+     "choice_id": "REP Case Brittain",
+     "party_lines": null
+    },
+    {
+     "name": "Christine Giguere",
+     "votes": 7052,
+     "party": "DEM",
+     "pct": 39.47,
+     "choice_id": "DEM Christine Giguere",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 108",
+   "state": "SC",
+   "title": "State House of Representatives, District 108",
+   "office_type": "state_house",
+   "district": "108",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Lee Hewitt",
+     "votes": 14480,
+     "party": "REP",
+     "pct": 64.04,
+     "choice_id": "REP Lee Hewitt",
+     "party_lines": null
+    },
+    {
+     "name": "Kathy Redwine",
+     "votes": 8130,
+     "party": "DEM",
+     "pct": 35.96,
+     "choice_id": "DEM Kathy Redwine",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 109",
+   "state": "SC",
+   "title": "State House of Representatives, District 109",
+   "office_type": "state_house",
+   "district": "109",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Tiffany Spann-Wilder",
+     "votes": 8488,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Tiffany Spann-Wilder",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 110",
+   "state": "SC",
+   "title": "State House of Representatives, District 110",
+   "office_type": "state_house",
+   "district": "110",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Tom Hartnett",
+     "votes": 9802,
+     "party": "REP",
+     "pct": 51.58,
+     "choice_id": "REP Tom Hartnett",
+     "party_lines": null
+    },
+    {
+     "name": "KJ Atwood",
+     "votes": 9200,
+     "party": "DEM",
+     "pct": 48.42,
+     "choice_id": "DEM KJ Atwood",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 111",
+   "state": "SC",
+   "title": "State House of Representatives, District 111",
+   "office_type": "state_house",
+   "district": "111",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Wendell G Gilliard",
+     "votes": 11717,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Wendell G Gilliard",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 112",
+   "state": "SC",
+   "title": "State House of Representatives, District 112",
+   "office_type": "state_house",
+   "district": "112",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Joe Bustos",
+     "votes": 12184,
+     "party": "REP",
+     "pct": 53.12,
+     "choice_id": "REP Joe Bustos",
+     "party_lines": null
+    },
+    {
+     "name": "Jenna Arsenault",
+     "votes": 10751,
+     "party": "DEM",
+     "pct": 46.88,
+     "choice_id": "DEM Jenna Arsenault",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 113",
+   "state": "SC",
+   "title": "State House of Representatives, District 113",
+   "office_type": "state_house",
+   "district": "113",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Courtney Waters",
+     "votes": 8951,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Courtney Waters",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 114",
+   "state": "SC",
+   "title": "State House of Representatives, District 114",
+   "office_type": "state_house",
+   "district": "114",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Gary Brewer",
+     "votes": 10068,
+     "party": "REP",
+     "pct": 50.91,
+     "choice_id": "REP Gary Brewer",
+     "party_lines": null
+    },
+    {
+     "name": "Kelly Hough",
+     "votes": 9708,
+     "party": "DEM",
+     "pct": 49.09,
+     "choice_id": "DEM Kelly Hough",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 115",
+   "state": "SC",
+   "title": "State House of Representatives, District 115",
+   "office_type": "state_house",
+   "district": "115",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Johnnie Garmon",
+     "votes": 9749,
+     "party": "REP",
+     "pct": 42.91,
+     "choice_id": "REP Johnnie Garmon",
+     "party_lines": null
+    },
+    {
+     "name": "Nick Uricchio",
+     "votes": 12971,
+     "party": "DEM",
+     "pct": 57.09,
+     "choice_id": "DEM Nick Uricchio",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 116",
+   "state": "SC",
+   "title": "State House of Representatives, District 116",
+   "office_type": "state_house",
+   "district": "116",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "James E Teeple",
+     "votes": 9301,
+     "party": "REP",
+     "pct": 44.47,
+     "choice_id": "REP James E Teeple",
+     "party_lines": null
+    },
+    {
+     "name": "Clay Middleton",
+     "votes": 11614,
+     "party": "DEM",
+     "pct": 55.53,
+     "choice_id": "DEM Clay Middleton",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 117",
+   "state": "SC",
+   "title": "State House of Representatives, District 117",
+   "office_type": "state_house",
+   "district": "117",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Jordan Pace",
+     "votes": 9864,
+     "party": "REP",
+     "pct": 50.86,
+     "choice_id": "REP Jordan Pace",
+     "party_lines": null
+    },
+    {
+     "name": "Ashley Painter",
+     "votes": 9529,
+     "party": "DEM",
+     "pct": 49.14,
+     "choice_id": "DEM Ashley Painter",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 118",
+   "state": "SC",
+   "title": "State House of Representatives, District 118",
+   "office_type": "state_house",
+   "district": "118",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Bill Herbkersman",
+     "votes": 12090,
+     "party": "REP",
+     "pct": 58.46,
+     "choice_id": "REP Bill Herbkersman",
+     "party_lines": null
+    },
+    {
+     "name": "Bernie Scolaro",
+     "votes": 8592,
+     "party": "DEM",
+     "pct": 41.54,
+     "choice_id": "DEM Bernie Scolaro",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 119",
+   "state": "SC",
+   "title": "State House of Representatives, District 119",
+   "office_type": "state_house",
+   "district": "119",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Lee Edwards",
+     "votes": 7301,
+     "party": "REP",
+     "pct": 36.76,
+     "choice_id": "REP Lee Edwards",
+     "party_lines": null
+    },
+    {
+     "name": "Leon Stavrinakis",
+     "votes": 12562,
+     "party": "DEM",
+     "pct": 63.24,
+     "choice_id": "DEM Leon Stavrinakis",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 120",
+   "state": "SC",
+   "title": "State House of Representatives, District 120",
+   "office_type": "state_house",
+   "district": "120",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Weston Newton",
+     "votes": 14358,
+     "party": "REP",
+     "pct": 61.82,
+     "choice_id": "REP Weston Newton",
+     "party_lines": null
+    },
+    {
+     "name": "Debbie Subera-Wiggin",
+     "votes": 8866,
+     "party": "DEM",
+     "pct": 38.18,
+     "choice_id": "DEM Debbie Subera-Wiggin",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 121",
+   "state": "SC",
+   "title": "State House of Representatives, District 121",
+   "office_type": "state_house",
+   "district": "121",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Shelley Gay Yuhas",
+     "votes": 5142,
+     "party": "REP",
+     "pct": 37.22,
+     "choice_id": "REP Shelley Gay Yuhas",
+     "party_lines": null
+    },
+    {
+     "name": "Shannon N DeLoach",
+     "votes": 8674,
+     "party": "DEM",
+     "pct": 62.78,
+     "choice_id": "DEM Shannon N DeLoach",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 122",
+   "state": "SC",
+   "title": "State House of Representatives, District 122",
+   "office_type": "state_house",
+   "district": "122",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Bill Hager",
+     "votes": 8947,
+     "party": "REP",
+     "pct": 47.9,
+     "choice_id": "REP Bill Hager",
+     "party_lines": null
+    },
+    {
+     "name": "Korey Williams",
+     "votes": 9733,
+     "party": "DEM",
+     "pct": 52.1,
+     "choice_id": "DEM Korey Williams",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 123",
+   "state": "SC",
+   "title": "State House of Representatives, District 123",
+   "office_type": "state_house",
+   "district": "123",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Jeff Bradley",
+     "votes": 12225,
+     "party": "REP",
+     "pct": 55.97,
+     "choice_id": "REP Jeff Bradley",
+     "party_lines": null
+    },
+    {
+     "name": "Ann C Shippy",
+     "votes": 9618,
+     "party": "DEM",
+     "pct": 44.03,
+     "choice_id": "DEM Ann C Shippy",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "State House of Representatives, District 124",
+   "state": "SC",
+   "title": "State House of Representatives, District 124",
+   "office_type": "state_house",
+   "district": "124",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Shannon Erickson",
+     "votes": 9954,
+     "party": "REP",
+     "pct": 57.85,
+     "choice_id": "REP Shannon Erickson",
+     "party_lines": null
+    },
+    {
+     "name": "Shauna Bishop",
+     "votes": 7253,
+     "party": "DEM",
+     "pct": 42.15,
+     "choice_id": "DEM Shauna Bishop",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "Solicitor, Circuit 3",
+   "state": "SC",
+   "title": "Solicitor, Circuit 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Lester M Gill Bell Jr",
+     "votes": 50101,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Lester M Gill Bell Jr",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "Solicitor, Circuit 5",
+   "state": "SC",
+   "title": "Solicitor, Circuit 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Byron E Gipson",
+     "votes": 141685,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Byron E Gipson",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "Solicitor, Circuit 6",
+   "state": "SC",
+   "title": "Solicitor, Circuit 6",
+   "office_type": "local",
+   "district": "6",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Randy E Newman Jr",
+     "votes": 41760,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "REP Randy E Newman Jr",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "Solicitor, Circuit 12",
+   "state": "SC",
+   "title": "Solicitor, Circuit 12",
+   "office_type": "local",
+   "district": "12",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Ryan White",
+     "votes": 26563,
+     "party": "REP",
+     "pct": 44.66,
+     "choice_id": "REP Ryan White",
+     "party_lines": null
+    },
+    {
+     "name": "Susan McGill",
+     "votes": 32919,
+     "party": "DEM",
+     "pct": 55.34,
+     "choice_id": "DEM Susan McGill",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "Solicitor, Circuit 13",
+   "state": "SC",
+   "title": "Solicitor, Circuit 13",
+   "office_type": "local",
+   "district": "13",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Cindy Crick",
+     "votes": 180870,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "REP Cindy Crick",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "Solicitor, Circuit 15",
+   "state": "SC",
+   "title": "Solicitor, Circuit 15",
+   "office_type": "local",
+   "district": "15",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Jimmy A Richardson II",
+     "votes": 140332,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "REP Jimmy A Richardson II",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "Town Council - Town of Ware Shoals",
+   "state": "SC",
+   "title": "Town Council - Town of Ware Shoals",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Tim Bostic",
+     "votes": 277,
+     "party": null,
+     "pct": 21.74,
+     "choice_id": "Tim Bostic",
+     "party_lines": null
+    },
+    {
+     "name": "John Hansen",
+     "votes": 90,
+     "party": null,
+     "pct": 7.06,
+     "choice_id": "John Hansen",
+     "party_lines": null
+    },
+    {
+     "name": "Joy Hansen",
+     "votes": 93,
+     "party": null,
+     "pct": 7.3,
+     "choice_id": "Joy Hansen",
+     "party_lines": null
+    },
+    {
+     "name": "Meg Jennings",
+     "votes": 242,
+     "party": null,
+     "pct": 19.0,
+     "choice_id": "Meg Jennings",
+     "party_lines": null
+    },
+    {
+     "name": "Eli Morse",
+     "votes": 24,
+     "party": null,
+     "pct": 1.88,
+     "choice_id": "Eli Morse",
+     "party_lines": null
+    },
+    {
+     "name": "Levi Marshall Owens",
+     "votes": 193,
+     "party": null,
+     "pct": 15.15,
+     "choice_id": "Levi Marshall Owens",
+     "party_lines": null
+    },
+    {
+     "name": "John Paul",
+     "votes": 47,
+     "party": null,
+     "pct": 3.69,
+     "choice_id": "John Paul",
+     "party_lines": null
+    },
+    {
+     "name": "Micheal Powell",
+     "votes": 220,
+     "party": null,
+     "pct": 17.27,
+     "choice_id": "Micheal Powell",
+     "party_lines": null
+    },
+    {
+     "name": "Fred West",
+     "votes": 88,
+     "party": null,
+     "pct": 6.91,
+     "choice_id": "Fred West",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "Town Council (Unexpired Term) - Town of Ware Shoals",
+   "state": "SC",
+   "title": "Town Council (Unexpired Term) - Town of Ware Shoals",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Katelyn Grizzle",
+     "votes": 298,
+     "party": null,
+     "pct": 58.78,
+     "choice_id": "Katelyn Grizzle",
+     "party_lines": null
+    },
+    {
+     "name": "George Leagans",
+     "votes": 209,
+     "party": null,
+     "pct": 41.22,
+     "choice_id": "George Leagans",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "City Council At Large - City of North Augusta",
+   "state": "SC",
+   "title": "City Council At Large - City of North Augusta",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "David Buck",
+     "votes": 6200,
+     "party": "REP",
+     "pct": 33.39,
+     "choice_id": "REP David Buck",
+     "party_lines": null
+    },
+    {
+     "name": "Jenafer McCauley",
+     "votes": 6024,
+     "party": "REP",
+     "pct": 32.44,
+     "choice_id": "REP Jenafer McCauley",
+     "party_lines": null
+    },
+    {
+     "name": "Tabitha Waldrop",
+     "votes": 6343,
+     "party": "REP",
+     "pct": 34.16,
+     "choice_id": "REP Tabitha Waldrop",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "Anderson County School Trustee District 2 At Large",
+   "state": "SC",
+   "title": "Anderson County School Trustee District 2 At Large",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Eddie Martin",
+     "votes": 2599,
+     "party": null,
+     "pct": 47.46,
+     "choice_id": "Eddie Martin",
+     "party_lines": null
+    },
+    {
+     "name": "Jimmy Ouzts",
+     "votes": 2877,
+     "party": null,
+     "pct": 52.54,
+     "choice_id": "Jimmy Ouzts",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "Anderson County Board of Education District 5",
+   "state": "SC",
+   "title": "Anderson County Board of Education District 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Jason Dorriety",
+     "votes": 4629,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Jason Dorriety",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "Brushy Creek Watershed Conservation District",
+   "state": "SC",
+   "title": "Brushy Creek Watershed Conservation District",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Rick Gantt",
+     "votes": 2617,
+     "party": null,
+     "pct": 32.74,
+     "choice_id": "Rick Gantt",
+     "party_lines": null
+    },
+    {
+     "name": "Scott Smart",
+     "votes": 2287,
+     "party": null,
+     "pct": 28.61,
+     "choice_id": "Scott Smart",
+     "party_lines": null
+    },
+    {
+     "name": "Allen D Wilson",
+     "votes": 3089,
+     "party": null,
+     "pct": 38.65,
+     "choice_id": "Allen D Wilson",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "Three and Twenty Watershed Conservation District",
+   "state": "SC",
+   "title": "Three and Twenty Watershed Conservation District",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Kristen Beigay",
+     "votes": 2022,
+     "party": null,
+     "pct": 44.83,
+     "choice_id": "Kristen Beigay",
+     "party_lines": null
+    },
+    {
+     "name": "Randy Griffis",
+     "votes": 2488,
+     "party": null,
+     "pct": 55.17,
+     "choice_id": "Randy Griffis",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "Fire District Commissioner Piedmont Public Service Area",
+   "state": "SC",
+   "title": "Fire District Commissioner Piedmont Public Service Area",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Joseph E Collins Jr",
+     "votes": 825,
+     "party": null,
+     "pct": 27.53,
+     "choice_id": "Joseph E Collins Jr",
+     "party_lines": null
+    },
+    {
+     "name": "Al McAbee Jr",
+     "votes": 893,
+     "party": null,
+     "pct": 29.8,
+     "choice_id": "Al McAbee Jr",
+     "party_lines": null
+    },
+    {
+     "name": "Ed Poore",
+     "votes": 555,
+     "party": null,
+     "pct": 18.52,
+     "choice_id": "Ed Poore",
+     "party_lines": null
+    },
+    {
+     "name": "Terry Yates",
+     "votes": 724,
+     "party": null,
+     "pct": 24.16,
+     "choice_id": "Terry Yates",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "City Council - Clemson",
+   "state": "SC",
+   "title": "City Council - Clemson",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Scott Allison",
+     "votes": 1790,
+     "party": null,
+     "pct": 18.42,
+     "choice_id": "Scott Allison",
+     "party_lines": null
+    },
+    {
+     "name": "Joe Burgett",
+     "votes": 2209,
+     "party": null,
+     "pct": 22.74,
+     "choice_id": "Joe Burgett",
+     "party_lines": null
+    },
+    {
+     "name": "Nanda Edgerton",
+     "votes": 1481,
+     "party": null,
+     "pct": 15.24,
+     "choice_id": "Nanda Edgerton",
+     "party_lines": null
+    },
+    {
+     "name": "Fran McGuire",
+     "votes": 1985,
+     "party": null,
+     "pct": 20.43,
+     "choice_id": "Fran McGuire",
+     "party_lines": null
+    },
+    {
+     "name": "Alesia Smith",
+     "votes": 2251,
+     "party": null,
+     "pct": 23.17,
+     "choice_id": "Alesia Smith",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "City Council - City of Hardeeville",
+   "state": "SC",
+   "title": "City Council - City of Hardeeville",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Steve Fier",
+     "votes": 4635,
+     "party": null,
+     "pct": 38.7,
+     "choice_id": "Steve Fier",
+     "party_lines": null
+    },
+    {
+     "name": "Valarie Guzman",
+     "votes": 4281,
+     "party": null,
+     "pct": 35.74,
+     "choice_id": "Valarie Guzman",
+     "party_lines": null
+    },
+    {
+     "name": "Landon Papay",
+     "votes": 3061,
+     "party": null,
+     "pct": 25.56,
+     "choice_id": "Landon Papay",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "Spartanburg County School District 2 Referendum-Question 1",
+   "state": "SC",
+   "title": "Spartanburg County School District 2 Referendum-Question 1",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Yes, In Favor of the Question",
+     "votes": 16074,
+     "party": null,
+     "pct": 67.83,
+     "choice_id": "Yes, In Favor of the Question",
+     "party_lines": null
+    },
+    {
+     "name": "No, Opposed to the Question",
+     "votes": 7623,
+     "party": null,
+     "pct": 32.17,
+     "choice_id": "No, Opposed to the Question",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "Spartanburg County School District 2 Referendum-Question 2",
+   "state": "SC",
+   "title": "Spartanburg County School District 2 Referendum-Question 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Yes, In Favor of the Question",
+     "votes": 14270,
+     "party": null,
+     "pct": 60.02,
+     "choice_id": "Yes, In Favor of the Question",
+     "party_lines": null
+    },
+    {
+     "name": "No, Opposed to the Question",
+     "votes": 9507,
+     "party": null,
+     "pct": 39.98,
+     "choice_id": "No, Opposed to the Question",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "Thicketty Creek Watershed Conservation District",
+   "state": "SC",
+   "title": "Thicketty Creek Watershed Conservation District",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Deborah W Perry",
+     "votes": 2845,
+     "party": null,
+     "pct": 51.07,
+     "choice_id": "Deborah W Perry",
+     "party_lines": null
+    },
+    {
+     "name": "David Wheeler",
+     "votes": 2726,
+     "party": null,
+     "pct": 48.93,
+     "choice_id": "David Wheeler",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "Rocky Creek Watershed Conservation District",
+   "state": "SC",
+   "title": "Rocky Creek Watershed Conservation District",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Claudia F Dean",
+     "votes": 1340,
+     "party": null,
+     "pct": 53.17,
+     "choice_id": "Claudia F Dean",
+     "party_lines": null
+    },
+    {
+     "name": "William Wishert",
+     "votes": 1180,
+     "party": null,
+     "pct": 46.83,
+     "choice_id": "William Wishert",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "Tinker's Creek Watershed Conservation District",
+   "state": "SC",
+   "title": "Tinker's Creek Watershed Conservation District",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "David J Wilson",
+     "votes": 1359,
+     "party": null,
+     "pct": 60.7,
+     "choice_id": "David J Wilson",
+     "party_lines": null
+    },
+    {
+     "name": "Cheryl Wylie",
+     "votes": 880,
+     "party": null,
+     "pct": 39.3,
+     "choice_id": "Cheryl Wylie",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "Fire District Commissioner South Lynches",
+   "state": "SC",
+   "title": "Fire District Commissioner South Lynches",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Bobby Johnson",
+     "votes": 1786,
+     "party": null,
+     "pct": 53.11,
+     "choice_id": "Bobby Johnson",
+     "party_lines": null
+    },
+    {
+     "name": "Jay Steele",
+     "votes": 1577,
+     "party": null,
+     "pct": 46.89,
+     "choice_id": "Jay Steele",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "Greenville County School Board District 18",
+   "state": "SC",
+   "title": "Greenville County School Board District 18",
+   "office_type": "local",
+   "district": "18",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Becky McLaughlin",
+     "votes": 6019,
+     "party": null,
+     "pct": 53.98,
+     "choice_id": "Becky McLaughlin",
+     "party_lines": null
+    },
+    {
+     "name": "Ann Marie Middleton",
+     "votes": 5132,
+     "party": null,
+     "pct": 46.02,
+     "choice_id": "Ann Marie Middleton",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "Greenville County School Board District 28",
+   "state": "SC",
+   "title": "Greenville County School Board District 28",
+   "office_type": "local",
+   "district": "28",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Jeff Cochran",
+     "votes": 10817,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Jeff Cochran",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "Rabon Creek Watershed Conservation District",
+   "state": "SC",
+   "title": "Rabon Creek Watershed Conservation District",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Casey Robinson",
+     "votes": 3327,
+     "party": null,
+     "pct": 56.05,
+     "choice_id": "Casey Robinson",
+     "party_lines": null
+    },
+    {
+     "name": "Nick Wham",
+     "votes": 2609,
+     "party": null,
+     "pct": 43.95,
+     "choice_id": "Nick Wham",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "Little Lynches Creek Watershed Conservation District",
+   "state": "SC",
+   "title": "Little Lynches Creek Watershed Conservation District",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Jacob Annan",
+     "votes": 988,
+     "party": null,
+     "pct": 54.65,
+     "choice_id": "Jacob Annan",
+     "party_lines": null
+    },
+    {
+     "name": "J Carrie Ford",
+     "votes": 820,
+     "party": null,
+     "pct": 45.35,
+     "choice_id": "J Carrie Ford",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "Lexington County School Trustee District 3",
+   "state": "SC",
+   "title": "Lexington County School Trustee District 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Cheryl A Burgess",
+     "votes": 2808,
+     "party": null,
+     "pct": 39.07,
+     "choice_id": "Cheryl A Burgess",
+     "party_lines": null
+    },
+    {
+     "name": "Gariane P Gunter",
+     "votes": 2247,
+     "party": null,
+     "pct": 31.26,
+     "choice_id": "Gariane P Gunter",
+     "party_lines": null
+    },
+    {
+     "name": "Sharmen M Oswald",
+     "votes": 2133,
+     "party": null,
+     "pct": 29.67,
+     "choice_id": "Sharmen M Oswald",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "Town of Irmo Form of Government Referendum",
+   "state": "SC",
+   "title": "Town of Irmo Form of Government Referendum",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "Yes, In favor of the Question",
+     "votes": 2098,
+     "party": null,
+     "pct": 47.08,
+     "choice_id": "Yes, In favor of the Question",
+     "party_lines": null
+    },
+    {
+     "name": "No, Opposed to the Question",
+     "votes": 2358,
+     "party": null,
+     "pct": 52.92,
+     "choice_id": "No, Opposed to the Question",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "STRAIGHT PARTY 1",
+   "state": "SC",
+   "title": "STRAIGHT PARTY 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "United Citizens",
+     "votes": 2160,
+     "party": null,
+     "pct": 0.28,
+     "choice_id": "United Citizens",
+     "party_lines": null
+    },
+    {
+     "name": "Green",
+     "votes": 1692,
+     "party": null,
+     "pct": 0.22,
+     "choice_id": "Green",
+     "party_lines": null
+    },
+    {
+     "name": "Republican",
+     "votes": 397898,
+     "party": null,
+     "pct": 51.79,
+     "choice_id": "Republican",
+     "party_lines": null
+    },
+    {
+     "name": "Libertarian",
+     "votes": 1265,
+     "party": null,
+     "pct": 0.16,
+     "choice_id": "Libertarian",
+     "party_lines": null
+    },
+    {
+     "name": "Democratic",
+     "votes": 364891,
+     "party": null,
+     "pct": 47.49,
+     "choice_id": "Democratic",
+     "party_lines": null
+    },
+    {
+     "name": "Constitution",
+     "votes": 372,
+     "party": null,
+     "pct": 0.05,
+     "choice_id": "Constitution",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "STRAIGHT PARTY 2",
+   "state": "SC",
+   "title": "STRAIGHT PARTY 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "United Citizens",
+     "votes": 855,
+     "party": null,
+     "pct": 0.28,
+     "choice_id": "United Citizens",
+     "party_lines": null
+    },
+    {
+     "name": "Green",
+     "votes": 555,
+     "party": null,
+     "pct": 0.18,
+     "choice_id": "Green",
+     "party_lines": null
+    },
+    {
+     "name": "Republican",
+     "votes": 130988,
+     "party": null,
+     "pct": 43.02,
+     "choice_id": "Republican",
+     "party_lines": null
+    },
+    {
+     "name": "Libertarian",
+     "votes": 491,
+     "party": null,
+     "pct": 0.16,
+     "choice_id": "Libertarian",
+     "party_lines": null
+    },
+    {
+     "name": "Democratic",
+     "votes": 171365,
+     "party": null,
+     "pct": 56.28,
+     "choice_id": "Democratic",
+     "party_lines": null
+    },
+    {
+     "name": "Workers",
+     "votes": 110,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "Workers",
+     "party_lines": null
+    },
+    {
+     "name": "Constitution",
+     "votes": 104,
+     "party": null,
+     "pct": 0.03,
+     "choice_id": "Constitution",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "sc",
+   "contest_id": "STRAIGHT PARTY 3",
+   "state": "SC",
+   "title": "STRAIGHT PARTY 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "South Carolina",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T00:00:00-05:00",
+   "choices": [
+    {
+     "name": "United Citizens",
+     "votes": 447,
+     "party": null,
+     "pct": 0.22,
+     "choice_id": "United Citizens",
+     "party_lines": null
+    },
+    {
+     "name": "Forward Party",
+     "votes": 32,
+     "party": null,
+     "pct": 0.02,
+     "choice_id": "Forward Party",
+     "party_lines": null
+    },
+    {
+     "name": "Green",
+     "votes": 378,
+     "party": null,
+     "pct": 0.19,
+     "choice_id": "Green",
+     "party_lines": null
+    },
+    {
+     "name": "Republican",
+     "votes": 125151,
+     "party": null,
+     "pct": 61.77,
+     "choice_id": "Republican",
+     "party_lines": null
+    },
+    {
+     "name": "Libertarian",
+     "votes": 292,
+     "party": null,
+     "pct": 0.14,
+     "choice_id": "Libertarian",
+     "party_lines": null
+    },
+    {
+     "name": "Democratic",
+     "votes": 76223,
+     "party": null,
+     "pct": 37.62,
+     "choice_id": "Democratic",
+     "party_lines": null
+    },
+    {
+     "name": "Constitution",
+     "votes": 75,
+     "party": null,
+     "pct": 0.04,
+     "choice_id": "Constitution",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  }
+ ],
+ "contests_hash": "dce1cdb01acd05f8",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-04T05:47:59+00:00",
+ "fetched_at": "2026-11-04T05:47:59+00:00",
+ "contests_changed_at": "2026-11-04T05:47:59+00:00"
 }

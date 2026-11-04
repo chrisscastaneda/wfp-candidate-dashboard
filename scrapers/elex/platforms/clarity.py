@@ -69,16 +69,24 @@ class ClaritySource(Source):
     platform = "Clarity ENR"
 
     def __init__(self, id, state, title, site_name, site, counties=(), tiers=(1, 2, 3, 4), level="state",
-                 county=None):
+                 county=None, eid=None):
         self.id, self.state, self.title, self.site_name, self.site = id, state, title, site_name, site
-        self.url = f"{BASE}/{site}/"
+        # Some counties link tonight's election from their own site but never add it to Clarity's election list
+        # (elections.json is empty); `eid` is that election's id, used when the list doesn't have one.
+        self.eid = eid
+        self.url = f"{BASE}/{site}/{eid}/" if eid else f"{BASE}/{site}/"
         self.counties, self.tiers, self.level, self.county = list(counties), frozenset(tiers), level, county
 
     def _summary(self, fetch, site, eid, ver):
         return fetch.get(f"{BASE}/{site}/{eid}/{ver}/json/en/summary.json")
 
     def pull(self, fetch):
-        eid = find_election(fetch.get(f"{BASE}/{self.site}/elections.json"))
+        try:
+            eid = find_election(fetch.get(f"{BASE}/{self.site}/elections.json"))
+        except NotPublished:
+            if not self.eid:
+                raise
+            eid = self.eid
         ver = fetch.get(f"{BASE}/{self.site}/{eid}/current_ver.txt", expect="text").strip()
         if not ver.isdigit():
             raise NotPublished(f"election {eid} has no published version yet")

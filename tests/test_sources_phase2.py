@@ -1,9 +1,12 @@
 """Phase 2 parsers: Clarity, Connecticut, Oregon, Ohio, Delaware, Maryland, Florida."""
 from datetime import date
 
+import pytest
+
 from conftest import FakeFetch
 from elex import config, match
 from elex.platforms import clarity
+from elex.source import NotPublished
 from elex.states import clarity_states, ct, de, fl, md, oh, or_
 
 CLARITY = {s.id: s for s in clarity_states.SOURCES}
@@ -46,6 +49,18 @@ def test_clarity_county_site_labels_contests_with_county(monkeypatch):
               "CO/122598/367167/json/en/summary.json": "clarity/co_2024_summary.json"}
     source = clarity.ClaritySource("co.x", "CO", "x", "x", "CO", level="county", county="Boulder")
     assert {c.jurisdiction for c in source.pull(FakeFetch(routes))} == {"Boulder County"}
+
+
+def test_clarity_falls_back_to_known_election_id(monkeypatch):
+    # Sonoma, Hudson and others linked their Nov 3 election from their own sites but left elections.json empty.
+    monkeypatch.setattr(config, "ELECTION_DATE", date(2024, 11, 5))
+    routes = {"CO/elections.json": "clarity/empty_elections.json",
+              "CO/122598/current_ver.txt": "clarity/co_2024_current_ver.txt",
+              "CO/122598/367167/json/en/summary.json": "clarity/co_2024_summary.json"}
+    with pytest.raises(NotPublished):
+        clarity.ClaritySource("co", "CO", "x", "x", "CO").pull(FakeFetch(routes))
+    contests = clarity.ClaritySource("co", "CO", "x", "x", "CO", eid="122598").pull(FakeFetch(routes))
+    assert contests and contests[0].url.endswith("/CO/122598/")
 
 
 def test_connecticut_combines_fusion_lines():
@@ -117,3 +132,34 @@ def test_florida_sums_counties_and_reads_measures():
     assert senate.office_type == "federal_senate" and senate.reporting.units_total == 72
     assert (house.office_type, house.district) == ("federal_house", "10")
     assert measure.office_type == "measure" and measure.choices[0].name == "No"
+
+
+def test_south_carolina_xlsx():
+    import io
+    import zipfile
+    from elex.states import sc
+
+    strings = ["U.S.  House of Representatives, District  4 (Vote For 1)", "REP William Timmons",
+               "DEM Courtney McClain", "Write-In", "County", "Total:"]
+    ns = 'xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main"'
+
+    def cell(ref, text=None, number=None):
+        return f'<c r="{ref}" t="s"><v>{strings.index(text)}</v></c>' if text else f'<c r="{ref}"><v>{number}</v></c>'
+    rows = [cell("A1", "U.S.  House of Representatives, District  4 (Vote For 1)"),
+            cell("C2", "REP William Timmons") + cell("J2", "DEM Courtney McClain") + cell("Q2", "Write-In"),
+            cell("A3", "County"),
+            cell("A4", "Total:") + cell("I4", number=146808) + cell("P4", number=129561) + cell("W4", number=12)]
+    sheet = f'<worksheet {ns}><sheetData>' + "".join(f"<row>{r}</row>" for r in rows) + "</sheetData></worksheet>"
+    buf = io.BytesIO()
+    with zipfile.ZipFile(buf, "w") as z:
+        z.writestr("xl/sharedStrings.xml", f'<sst {ns}>' + "".join(f"<si><t>{s}</t></si>" for s in strings) + "</sst>")
+        z.writestr("xl/workbook.xml", f'<workbook {ns}><sheets><sheet name="Table of Contents"/><sheet name="18"/>'
+                                      "</sheets></workbook>")
+        z.writestr("xl/worksheets/sheet1.xml", f"<worksheet {ns}><sheetData/></worksheet>")
+        z.writestr("xl/worksheets/sheet2.xml", sheet)
+    house, = sc.parse(sc.read_xlsx(buf.getvalue()))
+    assert (house.title, house.office_type, house.district) == ("U.S. House of Representatives, District 4",
+                                                                 "federal_house", "4")
+    assert [(c.name, c.party, c.votes) for c in house.choices] == [("William Timmons", "REP", 146808),
+                                                                   ("Courtney McClain", "DEM", 129561)]
+    assert sc.snapshot_time("x/2026-11-03-12AM-General-Election-Results.xlsx") == "2026-11-04T00:00:00-05:00"

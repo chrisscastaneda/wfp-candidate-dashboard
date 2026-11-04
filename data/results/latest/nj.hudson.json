@@ -1,8 +1,1852 @@
 {
  "source": "nj.hudson",
- "contests": [],
- "contests_hash": null,
- "status": "not_published",
- "message": "no 2026-11-03 election listed",
- "last_attempt_at": "2026-11-04T04:11:00+00:00"
+ "contests": [
+  {
+   "source": "nj.hudson",
+   "contest_id": "0004",
+   "state": "NJ",
+   "title": "United States Senator",
+   "office_type": "federal_senate",
+   "district": null,
+   "jurisdiction": "Hudson County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 455,
+    "units_total": 468,
+    "pct": 97.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JUSTIN MURPHY",
+     "votes": 25844,
+     "party": "REP",
+     "pct": 17.6587952334099,
+     "choice_id": "JUSTIN MURPHY",
+     "party_lines": null
+    },
+    {
+     "name": "CORY BOOKER",
+     "votes": 112645,
+     "party": "DEM",
+     "pct": 76.9685415983382,
+     "choice_id": "CORY BOOKER",
+     "party_lines": null
+    },
+    {
+     "name": "VERONICA FERNANDEZ",
+     "votes": 4261,
+     "party": "N-C",
+     "pct": 2.91147370722641,
+     "choice_id": "VERONICA FERNANDEZ",
+     "party_lines": null
+    },
+    {
+     "name": "JOANNE KUNIANSKY",
+     "votes": 3084,
+     "party": "N-D",
+     "pct": 2.10724827812398,
+     "choice_id": "JOANNE KUNIANSKY",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 518,
+     "party": null,
+     "pct": 0.353941182901498,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0005",
+   "state": "NJ",
+   "title": "Member of the House of Representatives- 8th Congressional",
+   "office_type": "federal_house",
+   "district": "8",
+   "jurisdiction": "Hudson County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 318,
+    "units_total": 326,
+    "pct": 97.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ROB MENENDEZ",
+     "votes": 81314,
+     "party": "DEM",
+     "pct": 86.8748597741429,
+     "choice_id": "ROB MENENDEZ",
+     "party_lines": null
+    },
+    {
+     "name": "CRAIG HONTS",
+     "votes": 4557,
+     "party": "N-D",
+     "pct": 4.86864175899315,
+     "choice_id": "CRAIG HONTS",
+     "party_lines": null
+    },
+    {
+     "name": "ARISTOTLE ELIOPOULOS",
+     "votes": 4322,
+     "party": "N-E",
+     "pct": 4.61757070054167,
+     "choice_id": "ARISTOTLE ELIOPOULOS",
+     "party_lines": null
+    },
+    {
+     "name": "Da'SHONE HUGHEY",
+     "votes": 2610,
+     "party": "N-F",
+     "pct": 2.78849133003558,
+     "choice_id": "Da'SHONE HUGHEY",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 796,
+     "party": null,
+     "pct": 0.850436436286713,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0006",
+   "state": "NJ",
+   "title": "Member of the House of Representatives- 9th Congressional",
+   "office_type": "federal_house",
+   "district": "9",
+   "jurisdiction": "Hudson County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 43,
+    "units_total": 43,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ROSIE PINO",
+     "votes": 3878,
+     "party": "REP",
+     "pct": 30.0900062073246,
+     "choice_id": "ROSIE PINO",
+     "party_lines": null
+    },
+    {
+     "name": "NELIDA POU",
+     "votes": 8786,
+     "party": "DEM",
+     "pct": 68.1719428926133,
+     "choice_id": "NELIDA POU",
+     "party_lines": null
+    },
+    {
+     "name": "TERRISA BUKOVINAC",
+     "votes": 195,
+     "party": "N-E",
+     "pct": 1.51303538175047,
+     "choice_id": "TERRISA BUKOVINAC",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 29,
+     "party": null,
+     "pct": 0.225015518311608,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0007",
+   "state": "NJ",
+   "title": "Member of the House of Representatives- 10th Congressional",
+   "office_type": "federal_house",
+   "district": "10",
+   "jurisdiction": "Hudson County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 94,
+    "units_total": 99,
+    "pct": 94.9,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "CARMEN BUCCO",
+     "votes": 3035,
+     "party": "REP",
+     "pct": 12.5465068210004,
+     "choice_id": "CARMEN BUCCO",
+     "party_lines": null
+    },
+    {
+     "name": "LaMONICA R. McIVER",
+     "votes": 21066,
+     "party": "DEM",
+     "pct": 87.0855725506408,
+     "choice_id": "LaMONICA R. McIVER",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 89,
+     "party": null,
+     "pct": 0.367920628358826,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0008",
+   "state": "NJ",
+   "title": "County Register",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Hudson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 455,
+    "units_total": 468,
+    "pct": 97.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "QAMAR RAZA",
+     "votes": 22306,
+     "party": "REP",
+     "pct": 16.3160512610451,
+     "choice_id": "QAMAR RAZA",
+     "party_lines": null
+    },
+    {
+     "name": "JEFFREY DUBLIN",
+     "votes": 113940,
+     "party": "DEM",
+     "pct": 83.3430861957985,
+     "choice_id": "JEFFREY DUBLIN",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 466,
+     "party": null,
+     "pct": 0.340862543156416,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0009",
+   "state": "NJ",
+   "title": "County Commissioner - 1st",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Hudson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 57,
+    "units_total": 57,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "KENNETH KOPACZ",
+     "votes": 12265,
+     "party": "DEM",
+     "pct": 98.704329631418,
+     "choice_id": "KENNETH KOPACZ",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 161,
+     "party": null,
+     "pct": 1.29567036858201,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0010",
+   "state": "NJ",
+   "title": "County Commissioner - 2nd",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Hudson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 53,
+    "units_total": 56,
+    "pct": 94.6,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "BILL O'DEA",
+     "votes": 14286,
+     "party": "DEM",
+     "pct": 98.8582105044634,
+     "choice_id": "BILL O'DEA",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 165,
+     "party": null,
+     "pct": 1.14178949553664,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0011",
+   "state": "NJ",
+   "title": "County Commissioner - 3rd",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Hudson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 52,
+    "units_total": 57,
+    "pct": 91.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "PAM JOHNSON",
+     "votes": 13039,
+     "party": "DEM",
+     "pct": 99.1106719367589,
+     "choice_id": "PAM JOHNSON",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 117,
+     "party": null,
+     "pct": 0.889328063241107,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0012",
+   "state": "NJ",
+   "title": "County Commissioner - 4th",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Hudson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 47,
+    "units_total": 50,
+    "pct": 94.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "YRAIDA APONTE-LIPSKI",
+     "votes": 10153,
+     "party": "DEM",
+     "pct": 74.2884319894637,
+     "choice_id": "YRAIDA APONTE-LIPSKI",
+     "party_lines": null
+    },
+    {
+     "name": "AARON WEINER",
+     "votes": 3454,
+     "party": "N-E",
+     "pct": 25.2725543279432,
+     "choice_id": "AARON WEINER",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 60,
+     "party": null,
+     "pct": 0.439013682593107,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0013",
+   "state": "NJ",
+   "title": "County Commissioner - 5th",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Hudson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 52,
+    "units_total": 52,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "RON BAUTISTA",
+     "votes": 14962,
+     "party": "DEM",
+     "pct": 98.0407574864033,
+     "choice_id": "RON BAUTISTA",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 299,
+     "party": null,
+     "pct": 1.95924251359675,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0014",
+   "state": "NJ",
+   "title": "County Commissioner - 6th",
+   "office_type": "local",
+   "district": "6",
+   "jurisdiction": "Hudson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 44,
+    "units_total": 45,
+    "pct": 97.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "FANNY CEDEÑO",
+     "votes": 14118,
+     "party": "DEM",
+     "pct": 99.3525686136524,
+     "choice_id": "FANNY CEDEÑO",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 92,
+     "party": null,
+     "pct": 0.647431386347643,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0015",
+   "state": "NJ",
+   "title": "County Commissioner - 7th",
+   "office_type": "local",
+   "district": "7",
+   "jurisdiction": "Hudson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 46,
+    "units_total": 46,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "CARIDAD RODRIGUEZ",
+     "votes": 12798,
+     "party": "DEM",
+     "pct": 99.0174081237911,
+     "choice_id": "CARIDAD RODRIGUEZ",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 127,
+     "party": null,
+     "pct": 0.982591876208897,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0016",
+   "state": "NJ",
+   "title": "County Commissioner - 8th",
+   "office_type": "local",
+   "district": "8",
+   "jurisdiction": "Hudson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 48,
+    "units_total": 48,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ROBERT P. BASELICE",
+     "votes": 13729,
+     "party": "DEM",
+     "pct": 99.3343462846393,
+     "choice_id": "ROBERT P. BASELICE",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 92,
+     "party": null,
+     "pct": 0.665653715360683,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0017",
+   "state": "NJ",
+   "title": "County Commissioner - 9th",
+   "office_type": "local",
+   "district": "9",
+   "jurisdiction": "Hudson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 56,
+    "units_total": 57,
+    "pct": 98.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ANMOL GOPALAK",
+     "votes": 3316,
+     "party": "REP",
+     "pct": 24.3179818128483,
+     "choice_id": "ANMOL GOPALAK",
+     "party_lines": null
+    },
+    {
+     "name": "ALEX VALDEZ",
+     "votes": 10270,
+     "party": "DEM",
+     "pct": 75.3153417424465,
+     "choice_id": "ALEX VALDEZ",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 50,
+     "party": null,
+     "pct": 0.366676444705192,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0032",
+   "state": "NJ",
+   "title": "City of Bayonne - BOE-3 YRS",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Hudson County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 51,
+    "units_total": 51,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "MELISSA ALEXANDER",
+     "votes": 3330,
+     "party": "BOE",
+     "pct": 15.3760908713118,
+     "choice_id": "MELISSA ALEXANDER",
+     "party_lines": null
+    },
+    {
+     "name": "ROBYN KOPACZ",
+     "votes": 6464,
+     "party": "BOE",
+     "pct": 29.8471625802281,
+     "choice_id": "ROBYN KOPACZ",
+     "party_lines": null
+    },
+    {
+     "name": "SCOTT CUBBERLY",
+     "votes": 6089,
+     "party": "BOE",
+     "pct": 28.1156208154407,
+     "choice_id": "SCOTT CUBBERLY",
+     "party_lines": null
+    },
+    {
+     "name": "REMONDA 'RONA' YACOUB",
+     "votes": 5364,
+     "party": "BOE",
+     "pct": 24.7679734035185,
+     "choice_id": "REMONDA 'RONA' YACOUB",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 410,
+     "party": null,
+     "pct": 1.89315232950085,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0039",
+   "state": "NJ",
+   "title": "City of Bayonne - BOE-1 YR",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Hudson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 51,
+    "units_total": 51,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "AMANDA KLICH",
+     "votes": 2423,
+     "party": "BOE",
+     "pct": 33.7747421243379,
+     "choice_id": "AMANDA KLICH",
+     "party_lines": null
+    },
+    {
+     "name": "JOHN 'JACK' HLADIK",
+     "votes": 4675,
+     "party": "BOE",
+     "pct": 65.1658767772512,
+     "choice_id": "JOHN 'JACK' HLADIK",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 76,
+     "party": null,
+     "pct": 1.05938109841093,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0019",
+   "state": "NJ",
+   "title": "Council at-Large Borough of East Newark",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Hudson County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ACACIO De OLIVEIRA",
+     "votes": 271,
+     "party": "DEM",
+     "pct": 50.1851851851852,
+     "choice_id": "ACACIO De OLIVEIRA",
+     "party_lines": null
+    },
+    {
+     "name": "JEANNE ZINCAVAGE",
+     "votes": 269,
+     "party": "DEM",
+     "pct": 49.8148148148148,
+     "choice_id": "JEANNE ZINCAVAGE",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0033",
+   "state": "NJ",
+   "title": "Borough of East Newark - BOE-3 YRS",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Hudson County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "GENESIS SANTOS",
+     "votes": 226,
+     "party": "BOE",
+     "pct": 32.2857142857143,
+     "choice_id": "GENESIS SANTOS",
+     "party_lines": null
+    },
+    {
+     "name": "LISA DITCHKUS",
+     "votes": 205,
+     "party": "BOE",
+     "pct": 29.2857142857143,
+     "choice_id": "LISA DITCHKUS",
+     "party_lines": null
+    },
+    {
+     "name": "HEATHER LEONE",
+     "votes": 210,
+     "party": "BOE",
+     "pct": 30.0,
+     "choice_id": "HEATHER LEONE",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 59,
+     "party": null,
+     "pct": 8.42857142857143,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0041",
+   "state": "NJ",
+   "title": "East Newark Board of Education Question",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Hudson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 88,
+     "party": null,
+     "pct": 26.9938650306748,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 238,
+     "party": null,
+     "pct": 73.0061349693252,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0020",
+   "state": "NJ",
+   "title": "Council at-Large Town of Guttenberg",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Hudson County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 7,
+    "units_total": 7,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JUANA MALAVE",
+     "votes": 1857,
+     "party": "DEM",
+     "pct": 49.798873692679,
+     "choice_id": "JUANA MALAVE",
+     "party_lines": null
+    },
+    {
+     "name": "WILLIAM HOKIEN",
+     "votes": 1859,
+     "party": "DEM",
+     "pct": 49.8525073746313,
+     "choice_id": "WILLIAM HOKIEN",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 13,
+     "party": null,
+     "pct": 0.348618932689729,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0034",
+   "state": "NJ",
+   "title": "Town of Guttenberg - BOE-3 YRS",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Hudson County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 7,
+    "units_total": 7,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "SUKAINA TEHFA",
+     "votes": 820,
+     "party": "BOE",
+     "pct": 86.1344537815126,
+     "choice_id": "SUKAINA TEHFA",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 132,
+     "party": null,
+     "pct": 13.8655462184874,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0042",
+   "state": "NJ",
+   "title": "Town of Guttenberg Public Question",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Hudson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 7,
+    "units_total": 7,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1398,
+     "party": null,
+     "pct": 82.13866039953,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 304,
+     "party": null,
+     "pct": 17.86133960047,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0018",
+   "state": "NJ",
+   "title": "Mayor Town of Harrison",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Hudson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 12,
+    "units_total": 12,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JAMES A. FIFE",
+     "votes": 2479,
+     "party": "DEM",
+     "pct": 89.8188405797101,
+     "choice_id": "JAMES A. FIFE",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 281,
+     "party": null,
+     "pct": 10.1811594202899,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0021",
+   "state": "NJ",
+   "title": "Town of Harrison Council - Ward 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Hudson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 3,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JESUS R. HUARANGA",
+     "votes": 448,
+     "party": "DEM",
+     "pct": 87.5,
+     "choice_id": "JESUS R. HUARANGA",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 64,
+     "party": null,
+     "pct": 12.5,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0024",
+   "state": "NJ",
+   "title": "Town of Harrison Council - Ward 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Hudson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 3,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JOE DIACO",
+     "votes": 777,
+     "party": "DEM",
+     "pct": 93.9540507859734,
+     "choice_id": "JOE DIACO",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 50,
+     "party": null,
+     "pct": 6.0459492140266,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0027",
+   "state": "NJ",
+   "title": "Town of Harrison Council - Ward 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Hudson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 3,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JAMES T. WOODS",
+     "votes": 686,
+     "party": "DEM",
+     "pct": 91.8340026773762,
+     "choice_id": "JAMES T. WOODS",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 61,
+     "party": null,
+     "pct": 8.16599732262383,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0030",
+   "state": "NJ",
+   "title": "Town of Harrison Council - Ward 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Hudson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 3,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JAMES P. DORAN",
+     "votes": 600,
+     "party": "DEM",
+     "pct": 96.9305331179321,
+     "choice_id": "JAMES P. DORAN",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 19,
+     "party": null,
+     "pct": 3.06946688206785,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0035",
+   "state": "NJ",
+   "title": "City of Hoboken - BOE-3 YRS",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Hudson County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 42,
+    "units_total": 42,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "SHEILLAH DALLARA",
+     "votes": 7349,
+     "party": "BOE",
+     "pct": 29.1823849422229,
+     "choice_id": "SHEILLAH DALLARA",
+     "party_lines": null
+    },
+    {
+     "name": "ADRIAN OXMAN",
+     "votes": 7324,
+     "party": "BOE",
+     "pct": 29.0831116229202,
+     "choice_id": "ADRIAN OXMAN",
+     "party_lines": null
+    },
+    {
+     "name": "SHARYN ANGLEY",
+     "votes": 7233,
+     "party": "BOE",
+     "pct": 28.7217567406584,
+     "choice_id": "SHARYN ANGLEY",
+     "party_lines": null
+    },
+    {
+     "name": "PATRICIA WAITERS",
+     "votes": 2880,
+     "party": "BOE",
+     "pct": 11.4362863836715,
+     "choice_id": "PATRICIA WAITERS",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 397,
+     "party": null,
+     "pct": 1.57646031052694,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0036",
+   "state": "NJ",
+   "title": "City of Jersey City - BOE-3 YRS",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Hudson County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 179,
+    "units_total": 191,
+    "pct": 93.7,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JESSICA TAUBE",
+     "votes": 19556,
+     "party": "BOE",
+     "pct": 18.0267876072749,
+     "choice_id": "JESSICA TAUBE",
+     "party_lines": null
+    },
+    {
+     "name": "DANIELLE WALKER",
+     "votes": 21003,
+     "party": "BOE",
+     "pct": 19.3606371505213,
+     "choice_id": "DANIELLE WALKER",
+     "party_lines": null
+    },
+    {
+     "name": "CHLOE WILLIAMS",
+     "votes": 18830,
+     "party": "BOE",
+     "pct": 17.3575583271112,
+     "choice_id": "CHLOE WILLIAMS",
+     "party_lines": null
+    },
+    {
+     "name": "GEORGE P. BLOUNT",
+     "votes": 7795,
+     "party": "BOE",
+     "pct": 7.18545762930597,
+     "choice_id": "GEORGE P. BLOUNT",
+     "party_lines": null
+    },
+    {
+     "name": "DE'JON MORRIS",
+     "votes": 8098,
+     "party": "BOE",
+     "pct": 7.46476406441562,
+     "choice_id": "DE'JON MORRIS",
+     "party_lines": null
+    },
+    {
+     "name": "ALPA PATEL",
+     "votes": 7091,
+     "party": "BOE",
+     "pct": 6.53650802429874,
+     "choice_id": "ALPA PATEL",
+     "party_lines": null
+    },
+    {
+     "name": "JULIETTA VOGT",
+     "votes": 7794,
+     "party": "BOE",
+     "pct": 7.18453582588977,
+     "choice_id": "JULIETTA VOGT",
+     "party_lines": null
+    },
+    {
+     "name": "VIDESH A. BAHADUR",
+     "votes": 7456,
+     "party": "BOE",
+     "pct": 6.872966271213,
+     "choice_id": "VIDESH A. BAHADUR",
+     "party_lines": null
+    },
+    {
+     "name": "FERNANDO GARCIA",
+     "votes": 8139,
+     "party": "BOE",
+     "pct": 7.50255800447996,
+     "choice_id": "FERNANDO GARCIA",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 2721,
+     "party": null,
+     "pct": 2.50822709548962,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0040",
+   "state": "NJ",
+   "title": "City of Jersey City - BOE-1 YR",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Hudson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 179,
+    "units_total": 191,
+    "pct": 93.7,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "GINA VERDIBELLO",
+     "votes": 16035,
+     "party": "BOE",
+     "pct": 51.0489955747986,
+     "choice_id": "GINA VERDIBELLO",
+     "party_lines": null
+    },
+    {
+     "name": "VANESSA RODRIGUEZ",
+     "votes": 9924,
+     "party": "BOE",
+     "pct": 31.5940275699596,
+     "choice_id": "VANESSA RODRIGUEZ",
+     "party_lines": null
+    },
+    {
+     "name": "ZEBEDAYO MASONGO",
+     "votes": 4878,
+     "party": "BOE",
+     "pct": 15.5295915443634,
+     "choice_id": "ZEBEDAYO MASONGO",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 574,
+     "party": null,
+     "pct": 1.82738531087835,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0022",
+   "state": "NJ",
+   "title": "Town of Kearny Council - Ward 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Hudson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 8,
+    "units_total": 8,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "GEORGE A. ZAPATA",
+     "votes": 1279,
+     "party": "DEM",
+     "pct": 97.2623574144487,
+     "choice_id": "GEORGE A. ZAPATA",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 36,
+     "party": null,
+     "pct": 2.73764258555133,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0025",
+   "state": "NJ",
+   "title": "Town of Kearny Council - Ward 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Hudson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 6,
+    "units_total": 6,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JULIO HUANCAYA",
+     "votes": 1128,
+     "party": "DEM",
+     "pct": 97.6623376623377,
+     "choice_id": "JULIO HUANCAYA",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 27,
+     "party": null,
+     "pct": 2.33766233766234,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0028",
+   "state": "NJ",
+   "title": "Town of Kearny Council - Ward 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Hudson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 9,
+    "units_total": 9,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DARIUSZ BYSTROWSKI",
+     "votes": 887,
+     "party": "REP",
+     "pct": 33.4212509419744,
+     "choice_id": "DARIUSZ BYSTROWSKI",
+     "party_lines": null
+    },
+    {
+     "name": "SARAH BONILLA",
+     "votes": 1757,
+     "party": "DEM",
+     "pct": 66.2019593067069,
+     "choice_id": "SARAH BONILLA",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 10,
+     "party": null,
+     "pct": 0.376789751318764,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0031",
+   "state": "NJ",
+   "title": "Town of Kearny Council - Ward 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Hudson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 7,
+    "units_total": 7,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ORLANDO MIRANDA",
+     "votes": 1560,
+     "party": "DEM",
+     "pct": 97.8056426332288,
+     "choice_id": "ORLANDO MIRANDA",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 35,
+     "party": null,
+     "pct": 2.19435736677116,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0037",
+   "state": "NJ",
+   "title": "Town of Kearny - BOE-3 YRS",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Hudson County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 30,
+    "units_total": 30,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "SAMANTHA PARIS",
+     "votes": 2445,
+     "party": "BOE",
+     "pct": 22.4559147685525,
+     "choice_id": "SAMANTHA PARIS",
+     "party_lines": null
+    },
+    {
+     "name": "LAURA CIFELLI-PETTIGREW",
+     "votes": 2491,
+     "party": "BOE",
+     "pct": 22.8783982365907,
+     "choice_id": "LAURA CIFELLI-PETTIGREW",
+     "party_lines": null
+    },
+    {
+     "name": "S.J. ZIBBIE VISCUSO",
+     "votes": 2199,
+     "party": "BOE",
+     "pct": 20.1965466568699,
+     "choice_id": "S.J. ZIBBIE VISCUSO",
+     "party_lines": null
+    },
+    {
+     "name": "ANN RODRIGUES",
+     "votes": 1959,
+     "party": "BOE",
+     "pct": 17.9922850844967,
+     "choice_id": "ANN RODRIGUES",
+     "party_lines": null
+    },
+    {
+     "name": "MACKENZIE ELLIOTT",
+     "votes": 1522,
+     "party": "BOE",
+     "pct": 13.9786921381337,
+     "choice_id": "MACKENZIE ELLIOTT",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 272,
+     "party": null,
+     "pct": 2.49816311535636,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0023",
+   "state": "NJ",
+   "title": "Town of Secaucus Council - Ward 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Hudson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JOHN GERBASIO",
+     "votes": 578,
+     "party": "N-F",
+     "pct": 97.1428571428571,
+     "choice_id": "JOHN GERBASIO",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 17,
+     "party": null,
+     "pct": 2.85714285714286,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0026",
+   "state": "NJ",
+   "title": "Town of Secaucus Council - Ward 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Hudson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JAMES J. CLANCY Sr.",
+     "votes": 1227,
+     "party": "N-F",
+     "pct": 96.3864886095837,
+     "choice_id": "JAMES J. CLANCY Sr.",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 46,
+     "party": null,
+     "pct": 3.61351139041634,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0029",
+   "state": "NJ",
+   "title": "Town of Secaucus Council - Ward 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Hudson County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 6,
+    "units_total": 6,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ORIETTA TRINGALI",
+     "votes": 1059,
+     "party": "N-F",
+     "pct": 97.6937269372694,
+     "choice_id": "ORIETTA TRINGALI",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 25,
+     "party": null,
+     "pct": 2.30627306273063,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  },
+  {
+   "source": "nj.hudson",
+   "contest_id": "0038",
+   "state": "NJ",
+   "title": "Town of Secaucus - BOE-3 YRS",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Hudson County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 16,
+    "units_total": 16,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ANTHONY GRANIERE",
+     "votes": 1814,
+     "party": "BOE",
+     "pct": 30.7145275990518,
+     "choice_id": "ANTHONY GRANIERE",
+     "party_lines": null
+    },
+    {
+     "name": "DINA KHIRY GERBASIO",
+     "votes": 1985,
+     "party": "BOE",
+     "pct": 33.6098882492381,
+     "choice_id": "DINA KHIRY GERBASIO",
+     "party_lines": null
+    },
+    {
+     "name": "KATHERINE NGUYEN",
+     "votes": 1889,
+     "party": "BOE",
+     "pct": 31.9844226210633,
+     "choice_id": "KATHERINE NGUYEN",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Vote",
+     "votes": 218,
+     "party": null,
+     "pct": 3.6911615306468,
+     "choice_id": "Write-In Vote",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/NJ/Hudson/127495/"
+  }
+ ],
+ "contests_hash": "47cd93b56915b14b",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-04T05:23:49+00:00",
+ "fetched_at": "2026-11-04T05:23:49+00:00",
+ "contests_changed_at": "2026-11-04T05:23:49+00:00"
 }

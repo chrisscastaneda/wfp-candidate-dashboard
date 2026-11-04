@@ -1,8 +1,3895 @@
 {
  "source": "ca.sonoma",
- "contests": [],
- "contests_hash": null,
- "status": "not_published",
- "message": "no 2026-11-03 election listed",
- "last_attempt_at": "2026-11-04T04:11:14+00:00"
+ "contests": [
+  {
+   "source": "ca.sonoma",
+   "contest_id": "1",
+   "state": "CA",
+   "title": "Governor",
+   "office_type": "governor",
+   "district": null,
+   "jurisdiction": "Sonoma County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "STEVE HILTON",
+     "votes": 20793,
+     "party": "REP",
+     "pct": 23.0112881806109,
+     "choice_id": "STEVE HILTON",
+     "party_lines": null
+    },
+    {
+     "name": "XAVIER BECERRA",
+     "votes": 69567,
+     "party": "DEM",
+     "pct": 76.9887118193891,
+     "choice_id": "XAVIER BECERRA",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "2",
+   "state": "CA",
+   "title": "Lieutenant Governor",
+   "office_type": "lt_governor",
+   "district": null,
+   "jurisdiction": "Sonoma County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "GLORIA ROMERO",
+     "votes": 20474,
+     "party": "REP",
+     "pct": 22.8104771772675,
+     "choice_id": "GLORIA ROMERO",
+     "party_lines": null
+    },
+    {
+     "name": "FIONA MA",
+     "votes": 69283,
+     "party": "DEM",
+     "pct": 77.1895228227325,
+     "choice_id": "FIONA MA",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "3",
+   "state": "CA",
+   "title": "Secretary of State",
+   "office_type": "secretary_of_state",
+   "district": null,
+   "jurisdiction": "Sonoma County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DONALD P. (DON) WAGNER",
+     "votes": 20157,
+     "party": "REP",
+     "pct": 22.499162852997,
+     "choice_id": "DONALD P. (DON) WAGNER",
+     "party_lines": null
+    },
+    {
+     "name": "SHIRLEY N. WEBER",
+     "votes": 69433,
+     "party": "DEM",
+     "pct": 77.500837147003,
+     "choice_id": "SHIRLEY N. WEBER",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "4",
+   "state": "CA",
+   "title": "Controller",
+   "office_type": "controller",
+   "district": null,
+   "jurisdiction": "Sonoma County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "MALIA M. COHEN",
+     "votes": 68444,
+     "party": "DEM",
+     "pct": 76.5318901511763,
+     "choice_id": "MALIA M. COHEN",
+     "party_lines": null
+    },
+    {
+     "name": "HERB W MORGAN",
+     "votes": 20988,
+     "party": "REP",
+     "pct": 23.4681098488237,
+     "choice_id": "HERB W MORGAN",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "5",
+   "state": "CA",
+   "title": "Treasurer",
+   "office_type": "treasurer",
+   "district": null,
+   "jurisdiction": "Sonoma County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JENNIFER HAWKS",
+     "votes": 20642,
+     "party": "REP",
+     "pct": 23.1355495281433,
+     "choice_id": "JENNIFER HAWKS",
+     "party_lines": null
+    },
+    {
+     "name": "ELENI KOUNALAKIS",
+     "votes": 68580,
+     "party": "DEM",
+     "pct": 76.8644504718567,
+     "choice_id": "ELENI KOUNALAKIS",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "6",
+   "state": "CA",
+   "title": "Attorney General",
+   "office_type": "attorney_general",
+   "district": null,
+   "jurisdiction": "Sonoma County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ROB BONTA",
+     "votes": 68605,
+     "party": "DEM",
+     "pct": 76.5031892591106,
+     "choice_id": "ROB BONTA",
+     "party_lines": null
+    },
+    {
+     "name": "MICHAEL E. GATES",
+     "votes": 21071,
+     "party": "REP",
+     "pct": 23.4968107408894,
+     "choice_id": "MICHAEL E. GATES",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "7",
+   "state": "CA",
+   "title": "Insurance Commissioner",
+   "office_type": "insurance_commissioner",
+   "district": null,
+   "jurisdiction": "Sonoma County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JANE KIM",
+     "votes": 39583,
+     "party": "DEM",
+     "pct": 49.3418264316522,
+     "choice_id": "JANE KIM",
+     "party_lines": null
+    },
+    {
+     "name": "BEN ALLEN",
+     "votes": 40639,
+     "party": "DEM",
+     "pct": 50.6581735683478,
+     "choice_id": "BEN ALLEN",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "8",
+   "state": "CA",
+   "title": "Member, State Board of Equalization, 2nd District",
+   "office_type": "board_of_equalization",
+   "district": "2",
+   "jurisdiction": "Sonoma County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JOHN PIMENTEL",
+     "votes": 25605,
+     "party": "DEM",
+     "pct": 33.0152794790794,
+     "choice_id": "JOHN PIMENTEL",
+     "party_lines": null
+    },
+    {
+     "name": "SALLY J. LIEBER",
+     "votes": 51950,
+     "party": "DEM",
+     "pct": 66.9847205209206,
+     "choice_id": "SALLY J. LIEBER",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "9",
+   "state": "CA",
+   "title": "United States Representative, 1st District",
+   "office_type": "federal_house",
+   "district": "1",
+   "jurisdiction": "Sonoma County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 128,
+    "units_total": 190,
+    "pct": 67.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JAMES GALLAGHER",
+     "votes": 11395,
+     "party": "REP",
+     "pct": 22.5162029718622,
+     "choice_id": "JAMES GALLAGHER",
+     "party_lines": null
+    },
+    {
+     "name": "MIKE MCGUIRE",
+     "votes": 39213,
+     "party": "DEM",
+     "pct": 77.4837970281378,
+     "choice_id": "MIKE MCGUIRE",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "10",
+   "state": "CA",
+   "title": "United States Representative, 2nd District",
+   "office_type": "federal_house",
+   "district": "2",
+   "jurisdiction": "Sonoma County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 48,
+    "units_total": 83,
+    "pct": 57.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JARED HUFFMAN",
+     "votes": 10767,
+     "party": "DEM",
+     "pct": 82.562686910513,
+     "choice_id": "JARED HUFFMAN",
+     "party_lines": null
+    },
+    {
+     "name": "ROBIN LITTAU",
+     "votes": 2274,
+     "party": "REP",
+     "pct": 17.437313089487,
+     "choice_id": "ROBIN LITTAU",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "11",
+   "state": "CA",
+   "title": "United States Representative, 4th District",
+   "office_type": "federal_house",
+   "district": "4",
+   "jurisdiction": "Sonoma County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 90,
+    "units_total": 130,
+    "pct": 69.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ERIC JONES",
+     "votes": 10630,
+     "party": "DEM",
+     "pct": 44.118867767909,
+     "choice_id": "ERIC JONES",
+     "party_lines": null
+    },
+    {
+     "name": "MIKE THOMPSON",
+     "votes": 13464,
+     "party": "DEM",
+     "pct": 55.881132232091,
+     "choice_id": "MIKE THOMPSON",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "12",
+   "state": "CA",
+   "title": "State Senator, 2nd District",
+   "office_type": "state_senate",
+   "district": "2",
+   "jurisdiction": "Sonoma County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 214,
+    "units_total": 333,
+    "pct": 64.3,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DAMON CONNOLLY",
+     "votes": 56732,
+     "party": "DEM",
+     "pct": 77.9767713559206,
+     "choice_id": "DAMON CONNOLLY",
+     "party_lines": null
+    },
+    {
+     "name": "TIEF GIBBS",
+     "votes": 16023,
+     "party": "REP",
+     "pct": 22.0232286440794,
+     "choice_id": "TIEF GIBBS",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "13",
+   "state": "CA",
+   "title": "Member of the State Assembly, 2nd District",
+   "office_type": "state_house",
+   "district": "2",
+   "jurisdiction": "Sonoma County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 132,
+    "units_total": 209,
+    "pct": 63.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "CHRIS ROGERS",
+     "votes": 35102,
+     "party": "DEM",
+     "pct": 77.614646442312,
+     "choice_id": "CHRIS ROGERS",
+     "party_lines": null
+    },
+    {
+     "name": "MICHAEL GREER",
+     "votes": 10124,
+     "party": "REP",
+     "pct": 22.3853535576881,
+     "choice_id": "MICHAEL GREER",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "14",
+   "state": "CA",
+   "title": "Member of the State Assembly, 4th District",
+   "office_type": "state_house",
+   "district": "4",
+   "jurisdiction": "Sonoma County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 17,
+    "units_total": 22,
+    "pct": 77.3,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "CECILIA M. AGUIAR-CURRY",
+     "votes": 4887,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "CECILIA M. AGUIAR-CURRY",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "15",
+   "state": "CA",
+   "title": "Member of the State Assembly, 12th District",
+   "office_type": "state_house",
+   "district": "12",
+   "jurisdiction": "Sonoma County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 117,
+    "units_total": 172,
+    "pct": 68.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ERIC LUCAN",
+     "votes": 13232,
+     "party": "DEM",
+     "pct": 38.8126246626775,
+     "choice_id": "ERIC LUCAN",
+     "party_lines": null
+    },
+    {
+     "name": "JACKIE ELWARD",
+     "votes": 20860,
+     "party": "DEM",
+     "pct": 61.1873753373225,
+     "choice_id": "JACKIE ELWARD",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "16",
+   "state": "CA",
+   "title": "Associate Justice of the Supreme Court (Evans)",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 56056,
+     "party": null,
+     "pct": 83.1580352771885,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 11353,
+     "party": null,
+     "pct": 16.8419647228115,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "17",
+   "state": "CA",
+   "title": "Associate Justice of the Supreme Court (Groban)",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 53543,
+     "party": null,
+     "pct": 80.993223210504,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 12565,
+     "party": null,
+     "pct": 19.006776789496,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "18",
+   "state": "CA",
+   "title": "Assoc Justice, Ct Appeal 1st Dist Div 1 (Smiley)",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 51495,
+     "party": null,
+     "pct": 80.454651980314,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 12510,
+     "party": null,
+     "pct": 19.545348019686,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "19",
+   "state": "CA",
+   "title": "Assoc Justice, Ct Appeal 1st Dist Div 1 (Langhorne)",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 52539,
+     "party": null,
+     "pct": 81.6824987173707,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 11782,
+     "party": null,
+     "pct": 18.3175012826293,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "20",
+   "state": "CA",
+   "title": "Assoc Justice, Ct Appeal 1st Dist Div 1 (Banke)",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 52115,
+     "party": null,
+     "pct": 81.543083350284,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 11796,
+     "party": null,
+     "pct": 18.456916649716,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "21",
+   "state": "CA",
+   "title": "Pres Justice, Ct Appeal 1st Dist Div 2 (Stewart)",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 52628,
+     "party": null,
+     "pct": 82.2415301912739,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 11364,
+     "party": null,
+     "pct": 17.7584698087261,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "22",
+   "state": "CA",
+   "title": "Assoc Justice, Ct Appeal 1st Dist Div 2 (Desautels)",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 51536,
+     "party": null,
+     "pct": 81.0467383783104,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 12052,
+     "party": null,
+     "pct": 18.9532616216896,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "23",
+   "state": "CA",
+   "title": "Assoc Justice, Ct Appeal 1st Dist Div 3 (Rodriguez)",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 50691,
+     "party": null,
+     "pct": 80.110942537455,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 12585,
+     "party": null,
+     "pct": 19.889057462545,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "24",
+   "state": "CA",
+   "title": "Assoc Justice, Ct Appeal 1st Dist Div 3 (Petrou)",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 50492,
+     "party": null,
+     "pct": 79.8380848473349,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 12751,
+     "party": null,
+     "pct": 20.1619151526651,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "25",
+   "state": "CA",
+   "title": "Pres Justice, Ct Appeal 1st Dist Div 4 (Brown)",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 52708,
+     "party": null,
+     "pct": 82.8937642525753,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 10877,
+     "party": null,
+     "pct": 17.1062357474247,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "26",
+   "state": "CA",
+   "title": "Assoc Justice, Ct Appeal 1st Dist Div 5 (Chou)",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 50824,
+     "party": null,
+     "pct": 80.6333391505767,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 12207,
+     "party": null,
+     "pct": 19.3666608494233,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "27",
+   "state": "CA",
+   "title": "Assoc Justice, Ct Appeal 1st Dist Div 5 (Simons)",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 48978,
+     "party": null,
+     "pct": 78.7149239818714,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 13244,
+     "party": null,
+     "pct": 21.2850760181286,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "28",
+   "state": "CA",
+   "title": "Assoc Justice, Ct Appeal 1st Dist Div 5 (Burns)",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 49616,
+     "party": null,
+     "pct": 79.8660743030069,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 12508,
+     "party": null,
+     "pct": 20.1339256969931,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "29",
+   "state": "CA",
+   "title": "State Superintendent of Public Instruction",
+   "office_type": "superintendent",
+   "district": null,
+   "jurisdiction": "Sonoma County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "SONJA SHAW",
+     "votes": 25577,
+     "party": null,
+     "pct": 34.852696699643,
+     "choice_id": "SONJA SHAW",
+     "party_lines": null
+    },
+    {
+     "name": "RICHARD BARRERA",
+     "votes": 47809,
+     "party": null,
+     "pct": 65.147303300357,
+     "choice_id": "RICHARD BARRERA",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "45",
+   "state": "CA",
+   "title": "County Supervisor, 2nd District",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 57,
+    "units_total": 85,
+    "pct": 67.1,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JOANNA PAUN",
+     "votes": 9646,
+     "party": null,
+     "pct": 61.89681724846,
+     "choice_id": "JOANNA PAUN",
+     "party_lines": null
+    },
+    {
+     "name": "SYLVIA LEMUS",
+     "votes": 5938,
+     "party": null,
+     "pct": 38.10318275154,
+     "choice_id": "SYLVIA LEMUS",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "46",
+   "state": "CA",
+   "title": "County Supervisor, 4th District",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 48,
+    "units_total": 82,
+    "pct": 58.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "TOM SCHWEDHELM",
+     "votes": 7634,
+     "party": null,
+     "pct": 46.9871360866622,
+     "choice_id": "TOM SCHWEDHELM",
+     "party_lines": null
+    },
+    {
+     "name": "MELANIE BAGBY",
+     "votes": 8613,
+     "party": null,
+     "pct": 53.0128639133378,
+     "choice_id": "MELANIE BAGBY",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "30",
+   "state": "CA",
+   "title": "Governing Board Member, Sonoma County Board of Education, Trustee Area 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 56,
+    "units_total": 82,
+    "pct": 68.3,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JONATHAN LENZ",
+     "votes": 7339,
+     "party": null,
+     "pct": 51.8327565506039,
+     "choice_id": "JONATHAN LENZ",
+     "party_lines": null
+    },
+    {
+     "name": "CAITLIN QUINN",
+     "votes": 6820,
+     "party": null,
+     "pct": 48.1672434493961,
+     "choice_id": "CAITLIN QUINN",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "32",
+   "state": "CA",
+   "title": "Governing Board Member, Sonoma County Junior College District, Trustee Area 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 37,
+    "units_total": 51,
+    "pct": 72.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "LETICIA CONTRERAS",
+     "votes": 3074,
+     "party": null,
+     "pct": 24.9310624493106,
+     "choice_id": "LETICIA CONTRERAS",
+     "party_lines": null
+    },
+    {
+     "name": "DOROTHY BATTENFELD",
+     "votes": 9256,
+     "party": null,
+     "pct": 75.0689375506894,
+     "choice_id": "DOROTHY BATTENFELD",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "31",
+   "state": "CA",
+   "title": "Governing Board Member, Sonoma County Junior College District, Trustee Area 7",
+   "office_type": "local",
+   "district": "7",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 56,
+    "units_total": 103,
+    "pct": 54.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "KATELYN RUTKOWSKI",
+     "votes": 3801,
+     "party": null,
+     "pct": 32.160081225146,
+     "choice_id": "KATELYN RUTKOWSKI",
+     "party_lines": null
+    },
+    {
+     "name": "MICHAEL VALDOVINOS",
+     "votes": 8018,
+     "party": null,
+     "pct": 67.8399187748541,
+     "choice_id": "MICHAEL VALDOVINOS",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "93",
+   "state": "CA",
+   "title": "Governing Board Member, Calistoga Joint Unified School District",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 5,
+    "pct": 40.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "IRENE PENA",
+     "votes": 30,
+     "party": null,
+     "pct": 21.5827338129496,
+     "choice_id": "IRENE PENA",
+     "party_lines": null
+    },
+    {
+     "name": "REBECCA SAGER",
+     "votes": 38,
+     "party": null,
+     "pct": 27.3381294964029,
+     "choice_id": "REBECCA SAGER",
+     "party_lines": null
+    },
+    {
+     "name": "CECILIA RAMIREZ",
+     "votes": 20,
+     "party": null,
+     "pct": 14.3884892086331,
+     "choice_id": "CECILIA RAMIREZ",
+     "party_lines": null
+    },
+    {
+     "name": "LAUREL RIOS",
+     "votes": 51,
+     "party": null,
+     "pct": 36.6906474820144,
+     "choice_id": "LAUREL RIOS",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "33",
+   "state": "CA",
+   "title": "Governing Board Member, Cotati-Rohnert Park Unified School District Trustee Area 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 4,
+    "units_total": 4,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ANGELA MARIE SCARDINA",
+     "votes": 810,
+     "party": null,
+     "pct": 53.1845042678923,
+     "choice_id": "ANGELA MARIE SCARDINA",
+     "party_lines": null
+    },
+    {
+     "name": "LEFF BROWN",
+     "votes": 560,
+     "party": null,
+     "pct": 36.7695338148391,
+     "choice_id": "LEFF BROWN",
+     "party_lines": null
+    },
+    {
+     "name": "NATHAN TOISTER",
+     "votes": 153,
+     "party": null,
+     "pct": 10.0459619172685,
+     "choice_id": "NATHAN TOISTER",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "34",
+   "state": "CA",
+   "title": "Governing Board Member, Sonoma Valley Unified School District, Trustee Area 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 9,
+    "units_total": 15,
+    "pct": 60.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "AMANDA RADZIK",
+     "votes": 814,
+     "party": null,
+     "pct": 75.4402224281742,
+     "choice_id": "AMANDA RADZIK",
+     "party_lines": null
+    },
+    {
+     "name": "SUSAN JOYCE MCINTOSH",
+     "votes": 265,
+     "party": null,
+     "pct": 24.5597775718258,
+     "choice_id": "SUSAN JOYCE MCINTOSH",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "35",
+   "state": "CA",
+   "title": "Governing Board Member, Windsor Unified School District",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 11,
+    "units_total": 18,
+    "pct": 61.1,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "RICH CARNATION",
+     "votes": 2694,
+     "party": null,
+     "pct": 28.1828643163511,
+     "choice_id": "RICH CARNATION",
+     "party_lines": null
+    },
+    {
+     "name": "STEPHANIE AHMAD",
+     "votes": 2712,
+     "party": null,
+     "pct": 28.3711685322733,
+     "choice_id": "STEPHANIE AHMAD",
+     "party_lines": null
+    },
+    {
+     "name": "PATRICIA ''TRISH'' DONOHO",
+     "votes": 2720,
+     "party": null,
+     "pct": 28.4548592949053,
+     "choice_id": "PATRICIA ''TRISH'' DONOHO",
+     "party_lines": null
+    },
+    {
+     "name": "MICHAEL BROWN",
+     "votes": 1433,
+     "party": null,
+     "pct": 14.9911078564703,
+     "choice_id": "MICHAEL BROWN",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "36",
+   "state": "CA",
+   "title": "Governing Board Member, Petaluma Joint Union High School District, Trustee Area 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 9,
+    "units_total": 15,
+    "pct": 60.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "LAURA HOLMES",
+     "votes": 1522,
+     "party": null,
+     "pct": 65.4342218400688,
+     "choice_id": "LAURA HOLMES",
+     "party_lines": null
+    },
+    {
+     "name": "JOHN GARCIA",
+     "votes": 804,
+     "party": null,
+     "pct": 34.5657781599312,
+     "choice_id": "JOHN GARCIA",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "37",
+   "state": "CA",
+   "title": "Governing Board Member, Petaluma Joint Union High School District, Trustee Area 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 14,
+    "units_total": 20,
+    "pct": 70.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JOHN LA BARE",
+     "votes": 1112,
+     "party": null,
+     "pct": 48.943661971831,
+     "choice_id": "JOHN LA BARE",
+     "party_lines": null
+    },
+    {
+     "name": "SARAH SEITCHIK SEBASTIAN",
+     "votes": 1160,
+     "party": null,
+     "pct": 51.056338028169,
+     "choice_id": "SARAH SEITCHIK SEBASTIAN",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "38",
+   "state": "CA",
+   "title": "Governing Board Member, City of Santa Rosa High School District, Trustee Area 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 8,
+    "units_total": 15,
+    "pct": 53.3,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "SHAUN A. DU FOSEE",
+     "votes": 1774,
+     "party": null,
+     "pct": 53.7412905180248,
+     "choice_id": "SHAUN A. DU FOSEE",
+     "party_lines": null
+    },
+    {
+     "name": "TERESA A. MEDINA",
+     "votes": 1527,
+     "party": null,
+     "pct": 46.2587094819752,
+     "choice_id": "TERESA A. MEDINA",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "39",
+   "state": "CA",
+   "title": "Governing Board Member, West Sonoma County Union High School District, Trustee Area 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 6,
+    "units_total": 8,
+    "pct": 75.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DANI SHEEHAN-MEYER",
+     "votes": 517,
+     "party": null,
+     "pct": 29.6275071633238,
+     "choice_id": "DANI SHEEHAN-MEYER",
+     "party_lines": null
+    },
+    {
+     "name": "LEWIS BUCHNER",
+     "votes": 1228,
+     "party": null,
+     "pct": 70.3724928366762,
+     "choice_id": "LEWIS BUCHNER",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "40",
+   "state": "CA",
+   "title": "Governing Board Member, Harmony Union School District",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 6,
+    "pct": 50.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JACQUELYN WILSON",
+     "votes": 549,
+     "party": null,
+     "pct": 29.5956873315364,
+     "choice_id": "JACQUELYN WILSON",
+     "party_lines": null
+    },
+    {
+     "name": "MICHAEL PODSHADLEY",
+     "votes": 377,
+     "party": null,
+     "pct": 20.3234501347709,
+     "choice_id": "MICHAEL PODSHADLEY",
+     "party_lines": null
+    },
+    {
+     "name": "TIFFANY DANIELLE MONROE",
+     "votes": 482,
+     "party": null,
+     "pct": 25.9838274932615,
+     "choice_id": "TIFFANY DANIELLE MONROE",
+     "party_lines": null
+    },
+    {
+     "name": "JASMIN TOKATLIAN",
+     "votes": 447,
+     "party": null,
+     "pct": 24.0970350404313,
+     "choice_id": "JASMIN TOKATLIAN",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "41",
+   "state": "CA",
+   "title": "Governing Board Member, Monte Rio Union School District",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 7,
+    "pct": 42.9,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "MIKE WILDER",
+     "votes": 64,
+     "party": null,
+     "pct": 14.0350877192982,
+     "choice_id": "MIKE WILDER",
+     "party_lines": null
+    },
+    {
+     "name": "CRAIG BAKER",
+     "votes": 175,
+     "party": null,
+     "pct": 38.3771929824561,
+     "choice_id": "CRAIG BAKER",
+     "party_lines": null
+    },
+    {
+     "name": "MELISSA FROST",
+     "votes": 217,
+     "party": null,
+     "pct": 47.5877192982456,
+     "choice_id": "MELISSA FROST",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "42",
+   "state": "CA",
+   "title": "Governing Board Member, Twin Hills Union School District",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 8,
+    "pct": 62.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REBECCA HOUGHTON",
+     "votes": 676,
+     "party": null,
+     "pct": 28.0847528043207,
+     "choice_id": "REBECCA HOUGHTON",
+     "party_lines": null
+    },
+    {
+     "name": "JEFF HARDING",
+     "votes": 647,
+     "party": null,
+     "pct": 26.8799335272123,
+     "choice_id": "JEFF HARDING",
+     "party_lines": null
+    },
+    {
+     "name": "ANNA-MARIA GUZMAN",
+     "votes": 626,
+     "party": null,
+     "pct": 26.0074781886165,
+     "choice_id": "ANNA-MARIA GUZMAN",
+     "party_lines": null
+    },
+    {
+     "name": "JOHN MOISE",
+     "votes": 458,
+     "party": null,
+     "pct": 19.0278354798504,
+     "choice_id": "JOHN MOISE",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "43",
+   "state": "CA",
+   "title": "Governing Board Member, Two Rock Union School District",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "NICOLAS NOYES",
+     "votes": 41,
+     "party": null,
+     "pct": 21.9251336898396,
+     "choice_id": "NICOLAS NOYES",
+     "party_lines": null
+    },
+    {
+     "name": "JOEL RUIZ",
+     "votes": 46,
+     "party": null,
+     "pct": 24.5989304812834,
+     "choice_id": "JOEL RUIZ",
+     "party_lines": null
+    },
+    {
+     "name": "LAURA B. GUTIERREZ",
+     "votes": 34,
+     "party": null,
+     "pct": 18.1818181818182,
+     "choice_id": "LAURA B. GUTIERREZ",
+     "party_lines": null
+    },
+    {
+     "name": "MAURICIO GUTIERREZ",
+     "votes": 14,
+     "party": null,
+     "pct": 7.48663101604278,
+     "choice_id": "MAURICIO GUTIERREZ",
+     "party_lines": null
+    },
+    {
+     "name": "JOHN C. MARTIN",
+     "votes": 52,
+     "party": null,
+     "pct": 27.807486631016,
+     "choice_id": "JOHN C. MARTIN",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "44",
+   "state": "CA",
+   "title": "Governing Board Member, Waugh School District",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 4,
+    "pct": 75.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "CHRISTINE D. PIEPER",
+     "votes": 669,
+     "party": null,
+     "pct": 31.3348946135831,
+     "choice_id": "CHRISTINE D. PIEPER",
+     "party_lines": null
+    },
+    {
+     "name": "DYLAN LLOYD",
+     "votes": 469,
+     "party": null,
+     "pct": 21.9672131147541,
+     "choice_id": "DYLAN LLOYD",
+     "party_lines": null
+    },
+    {
+     "name": "DENISE BUGBEE",
+     "votes": 639,
+     "party": null,
+     "pct": 29.9297423887588,
+     "choice_id": "DENISE BUGBEE",
+     "party_lines": null
+    },
+    {
+     "name": "KEVIN GUSHUE",
+     "votes": 358,
+     "party": null,
+     "pct": 16.768149882904,
+     "choice_id": "KEVIN GUSHUE",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "47",
+   "state": "CA",
+   "title": "Member, Santa Rosa City Council, District 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 8,
+    "units_total": 9,
+    "pct": 88.9,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "MARK STAPP",
+     "votes": 3464,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "MARK STAPP",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "48",
+   "state": "CA",
+   "title": "Member, Santa Rosa City Council, District 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 13,
+    "units_total": 15,
+    "pct": 86.7,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "MELANIE JONES-CARTER",
+     "votes": 3289,
+     "party": null,
+     "pct": 57.5603780189009,
+     "choice_id": "MELANIE JONES-CARTER",
+     "party_lines": null
+    },
+    {
+     "name": "TERRY SANDERS",
+     "votes": 2425,
+     "party": null,
+     "pct": 42.4396219810991,
+     "choice_id": "TERRY SANDERS",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "49",
+   "state": "CA",
+   "title": "Member, Santa Rosa City Council, District 6",
+   "office_type": "local",
+   "district": "6",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JEFF OKREPKIE",
+     "votes": 2719,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "JEFF OKREPKIE",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "50",
+   "state": "CA",
+   "title": "Member, Cloverdale City Council",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 3,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "STEVE KAWA",
+     "votes": 682,
+     "party": null,
+     "pct": 17.3404525807272,
+     "choice_id": "STEVE KAWA",
+     "party_lines": null
+    },
+    {
+     "name": "KIMBERLY KERN",
+     "votes": 594,
+     "party": null,
+     "pct": 15.1029748283753,
+     "choice_id": "KIMBERLY KERN",
+     "party_lines": null
+    },
+    {
+     "name": "WILL CARTER",
+     "votes": 825,
+     "party": null,
+     "pct": 20.976353928299,
+     "choice_id": "WILL CARTER",
+     "party_lines": null
+    },
+    {
+     "name": "CHRIS PARKER",
+     "votes": 635,
+     "party": null,
+     "pct": 16.1454360539029,
+     "choice_id": "CHRIS PARKER",
+     "party_lines": null
+    },
+    {
+     "name": "JENN NEYLON",
+     "votes": 70,
+     "party": null,
+     "pct": 1.77981184846173,
+     "choice_id": "JENN NEYLON",
+     "party_lines": null
+    },
+    {
+     "name": "COLLEEN SHIELDS",
+     "votes": 298,
+     "party": null,
+     "pct": 7.5769132977371,
+     "choice_id": "COLLEEN SHIELDS",
+     "party_lines": null
+    },
+    {
+     "name": "KELLY SPAGNOLA",
+     "votes": 168,
+     "party": null,
+     "pct": 4.27154843630816,
+     "choice_id": "KELLY SPAGNOLA",
+     "party_lines": null
+    },
+    {
+     "name": "MARJORIE A MORGENSTERN",
+     "votes": 136,
+     "party": null,
+     "pct": 3.45792016272565,
+     "choice_id": "MARJORIE A MORGENSTERN",
+     "party_lines": null
+    },
+    {
+     "name": "ANDRÉS MARQUEZ",
+     "votes": 525,
+     "party": null,
+     "pct": 13.348588863463,
+     "choice_id": "ANDRÉS MARQUEZ",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "52",
+   "state": "CA",
+   "title": "Member, Healdsburg City Council, District 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ALEX WOOD",
+     "votes": 53,
+     "party": null,
+     "pct": 10.5577689243028,
+     "choice_id": "ALEX WOOD",
+     "party_lines": null
+    },
+    {
+     "name": "SCOTT PRATT",
+     "votes": 169,
+     "party": null,
+     "pct": 33.6653386454183,
+     "choice_id": "SCOTT PRATT",
+     "party_lines": null
+    },
+    {
+     "name": "MATHEW LOPEZ",
+     "votes": 280,
+     "party": null,
+     "pct": 55.7768924302789,
+     "choice_id": "MATHEW LOPEZ",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "53",
+   "state": "CA",
+   "title": "Member, Healdsburg City Council, District 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "CHRIS HERROD",
+     "votes": 349,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "CHRIS HERROD",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "54",
+   "state": "CA",
+   "title": "Petaluma Mayor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 29,
+    "units_total": 31,
+    "pct": 93.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JOHN HANANIA",
+     "votes": 1041,
+     "party": null,
+     "pct": 9.82446206115515,
+     "choice_id": "JOHN HANANIA",
+     "party_lines": null
+    },
+    {
+     "name": "KEVIN MCDONNELL",
+     "votes": 6223,
+     "party": null,
+     "pct": 58.7297093242733,
+     "choice_id": "KEVIN MCDONNELL",
+     "party_lines": null
+    },
+    {
+     "name": "SHELINA MOREDA",
+     "votes": 3332,
+     "party": null,
+     "pct": 31.4458286145715,
+     "choice_id": "SHELINA MOREDA",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "55",
+   "state": "CA",
+   "title": "Member, Petaluma City Council, District 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 9,
+    "units_total": 10,
+    "pct": 90.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JANICE CADER THOMPSON",
+     "votes": 1030,
+     "party": null,
+     "pct": 68.9886135298058,
+     "choice_id": "JANICE CADER THOMPSON",
+     "party_lines": null
+    },
+    {
+     "name": "ALAN W. LAPIERRE",
+     "votes": 228,
+     "party": null,
+     "pct": 15.2712659075687,
+     "choice_id": "ALAN W. LAPIERRE",
+     "party_lines": null
+    },
+    {
+     "name": "NATE MARTIN",
+     "votes": 235,
+     "party": null,
+     "pct": 15.7401205626256,
+     "choice_id": "NATE MARTIN",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "56",
+   "state": "CA",
+   "title": "Member, Petaluma City Council, District 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 3,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "BRENT NEWELL",
+     "votes": 882,
+     "party": null,
+     "pct": 53.8790470372633,
+     "choice_id": "BRENT NEWELL",
+     "party_lines": null
+    },
+    {
+     "name": "JOHN SHRIBBS",
+     "votes": 755,
+     "party": null,
+     "pct": 46.1209529627367,
+     "choice_id": "JOHN SHRIBBS",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "57",
+   "state": "CA",
+   "title": "Member, Petaluma City Council, District 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 4,
+    "units_total": 4,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "KAREN NAU",
+     "votes": 544,
+     "party": null,
+     "pct": 41.6220351951033,
+     "choice_id": "KAREN NAU",
+     "party_lines": null
+    },
+    {
+     "name": "ERIC VAZQUEZ",
+     "votes": 763,
+     "party": null,
+     "pct": 58.3779648048967,
+     "choice_id": "ERIC VAZQUEZ",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "58",
+   "state": "CA",
+   "title": "Member, Rohnert Park City Council, District 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 3,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "PAUL CAREY",
+     "votes": 441,
+     "party": null,
+     "pct": 36.6888519134775,
+     "choice_id": "PAUL CAREY",
+     "party_lines": null
+    },
+    {
+     "name": "MICHAEL DESIMONE",
+     "votes": 302,
+     "party": null,
+     "pct": 25.1247920133111,
+     "choice_id": "MICHAEL DESIMONE",
+     "party_lines": null
+    },
+    {
+     "name": "LINDA (KHOURY) TAMS",
+     "votes": 459,
+     "party": null,
+     "pct": 38.1863560732113,
+     "choice_id": "LINDA (KHOURY) TAMS",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "59",
+   "state": "CA",
+   "title": "Member, Rohnert Park City Council, District 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "SUSAN HOLLINGSWORTH ADAMS",
+     "votes": 575,
+     "party": null,
+     "pct": 52.7522935779817,
+     "choice_id": "SUSAN HOLLINGSWORTH ADAMS",
+     "party_lines": null
+    },
+    {
+     "name": "ARLENE G. LINDER",
+     "votes": 132,
+     "party": null,
+     "pct": 12.1100917431193,
+     "choice_id": "ARLENE G. LINDER",
+     "party_lines": null
+    },
+    {
+     "name": "MAURICIO BARRETO",
+     "votes": 383,
+     "party": null,
+     "pct": 35.1376146788991,
+     "choice_id": "MAURICIO BARRETO",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "60",
+   "state": "CA",
+   "title": "Member, Sebastopol City Council",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 5,
+    "pct": 60.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "IAN HOFF",
+     "votes": 904,
+     "party": null,
+     "pct": 19.3410355156183,
+     "choice_id": "IAN HOFF",
+     "party_lines": null
+    },
+    {
+     "name": "JAMES WOODRUFF",
+     "votes": 906,
+     "party": null,
+     "pct": 19.3838254172015,
+     "choice_id": "JAMES WOODRUFF",
+     "party_lines": null
+    },
+    {
+     "name": "KYREEN JORGENSEN",
+     "votes": 628,
+     "party": null,
+     "pct": 13.4360290971331,
+     "choice_id": "KYREEN JORGENSEN",
+     "party_lines": null
+    },
+    {
+     "name": "BRANDIE L. SOLOVAY",
+     "votes": 334,
+     "party": null,
+     "pct": 7.1459135643988,
+     "choice_id": "BRANDIE L. SOLOVAY",
+     "party_lines": null
+    },
+    {
+     "name": "JILL MCLEWIS",
+     "votes": 557,
+     "party": null,
+     "pct": 11.9169875909285,
+     "choice_id": "JILL MCLEWIS",
+     "party_lines": null
+    },
+    {
+     "name": "SANDRA MAURER",
+     "votes": 993,
+     "party": null,
+     "pct": 21.2451861360719,
+     "choice_id": "SANDRA MAURER",
+     "party_lines": null
+    },
+    {
+     "name": "ERIN MITCHELL",
+     "votes": 352,
+     "party": null,
+     "pct": 7.53102267864784,
+     "choice_id": "ERIN MITCHELL",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "61",
+   "state": "CA",
+   "title": "Member, Sonoma City Council, District 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "PEGGY HUTTON",
+     "votes": 100,
+     "party": null,
+     "pct": 17.7619893428064,
+     "choice_id": "PEGGY HUTTON",
+     "party_lines": null
+    },
+    {
+     "name": "JULIAN MACKIE",
+     "votes": 331,
+     "party": null,
+     "pct": 58.7921847246892,
+     "choice_id": "JULIAN MACKIE",
+     "party_lines": null
+    },
+    {
+     "name": "MICHAEL L. MENEFEE",
+     "votes": 132,
+     "party": null,
+     "pct": 23.4458259325044,
+     "choice_id": "MICHAEL L. MENEFEE",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "62",
+   "state": "CA",
+   "title": "Windsor Mayor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 9,
+    "units_total": 11,
+    "pct": 81.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "TANYA POTTER",
+     "votes": 3347,
+     "party": null,
+     "pct": 78.5127844241145,
+     "choice_id": "TANYA POTTER",
+     "party_lines": null
+    },
+    {
+     "name": "RICK MASSELL",
+     "votes": 916,
+     "party": null,
+     "pct": 21.4872155758855,
+     "choice_id": "RICK MASSELL",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "63",
+   "state": "CA",
+   "title": "Member, Windsor Town Council, District 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 3,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "EVAN KUBOTA",
+     "votes": 298,
+     "party": null,
+     "pct": 36.3414634146341,
+     "choice_id": "EVAN KUBOTA",
+     "party_lines": null
+    },
+    {
+     "name": "GINA FORTINO DICKSON",
+     "votes": 522,
+     "party": null,
+     "pct": 63.6585365853659,
+     "choice_id": "GINA FORTINO DICKSON",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "64",
+   "state": "CA",
+   "title": "Member, Windsor Town Council, District 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 3,
+    "pct": 66.7,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "MEREDITH RENNIE",
+     "votes": 810,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "MEREDITH RENNIE",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "65",
+   "state": "CA",
+   "title": "Director, Gold Ridge Fire Protection District",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 4,
+   "final": false,
+   "reporting": {
+    "units_reporting": 31,
+    "units_total": 55,
+    "pct": 56.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DAVID WARBURG",
+     "votes": 2078,
+     "party": null,
+     "pct": 10.5863772988945,
+     "choice_id": "DAVID WARBURG",
+     "party_lines": null
+    },
+    {
+     "name": "DOMENICO CARINALLI JR",
+     "votes": 1651,
+     "party": null,
+     "pct": 8.41102450455958,
+     "choice_id": "DOMENICO CARINALLI JR",
+     "party_lines": null
+    },
+    {
+     "name": "STEVE E PETRUCCI",
+     "votes": 1947,
+     "party": null,
+     "pct": 9.91899740180345,
+     "choice_id": "STEVE E PETRUCCI",
+     "party_lines": null
+    },
+    {
+     "name": "DOUG JONES",
+     "votes": 1963,
+     "party": null,
+     "pct": 10.0005094503031,
+     "choice_id": "DOUG JONES",
+     "party_lines": null
+    },
+    {
+     "name": "TARA DANIELS",
+     "votes": 2634,
+     "party": null,
+     "pct": 13.418920984258,
+     "choice_id": "TARA DANIELS",
+     "party_lines": null
+    },
+    {
+     "name": "SHANNON J SHAFFER-KILLEY",
+     "votes": 2857,
+     "party": null,
+     "pct": 14.5549951602221,
+     "choice_id": "SHANNON J SHAFFER-KILLEY",
+     "party_lines": null
+    },
+    {
+     "name": "ROBERT GLOECKNER",
+     "votes": 1547,
+     "party": null,
+     "pct": 7.88119618931173,
+     "choice_id": "ROBERT GLOECKNER",
+     "party_lines": null
+    },
+    {
+     "name": "KATHLEEN MOLLOY GILBRAITH",
+     "votes": 2383,
+     "party": null,
+     "pct": 12.1402007234194,
+     "choice_id": "KATHLEEN MOLLOY GILBRAITH",
+     "party_lines": null
+    },
+    {
+     "name": "CHRISTINA GIBBS",
+     "votes": 2569,
+     "party": null,
+     "pct": 13.0877782872281,
+     "choice_id": "CHRISTINA GIBBS",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "66",
+   "state": "CA",
+   "title": "Director, Sonoma County Fire District",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 78,
+    "units_total": 133,
+    "pct": 58.6,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "STEVE KLICK",
+     "votes": 10227,
+     "party": null,
+     "pct": 33.2596181989658,
+     "choice_id": "STEVE KLICK",
+     "party_lines": null
+    },
+    {
+     "name": "RICHARD H. ALPERT",
+     "votes": 3220,
+     "party": null,
+     "pct": 10.4718852645614,
+     "choice_id": "RICHARD H. ALPERT",
+     "party_lines": null
+    },
+    {
+     "name": "GARY SO",
+     "votes": 8972,
+     "party": null,
+     "pct": 29.1781846564116,
+     "choice_id": "GARY SO",
+     "party_lines": null
+    },
+    {
+     "name": "ROBERT M. BRIARE",
+     "votes": 8330,
+     "party": null,
+     "pct": 27.0903118800611,
+     "choice_id": "ROBERT M. BRIARE",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "67",
+   "state": "CA",
+   "title": "Prop 1 - Authorizes Bonds For Housing Affordability Programs",
+   "office_type": "measure",
+   "district": "1",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 57471,
+     "party": null,
+     "pct": 64.9874482665038,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 30963,
+     "party": null,
+     "pct": 35.0125517334962,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "68",
+   "state": "CA",
+   "title": "Prop 2 - Increases State's Rainy Day Fund",
+   "office_type": "measure",
+   "district": "2",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 59714,
+     "party": null,
+     "pct": 67.4894607760033,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 28765,
+     "party": null,
+     "pct": 32.5105392239967,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "69",
+   "state": "CA",
+   "title": "Prop 3 - Provides Permanent Funding For Schools And Health Care By Extending Existing Tax On High Incomes",
+   "office_type": "measure",
+   "district": "3",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 61220,
+     "party": null,
+     "pct": 68.8956661677489,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 27639,
+     "party": null,
+     "pct": 31.1043338322511,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "70",
+   "state": "CA",
+   "title": "Prop 4 - Repeals Prohibition Against Public Funding Of Election Campaigns",
+   "office_type": "measure",
+   "district": "4",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 48371,
+     "party": null,
+     "pct": 55.3938297336296,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 38951,
+     "party": null,
+     "pct": 44.6061702663704,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "71",
+   "state": "CA",
+   "title": "Prop 5 - Changes Recall Election Process For Statewide Officers",
+   "office_type": "measure",
+   "district": "5",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 47211,
+     "party": null,
+     "pct": 55.3625873633848,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 38065,
+     "party": null,
+     "pct": 44.6374126366152,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "72",
+   "state": "CA",
+   "title": "Prop 37 - Creates Loan Program For Middle-Income Buyers Of Qualified New Homes",
+   "office_type": "measure",
+   "district": "37",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 57986,
+     "party": null,
+     "pct": 66.1797098802771,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 29633,
+     "party": null,
+     "pct": 33.8202901197229,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "73",
+   "state": "CA",
+   "title": "Prop 38 - Authorizes Bonds For Immunology Medical Research",
+   "office_type": "measure",
+   "district": "38",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 47338,
+     "party": null,
+     "pct": 53.9796569968984,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 40358,
+     "party": null,
+     "pct": 46.0203430031016,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "74",
+   "state": "CA",
+   "title": "Prop 39 - Prohibits Citizens From Voting Unless They Present Government-Issued Identification",
+   "office_type": "measure",
+   "district": "39",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 23870,
+     "party": null,
+     "pct": 26.8697374938088,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 64966,
+     "party": null,
+     "pct": 73.1302625061912,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "75",
+   "state": "CA",
+   "title": "Prop 40 - Imposes One-Time Tax On Certain Taxpayers",
+   "office_type": "measure",
+   "district": "40",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 45093,
+     "party": null,
+     "pct": 50.458222833932,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 44274,
+     "party": null,
+     "pct": 49.541777166068,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "76",
+   "state": "CA",
+   "title": "Prop 41 - Prohibits New State Taxes That Exclude Revenues From State Spending Limit",
+   "office_type": "measure",
+   "district": "41",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 30807,
+     "party": null,
+     "pct": 35.0733184571246,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 57029,
+     "party": null,
+     "pct": 64.9266815428754,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "77",
+   "state": "CA",
+   "title": "Prop 42 - Prohibits New State Personal Property Taxes And Certain Retroactive State Taxes",
+   "office_type": "measure",
+   "district": "42",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 38077,
+     "party": null,
+     "pct": 43.0302071443908,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 50412,
+     "party": null,
+     "pct": 56.9697928556092,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "78",
+   "state": "CA",
+   "title": "Prop 43 - Limits Voters' Ability To Raise Revenues For Local Government Services",
+   "office_type": "measure",
+   "district": "43",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 31537,
+     "party": null,
+     "pct": 35.9814257028112,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 56111,
+     "party": null,
+     "pct": 64.0185742971887,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "79",
+   "state": "CA",
+   "title": "Prop 44 - Requires Community Health Clinics Spend 90% Of Revenue On Program Services",
+   "office_type": "measure",
+   "district": "44",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 12885,
+     "party": null,
+     "pct": 14.6668791476477,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 74966,
+     "party": null,
+     "pct": 85.3331208523523,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "80",
+   "state": "CA",
+   "title": "Prop 45 - Modifies Environmental Review For Certain Projects",
+   "office_type": "measure",
+   "district": "45",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 25216,
+     "party": null,
+     "pct": 28.9549530928841,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 61871,
+     "party": null,
+     "pct": 71.0450469071159,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "87",
+   "state": "CA",
+   "title": "Measure H - County Of Sonoma Parks Sales Tax 2/3 Vote To Pass",
+   "office_type": "measure",
+   "district": "h",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 266,
+    "units_total": 403,
+    "pct": 66.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 67037,
+     "party": null,
+     "pct": 76.7549433815363,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 20302,
+     "party": null,
+     "pct": 23.2450566184637,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "88",
+   "state": "CA",
+   "title": "Measure L - City of Santa Rosa Sales Tax Simple Majority",
+   "office_type": "measure",
+   "district": "l",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 54,
+    "units_total": 61,
+    "pct": 88.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 19425,
+     "party": null,
+     "pct": 66.6815419999313,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 9706,
+     "party": null,
+     "pct": 33.3184580000687,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "89",
+   "state": "CA",
+   "title": "Measure K - City Of Rohnert Park Sales Tax Simple Majority",
+   "office_type": "measure",
+   "district": "k",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 15,
+    "units_total": 15,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 3343,
+     "party": null,
+     "pct": 52.2915689034882,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 3050,
+     "party": null,
+     "pct": 47.7084310965118,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "90",
+   "state": "CA",
+   "title": "Measure I - Town Of Windsor Sales Tax Simple Majority",
+   "office_type": "measure",
+   "district": "i",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 9,
+    "units_total": 11,
+    "pct": 81.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2408,
+     "party": null,
+     "pct": 51.6738197424893,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 2252,
+     "party": null,
+     "pct": 48.3261802575107,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "91",
+   "state": "CA",
+   "title": "Measure N - Schell-Vista Fire Protection District Simple Majority",
+   "office_type": "measure",
+   "district": "n",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 12,
+    "pct": 41.7,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 653,
+     "party": null,
+     "pct": 82.4494949494949,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 139,
+     "party": null,
+     "pct": 17.5505050505051,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "92",
+   "state": "CA",
+   "title": "Measure D - Coast Life Support District Parcel Tax 2/3 Vote To Pass",
+   "office_type": "measure",
+   "district": "d",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 4,
+    "pct": 50.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 422,
+     "party": null,
+     "pct": 72.8842832469775,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 157,
+     "party": null,
+     "pct": 27.1157167530225,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "81",
+   "state": "CA",
+   "title": "Measure AB - Sonoma County Junior College 55% Bond",
+   "office_type": "measure",
+   "district": "ab",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 264,
+    "units_total": 398,
+    "pct": 66.3,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 55856,
+     "party": null,
+     "pct": 64.9858640388128,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 30095,
+     "party": null,
+     "pct": 35.0141359611872,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "82",
+   "state": "CA",
+   "title": "Measure J - Windsor Unified School District 55% Bond",
+   "office_type": "measure",
+   "district": "j",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 11,
+    "units_total": 18,
+    "pct": 61.1,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2858,
+     "party": null,
+     "pct": 58.5775773724124,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 2021,
+     "party": null,
+     "pct": 41.4224226275876,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "83",
+   "state": "CA",
+   "title": "Measure G - West Sonoma County High School District Parcel Tax 2/3 Vote To Pass",
+   "office_type": "measure",
+   "district": "g",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 46,
+    "units_total": 81,
+    "pct": 56.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 8302,
+     "party": null,
+     "pct": 74.2908277404922,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 2873,
+     "party": null,
+     "pct": 25.7091722595078,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "84",
+   "state": "CA",
+   "title": "Measure M - Harmony Union School District Parcel Tax 2/3 Vote To Pass",
+   "office_type": "measure",
+   "district": "m",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 6,
+    "pct": 50.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 747,
+     "party": null,
+     "pct": 65.6992084432718,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 390,
+     "party": null,
+     "pct": 34.3007915567282,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "85",
+   "state": "CA",
+   "title": "Measure O - Old Adobe Union School District 55% Bond",
+   "office_type": "measure",
+   "district": "o",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 13,
+    "units_total": 24,
+    "pct": 54.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2476,
+     "party": null,
+     "pct": 55.7657657657658,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 1964,
+     "party": null,
+     "pct": 44.2342342342342,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  },
+  {
+   "source": "ca.sonoma",
+   "contest_id": "86",
+   "state": "CA",
+   "title": "Measure E - Waugh School District 55% Bond",
+   "office_type": "measure",
+   "district": "e",
+   "jurisdiction": "Sonoma County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 4,
+    "pct": 75.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 647,
+     "party": null,
+     "pct": 56.457242582897,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 499,
+     "party": null,
+     "pct": 43.542757417103,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Sonoma/127275/"
+  }
+ ],
+ "contests_hash": "5cfb24014ed917a9",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-04T05:23:49+00:00",
+ "fetched_at": "2026-11-04T05:23:49+00:00",
+ "contests_changed_at": "2026-11-04T05:23:49+00:00"
 }

@@ -1,8 +1,4901 @@
 {
  "source": "ca.ventura",
- "contests": [],
- "contests_hash": null,
- "status": "not_published",
- "message": "no 2026-11-03 election listed",
- "last_attempt_at": "2026-11-04T04:11:16+00:00"
+ "contests": [
+  {
+   "source": "ca.ventura",
+   "contest_id": "9",
+   "state": "CA",
+   "title": "United States Representative, 24th Congressional District",
+   "office_type": "federal_house",
+   "district": "24",
+   "jurisdiction": "Ventura County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 226,
+    "units_total": 296,
+    "pct": 76.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "SALUD CARBAJAL",
+     "votes": 20975,
+     "party": "DEM",
+     "pct": 67.9484272247238,
+     "choice_id": "SALUD CARBAJAL",
+     "party_lines": null
+    },
+    {
+     "name": "BOB SMITH",
+     "votes": 9894,
+     "party": "REP",
+     "pct": 32.0515727752762,
+     "choice_id": "BOB SMITH",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "10",
+   "state": "CA",
+   "title": "United States Representative, 26th Congressional District",
+   "office_type": "federal_house",
+   "district": "26",
+   "jurisdiction": "Ventura County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 710,
+    "units_total": 997,
+    "pct": 71.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JACQUI IRWIN",
+     "votes": 70763,
+     "party": "DEM",
+     "pct": 64.0887930878331,
+     "choice_id": "JACQUI IRWIN",
+     "party_lines": null
+    },
+    {
+     "name": "SAM GALLUCCI",
+     "votes": 39651,
+     "party": "REP",
+     "pct": 35.9112069121669,
+     "choice_id": "SAM GALLUCCI",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "11",
+   "state": "CA",
+   "title": "United States Representative, 32nd Congressional District",
+   "office_type": "federal_house",
+   "district": "32",
+   "jurisdiction": "Ventura County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 132,
+    "units_total": 140,
+    "pct": 94.3,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "BRAD SHERMAN",
+     "votes": 14618,
+     "party": "DEM",
+     "pct": 52.1996857591773,
+     "choice_id": "BRAD SHERMAN",
+     "party_lines": null
+    },
+    {
+     "name": "LARRY THOMPSON",
+     "votes": 13386,
+     "party": "REP",
+     "pct": 47.8003142408227,
+     "choice_id": "LARRY THOMPSON",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "1",
+   "state": "CA",
+   "title": "Governor",
+   "office_type": "governor",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "XAVIER BECERRA",
+     "votes": 105150,
+     "party": "DEM",
+     "pct": 61.376371702078,
+     "choice_id": "XAVIER BECERRA",
+     "party_lines": null
+    },
+    {
+     "name": "STEVE HILTON",
+     "votes": 66170,
+     "party": "REP",
+     "pct": 38.623628297922,
+     "choice_id": "STEVE HILTON",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "2",
+   "state": "CA",
+   "title": "Lieutenant Governor",
+   "office_type": "lt_governor",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "FIONA MA",
+     "votes": 103372,
+     "party": "DEM",
+     "pct": 61.0902300073281,
+     "choice_id": "FIONA MA",
+     "party_lines": null
+    },
+    {
+     "name": "GLORIA ROMERO",
+     "votes": 65840,
+     "party": "REP",
+     "pct": 38.9097699926719,
+     "choice_id": "GLORIA ROMERO",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "3",
+   "state": "CA",
+   "title": "Secretary of State",
+   "office_type": "secretary_of_state",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "SHIRLEY N. WEBER",
+     "votes": 104611,
+     "party": "DEM",
+     "pct": 61.8615652996659,
+     "choice_id": "SHIRLEY N. WEBER",
+     "party_lines": null
+    },
+    {
+     "name": "DONALD P. (DON) WAGNER",
+     "votes": 64494,
+     "party": "REP",
+     "pct": 38.1384347003341,
+     "choice_id": "DONALD P. (DON) WAGNER",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "4",
+   "state": "CA",
+   "title": "Controller",
+   "office_type": "controller",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "MALIA M. COHEN",
+     "votes": 103551,
+     "party": "DEM",
+     "pct": 61.11943998489,
+     "choice_id": "MALIA M. COHEN",
+     "party_lines": null
+    },
+    {
+     "name": "HERB W MORGAN",
+     "votes": 65873,
+     "party": "REP",
+     "pct": 38.88056001511,
+     "choice_id": "HERB W MORGAN",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "5",
+   "state": "CA",
+   "title": "Treasurer",
+   "office_type": "treasurer",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ELENI KOUNALAKIS",
+     "votes": 103273,
+     "party": "DEM",
+     "pct": 61.0,
+     "choice_id": "ELENI KOUNALAKIS",
+     "party_lines": null
+    },
+    {
+     "name": "JENNIFER HAWKS",
+     "votes": 66027,
+     "party": "REP",
+     "pct": 39.0,
+     "choice_id": "JENNIFER HAWKS",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "6",
+   "state": "CA",
+   "title": "Attorney General",
+   "office_type": "attorney_general",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ROB BONTA",
+     "votes": 103065,
+     "party": "DEM",
+     "pct": 60.7683826347411,
+     "choice_id": "ROB BONTA",
+     "party_lines": null
+    },
+    {
+     "name": "MICHAEL E. GATES",
+     "votes": 66538,
+     "party": "REP",
+     "pct": 39.2316173652589,
+     "choice_id": "MICHAEL E. GATES",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "7",
+   "state": "CA",
+   "title": "Insurance Commissioner",
+   "office_type": "insurance_commissioner",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "BEN ALLEN",
+     "votes": 82201,
+     "party": "DEM",
+     "pct": 57.0840277777778,
+     "choice_id": "BEN ALLEN",
+     "party_lines": null
+    },
+    {
+     "name": "JANE KIM",
+     "votes": 61799,
+     "party": "DEM",
+     "pct": 42.9159722222222,
+     "choice_id": "JANE KIM",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "8",
+   "state": "CA",
+   "title": "State Board of Equalization District 2",
+   "office_type": "board_of_equalization",
+   "district": "2",
+   "jurisdiction": "Ventura County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "SALLY J. LIEBER",
+     "votes": 84310,
+     "party": "DEM",
+     "pct": 59.4981016499414,
+     "choice_id": "SALLY J. LIEBER",
+     "party_lines": null
+    },
+    {
+     "name": "JOHN PIMENTEL",
+     "votes": 57392,
+     "party": "DEM",
+     "pct": 40.5018983500586,
+     "choice_id": "JOHN PIMENTEL",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "35",
+   "state": "CA",
+   "title": "State Superintendent of Public Instruction",
+   "office_type": "superintendent",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "RICHARD BARRERA",
+     "votes": 84996,
+     "party": null,
+     "pct": 56.178616751269,
+     "choice_id": "RICHARD BARRERA",
+     "party_lines": null
+    },
+    {
+     "name": "SONJA SHAW",
+     "votes": 66300,
+     "party": null,
+     "pct": 43.821383248731,
+     "choice_id": "SONJA SHAW",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "12",
+   "state": "CA",
+   "title": "Member of the Assembly, 38th District",
+   "office_type": "state_house",
+   "district": "38",
+   "jurisdiction": "Ventura County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 649,
+    "units_total": 897,
+    "pct": 72.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "STEVE BENNETT",
+     "votes": 49134,
+     "party": "DEM",
+     "pct": 71.2954901619363,
+     "choice_id": "STEVE BENNETT",
+     "party_lines": null
+    },
+    {
+     "name": "MICHAEL MACDONALD",
+     "votes": 19782,
+     "party": "DEM",
+     "pct": 28.7045098380637,
+     "choice_id": "MICHAEL MACDONALD",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "13",
+   "state": "CA",
+   "title": "Member of the Assembly, 42nd District",
+   "office_type": "state_house",
+   "district": "42",
+   "jurisdiction": "Ventura County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 417,
+    "units_total": 529,
+    "pct": 78.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DEBORAH KLEIN LOPEZ",
+     "votes": 49240,
+     "party": "DEM",
+     "pct": 55.8150079347087,
+     "choice_id": "DEBORAH KLEIN LOPEZ",
+     "party_lines": null
+    },
+    {
+     "name": "TED NORDBLUM",
+     "votes": 38980,
+     "party": "REP",
+     "pct": 44.1849920652913,
+     "choice_id": "TED NORDBLUM",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "14",
+   "state": "CA",
+   "title": "Member of the Assembly, 46th District",
+   "office_type": "state_house",
+   "district": "46",
+   "jurisdiction": "Ventura County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 7,
+    "pct": 28.6,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JESSE GABRIEL",
+     "votes": 294,
+     "party": "DEM",
+     "pct": 50.1706484641638,
+     "choice_id": "JESSE GABRIEL",
+     "party_lines": null
+    },
+    {
+     "name": "TRACEY SCHROEDER",
+     "votes": 292,
+     "party": "REP",
+     "pct": 49.8293515358362,
+     "choice_id": "TRACEY SCHROEDER",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "98",
+   "state": "CA",
+   "title": "Prop 1 - Authorizes Bonds For Housing Affordability Programs",
+   "office_type": "measure",
+   "district": "1",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 92136,
+     "party": null,
+     "pct": 55.7582212754627,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 73106,
+     "party": null,
+     "pct": 44.2417787245373,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "99",
+   "state": "CA",
+   "title": "Prop 2 - Increases State's Rainy Day Fund, Legislative Constitutional Amendment",
+   "office_type": "measure",
+   "district": "2",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 93320,
+     "party": null,
+     "pct": 56.309812582214,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 72406,
+     "party": null,
+     "pct": 43.690187417786,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "100",
+   "state": "CA",
+   "title": "Prop 3 - Provides Permanent Funding For Schools And Health Care By Extending Existing Tax On High Incomes",
+   "office_type": "measure",
+   "district": "3",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 93079,
+     "party": null,
+     "pct": 55.9348821556915,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 73327,
+     "party": null,
+     "pct": 44.0651178443085,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "101",
+   "state": "CA",
+   "title": "Prop 4 - Repeals Prohibition Against Public Funding Of Election Campaigns",
+   "office_type": "measure",
+   "district": "4",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 88751,
+     "party": null,
+     "pct": 54.0676706386919,
+     "choice_id": "No",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 75397,
+     "party": null,
+     "pct": 45.9323293613081,
+     "choice_id": "Yes",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "102",
+   "state": "CA",
+   "title": "Prop 5 - Changes Recall Election Process For Statewide Officers",
+   "office_type": "measure",
+   "district": "5",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 82041,
+     "party": null,
+     "pct": 50.5792124683267,
+     "choice_id": "No",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 80162,
+     "party": null,
+     "pct": 49.4207875316733,
+     "choice_id": "Yes",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "103",
+   "state": "CA",
+   "title": "Prop 37 - Creates Loan Program For Middle-income Buyers Of Qualified New Homes",
+   "office_type": "measure",
+   "district": "37",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 94801,
+     "party": null,
+     "pct": 57.4454032043047,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 70227,
+     "party": null,
+     "pct": 42.5545967956953,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "104",
+   "state": "CA",
+   "title": "Prop 38 - Authorizes Bonds For Immunology Medical Research",
+   "office_type": "measure",
+   "district": "38",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 96646,
+     "party": null,
+     "pct": 57.8105839918171,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 70531,
+     "party": null,
+     "pct": 42.1894160081829,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "105",
+   "state": "CA",
+   "title": "Prop 39 - Prohibits Citizens From Voting Unless They Present Government-issued Identification",
+   "office_type": "measure",
+   "district": "39",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 96797,
+     "party": null,
+     "pct": 57.3071890781427,
+     "choice_id": "No",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 72112,
+     "party": null,
+     "pct": 42.6928109218573,
+     "choice_id": "Yes",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "106",
+   "state": "CA",
+   "title": "Prop 40 - Imposes One-time Tax On Certain Taxpayers",
+   "office_type": "measure",
+   "district": "40",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 100146,
+     "party": null,
+     "pct": 59.2832449327524,
+     "choice_id": "No",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 68782,
+     "party": null,
+     "pct": 40.7167550672476,
+     "choice_id": "Yes",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "107",
+   "state": "CA",
+   "title": "Prop 41 - Prohibits New State Taxes That Exclude Revenues From State Spending Limit. Requires Audits For New State Special Taxes",
+   "office_type": "measure",
+   "district": "41",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 85109,
+     "party": null,
+     "pct": 51.0775564584371,
+     "choice_id": "No",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 81518,
+     "party": null,
+     "pct": 48.9224435415629,
+     "choice_id": "Yes",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "108",
+   "state": "CA",
+   "title": "Prop 42 - Prohibits New State Personal Property Taxes And Certain Retroactive State Taxes",
+   "office_type": "measure",
+   "district": "42",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 94771,
+     "party": null,
+     "pct": 56.2993809925505,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 73563,
+     "party": null,
+     "pct": 43.7006190074495,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "109",
+   "state": "CA",
+   "title": "Prop 43 - Limits Voters' Ability To Raise Revenues For Local Government Services",
+   "office_type": "measure",
+   "district": "43",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 87478,
+     "party": null,
+     "pct": 52.4473595855916,
+     "choice_id": "No",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 79314,
+     "party": null,
+     "pct": 47.5526404144084,
+     "choice_id": "Yes",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "110",
+   "state": "CA",
+   "title": "Prop 44 - Requires Community Health Clinics Spend 90% Of Revenue On Program Services",
+   "office_type": "measure",
+   "district": "44",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 138265,
+     "party": null,
+     "pct": 83.3810750016584,
+     "choice_id": "No",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 27558,
+     "party": null,
+     "pct": 16.6189249983416,
+     "choice_id": "Yes",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "111",
+   "state": "CA",
+   "title": "Prop 45 - Modifies Environmental Review For Certain Projects",
+   "office_type": "measure",
+   "district": "45",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 90679,
+     "party": null,
+     "pct": 54.5995905587669,
+     "choice_id": "No",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 75401,
+     "party": null,
+     "pct": 45.4004094412331,
+     "choice_id": "Yes",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "16",
+   "state": "CA",
+   "title": "AJ Of The Supreme Court - Kelli M. Evans",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 88233,
+     "party": null,
+     "pct": 69.1741407425991,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 39319,
+     "party": null,
+     "pct": 30.8258592574009,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "15",
+   "state": "CA",
+   "title": "AJ Of The Supreme Court - Joshua Groban",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 88090,
+     "party": null,
+     "pct": 69.3130852152018,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 39000,
+     "party": null,
+     "pct": 30.6869147847982,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "17",
+   "state": "CA",
+   "title": "AJ 2nd App Dist, Div 1 - Michelle C. Kim",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 85867,
+     "party": null,
+     "pct": 69.0254744813061,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 38532,
+     "party": null,
+     "pct": 30.9745255186939,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "18",
+   "state": "CA",
+   "title": "AJ 2nd App Dist, Div 1 - Gregory J. Weingart",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 81168,
+     "party": null,
+     "pct": 66.0101005993673,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 41795,
+     "party": null,
+     "pct": 33.9898994006327,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "19",
+   "state": "CA",
+   "title": "AJ 2nd App Dist, Div 2 - Anne Richardson",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 86796,
+     "party": null,
+     "pct": 70.3890226990731,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 36513,
+     "party": null,
+     "pct": 29.6109773009269,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "20",
+   "state": "CA",
+   "title": "AJ 2nd App Dist, Div 2 - Steve Goorvitch",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 79672,
+     "party": null,
+     "pct": 65.1346070520524,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 42647,
+     "party": null,
+     "pct": 34.8653929479476,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "21",
+   "state": "CA",
+   "title": "PJ 2nd App Dist, Div 3 - Rashida A. Adams",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 82798,
+     "party": null,
+     "pct": 67.2427375277139,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 40335,
+     "party": null,
+     "pct": 32.7572624722861,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "22",
+   "state": "CA",
+   "title": "AJ 2nd App Dist, Div 3 - Mark Hanasono",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 82056,
+     "party": null,
+     "pct": 67.2761111429953,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 39913,
+     "party": null,
+     "pct": 32.7238888570046,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "23",
+   "state": "CA",
+   "title": "PJ 2nd App Dist, Div 4 - Helen Zukin",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 83523,
+     "party": null,
+     "pct": 68.3354469216609,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 38702,
+     "party": null,
+     "pct": 31.6645530783391,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "24",
+   "state": "CA",
+   "title": "AJ 2nd App Dist, Div 4 - Nicholas Daum",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 80362,
+     "party": null,
+     "pct": 66.1671593126559,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 41091,
+     "party": null,
+     "pct": 33.8328406873441,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "25",
+   "state": "CA",
+   "title": "AJ 2nd App Dist, Div 4 - Audra M. Mori",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 83124,
+     "party": null,
+     "pct": 68.1053976993413,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 38928,
+     "party": null,
+     "pct": 31.8946023006587,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "26",
+   "state": "CA",
+   "title": "AJ 2nd App Dist, Div 4 - Armen Tamzarian",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 76541,
+     "party": null,
+     "pct": 62.9055853249614,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 45135,
+     "party": null,
+     "pct": 37.0944146750386,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "27",
+   "state": "CA",
+   "title": "PJ 2nd App Dist, Div 5 - Brian M. Hoffstadt",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 86456,
+     "party": null,
+     "pct": 70.9906802972451,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 35329,
+     "party": null,
+     "pct": 29.0093197027549,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "28",
+   "state": "CA",
+   "title": "PJ 2nd App Dist, Div 6 - Tari L. Cody",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 89121,
+     "party": null,
+     "pct": 72.938798225656,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 33065,
+     "party": null,
+     "pct": 27.061201774344,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "29",
+   "state": "CA",
+   "title": "AJ 2nd App Dist, Div 6 - Kenneth R. Yegan",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 82552,
+     "party": null,
+     "pct": 67.8742034943474,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 39073,
+     "party": null,
+     "pct": 32.1257965056526,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "30",
+   "state": "CA",
+   "title": "PJ 2nd App Dist, Div 7 - Gonzalo C. Martinez",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 81757,
+     "party": null,
+     "pct": 67.1565043822541,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 39984,
+     "party": null,
+     "pct": 32.8434956177459,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "31",
+   "state": "CA",
+   "title": "AJ 2nd App Dist, Div 7 - Natalie Stone",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 84935,
+     "party": null,
+     "pct": 69.7045547804678,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 36915,
+     "party": null,
+     "pct": 30.2954452195322,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "32",
+   "state": "CA",
+   "title": "AJ 2nd App Dist, Div 8 - John Wiley",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 84590,
+     "party": null,
+     "pct": 69.92700609247,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 36379,
+     "party": null,
+     "pct": 30.07299390753,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "33",
+   "state": "CA",
+   "title": "AJ 2nd App Dist, Div 8 - Matthew A. Scherb",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 83898,
+     "party": null,
+     "pct": 69.31771237834,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 37136,
+     "party": null,
+     "pct": 30.68228762166,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "34",
+   "state": "CA",
+   "title": "AJ 2nd App Dist, Div 8 - Victor G. Viramontes",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 82009,
+     "party": null,
+     "pct": 67.4576996158623,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 39562,
+     "party": null,
+     "pct": 32.5423003841377,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "39",
+   "state": "CA",
+   "title": "Kern County Board of Education Trustee Area 7",
+   "office_type": "local",
+   "district": "7",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "LORI CISNEROS",
+     "votes": 24,
+     "party": null,
+     "pct": 57.1428571428571,
+     "choice_id": "LORI CISNEROS",
+     "party_lines": null
+    },
+    {
+     "name": "JEANINE ADAMS",
+     "votes": 10,
+     "party": null,
+     "pct": 23.8095238095238,
+     "choice_id": "JEANINE ADAMS",
+     "party_lines": null
+    },
+    {
+     "name": "ERNIE BELL JR.",
+     "votes": 8,
+     "party": null,
+     "pct": 19.047619047619,
+     "choice_id": "ERNIE BELL JR.",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "37",
+   "state": "CA",
+   "title": "Ventura County Board Of Education Trustee Area 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 202,
+    "units_total": 240,
+    "pct": 84.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "MIKE TEASDALE",
+     "votes": 23272,
+     "party": null,
+     "pct": 57.734004812821,
+     "choice_id": "MIKE TEASDALE",
+     "party_lines": null
+    },
+    {
+     "name": "DEBRA MCINTYRE-SCIARRINO",
+     "votes": 17037,
+     "party": null,
+     "pct": 42.265995187179,
+     "choice_id": "DEBRA MCINTYRE-SCIARRINO",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "38",
+   "state": "CA",
+   "title": "Ventura County Board Of Education Trustee Area 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 181,
+    "units_total": 217,
+    "pct": 83.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "KRISTINA PINE",
+     "votes": 18537,
+     "party": null,
+     "pct": 55.4253251607116,
+     "choice_id": "KRISTINA PINE",
+     "party_lines": null
+    },
+    {
+     "name": "SCOTT DETTORRE",
+     "votes": 14908,
+     "party": null,
+     "pct": 44.5746748392884,
+     "choice_id": "SCOTT DETTORRE",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "40",
+   "state": "CA",
+   "title": "Ventura County Community College District Trustee Area 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 202,
+    "units_total": 240,
+    "pct": 84.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "LOU LICHTL",
+     "votes": 21609,
+     "party": null,
+     "pct": 53.0568650559811,
+     "choice_id": "LOU LICHTL",
+     "party_lines": null
+    },
+    {
+     "name": "ROGER BOWERMAN",
+     "votes": 19119,
+     "party": null,
+     "pct": 46.9431349440189,
+     "choice_id": "ROGER BOWERMAN",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "41",
+   "state": "CA",
+   "title": "Ventura County Community College District Trustee Area 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 137,
+    "units_total": 171,
+    "pct": 80.1,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "GABRIELA TORRES",
+     "votes": 13983,
+     "party": null,
+     "pct": 78.8485395285892,
+     "choice_id": "GABRIELA TORRES",
+     "party_lines": null
+    },
+    {
+     "name": "JOHN A. DEMERS",
+     "votes": 3751,
+     "party": null,
+     "pct": 21.1514604714109,
+     "choice_id": "JOHN A. DEMERS",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "36",
+   "state": "CA",
+   "title": "County Superintendent of Schools",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1068,
+    "units_total": 1433,
+    "pct": 74.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "KAREN SHER",
+     "votes": 87137,
+     "party": null,
+     "pct": 58.6852278390647,
+     "choice_id": "KAREN SHER",
+     "party_lines": null
+    },
+    {
+     "name": "MAGGIE MARSCHNER",
+     "votes": 61345,
+     "party": null,
+     "pct": 41.3147721609353,
+     "choice_id": "MAGGIE MARSCHNER",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "58",
+   "state": "CA",
+   "title": "Camarillo City Council District 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 22,
+    "units_total": 27,
+    "pct": 81.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DAVID TENNESSEN",
+     "votes": 2063,
+     "party": null,
+     "pct": 63.0501222493887,
+     "choice_id": "DAVID TENNESSEN",
+     "party_lines": null
+    },
+    {
+     "name": "VISHNU K PATEL",
+     "votes": 1209,
+     "party": null,
+     "pct": 36.9498777506113,
+     "choice_id": "VISHNU K PATEL",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "59",
+   "state": "CA",
+   "title": "Camarillo City Council District 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 13,
+    "units_total": 19,
+    "pct": 68.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "SUSAN SANTANGELO",
+     "votes": 1128,
+     "party": null,
+     "pct": 51.5539305301645,
+     "choice_id": "SUSAN SANTANGELO",
+     "party_lines": null
+    },
+    {
+     "name": "DAN GOBER",
+     "votes": 814,
+     "party": null,
+     "pct": 37.2029250457038,
+     "choice_id": "DAN GOBER",
+     "party_lines": null
+    },
+    {
+     "name": "SYLVIA C. GARCIA",
+     "votes": 246,
+     "party": null,
+     "pct": 11.2431444241316,
+     "choice_id": "SYLVIA C. GARCIA",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "60",
+   "state": "CA",
+   "title": "Camarillo City Council District 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 19,
+    "units_total": 29,
+    "pct": 65.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "MARTHA ''MARTITA'' MARTINEZ-BRAVO",
+     "votes": 1704,
+     "party": null,
+     "pct": 50.4888888888889,
+     "choice_id": "MARTHA ''MARTITA'' MARTINEZ-BRAVO",
+     "party_lines": null
+    },
+    {
+     "name": "DAVID P. SCHLANGEN",
+     "votes": 1671,
+     "party": null,
+     "pct": 49.5111111111111,
+     "choice_id": "DAVID P. SCHLANGEN",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "61",
+   "state": "CA",
+   "title": "Moorpark City Mayor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 35,
+    "units_total": 39,
+    "pct": 89.7,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "CHRIS R. ENEGREN",
+     "votes": 6349,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "CHRIS R. ENEGREN",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "62",
+   "state": "CA",
+   "title": "Moorpark City Council District 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 8,
+    "units_total": 9,
+    "pct": 88.9,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "RENEE DELGADO",
+     "votes": 1330,
+     "party": null,
+     "pct": 73.9710789766407,
+     "choice_id": "RENEE DELGADO",
+     "party_lines": null
+    },
+    {
+     "name": "DAVID PALOS",
+     "votes": 468,
+     "party": null,
+     "pct": 26.0289210233593,
+     "choice_id": "DAVID PALOS",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "63",
+   "state": "CA",
+   "title": "Moorpark City Council District 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 9,
+    "units_total": 12,
+    "pct": 75.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "TOM MEANS",
+     "votes": 1977,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "TOM MEANS",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "64",
+   "state": "CA",
+   "title": "Ojai City Mayor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 19,
+    "units_total": 19,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ANDY GILMAN",
+     "votes": 1430,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "ANDY GILMAN",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "65",
+   "state": "CA",
+   "title": "Ojai City Council District 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 3,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JORDAN GARST",
+     "votes": 184,
+     "party": null,
+     "pct": 54.7619047619048,
+     "choice_id": "JORDAN GARST",
+     "party_lines": null
+    },
+    {
+     "name": "LESLIE C. RULE",
+     "votes": 152,
+     "party": null,
+     "pct": 45.2380952380952,
+     "choice_id": "LESLIE C. RULE",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "66",
+   "state": "CA",
+   "title": "Ojai City Council District 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 3,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "RACHEL LANG",
+     "votes": 389,
+     "party": null,
+     "pct": 67.3010380622837,
+     "choice_id": "RACHEL LANG",
+     "party_lines": null
+    },
+    {
+     "name": "LARRY STEINGOLD",
+     "votes": 189,
+     "party": null,
+     "pct": 32.6989619377163,
+     "choice_id": "LARRY STEINGOLD",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "67",
+   "state": "CA",
+   "title": "Ojai City Council District 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 7,
+    "units_total": 7,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ANDREW K. WHITMAN",
+     "votes": 294,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "ANDREW K. WHITMAN",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "68",
+   "state": "CA",
+   "title": "Oxnard City Council District 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 29,
+    "units_total": 36,
+    "pct": 80.6,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "BERT E. PERELLO",
+     "votes": 3190,
+     "party": null,
+     "pct": 44.4413485650599,
+     "choice_id": "BERT E. PERELLO",
+     "party_lines": null
+    },
+    {
+     "name": "JOHN BARRICK",
+     "votes": 3074,
+     "party": null,
+     "pct": 42.8252995263305,
+     "choice_id": "JOHN BARRICK",
+     "party_lines": null
+    },
+    {
+     "name": "EDUARDO HUERTA",
+     "votes": 914,
+     "party": null,
+     "pct": 12.7333519086096,
+     "choice_id": "EDUARDO HUERTA",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "69",
+   "state": "CA",
+   "title": "Oxnard City Council District 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 26,
+    "units_total": 28,
+    "pct": 92.9,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "GABRIEL ''GABE'' TERAN",
+     "votes": 2190,
+     "party": null,
+     "pct": 59.6242853253471,
+     "choice_id": "GABRIEL ''GABE'' TERAN",
+     "party_lines": null
+    },
+    {
+     "name": "LIZANNE NAÑEZ",
+     "votes": 1483,
+     "party": null,
+     "pct": 40.3757146746529,
+     "choice_id": "LIZANNE NAÑEZ",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "70",
+   "state": "CA",
+   "title": "Oxnard City Council District 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 24,
+    "units_total": 31,
+    "pct": 77.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "GABRIELA BASUA",
+     "votes": 1705,
+     "party": null,
+     "pct": 54.9822637858755,
+     "choice_id": "GABRIELA BASUA",
+     "party_lines": null
+    },
+    {
+     "name": "NOEMI CORPUZ",
+     "votes": 1396,
+     "party": null,
+     "pct": 45.0177362141245,
+     "choice_id": "NOEMI CORPUZ",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "71",
+   "state": "CA",
+   "title": "Port Hueneme City Council Member",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 18,
+    "units_total": 18,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "LAURA HERNANDEZ",
+     "votes": 1943,
+     "party": null,
+     "pct": 29.7231145785529,
+     "choice_id": "LAURA HERNANDEZ",
+     "party_lines": null
+    },
+    {
+     "name": "MARTHA R. MCQUEEN-LEGOHN",
+     "votes": 1591,
+     "party": null,
+     "pct": 24.3383815205752,
+     "choice_id": "MARTHA R. MCQUEEN-LEGOHN",
+     "party_lines": null
+    },
+    {
+     "name": "JAMES IMPORTANTE",
+     "votes": 1275,
+     "party": null,
+     "pct": 19.5043597980725,
+     "choice_id": "JAMES IMPORTANTE",
+     "party_lines": null
+    },
+    {
+     "name": "STEVEN A. GAMA",
+     "votes": 1220,
+     "party": null,
+     "pct": 18.6629952577635,
+     "choice_id": "STEVEN A. GAMA",
+     "party_lines": null
+    },
+    {
+     "name": "JULIO KOLLERBOHM",
+     "votes": 508,
+     "party": null,
+     "pct": 7.77114884503595,
+     "choice_id": "JULIO KOLLERBOHM",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "72",
+   "state": "CA",
+   "title": "Santa Paula City Council District 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 11,
+    "units_total": 12,
+    "pct": 91.7,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JENNY CROSSWHITE",
+     "votes": 737,
+     "party": null,
+     "pct": 59.1967871485944,
+     "choice_id": "JENNY CROSSWHITE",
+     "party_lines": null
+    },
+    {
+     "name": "JENNY YARBROUGH",
+     "votes": 508,
+     "party": null,
+     "pct": 40.8032128514056,
+     "choice_id": "JENNY YARBROUGH",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "73",
+   "state": "CA",
+   "title": "Santa Paula City Council District 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 7,
+    "pct": 71.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "PEDRO A. CHAVEZ",
+     "votes": 630,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "PEDRO A. CHAVEZ",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "74",
+   "state": "CA",
+   "title": "Santa Paula City Council District 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 4,
+    "units_total": 4,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "MERISA M GARCIA",
+     "votes": 147,
+     "party": null,
+     "pct": 31.8181818181818,
+     "choice_id": "MERISA M GARCIA",
+     "party_lines": null
+    },
+    {
+     "name": "NANCY L. GRASS",
+     "votes": 115,
+     "party": null,
+     "pct": 24.8917748917749,
+     "choice_id": "NANCY L. GRASS",
+     "party_lines": null
+    },
+    {
+     "name": "JOHN MARQUEZ",
+     "votes": 103,
+     "party": null,
+     "pct": 22.2943722943723,
+     "choice_id": "JOHN MARQUEZ",
+     "party_lines": null
+    },
+    {
+     "name": "ANGEL GARZA",
+     "votes": 97,
+     "party": null,
+     "pct": 20.995670995671,
+     "choice_id": "ANGEL GARZA",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "75",
+   "state": "CA",
+   "title": "Simi Valley City Mayor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 121,
+    "units_total": 124,
+    "pct": 97.6,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "MIKE JUDGE",
+     "votes": 10970,
+     "party": null,
+     "pct": 41.6666666666667,
+     "choice_id": "MIKE JUDGE",
+     "party_lines": null
+    },
+    {
+     "name": "KAREEM JUBRAN",
+     "votes": 8593,
+     "party": null,
+     "pct": 32.6382558492859,
+     "choice_id": "KAREEM JUBRAN",
+     "party_lines": null
+    },
+    {
+     "name": "DEE DEE CAVANAUGH",
+     "votes": 5725,
+     "party": null,
+     "pct": 21.7449103615922,
+     "choice_id": "DEE DEE CAVANAUGH",
+     "party_lines": null
+    },
+    {
+     "name": "WAYNE HAMPTON HOLLAND, III",
+     "votes": 600,
+     "party": null,
+     "pct": 2.27894257064722,
+     "choice_id": "WAYNE HAMPTON HOLLAND, III",
+     "party_lines": null
+    },
+    {
+     "name": "ROBERT CLARIZIO",
+     "votes": 440,
+     "party": null,
+     "pct": 1.67122455180796,
+     "choice_id": "ROBERT CLARIZIO",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "76",
+   "state": "CA",
+   "title": "Simi Valley City Council District 1 (Short Term)",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 30,
+    "units_total": 30,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JILL A. ABELE",
+     "votes": 2683,
+     "party": null,
+     "pct": 38.6933948658783,
+     "choice_id": "JILL A. ABELE",
+     "party_lines": null
+    },
+    {
+     "name": "JOSEPH D AYALA",
+     "votes": 2671,
+     "party": null,
+     "pct": 38.5203345832132,
+     "choice_id": "JOSEPH D AYALA",
+     "party_lines": null
+    },
+    {
+     "name": "ANTHONY THOMPSON",
+     "votes": 1069,
+     "party": null,
+     "pct": 15.4167868474185,
+     "choice_id": "ANTHONY THOMPSON",
+     "party_lines": null
+    },
+    {
+     "name": "TODD TAYLOR",
+     "votes": 511,
+     "party": null,
+     "pct": 7.36948370349005,
+     "choice_id": "TODD TAYLOR",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "77",
+   "state": "CA",
+   "title": "Simi Valley City Council District 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 28,
+    "units_total": 30,
+    "pct": 93.3,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "SAM COHEN",
+     "votes": 3359,
+     "party": null,
+     "pct": 57.5072761513439,
+     "choice_id": "SAM COHEN",
+     "party_lines": null
+    },
+    {
+     "name": "RICHARD PERINI",
+     "votes": 2482,
+     "party": null,
+     "pct": 42.4927238486561,
+     "choice_id": "RICHARD PERINI",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "78",
+   "state": "CA",
+   "title": "Simi Valley City Council District 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 37,
+    "pct": 97.3,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "IVANA CHRISTMANN",
+     "votes": 2913,
+     "party": null,
+     "pct": 37.4614197530864,
+     "choice_id": "IVANA CHRISTMANN",
+     "party_lines": null
+    },
+    {
+     "name": "JOSH GRAY",
+     "votes": 2279,
+     "party": null,
+     "pct": 29.3081275720165,
+     "choice_id": "JOSH GRAY",
+     "party_lines": null
+    },
+    {
+     "name": "DEBRA K. DICKERSON",
+     "votes": 1931,
+     "party": null,
+     "pct": 24.8328189300412,
+     "choice_id": "DEBRA K. DICKERSON",
+     "party_lines": null
+    },
+    {
+     "name": "SCOTT JUCEAM",
+     "votes": 653,
+     "party": null,
+     "pct": 8.39763374485597,
+     "choice_id": "SCOTT JUCEAM",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "79",
+   "state": "CA",
+   "title": "Thousand Oaks City Council District 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 25,
+    "units_total": 25,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "KAREN ARREOLA",
+     "votes": 3751,
+     "party": null,
+     "pct": 50.2141900937082,
+     "choice_id": "KAREN ARREOLA",
+     "party_lines": null
+    },
+    {
+     "name": "MIKEY TAYLOR",
+     "votes": 3719,
+     "party": null,
+     "pct": 49.7858099062918,
+     "choice_id": "MIKEY TAYLOR",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "80",
+   "state": "CA",
+   "title": "Thousand Oaks City Council District 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 25,
+    "units_total": 28,
+    "pct": 89.3,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "KYLE ROHRBACH",
+     "votes": 3375,
+     "party": null,
+     "pct": 59.9893352292926,
+     "choice_id": "KYLE ROHRBACH",
+     "party_lines": null
+    },
+    {
+     "name": "GUS R. GOUGAS",
+     "votes": 2251,
+     "party": null,
+     "pct": 40.0106647707074,
+     "choice_id": "GUS R. GOUGAS",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "81",
+   "state": "CA",
+   "title": "Thousand Oaks City Council District 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 26,
+    "units_total": 27,
+    "pct": 96.3,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DAVID NEWMAN",
+     "votes": 3187,
+     "party": null,
+     "pct": 54.4228142076503,
+     "choice_id": "DAVID NEWMAN",
+     "party_lines": null
+    },
+    {
+     "name": "VICTOR HAYEK",
+     "votes": 2669,
+     "party": null,
+     "pct": 45.5771857923497,
+     "choice_id": "VICTOR HAYEK",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "82",
+   "state": "CA",
+   "title": "San Buenaventura City Council District 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 11,
+    "units_total": 13,
+    "pct": 84.6,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "LIZ CAMPOS",
+     "votes": 1300,
+     "party": null,
+     "pct": 66.0569105691057,
+     "choice_id": "LIZ CAMPOS",
+     "party_lines": null
+    },
+    {
+     "name": "CRAWFORD COATES",
+     "votes": 668,
+     "party": null,
+     "pct": 33.9430894308943,
+     "choice_id": "CRAWFORD COATES",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "83",
+   "state": "CA",
+   "title": "San Buenaventura City Council District 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 15,
+    "units_total": 15,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JEANNETTE SANCHEZ-PALACIOS",
+     "votes": 1693,
+     "party": null,
+     "pct": 53.6098796706776,
+     "choice_id": "JEANNETTE SANCHEZ-PALACIOS",
+     "party_lines": null
+    },
+    {
+     "name": "SCOTT SHOEMAKE",
+     "votes": 831,
+     "party": null,
+     "pct": 26.3141228625712,
+     "choice_id": "SCOTT SHOEMAKE",
+     "party_lines": null
+    },
+    {
+     "name": "RICHARD T ROSIN",
+     "votes": 513,
+     "party": null,
+     "pct": 16.2444585180494,
+     "choice_id": "RICHARD T ROSIN",
+     "party_lines": null
+    },
+    {
+     "name": "KYLE R. CLARK",
+     "votes": 121,
+     "party": null,
+     "pct": 3.83153894870171,
+     "choice_id": "KYLE R. CLARK",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "84",
+   "state": "CA",
+   "title": "San Buenaventura City Council District 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 18,
+    "units_total": 19,
+    "pct": 94.7,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "VERNON ALSTOT",
+     "votes": 2790,
+     "party": null,
+     "pct": 68.2485322896282,
+     "choice_id": "VERNON ALSTOT",
+     "party_lines": null
+    },
+    {
+     "name": "BILL MCREYNOLDS",
+     "votes": 1298,
+     "party": null,
+     "pct": 31.7514677103718,
+     "choice_id": "BILL MCREYNOLDS",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "85",
+   "state": "CA",
+   "title": "San Buenaventura City Council District 6",
+   "office_type": "local",
+   "district": "6",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 15,
+    "units_total": 16,
+    "pct": 93.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "KARBA ECKLEY",
+     "votes": 808,
+     "party": null,
+     "pct": 28.9294665234515,
+     "choice_id": "KARBA ECKLEY",
+     "party_lines": null
+    },
+    {
+     "name": "NOE AGUILAR VEGA",
+     "votes": 649,
+     "party": null,
+     "pct": 23.2366630862871,
+     "choice_id": "NOE AGUILAR VEGA",
+     "party_lines": null
+    },
+    {
+     "name": "DANNY CARRILLO",
+     "votes": 606,
+     "party": null,
+     "pct": 21.6970998925886,
+     "choice_id": "DANNY CARRILLO",
+     "party_lines": null
+    },
+    {
+     "name": "JAMES LOUGHRIE",
+     "votes": 302,
+     "party": null,
+     "pct": 10.812746151092,
+     "choice_id": "JAMES LOUGHRIE",
+     "party_lines": null
+    },
+    {
+     "name": "STEVEN ALMCRANTZ",
+     "votes": 256,
+     "party": null,
+     "pct": 9.16577157178661,
+     "choice_id": "STEVEN ALMCRANTZ",
+     "party_lines": null
+    },
+    {
+     "name": "KEVIN JAMES DALY",
+     "votes": 172,
+     "party": null,
+     "pct": 6.15825277479413,
+     "choice_id": "KEVIN JAMES DALY",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "112",
+   "state": "CA",
+   "title": "Measure A - City Of Simi Valley",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 121,
+    "units_total": 124,
+    "pct": 97.6,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 19120,
+     "party": null,
+     "pct": 72.1754558151825,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 7371,
+     "party": null,
+     "pct": 27.8245441848175,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "113",
+   "state": "CA",
+   "title": "Measure B - Rio School District",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 47,
+    "units_total": 67,
+    "pct": 70.1,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 3224,
+     "party": null,
+     "pct": 64.7389558232932,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 1756,
+     "party": null,
+     "pct": 35.2610441767068,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "114",
+   "state": "CA",
+   "title": "Measure C - Santa Paula Unified School District",
+   "office_type": "measure",
+   "district": "c",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 56,
+    "units_total": 79,
+    "pct": 70.9,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2425,
+     "party": null,
+     "pct": 57.2068884170795,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 1814,
+     "party": null,
+     "pct": 42.7931115829205,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "115",
+   "state": "CA",
+   "title": "Measure D - United Water Conservation District",
+   "office_type": "measure",
+   "district": "d",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 392,
+    "units_total": 515,
+    "pct": 76.1,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 36417,
+     "party": null,
+     "pct": 68.7619191480523,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 16544,
+     "party": null,
+     "pct": 31.2380808519477,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "116",
+   "state": "CA",
+   "title": "Measure E - City Of Oxnard",
+   "office_type": "measure",
+   "district": "e",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 148,
+    "units_total": 171,
+    "pct": 86.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 12616,
+     "party": null,
+     "pct": 53.7171080643788,
+     "choice_id": "No",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 10870,
+     "party": null,
+     "pct": 46.2828919356212,
+     "choice_id": "Yes",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "117",
+   "state": "CA",
+   "title": "Measure H - Allan Hancock Joint Community College District",
+   "office_type": "measure",
+   "district": "h",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "No",
+     "votes": 13,
+     "party": null,
+     "pct": 52.0,
+     "choice_id": "No",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 12,
+     "party": null,
+     "pct": 48.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "118",
+   "state": "CA",
+   "title": "Measure LV - Las Virgenes Unified School District",
+   "office_type": "measure",
+   "district": "lv",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 374,
+     "party": null,
+     "pct": 69.1312384473198,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 167,
+     "party": null,
+     "pct": 30.8687615526802,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "42",
+   "state": "CA",
+   "title": "Fillmore Unified School District Trustee Area 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 4,
+    "units_total": 4,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JENNIE ANDRADE",
+     "votes": 345,
+     "party": null,
+     "pct": 78.4090909090909,
+     "choice_id": "JENNIE ANDRADE",
+     "party_lines": null
+    },
+    {
+     "name": "JIM MILLS",
+     "votes": 95,
+     "party": null,
+     "pct": 21.5909090909091,
+     "choice_id": "JIM MILLS",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "43",
+   "state": "CA",
+   "title": "Las Virgenes Unified School District",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ANGELA CUTBILL",
+     "votes": 273,
+     "party": null,
+     "pct": 29.3864370290635,
+     "choice_id": "ANGELA CUTBILL",
+     "party_lines": null
+    },
+    {
+     "name": "DALLAS LAWRENCE",
+     "votes": 242,
+     "party": null,
+     "pct": 26.0495156081808,
+     "choice_id": "DALLAS LAWRENCE",
+     "party_lines": null
+    },
+    {
+     "name": "SANDRA POPE",
+     "votes": 210,
+     "party": null,
+     "pct": 22.6049515608181,
+     "choice_id": "SANDRA POPE",
+     "party_lines": null
+    },
+    {
+     "name": "CORAL EDWARDSEN",
+     "votes": 204,
+     "party": null,
+     "pct": 21.9590958019376,
+     "choice_id": "CORAL EDWARDSEN",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "44",
+   "state": "CA",
+   "title": "Moorpark Unified School District Trustee Area 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 24,
+    "units_total": 48,
+    "pct": 50.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "KATIE CLUNEN",
+     "votes": 1043,
+     "party": null,
+     "pct": 60.463768115942,
+     "choice_id": "KATIE CLUNEN",
+     "party_lines": null
+    },
+    {
+     "name": "JUNE DUBREUIL",
+     "votes": 682,
+     "party": null,
+     "pct": 39.536231884058,
+     "choice_id": "JUNE DUBREUIL",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "50",
+   "state": "CA",
+   "title": "Oxnard School District Trustee Area 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 14,
+    "units_total": 14,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JASMINE DURON",
+     "votes": 1721,
+     "party": null,
+     "pct": 76.3531499556344,
+     "choice_id": "JASMINE DURON",
+     "party_lines": null
+    },
+    {
+     "name": "BRIAN MELANEPHY",
+     "votes": 533,
+     "party": null,
+     "pct": 23.6468500443656,
+     "choice_id": "BRIAN MELANEPHY",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "51",
+   "state": "CA",
+   "title": "Oxnard School District Trustee Area 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 17,
+    "units_total": 20,
+    "pct": 85.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "RAFAEL B. CAHUE",
+     "votes": 1179,
+     "party": null,
+     "pct": 63.1832797427653,
+     "choice_id": "RAFAEL B. CAHUE",
+     "party_lines": null
+    },
+    {
+     "name": "VERONICA ROBLES SOLIS",
+     "votes": 687,
+     "party": null,
+     "pct": 36.8167202572347,
+     "choice_id": "VERONICA ROBLES SOLIS",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "52",
+   "state": "CA",
+   "title": "Pleasant Valley School District Trustee Area 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 22,
+    "units_total": 23,
+    "pct": 95.7,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "RON SPEAKMAN",
+     "votes": 2074,
+     "party": null,
+     "pct": 50.0845206471867,
+     "choice_id": "RON SPEAKMAN",
+     "party_lines": null
+    },
+    {
+     "name": "LAURA VALDEZ",
+     "votes": 1640,
+     "party": null,
+     "pct": 39.6039603960396,
+     "choice_id": "LAURA VALDEZ",
+     "party_lines": null
+    },
+    {
+     "name": "RUBEN M. RUIZ",
+     "votes": 427,
+     "party": null,
+     "pct": 10.3115189567737,
+     "choice_id": "RUBEN M. RUIZ",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "53",
+   "state": "CA",
+   "title": "Pleasant Valley School District Trustee Area 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 15,
+    "units_total": 15,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "LAURIE BOWEN",
+     "votes": 991,
+     "party": null,
+     "pct": 40.3665987780041,
+     "choice_id": "LAURIE BOWEN",
+     "party_lines": null
+    },
+    {
+     "name": "JAIRO ARELLANO",
+     "votes": 748,
+     "party": null,
+     "pct": 30.4684317718941,
+     "choice_id": "JAIRO ARELLANO",
+     "party_lines": null
+    },
+    {
+     "name": "BOB RUST",
+     "votes": 716,
+     "party": null,
+     "pct": 29.1649694501018,
+     "choice_id": "BOB RUST",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "54",
+   "state": "CA",
+   "title": "Pleasant Valley School District Trustee Area 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 17,
+    "units_total": 19,
+    "pct": 89.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REBECCA ''BECKIE'' CRAMER",
+     "votes": 2280,
+     "party": null,
+     "pct": 76.2286860581745,
+     "choice_id": "REBECCA ''BECKIE'' CRAMER",
+     "party_lines": null
+    },
+    {
+     "name": "ROBERT EDWARD SCHWEERS",
+     "votes": 517,
+     "party": null,
+     "pct": 17.2851889000334,
+     "choice_id": "ROBERT EDWARD SCHWEERS",
+     "party_lines": null
+    },
+    {
+     "name": "DAVE FOX",
+     "votes": 194,
+     "party": null,
+     "pct": 6.48612504179204,
+     "choice_id": "DAVE FOX",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "55",
+   "state": "CA",
+   "title": "Rio School District Trustee Area 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 8,
+    "units_total": 10,
+    "pct": 80.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "KHALED OMAR",
+     "votes": 469,
+     "party": null,
+     "pct": 45.6225680933852,
+     "choice_id": "KHALED OMAR",
+     "party_lines": null
+    },
+    {
+     "name": "FELIX EISENHAUER",
+     "votes": 373,
+     "party": null,
+     "pct": 36.284046692607,
+     "choice_id": "FELIX EISENHAUER",
+     "party_lines": null
+    },
+    {
+     "name": "JOE ESQUIVEL",
+     "votes": 186,
+     "party": null,
+     "pct": 18.0933852140078,
+     "choice_id": "JOE ESQUIVEL",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "56",
+   "state": "CA",
+   "title": "Rio School District Trustee Area 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 9,
+    "units_total": 11,
+    "pct": 81.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "CHRISTINA D. SEGOVIA",
+     "votes": 495,
+     "party": null,
+     "pct": 41.1813643926789,
+     "choice_id": "CHRISTINA D. SEGOVIA",
+     "party_lines": null
+    },
+    {
+     "name": "ALESIA MARTIN",
+     "votes": 408,
+     "party": null,
+     "pct": 33.9434276206323,
+     "choice_id": "ALESIA MARTIN",
+     "party_lines": null
+    },
+    {
+     "name": "DANIEL HERNANDEZ GARCIA",
+     "votes": 161,
+     "party": null,
+     "pct": 13.3943427620632,
+     "choice_id": "DANIEL HERNANDEZ GARCIA",
+     "party_lines": null
+    },
+    {
+     "name": "ALFREDO GARCIA JR.",
+     "votes": 138,
+     "party": null,
+     "pct": 11.4808652246256,
+     "choice_id": "ALFREDO GARCIA JR.",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "57",
+   "state": "CA",
+   "title": "Rio School District Trustee Area 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 8,
+    "units_total": 9,
+    "pct": 88.9,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "INEZ SPATES",
+     "votes": 526,
+     "party": null,
+     "pct": 55.5438225976769,
+     "choice_id": "INEZ SPATES",
+     "party_lines": null
+    },
+    {
+     "name": "ELEANOR TORRES",
+     "votes": 421,
+     "party": null,
+     "pct": 44.4561774023231,
+     "choice_id": "ELEANOR TORRES",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "45",
+   "state": "CA",
+   "title": "Santa Paula Unified School District Trustee Area 5 (Short Term)",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 31,
+    "units_total": 44,
+    "pct": 70.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "MATT KLINEFELTER",
+     "votes": 833,
+     "party": null,
+     "pct": 63.7337413925019,
+     "choice_id": "MATT KLINEFELTER",
+     "party_lines": null
+    },
+    {
+     "name": "FRANCISCO SOLIS ESTRADA",
+     "votes": 474,
+     "party": null,
+     "pct": 36.2662586074981,
+     "choice_id": "FRANCISCO SOLIS ESTRADA",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "46",
+   "state": "CA",
+   "title": "Simi Valley Unified School District Trustee Area D",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 23,
+    "units_total": 23,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "STEPHEN ''P'' PIETROLUNGO",
+     "votes": 2708,
+     "party": null,
+     "pct": 57.6906689390712,
+     "choice_id": "STEPHEN ''P'' PIETROLUNGO",
+     "party_lines": null
+    },
+    {
+     "name": "JAMES GREENFIELD",
+     "votes": 1986,
+     "party": null,
+     "pct": 42.3093310609288,
+     "choice_id": "JAMES GREENFIELD",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "47",
+   "state": "CA",
+   "title": "Simi Valley Unified School District Trustee Area E",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 24,
+    "units_total": 28,
+    "pct": 85.7,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "RYAN ROSUCK",
+     "votes": 2654,
+     "party": null,
+     "pct": 57.198275862069,
+     "choice_id": "RYAN ROSUCK",
+     "party_lines": null
+    },
+    {
+     "name": "JODI C. LEWIS",
+     "votes": 1986,
+     "party": null,
+     "pct": 42.801724137931,
+     "choice_id": "JODI C. LEWIS",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "48",
+   "state": "CA",
+   "title": "Ventura Unified School District Trustee Area 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 26,
+    "units_total": 27,
+    "pct": 96.3,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "MATTHEW A METCALF",
+     "votes": 2521,
+     "party": null,
+     "pct": 47.2008987081071,
+     "choice_id": "MATTHEW A METCALF",
+     "party_lines": null
+    },
+    {
+     "name": "AMBER THOMPSON",
+     "votes": 1884,
+     "party": null,
+     "pct": 35.2742932035199,
+     "choice_id": "AMBER THOMPSON",
+     "party_lines": null
+    },
+    {
+     "name": "JERRY DANNENBERG",
+     "votes": 936,
+     "party": null,
+     "pct": 17.524808088373,
+     "choice_id": "JERRY DANNENBERG",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "49",
+   "state": "CA",
+   "title": "Ventura Unified School District Trustee Area 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 27,
+    "units_total": 30,
+    "pct": 90.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ANDREW LAFAVE",
+     "votes": 2547,
+     "party": null,
+     "pct": 61.6408518877057,
+     "choice_id": "ANDREW LAFAVE",
+     "party_lines": null
+    },
+    {
+     "name": "CALVIN PETERSON",
+     "votes": 1585,
+     "party": null,
+     "pct": 38.3591481122943,
+     "choice_id": "CALVIN PETERSON",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "86",
+   "state": "CA",
+   "title": "Antelope Valley-East Kern Water Agency Division 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "LYNN ROBERT BARNES",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "LYNN ROBERT BARNES",
+     "party_lines": null
+    },
+    {
+     "name": "DREW MERCY",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "DREW MERCY",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "87",
+   "state": "CA",
+   "title": "Bell Canyon Community Services District",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "CATHERINE BALIN",
+     "votes": 293,
+     "party": null,
+     "pct": 35.3437876960193,
+     "choice_id": "CATHERINE BALIN",
+     "party_lines": null
+    },
+    {
+     "name": "MATHEW PERELMAN",
+     "votes": 270,
+     "party": null,
+     "pct": 32.5693606755127,
+     "choice_id": "MATHEW PERELMAN",
+     "party_lines": null
+    },
+    {
+     "name": "VIDA ANGIULI",
+     "votes": 191,
+     "party": null,
+     "pct": 23.0398069963812,
+     "choice_id": "VIDA ANGIULI",
+     "party_lines": null
+    },
+    {
+     "name": "OLGA DAMASCUS",
+     "votes": 75,
+     "party": null,
+     "pct": 9.04704463208685,
+     "choice_id": "OLGA DAMASCUS",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "88",
+   "state": "CA",
+   "title": "Camarillo Health Care District Zone 1 (Short Term)",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 39,
+    "units_total": 55,
+    "pct": 70.9,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "CRIS LOUGHRIDGE",
+     "votes": 1646,
+     "party": null,
+     "pct": 50.3826140189777,
+     "choice_id": "CRIS LOUGHRIDGE",
+     "party_lines": null
+    },
+    {
+     "name": "JORDAN ROBERTS",
+     "votes": 1464,
+     "party": null,
+     "pct": 44.811753902663,
+     "choice_id": "JORDAN ROBERTS",
+     "party_lines": null
+    },
+    {
+     "name": "SCOTT FRIEDMAN",
+     "votes": 157,
+     "party": null,
+     "pct": 4.80563207835935,
+     "choice_id": "SCOTT FRIEDMAN",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "89",
+   "state": "CA",
+   "title": "Camarillo Health Care District Zone 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 14,
+    "units_total": 15,
+    "pct": 93.3,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "MATTHEW FLOOD",
+     "votes": 1251,
+     "party": null,
+     "pct": 51.8227009113505,
+     "choice_id": "MATTHEW FLOOD",
+     "party_lines": null
+    },
+    {
+     "name": "PAULA FEINBERG",
+     "votes": 1163,
+     "party": null,
+     "pct": 48.1772990886495,
+     "choice_id": "PAULA FEINBERG",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "90",
+   "state": "CA",
+   "title": "Camarillo Health Care District Zone 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 26,
+    "units_total": 29,
+    "pct": 89.7,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "NEAL P. DIXON",
+     "votes": 3323,
+     "party": null,
+     "pct": 70.7472855013839,
+     "choice_id": "NEAL P. DIXON",
+     "party_lines": null
+    },
+    {
+     "name": "LIAM ANDRES O'NEILL HERNANDEZ",
+     "votes": 1031,
+     "party": null,
+     "pct": 21.9501809665744,
+     "choice_id": "LIAM ANDRES O'NEILL HERNANDEZ",
+     "party_lines": null
+    },
+    {
+     "name": "JIM RODARTE",
+     "votes": 343,
+     "party": null,
+     "pct": 7.30253353204173,
+     "choice_id": "JIM RODARTE",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "91",
+   "state": "CA",
+   "title": "Conejo Recreation and Park District Division 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 30,
+    "units_total": 33,
+    "pct": 90.9,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "AMY BUSS",
+     "votes": 3071,
+     "party": null,
+     "pct": 46.5797057485212,
+     "choice_id": "AMY BUSS",
+     "party_lines": null
+    },
+    {
+     "name": "KERRY NELSON",
+     "votes": 2339,
+     "party": null,
+     "pct": 35.4770210829668,
+     "choice_id": "KERRY NELSON",
+     "party_lines": null
+    },
+    {
+     "name": "TYMAEUS ORFANOS",
+     "votes": 1047,
+     "party": null,
+     "pct": 15.8804792962233,
+     "choice_id": "TYMAEUS ORFANOS",
+     "party_lines": null
+    },
+    {
+     "name": "DANIEL EMERSON TWEDT",
+     "votes": 136,
+     "party": null,
+     "pct": 2.06279387228879,
+     "choice_id": "DANIEL EMERSON TWEDT",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "92",
+   "state": "CA",
+   "title": "Fillmore-Piru Memorial District",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 36,
+    "units_total": 68,
+    "pct": 52.9,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ERNEST VILLEGAS",
+     "votes": 1581,
+     "party": null,
+     "pct": 35.8340888485947,
+     "choice_id": "ERNEST VILLEGAS",
+     "party_lines": null
+    },
+    {
+     "name": "WILLIAM L. MORRIS III",
+     "votes": 1316,
+     "party": null,
+     "pct": 29.8277425203989,
+     "choice_id": "WILLIAM L. MORRIS III",
+     "party_lines": null
+    },
+    {
+     "name": "CARINA M. FORSYTHE",
+     "votes": 858,
+     "party": null,
+     "pct": 19.4469628286491,
+     "choice_id": "CARINA M. FORSYTHE",
+     "party_lines": null
+    },
+    {
+     "name": "DEREK FOUARGE",
+     "votes": 657,
+     "party": null,
+     "pct": 14.8912058023572,
+     "choice_id": "DEREK FOUARGE",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "93",
+   "state": "CA",
+   "title": "Oxnard Harbor District",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 177,
+    "units_total": 202,
+    "pct": 87.6,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JESS HERRERA",
+     "votes": 16299,
+     "party": null,
+     "pct": 33.8371151570512,
+     "choice_id": "JESS HERRERA",
+     "party_lines": null
+    },
+    {
+     "name": "MARY ANNE ROONEY",
+     "votes": 13845,
+     "party": null,
+     "pct": 28.7425522639042,
+     "choice_id": "MARY ANNE ROONEY",
+     "party_lines": null
+    },
+    {
+     "name": "JASON THOMAS-MA HODGE",
+     "votes": 12366,
+     "party": null,
+     "pct": 25.6721127696236,
+     "choice_id": "JASON THOMAS-MA HODGE",
+     "party_lines": null
+    },
+    {
+     "name": "HEATHER SCHMIDT",
+     "votes": 5659,
+     "party": null,
+     "pct": 11.748219809421,
+     "choice_id": "HEATHER SCHMIDT",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "94",
+   "state": "CA",
+   "title": "Pleasant Valley Recreation and Park District District 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 24,
+    "units_total": 26,
+    "pct": 92.3,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "ELAINE LOUISE MAGNER",
+     "votes": 3129,
+     "party": null,
+     "pct": 73.2101076275152,
+     "choice_id": "ELAINE LOUISE MAGNER",
+     "party_lines": null
+    },
+    {
+     "name": "RIANNA SMITH",
+     "votes": 1145,
+     "party": null,
+     "pct": 26.7898923724848,
+     "choice_id": "RIANNA SMITH",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "95",
+   "state": "CA",
+   "title": "Rancho Simi Recreation and Park District Division 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 26,
+    "units_total": 31,
+    "pct": 83.9,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DAWN M. SMOLLEN",
+     "votes": 2991,
+     "party": null,
+     "pct": 58.406561218512,
+     "choice_id": "DAWN M. SMOLLEN",
+     "party_lines": null
+    },
+    {
+     "name": "MARY NORTHRUP",
+     "votes": 2130,
+     "party": null,
+     "pct": 41.593438781488,
+     "choice_id": "MARY NORTHRUP",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "96",
+   "state": "CA",
+   "title": "Santa Clarita Valley Water Agency Division 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 2,
+    "pct": 50.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "MARIA A. GUTZEIT",
+     "votes": 3,
+     "party": null,
+     "pct": 75.0,
+     "choice_id": "MARIA A. GUTZEIT",
+     "party_lines": null
+    },
+    {
+     "name": "LYNNE PLAMBECK",
+     "votes": 1,
+     "party": null,
+     "pct": 25.0,
+     "choice_id": "LYNNE PLAMBECK",
+     "party_lines": null
+    },
+    {
+     "name": "KENNETH ''KEN'' PETERSEN",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "KENNETH ''KEN'' PETERSEN",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  },
+  {
+   "source": "ca.ventura",
+   "contest_id": "97",
+   "state": "CA",
+   "title": "United Water Conservation District Division 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Ventura County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 80,
+    "units_total": 107,
+    "pct": 74.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "RICARDO SANDOVAL",
+     "votes": 3542,
+     "party": null,
+     "pct": 56.2668784749801,
+     "choice_id": "RICARDO SANDOVAL",
+     "party_lines": null
+    },
+    {
+     "name": "GORDON E. KIMBALL",
+     "votes": 2753,
+     "party": null,
+     "pct": 43.7331215250199,
+     "choice_id": "GORDON E. KIMBALL",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/CA/Ventura/127362/"
+  }
+ ],
+ "contests_hash": "99b21bdaa6d63ee7",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-04T05:25:08+00:00",
+ "fetched_at": "2026-11-04T05:25:08+00:00",
+ "contests_changed_at": "2026-11-04T05:25:08+00:00"
 }
