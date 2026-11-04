@@ -25,9 +25,11 @@ See also [election-results-scraper-plan.md](election-results-scraper-plan.md) (d
 | 9:15pm | 245 | 228 | NYC (new scraper), Colorado, New Mexico |
 | 9:23pm | 259 | 238 | Erie County NY (new scraper) |
 | 10:26pm | 363 | 313 | Westchester County NY (new scraper), Maryland (Montgomery County) |
+| 10:59pm–11:05pm | 373 | 322 | Florida (new scraper), Dane and Kenosha counties WI (new scrapers), Milwaukee WI (6 by hand) |
+| 11:10pm | 499 | 410 | Oregon, California (state and Orange County), Utah's legislative races, Washington |
 
-Not yet posted by 10:26pm: Florida, South Carolina, Bexar/Dallas/Tarrant counties (TX), Hudson and Middlesex
-counties (NJ), and the five California Clarity counties. California, Oregon and Washington close at 11pm ET.
+Not yet posted by 11:10pm: South Carolina, Bexar/Dallas/Tarrant counties (TX), Hudson and Middlesex counties (NJ),
+and the five California Clarity counties. Los Angeles and most of Washington hadn't posted their first counts yet.
 
 ---
 
@@ -233,6 +235,27 @@ Fixes made while building:
 - These numbers only change when someone re-enters them. After editing the file, run
   `scrape_results.py run --sources manual` (plain `match` reuses the last stored pull).
 
+### 11:10pm: the West Coast
+
+- 499 races with votes (up from 373 after the Florida and Wisconsin additions), WFP leading 410. All sources ran
+  without errors; Clarity answered.
+- **New: Oregon 68, Orange County 20, California 19, Connecticut 11 more, Utah 6, New Mexico 1, Washington 1.**
+- Oregon: Kotek (Governor) 54%, Merkley (U.S. Senate) 59%, Bonamici (OR-1) 74%, Hoyle (OR-4) 55%. Oregon votes by
+  mail, so its "0.0% reporting" is the feed's precinct count, not a sign of no votes.
+- California's first counts are early mail ballots (5.6% of precincts statewide). Jane Kim (Insurance Commissioner)
+  54%, Randy Villegas (CA-2) 60%. WFP's side trails on Props 4, 5, 40, 41, 42, 43 and 45, and leads on 1, 2, 3, 38,
+  39 and 44.
+- Utah's four single-county House districts (Salt Lake and Utah counties) posted: Otterstrom, Hayes, Dominguez and
+  Chappell all lead.
+- Trailing for the first time (selected): Sean Frame (CA SD-6, 49%), Leila Namvar (CA AD-47, 44%), Roy Kaufmann (OR
+  HD-18, 35%), Sierrah Williams (OR SD-6, 46%), Angeline Nicole Basett (OR SD-26, 49%), Brandi Mandato (CT SD-34,
+  47%), and several Orange County and Oregon city council races.
+- Flipped to trailing: Jonathan Bradner (OH HD-29, 50.0%), Jon Lloyd (PA HD-40, 48.5%), Brad Chambers (PA HD-41,
+  49.9%).
+- Flipped to leading: Bob Fernandez (CT HD-48, 51.7%), Suzanne Lovig (CT HD-66, 50.3%), and WFP's side on Colorado
+  Proposition 137 (50.0%).
+- Milwaukee's hand entries weren't re-read this run; they're as of 9:43pm CT.
+
 ## Feed quirks worth remembering
 
 | Source | Quirk | How it's handled |
@@ -251,11 +274,16 @@ Fixes made while building:
 | Florida measures | "No for Rejection" contains "for" | `yes_no` checks the first word first |
 | Milwaukee County (WI) | Election-night page returns 403 to scripts | Manual entries |
 | Kenosha County (WI) | Election id is a number in the URL (`eid=70` for Nov 3) | Hard-coded per election; the page's date is checked |
+| Oregon | Vote by mail; precincts-reporting stays at 0 while votes come in | Shown as reported; worth replacing with a count or hiding |
 
 ## Still open
 
 - South Carolina, three Texas counties, two New Jersey counties and five California Clarity counties
-  hadn't posted a Nov 3 election by 10:26pm.
+  hadn't posted a Nov 3 election by 11:10pm.
+- Wisconsin: 9 of 29 races. Still missing: the statewide races and questions, SD-5, 7, 17, 21, 31, AD-13, 21, 51,
+  53, 61–63, 73, 90, 93 (multi-county, or counties that block scripts or post PDFs).
+- Michigan, Massachusetts, Kentucky and Maine have no source; their federal races wait on manual entries.
+- Milwaukee's six races only update when re-entered by hand.
 - Dutchess and Ulster (66 NY races) post PDFs; not built.
 - Onondaga (21 NY races) uses Results Caster and may work with `platforms/resultscaster.py` if its site is
   reachable.
