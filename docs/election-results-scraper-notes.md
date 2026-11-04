@@ -32,8 +32,9 @@ See also [election-results-scraper-plan.md](election-results-scraper-plan.md) (d
 | 12:25am | 601 | 497 | Santa Clara, Contra Costa, Sonoma, Ventura (CA) and Hudson (NJ), via known Clarity ids |
 | 12:48am | 606 | 500 | South Carolina (new scraper, XLSX snapshots) |
 | 1:43am | 623 | 519 | Connecticut (15 more), Wegela (MI HD-26) |
+| 2:16am | 625 | 523 | Connecticut (2 more) |
 
-Still missing at 1:43am: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
+Still missing at 2:16am: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
 
 ---
 
@@ -364,6 +365,19 @@ Fixes made while building:
 - Still close: Jane Kim (CA Insurance Commissioner) 51.5% at 72% of precincts; Sean Frame (CA SD-6) 50.3% with all
   precincts in (California keeps counting mail ballots for days); Laura Parra (NM HD-32) 46.7% at 29 of 31 precincts.
 - South Carolina hadn't posted a snapshot after midnight. Milwaukee's hand entries weren't re-read.
+
+### 2:16am: counts still moving
+
+- 625 races with votes, WFP leading 523. All sources ran without errors; the same five list no Nov 3 election.
+- Vote counts changed in 171 races, mostly Colorado (35), Oregon (22), California (21 state, 20 Orange County, 13
+  Santa Clara, 8 Contra Costa), New Mexico (31) and Connecticut (12).
+- New: Ronald Napoli Jr. (CT HD-73, 71%) and Corey Paris (CT HD-145, unopposed).
+- Flipped to leading: Chad Cardillo (CT HD-83, 54.8%), Sara Duncan (Marion County OR, 50.4%), Maria Hinojos Pressey
+  (Marion County OR, 50.6%).
+- Flipped to trailing: Sean Frame (CA SD-6), now 49.1% with all precincts in. California's later mail-ballot counts
+  will decide it.
+- Wayne County at 19% of precincts for MI-13: McKinney 72%. Jaime Churches (HD-27) 50.2% at 75%.
+- Connecticut at 639 of 775 precincts: Mandato (SD-34) 50.0% and Becker (HD-62) 50.1% are still on the line.
 
 ## Feed quirks worth remembering
 
