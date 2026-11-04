@@ -505,10 +505,21 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 523,NM,Sarah Silva,"State Representative, District 53",auto,district_surname,nm,11229,State Representative District 53,19880,SARAH ANGELINA SILVA,
 524,NM,Luke Jungmann,"State Representative, District 60",auto,district_surname,nm,11206,State Representative District 60,19771,LUKE NICHOLAS JUNGMANN,
 525,NM,Charlotte Little,"State Representative, District 68",auto,district_surname,nm,11263,State Representative District 68,19995,CHARLOTTE L LITTLE,
+530,NY,Chris Gallant,"U.S. House of Representatives, District 1",auto,district_surname,ny.counties,federal_house.1,"Representative in Congress, 1st Congressional District",Christopher J Gallant,Christopher J Gallant,
 532,NY,Claire Valdez,"U.S. House of Representatives, District 7",auto,district_surname,ny.nyc,Representative in Congress 7th Congressional District,Representative in Congress 7th Congressional District,Claire Valdez,Claire Valdez,
 533,NY,Brad Lander,"U.S. House of Representatives, District 10",auto,district_surname,ny.nyc,Representative in Congress 10th Congressional District,Representative in Congress 10th Congressional District,Brad Lander,Brad Lander,
 534,NY,Darializa Avila Chevalier,"U.S. House of Representatives, District 13",auto,district_surname,ny.nyc,Representative in Congress 13th Congressional District,Representative in Congress 13th Congressional District,Darializa Avila Chevalier,Darializa Avila Chevalier,
 535,NY,Alexandria Ocasio-Cortez,"U.S. House of Representatives, District 14",auto,district_surname,ny.nyc,Representative in Congress 14th Congressional District,Representative in Congress 14th Congressional District,Alexandria Ocasio-Cortez,Alexandria Ocasio-Cortez,
+536,NY,Cait Conley,"U.S. House of Representatives, District 17",auto,district_surname,ny.counties,federal_house.17,Representative in Congress 17th District,Cait Conley,Cait Conley,
+537,NY,Pat Ryan,"U.S. House of Representatives, District 18",auto,district_surname,ny.counties,federal_house.18,Member of the House of Representatives for 18th Congressional District,Pat Ryan,Pat Ryan,
+545,NY,Christopher Murray,"State Senate, District 1",auto,district_surname,ny.counties,state_senate.1,"State Senator, 1st Senatorial District",E Christopher Murray,E Christopher Murray,
+546,NY,Antonio Vargas,"State Senate, District 3",auto,district_surname,ny.counties,state_senate.3,"State Senator, 3rd Senatorial District",Antonio Vargas-Ayala,Antonio Vargas-Ayala,
+547,NY,Monica Martinez,"State Senate, District 4",auto,district_surname,ny.counties,state_senate.4,"State Senator, 4th Senatorial District",Monica R Martinez,Monica R Martinez,
+550,NY,Thomas J. Schiavoni,"State Assembly, District 1",auto,district_surname,ny.counties,state_house.1,"Member of Assembly, 1st Assembly District",Tommy John Schiavoni,Tommy John Schiavoni,
+551,NY,Joshua Slaughter,"State Assembly, District 3",auto,district_surname,ny.counties,state_house.3,"Member of Assembly, 3rd Assembly District",Josh Slaughter,Josh Slaughter,
+552,NY,Philip R Ramos,"State Assembly, District 6",auto,district_surname,ny.counties,state_house.6,"Member of Assembly, 6th Assembly District",Philip R Ramos,Philip R Ramos,
+553,NY,Patricia Kopp,"State Assembly, District 7",auto,district_surname,ny.counties,state_house.7,"Member of Assembly, 7th Assembly District",Trish Kopp,Trish Kopp,
+554,NY,Craig Herskowitz,"State Assembly, District 12",auto,district_surname,ny.counties,state_house.12,"Member of Assembly, 12th Assembly District",Craig G Herskowitz,Craig G Herskowitz,
 558,NY,Kathee Burke-Gonzalez,East Hampton Town Supervisor,auto,name_in_state,ny.suffolk,01000000-d6c5-0591-e72c-08df2faefec8,"Supervisor, Town of East Hampton",01000000-d6c5-0591-e75b-08df2faefec8,Kathee Burke-Gonzalez,
 559,NY,James Mack,Southampton Town Trustee,auto,name_in_state,ny.suffolk,01000000-d6c5-0591-778d-08df2faefec9,"Trustee, Town of Southampton",01000000-d6c5-0591-7a0a-08df2faefec9,James W Mack,
 560,NY,Sara Topping,Southampton Town Trustee,auto,name_in_state,ny.suffolk,01000000-d6c5-0591-778d-08df2faefec9,"Trustee, Town of Southampton",01000000-d6c5-0591-7842-08df2faefec9,Sara J Topping,
@@ -516,6 +527,7 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 562,NY,Matthew Parsons,Southampton Town Trustee,auto,name_in_state,ny.suffolk,01000000-d6c5-0591-778d-08df2faefec9,"Trustee, Town of Southampton",01000000-d6c5-0591-77a6-08df2faefec9,Matthew L Parsons,
 563,NY,James Sanders,"State Senate, District 10",auto,district_surname,ny.nyc,State Senator 10th Senatorial District,State Senator 10th Senatorial District,James Sanders Jr.,James Sanders Jr.,
 564,NY,Jessica González-Rojas,"State Senate, District 13",auto,district_surname,ny.nyc,State Senator 13th Senatorial District,State Senator 13th Senatorial District,Jessica Gonzalez-Rojas,Jessica Gonzalez-Rojas,
+565,NY,Aber Kawas,"State Senate, District 12",auto,district_surname,ny.nyc,State Senator 12th Senatorial District,State Senator 12th Senatorial District,Aber Kawas,Aber Kawas,
 566,NY,John Liu,"State Senate, District 16",auto,district_surname,ny.nyc,State Senator 16th Senatorial District,State Senator 16th Senatorial District,John C. Liu,John C. Liu,
 567,NY,Julia Salazar,"State Senate, District 18",auto,district_surname,ny.nyc,State Senator 18th Senatorial District,State Senator 18th Senatorial District,Julia Salazar,Julia Salazar,
 568,NY,Zellnor Myrie,"State Senate, District 20",auto,district_surname,ny.nyc,State Senator 20th Senatorial District,State Senator 20th Senatorial District,Zellnor Y. Myrie,Zellnor Y. Myrie,
@@ -526,8 +538,10 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 573,NY,Cordell Cleare,"State Senate, District 30",auto,district_surname,ny.nyc,State Senator 30th Senatorial District,State Senator 30th Senatorial District,Cordell Cleare,Cordell Cleare,
 574,NY,Robert Jackson,"State Senate, District 31",auto,district_surname,ny.nyc,State Senator 31st Senatorial District,State Senator 31st Senatorial District,Robert Jackson,Robert Jackson,
 575,NY,Gustavo Rivera,"State Senate, District 33",auto,district_surname,ny.nyc,State Senator 33rd Senatorial District,State Senator 33rd Senatorial District,J. Gustavo Rivera,J. Gustavo Rivera,
+576,NY,Nathalia Fernandez,"State Senate, District 34",auto,district_surname,ny.counties,state_senate.34,State Senator 34th Senatorial District,Nathalia Fernandez,Nathalia Fernandez,
 577,NY,Erik Bottcher,"State Senate, District 47",auto,district_surname,ny.nyc,State Senator 47th Senatorial District,State Senator 47th Senatorial District,Erik D. Bottcher,Erik D. Bottcher,
 578,NY,Kristen Gonzalez,"State Senate, District 59",auto,district_surname,ny.nyc,State Senator 59th Senatorial District,State Senator 59th Senatorial District,Kristen Gonzalez,Kristen Gonzalez,
+579,NY,Andrew Hevesi,"State Assembly, District 28",auto,district_surname,ny.nyc,Member of the Assembly 28th Assembly District,Member of the Assembly 28th Assembly District,Andrew D. Hevesi,Andrew D. Hevesi,
 580,NY,Alicia Hyndman,"State Assembly, District 29",auto,district_surname,ny.nyc,Member of the Assembly 29th Assembly District,Member of the Assembly 29th Assembly District,Alicia L. Hyndman,Alicia L. Hyndman,
 581,NY,Khaleel Anderson,"State Assembly, District 31",auto,district_surname,ny.nyc,Member of the Assembly 31st Assembly District,Member of the Assembly 31st Assembly District,Khaleel M. Anderson,Khaleel M. Anderson,
 582,NY,Brian Romero,"State Assembly, District 34",auto,district_surname,ny.nyc,Member of the Assembly 34th Assembly District,Member of the Assembly 34th Assembly District,Brian Romero,Brian Romero,
@@ -540,6 +554,7 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 589,NY,Brian Cunningham,"State Assembly, District 43",auto,district_surname,ny.nyc,Member of the Assembly 43rd Assembly District,Member of the Assembly 43rd Assembly District,Brian-Christopher A. Cunningham,Brian-Christopher A. Cunningham,
 590,NY,Robert Carroll,"State Assembly, District 44",auto,district_surname,ny.nyc,Member of the Assembly 44th Assembly District,Member of the Assembly 44th Assembly District,Robert C. Carroll,Robert C. Carroll,
 591,NY,Chris McCreight,"State Assembly, District 46",auto,district_surname,ny.nyc,Member of the Assembly 46th Assembly District,Member of the Assembly 46th Assembly District,Chris McCreight,Chris McCreight,
+592,NY,Emily Gallagher,"State Assembly, District 50",auto,district_surname,ny.nyc,Member of the Assembly 50th Assembly District,Member of the Assembly 50th Assembly District,Emily Gallagher,Emily Gallagher,
 593,NY,Marcela Mitaynes,"State Assembly, District 51",auto,district_surname,ny.nyc,Member of the Assembly 51st Assembly District,Member of the Assembly 51st Assembly District,Marcela Mitaynes,Marcela Mitaynes,
 594,NY,Jo Anne Simon,"State Assembly, District 52",auto,district_surname,ny.nyc,Member of the Assembly 52nd Assembly District,Member of the Assembly 52nd Assembly District,Jo Anne Simon,Jo Anne Simon,
 595,NY,Christian Celeste Tate,"State Assembly, District 54",auto,district_surname,ny.nyc,Member of the Assembly 54th Assembly District,Member of the Assembly 54th Assembly District,Christian Celeste Tate,Christian Celeste Tate,
@@ -547,6 +562,8 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 597,NY,Eon Huntley,"State Assembly, District 56",auto,district_surname,ny.nyc,Member of the Assembly 56th Assembly District,Member of the Assembly 56th Assembly District,Eon Huntley,Eon Huntley,
 598,NY,Phara Souffrant Forrest,"State Assembly, District 57",auto,district_surname,ny.nyc,Member of the Assembly 57th Assembly District,Member of the Assembly 57th Assembly District,Phara Souffrant Forrest,Phara Souffrant Forrest,
 599,NY,Monique Chandler-Waterman,"State Assembly, District 58",auto,district_surname,ny.nyc,Member of the Assembly 58th Assembly District,Member of the Assembly 58th Assembly District,Monique Chandler-Waterman,Monique Chandler-Waterman,
+600,NY,Illapa Sairitupac,"State Assembly, District 65",auto,district_surname,ny.nyc,Member of the Assembly 65th Assembly District,Member of the Assembly 65th Assembly District,Illapa Sairitupac,Illapa Sairitupac,
+601,NY,David Siffert,"State Assembly, District 66",auto,district_surname,ny.nyc,Member of the Assembly 66th Assembly District,Member of the Assembly 66th Assembly District,David Siffert,David Siffert,
 602,NY,Linda Rosenthal,"State Assembly, District 67",auto,district_surname,ny.nyc,Member of the Assembly 67th Assembly District,Member of the Assembly 67th Assembly District,Linda B. Rosenthal,Linda B. Rosenthal,
 603,NY,Diana Ayala,"State Assembly, District 68",auto,district_surname,ny.nyc,Member of the Assembly 68th Assembly District,Member of the Assembly 68th Assembly District,Diana I. Ayala,Diana I. Ayala,
 604,NY,Eli Northrup,"State Assembly, District 69",auto,district_surname,ny.nyc,Member of the Assembly 69th Assembly District,Member of the Assembly 69th Assembly District,Eli Northrup,Eli Northrup,
@@ -560,6 +577,20 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 612,NY,Emérita Torres,"State Assembly, District 85",auto,district_surname,ny.nyc,Member of the Assembly 85th Assembly District,Member of the Assembly 85th Assembly District,Emerita Torres,Emerita Torres,
 613,NY,Karines Reyes,"State Assembly, District 87",auto,district_surname,ny.nyc,Member of the Assembly 87th Assembly District,Member of the Assembly 87th Assembly District,Karines Reyes,Karines Reyes,
 614,NY,Janice Purvis,"New York City Municipal Civil Court, District 6",auto,name_in_state,ny.nyc,Judge of the Civil Court - District 6th Municipal Court District - Kings,Judge of the Civil Court - District 6th Municipal Court District - Kings,Janice P. Purvis,Janice P. Purvis,
+615,NY,Andrea Stewart-Cousins,"State Senate, District 35",auto,district_surname,ny.counties,state_senate.35,State Senator 35th District,Andrea Stewart-Cousins,Andrea Stewart-Cousins,
+616,NY,Shelley Mayer,"State Senate, District 37",auto,district_surname,ny.counties,state_senate.37,State Senator 37th District,Shelley B. Mayer,Shelley B. Mayer,
+617,NY,Joe Rand,"State Senate, District 38",auto,district_surname,ny.counties,state_senate.38,State Senator 38th Senatorial District,Joseph W. Rand,Joseph W. Rand,
+618,NY,Peter Harckham,"State Senate, District 40",auto,district_surname,ny.counties,state_senate.40,State Senator 40th District,Peter B. Harckham,Peter B. Harckham,
+619,NY,Lisa Kaul,"State Senate, District 39",auto,district_surname,ny.counties,state_senate.39,State Senator for State Senate District 39,Lisa Kaul,Lisa Kaul,
+621,NY,James Skoufis,"State Senate, District 42",auto,district_surname,ny.counties,state_senate.42,New York State Senator for 42nd Senatorial District,James G. Skoufis,James G. Skoufis,
+623,NY,Amy Paulin,"State Assembly, District 88",auto,district_surname,ny.counties,state_house.88,Member of Assembly 88th District,Amy Paulin,Amy Paulin,
+624,NY,Steven Otis,"State Assembly, District 91",auto,district_surname,ny.counties,state_house.91,Member of Assembly 91st District,Steven Otis,Steven Otis,
+625,NY,MaryJane Shimsky,"State Assembly, District 92",auto,district_surname,ny.counties,state_house.92,Member of Assembly 92nd District,MaryJane C. Shimsky,MaryJane C. Shimsky,
+626,NY,Dana Levenberg,"State Assembly, District 95",auto,district_surname,ny.counties,state_house.95,Member of Assembly 95th District,Dana Levenberg,Dana Levenberg,
+627,NY,Patrick Carroll,"State Assembly, District 96",auto,district_surname,ny.counties,state_house.96,Member of Assembly 96th Assembly District,Patrick Carroll,Patrick Carroll,
+628,NY,Chris Eachus,"State Assembly, District 99",auto,district_surname,ny.counties,state_house.99,Member of the New York State Assembly for 99th Assembly District,Christopher W. Eachus,Christopher W. Eachus,
+629,NY,Sarahana Shrestha,"State Assembly, District 103",auto,district_surname,ny.counties,state_house.103,"Member of Assembly, District 103",Sarahana Shrestha,Sarahana Shrestha,
+630,NY,Jonathan Jacobson,"State Assembly, District 104",auto,district_surname,ny.counties,state_house.104,Member of the New York State Assembly for 104th Assembly District,Jonathan G. Jacobson,Jonathan G. Jacobson,
 638,NY,Elizabeth Feldman,Ossining Town Supervisor,auto,name_in_state,ny.westchester,01000000-0c6a-a4eb-9e56-08df2a1b67df,Supervisor for Ossining,01000000-0c6a-a4eb-9ea5-08df2a1b67df,Elizabeth R. Feldman,
 639,NY,Richard Becker,Cortlandt Town Supervisor,auto,name_in_state,ny.westchester,01000000-0c6a-a4eb-983b-08df2a1b67df,Supervisor for Cortlandt,01000000-0c6a-a4eb-9894-08df2a1b67df,Richard H. Becker,
 640,NY,Paul Feiner,Greenburgh Town Supervisor,auto,name_in_state,ny.westchester,01000000-0c6a-a4eb-99c5-08df2a1b67df,Supervisor for Greenburgh,01000000-0c6a-a4eb-9a11-08df2a1b67df,Paul J. Feiner,
@@ -658,6 +689,7 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 774,NY,Marvin Shaw,Plattsburgh City Council Ward 5,auto,name_in_state,ny.clinton,01000000-99e5-71fc-4110-08df1ff45904,City Councilor Ward 5 (3 Year Term) - Ward 5,01000000-99e5-71fc-4136-08df1ff45904,"Marvin D. Shaw, Jr.",
 776,NY,Ilona Selzer-Kelting,"Town of Plattsburgh Council, District 5",auto,name_in_state,ny.clinton,01000000-99e5-71fc-432b-08df1ff45904,Town Councilperson (1 Year Unexpired Term) - Town of Plattsburgh,01000000-99e5-71fc-4341-08df1ff45904,Ilona M. Kelting,
 777,NY,Jay White,Town of Plattsburgh Clerk,auto,name_in_state,ny.clinton,01000000-99e5-71fc-4367-08df1ff45904,Town Clerk (1 Year Unexpired Term) - Town of Plattsburgh,01000000-99e5-71fc-437f-08df1ff45904,Jay White,
+787,NY,Jonathan Lipe,"State Assembly, District 119",auto,district_surname,ny.counties,state_house.119,"Member of Assembly, District 119",Jonathan E. Lipe,Jonathan E. Lipe,
 817,NY,Michael D. Brown,Oneida County Clerk,auto,name_in_state,ny.oneida,01000000-4759-b58d-bb5c-08df1a5e4f90,County Clerk,01000000-4759-b58d-bb9b-08df1a5e4f90,Michael D. Brown,
 818,NY,Jacob T. Addington,"Oneida County Legislature, District 2",auto,name_in_state,ny.oneida,01000000-4759-b58d-bd18-08df1a5e4f90,"County Legislator, District 2",01000000-4759-b58d-bd50-08df1a5e4f90,Jacob T. Addington,
 820,NY,Thomas N. Theall,"Oneida County Legislature, District 12",auto,name_in_state,ny.oneida,01000000-4759-b58d-c1e3-08df1a5e4f90,"County Legislator, District 12",01000000-4759-b58d-c21b-08df1a5e4f90,Thomas N. Theall,
@@ -678,6 +710,19 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 837,NY,Joshua Shapiro,Town of Vestal Justice,auto,name_in_state,ny.broome,01000000-1fbe-aa34-bde1-08df2fb19136,Vestal Town Justice,01000000-1fbe-aa34-bdfa-08df2fb19136,Joshua S. Shapiro,
 838,NY,Leona Perreault,Village of Johnson City Trustee,auto,name_in_state,ny.broome,01000000-1fbe-aa34-91c7-08df2fb19136,Johnson City Village Trustee,01000000-1fbe-aa34-9228-08df2fb19136,Leona Rhea Perreault,
 839,NY,Joseph Picalila,Village of Johnson City Trustee,auto,name_in_state,ny.broome,01000000-1fbe-aa34-91c7-08df2fb19136,Johnson City Village Trustee,01000000-1fbe-aa34-91e5-08df2fb19136,Joseph M. Picalila,
+842,NY,Samra Brouk,"State Senate, District 55",auto,district_surname,ny.counties,state_senate.55,State Senator 55th District,Samra G Brouk,Samra G Brouk,
+843,NY,Jeremy Cooney,"State Senate, District 56",auto,district_surname,ny.counties,state_senate.56,State Senator 56th District,Jeremy A Cooney,Jeremy A Cooney,
+845,NY,Jonathan Rivera,"State Senate, District 61",auto,district_surname,ny.counties,state_senate.61,State Senator 61st,Jonathan D. Rivera,Jonathan D. Rivera,
+847,NY,April McCants-Baskin,"State Senate, District 63",auto,district_surname,ny.counties,state_senate.63,State Senator 63rd,April N. McCants-Baskin,April N. McCants-Baskin,
+848,NY,Kurtis VanWuyckhuyse,"State Assembly, District 134",auto,district_surname,ny.counties,state_house.134,Member of Assembly 134th District,Kurt VanWuyckhuyse,Kurt VanWuyckhuyse,
+849,NY,Jennifer Lunsford,"State Assembly, District 135",auto,district_surname,ny.counties,state_house.135,Member of Assembly 135th District,Jen Lunsford,Jen Lunsford,
+850,NY,Sarah Clark,"State Assembly, District 136",auto,district_surname,ny.counties,state_house.136,Member of Assembly 136th District,Sarah H Clark,Sarah H Clark,
+851,NY,Demond Meeks,"State Assembly, District 137",auto,district_surname,ny.counties,state_house.137,Member of Assembly 137th District,Demond L Meeks,Demond L Meeks,
+852,NY,Harry Bronson,"State Assembly, District 138",auto,district_surname,ny.counties,state_house.138,Member of Assembly 138th District,Harry B Bronson,Harry B Bronson,
+854,NY,Patrick Burke,"State Assembly, District 142",auto,district_surname,ny.counties,state_house.142,Member of Assembly 142nd,Patrick B. Burke,Patrick B. Burke,
+855,NY,Ryan Taughrin,"State Assembly, District 143",auto,district_surname,ny.counties,state_house.143,Member of Assembly 143rd,Ryan J. Taughrin,Ryan J. Taughrin,
+857,NY,Adam Bojak,"State Assembly, District 149",auto,district_surname,ny.counties,state_house.149,Member of Assembly 149th,Adam L. Bojak,Adam L. Bojak,
+858,NY,Thomas Carle,"State Assembly, District 150",auto,district_surname,ny.counties,state_house.150,Member of Assembly District 150,Thomas A. Carle,Thomas A. Carle,
 859,NY,Steven Meyer,Erie County Clerk,auto,name_in_state,ny.erie,20,County Clerk,73,Steven G. Meyer,
 860,NY,Lawrence Dupre,"Erie County Legislature, District 1",auto,name_in_state,ny.erie,21,County Legislator 1st,77,Lawrence J. Dupre,
 861,NY,Taisha St. Jean Tard,"Erie County Legislature, District 2",auto,name_in_state,ny.erie,22,County Legislator 2nd,80,Taisha E. St. Jean Tard,
@@ -1038,10 +1083,7 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 527,NY,Adrienne Adams,Lt. Governor,no_source,,,,,,,NY has only county sources so far
 528,NY,Letitia James,Attorney General,no_source,,,,,,,NY has only county sources so far
 529,NY,Tom DiNapoli,Comptroller,no_source,,,,,,,NY has only county sources so far
-530,NY,Chris Gallant,"U.S. House of Representatives, District 1",no_source,,,,,,,NY has only county sources so far
 531,NY,Pat Halpin,"U.S. House of Representatives, District 2",no_source,,,,,,,NY has only county sources so far
-536,NY,Cait Conley,"U.S. House of Representatives, District 17",no_source,,,,,,,NY has only county sources so far
-537,NY,Pat Ryan,"U.S. House of Representatives, District 18",no_source,,,,,,,NY has only county sources so far
 538,NY,Josh Riley,"U.S. House of Representatives, District 19",no_source,,,,,,,NY has only county sources so far
 539,NY,Paul Tonko,"U.S. House of Representatives, District 20",no_source,,,,,,,NY has only county sources so far
 540,NY,John Mannion,"U.S. House of Representatives, District 22",no_source,,,,,,,NY has only county sources so far
@@ -1049,41 +1091,13 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 542,NY,Alissa Ellman,"U.S. House of Representatives, District 24",no_source,,,,,,,NY has only county sources so far
 543,NY,Joe Morelle,"U.S. House of Representatives, District 25",no_source,,,,,,,NY has only county sources so far
 544,NY,Tim Kennedy,"U.S. House of Representatives, District 26",no_source,,,,,,,NY has only county sources so far
-545,NY,Christopher Murray,"State Senate, District 1",no_source,,,,,,,NY has only county sources so far
-546,NY,Antonio Vargas,"State Senate, District 3",no_source,,,,,,,NY has only county sources so far
-547,NY,Monica Martinez,"State Senate, District 4",no_source,,,,,,,NY has only county sources so far
 548,NY,Siela Bynoe,"State Senate, District 6",no_source,,,,,,,NY has only county sources so far
 549,NY,Joshua Taveras,"State Senate, District 8",no_source,,,,,,,NY has only county sources so far
-550,NY,Thomas J. Schiavoni,"State Assembly, District 1",no_source,,,,,,,NY has only county sources so far
-551,NY,Joshua Slaughter,"State Assembly, District 3",no_source,,,,,,,NY has only county sources so far
-552,NY,Philip R Ramos,"State Assembly, District 6",no_source,,,,,,,NY has only county sources so far
-553,NY,Patricia Kopp,"State Assembly, District 7",no_source,,,,,,,NY has only county sources so far
-554,NY,Craig Herskowitz,"State Assembly, District 12",no_source,,,,,,,NY has only county sources so far
 555,NY,Noah Burroughs,"State Assembly, District 18",no_source,,,,,,,NY has only county sources so far
 556,NY,Michaelle C Solages,"State Assembly, District 22",no_source,,,,,,,NY has only county sources so far
 557,NY,Carrie Solages,"Nassau County Legislature, District 3",no_source,,,,,,,no source carries Nassau local races yet
-565,NY,Aber Kawas,"State Senate, District 12",no_source,,,,,,,NY has only county sources so far
-576,NY,Nathalia Fernandez,"State Senate, District 34",no_source,,,,,,,NY has only county sources so far
-579,NY,Andrew Hevesi,"State Assembly, District 28",no_source,,,,,,,NY has only county sources so far
-592,NY,Emily Gallagher,"State Assembly, District 50",no_source,,,,,,,NY has only county sources so far
-600,NY,Illapa Sairitupac,"State Assembly, District 65",no_source,,,,,,,NY has only county sources so far
-601,NY,David Siffert,"State Assembly, District 66",no_source,,,,,,,NY has only county sources so far
-615,NY,Andrea Stewart-Cousins,"State Senate, District 35",no_source,,,,,,,NY has only county sources so far
-616,NY,Shelley Mayer,"State Senate, District 37",no_source,,,,,,,NY has only county sources so far
-617,NY,Joe Rand,"State Senate, District 38",no_source,,,,,,,NY has only county sources so far
-618,NY,Peter Harckham,"State Senate, District 40",no_source,,,,,,,NY has only county sources so far
-619,NY,Lisa Kaul,"State Senate, District 39",no_source,,,,,,,NY has only county sources so far
 620,NY,Michelle Hinchey,"State Senate, District 41",no_source,,,,,,,NY has only county sources so far
-621,NY,James Skoufis,"State Senate, District 42",no_source,,,,,,,NY has only county sources so far
 622,NY,Michele Frazier,"State Senate, District 51",no_source,,,,,,,NY has only county sources so far
-623,NY,Amy Paulin,"State Assembly, District 88",no_source,,,,,,,NY has only county sources so far
-624,NY,Steven Otis,"State Assembly, District 91",no_source,,,,,,,NY has only county sources so far
-625,NY,MaryJane Shimsky,"State Assembly, District 92",no_source,,,,,,,NY has only county sources so far
-626,NY,Dana Levenberg,"State Assembly, District 95",no_source,,,,,,,NY has only county sources so far
-627,NY,Patrick Carroll,"State Assembly, District 96",no_source,,,,,,,NY has only county sources so far
-628,NY,Chris Eachus,"State Assembly, District 99",no_source,,,,,,,NY has only county sources so far
-629,NY,Sarahana Shrestha,"State Assembly, District 103",no_source,,,,,,,NY has only county sources so far
-630,NY,Jonathan Jacobson,"State Assembly, District 104",no_source,,,,,,,NY has only county sources so far
 747,NY,Devin Lander,"State Senate, District 43",no_source,,,,,,,NY has only county sources so far
 748,NY,Sarah Rogerson,"State Senate, District 44",no_source,,,,,,,NY has only county sources so far
 749,NY,Melissa T Seale,"State Senate, District 45",no_source,,,,,,,NY has only county sources so far
@@ -1112,7 +1126,6 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 784,NY,Lea Webb,"State Senate, District 52",no_source,,,,,,,NY has only county sources so far
 785,NY,Mandi E. Drake,"State Senate, District 53",no_source,,,,,,,NY has only county sources so far
 786,NY,Dennis Gordon,"State Assembly, District 117",no_source,,,,,,,NY has only county sources so far
-787,NY,Jonathan Lipe,"State Assembly, District 119",no_source,,,,,,,NY has only county sources so far
 788,NY,Ihor Semko,"State Assembly, District 122",no_source,,,,,,,NY has only county sources so far
 789,NY,Andrew G Fagan,"State Assembly, District 124",no_source,,,,,,,NY has only county sources so far
 790,NY,Anna Kelles,"State Assembly, District 125",no_source,,,,,,,NY has only county sources so far
@@ -1145,23 +1158,10 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 819,NY,Leslie Berliant,"Otsego County Legislature, District 7",no_source,,,,,,,no source carries Otsego local races yet
 840,NY,Manford Benjamin Susman,Cayuga County Court Judge,no_source,,,,,,,no source carries Cayuga local races yet
 841,NY,Heather J. McGregor,"Jefferson County Legislature, District 6",no_source,,,,,,,no source carries Jefferson local races yet
-842,NY,Samra Brouk,"State Senate, District 55",no_source,,,,,,,NY has only county sources so far
-843,NY,Jeremy Cooney,"State Senate, District 56",no_source,,,,,,,NY has only county sources so far
 844,NY,Victoria Guite-Williams,"State Senate, District 57",no_source,,,,,,,NY has only county sources so far
-845,NY,Jonathan Rivera,"State Senate, District 61",no_source,,,,,,,NY has only county sources so far
 846,NY,Thomas Arida,"State Senate, District 62",no_source,,,,,,,NY has only county sources so far
-847,NY,April McCants-Baskin,"State Senate, District 63",no_source,,,,,,,NY has only county sources so far
-848,NY,Kurtis VanWuyckhuyse,"State Assembly, District 134",no_source,,,,,,,NY has only county sources so far
-849,NY,Jennifer Lunsford,"State Assembly, District 135",no_source,,,,,,,NY has only county sources so far
-850,NY,Sarah Clark,"State Assembly, District 136",no_source,,,,,,,NY has only county sources so far
-851,NY,Demond Meeks,"State Assembly, District 137",no_source,,,,,,,NY has only county sources so far
-852,NY,Harry Bronson,"State Assembly, District 138",no_source,,,,,,,NY has only county sources so far
 853,NY,William “Bill” Conrad,"State Assembly, District 140",no_source,,,,,,,NY has only county sources so far
-854,NY,Patrick Burke,"State Assembly, District 142",no_source,,,,,,,NY has only county sources so far
-855,NY,Ryan Taughrin,"State Assembly, District 143",no_source,,,,,,,NY has only county sources so far
 856,NY,Donna L Dye Sholk,"State Assembly, District 144",no_source,,,,,,,NY has only county sources so far
-857,NY,Adam Bojak,"State Assembly, District 149",no_source,,,,,,,NY has only county sources so far
-858,NY,Thomas Carle,"State Assembly, District 150",no_source,,,,,,,NY has only county sources so far
 888,NY,Matthew Chavez,"Niagara County Legislature, District 3",no_source,,,,,,,no source carries Niagara local races yet
 889,NY,Jeffrey Elder,"Niagara County Legislature, District 4",no_source,,,,,,,no source carries Niagara local races yet
 890,NY,Johnny Parks,"Niagara County Legislature, District 5",no_source,,,,,,,no source carries Niagara local races yet

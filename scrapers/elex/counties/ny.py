@@ -28,8 +28,9 @@ from ..source import NotPublished, Source
 NYC = "https://enr.boenyc.gov/"
 
 _CONTEST = re.compile(r"<th>([^<]+)<div[^>]*>\(([^)]*)\)</div></th>")
-_ROW = re.compile(r"<tr><td >\d+</td><td>&nbsp;</td><td >(.*?)</td><td >(.*?)</td>"
-                  r"<td align=\"right\" >(.*?)</td><td align=\"right\" >(.*?)</td>", re.S)
+# The leading row's cells carry style="font-weight: bold"; the others are a bare "<td >".
+_ROW = re.compile(r"<tr><td[^>]*>\d+</td><td>&nbsp;</td><td[^>]*>(.*?)</td><td[^>]*>(.*?)</td>"
+                  r"<td align=\"right\"[^>]*>(.*?)</td><td align=\"right\"[^>]*>(.*?)</td>", re.S)
 
 
 def _clean(cell: str) -> str:

@@ -1,6 +1,7 @@
 """Every results source, and selection by state, level, county or id. Adding a scraper means adding its module's
 SOURCES here.
 """
+from . import combine
 from .counties import ca as ca_counties
 from .counties import mi as mi_counties
 from .counties import ny as ny_counties
@@ -14,7 +15,7 @@ ALL: list[Source] = [
     *clarity_states.SOURCES, *fl.SOURCES, *sc.SOURCES, *ct.SOURCES, *or_.SOURCES, *oh.SOURCES, *de.SOURCES, *md.SOURCES,
     *dc.SOURCES,
     *ca_counties.SOURCES, *ny_counties.SOURCES, *wi_counties.SOURCES, *mi_counties.SOURCES,
-    *manual.SOURCES,
+    *manual.SOURCES, *combine.SOURCES,
 ]
 
 

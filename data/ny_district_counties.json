@@ -1,0 +1,950 @@
+{
+ "_about": "Counties in each New York district, with the number of 2020 census blocks in each part. From the Census Bureau's block equivalency files: Assembly 2024 (sldl24.zip), Senate 2022 (sldu_2022.zip), Congress 119th (cd119.zip), at www2.census.gov/programs-surveys/decennial/rdo/mapping-files/. A small block count can be empty water; a county source that doesn't list the district is taken to have no voters in it.",
+ "state_house": {
+  "1": {
+   "Suffolk": 3952
+  },
+  "2": {
+   "Suffolk": 2194
+  },
+  "3": {
+   "Suffolk": 2245
+  },
+  "4": {
+   "Suffolk": 1582
+  },
+  "5": {
+   "Suffolk": 1886
+  },
+  "6": {
+   "Suffolk": 1529
+  },
+  "7": {
+   "Suffolk": 2380
+  },
+  "8": {
+   "Suffolk": 1997
+  },
+  "9": {
+   "Suffolk": 1506,
+   "Nassau": 781
+  },
+  "10": {
+   "Suffolk": 1513,
+   "Nassau": 118
+  },
+  "11": {
+   "Suffolk": 2090,
+   "Nassau": 117
+  },
+  "12": {
+   "Suffolk": 1883
+  },
+  "13": {
+   "Nassau": 2072
+  },
+  "14": {
+   "Nassau": 1922
+  },
+  "15": {
+   "Nassau": 2004
+  },
+  "16": {
+   "Nassau": 2075
+  },
+  "17": {
+   "Nassau": 1846
+  },
+  "18": {
+   "Nassau": 1301
+  },
+  "19": {
+   "Nassau": 2131
+  },
+  "20": {
+   "Nassau": 1777
+  },
+  "21": {
+   "Nassau": 2063
+  },
+  "22": {
+   "Nassau": 1631
+  },
+  "23": {
+   "Queens": 1225
+  },
+  "24": {
+   "Queens": 779
+  },
+  "25": {
+   "Queens": 950
+  },
+  "26": {
+   "Queens": 1280
+  },
+  "27": {
+   "Queens": 932
+  },
+  "28": {
+   "Queens": 688
+  },
+  "29": {
+   "Queens": 1030
+  },
+  "30": {
+   "Queens": 591
+  },
+  "31": {
+   "Queens": 964
+  },
+  "32": {
+   "Queens": 727
+  },
+  "33": {
+   "Queens": 1197
+  },
+  "34": {
+   "Queens": 469
+  },
+  "35": {
+   "Queens": 421
+  },
+  "36": {
+   "Queens": 538
+  },
+  "37": {
+   "Queens": 809,
+   "New York": 1
+  },
+  "38": {
+   "Queens": 603
+  },
+  "39": {
+   "Queens": 364
+  },
+  "40": {
+   "Queens": 527
+  },
+  "41": {
+   "Kings": 544
+  },
+  "42": {
+   "Kings": 352
+  },
+  "43": {
+   "Kings": 276
+  },
+  "44": {
+   "Kings": 409
+  },
+  "45": {
+   "Kings": 588
+  },
+  "46": {
+   "Kings": 567
+  },
+  "47": {
+   "Kings": 381
+  },
+  "48": {
+   "Kings": 407
+  },
+  "49": {
+   "Kings": 393
+  },
+  "50": {
+   "Kings": 634
+  },
+  "51": {
+   "Kings": 550
+  },
+  "52": {
+   "Kings": 640
+  },
+  "53": {
+   "Kings": 506
+  },
+  "54": {
+   "Kings": 485
+  },
+  "55": {
+   "Kings": 438
+  },
+  "56": {
+   "Kings": 320
+  },
+  "57": {
+   "Kings": 395
+  },
+  "58": {
+   "Kings": 518
+  },
+  "59": {
+   "Kings": 746
+  },
+  "60": {
+   "Kings": 551
+  },
+  "61": {
+   "Richmond": 793,
+   "New York": 163,
+   "Kings": 10
+  },
+  "62": {
+   "Richmond": 1441
+  },
+  "63": {
+   "Richmond": 1204
+  },
+  "64": {
+   "Richmond": 1234,
+   "Kings": 145
+  },
+  "65": {
+   "New York": 448
+  },
+  "66": {
+   "New York": 535
+  },
+  "67": {
+   "New York": 241
+  },
+  "68": {
+   "New York": 308
+  },
+  "69": {
+   "New York": 248
+  },
+  "70": {
+   "New York": 274
+  },
+  "71": {
+   "New York": 300
+  },
+  "72": {
+   "New York": 283
+  },
+  "73": {
+   "New York": 361
+  },
+  "74": {
+   "New York": 276
+  },
+  "75": {
+   "New York": 394
+  },
+  "76": {
+   "New York": 211
+  },
+  "77": {
+   "Bronx": 326
+  },
+  "78": {
+   "Bronx": 319
+  },
+  "79": {
+   "Bronx": 368
+  },
+  "80": {
+   "Bronx": 519
+  },
+  "81": {
+   "Bronx": 531
+  },
+  "82": {
+   "Bronx": 897
+  },
+  "83": {
+   "Bronx": 558
+  },
+  "84": {
+   "Bronx": 568
+  },
+  "85": {
+   "Bronx": 469
+  },
+  "86": {
+   "Bronx": 342
+  },
+  "87": {
+   "Bronx": 423
+  },
+  "88": {
+   "Westchester": 1993
+  },
+  "89": {
+   "Westchester": 906
+  },
+  "90": {
+   "Westchester": 1246
+  },
+  "91": {
+   "Westchester": 1530
+  },
+  "92": {
+   "Westchester": 2239
+  },
+  "93": {
+   "Westchester": 2099
+  },
+  "94": {
+   "Putnam": 1514,
+   "Westchester": 585
+  },
+  "95": {
+   "Westchester": 1460,
+   "Putnam": 246
+  },
+  "96": {
+   "Rockland": 1672
+  },
+  "97": {
+   "Rockland": 1245
+  },
+  "98": {
+   "Orange": 2081,
+   "Rockland": 594
+  },
+  "99": {
+   "Orange": 1620,
+   "Rockland": 207
+  },
+  "100": {
+   "Sullivan": 3129,
+   "Orange": 1038
+  },
+  "101": {
+   "Orange": 1856,
+   "Ulster": 1165,
+   "Delaware": 1103,
+   "Sullivan": 566
+  },
+  "102": {
+   "Greene": 2038,
+   "Schoharie": 1983,
+   "Delaware": 1941,
+   "Otsego": 1266,
+   "Albany": 1065
+  },
+  "103": {
+   "Ulster": 2630,
+   "Dutchess": 462
+  },
+  "104": {
+   "Orange": 770,
+   "Dutchess": 607,
+   "Ulster": 532
+  },
+  "105": {
+   "Dutchess": 2096
+  },
+  "106": {
+   "Columbia": 2005,
+   "Dutchess": 1878
+  },
+  "107": {
+   "Rensselaer": 2338,
+   "Columbia": 679,
+   "Albany": 539,
+   "Washington": 403
+  },
+  "108": {
+   "Rensselaer": 1491,
+   "Albany": 577,
+   "Saratoga": 175
+  },
+  "109": {
+   "Albany": 1868
+  },
+  "110": {
+   "Albany": 1314,
+   "Schenectady": 545
+  },
+  "111": {
+   "Schenectady": 1921,
+   "Montgomery": 996
+  },
+  "112": {
+   "Saratoga": 1876,
+   "Schenectady": 428,
+   "Fulton": 234
+  },
+  "113": {
+   "Saratoga": 2298,
+   "Washington": 547,
+   "Warren": 294
+  },
+  "114": {
+   "Warren": 1971,
+   "Essex": 1511,
+   "Washington": 1498,
+   "Saratoga": 747,
+   "Fulton": 119
+  },
+  "115": {
+   "Clinton": 2645,
+   "Franklin": 2242,
+   "Essex": 607
+  },
+  "116": {
+   "Jefferson": 3208,
+   "St. Lawrence": 2608
+  },
+  "117": {
+   "St. Lawrence": 2799,
+   "Lewis": 2467,
+   "Jefferson": 1481,
+   "Oneida": 1403
+  },
+  "118": {
+   "Herkimer": 2984,
+   "Montgomery": 1566,
+   "Fulton": 1500,
+   "Hamilton": 912,
+   "Oneida": 695,
+   "Otsego": 152
+  },
+  "119": {
+   "Oneida": 3047
+  },
+  "120": {
+   "Oswego": 4227,
+   "Jefferson": 686,
+   "Cayuga": 427
+  },
+  "121": {
+   "Chenango": 2156,
+   "Broome": 1622,
+   "Madison": 855,
+   "Otsego": 780,
+   "Delaware": 688
+  },
+  "122": {
+   "Oneida": 1961,
+   "Madison": 1350,
+   "Otsego": 1228,
+   "Herkimer": 176
+  },
+  "123": {
+   "Broome": 2146
+  },
+  "124": {
+   "Chemung": 2254,
+   "Tioga": 1854,
+   "Broome": 481
+  },
+  "125": {
+   "Tompkins": 2417,
+   "Cortland": 813
+  },
+  "126": {
+   "Onondaga": 2150,
+   "Cayuga": 1312
+  },
+  "127": {
+   "Onondaga": 1765,
+   "Madison": 219
+  },
+  "128": {
+   "Onondaga": 2354
+  },
+  "129": {
+   "Onondaga": 2018
+  },
+  "130": {
+   "Wayne": 2884,
+   "Monroe": 476
+  },
+  "131": {
+   "Ontario": 1743,
+   "Cayuga": 1334,
+   "Cortland": 962,
+   "Seneca": 918,
+   "Chenango": 649,
+   "Madison": 322,
+   "Broome": 155
+  },
+  "132": {
+   "Steuben": 3518,
+   "Yates": 1446,
+   "Schuyler": 1328,
+   "Seneca": 848,
+   "Chemung": 454
+  },
+  "133": {
+   "Livingston": 2683,
+   "Ontario": 1251,
+   "Steuben": 1039,
+   "Wyoming": 443,
+   "Monroe": 144
+  },
+  "134": {
+   "Monroe": 1603
+  },
+  "135": {
+   "Monroe": 1665
+  },
+  "136": {
+   "Monroe": 1857
+  },
+  "137": {
+   "Monroe": 1881
+  },
+  "138": {
+   "Monroe": 1785
+  },
+  "139": {
+   "Genesee": 1733,
+   "Orleans": 1244,
+   "Monroe": 652,
+   "Erie": 7,
+   "Niagara": 1
+  },
+  "140": {
+   "Erie": 1334,
+   "Niagara": 367
+  },
+  "141": {
+   "Erie": 1559
+  },
+  "142": {
+   "Erie": 1582
+  },
+  "143": {
+   "Erie": 1665
+  },
+  "144": {
+   "Niagara": 1557,
+   "Erie": 982
+  },
+  "145": {
+   "Niagara": 2244,
+   "Erie": 297
+  },
+  "146": {
+   "Erie": 1355
+  },
+  "147": {
+   "Erie": 3112,
+   "Wyoming": 1248
+  },
+  "148": {
+   "Cattaraugus": 3704,
+   "Allegany": 2656,
+   "Steuben": 561,
+   "Erie": 2
+  },
+  "149": {
+   "Erie": 1756
+  },
+  "150": {
+   "Chautauqua": 5158,
+   "Erie": 85
+  }
+ },
+ "state_senate": {
+  "1": {
+   "Suffolk": 6769
+  },
+  "2": {
+   "Suffolk": 4408
+  },
+  "3": {
+   "Suffolk": 5144
+  },
+  "4": {
+   "Suffolk": 4813
+  },
+  "5": {
+   "Nassau": 4637
+  },
+  "6": {
+   "Nassau": 4065
+  },
+  "7": {
+   "Nassau": 4925
+  },
+  "8": {
+   "Suffolk": 3623,
+   "Nassau": 1725
+  },
+  "9": {
+   "Nassau": 4486
+  },
+  "10": {
+   "Queens": 2429
+  },
+  "11": {
+   "Queens": 2542,
+   "Bronx": 5
+  },
+  "12": {
+   "Queens": 1624,
+   "Kings": 1
+  },
+  "13": {
+   "Queens": 817
+  },
+  "14": {
+   "Queens": 2264
+  },
+  "15": {
+   "Queens": 1603,
+   "Kings": 2
+  },
+  "16": {
+   "Queens": 2040
+  },
+  "17": {
+   "Kings": 869
+  },
+  "18": {
+   "Kings": 1129,
+   "Queens": 79
+  },
+  "19": {
+   "Kings": 1367,
+   "Queens": 126
+  },
+  "20": {
+   "Kings": 812
+  },
+  "21": {
+   "Kings": 1200
+  },
+  "22": {
+   "Kings": 1206
+  },
+  "23": {
+   "Richmond": 1289,
+   "Kings": 651
+  },
+  "24": {
+   "Richmond": 3383
+  },
+  "25": {
+   "Kings": 894
+  },
+  "26": {
+   "Kings": 1413,
+   "New York": 58
+  },
+  "27": {
+   "New York": 1082
+  },
+  "28": {
+   "New York": 744
+  },
+  "29": {
+   "Bronx": 777,
+   "New York": 222
+  },
+  "30": {
+   "New York": 660
+  },
+  "31": {
+   "New York": 435,
+   "Bronx": 268
+  },
+  "32": {
+   "Bronx": 928
+  },
+  "33": {
+   "Bronx": 993
+  },
+  "34": {
+   "Bronx": 1365,
+   "Westchester": 556
+  },
+  "35": {
+   "Westchester": 3519
+  },
+  "36": {
+   "Bronx": 984,
+   "Westchester": 583
+  },
+  "37": {
+   "Westchester": 4286
+  },
+  "38": {
+   "Rockland": 3511
+  },
+  "39": {
+   "Dutchess": 2976,
+   "Orange": 1223,
+   "Putnam": 474
+  },
+  "40": {
+   "Westchester": 3114,
+   "Putnam": 1286,
+   "Rockland": 207
+  },
+  "41": {
+   "Ulster": 2912,
+   "Columbia": 2684,
+   "Dutchess": 2067,
+   "Greene": 2038
+  },
+  "42": {
+   "Orange": 6142
+  },
+  "43": {
+   "Rensselaer": 3829,
+   "Albany": 1734,
+   "Washington": 1672
+  },
+  "44": {
+   "Saratoga": 5096,
+   "Schenectady": 1238
+  },
+  "45": {
+   "St. Lawrence": 3204,
+   "Clinton": 2645,
+   "Warren": 2265,
+   "Franklin": 2242,
+   "Essex": 2118,
+   "Washington": 776
+  },
+  "46": {
+   "Albany": 3629,
+   "Montgomery": 2562,
+   "Schenectady": 1656
+  },
+  "47": {
+   "New York": 630
+  },
+  "48": {
+   "Onondaga": 4492,
+   "Cayuga": 3073
+  },
+  "49": {
+   "Jefferson": 5375,
+   "Herkimer": 2885,
+   "Lewis": 2467,
+   "St. Lawrence": 2203,
+   "Fulton": 1853,
+   "Oswego": 1632,
+   "Hamilton": 912
+  },
+  "50": {
+   "Onondaga": 3795,
+   "Oswego": 2595
+  },
+  "51": {
+   "Delaware": 3732,
+   "Sullivan": 3695,
+   "Otsego": 3426,
+   "Schoharie": 1983,
+   "Ulster": 1415,
+   "Chenango": 1406,
+   "Broome": 1268
+  },
+  "52": {
+   "Broome": 3136,
+   "Tompkins": 2417,
+   "Cortland": 1775
+  },
+  "53": {
+   "Oneida": 7106,
+   "Madison": 2746,
+   "Chenango": 1399,
+   "Herkimer": 275
+  },
+  "54": {
+   "Ontario": 2994,
+   "Wayne": 2884,
+   "Livingston": 2683,
+   "Monroe": 1147
+  },
+  "55": {
+   "Monroe": 3897
+  },
+  "56": {
+   "Monroe": 4072
+  },
+  "57": {
+   "Chautauqua": 5158,
+   "Cattaraugus": 3704,
+   "Genesee": 1733,
+   "Wyoming": 1691,
+   "Allegany": 1468
+  },
+  "58": {
+   "Steuben": 5118,
+   "Chemung": 2708,
+   "Tioga": 1854,
+   "Seneca": 1766,
+   "Yates": 1446,
+   "Schuyler": 1328,
+   "Allegany": 1188
+  },
+  "59": {
+   "Queens": 570,
+   "Kings": 311,
+   "New York": 212
+  },
+  "60": {
+   "Erie": 6370
+  },
+  "61": {
+   "Erie": 3446
+  },
+  "62": {
+   "Niagara": 4169,
+   "Orleans": 1244,
+   "Monroe": 947
+  },
+  "63": {
+   "Erie": 3920
+  }
+ },
+ "federal_house": {
+  "1": {
+   "Suffolk": 13001
+  },
+  "2": {
+   "Suffolk": 11129,
+   "Nassau": 1439
+  },
+  "3": {
+   "Nassau": 8095,
+   "Queens": 1890,
+   "Suffolk": 627
+  },
+  "4": {
+   "Nassau": 10304
+  },
+  "5": {
+   "Queens": 5526
+  },
+  "6": {
+   "Queens": 3771
+  },
+  "7": {
+   "Kings": 1873,
+   "Queens": 1567
+  },
+  "8": {
+   "Kings": 3136
+  },
+  "9": {
+   "Kings": 2335
+  },
+  "10": {
+   "Kings": 1520,
+   "New York": 1218
+  },
+  "11": {
+   "Richmond": 4672,
+   "Kings": 991
+  },
+  "12": {
+   "New York": 1603
+  },
+  "13": {
+   "New York": 1222,
+   "Bronx": 419
+  },
+  "14": {
+   "Bronx": 2107,
+   "Queens": 1340
+  },
+  "15": {
+   "Bronx": 2570
+  },
+  "16": {
+   "Westchester": 7650,
+   "Bronx": 224
+  },
+  "17": {
+   "Westchester": 4408,
+   "Rockland": 3718,
+   "Putnam": 1760,
+   "Dutchess": 624
+  },
+  "18": {
+   "Orange": 7365,
+   "Dutchess": 4419,
+   "Ulster": 2457
+  },
+  "19": {
+   "Broome": 4404,
+   "Delaware": 3732,
+   "Sullivan": 3695,
+   "Otsego": 3426,
+   "Chenango": 2805,
+   "Columbia": 2684,
+   "Tompkins": 2417,
+   "Greene": 2038,
+   "Ulster": 1870,
+   "Rensselaer": 1776,
+   "Cortland": 742
+  },
+  "20": {
+   "Albany": 5363,
+   "Saratoga": 3397,
+   "Schenectady": 2894,
+   "Rensselaer": 2053,
+   "Montgomery": 996
+  },
+  "21": {
+   "St. Lawrence": 5407,
+   "Oneida": 3832,
+   "Herkimer": 3160,
+   "Clinton": 2645,
+   "Lewis": 2467,
+   "Washington": 2448,
+   "Warren": 2265,
+   "Franklin": 2242,
+   "Essex": 2118,
+   "Schoharie": 1983,
+   "Fulton": 1853,
+   "Saratoga": 1699,
+   "Montgomery": 1566,
+   "Jefferson": 1312,
+   "Hamilton": 912
+  },
+  "22": {
+   "Onondaga": 8287,
+   "Oneida": 3274,
+   "Madison": 2746,
+   "Cayuga": 1747,
+   "Cortland": 1033
+  },
+  "23": {
+   "Erie": 5858,
+   "Chautauqua": 5158,
+   "Steuben": 3945,
+   "Cattaraugus": 3704,
+   "Chemung": 2708,
+   "Allegany": 2656,
+   "Tioga": 1854,
+   "Schuyler": 675,
+   "Niagara": 301
+  },
+  "24": {
+   "Oswego": 4227,
+   "Jefferson": 4063,
+   "Wayne": 2884,
+   "Ontario": 2705,
+   "Livingston": 2683,
+   "Niagara": 1879,
+   "Seneca": 1766,
+   "Genesee": 1733,
+   "Wyoming": 1691,
+   "Yates": 1446,
+   "Cayuga": 1326,
+   "Orleans": 1244,
+   "Steuben": 1173,
+   "Schuyler": 653
+  },
+  "25": {
+   "Monroe": 10063,
+   "Ontario": 289
+  },
+  "26": {
+   "Erie": 7878,
+   "Niagara": 1989
+  }
+ }
+}

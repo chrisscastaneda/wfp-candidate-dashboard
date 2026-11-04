@@ -244,3 +244,44 @@ def test_chautauqua_xml():
     assert [ch.name for ch in assembly.choices] == ["Thomas A. Carle"]  # empty write-in dropped
     assert (clerk.title, clerk.office_type, clerk.scope) == ("Town Clerk, Town of Kiantone", "local", "complete")
     assert clerk.choices[0].party == "REP" and clerk.reporting.text == "Countywide, 91 of 91 poll sites reported"
+
+
+def test_nyc_keeps_the_bolded_leading_row():
+    row = ('<tr><td{b}>{n}</td><td>&nbsp;</td><td{b}>{name}&nbsp;</td><td{b}>Democratic&nbsp;</td>'
+           '<td align="right"{b}>&nbsp;{votes}</td><td align="right"{b}>&nbsp;50%</td>')
+    page = ('<th>Member of the Assembly 50th Assembly District<div style="x">(Vote for one)</div></th>'
+            + row.format(b=' style="font-weight: bold"', n=1, name="Emily Gallagher", votes=22686)
+            + row.format(b=" ", n=2, name="WRITE-IN", votes=619))
+    contest, = ny.parse(page)
+    assert [(ch.name, ch.votes) for ch in contest.choices] == [("Emily Gallagher", 22686), ("WRITE-IN", 619)]
+
+
+def test_county_shares_summed_into_districts():
+    from elex import combine
+    from elex.source import Source
+
+    def county(id_, name):
+        s = Source()
+        s.id, s.state, s.level, s.county = id_, "NY", "county", name
+        return s
+
+    def share(source, district, *choices):
+        return Contest(source=source, contest_id=district, state="NY", title=f"State Senator {district}th District",
+                       office_type="state_senate", district=district, scope="partial",
+                       choices=[Choice(n, v) for n, v in choices])
+    sources = [county("ny.a", "Alpha"), county("ny.b", "Beta")]
+    latest = {
+        "ny.a": {"status": "ok", "contests": [share("ny.a", "40", ("Pete Harckham", 100), ("Rival", 80)),
+                                              share("ny.a", "41", ("X", 1))]},
+        "ny.b": {"status": "ok", "contests": [share("ny.b", "40", ("Peter Harckham", 20), ("Rival", 30))]}}
+    mapping = {"state_senate": {"40": {"Alpha": 10, "Beta": 5}, "41": {"Alpha": 10, "Beta": 1},
+                                "42": {"Alpha": 3, "Gamma": 9}}}
+    contests, skipped = combine.build(latest, sources, mapping)
+    by_district = {c.district: c for c in contests}
+    sd40 = by_district["40"]
+    assert [(ch.name, ch.votes) for ch in sd40.choices] == [("Peter Harckham", 120), ("Rival", 110)]
+    assert sd40.reporting.text == "Summed from Alpha and Beta county results"
+    assert [(ch.name, ch.votes) for ch in by_district["41"].choices] == [("X", 1)]  # Beta lists no SD-41 voters
+    assert "42" not in by_district and any("Gamma" in line for line in skipped)  # Gamma has no source
+    latest["ny.b"]["status"] = "not_published"
+    assert {c.district for c in combine.build(latest, sources, mapping)[0]} == set()

@@ -53,7 +53,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -106,7 +107,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -159,7 +161,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -182,15 +185,26 @@
    "feed_updated_at": "2026-11-04T00:41:08-05:00",
    "choices": [
     {
+     "name": "Rita Mella",
+     "votes": 386267,
+     "party": "DEM",
+     "pct": 98.59,
+     "choice_id": "Rita Mella",
+     "party_lines": {
+      "DEM": 386267
+     }
+    },
+    {
      "name": "WRITE-IN",
      "votes": 5518,
      "party": null,
-     "pct": 100.0,
+     "pct": 1.41,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -213,15 +227,26 @@
    "feed_updated_at": "2026-11-04T00:41:23-05:00",
    "choices": [
     {
+     "name": "Nelida Malave Gonzalez",
+     "votes": 199240,
+     "party": "DEM",
+     "pct": 99.14,
+     "choice_id": "Nelida Malave Gonzalez",
+     "party_lines": {
+      "DEM": 199240
+     }
+    },
+    {
      "name": "WRITE-IN",
      "votes": 1725,
      "party": null,
-     "pct": 100.0,
+     "pct": 0.86,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -244,10 +269,70 @@
    "feed_updated_at": "2026-11-04T00:41:08-05:00",
    "choices": [
     {
+     "name": "Shlomo S. Hagler",
+     "votes": 294896,
+     "party": "DEM",
+     "pct": 13.36,
+     "choice_id": "Shlomo S. Hagler",
+     "party_lines": {
+      "DEM": 294896
+     }
+    },
+    {
+     "name": "Manuel J. Mendez",
+     "votes": 302782,
+     "party": "DEM",
+     "pct": 13.72,
+     "choice_id": "Manuel J. Mendez",
+     "party_lines": {
+      "DEM": 302782
+     }
+    },
+    {
+     "name": "Saliann Scarpulla",
+     "votes": 284904,
+     "party": "DEM",
+     "pct": 12.91,
+     "choice_id": "Saliann Scarpulla",
+     "party_lines": {
+      "DEM": 284904
+     }
+    },
+    {
+     "name": "Hasa A. Kingo",
+     "votes": 279275,
+     "party": "DEM",
+     "pct": 12.66,
+     "choice_id": "Hasa A. Kingo",
+     "party_lines": {
+      "DEM": 279275
+     }
+    },
+    {
+     "name": "Kathleen Waterman-Marshall",
+     "votes": 305722,
+     "party": "DEM",
+     "pct": 13.86,
+     "choice_id": "Kathleen Waterman-Marshall",
+     "party_lines": {
+      "DEM": 305722
+     }
+    },
+    {
+     "name": "Christopher Chin",
+     "votes": 307260,
+     "party": "DEM",
+     "pct": 13.93,
+     "choice_id": "Christopher Chin",
+     "party_lines": {
+      "DEM": 307260
+     }
+    },
+    {
      "name": "Amy S. Taylor",
      "votes": 92617,
      "party": "WFP",
-     "pct": 21.46,
+     "pct": 4.2,
      "choice_id": "Amy S. Taylor",
      "party_lines": {
       "WFP": 92617
@@ -257,7 +342,7 @@
      "name": "Joshua E. Goldfein",
      "votes": 79310,
      "party": "WFP",
-     "pct": 18.37,
+     "pct": 3.59,
      "choice_id": "Joshua E. Goldfein",
      "party_lines": {
       "WFP": 79310
@@ -267,7 +352,7 @@
      "name": "Sienna M. Fontaine",
      "votes": 84824,
      "party": "WFP",
-     "pct": 19.65,
+     "pct": 3.84,
      "choice_id": "Sienna M. Fontaine",
      "party_lines": {
       "WFP": 84824
@@ -277,7 +362,7 @@
      "name": "Bob Cohen",
      "votes": 81944,
      "party": "WFP",
-     "pct": 18.98,
+     "pct": 3.71,
      "choice_id": "Bob Cohen",
      "party_lines": {
       "WFP": 81944
@@ -287,7 +372,7 @@
      "name": "Jeffrey W. Rizzo",
      "votes": 75176,
      "party": "WFP",
-     "pct": 17.42,
+     "pct": 3.41,
      "choice_id": "Jeffrey W. Rizzo",
      "party_lines": {
       "WFP": 75176
@@ -297,12 +382,13 @@
      "name": "WRITE-IN",
      "votes": 17784,
      "party": null,
-     "pct": 4.12,
+     "pct": 0.81,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -390,7 +476,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -413,10 +500,40 @@
    "feed_updated_at": "2026-11-04T00:41:53-05:00",
    "choices": [
     {
+     "name": "Edwin I. Novillo",
+     "votes": 326880,
+     "party": "DEM",
+     "pct": 27.3,
+     "choice_id": "Edwin I. Novillo",
+     "party_lines": {
+      "DEM": 326880
+     }
+    },
+    {
+     "name": "Oma D. Phillips",
+     "votes": 298525,
+     "party": "DEM",
+     "pct": 24.93,
+     "choice_id": "Oma D. Phillips",
+     "party_lines": {
+      "DEM": 298525
+     }
+    },
+    {
+     "name": "Gail A. Adams",
+     "votes": 318697,
+     "party": "DEM",
+     "pct": 26.62,
+     "choice_id": "Gail A. Adams",
+     "party_lines": {
+      "DEM": 318697
+     }
+    },
+    {
      "name": "Gary Muraca",
      "votes": 125811,
      "party": "REP",
-     "pct": 49.69,
+     "pct": 10.51,
      "choice_id": "Gary Muraca",
      "party_lines": {
       "REP": 125811
@@ -426,7 +543,7 @@
      "name": "David A. Bellon",
      "votes": 122869,
      "party": "REP",
-     "pct": 48.53,
+     "pct": 10.26,
      "choice_id": "David A. Bellon",
      "party_lines": {
       "REP": 122869
@@ -436,12 +553,13 @@
      "name": "WRITE-IN",
      "votes": 4525,
      "party": null,
-     "pct": 1.79,
+     "pct": 0.38,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -464,15 +582,26 @@
    "feed_updated_at": "2026-11-04T00:41:23-05:00",
    "choices": [
     {
+     "name": "Alvin M. Yearwood",
+     "votes": 199588,
+     "party": "DEM",
+     "pct": 99.14,
+     "choice_id": "Alvin M. Yearwood",
+     "party_lines": {
+      "DEM": 199588
+     }
+    },
+    {
      "name": "WRITE-IN",
      "votes": 1741,
      "party": null,
-     "pct": 100.0,
+     "pct": 0.86,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -498,22 +627,33 @@
      "name": "Kelvin Richards",
      "votes": 53318,
      "party": "DEM",
-     "pct": 99.79,
+     "pct": 40.28,
      "choice_id": "Kelvin Richards",
      "party_lines": {
       "DEM": 53318
      }
     },
     {
+     "name": "Michael J. Pinto",
+     "votes": 78940,
+     "party": "REP",
+     "pct": 59.64,
+     "choice_id": "Michael J. Pinto",
+     "party_lines": {
+      "REP": 78940
+     }
+    },
+    {
      "name": "WRITE-IN",
      "votes": 111,
      "party": null,
-     "pct": 0.21,
+     "pct": 0.08,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -536,15 +676,46 @@
    "feed_updated_at": "2026-11-04T00:41:08-05:00",
    "choices": [
     {
+     "name": "Josh E. Hanshaft",
+     "votes": 338217,
+     "party": "DEM",
+     "pct": 32.61,
+     "choice_id": "Josh E. Hanshaft",
+     "party_lines": {
+      "DEM": 338217
+     }
+    },
+    {
+     "name": "Emily Morales-Minerva",
+     "votes": 367345,
+     "party": "DEM",
+     "pct": 35.42,
+     "choice_id": "Emily Morales-Minerva",
+     "party_lines": {
+      "DEM": 367345
+     }
+    },
+    {
+     "name": "Vlad Frants",
+     "votes": 319780,
+     "party": "DEM",
+     "pct": 30.83,
+     "choice_id": "Vlad Frants",
+     "party_lines": {
+      "DEM": 319780
+     }
+    },
+    {
      "name": "WRITE-IN",
      "votes": 11788,
      "party": null,
-     "pct": 100.0,
+     "pct": 1.14,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -567,15 +738,56 @@
    "feed_updated_at": "2026-11-04T00:41:36-05:00",
    "choices": [
     {
+     "name": "Danielle A. Noel",
+     "votes": 452857,
+     "party": "DEM",
+     "pct": 26.08,
+     "choice_id": "Danielle A. Noel",
+     "party_lines": {
+      "DEM": 452857
+     }
+    },
+    {
+     "name": "Linda Lo Cascio",
+     "votes": 424819,
+     "party": "DEM",
+     "pct": 24.46,
+     "choice_id": "Linda Lo Cascio",
+     "party_lines": {
+      "DEM": 424819
+     }
+    },
+    {
+     "name": "Celeste Felix",
+     "votes": 422171,
+     "party": "DEM",
+     "pct": 24.31,
+     "choice_id": "Celeste Felix",
+     "party_lines": {
+      "DEM": 422171
+     }
+    },
+    {
+     "name": "Christine G. Ortiz",
+     "votes": 420365,
+     "party": "DEM",
+     "pct": 24.21,
+     "choice_id": "Christine G. Ortiz",
+     "party_lines": {
+      "DEM": 420365
+     }
+    },
+    {
      "name": "WRITE-IN",
      "votes": 16257,
      "party": null,
-     "pct": 100.0,
+     "pct": 0.94,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -659,7 +871,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -685,22 +898,33 @@
      "name": "Tashanna Golden",
      "votes": 53927,
      "party": "DEM",
-     "pct": 99.74,
+     "pct": 40.8,
      "choice_id": "Tashanna Golden",
      "party_lines": {
       "DEM": 53927
      }
     },
     {
+     "name": "Glenn A. Yost",
+     "votes": 78100,
+     "party": "REP",
+     "pct": 59.09,
+     "choice_id": "Glenn A. Yost",
+     "party_lines": {
+      "REP": 78100
+     }
+    },
+    {
      "name": "WRITE-IN",
      "votes": 143,
      "party": null,
-     "pct": 0.26,
+     "pct": 0.11,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -752,7 +976,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -804,7 +1029,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -856,7 +1082,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -919,7 +1146,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -971,7 +1199,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -1023,7 +1252,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -1076,7 +1306,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -1128,7 +1359,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -1200,7 +1432,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -1252,7 +1485,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -1305,7 +1539,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -1328,10 +1563,20 @@
    "feed_updated_at": "2026-11-04T00:41:23-05:00",
    "choices": [
     {
+     "name": "Ritchie Torres",
+     "votes": 93812,
+     "party": "DEM",
+     "pct": 76.79,
+     "choice_id": "Ritchie Torres",
+     "party_lines": {
+      "DEM": 93812
+     }
+    },
+    {
      "name": "Stylo Sapaskis",
      "votes": 13004,
      "party": "REP",
-     "pct": 45.86,
+     "pct": 10.64,
      "choice_id": "Stylo Sapaskis",
      "party_lines": {
       "REP": 13004
@@ -1341,7 +1586,7 @@
      "name": "Gonzalo Duran",
      "votes": 2075,
      "party": "CONSERVATIVE",
-     "pct": 7.32,
+     "pct": 1.7,
      "choice_id": "Gonzalo Duran",
      "party_lines": {
       "CONSERVATIVE": 2075
@@ -1351,7 +1596,7 @@
      "name": "Andre Easton",
      "votes": 10647,
      "party": "SOCIALISM PS",
-     "pct": 37.55,
+     "pct": 8.71,
      "choice_id": "Andre Easton",
      "party_lines": {
       "SOCIALISM PS": 10647
@@ -1361,7 +1606,7 @@
      "name": "Jose Vega",
      "votes": 2348,
      "party": "SPEAK THE TR",
-     "pct": 8.28,
+     "pct": 1.92,
      "choice_id": "Jose Vega",
      "party_lines": {
       "SPEAK THE TR": 2348
@@ -1371,12 +1616,13 @@
      "name": "WRITE-IN",
      "votes": 283,
      "party": null,
-     "pct": 1.0,
+     "pct": 0.23,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -1427,7 +1673,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -1469,7 +1716,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -1521,7 +1769,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -1544,10 +1793,20 @@
    "feed_updated_at": "2026-11-04T00:41:53-05:00",
    "choices": [
     {
+     "name": "Aber Kawas",
+     "votes": 47294,
+     "party": "DEM",
+     "pct": 74.33,
+     "choice_id": "Aber Kawas",
+     "party_lines": {
+      "DEM": 47294
+     }
+    },
+    {
      "name": "Han-Khon To",
      "votes": 16165,
      "party": "REP",
-     "pct": 98.95,
+     "pct": 25.4,
      "choice_id": "Han-Khon To",
      "party_lines": {
       "REP": 16165
@@ -1557,12 +1816,13 @@
      "name": "WRITE-IN",
      "votes": 171,
      "party": null,
-     "pct": 1.05,
+     "pct": 0.27,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -1614,7 +1874,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -1637,15 +1898,26 @@
    "feed_updated_at": "2026-11-04T00:41:53-05:00",
    "choices": [
     {
+     "name": "Leroy G. Comrie Jr.",
+     "votes": 69135,
+     "party": "DEM",
+     "pct": 99.12,
+     "choice_id": "Leroy G. Comrie Jr.",
+     "party_lines": {
+      "DEM": 69135
+     }
+    },
+    {
      "name": "WRITE-IN",
      "votes": 615,
      "party": null,
-     "pct": 100.0,
+     "pct": 0.88,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -1668,10 +1940,20 @@
    "feed_updated_at": "2026-11-04T00:41:53-05:00",
    "choices": [
     {
+     "name": "Joseph P. Addabbo Jr.",
+     "votes": 41721,
+     "party": "DEM",
+     "pct": 81.15,
+     "choice_id": "Joseph P. Addabbo Jr.",
+     "party_lines": {
+      "DEM": 41721
+     }
+    },
+    {
      "name": "Danniel S. Maio",
      "votes": 9531,
      "party": "CONSERVATIVE",
-     "pct": 98.37,
+     "pct": 18.54,
      "choice_id": "Danniel S. Maio",
      "party_lines": {
       "CONSERVATIVE": 9531
@@ -1681,12 +1963,13 @@
      "name": "WRITE-IN",
      "votes": 158,
      "party": null,
-     "pct": 1.63,
+     "pct": 0.31,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -1728,7 +2011,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -1781,7 +2065,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -1823,7 +2108,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -1846,15 +2132,26 @@
    "feed_updated_at": "2026-11-04T00:41:53-05:00",
    "choices": [
     {
+     "name": "Roxanne J. Persaud",
+     "votes": 55828,
+     "party": "DEM",
+     "pct": 99.62,
+     "choice_id": "Roxanne J. Persaud",
+     "party_lines": {
+      "DEM": 55828
+     }
+    },
+    {
      "name": "WRITE-IN",
      "votes": 214,
      "party": null,
-     "pct": 100.0,
+     "pct": 0.38,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -1896,7 +2193,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -1948,7 +2246,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -2000,7 +2299,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -2053,7 +2353,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -2105,7 +2406,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -2147,7 +2449,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -2200,7 +2503,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -2253,7 +2557,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -2305,7 +2610,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -2347,7 +2653,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -2389,7 +2696,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -2431,7 +2739,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -2454,15 +2763,26 @@
    "feed_updated_at": "2026-11-04T00:41:23-05:00",
    "choices": [
     {
+     "name": "Luis R. Sepulveda",
+     "votes": 35478,
+     "party": "DEM",
+     "pct": 99.41,
+     "choice_id": "Luis R. Sepulveda",
+     "party_lines": {
+      "DEM": 35478
+     }
+    },
+    {
      "name": "WRITE-IN",
      "votes": 210,
      "party": null,
-     "pct": 100.0,
+     "pct": 0.59,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -2504,7 +2824,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -2556,7 +2877,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -2607,7 +2929,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -2659,7 +2982,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -2701,7 +3025,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -2724,10 +3049,20 @@
    "feed_updated_at": "2026-11-04T00:41:08-05:00",
    "choices": [
     {
+     "name": "Carl Wilson",
+     "votes": 42800,
+     "party": "DEM",
+     "pct": 94.82,
+     "choice_id": "Carl Wilson",
+     "party_lines": {
+      "DEM": 42800
+     }
+    },
+    {
      "name": "Haris Bhatti",
      "votes": 1918,
      "party": "HARIS BHATTI",
-     "pct": 82.07,
+     "pct": 4.25,
      "choice_id": "Haris Bhatti",
      "party_lines": {
       "HARIS BHATTI": 1918
@@ -2737,12 +3072,13 @@
      "name": "WRITE-IN",
      "votes": 419,
      "party": null,
-     "pct": 17.93,
+     "pct": 0.93,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -2796,7 +3132,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -2848,7 +3185,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -2871,15 +3209,26 @@
    "feed_updated_at": "2026-11-04T00:41:53-05:00",
    "choices": [
     {
+     "name": "Nily D. Rozic",
+     "votes": 15220,
+     "party": "DEM",
+     "pct": 97.77,
+     "choice_id": "Nily D. Rozic",
+     "party_lines": {
+      "DEM": 15220
+     }
+    },
+    {
      "name": "WRITE-IN",
      "votes": 347,
      "party": null,
-     "pct": 100.0,
+     "pct": 2.23,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -2902,10 +3251,20 @@
    "feed_updated_at": "2026-11-04T00:41:53-05:00",
    "choices": [
     {
+     "name": "Edward C. Braunstein",
+     "votes": 21391,
+     "party": "DEM",
+     "pct": 61.35,
+     "choice_id": "Edward C. Braunstein",
+     "party_lines": {
+      "DEM": 21391
+     }
+    },
+    {
      "name": "Robert J. Speranza",
      "votes": 13425,
      "party": "REP",
-     "pct": 99.64,
+     "pct": 38.51,
      "choice_id": "Robert J. Speranza",
      "party_lines": {
       "REP": 13425
@@ -2915,12 +3274,13 @@
      "name": "WRITE-IN",
      "votes": 49,
      "party": null,
-     "pct": 0.36,
+     "pct": 0.14,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -2962,7 +3322,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -2985,10 +3346,20 @@
    "feed_updated_at": "2026-11-04T00:41:53-05:00",
    "choices": [
     {
+     "name": "Andrew D. Hevesi",
+     "votes": 26106,
+     "party": "DEM",
+     "pct": 89.41,
+     "choice_id": "Andrew D. Hevesi",
+     "party_lines": {
+      "DEM": 26106
+     }
+    },
+    {
      "name": "Jonathan Rinaldi",
      "votes": 1680,
      "party": "NO KINGS",
-     "pct": 54.32,
+     "pct": 5.75,
      "choice_id": "Jonathan Rinaldi",
      "party_lines": {
       "NO KINGS": 1680
@@ -2998,7 +3369,7 @@
      "name": "David J. Kemp",
      "votes": 986,
      "party": "4 OUR IMMIGR",
-     "pct": 31.88,
+     "pct": 3.38,
      "choice_id": "David J. Kemp",
      "party_lines": {
       "4 OUR IMMIGR": 986
@@ -3008,12 +3379,13 @@
      "name": "WRITE-IN",
      "votes": 427,
      "party": null,
-     "pct": 13.81,
+     "pct": 1.46,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -3055,7 +3427,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -3109,7 +3482,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -3151,7 +3525,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -3174,10 +3549,20 @@
    "feed_updated_at": "2026-11-04T00:41:53-05:00",
    "choices": [
     {
+     "name": "Nathaniel Hezekiah III",
+     "votes": 23986,
+     "party": "DEM",
+     "pct": 97.98,
+     "choice_id": "Nathaniel Hezekiah III",
+     "party_lines": {
+      "DEM": 23986
+     }
+    },
+    {
      "name": "Paul Nichols",
      "votes": 426,
      "party": "THE ANSWER",
-     "pct": 86.23,
+     "pct": 1.74,
      "choice_id": "Paul Nichols",
      "party_lines": {
       "THE ANSWER": 426
@@ -3187,12 +3572,13 @@
      "name": "WRITE-IN",
      "votes": 68,
      "party": null,
-     "pct": 13.77,
+     "pct": 0.28,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -3215,10 +3601,20 @@
    "feed_updated_at": "2026-11-04T00:41:53-05:00",
    "choices": [
     {
+     "name": "Clyde Vanel",
+     "votes": 28799,
+     "party": "DEM",
+     "pct": 91.61,
+     "choice_id": "Clyde Vanel",
+     "party_lines": {
+      "DEM": 28799
+     }
+    },
+    {
      "name": "Oster Bryan",
      "votes": 2526,
      "party": "WFP",
-     "pct": 95.79,
+     "pct": 8.04,
      "choice_id": "Oster Bryan",
      "party_lines": {
       "WFP": 2526
@@ -3228,12 +3624,13 @@
      "name": "WRITE-IN",
      "votes": 111,
      "party": null,
-     "pct": 4.21,
+     "pct": 0.35,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -3275,7 +3672,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -3317,7 +3715,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -3369,7 +3768,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -3411,7 +3811,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -3464,7 +3865,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -3517,7 +3919,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -3559,7 +3962,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -3602,7 +4006,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -3625,10 +4030,20 @@
    "feed_updated_at": "2026-11-04T00:41:36-05:00",
    "choices": [
     {
+     "name": "Rodneyse Bichotte",
+     "votes": 28339,
+     "party": "DEM",
+     "pct": 88.93,
+     "choice_id": "Rodneyse Bichotte",
+     "party_lines": {
+      "DEM": 28339
+     }
+    },
+    {
      "name": "Herman G. Hall",
      "votes": 3154,
      "party": "REP",
-     "pct": 89.37,
+     "pct": 9.9,
      "choice_id": "Herman G. Hall",
      "party_lines": {
       "REP": 3154
@@ -3638,12 +4053,13 @@
      "name": "WRITE-IN",
      "votes": 375,
      "party": null,
-     "pct": 10.63,
+     "pct": 1.18,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -3695,7 +4111,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -3748,7 +4165,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -3801,7 +4219,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -3855,7 +4274,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -3908,7 +4328,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -3950,7 +4371,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -4002,7 +4424,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -4025,15 +4448,26 @@
    "feed_updated_at": "2026-11-04T00:41:36-05:00",
    "choices": [
     {
+     "name": "Emily Gallagher",
+     "votes": 22686,
+     "party": "DEM",
+     "pct": 97.34,
+     "choice_id": "Emily Gallagher",
+     "party_lines": {
+      "DEM": 22686
+     }
+    },
+    {
      "name": "WRITE-IN",
      "votes": 619,
      "party": null,
-     "pct": 100.0,
+     "pct": 2.66,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -4086,7 +4520,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -4139,7 +4574,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -4162,15 +4598,26 @@
    "feed_updated_at": "2026-11-04T00:41:36-05:00",
    "choices": [
     {
+     "name": "Maritza Davila",
+     "votes": 26099,
+     "party": "DEM",
+     "pct": 99.16,
+     "choice_id": "Maritza Davila",
+     "party_lines": {
+      "DEM": 26099
+     }
+    },
+    {
      "name": "WRITE-IN",
      "votes": 220,
      "party": null,
-     "pct": 100.0,
+     "pct": 0.84,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -4212,7 +4659,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -4254,7 +4702,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -4296,7 +4745,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -4348,7 +4798,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -4390,7 +4841,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -4442,7 +4894,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -4494,7 +4947,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -4517,10 +4971,20 @@
    "feed_updated_at": "2026-11-04T00:42:08-05:00",
    "choices": [
     {
+     "name": "Charles D. Fall",
+     "votes": 22582,
+     "party": "DEM",
+     "pct": 72.08,
+     "choice_id": "Charles D. Fall",
+     "party_lines": {
+      "DEM": 22582
+     }
+    },
+    {
      "name": "Casey Marie O'Connor-Manasia",
      "votes": 8677,
      "party": "REP",
-     "pct": 99.2,
+     "pct": 27.7,
      "choice_id": "Casey Marie O'Connor-Manasia",
      "party_lines": {
       "REP": 8677
@@ -4530,12 +4994,13 @@
      "name": "WRITE-IN",
      "votes": 70,
      "party": null,
-     "pct": 0.8,
+     "pct": 0.22,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -4577,7 +5042,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -4629,7 +5095,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -4681,7 +5148,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -4704,10 +5172,20 @@
    "feed_updated_at": "2026-11-04T00:41:08-05:00",
    "choices": [
     {
+     "name": "Illapa Sairitupac",
+     "votes": 22293,
+     "party": "DEM",
+     "pct": 74.67,
+     "choice_id": "Illapa Sairitupac",
+     "party_lines": {
+      "DEM": 22293
+     }
+    },
+    {
      "name": "Helen Qiu",
      "votes": 7464,
      "party": "REP",
-     "pct": 98.7,
+     "pct": 25.0,
      "choice_id": "Helen Qiu",
      "party_lines": {
       "REP": 7464
@@ -4717,12 +5195,13 @@
      "name": "WRITE-IN",
      "votes": 98,
      "party": null,
-     "pct": 1.3,
+     "pct": 0.33,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -4745,15 +5224,26 @@
    "feed_updated_at": "2026-11-04T00:41:08-05:00",
    "choices": [
     {
+     "name": "David Siffert",
+     "votes": 34510,
+     "party": "DEM",
+     "pct": 98.44,
+     "choice_id": "David Siffert",
+     "party_lines": {
+      "DEM": 34510
+     }
+    },
+    {
      "name": "WRITE-IN",
      "votes": 547,
      "party": null,
-     "pct": 100.0,
+     "pct": 1.56,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -4795,7 +5285,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -4837,7 +5328,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -4879,7 +5371,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -4902,15 +5395,26 @@
    "feed_updated_at": "2026-11-04T00:41:08-05:00",
    "choices": [
     {
+     "name": "Jordan J.G. Wright",
+     "votes": 33538,
+     "party": "DEM",
+     "pct": 98.84,
+     "choice_id": "Jordan J.G. Wright",
+     "party_lines": {
+      "DEM": 33538
+     }
+    },
+    {
      "name": "WRITE-IN",
      "votes": 395,
      "party": null,
-     "pct": 100.0,
+     "pct": 1.16,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -4952,7 +5456,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -4994,7 +5499,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -5036,7 +5542,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -5088,7 +5595,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -5141,7 +5649,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -5193,7 +5702,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -5216,15 +5726,26 @@
    "feed_updated_at": "2026-11-04T00:41:23-05:00",
    "choices": [
     {
+     "name": "Landon C. Dais",
+     "votes": 15453,
+     "party": "DEM",
+     "pct": 99.45,
+     "choice_id": "Landon C. Dais",
+     "party_lines": {
+      "DEM": 15453
+     }
+    },
+    {
      "name": "WRITE-IN",
      "votes": 85,
      "party": null,
-     "pct": 100.0,
+     "pct": 0.55,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -5266,7 +5787,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -5289,10 +5811,20 @@
    "feed_updated_at": "2026-11-04T00:41:23-05:00",
    "choices": [
     {
+     "name": "Chantel Jackson",
+     "votes": 16218,
+     "party": "DEM",
+     "pct": 94.96,
+     "choice_id": "Chantel Jackson",
+     "party_lines": {
+      "DEM": 16218
+     }
+    },
+    {
      "name": "Emmanuel A. Findlay Jr.",
      "votes": 831,
      "party": "CONSERVATIVE",
-     "pct": 96.52,
+     "pct": 4.87,
      "choice_id": "Emmanuel A. Findlay Jr.",
      "party_lines": {
       "CONSERVATIVE": 831
@@ -5302,12 +5834,13 @@
      "name": "WRITE-IN",
      "votes": 30,
      "party": null,
-     "pct": 3.48,
+     "pct": 0.18,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -5330,10 +5863,20 @@
    "feed_updated_at": "2026-11-04T00:41:23-05:00",
    "choices": [
     {
+     "name": "John Zaccaro Jr.",
+     "votes": 17672,
+     "party": "DEM",
+     "pct": 87.5,
+     "choice_id": "John Zaccaro Jr.",
+     "party_lines": {
+      "DEM": 17672
+     }
+    },
+    {
      "name": "Denise Smith",
      "votes": 2451,
      "party": "CONSERVATIVE",
-     "pct": 97.11,
+     "pct": 12.14,
      "choice_id": "Denise Smith",
      "party_lines": {
       "CONSERVATIVE": 2451
@@ -5343,12 +5886,13 @@
      "name": "WRITE-IN",
      "votes": 73,
      "party": null,
-     "pct": 2.89,
+     "pct": 0.36,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -5371,15 +5915,26 @@
    "feed_updated_at": "2026-11-04T00:41:23-05:00",
    "choices": [
     {
+     "name": "Jeffrey Dinowitz",
+     "votes": 25529,
+     "party": "DEM",
+     "pct": 97.43,
+     "choice_id": "Jeffrey Dinowitz",
+     "party_lines": {
+      "DEM": 25529
+     }
+    },
+    {
      "name": "WRITE-IN",
      "votes": 674,
      "party": null,
-     "pct": 100.0,
+     "pct": 2.57,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -5432,7 +5987,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -5455,10 +6011,20 @@
    "feed_updated_at": "2026-11-04T00:41:23-05:00",
    "choices": [
     {
+     "name": "Carl E. Heastie",
+     "votes": 23157,
+     "party": "DEM",
+     "pct": 96.08,
+     "choice_id": "Carl E. Heastie",
+     "party_lines": {
+      "DEM": 23157
+     }
+    },
+    {
      "name": "James Washington-Ward",
      "votes": 920,
      "party": "CONSERVATIVE",
-     "pct": 97.25,
+     "pct": 3.82,
      "choice_id": "James Washington-Ward",
      "party_lines": {
       "CONSERVATIVE": 920
@@ -5468,12 +6034,13 @@
      "name": "WRITE-IN",
      "votes": 26,
      "party": null,
-     "pct": 2.75,
+     "pct": 0.11,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -5525,7 +6092,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -5567,7 +6135,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -5590,10 +6159,20 @@
    "feed_updated_at": "2026-11-04T00:41:23-05:00",
    "choices": [
     {
+     "name": "Yudelka Tapia",
+     "votes": 13027,
+     "party": "DEM",
+     "pct": 82.3,
+     "choice_id": "Yudelka Tapia",
+     "party_lines": {
+      "DEM": 13027
+     }
+    },
+    {
      "name": "Maria Diaz",
      "votes": 2120,
      "party": "REP",
-     "pct": 75.69,
+     "pct": 13.39,
      "choice_id": "Maria Diaz",
      "party_lines": {
       "REP": 2120
@@ -5603,7 +6182,7 @@
      "name": "Shery A. Olivo",
      "votes": 663,
      "party": "CONSERVATIVE",
-     "pct": 23.67,
+     "pct": 4.19,
      "choice_id": "Shery A. Olivo",
      "party_lines": {
       "CONSERVATIVE": 663
@@ -5613,12 +6192,13 @@
      "name": "WRITE-IN",
      "votes": 18,
      "party": null,
-     "pct": 0.64,
+     "pct": 0.11,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -5680,7 +6260,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -5703,15 +6284,26 @@
    "feed_updated_at": "2026-11-04T00:41:08-05:00",
    "choices": [
     {
+     "name": "Eric Flores",
+     "votes": 32785,
+     "party": "DEM",
+     "pct": 98.43,
+     "choice_id": "Eric Flores",
+     "party_lines": {
+      "DEM": 32785
+     }
+    },
+    {
      "name": "WRITE-IN",
      "votes": 524,
      "party": null,
-     "pct": 100.0,
+     "pct": 1.57,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -5734,15 +6326,26 @@
    "feed_updated_at": "2026-11-04T00:41:08-05:00",
    "choices": [
     {
+     "name": "Steven Benathen",
+     "votes": 35136,
+     "party": "DEM",
+     "pct": 98.82,
+     "choice_id": "Steven Benathen",
+     "party_lines": {
+      "DEM": 35136
+     }
+    },
+    {
      "name": "WRITE-IN",
      "votes": 421,
      "party": null,
-     "pct": 100.0,
+     "pct": 1.18,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -5765,15 +6368,26 @@
    "feed_updated_at": "2026-11-04T00:41:08-05:00",
    "choices": [
     {
+     "name": "Faith Bondy",
+     "votes": 35381,
+     "party": "DEM",
+     "pct": 98.62,
+     "choice_id": "Faith Bondy",
+     "party_lines": {
+      "DEM": 35381
+     }
+    },
+    {
      "name": "WRITE-IN",
      "votes": 496,
      "party": null,
-     "pct": 100.0,
+     "pct": 1.38,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -5796,15 +6410,56 @@
    "feed_updated_at": "2026-11-04T00:41:08-05:00",
    "choices": [
     {
+     "name": "Keshia Espinal",
+     "votes": 57474,
+     "party": "DEM",
+     "pct": 32.04,
+     "choice_id": "Keshia Espinal",
+     "party_lines": {
+      "DEM": 57474
+     }
+    },
+    {
+     "name": "Matthew Levy",
+     "votes": 51866,
+     "party": "DEM",
+     "pct": 28.91,
+     "choice_id": "Matthew Levy",
+     "party_lines": {
+      "DEM": 51866
+     }
+    },
+    {
+     "name": "Karen Cortes-Tower",
+     "votes": 51058,
+     "party": "DEM",
+     "pct": 28.46,
+     "choice_id": "Karen Cortes-Tower",
+     "party_lines": {
+      "DEM": 51058
+     }
+    },
+    {
+     "name": "Aija Tingling",
+     "votes": 17630,
+     "party": "FAIR COURTS",
+     "pct": 9.83,
+     "choice_id": "Aija Tingling",
+     "party_lines": {
+      "FAIR COURTS": 17630
+     }
+    },
+    {
      "name": "WRITE-IN",
      "votes": 1361,
      "party": null,
-     "pct": 100.0,
+     "pct": 0.76,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -5827,15 +6482,36 @@
    "feed_updated_at": "2026-11-04T00:41:08-05:00",
    "choices": [
     {
+     "name": "Jennifer Frankola-Crawford",
+     "votes": 23767,
+     "party": "DEM",
+     "pct": 50.99,
+     "choice_id": "Jennifer Frankola-Crawford",
+     "party_lines": {
+      "DEM": 23767
+     }
+    },
+    {
+     "name": "Brian J. Krist",
+     "votes": 22074,
+     "party": "DEM",
+     "pct": 47.36,
+     "choice_id": "Brian J. Krist",
+     "party_lines": {
+      "DEM": 22074
+     }
+    },
+    {
      "name": "WRITE-IN",
      "votes": 767,
      "party": null,
-     "pct": 100.0,
+     "pct": 1.65,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -5858,15 +6534,26 @@
    "feed_updated_at": "2026-11-04T00:41:23-05:00",
    "choices": [
     {
+     "name": "Jodi L. Morales",
+     "votes": 104252,
+     "party": "DEM",
+     "pct": 99.13,
+     "choice_id": "Jodi L. Morales",
+     "party_lines": {
+      "DEM": 104252
+     }
+    },
+    {
      "name": "WRITE-IN",
      "votes": 920,
      "party": null,
-     "pct": 100.0,
+     "pct": 0.87,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -5889,15 +6576,26 @@
    "feed_updated_at": "2026-11-04T00:41:23-05:00",
    "choices": [
     {
+     "name": "Sara A. Collins-Sedey",
+     "votes": 95581,
+     "party": "DEM",
+     "pct": 99.21,
+     "choice_id": "Sara A. Collins-Sedey",
+     "party_lines": {
+      "DEM": 95581
+     }
+    },
+    {
      "name": "WRITE-IN",
      "votes": 765,
      "party": null,
-     "pct": 100.0,
+     "pct": 0.79,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -5920,15 +6618,26 @@
    "feed_updated_at": "2026-11-04T00:41:36-05:00",
    "choices": [
     {
+     "name": "Lauren J. Brown-Akowe",
+     "votes": 53154,
+     "party": "DEM",
+     "pct": 99.55,
+     "choice_id": "Lauren J. Brown-Akowe",
+     "party_lines": {
+      "DEM": 53154
+     }
+    },
+    {
      "name": "WRITE-IN",
      "votes": 241,
      "party": null,
-     "pct": 100.0,
+     "pct": 0.45,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -5951,15 +6660,26 @@
    "feed_updated_at": "2026-11-04T00:41:36-05:00",
    "choices": [
     {
+     "name": "Tamara Ortiz",
+     "votes": 46500,
+     "party": "DEM",
+     "pct": 99.21,
+     "choice_id": "Tamara Ortiz",
+     "party_lines": {
+      "DEM": 46500
+     }
+    },
+    {
      "name": "WRITE-IN",
      "votes": 372,
      "party": null,
-     "pct": 100.0,
+     "pct": 0.79,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -6021,7 +6741,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -6073,7 +6794,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -6096,15 +6818,26 @@
    "feed_updated_at": "2026-11-04T00:41:36-05:00",
    "choices": [
     {
+     "name": "Bridget Hamblin",
+     "votes": 36757,
+     "party": "DEM",
+     "pct": 99.56,
+     "choice_id": "Bridget Hamblin",
+     "party_lines": {
+      "DEM": 36757
+     }
+    },
+    {
      "name": "WRITE-IN",
      "votes": 161,
      "party": null,
-     "pct": 100.0,
+     "pct": 0.44,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -6156,7 +6889,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -6179,10 +6913,20 @@
    "feed_updated_at": "2026-11-04T00:41:53-05:00",
    "choices": [
     {
+     "name": "Janet Ellen Keller",
+     "votes": 68720,
+     "party": "DEM",
+     "pct": 75.45,
+     "choice_id": "Janet Ellen Keller",
+     "party_lines": {
+      "DEM": 68720
+     }
+    },
+    {
      "name": "Stephen C. Dachtera",
      "votes": 22219,
      "party": "REP",
-     "pct": 99.39,
+     "pct": 24.4,
      "choice_id": "Stephen C. Dachtera",
      "party_lines": {
       "REP": 22219
@@ -6192,12 +6936,13 @@
      "name": "WRITE-IN",
      "votes": 136,
      "party": null,
-     "pct": 0.61,
+     "pct": 0.15,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -6249,7 +6994,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -6272,15 +7018,26 @@
    "feed_updated_at": "2026-11-04T00:41:53-05:00",
    "choices": [
     {
+     "name": "Edward Irizarry",
+     "votes": 116158,
+     "party": "DEM",
+     "pct": 99.33,
+     "choice_id": "Edward Irizarry",
+     "party_lines": {
+      "DEM": 116158
+     }
+    },
+    {
      "name": "WRITE-IN",
      "votes": 778,
      "party": null,
-     "pct": 100.0,
+     "pct": 0.67,
      "choice_id": "WRITE-IN",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -6332,7 +7089,8 @@
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -6355,15 +7113,24 @@
    "feed_updated_at": "2026-11-04T00:42:08-05:00",
    "choices": [
     {
+     "name": "Yes",
+     "votes": 1099934,
+     "party": null,
+     "pct": 63.38,
+     "choice_id": "YES",
+     "party_lines": {}
+    },
+    {
      "name": "No",
      "votes": 635474,
      "party": null,
-     "pct": 100.0,
+     "pct": 36.62,
      "choice_id": "NO",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -6386,15 +7153,24 @@
    "feed_updated_at": "2026-11-04T00:42:08-05:00",
    "choices": [
     {
+     "name": "Yes",
+     "votes": 1061799,
+     "party": null,
+     "pct": 61.77,
+     "choice_id": "YES",
+     "party_lines": {}
+    },
+    {
      "name": "No",
      "votes": 657038,
      "party": null,
-     "pct": 100.0,
+     "pct": 38.23,
      "choice_id": "NO",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -6417,15 +7193,24 @@
    "feed_updated_at": "2026-11-04T00:42:08-05:00",
    "choices": [
     {
+     "name": "Yes",
+     "votes": 1133761,
+     "party": null,
+     "pct": 65.7,
+     "choice_id": "YES",
+     "party_lines": {}
+    },
+    {
      "name": "No",
      "votes": 591982,
      "party": null,
-     "pct": 100.0,
+     "pct": 34.3,
      "choice_id": "NO",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -6448,15 +7233,24 @@
    "feed_updated_at": "2026-11-04T00:42:08-05:00",
    "choices": [
     {
+     "name": "Yes",
+     "votes": 1155304,
+     "party": null,
+     "pct": 67.67,
+     "choice_id": "YES",
+     "party_lines": {}
+    },
+    {
      "name": "No",
      "votes": 552003,
      "party": null,
-     "pct": 100.0,
+     "pct": 32.33,
      "choice_id": "NO",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   },
   {
    "source": "ny.nyc",
@@ -6479,21 +7273,30 @@
    "feed_updated_at": "2026-11-04T00:42:08-05:00",
    "choices": [
     {
+     "name": "Yes",
+     "votes": 1243219,
+     "party": null,
+     "pct": 72.49,
+     "choice_id": "YES",
+     "party_lines": {}
+    },
+    {
      "name": "No",
      "votes": 471812,
      "party": null,
-     "pct": 100.0,
+     "pct": 27.51,
      "choice_id": "NO",
      "party_lines": {}
     }
    ],
-   "url": null
+   "url": null,
+   "uncontested": false
   }
  ],
- "contests_hash": "4a22c05b930432f6",
+ "contests_hash": "02d62a3d2199cebd",
  "status": "ok",
  "message": "",
- "last_attempt_at": "2026-11-04T15:09:13+00:00",
- "fetched_at": "2026-11-04T15:09:13+00:00",
- "contests_changed_at": "2026-11-04T06:43:40+00:00"
+ "last_attempt_at": "2026-11-04T15:31:44+00:00",
+ "fetched_at": "2026-11-04T15:31:44+00:00",
+ "contests_changed_at": "2026-11-04T15:30:21+00:00"
 }

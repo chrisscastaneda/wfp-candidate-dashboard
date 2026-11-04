@@ -38,8 +38,9 @@ See also [election-results-scraper-plan.md](election-results-scraper-plan.md) (d
 | 10:00am | 825 | 663 | 15 NY counties on Enhanced Voting, Chautauqua NY, San Diego, San Mateo, San Bernardino (new sources) |
 | 10:08am | 854 | 689 | Arizona and DC (new sources) |
 | 10:17am | 870 | 703 | Massachusetts (entered by hand from AP) |
+| 10:31am | 915 | 742 | NY districts summed from county results; NYC leader fix |
 
-Still missing at 10:17am: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
+Still missing at 10:31am: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
 
 ---
 
@@ -470,6 +471,29 @@ Fixes made while building:
   Middlesex Senate, to William Brownsberger), Carey McDonald (5th Middlesex Senate, to Kate Lipper-Garabedian). Marked
   `no` in `results_sources.csv`.
 
+### 10:31am: New York districts from county results, and an NYC fix
+
+- 915 races with results, WFP leading 742.
+- **Summed districts (40 WFP races, 34 leading):** new derived source `ny.counties` (`scrapers/elex/combine.py`). Each
+  New York county source reports its share of the Assembly, Senate and U.S. House races on its ballot; when every
+  county in a district has a working source, the shares are added up. District-to-county lists come from the Census
+  Bureau's block equivalency files (`data/ny_district_counties.json`: Assembly 2024 lines, Senate 2022, Congress
+  119th). A county source that doesn't list a district is taken to have no voters in it (the Census files include
+  empty water blocks); a county with no source, or one that hasn't posted, leaves the district out. 60 districts in
+  all were summed, 40 of them WFP races.
+- Close or trailing among them: Chris Gallant (NY-1) 48.9%, Cait Conley (NY-17) 52.2%, Christopher Murray (SD-1)
+  51.7%, Antonio Vargas (SD-3) 46.0%, Joshua Slaughter (AD-3) 51.1%, Patricia Kopp (AD-7) 45.8%, Craig Herskowitz
+  (AD-12) 51.5%, Jonathan Lipe (AD-119) 47.3%, Kurtis VanWuyckhuyse (AD-134) 44.1%, Ryan Taughrin (AD-143) 50.4%,
+  Thomas Carle (AD-150) 37.1%.
+- **NYC parser bug, fixed:** NYC bolds the leading row (`<td style="font-weight: bold">`) and the row pattern only
+  accepted bare `<td >` cells, so a leader on a single party line was dropped. Five WFP races were missing their
+  candidate (Aber Kawas SD-12, Andrew Hevesi AD-28, Emily Gallagher AD-50, Illapa Sairitupac AD-65, David Siffert
+  AD-66) and now show. No published NYC race changed direction: the leaders already shown ran on several lines, whose
+  votes come from the "Totals by Candidate" rows.
+- **Still left out:** Hochul, Adams, James and DiNapoli (statewide; no state feed) and 42 district races. The counties
+  blocking the most: Albany and Onondaga (7 races each), Niagara (6), Nassau and Schenectady (5 each). See the run log
+  (`ny.counties skipped ...` lines) for each district's missing counties.
+
 ## Feed quirks worth remembering
 
 | Source | Quirk | How it's handled |
@@ -500,6 +524,8 @@ Fixes made while building:
 | Arizona | State site behind a Cloudflare challenge | Results read from Enhanced Voting's host, which the state links to |
 | DC | Ranked-choice contests post first-choice counts on election night | Title says "(first-choice votes)" |
 | Massachusetts | No official election-night feed; AP posts no count for unopposed races | Entered by hand from AP widgets on news sites; `unopposed` in the votes column |
+| NYC ENR | Leading row's cells are bold (`<td style=...>`) | Row pattern accepts any cell attributes |
+| New York districts | No readable state feed | Summed from county shares when every county in the district has a source |
 | Oregon | Vote by mail; precincts-reporting stays at 0 while votes come in | Shown as reported; worth replacing with a count or hiding |
 
 ## Still open
@@ -522,5 +548,5 @@ Fixes made while building:
   Santa Barbara (7), Kern (5), Fresno and Tulare (4 each), Santa Cruz and Stanislaus (3 each).
 - Eight California propositions stay in review: several county sources carry their own share, and the state API's
   copy doesn't match on its own.
-- Races that cross county lines (for example Nathalia Fernandez, SD-34) only have partial shares and stay off the
-  dashboard until partials can be summed.
+- New York districts are summed from county shares (`ny.counties`); 42 WFP district races still lack a county source,
+  mostly Albany, Onondaga, Niagara, Nassau and Schenectady. Wisconsin could reuse `combine.py` with its own mapping.

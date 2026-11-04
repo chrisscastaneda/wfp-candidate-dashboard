@@ -8,7 +8,7 @@ import traceback
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
 
-from . import endorsements, match, publish, registry, store
+from . import combine, endorsements, match, publish, registry, store
 from .fetch import Blocked, Fetcher, FetchError, NotFound
 from .model import BLOCKED, ERROR, HEALTHY, NOT_MODIFIED, NOT_PUBLISHED, OK, SKIPPED, SourceResult
 from .runlog import RunLog
@@ -79,6 +79,20 @@ def match_and_publish(latest: dict, log: RunLog, *, write: bool, do_publish: boo
     return counts
 
 
+def _derive(latest: dict, log: RunLog, dry_run: bool) -> None:
+    """Rebuild district races summed from county results (combine.py) from the latest stored county results."""
+    contests, skipped = combine.build(latest, registry.ALL)
+    for line in skipped:
+        log.info(f"  {combine.CountySums.id} skipped {line}")
+    result = SourceResult(combine.CountySums.id, OK, contests, fetched_at=_now())
+    record, changed = store.merge(store.load(result.source), result)
+    if not dry_run:
+        store.save(result.source, record, changed, log.run_id)
+    latest[result.source] = store.decode(record)
+    log.info(f"{result.source:<8} derived       {len(contests)} district contests summed from county results"
+             f"{', changed' if changed else ''}", echo=True)
+
+
 def run(sources: list[Source], fetcher: Fetcher, *, command: str, dry_run=False, do_publish=True,
         verbose=False) -> int:
     """Pull, store, match, publish and log once. Returns the exit code: 0 if every source is healthy, else 1."""
@@ -86,7 +100,8 @@ def run(sources: list[Source], fetcher: Fetcher, *, command: str, dry_run=False,
     with RunLog("results", command=command, echo=verbose) as log:
         log.info(f"run {log.run_id}: {len(sources)} sources" + (" (dry run)" if dry_run else ""), echo=True)
         with ThreadPoolExecutor(max_workers=8) as pool:
-            results = list(pool.map(lambda s: pull(s, fetcher), sources))
+            results = list(pool.map(lambda s: pull(s, fetcher),
+                                    [s for s in sources if not getattr(s, "derived", False)]))
         latest = store.load_all()
         log.summary["sources"] = {}
         for r in results:
@@ -107,6 +122,7 @@ def run(sources: list[Source], fetcher: Fetcher, *, command: str, dry_run=False,
                 "status": r.status, "contests": len(r.contests), "changed": r.changed, "requests": len(r.requests),
                 "bytes": sum(q.get("bytes", 0) for q in r.requests), "seconds": r.seconds,
                 **({"message": r.message.splitlines()[0]} if r.message else {})}
+        _derive(latest, log, dry_run)
         log.summary["matching"] = match_and_publish(latest, log, write=not dry_run, do_publish=do_publish)
         log.info(f"done in {time.monotonic() - started:.1f}s; log at logs/results/{log.run_id}.log", echo=True)
     return 0 if all(r.status in HEALTHY for r in results) else 1

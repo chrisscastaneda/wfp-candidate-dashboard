@@ -155,6 +155,12 @@ New review items and findings:
 | `dc` | ok, 7 of 8 matched (Rashida Brown not on the ballot) | New parser `states/dc.py` for DCBOE's JSON. Ranked-choice contests are labeled "(first-choice votes)" until rounds are posted |
 | Massachusetts | 16 entered by hand, 4 not on the ballot | No official election-night feed; electionstats adds general elections after certification. AP counts read from news sites' embedded widgets (WGBH for questions, CBS Boston for the legislature) into `manual_entries.csv`. Unopposed races use `unopposed` as the votes |
 
+## New York districts summed from counties (Nov 4)
+
+| Source | Status | Notes |
+|---|---|---|
+| `ny.counties` | derived, 40 WFP races (60 districts summed) | `scrapers/elex/combine.py`, built in `run.py` after every pull from the stored county results. District-to-county lists in `data/ny_district_counties.json`, from the Census Bureau's block equivalency files. A district is summed only when every county in it has a working source; a county source without the district is taken to have no voters there |
+
 ## Phase 3 status
 
 Started early Nov 3. Phase 3 is **partly built**: most county sites, and NYC's ENR, don't show their Nov 3 results
