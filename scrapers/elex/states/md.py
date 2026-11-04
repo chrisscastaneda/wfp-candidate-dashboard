@@ -83,6 +83,8 @@ class Maryland(Source):
     id = "md"
     state = "MD"
     title = "Maryland State Board of Elections results"
+    site_name = "Maryland State Board of Elections"
+    url = BASE.format(year=config.ELECTION_DATE.year)
     platform = "MD SBE results pages (HTML)"
     tiers = frozenset({2, 4})
 

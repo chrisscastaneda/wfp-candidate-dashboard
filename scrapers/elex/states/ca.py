@@ -65,6 +65,8 @@ class California(Source):
     id = "ca"
     state = "CA"
     title = "California SoS returns API"
+    site_name = "California Secretary of State"
+    url = "https://electionresults.sos.ca.gov/"
     platform = "CA SoS API"
     tiers = frozenset({1, 2, 3})
     local_races = False

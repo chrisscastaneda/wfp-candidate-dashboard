@@ -57,6 +57,8 @@ class Ohio(Source):
     id = "oh"
     state = "OH"
     title = "Ohio SoS live results"
+    site_name = "Ohio Secretary of State"
+    url = "https://liveresults.ohiosos.gov/"
     platform = "OH live results API"
     tiers = frozenset({1, 2, 3})
     local_races = False

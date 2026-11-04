@@ -45,5 +45,16 @@ const updated = computed(() => {
       <span v-if="updated">Updated {{ updated }}. </span>
       Unofficial results; races aren't called here.
     </p>
+    <p v-if="result.source_url" class="mt-1 text-xs text-neutral-500 lg:text-sm">
+      Source:
+      <a
+        :href="result.source_url"
+        target="_blank"
+        rel="noopener"
+        class="text-wfp-purple underline underline-offset-2 hover:text-wfp-orange"
+        >{{ result.source_name ?? 'official results' }}<span aria-hidden="true"> ↗</span
+        ><span class="sr-only"> (opens in a new tab)</span></a
+      >
+    </p>
   </div>
 </template>

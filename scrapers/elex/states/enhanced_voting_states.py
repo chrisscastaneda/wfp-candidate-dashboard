@@ -7,15 +7,19 @@ at run time; a name that doesn't match is skipped, and its races show up as unma
 from ..platforms.enhanced_voting import EnhancedVotingSource
 
 SOURCES = [
-    EnhancedVotingSource("ga", "GA", "Georgia SoS results", "https://results.sos.ga.gov", "Georgia",
+    EnhancedVotingSource("ga", "GA", "Georgia SoS results", "Georgia Secretary of State",
+                         "https://results.sos.ga.gov", "Georgia",
                          localities=["DeKalb County", "Fulton County"]),
     # Utah's single-county legislative districts are only on county sub-sites: HD 21/32/35 and the Salt Lake
     # County races are on Salt Lake County's; HD 62 is on Utah County's.
-    EnhancedVotingSource("ut", "UT", "Utah election results", "https://electionresults.utah.gov", "Utah",
+    EnhancedVotingSource("ut", "UT", "Utah election results", "Utah Lieutenant Governor",
+                         "https://electionresults.utah.gov", "Utah",
                          localities=["Salt Lake County", "Utah County"], tiers=(2, 4)),
-    EnhancedVotingSource("wa", "WA", "Washington SoS results", "https://results.votewa.gov", "washington",
+    EnhancedVotingSource("wa", "WA", "Washington SoS results", "Washington Secretary of State",
+                         "https://results.votewa.gov", "washington",
                          localities=["King County", "Spokane County"]),
     # Rhode Island's state file already includes city and town races (Providence, East Providence).
-    EnhancedVotingSource("ri", "RI", "Rhode Island Board of Elections results", "https://electionresults.ri.gov",
+    EnhancedVotingSource("ri", "RI", "Rhode Island Board of Elections results",
+                         "Rhode Island Board of Elections", "https://electionresults.ri.gov",
                          "rhodeisland", tiers=(2, 4), units=("city or town", "cities and towns")),
 ]

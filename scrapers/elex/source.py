@@ -18,6 +18,8 @@ class Source:
     level: str = "state"         # "state" or "county"
     county: str | None = None    # for county sources: "Los Angeles"
     title: str = ""
+    site_name: str = ""          # who publishes the results, for the dashboard's source link
+    url: str = ""                # the public results page people can check (not the API)
     platform: str = ""           # "CA SoS API", "Enhanced Voting", ...
     tiers: frozenset = frozenset()
     min_interval: int = 0        # seconds between pulls in --watch

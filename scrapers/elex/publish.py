@@ -3,8 +3,9 @@ match table. The format is the data contract in docs/election-results-scraper-pl
 `wfp_leading`; we don't call races.
 """
 from datetime import datetime, timezone
+from urllib.parse import urlparse
 
-from . import config, match
+from . import config, match, registry
 from .model import Contest
 from .store import write_json_atomic
 
@@ -20,6 +21,15 @@ def _leading(contest: Contest, wfp_choice_id: str) -> bool | None:
     cutoff = ranked[min(contest.vote_for, len(ranked)) - 1].votes
     wfp = next((c for c in contest.choices if c.choice_id == wfp_choice_id), None)
     return bool(wfp and wfp.votes >= cutoff and wfp.votes > 0)
+
+
+def _source_link(contest: Contest) -> dict:
+    """Where a reader can check this result: the contest's own election page when the source knows one (Clarity,
+    hand entries), else the source's public results page. Hand entries are named by the site's host."""
+    source = next((s for s in registry.ALL if s.id == contest.source), None)
+    url = contest.url or (source.url if source else "") or None
+    name = (source.site_name if source else "") or (urlparse(url).hostname or "").removeprefix("www.") if url else None
+    return {"source_name": name or None, "source_url": url}
 
 
 def build(endorsements: list[dict], match_rows: list[dict], latest: dict[str, dict], run_id: str) -> dict:
@@ -41,7 +51,7 @@ def build(endorsements: list[dict], match_rows: list[dict], latest: dict[str, di
             continue
         entry.update(
             status=FINAL if contest.final else COUNTING if contest.total_votes else AWAITING,
-            source=contest.source, contest=contest.title, scope=contest.scope,
+            source=contest.source, **_source_link(contest), contest=contest.title, scope=contest.scope,
             reporting={"pct": contest.reporting.pct, "text": contest.reporting.text},
             updated_at=contest.feed_updated_at or latest[contest.source].get("fetched_at"),
             wfp_choice=m["choice"], wfp_leading=_leading(contest, m["choice_id"]),

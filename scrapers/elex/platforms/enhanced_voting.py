@@ -81,10 +81,11 @@ def parse(payload: dict, *, source_id: str, state: str, jurisdiction: str, skip_
 class EnhancedVotingSource(Source):
     platform = "Enhanced Voting"
 
-    def __init__(self, id, state, title, base, jurisdiction, localities=(), tiers=(1, 2, 3, 4),
+    def __init__(self, id, state, title, site_name, base, jurisdiction, localities=(), tiers=(1, 2, 3, 4),
                  units=("county", "counties")):
-        self.id, self.state, self.title, self.units = id, state, title, units
+        self.id, self.state, self.title, self.site_name, self.units = id, state, title, site_name, units
         self.base, self.jurisdiction, self.localities = base.rstrip("/"), jurisdiction, list(localities)
+        self.url = f"{self.base}/results/public/{jurisdiction}"
         self.tiers = frozenset(tiers)
 
     def _api(self, path):

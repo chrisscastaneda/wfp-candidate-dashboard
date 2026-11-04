@@ -43,6 +43,8 @@ class NorthCarolina(Source):
     id = "nc"
     state = "NC"
     title = "NC State Board of Elections ENR"
+    site_name = "NC State Board of Elections"
+    url = "https://er.ncsbe.gov/"
     platform = "NCSBE ENR JSON"
     tiers = frozenset({1, 2, 4})
 

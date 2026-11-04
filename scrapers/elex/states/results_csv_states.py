@@ -7,7 +7,9 @@ races) won't match from it; they need county sources or manual entries.
 from ..platforms.results_csv import ResultsCsvSource
 
 SOURCES = [
-    ResultsCsvSource("nm", "NM", "New Mexico SoS results", "https://electionresults.sos.nm.gov", ["SW", "STATE"]),
-    ResultsCsvSource("ne", "NE", "Nebraska SoS results", "https://electionresults.nebraska.gov", ["All"], tiers=(4,),
+    ResultsCsvSource("nm", "NM", "New Mexico SoS results", "New Mexico Secretary of State",
+                     "https://electionresults.sos.nm.gov", ["SW", "STATE"]),
+    ResultsCsvSource("ne", "NE", "Nebraska SoS results", "Nebraska Secretary of State",
+                     "https://electionresults.nebraska.gov", ["All"], tiers=(4,),
                      local_races=False),
 ]

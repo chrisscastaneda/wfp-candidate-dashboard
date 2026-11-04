@@ -72,6 +72,8 @@ class Connecticut(Source):
     id = "ct"
     state = "CT"
     title = "CT Secretary of the State election results"
+    site_name = "Connecticut Secretary of the State"
+    url = "https://ctemspublic.tgstg.net/#/home"
     platform = "CT EMS static JSON"
     tiers = frozenset({1, 2, 4})
     local_races = False  # town questions only; no municipal offices in a state election

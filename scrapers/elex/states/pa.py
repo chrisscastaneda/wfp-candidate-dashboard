@@ -72,6 +72,8 @@ class Pennsylvania(Source):
     id = "pa"
     state = "PA"
     title = "PA Department of State election returns API"
+    site_name = "Pennsylvania Department of State"
+    url = "https://www.electionreturns.pa.gov/"
     platform = "PA ElectionReturn API"
     tiers = frozenset({1, 2})
 

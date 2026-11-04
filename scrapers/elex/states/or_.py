@@ -77,6 +77,8 @@ class Oregon(Source):
     id = "or"
     state = "OR"
     title = "Oregon SoS results"
+    site_name = "Oregon Secretary of State"
+    url = "https://results.oregonvotes.gov/"
     platform = "OR results pages (HTML)"
     tiers = frozenset({1, 2, 4})
 

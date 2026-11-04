@@ -44,6 +44,7 @@ def parse(rows: list[dict]) -> list[Contest]:
             jurisdiction=first["state"].strip().upper(),
             reporting=Reporting(pct=pct, text=f"{pct:g}% reporting" if pct is not None else None),
             feed_updated_at=(first.get("as_of") or "").strip() or None,
+            url=(first.get("source_url") or "").strip() or None,
             choices=[Choice(r["choice"].strip(), names.to_int(r.get("votes")), names.party(r.get("party")))
                      for r in entered])
         contest.fill_percentages()

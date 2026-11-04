@@ -26,7 +26,7 @@ def test_clarity_state_with_county_sub_elections(monkeypatch):
               "CO/122598/367167/json/en/summary.json": "clarity/co_2024_summary.json",
               "CO/122598/367167/json/en/electionsettings.json": "clarity/co_2024_settings.json",
               "CO/Boulder/122606/355964/json/en/summary.json": "clarity/co_boulder_2024_summary.json"}
-    source = clarity.ClaritySource("co", "CO", "Colorado", "CO", counties=["Boulder"])
+    source = clarity.ClaritySource("co", "CO", "Colorado", "Colorado", "CO", counties=["Boulder"])
     contests = source.pull(FakeFetch(routes))
     house1 = next(c for c in contests if c.office_type == "federal_house" and c.district == "1")
     assert "119th United States Congress" in house1.title

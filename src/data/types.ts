@@ -77,6 +77,9 @@ export interface CandidateResult {
   match_status: string
   note?: string
   source?: string
+  /** Who publishes the results, and their public page for this race's election. */
+  source_name?: string | null
+  source_url?: string | null
   contest?: string
   scope?: string
   reporting?: { pct: number | null; text: string | null }

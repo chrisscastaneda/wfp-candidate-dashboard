@@ -46,6 +46,22 @@ def test_publish_leading_and_statuses():
     assert out["results"]["7"]["status"] == "counting" and out["results"]["7"]["wfp_leading"] is True
 
 
+def test_publish_source_link():
+    rows = [{"state": "GA", "name": "A", "office": "o", "status": "auto", "source": "ga", "contest_id": "1",
+             "choice_id": "A", "choice": "A", "note": ""}]
+    e = [{"id": 7, "key": "GA|A|o", "name": "A"}]
+
+    def link(source, url=None):
+        c = Contest(source=source, contest_id="1", state="GA", title="T", office_type="state_house", url=url,
+                    choices=[Choice("A", 10)])
+        r = publish.build(e, [dict(rows[0], source=source)], {source: {"contests": [c], "status": "ok"}}, "r")
+        return r["results"]["7"]["source_name"], r["results"]["7"]["source_url"]
+
+    assert link("ga") == ("Georgia Secretary of State", "https://results.sos.ga.gov/results/public/Georgia")
+    # A contest's own page wins; hand entries are named by host.
+    assert link("manual", "https://www.nj.gov/state/x.shtml") == ("nj.gov", "https://www.nj.gov/state/x.shtml")
+
+
 def test_manual_template_keeps_entered_rows(tmp_results, monkeypatch):
     rows = [{"id": 1, "name": "Rashida Tlaib", "office": "U.S. House of Representatives, District 12",
              "office_category": "Federal House", "state_code": "MI", "nov3_ballot": "expected",

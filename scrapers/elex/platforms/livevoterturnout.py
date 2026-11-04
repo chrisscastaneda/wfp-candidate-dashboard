@@ -66,6 +66,7 @@ class LiveVoterTurnoutSource(Source):
     def __init__(self, id, state, county, landing_url, election_title, tiers=(4,)):
         self.id, self.state, self.county, self.tiers = id, state, county, frozenset(tiers)
         self.title = f"{county} County (Live Voter Turnout)"
+        self.site_name, self.url = f"{county} County Registrar of Voters", landing_url
         self.landing_url, self.election_title = landing_url, election_title
 
     def pull(self, fetch):

@@ -68,8 +68,10 @@ def parse(summary: list[dict], *, source_id: str, state: str, jurisdiction: str,
 class ClaritySource(Source):
     platform = "Clarity ENR"
 
-    def __init__(self, id, state, title, site, counties=(), tiers=(1, 2, 3, 4), level="state", county=None):
-        self.id, self.state, self.title, self.site = id, state, title, site
+    def __init__(self, id, state, title, site_name, site, counties=(), tiers=(1, 2, 3, 4), level="state",
+                 county=None):
+        self.id, self.state, self.title, self.site_name, self.site = id, state, title, site_name, site
+        self.url = f"{BASE}/{site}/"
         self.counties, self.tiers, self.level, self.county = list(counties), frozenset(tiers), level, county
 
     def _summary(self, fetch, site, eid, ver):
@@ -83,6 +85,8 @@ class ClaritySource(Source):
         jurisdiction = self.county or names.fold(self.title).title()
         contests = parse(self._summary(fetch, self.site, eid, ver), source_id=self.id, state=self.state,
                          jurisdiction=jurisdiction, partial_shares=self.level == "county")
+        for contest in contests:
+            contest.url = f"{BASE}/{self.site}/{eid}/"
         if not self.counties:
             return contests
         settings = fetch.get(f"{BASE}/{self.site}/{eid}/{ver}/json/en/electionsettings.json")
@@ -95,7 +99,10 @@ class ClaritySource(Source):
             if names.fold(county) not in listed:
                 continue  # not posted yet; its races show as unmatched rather than hiding the state's results
             name, county_eid, county_ver, updated = listed[names.fold(county)]
-            contests += parse(self._summary(fetch, f"{self.site}/{name}", county_eid, county_ver),
-                              source_id=self.id, state=self.state, jurisdiction=f"{county} County",
-                              prefix=f"{name}/", skip_titles=seen, updated=updated or None)
+            county_contests = parse(self._summary(fetch, f"{self.site}/{name}", county_eid, county_ver),
+                                    source_id=self.id, state=self.state, jurisdiction=f"{county} County",
+                                    prefix=f"{name}/", skip_titles=seen, updated=updated or None)
+            for contest in county_contests:
+                contest.url = f"{BASE}/{self.site}/{name}/{county_eid}/"
+            contests += county_contests
         return contests

@@ -58,9 +58,10 @@ def parse(text: str, *, source_id: str, state: str, jurisdiction: str, seen: set
 class ResultsCsvSource(Source):
     platform = "results CSV (NM/NE vendor)"
 
-    def __init__(self, id, state, title, base, groups, tiers=(1, 2, 3, 4), local_races=True):
-        self.id, self.state, self.title, self.local_races = id, state, title, local_races
+    def __init__(self, id, state, title, site_name, base, groups, tiers=(1, 2, 3, 4), local_races=True):
+        self.id, self.state, self.title, self.site_name, self.local_races = id, state, title, site_name, local_races
         self.base, self.groups, self.tiers = base.rstrip("/"), list(groups), frozenset(tiers)
+        self.url = self.base + "/"
 
     def pull(self, fetch):
         contests, seen = [], set()

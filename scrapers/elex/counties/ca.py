@@ -56,6 +56,8 @@ class LosAngeles(Source):
     level = "county"
     county = "Los Angeles"
     title = "Los Angeles County Registrar results"
+    site_name = "Los Angeles County Registrar-Recorder"
+    url = "https://results.lavote.gov/"
     platform = "LA County results API"
     tiers = frozenset({4})
 
@@ -69,7 +71,7 @@ class LosAngeles(Source):
 
 def clarity_county(name: str) -> ClaritySource:
     return ClaritySource(f"ca.{name.lower().replace(' ', '_')}", "CA", f"{name} County (Clarity)",
-                         f"CA/{name.replace(' ', '_')}", tiers=(4,), level="county", county=name)
+                         f"{name} County", f"CA/{name.replace(' ', '_')}", tiers=(4,), level="county", county=name)
 
 
 SOURCES = [

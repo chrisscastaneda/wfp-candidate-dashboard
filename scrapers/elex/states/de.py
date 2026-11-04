@@ -37,6 +37,8 @@ class Delaware(Source):
     id = "de"
     state = "DE"
     title = "Delaware Department of Elections ENR"
+    site_name = "Delaware Department of Elections"
+    url = f"https://elections.delaware.gov/results/enr/GE{config.ELECTION_DATE.year}.html"
     platform = "DE ENR JSON"
     tiers = frozenset({1, 2, 4})
 

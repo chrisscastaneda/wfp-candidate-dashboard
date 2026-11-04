@@ -84,7 +84,7 @@ def test_enhanced_voting_rhode_island_strips_party_suffix():
 def test_enhanced_voting_not_published_and_blocked():
     routes = {"jurisdictions/rhodeisland": "ri/jurisdiction.json", "elections/rhodeisland/": "ri/data.json"}
     # An unlisted locality is skipped; the state's own contests still come through.
-    contests = enhanced_voting.EnhancedVotingSource("x", "RI", "x", "https://x", "rhodeisland",
+    contests = enhanced_voting.EnhancedVotingSource("x", "RI", "x", "x", "https://x", "rhodeisland",
                                                     localities=["Nowhere County"]).pull(FakeFetch(routes))
     assert len(contests) == 453
     with pytest.raises(NotPublished):

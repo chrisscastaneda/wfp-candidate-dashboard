@@ -57,6 +57,7 @@ class Contest:
     reporting: Reporting = field(default_factory=Reporting)
     feed_updated_at: str | None = None
     choices: list[Choice] = field(default_factory=list)
+    url: str | None = None          # a page for this contest's election, when better than the source's url
 
     @property
     def total_votes(self) -> int:
