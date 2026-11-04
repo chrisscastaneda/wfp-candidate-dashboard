@@ -34,8 +34,9 @@ See also [election-results-scraper-plan.md](election-results-scraper-plan.md) (d
 | 1:43am | 623 | 519 | Connecticut (15 more), Wegela (MI HD-26) |
 | 2:16am | 625 | 523 | Connecticut (2 more) |
 | 3:35am | 628 | 524 | Connecticut (3 more) |
+| 9:46am | 628 | 523 | (none new; morning updates) |
 
-Still missing at 3:35am: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
+Still missing at 9:46am: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
 
 ---
 
@@ -393,6 +394,19 @@ Fixes made while building:
 - Sean Frame (CA SD-6) slipped to 48.2%. Jessie Lopez (CA AD-68) 47.6% with all precincts in.
 - Wayne County at 22% of precincts for MI-13: McKinney 72%. Jaime Churches (HD-27) 51.7% at 75%.
 - Connecticut at 694 of 775 precincts: Mandato (SD-34) leads by 25 votes, Becker (HD-62) by 34.
+
+### 9:46am: morning updates
+
+- 628 races with votes (no new ones), WFP leading 523. All sources ran without errors; the same five list no Nov 3
+  election. Michigan's statewide file isn't posted yet.
+- Vote counts changed in 143 races: California (29 state, 20 Orange County, 6 Sonoma, 6 Ventura), Colorado (27),
+  Oregon (17), Connecticut (9), Pennsylvania (9), Georgia (6), Utah (5), Ohio (4).
+- Flipped to trailing: Naseem Zubi (Pueblo County Assessor, CO), 49.3%, 894 behind at 98.8% of precincts.
+- Chris Kluwe (CA AD-72) fell from 60 to 2,605 behind (49.2%). Marie Tsaasan (Aliso Viejo D3) is 10 behind.
+- Wayne County now shows all precincts in: McKinney (MI-13) 76.3%, Jaime Churches (HD-27) 51.7%, up 1,641.
+- Connecticut at 695 of 775 precincts; Mandato (+25) and Becker (+34) unchanged.
+- Close leads in Pennsylvania with mail ballots still out: Meriam Sabih (HD-131) +673, Rachel Cuevas (HD-187) +677,
+  Mark Pinsley (SD-16) +3,101.
 
 ## Feed quirks worth remembering
 
