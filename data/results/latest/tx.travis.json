@@ -1,8 +1,8900 @@
 {
  "source": "tx.travis",
- "contests": [],
- "contests_hash": null,
- "status": "not_published",
- "message": "no 2026-11-03 election listed",
- "last_attempt_at": "2026-11-04T00:47:24+00:00"
+ "contests": [
+  {
+   "source": "tx.travis",
+   "contest_id": "0004",
+   "state": "TX",
+   "title": "United States Senator",
+   "office_type": "federal_senate",
+   "district": null,
+   "jurisdiction": "Travis County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Ken Paxton (REP)",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Ken Paxton (REP)",
+     "party_lines": null
+    },
+    {
+     "name": "James Talarico (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "James Talarico (DEM)",
+     "party_lines": null
+    },
+    {
+     "name": "Ted Brown (LIB)",
+     "votes": 0,
+     "party": "LIB",
+     "pct": 0.0,
+     "choice_id": "Ted Brown (LIB)",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0005",
+   "state": "TX",
+   "title": "United States Representative, District 10",
+   "office_type": "federal_house",
+   "district": "10",
+   "jurisdiction": "Travis County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 78,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Chris Gober (REP)",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Chris Gober (REP)",
+     "party_lines": null
+    },
+    {
+     "name": "Caitlin Rourk (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Caitlin Rourk (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0006",
+   "state": "TX",
+   "title": "United States Representative, District 11",
+   "office_type": "federal_house",
+   "district": "11",
+   "jurisdiction": "Travis County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 39,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "August Pfluger (REP)",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "August Pfluger (REP)",
+     "party_lines": null
+    },
+    {
+     "name": "Claire Reynolds (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Claire Reynolds (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0007",
+   "state": "TX",
+   "title": "United States Representative, District 27",
+   "office_type": "federal_house",
+   "district": "27",
+   "jurisdiction": "Travis County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 24,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Michael Cloud (REP)",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Michael Cloud (REP)",
+     "party_lines": null
+    },
+    {
+     "name": "Tanya Lloyd (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Tanya Lloyd (DEM)",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0008",
+   "state": "TX",
+   "title": "United States Representative, District 37",
+   "office_type": "federal_house",
+   "district": "37",
+   "jurisdiction": "Travis County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 167,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Lauren B. Peña (REP)",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Lauren B. Peña (REP)",
+     "party_lines": null
+    },
+    {
+     "name": "Greg Casar (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Greg Casar (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0009",
+   "state": "TX",
+   "title": "Governor",
+   "office_type": "governor",
+   "district": null,
+   "jurisdiction": "Travis County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Greg Abbott (REP)",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Greg Abbott (REP)",
+     "party_lines": null
+    },
+    {
+     "name": "Gina Hinojosa (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Gina Hinojosa (DEM)",
+     "party_lines": null
+    },
+    {
+     "name": "Pat Dixon (LIB)",
+     "votes": 0,
+     "party": "LIB",
+     "pct": 0.0,
+     "choice_id": "Pat Dixon (LIB)",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0010",
+   "state": "TX",
+   "title": "Lieutenant Governor",
+   "office_type": "lt_governor",
+   "district": null,
+   "jurisdiction": "Travis County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Dan Patrick (REP)",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Dan Patrick (REP)",
+     "party_lines": null
+    },
+    {
+     "name": "Vikki Goodwin (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Vikki Goodwin (DEM)",
+     "party_lines": null
+    },
+    {
+     "name": "Anthony Cristo (LIB)",
+     "votes": 0,
+     "party": "LIB",
+     "pct": 0.0,
+     "choice_id": "Anthony Cristo (LIB)",
+     "party_lines": null
+    },
+    {
+     "name": "Kevin McCormick (GRN)",
+     "votes": 0,
+     "party": "GRN",
+     "pct": 0.0,
+     "choice_id": "Kevin McCormick (GRN)",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0011",
+   "state": "TX",
+   "title": "Attorney General",
+   "office_type": "attorney_general",
+   "district": null,
+   "jurisdiction": "Travis County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Mayes Middleton (REP)",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Mayes Middleton (REP)",
+     "party_lines": null
+    },
+    {
+     "name": "Nathan Johnson (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Nathan Johnson (DEM)",
+     "party_lines": null
+    },
+    {
+     "name": "Tom Oxford (LIB)",
+     "votes": 0,
+     "party": "LIB",
+     "pct": 0.0,
+     "choice_id": "Tom Oxford (LIB)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0012",
+   "state": "TX",
+   "title": "Comptroller of Public Accounts",
+   "office_type": "controller",
+   "district": null,
+   "jurisdiction": "Travis County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Don Huffines (REP)",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Don Huffines (REP)",
+     "party_lines": null
+    },
+    {
+     "name": "Sarah Eckhardt (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Sarah Eckhardt (DEM)",
+     "party_lines": null
+    },
+    {
+     "name": "V. Alonzo Echavarria-Garza (LIB)",
+     "votes": 0,
+     "party": "LIB",
+     "pct": 0.0,
+     "choice_id": "V. Alonzo Echavarria-Garza (LIB)",
+     "party_lines": null
+    },
+    {
+     "name": "Shehla Faizi (GRN)",
+     "votes": 0,
+     "party": "GRN",
+     "pct": 0.0,
+     "choice_id": "Shehla Faizi (GRN)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0013",
+   "state": "TX",
+   "title": "Commissioner of the General Land Office",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Dawn Buckingham (REP)",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Dawn Buckingham (REP)",
+     "party_lines": null
+    },
+    {
+     "name": "Benjamin Flores (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Benjamin Flores (DEM)",
+     "party_lines": null
+    },
+    {
+     "name": "Neill Snider (LIB)",
+     "votes": 0,
+     "party": "LIB",
+     "pct": 0.0,
+     "choice_id": "Neill Snider (LIB)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0014",
+   "state": "TX",
+   "title": "Commissioner of Agriculture",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Nate Sheets (REP)",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Nate Sheets (REP)",
+     "party_lines": null
+    },
+    {
+     "name": "Clayton Tucker (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Clayton Tucker (DEM)",
+     "party_lines": null
+    },
+    {
+     "name": "Austin R. Kelly (LIB)",
+     "votes": 0,
+     "party": "LIB",
+     "pct": 0.0,
+     "choice_id": "Austin R. Kelly (LIB)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0015",
+   "state": "TX",
+   "title": "Railroad Commissioner",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Bo French (REP)",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Bo French (REP)",
+     "party_lines": null
+    },
+    {
+     "name": "Jon Rosenthal (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Jon Rosenthal (DEM)",
+     "party_lines": null
+    },
+    {
+     "name": "Arthur DiBianca (LIB)",
+     "votes": 0,
+     "party": "LIB",
+     "pct": 0.0,
+     "choice_id": "Arthur DiBianca (LIB)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0016",
+   "state": "TX",
+   "title": "Chief Justice, Supreme Court",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jimmy Blacklock (REP)",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Jimmy Blacklock (REP)",
+     "party_lines": null
+    },
+    {
+     "name": "Maggie Ellis (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Maggie Ellis (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0017",
+   "state": "TX",
+   "title": "Justice, Supreme Court, Place 2 - Unexpired Term",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "James P. Sullivan (REP)",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "James P. Sullivan (REP)",
+     "party_lines": null
+    },
+    {
+     "name": "Chari Kelly (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Chari Kelly (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0018",
+   "state": "TX",
+   "title": "Justice, Supreme Court, Place 7",
+   "office_type": "judicial",
+   "district": "7",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Kyle Hawkins (REP)",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Kyle Hawkins (REP)",
+     "party_lines": null
+    },
+    {
+     "name": "Kristen Hawkins (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Kristen Hawkins (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0019",
+   "state": "TX",
+   "title": "Justice, Supreme Court, Place 8",
+   "office_type": "judicial",
+   "district": "8",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Brett Busby (REP)",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Brett Busby (REP)",
+     "party_lines": null
+    },
+    {
+     "name": "Gisela D. Triana (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Gisela D. Triana (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0020",
+   "state": "TX",
+   "title": "Judge, Court of Criminal Appeals Place 3",
+   "office_type": "judicial",
+   "district": "3",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Thomas Smith (REP)",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Thomas Smith (REP)",
+     "party_lines": null
+    },
+    {
+     "name": "Okey Anyiam (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Okey Anyiam (DEM)",
+     "party_lines": null
+    },
+    {
+     "name": "Mark Ash (LIB)",
+     "votes": 0,
+     "party": "LIB",
+     "pct": 0.0,
+     "choice_id": "Mark Ash (LIB)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0021",
+   "state": "TX",
+   "title": "Judge, Court of Criminal Appeals Place 4",
+   "office_type": "judicial",
+   "district": "4",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Kevin Patrick Yeary (REP)",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Kevin Patrick Yeary (REP)",
+     "party_lines": null
+    },
+    {
+     "name": "Audra Riley (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Audra Riley (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0022",
+   "state": "TX",
+   "title": "Judge, Court of Criminal Appeals, Place 9",
+   "office_type": "judicial",
+   "district": "9",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "John Messinger (REP)",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "John Messinger (REP)",
+     "party_lines": null
+    },
+    {
+     "name": "Holly Taylor (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Holly Taylor (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0023",
+   "state": "TX",
+   "title": "Member, State Board of Education, District 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Mica Arellano (REP)",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Mica Arellano (REP)",
+     "party_lines": null
+    },
+    {
+     "name": "Allison Bush (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Allison Bush (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0024",
+   "state": "TX",
+   "title": "State Senator, District 21",
+   "office_type": "state_senate",
+   "district": "21",
+   "jurisdiction": "Travis County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 42,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Julie Dahlberg (REP)",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Julie Dahlberg (REP)",
+     "party_lines": null
+    },
+    {
+     "name": "Judith Zaffirini (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Judith Zaffirini (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0025",
+   "state": "TX",
+   "title": "State Representative, District 19",
+   "office_type": "state_house",
+   "district": "19",
+   "jurisdiction": "Travis County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 19,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Ellen Troxclair (REP)",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Ellen Troxclair (REP)",
+     "party_lines": null
+    },
+    {
+     "name": "Tom Luck (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Tom Luck (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0026",
+   "state": "TX",
+   "title": "State Representative, District 46",
+   "office_type": "state_house",
+   "district": "46",
+   "jurisdiction": "Travis County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 49,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Sheryl Cole (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Sheryl Cole (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0027",
+   "state": "TX",
+   "title": "State Representative, District 47",
+   "office_type": "state_house",
+   "district": "47",
+   "jurisdiction": "Travis County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 56,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jennifer Mushtaler (REP)",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Jennifer Mushtaler (REP)",
+     "party_lines": null
+    },
+    {
+     "name": "Pooja Sethi (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Pooja Sethi (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0028",
+   "state": "TX",
+   "title": "State Representative, District 48",
+   "office_type": "state_house",
+   "district": "48",
+   "jurisdiction": "Travis County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 54,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Anthony Gupta (REP)",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Anthony Gupta (REP)",
+     "party_lines": null
+    },
+    {
+     "name": "Donna Howard (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Donna Howard (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0029",
+   "state": "TX",
+   "title": "State Representative, District 49",
+   "office_type": "state_house",
+   "district": "49",
+   "jurisdiction": "Travis County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 45,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Montserrat Garibay (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Montserrat Garibay (DEM)",
+     "party_lines": null
+    },
+    {
+     "name": "Arshia Papari (GRN)",
+     "votes": 0,
+     "party": "GRN",
+     "pct": 0.0,
+     "choice_id": "Arshia Papari (GRN)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0030",
+   "state": "TX",
+   "title": "State Representative, District 50",
+   "office_type": "state_house",
+   "district": "50",
+   "jurisdiction": "Travis County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 45,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Howard Olsen (REP)",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Howard Olsen (REP)",
+     "party_lines": null
+    },
+    {
+     "name": "Samantha Lopez-Resendez (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Samantha Lopez-Resendez (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0031",
+   "state": "TX",
+   "title": "State Representative, District 51",
+   "office_type": "state_house",
+   "district": "51",
+   "jurisdiction": "Travis County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 40,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jessica Martinez (REP)",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Jessica Martinez (REP)",
+     "party_lines": null
+    },
+    {
+     "name": "Maria Luisa Lulu Flores (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Maria Luisa Lulu Flores (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0032",
+   "state": "TX",
+   "title": "Chief Justice, 15th Court of Appeals District",
+   "office_type": "judicial",
+   "district": "15",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Scott Brister (REP)",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Scott Brister (REP)",
+     "party_lines": null
+    },
+    {
+     "name": "Jerry Zimmerer (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Jerry Zimmerer (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0033",
+   "state": "TX",
+   "title": "Justice, 15th Court of Appeals District, Place 2",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Scott K. Field (REP)",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Scott K. Field (REP)",
+     "party_lines": null
+    },
+    {
+     "name": "Tom Baker (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Tom Baker (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0034",
+   "state": "TX",
+   "title": "Justice, 15th Court of Appeals District, Place 3",
+   "office_type": "judicial",
+   "district": "3",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "April Farris (REP)",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "April Farris (REP)",
+     "party_lines": null
+    },
+    {
+     "name": "Marc M. Meyer (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Marc M. Meyer (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0035",
+   "state": "TX",
+   "title": "Chief Justice, 3rd Court of Appeals District",
+   "office_type": "judicial",
+   "district": "3",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Cory Liu (REP)",
+     "votes": 0,
+     "party": "REP",
+     "pct": 0.0,
+     "choice_id": "Cory Liu (REP)",
+     "party_lines": null
+    },
+    {
+     "name": "Darlene Byrne (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Darlene Byrne (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0036",
+   "state": "TX",
+   "title": "District Judge, 147th Judicial District",
+   "office_type": "judicial",
+   "district": "147",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Cliff Brown (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Cliff Brown (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0037",
+   "state": "TX",
+   "title": "District Judge, 201st Judicial District",
+   "office_type": "judicial",
+   "district": "201",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Amy Clark Meachum (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Amy Clark Meachum (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0038",
+   "state": "TX",
+   "title": "District Judge, 250th Judicial District",
+   "office_type": "judicial",
+   "district": "250",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Kennon Lily Wooten (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Kennon Lily Wooten (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0039",
+   "state": "TX",
+   "title": "District Judge, 261st Judicial District",
+   "office_type": "judicial",
+   "district": "261",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Daniella Deseta Lyttle (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Daniella Deseta Lyttle (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0040",
+   "state": "TX",
+   "title": "District Judge, 299th Judicial District",
+   "office_type": "judicial",
+   "district": "299",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Karen R. Sage (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Karen R. Sage (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0041",
+   "state": "TX",
+   "title": "District Judge, 331st Judicial District",
+   "office_type": "judicial",
+   "district": "331",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Chantal Melissa Eldridge (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Chantal Melissa Eldridge (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0042",
+   "state": "TX",
+   "title": "District Judge, 403rd Judicial District",
+   "office_type": "judicial",
+   "district": "403",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Brandy Mueller (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Brandy Mueller (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0043",
+   "state": "TX",
+   "title": "District Judge, 419th Judicial District",
+   "office_type": "judicial",
+   "district": "419",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Catherine A. Mauzy (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Catherine A. Mauzy (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0044",
+   "state": "TX",
+   "title": "District Judge, 455th Judicial District",
+   "office_type": "judicial",
+   "district": "455",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Laurie Eiserloh (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Laurie Eiserloh (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0045",
+   "state": "TX",
+   "title": "District Judge, 459th Judicial District",
+   "office_type": "judicial",
+   "district": "459",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Maya Guerra Gamble (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Maya Guerra Gamble (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0046",
+   "state": "TX",
+   "title": "County Judge",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Andy Brown (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Andy Brown (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0047",
+   "state": "TX",
+   "title": "Judge, County Court at Law No. 1",
+   "office_type": "judicial",
+   "district": "1",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Todd Wong (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Todd Wong (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0048",
+   "state": "TX",
+   "title": "Judge, County Court at Law No. 2",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Leslie Dippel (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Leslie Dippel (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0049",
+   "state": "TX",
+   "title": "Judge, County Court at Law No. 3",
+   "office_type": "judicial",
+   "district": "3",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Bianca Garcia (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Bianca Garcia (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0050",
+   "state": "TX",
+   "title": "Judge, County Court at Law No. 4",
+   "office_type": "judicial",
+   "district": "4",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Dimple Malhotra (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Dimple Malhotra (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0051",
+   "state": "TX",
+   "title": "Judge, County Court at Law No. 5",
+   "office_type": "judicial",
+   "district": "5",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Mary Ann Espiritu (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Mary Ann Espiritu (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0052",
+   "state": "TX",
+   "title": "Judge, County Court at Law No. 6",
+   "office_type": "judicial",
+   "district": "6",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Denise Hernández (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Denise Hernández (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0053",
+   "state": "TX",
+   "title": "Judge, County Court at Law No. 7",
+   "office_type": "judicial",
+   "district": "7",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Elisabeth Earle (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Elisabeth Earle (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0054",
+   "state": "TX",
+   "title": "Judge, Probate Court No. 1",
+   "office_type": "judicial",
+   "district": "1",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Guy Herman (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Guy Herman (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0055",
+   "state": "TX",
+   "title": "District Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Velva L. Price (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Velva L. Price (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0056",
+   "state": "TX",
+   "title": "County Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Dyana Limon-Mercado (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Dyana Limon-Mercado (DEM)",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0057",
+   "state": "TX",
+   "title": "County Treasurer",
+   "office_type": "treasurer",
+   "district": null,
+   "jurisdiction": "Travis County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Dolores Ortega Carter (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Dolores Ortega Carter (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0058",
+   "state": "TX",
+   "title": "County Commissioner, Precinct 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 78,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Brigid Shea (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Brigid Shea (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0059",
+   "state": "TX",
+   "title": "County Commissioner, Precinct 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 67,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "George Morales III (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "George Morales III (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0060",
+   "state": "TX",
+   "title": "Justice of the Peace, Precinct 1",
+   "office_type": "judicial",
+   "district": "1",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 53,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Ciara Parks (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Ciara Parks (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0061",
+   "state": "TX",
+   "title": "Justice of the Peace, Precinct 2",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 89,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Mariel Kelley (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Mariel Kelley (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0062",
+   "state": "TX",
+   "title": "Justice of the Peace, Precinct 3",
+   "office_type": "judicial",
+   "district": "3",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 83,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Sylvia Holmes (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Sylvia Holmes (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0063",
+   "state": "TX",
+   "title": "Justice of the Peace, Precinct 4",
+   "office_type": "judicial",
+   "district": "4",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 40,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Raul Arturo Gonzalez (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Raul Arturo Gonzalez (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0064",
+   "state": "TX",
+   "title": "Justice of the Peace, Precinct 5",
+   "office_type": "judicial",
+   "district": "5",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 43,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Tanisa Jeffers (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Tanisa Jeffers (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0065",
+   "state": "TX",
+   "title": "County Constable, Precinct 4 - Unexpired Term",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 40,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Gabriel Padilla (DEM)",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Gabriel Padilla (DEM)",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0069",
+   "state": "TX",
+   "title": "City of Austin, City Council Member, District 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 37,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Steven Brown",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Steven Brown",
+     "party_lines": null
+    },
+    {
+     "name": "Alexandria Anderson",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Alexandria Anderson",
+     "party_lines": null
+    },
+    {
+     "name": "Amber K. Goodwin",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Amber K. Goodwin",
+     "party_lines": null
+    },
+    {
+     "name": "Michael Nahas",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Michael Nahas",
+     "party_lines": null
+    },
+    {
+     "name": "Portia Riggins",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Portia Riggins",
+     "party_lines": null
+    },
+    {
+     "name": "Misael Ramos",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Misael Ramos",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0070",
+   "state": "TX",
+   "title": "City of Austin, City Council Member, District 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 21,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Eduardo 'Lalito' Romero",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Eduardo 'Lalito' Romero",
+     "party_lines": null
+    },
+    {
+     "name": "Brock Skinner",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Brock Skinner",
+     "party_lines": null
+    },
+    {
+     "name": "José Velásquez",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "José Velásquez",
+     "party_lines": null
+    },
+    {
+     "name": "Gavin Fernandez Jr.",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Gavin Fernandez Jr.",
+     "party_lines": null
+    },
+    {
+     "name": "Neha Shah",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Neha Shah",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0071",
+   "state": "TX",
+   "title": "City of Austin, City Council Member, District 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 29,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Liz Brink",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Liz Brink",
+     "party_lines": null
+    },
+    {
+     "name": "David Weinberg",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "David Weinberg",
+     "party_lines": null
+    },
+    {
+     "name": "Ryan Alter",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Ryan Alter",
+     "party_lines": null
+    },
+    {
+     "name": "Farrah Abraham",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Farrah Abraham",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0072",
+   "state": "TX",
+   "title": "City of Austin, City Council Member, District 8",
+   "office_type": "local",
+   "district": "8",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 35,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jeffery Bowen",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Jeffery Bowen",
+     "party_lines": null
+    },
+    {
+     "name": "Selena Xie",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Selena Xie",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0073",
+   "state": "TX",
+   "title": "City of Austin, City Council Member, District 9",
+   "office_type": "local",
+   "district": "9",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 27,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Rich Heyman",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Rich Heyman",
+     "party_lines": null
+    },
+    {
+     "name": "Katie Kam",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Katie Kam",
+     "party_lines": null
+    },
+    {
+     "name": "Zohaib 'Zo' Qadri",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Zohaib 'Zo' Qadri",
+     "party_lines": null
+    },
+    {
+     "name": "Dave Thadani",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Dave Thadani",
+     "party_lines": null
+    },
+    {
+     "name": "Kai Huang",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Kai Huang",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0074",
+   "state": "TX",
+   "title": "City of Austin Proposition A - Full Purpose",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 243,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0075",
+   "state": "TX",
+   "title": "City of Austin Proposition B - Full Purpose",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 243,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0076",
+   "state": "TX",
+   "title": "City of Austin Proposition C - Full Purpose",
+   "office_type": "measure",
+   "district": "c",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 243,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0077",
+   "state": "TX",
+   "title": "City of Austin Proposition D - Full Purpose",
+   "office_type": "measure",
+   "district": "d",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 243,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0078",
+   "state": "TX",
+   "title": "City of Austin Proposition E - Full Purpose",
+   "office_type": "measure",
+   "district": "e",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 243,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0079",
+   "state": "TX",
+   "title": "City of Austin Proposition F - Full Purpose",
+   "office_type": "measure",
+   "district": "f",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 243,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0080",
+   "state": "TX",
+   "title": "City of Austin Proposition G - Full Purpose",
+   "office_type": "measure",
+   "district": "g",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 243,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0081",
+   "state": "TX",
+   "title": "City of Austin Proposition H - Full Purpose",
+   "office_type": "measure",
+   "district": "h",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 243,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0082",
+   "state": "TX",
+   "title": "City of Austin Proposition I - Full Purpose",
+   "office_type": "measure",
+   "district": "i",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 243,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0083",
+   "state": "TX",
+   "title": "City of Austin Proposition J - Full Purpose",
+   "office_type": "measure",
+   "district": "j",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 243,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0084",
+   "state": "TX",
+   "title": "City of Austin Proposition C - Limited Purpose",
+   "office_type": "measure",
+   "district": "c",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 55,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0085",
+   "state": "TX",
+   "title": "City of Austin Proposition D - Limited Purpose",
+   "office_type": "measure",
+   "district": "d",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 55,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0086",
+   "state": "TX",
+   "title": "City of Austin Proposition E - Limited Purpose",
+   "office_type": "measure",
+   "district": "e",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 55,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0087",
+   "state": "TX",
+   "title": "City of Austin Proposition F - Limited Purpose",
+   "office_type": "measure",
+   "district": "f",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 55,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0088",
+   "state": "TX",
+   "title": "City of Austin Proposition G - Limited Purpose",
+   "office_type": "measure",
+   "district": "g",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 55,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0089",
+   "state": "TX",
+   "title": "City of Austin Proposition H - Limited Purpose",
+   "office_type": "measure",
+   "district": "h",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 55,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0090",
+   "state": "TX",
+   "title": "City of Austin Proposition I - Limited Purpose",
+   "office_type": "measure",
+   "district": "i",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 55,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0091",
+   "state": "TX",
+   "title": "City of Austin Proposition J - Limited Purpose",
+   "office_type": "measure",
+   "district": "j",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 55,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0092",
+   "state": "TX",
+   "title": "City of Elgin Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0093",
+   "state": "TX",
+   "title": "City of Jonestown, City Council Member, Place 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Vincent Kuhn",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Vincent Kuhn",
+     "party_lines": null
+    },
+    {
+     "name": "Mark Holmstrom",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Mark Holmstrom",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0094",
+   "state": "TX",
+   "title": "City of Jonestown, City Council Member, Place 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Dave Nelsen",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Dave Nelsen",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0095",
+   "state": "TX",
+   "title": "City of Jonestown, City Council Member, Place 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Linda Bush",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Linda Bush",
+     "party_lines": null
+    },
+    {
+     "name": "Max Spadafore",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Max Spadafore",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0096",
+   "state": "TX",
+   "title": "City of Lago Vista, City Council Member, Place 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Adam Benefield",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Adam Benefield",
+     "party_lines": null
+    },
+    {
+     "name": "Arminae McDonald",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Arminae McDonald",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0097",
+   "state": "TX",
+   "title": "City of Lago Vista, City Council Member, Place 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Norma Owen",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Norma Owen",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0098",
+   "state": "TX",
+   "title": "City of Lago Vista, City Council Member, Place 6",
+   "office_type": "local",
+   "district": "6",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "David vonOhlerking III",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "David vonOhlerking III",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0099",
+   "state": "TX",
+   "title": "City of Manor, Council Member, Place 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Anne Weir",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Anne Weir",
+     "party_lines": null
+    },
+    {
+     "name": "Robert Edward Battaile",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Robert Edward Battaile",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0100",
+   "state": "TX",
+   "title": "City of Manor, Council Member, Place 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Sam Samaripa",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Sam Samaripa",
+     "party_lines": null
+    },
+    {
+     "name": "Sonia A. Wallace",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Sonia A. Wallace",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0101",
+   "state": "TX",
+   "title": "City of Manor, Council Member, Place 6",
+   "office_type": "local",
+   "district": "6",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Selena Chambers",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Selena Chambers",
+     "party_lines": null
+    },
+    {
+     "name": "Felix Paiz",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Felix Paiz",
+     "party_lines": null
+    },
+    {
+     "name": "Tracy Medearis",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Tracy Medearis",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0102",
+   "state": "TX",
+   "title": "City of Manor Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0103",
+   "state": "TX",
+   "title": "City of Manor Proposition B",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0104",
+   "state": "TX",
+   "title": "City of Manor Proposition C",
+   "office_type": "measure",
+   "district": "c",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0105",
+   "state": "TX",
+   "title": "City of Manor Proposition D",
+   "office_type": "measure",
+   "district": "d",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0106",
+   "state": "TX",
+   "title": "City of Pflugerville, Council Member, Place 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 24,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "David Rogers",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "David Rogers",
+     "party_lines": null
+    },
+    {
+     "name": "Ceasar Ruiz",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Ceasar Ruiz",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0107",
+   "state": "TX",
+   "title": "City of Pflugerville, Council Member, Place 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 24,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Trent Barlow",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Trent Barlow",
+     "party_lines": null
+    },
+    {
+     "name": "De Juana 'De J.' Lozada",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "De Juana 'De J.' Lozada",
+     "party_lines": null
+    },
+    {
+     "name": "Gregory Harrington",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Gregory Harrington",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0108",
+   "state": "TX",
+   "title": "City of Pflugerville, Council Member, Place 6",
+   "office_type": "local",
+   "district": "6",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 24,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Oscar Mitchell",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Oscar Mitchell",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0109",
+   "state": "TX",
+   "title": "City of Pflugerville Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 24,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0110",
+   "state": "TX",
+   "title": "City of Pflugerville Proposition B",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 24,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0111",
+   "state": "TX",
+   "title": "City of Pflugerville Proposition C",
+   "office_type": "measure",
+   "district": "c",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 24,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0112",
+   "state": "TX",
+   "title": "City of Pflugerville Proposition D",
+   "office_type": "measure",
+   "district": "d",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 24,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0113",
+   "state": "TX",
+   "title": "City of Pflugerville Proposition E",
+   "office_type": "measure",
+   "district": "e",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 24,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0114",
+   "state": "TX",
+   "title": "City of Pflugerville Proposition F",
+   "office_type": "measure",
+   "district": "f",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 24,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0115",
+   "state": "TX",
+   "title": "City of Pflugerville Proposition G",
+   "office_type": "measure",
+   "district": "g",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 24,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0116",
+   "state": "TX",
+   "title": "City of Pflugerville Proposition H",
+   "office_type": "measure",
+   "district": "h",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 24,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0117",
+   "state": "TX",
+   "title": "City of Pflugerville Proposition I",
+   "office_type": "measure",
+   "district": "i",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 24,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0118",
+   "state": "TX",
+   "title": "City of Pflugerville Proposition J",
+   "office_type": "measure",
+   "district": "j",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 24,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0119",
+   "state": "TX",
+   "title": "City of Pflugerville Proposition K",
+   "office_type": "measure",
+   "district": "k",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 24,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0120",
+   "state": "TX",
+   "title": "City of Pflugerville Proposition L",
+   "office_type": "measure",
+   "district": "l",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 24,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0121",
+   "state": "TX",
+   "title": "City of Pflugerville Proposition M",
+   "office_type": "measure",
+   "district": "m",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 24,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0122",
+   "state": "TX",
+   "title": "City of Pflugerville Proposition N",
+   "office_type": "measure",
+   "district": "n",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 24,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0123",
+   "state": "TX",
+   "title": "City of Sunset Valley, Mayor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Marc Bruner",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Marc Bruner",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0124",
+   "state": "TX",
+   "title": "City of Sunset Valley, Two City Council Member Seats",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Sarah Ponder",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Sarah Ponder",
+     "party_lines": null
+    },
+    {
+     "name": "Robert Johnson",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Robert Johnson",
+     "party_lines": null
+    },
+    {
+     "name": "Charles Young",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Charles Young",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0125",
+   "state": "TX",
+   "title": "City of Sunset Valley Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0126",
+   "state": "TX",
+   "title": "Village of Volente, Village Mayor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Tom Blauvelt",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Tom Blauvelt",
+     "party_lines": null
+    },
+    {
+     "name": "Mark Rook",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Mark Rook",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0127",
+   "state": "TX",
+   "title": "Village of Volente, Village Council",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Eric Peeters",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Eric Peeters",
+     "party_lines": null
+    },
+    {
+     "name": "Tony Ruff",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Tony Ruff",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0128",
+   "state": "TX",
+   "title": "ACC, Trustee, Place 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 275,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Dana Walker",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Dana Walker",
+     "party_lines": null
+    },
+    {
+     "name": "Gloria Gonzales-Dholakia",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Gloria Gonzales-Dholakia",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0129",
+   "state": "TX",
+   "title": "ACC, Trustee, Place 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 275,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Gigi Edwards Bryant",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Gigi Edwards Bryant",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0130",
+   "state": "TX",
+   "title": "ACC, Trustee, Place 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 275,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Trevor Hale",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Trevor Hale",
+     "party_lines": null
+    },
+    {
+     "name": "Nan McRaven",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Nan McRaven",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0131",
+   "state": "TX",
+   "title": "Austin Community College District Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 36,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0132",
+   "state": "TX",
+   "title": "Austin ISD Board of Trustees, District 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 28,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Cheryl Bradley",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Cheryl Bradley",
+     "party_lines": null
+    },
+    {
+     "name": "Candace L. Hunter",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Candace L. Hunter",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0133",
+   "state": "TX",
+   "title": "Austin ISD Board of Trustees, District 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 33,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Edward M. Bradfield",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Edward M. Bradfield",
+     "party_lines": null
+    },
+    {
+     "name": "Tricia Mitchell Kim",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Tricia Mitchell Kim",
+     "party_lines": null
+    },
+    {
+     "name": "Jessica Jessie Neufeld",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Jessica Jessie Neufeld",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0134",
+   "state": "TX",
+   "title": "Austin ISD Board of Trustees, District 6",
+   "office_type": "local",
+   "district": "6",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 31,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Sarah Dille",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Sarah Dille",
+     "party_lines": null
+    },
+    {
+     "name": "Alex San Martin",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Alex San Martin",
+     "party_lines": null
+    },
+    {
+     "name": "Marie Lebron",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Marie Lebron",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0135",
+   "state": "TX",
+   "title": "Austin ISD Board of Trustees, District 7",
+   "office_type": "local",
+   "district": "7",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 34,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jimmy Counihan",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Jimmy Counihan",
+     "party_lines": null
+    },
+    {
+     "name": "Laurie Solis",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Laurie Solis",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0136",
+   "state": "TX",
+   "title": "Austin ISD Board of Trustees, At-Large Position 9",
+   "office_type": "local",
+   "district": "9",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 190,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Cynthia Soliz",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Cynthia Soliz",
+     "party_lines": null
+    },
+    {
+     "name": "Kirk Becker",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Kirk Becker",
+     "party_lines": null
+    },
+    {
+     "name": "Pamela Mathai",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Pamela Mathai",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0137",
+   "state": "TX",
+   "title": "Coupland ISD Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0138",
+   "state": "TX",
+   "title": "Del Valle ISD Board of Trustees, Single Member District 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Charles Burton",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Charles Burton",
+     "party_lines": null
+    },
+    {
+     "name": "Claire Campos-O'Neal",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Claire Campos-O'Neal",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0139",
+   "state": "TX",
+   "title": "Del Valle ISD Board of Trustees, Single Member District 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 10,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jason Sierra",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Jason Sierra",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0140",
+   "state": "TX",
+   "title": "Del Valle ISD Board of Trustees, Single Member District 7",
+   "office_type": "local",
+   "district": "7",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Josh Castro",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Josh Castro",
+     "party_lines": null
+    },
+    {
+     "name": "Susanna Ledesma Woody",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Susanna Ledesma Woody",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0141",
+   "state": "TX",
+   "title": "Del Valle ISD Board of Trustees, Single Member District 8",
+   "office_type": "local",
+   "district": "8",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Robert 'Bobby' Hidrogo",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Robert 'Bobby' Hidrogo",
+     "party_lines": null
+    },
+    {
+     "name": "Darla Wegner",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Darla Wegner",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0142",
+   "state": "TX",
+   "title": "Del Valle ISD Board of Trustees, Single Member District 9",
+   "office_type": "local",
+   "district": "9",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 8,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Mike Randolph",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Mike Randolph",
+     "party_lines": null
+    },
+    {
+     "name": "Gloria Vera-Bedolla",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Gloria Vera-Bedolla",
+     "party_lines": null
+    },
+    {
+     "name": "Stephanie Arellano",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Stephanie Arellano",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0143",
+   "state": "TX",
+   "title": "Del Valle ISD Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 25,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0144",
+   "state": "TX",
+   "title": "Leander ISD Board of Trustees, Place 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 20,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Serenity Coats",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Serenity Coats",
+     "party_lines": null
+    },
+    {
+     "name": "Gerald Prater",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Gerald Prater",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0145",
+   "state": "TX",
+   "title": "Leander ISD Board of Trustees, Place 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 20,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Meg Dean",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Meg Dean",
+     "party_lines": null
+    },
+    {
+     "name": "Perla Muñoz Hopkins",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Perla Muñoz Hopkins",
+     "party_lines": null
+    },
+    {
+     "name": "Chitra Nedun",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Chitra Nedun",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0146",
+   "state": "TX",
+   "title": "Leander ISD Board of Trustees, Place 6",
+   "office_type": "local",
+   "district": "6",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 20,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Laura Marques",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Laura Marques",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0147",
+   "state": "TX",
+   "title": "Leander ISD Board of Trustees, Place 7",
+   "office_type": "local",
+   "district": "7",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 20,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jason Embry",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Jason Embry",
+     "party_lines": null
+    },
+    {
+     "name": "Paul Gauthier",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Paul Gauthier",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0148",
+   "state": "TX",
+   "title": "Leander ISD Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 20,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0149",
+   "state": "TX",
+   "title": "Manor ISD Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 24,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0150",
+   "state": "TX",
+   "title": "Manor ISD Proposition B",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 24,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0151",
+   "state": "TX",
+   "title": "Pflugerville ISD Board of Trustees, Place 6",
+   "office_type": "local",
+   "district": "6",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 44,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Nicole Toran",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Nicole Toran",
+     "party_lines": null
+    },
+    {
+     "name": "Jean Mayer",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Jean Mayer",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0152",
+   "state": "TX",
+   "title": "Pflugerville ISD Board of Trustees, Place 7",
+   "office_type": "local",
+   "district": "7",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 44,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Chevonne Lorigo-Johst",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Chevonne Lorigo-Johst",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0153",
+   "state": "TX",
+   "title": "Round Rock ISD Board of Trustees, Place 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 25,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Ayaan Moledina",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Ayaan Moledina",
+     "party_lines": null
+    },
+    {
+     "name": "Vera Southwell",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Vera Southwell",
+     "party_lines": null
+    },
+    {
+     "name": "Amber Feller Landrum",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Amber Feller Landrum",
+     "party_lines": null
+    },
+    {
+     "name": "Gregory Andrew",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Gregory Andrew",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0154",
+   "state": "TX",
+   "title": "Round Rock ISD Board of Trustees, Place 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 25,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Alicia Markum",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Alicia Markum",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0155",
+   "state": "TX",
+   "title": "Round Rock ISD Board of Trustees, Place 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 25,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Miriam Arora",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Miriam Arora",
+     "party_lines": null
+    },
+    {
+     "name": "Meghna Roy",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Meghna Roy",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0156",
+   "state": "TX",
+   "title": "Round Rock ISD Board of Trustees, Place 6",
+   "office_type": "local",
+   "district": "6",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 25,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Fabian Cuero",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Fabian Cuero",
+     "party_lines": null
+    },
+    {
+     "name": "Troy J. Evanovich",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Troy J. Evanovich",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0157",
+   "state": "TX",
+   "title": "Round Rock ISD Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 25,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0066",
+   "state": "TX",
+   "title": "Travis Central Appraisal District, Travis County, Board of Directors, Place 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Skyler A. Korgel",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Skyler A. Korgel",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0067",
+   "state": "TX",
+   "title": "Travis Central Appraisal District, Travis County, Board of Directors, Place 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Brian Peña",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Brian Peña",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0068",
+   "state": "TX",
+   "title": "Travis Central Appraisal District, Travis County, Board of Directors, Place 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 308,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yvonne Muñoz",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yvonne Muñoz",
+     "party_lines": null
+    },
+    {
+     "name": "Phil Gorman",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Phil Gorman",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0158",
+   "state": "TX",
+   "title": "Eastwood MUD Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0159",
+   "state": "TX",
+   "title": "Eastwood MUD Proposition B",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0160",
+   "state": "TX",
+   "title": "Eastwood MUD Proposition C",
+   "office_type": "measure",
+   "district": "c",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0161",
+   "state": "TX",
+   "title": "Eastwood MUD Proposition D",
+   "office_type": "measure",
+   "district": "d",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0162",
+   "state": "TX",
+   "title": "Eastwood MUD Proposition E",
+   "office_type": "measure",
+   "district": "e",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0163",
+   "state": "TX",
+   "title": "Eastwood MUD Proposition F",
+   "office_type": "measure",
+   "district": "f",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0164",
+   "state": "TX",
+   "title": "Eastwood MUD Proposition G",
+   "office_type": "measure",
+   "district": "g",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0165",
+   "state": "TX",
+   "title": "Eastwood MUD Permanent Directors",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 5,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Grant Ballew",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Grant Ballew",
+     "party_lines": null
+    },
+    {
+     "name": "John Berry",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "John Berry",
+     "party_lines": null
+    },
+    {
+     "name": "Carrington Saathoff",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Carrington Saathoff",
+     "party_lines": null
+    },
+    {
+     "name": "Ryan Sullivan",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Ryan Sullivan",
+     "party_lines": null
+    },
+    {
+     "name": "William Waller",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "William Waller",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0166",
+   "state": "TX",
+   "title": "Hero Way West MUD Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0167",
+   "state": "TX",
+   "title": "Hero Way West MUD Proposition B",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0168",
+   "state": "TX",
+   "title": "Hero Way West MUD Proposition C",
+   "office_type": "measure",
+   "district": "c",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0169",
+   "state": "TX",
+   "title": "Hidden Lakes MUD No. 1 Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0170",
+   "state": "TX",
+   "title": "Hidden Lakes MUD No. 1 Proposition B",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0171",
+   "state": "TX",
+   "title": "Hidden Lakes MUD No. 1 Proposition C",
+   "office_type": "measure",
+   "district": "c",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0172",
+   "state": "TX",
+   "title": "Hidden Lakes MUD No. 1 Proposition D",
+   "office_type": "measure",
+   "district": "d",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0173",
+   "state": "TX",
+   "title": "Hidden Lakes MUD No. 1 Proposition E",
+   "office_type": "measure",
+   "district": "e",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0174",
+   "state": "TX",
+   "title": "Hidden Lakes MUD No. 1 Proposition F",
+   "office_type": "measure",
+   "district": "f",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0175",
+   "state": "TX",
+   "title": "Hidden Lakes MUD No. 1 Proposition G",
+   "office_type": "measure",
+   "district": "g",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0176",
+   "state": "TX",
+   "title": "Hidden Lakes MUD No. 1 Proposition H",
+   "office_type": "measure",
+   "district": "h",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0177",
+   "state": "TX",
+   "title": "Hidden Lakes MUD No. 1 Proposition I",
+   "office_type": "measure",
+   "district": "i",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0178",
+   "state": "TX",
+   "title": "Hidden Lakes MUD No. 1 Proposition J",
+   "office_type": "measure",
+   "district": "j",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0179",
+   "state": "TX",
+   "title": "Hidden Lakes MUD No. 1, Board of Directors",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 5,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jeff Markey",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Jeff Markey",
+     "party_lines": null
+    },
+    {
+     "name": "Mariano Ravelo",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Mariano Ravelo",
+     "party_lines": null
+    },
+    {
+     "name": "Nicodemus Abowd",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Nicodemus Abowd",
+     "party_lines": null
+    },
+    {
+     "name": "Denis Fletcher",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Denis Fletcher",
+     "party_lines": null
+    },
+    {
+     "name": "Barry Marotz",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Barry Marotz",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0180",
+   "state": "TX",
+   "title": "Kennedy Hill MUD Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0181",
+   "state": "TX",
+   "title": "Kennedy Hill MUD Proposition B",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0182",
+   "state": "TX",
+   "title": "Kennedy Hill MUD Proposition C",
+   "office_type": "measure",
+   "district": "c",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0183",
+   "state": "TX",
+   "title": "Kennedy Hill MUD Proposition D",
+   "office_type": "measure",
+   "district": "d",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0184",
+   "state": "TX",
+   "title": "Kennedy Hill MUD Proposition E",
+   "office_type": "measure",
+   "district": "e",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0185",
+   "state": "TX",
+   "title": "Kennedy Hill MUD Proposition F",
+   "office_type": "measure",
+   "district": "f",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0186",
+   "state": "TX",
+   "title": "Kennedy Hill MUD Proposition G",
+   "office_type": "measure",
+   "district": "g",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0187",
+   "state": "TX",
+   "title": "Kennedy Hill MUD Permanent Directors",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 5,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jacob Clark",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Jacob Clark",
+     "party_lines": null
+    },
+    {
+     "name": "Ross Hamilton",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Ross Hamilton",
+     "party_lines": null
+    },
+    {
+     "name": "Daniel McElrath",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Daniel McElrath",
+     "party_lines": null
+    },
+    {
+     "name": "Chase Nixon",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Chase Nixon",
+     "party_lines": null
+    },
+    {
+     "name": "Dane Rymer",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Dane Rymer",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0188",
+   "state": "TX",
+   "title": "North Austin MUD No. 1 Director, Place 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Don Conklin",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Don Conklin",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0189",
+   "state": "TX",
+   "title": "North Austin MUD No. 1 Director, Place 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Diana Christiano",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Diana Christiano",
+     "party_lines": null
+    },
+    {
+     "name": "Jennifer Wiebe",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Jennifer Wiebe",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0190",
+   "state": "TX",
+   "title": "Northtown MUD Directors",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "R. Lee Hill",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "R. Lee Hill",
+     "party_lines": null
+    },
+    {
+     "name": "Chris Capers",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Chris Capers",
+     "party_lines": null
+    },
+    {
+     "name": "Scott Moser",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Scott Moser",
+     "party_lines": null
+    },
+    {
+     "name": "Brenda Vrabel",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Brenda Vrabel",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0191",
+   "state": "TX",
+   "title": "Sunfield MUD No. 2 Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0192",
+   "state": "TX",
+   "title": "Sunfield MUD No. 2 Proposition B",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0193",
+   "state": "TX",
+   "title": "Sunfield MUD No. 2 Proposition C",
+   "office_type": "measure",
+   "district": "c",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0194",
+   "state": "TX",
+   "title": "Sunfield MUD No. 2 Proposition D",
+   "office_type": "measure",
+   "district": "d",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0195",
+   "state": "TX",
+   "title": "Sunfield MUD No. 2 Proposition E",
+   "office_type": "measure",
+   "district": "e",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0196",
+   "state": "TX",
+   "title": "Sunfield MUD No. 2 Proposition F",
+   "office_type": "measure",
+   "district": "f",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0197",
+   "state": "TX",
+   "title": "Travis County MMD No. 1 Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0198",
+   "state": "TX",
+   "title": "Travis County MMD No. 1 Proposition B",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0199",
+   "state": "TX",
+   "title": "Travis County MMD No. 1 Proposition C",
+   "office_type": "measure",
+   "district": "c",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0200",
+   "state": "TX",
+   "title": "Travis County MMD No. 1 Proposition D",
+   "office_type": "measure",
+   "district": "d",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0201",
+   "state": "TX",
+   "title": "Travis County MMD No. 1 Proposition E",
+   "office_type": "measure",
+   "district": "e",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0202",
+   "state": "TX",
+   "title": "Travis County MMD No. 1 Proposition F",
+   "office_type": "measure",
+   "district": "f",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0203",
+   "state": "TX",
+   "title": "Travis County MMD No. 1 Permanent Directors",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 5,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Mickey Jamail",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Mickey Jamail",
+     "party_lines": null
+    },
+    {
+     "name": "Daniel Kavelman",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Daniel Kavelman",
+     "party_lines": null
+    },
+    {
+     "name": "Felicity Maxwell",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Felicity Maxwell",
+     "party_lines": null
+    },
+    {
+     "name": "Casey Paulson",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Casey Paulson",
+     "party_lines": null
+    },
+    {
+     "name": "Ryan Puzycki",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Ryan Puzycki",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0204",
+   "state": "TX",
+   "title": "Travis County MUD No. 41 Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0205",
+   "state": "TX",
+   "title": "Travis County MUD No. 41 Proposition B",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0206",
+   "state": "TX",
+   "title": "Travis County MUD No. 41 Proposition C",
+   "office_type": "measure",
+   "district": "c",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0207",
+   "state": "TX",
+   "title": "Travis County MUD No. 41 Proposition D",
+   "office_type": "measure",
+   "district": "d",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0208",
+   "state": "TX",
+   "title": "Travis County MUD No. 41 Proposition E",
+   "office_type": "measure",
+   "district": "e",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0209",
+   "state": "TX",
+   "title": "Travis County MUD No. 41 Proposition F",
+   "office_type": "measure",
+   "district": "f",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0210",
+   "state": "TX",
+   "title": "Travis County MUD No. 41 Permanent Directors",
+   "office_type": "local",
+   "district": "41",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 5,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Ashtyn Bogue",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Ashtyn Bogue",
+     "party_lines": null
+    },
+    {
+     "name": "Lyndsey Mylius",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Lyndsey Mylius",
+     "party_lines": null
+    },
+    {
+     "name": "Jason Nobbe",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Jason Nobbe",
+     "party_lines": null
+    },
+    {
+     "name": "Kelly Schill",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Kelly Schill",
+     "party_lines": null
+    },
+    {
+     "name": "Jared Williams",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Jared Williams",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0211",
+   "state": "TX",
+   "title": "Vista MUD of Travis County Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0212",
+   "state": "TX",
+   "title": "Vista MUD of Travis County Proposition B",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0213",
+   "state": "TX",
+   "title": "Williamson-Travis Counties MUD No. 1, Directors",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Hanoi Avila",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Hanoi Avila",
+     "party_lines": null
+    },
+    {
+     "name": "David Flores",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "David Flores",
+     "party_lines": null
+    },
+    {
+     "name": "Beth Jones",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Beth Jones",
+     "party_lines": null
+    },
+    {
+     "name": "Stephen Bodnarchuk Jr.",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Stephen Bodnarchuk Jr.",
+     "party_lines": null
+    },
+    {
+     "name": "Kimberly Massaro",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Kimberly Massaro",
+     "party_lines": null
+    },
+    {
+     "name": "Linda Fabre",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Linda Fabre",
+     "party_lines": null
+    },
+    {
+     "name": "Thomas Vacek",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Thomas Vacek",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0214",
+   "state": "TX",
+   "title": "Cypress Ranch WCID No. 1, Board of Directors, Three Places",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Rick Shute",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Rick Shute",
+     "party_lines": null
+    },
+    {
+     "name": "Jason Blair",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Jason Blair",
+     "party_lines": null
+    },
+    {
+     "name": "Richard Kenyon",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Richard Kenyon",
+     "party_lines": null
+    },
+    {
+     "name": "Travis Wright",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Travis Wright",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0215",
+   "state": "TX",
+   "title": "Travis County WCID No. 17 Directors",
+   "office_type": "local",
+   "district": "17",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 13,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Phil Han",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Phil Han",
+     "party_lines": null
+    },
+    {
+     "name": "Sonja DeLaFuente",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Sonja DeLaFuente",
+     "party_lines": null
+    },
+    {
+     "name": "Elicia Michaud",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Elicia Michaud",
+     "party_lines": null
+    },
+    {
+     "name": "Larry Harlan",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Larry Harlan",
+     "party_lines": null
+    },
+    {
+     "name": "Ryan Carretta",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Ryan Carretta",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0216",
+   "state": "TX",
+   "title": "Travis County ESD No. 4 Proposition A (Existing)",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 22,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0217",
+   "state": "TX",
+   "title": "Travis County ESD No. 4 Proposition A (To Be Annexed)",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0218",
+   "state": "TX",
+   "title": "Travis County ESD No. 9 Proposition A (Existing)",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 10,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0219",
+   "state": "TX",
+   "title": "Travis County ESD No. 9 Proposition B (Existing)",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 10,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0220",
+   "state": "TX",
+   "title": "Travis County ESD No. 9 Proposition A (To Be Annexed)",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0221",
+   "state": "TX",
+   "title": "Travis County ESD No. 9 Proposition B (To Be Annexed)",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0222",
+   "state": "TX",
+   "title": "Travis County ESD No. 10 Proposition A (Existing)",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0223",
+   "state": "TX",
+   "title": "Travis County ESD No. 10 Proposition B (Existing)",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0224",
+   "state": "TX",
+   "title": "Travis County ESD No. 10 Proposition A (To Be Annexed)",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0225",
+   "state": "TX",
+   "title": "Travis County ESD No. 10 Proposition B (To Be Annexed)",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  },
+  {
+   "source": "tx.travis",
+   "contest_id": "0226",
+   "state": "TX",
+   "title": "Wells Branch Community Library District Board of Trustees",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Travis County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Philip Waters",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Philip Waters",
+     "party_lines": null
+    },
+    {
+     "name": "Abigail Joffrain",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Abigail Joffrain",
+     "party_lines": null
+    },
+    {
+     "name": "Rudolf J. Valenti",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Rudolf J. Valenti",
+     "party_lines": null
+    },
+    {
+     "name": "Paul Wadehra",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Paul Wadehra",
+     "party_lines": null
+    },
+    {
+     "name": "Elizabeth Martin",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Elizabeth Martin",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Travis/127492/"
+  }
+ ],
+ "contests_hash": "b0c6a0e0d382d129",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-04T01:25:51+00:00",
+ "fetched_at": "2026-11-04T01:25:51+00:00",
+ "contests_changed_at": "2026-11-04T01:24:01+00:00"
 }

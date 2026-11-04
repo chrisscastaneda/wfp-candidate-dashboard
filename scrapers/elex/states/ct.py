@@ -6,6 +6,8 @@
   ng-app/data/election/<id>/<n>/stateVotes_Electiondata.json   -> statewide totals per office and candidate line
   ng-app/data/election/<id>/<n>/election_Electiondata.json     -> statewide precincts reporting
 
+Precincts reporting is only statewide, so district contests show it as a labeled statewide count, not a percentage.
+
 Connecticut has fusion voting: a candidate appears once per party line (Jahana Hayes on Democratic and Working
 Families). Lines are combined into one choice per candidate, with the per-line votes in `party_lines`.
 """
@@ -38,6 +40,13 @@ def _reporting(text: str | None) -> Reporting:
     return Reporting(names.to_int(m.group(1)), names.to_int(m.group(2)), text=text) if m else Reporting(text=text)
 
 
+def _district_reporting(reporting: Reporting) -> Reporting:
+    if not reporting.units_total:
+        return Reporting()
+    return Reporting(reporting.units_reporting, reporting.units_total, as_percent=False,
+                     text=f"Statewide, {reporting.units_reporting or 0:,} of {reporting.units_total:,} precincts reported")
+
+
 def parse(lookup: dict, votes: dict, election: dict) -> list[Contest]:
     offices = {k: v for entry in lookup["officeList"] for k, v in entry.items()}
     candidates, parties = lookup["candidateIds"], lookup["partyIds"]
@@ -59,10 +68,11 @@ def parse(lookup: dict, votes: dict, election: dict) -> list[Contest]:
                 n = names.to_int(tally.get("V"))
                 choice.votes += n
                 choice.party_lines[code or "?"] = choice.party_lines.get(code or "?", 0) + n
+        district = (office.get("D") or None) if office.get("D") not in ("", "0") else None
         contest = Contest(
-            source="ct", contest_id=office_id, state="CT", title=office["NM"], office_type=kind,
-            district=(office.get("D") or None) if office.get("D") not in ("", "0") else None,
-            jurisdiction="Connecticut", reporting=reporting, choices=list(by_name.values()))
+            source="ct", contest_id=office_id, state="CT", title=office["NM"], office_type=kind, district=district,
+            jurisdiction="Connecticut", reporting=_district_reporting(reporting) if district else reporting,
+            choices=list(by_name.values()))
         contest.fill_percentages()
         contests.append(contest)
     return contests

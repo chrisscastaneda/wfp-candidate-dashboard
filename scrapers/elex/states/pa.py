@@ -7,7 +7,8 @@ holds more JSON, so it's decoded twice. Calls, in order:
   GetOfficeNames?electionid&electiontype&isactive  -> offices on the ballot, plus the statewide reporting message
   GetOfficeData?officeId&methodName=GetOfficeDetails&... -> every district contest for one office
 
-Reporting is only published statewide ("41 Out of 9,066 Districts"), so every contest gets that figure.
+Reporting is only published statewide ("41 Out of 9,066 Districts"). Statewide offices get it as a percentage;
+district contests get it as a labeled statewide count, since it says nothing about any one district.
 """
 import json
 from datetime import datetime
@@ -48,8 +49,22 @@ def parse_offices(payload) -> tuple[list[dict], Reporting]:
     return offices, reporting
 
 
+_STATEWIDE = {"federal_senate", "governor", "lt_governor", "attorney_general", "auditor", "treasurer"}
+
+
+def _district_reporting(reporting: Reporting) -> Reporting:
+    if not reporting.units_total:
+        return Reporting()
+    text = f"Statewide, {reporting.units_reporting or 0:,} of {reporting.units_total:,} districts reported"
+    if "IN PERSON" in (reporting.text or "").upper():
+        text += " (in-person ballots only)"
+    return Reporting(reporting.units_reporting, reporting.units_total, text=text, as_percent=False)
+
+
 def parse_office(payload, office: dict, reporting: Reporting) -> list[Contest]:
     kind = _OFFICE_TYPES.get(office["OfficeCode"]) or names.office_type(office["OfficeName"])
+    if kind not in _STATEWIDE:
+        reporting = _district_reporting(reporting)
     contests = []
     # {"Representative in Congress": [{"1st Congressional District$$2$$": [{"District", "Candidates", ...}], ...}]}
     for office_name, groups in (_decode(payload).get("Election") or {}).items():

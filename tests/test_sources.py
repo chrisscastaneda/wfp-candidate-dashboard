@@ -34,6 +34,8 @@ def test_pennsylvania():
     assert any("Lee" in ch.name for ch in house12.choices)
     assert len([c for c in contests if c.office_type == "state_house"]) > 150
     assert house12.reporting.units_total == 9066
+    # A statewide count isn't a district's share, so district races show it as text, not a percentage.
+    assert house12.reporting.pct is None and house12.reporting.text.startswith("Statewide, ")
 
 
 def test_north_carolina_includes_county_races_once():

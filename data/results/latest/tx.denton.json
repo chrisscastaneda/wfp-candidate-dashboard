@@ -8,7 +8,7 @@
    "title": "United States Senator",
    "office_type": "federal_senate",
    "district": null,
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "partial",
    "vote_for": 1,
    "final": false,
@@ -23,26 +23,58 @@
    "choices": [
     {
      "name": "Ken Paxton",
-     "votes": 0,
+     "votes": 131505,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 44.831759451812,
      "choice_id": "Ken Paxton",
      "party_lines": null
     },
     {
      "name": "James Talarico",
-     "votes": 0,
+     "votes": 157339,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 53.6389049875567,
      "choice_id": "James Talarico",
      "party_lines": null
     },
     {
      "name": "Ted Brown",
-     "votes": 0,
+     "votes": 4309,
      "party": "LIB",
-     "pct": 0.0,
+     "pct": 1.46899396584052,
      "choice_id": "Ted Brown",
+     "party_lines": null
+    },
+    {
+     "name": "Avery Ayers",
+     "votes": 66,
+     "party": null,
+     "pct": 0.0225002556847237,
+     "choice_id": "Avery Ayers",
+     "party_lines": null
+    },
+    {
+     "name": "Bradford 'Brad' Hall",
+     "votes": 60,
+     "party": null,
+     "pct": 0.0204547778952034,
+     "choice_id": "Bradford 'Brad' Hall",
+     "party_lines": null
+    },
+    {
+     "name": "Jade Simmons",
+     "votes": 45,
+     "party": null,
+     "pct": 0.0153410834214025,
+     "choice_id": "Jade Simmons",
+     "party_lines": null
+    },
+    {
+     "name": "Zul Mohamed",
+     "votes": 6,
+     "party": null,
+     "pct": 0.00204547778952034,
+     "choice_id": "Zul Mohamed",
      "party_lines": null
     }
    ],
@@ -55,7 +87,7 @@
    "title": "United States Representative, District 4",
    "office_type": "federal_house",
    "district": "4",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "partial",
    "vote_for": 1,
    "final": false,
@@ -70,17 +102,17 @@
    "choices": [
     {
      "name": "Pat Fallon",
-     "votes": 0,
+     "votes": 9900,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 48.6247544204322,
      "choice_id": "Pat Fallon",
      "party_lines": null
     },
     {
      "name": "Jason Pearce",
-     "votes": 0,
+     "votes": 10460,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 51.3752455795678,
      "choice_id": "Jason Pearce",
      "party_lines": null
     }
@@ -94,7 +126,7 @@
    "title": "United States Representative, District 13",
    "office_type": "federal_house",
    "district": "13",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "partial",
    "vote_for": 1,
    "final": false,
@@ -109,17 +141,17 @@
    "choices": [
     {
      "name": "Ronny Jackson",
-     "votes": 0,
+     "votes": 13645,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 37.209238908129,
      "choice_id": "Ronny Jackson",
      "party_lines": null
     },
     {
      "name": "Mark Nair",
-     "votes": 0,
+     "votes": 23026,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 62.790761091871,
      "choice_id": "Mark Nair",
      "party_lines": null
     }
@@ -133,7 +165,7 @@
    "title": "United States Representative, District 26",
    "office_type": "federal_house",
    "district": "26",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "partial",
    "vote_for": 1,
    "final": false,
@@ -148,25 +180,25 @@
    "choices": [
     {
      "name": "Brandon Gill",
-     "votes": 0,
+     "votes": 117259,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 50.3958293936633,
      "choice_id": "Brandon Gill",
      "party_lines": null
     },
     {
      "name": "Steven Shook",
-     "votes": 0,
+     "votes": 112985,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 48.5589403290412,
      "choice_id": "Steven Shook",
      "party_lines": null
     },
     {
      "name": "Phil Gray",
-     "votes": 0,
+     "votes": 2432,
      "party": "LIB",
-     "pct": 0.0,
+     "pct": 1.04523027729547,
      "choice_id": "Phil Gray",
      "party_lines": null
     }
@@ -180,7 +212,7 @@
    "title": "Governor",
    "office_type": "governor",
    "district": null,
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "partial",
    "vote_for": 1,
    "final": false,
@@ -195,26 +227,58 @@
    "choices": [
     {
      "name": "Greg Abbott",
-     "votes": 0,
+     "votes": 140243,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 47.7418102964055,
      "choice_id": "Greg Abbott",
      "party_lines": null
     },
     {
      "name": "Gina Hinojosa",
-     "votes": 0,
+     "votes": 149791,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 50.9921600800673,
      "choice_id": "Gina Hinojosa",
      "party_lines": null
     },
     {
      "name": "Pat Dixon",
-     "votes": 0,
+     "votes": 3565,
      "party": "LIB",
-     "pct": 0.0,
+     "pct": 1.21360462701658,
      "choice_id": "Pat Dixon",
+     "party_lines": null
+    },
+    {
+     "name": "Edward Earl Giles",
+     "votes": 13,
+     "party": null,
+     "pct": 0.00442548671843351,
+     "choice_id": "Edward Earl Giles",
+     "party_lines": null
+    },
+    {
+     "name": "Jenn Mack",
+     "votes": 90,
+     "party": null,
+     "pct": 0.0306379849737705,
+     "choice_id": "Jenn Mack",
+     "party_lines": null
+    },
+    {
+     "name": "Jinghpaw Majoishingra",
+     "votes": 9,
+     "party": null,
+     "pct": 0.00306379849737705,
+     "choice_id": "Jinghpaw Majoishingra",
+     "party_lines": null
+    },
+    {
+     "name": "Mike Miller",
+     "votes": 42,
+     "party": null,
+     "pct": 0.0142977263210929,
+     "choice_id": "Mike Miller",
      "party_lines": null
     }
    ],
@@ -227,7 +291,7 @@
    "title": "Lieutenant Governor",
    "office_type": "lt_governor",
    "district": null,
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "partial",
    "vote_for": 1,
    "final": false,
@@ -242,34 +306,50 @@
    "choices": [
     {
      "name": "Dan Patrick",
-     "votes": 0,
+     "votes": 139164,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 47.5676784249385,
      "choice_id": "Dan Patrick",
      "party_lines": null
     },
     {
      "name": "Vikki Goodwin",
-     "votes": 0,
+     "votes": 147159,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 50.3004511894996,
      "choice_id": "Vikki Goodwin",
      "party_lines": null
     },
     {
      "name": "Anthony Cristo",
-     "votes": 0,
+     "votes": 4152,
      "party": "LIB",
-     "pct": 0.0,
+     "pct": 1.41919606234619,
      "choice_id": "Anthony Cristo",
      "party_lines": null
     },
     {
      "name": "Kevin McCormick",
-     "votes": 0,
+     "votes": 2019,
      "party": "GRN",
-     "pct": 0.0,
+     "pct": 0.690114848236259,
      "choice_id": "Kevin McCormick",
+     "party_lines": null
+    },
+    {
+     "name": "Arturo Espinosa",
+     "votes": 23,
+     "party": null,
+     "pct": 0.00786163522012579,
+     "choice_id": "Arturo Espinosa",
+     "party_lines": null
+    },
+    {
+     "name": "Stephen Samuelson",
+     "votes": 43,
+     "party": null,
+     "pct": 0.0146978397593656,
+     "choice_id": "Stephen Samuelson",
      "party_lines": null
     }
    ],
@@ -282,7 +362,7 @@
    "title": "Attorney General",
    "office_type": "attorney_general",
    "district": null,
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "partial",
    "vote_for": 1,
    "final": false,
@@ -297,25 +377,25 @@
    "choices": [
     {
      "name": "Mayes Middleton",
-     "votes": 0,
+     "votes": 139082,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 47.8560073771789,
      "choice_id": "Mayes Middleton",
      "party_lines": null
     },
     {
      "name": "Nathan Johnson",
-     "votes": 0,
+     "votes": 147795,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 50.8540185668178,
      "choice_id": "Nathan Johnson",
      "party_lines": null
     },
     {
      "name": "Tom Oxford",
-     "votes": 0,
+     "votes": 3749,
      "party": "LIB",
-     "pct": 0.0,
+     "pct": 1.28997405600325,
      "choice_id": "Tom Oxford",
      "party_lines": null
     }
@@ -329,7 +409,7 @@
    "title": "Comptroller of Public Accounts",
    "office_type": "controller",
    "district": null,
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "partial",
    "vote_for": 1,
    "final": false,
@@ -344,33 +424,33 @@
    "choices": [
     {
      "name": "Don Huffines",
-     "votes": 0,
+     "votes": 140957,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 48.4165367150522,
      "choice_id": "Don Huffines",
      "party_lines": null
     },
     {
      "name": "Sarah Eckhardt",
-     "votes": 0,
+     "votes": 144391,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 49.5960622943387,
      "choice_id": "Sarah Eckhardt",
      "party_lines": null
     },
     {
      "name": "V. Alonzo Echavarria-Garza",
-     "votes": 0,
+     "votes": 4093,
      "party": "LIB",
-     "pct": 0.0,
+     "pct": 1.40588182761203,
      "choice_id": "V. Alonzo Echavarria-Garza",
      "party_lines": null
     },
     {
      "name": "Shehla Faizi",
-     "votes": 0,
+     "votes": 1693,
      "party": "GRN",
-     "pct": 0.0,
+     "pct": 0.581519162997108,
      "choice_id": "Shehla Faizi",
      "party_lines": null
     }
@@ -384,7 +464,7 @@
    "title": "Commissioner of the General Land Office",
    "office_type": "local",
    "district": null,
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -399,25 +479,25 @@
    "choices": [
     {
      "name": "Dawn Buckingham",
-     "votes": 0,
+     "votes": 142396,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 49.1751534176656,
      "choice_id": "Dawn Buckingham",
      "party_lines": null
     },
     {
      "name": "Benjamin Flores",
-     "votes": 0,
+     "votes": 143085,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 49.4130932523854,
      "choice_id": "Benjamin Flores",
      "party_lines": null
     },
     {
      "name": "Neill Snider",
-     "votes": 0,
+     "votes": 4088,
      "party": "LIB",
-     "pct": 0.0,
+     "pct": 1.41175332994899,
      "choice_id": "Neill Snider",
      "party_lines": null
     }
@@ -431,7 +511,7 @@
    "title": "Commissioner of Agriculture",
    "office_type": "local",
    "district": null,
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -446,25 +526,25 @@
    "choices": [
     {
      "name": "Nate Sheets",
-     "votes": 0,
+     "votes": 141292,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 48.8213789624265,
      "choice_id": "Nate Sheets",
      "party_lines": null
     },
     {
      "name": "Clayton Tucker",
-     "votes": 0,
+     "votes": 143025,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 49.4201917030055,
      "choice_id": "Clayton Tucker",
      "party_lines": null
     },
     {
      "name": "Austin R. Kelly",
-     "votes": 0,
+     "votes": 5089,
      "party": "LIB",
-     "pct": 0.0,
+     "pct": 1.75842933456805,
      "choice_id": "Austin R. Kelly",
      "party_lines": null
     }
@@ -478,7 +558,7 @@
    "title": "Railroad Commissioner",
    "office_type": "local",
    "district": null,
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -493,25 +573,25 @@
    "choices": [
     {
      "name": "Bo French",
-     "votes": 0,
+     "votes": 137848,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 47.6405736996717,
      "choice_id": "Bo French",
      "party_lines": null
     },
     {
      "name": "Jon Rosenthal",
-     "votes": 0,
+     "votes": 146354,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 50.5802661137031,
      "choice_id": "Jon Rosenthal",
      "party_lines": null
     },
     {
      "name": "Arthur DiBianca",
-     "votes": 0,
+     "votes": 5148,
      "party": "LIB",
-     "pct": 0.0,
+     "pct": 1.77916018662519,
      "choice_id": "Arthur DiBianca",
      "party_lines": null
     }
@@ -525,7 +605,7 @@
    "title": "Chief Justice, Supreme Court",
    "office_type": "judicial",
    "district": null,
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -540,17 +620,17 @@
    "choices": [
     {
      "name": "Jimmy Blacklock",
-     "votes": 0,
+     "votes": 143226,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 49.4628112017074,
      "choice_id": "Jimmy Blacklock",
      "party_lines": null
     },
     {
      "name": "Maggie Ellis",
-     "votes": 0,
+     "votes": 146337,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 50.5371887982926,
      "choice_id": "Maggie Ellis",
      "party_lines": null
     }
@@ -564,7 +644,7 @@
    "title": "Justice, Supreme Court, Place 2, Unexpired Term",
    "office_type": "judicial",
    "district": "2",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -579,17 +659,17 @@
    "choices": [
     {
      "name": "James P. Sullivan",
-     "votes": 0,
+     "votes": 142673,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 49.5180877611298,
      "choice_id": "James P. Sullivan",
      "party_lines": null
     },
     {
      "name": "Chari Kelly",
-     "votes": 0,
+     "votes": 145450,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 50.4819122388702,
      "choice_id": "Chari Kelly",
      "party_lines": null
     }
@@ -603,7 +683,7 @@
    "title": "Justice, Supreme Court, Place 7",
    "office_type": "judicial",
    "district": "7",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -618,17 +698,17 @@
    "choices": [
     {
      "name": "Kyle Hawkins",
-     "votes": 0,
+     "votes": 141446,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 49.0597057374945,
      "choice_id": "Kyle Hawkins",
      "party_lines": null
     },
     {
      "name": "Kristen Hawkins",
-     "votes": 0,
+     "votes": 146868,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 50.9402942625055,
      "choice_id": "Kristen Hawkins",
      "party_lines": null
     }
@@ -642,7 +722,7 @@
    "title": "Justice, Supreme Court, Place 8",
    "office_type": "judicial",
    "district": "8",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -657,17 +737,17 @@
    "choices": [
     {
      "name": "Brett Busby",
-     "votes": 0,
+     "votes": 143675,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 49.7455162384876,
      "choice_id": "Brett Busby",
      "party_lines": null
     },
     {
      "name": "Gisela D. Triana",
-     "votes": 0,
+     "votes": 145145,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 50.2544837615124,
      "choice_id": "Gisela D. Triana",
      "party_lines": null
     }
@@ -681,7 +761,7 @@
    "title": "Judge, Court of Criminal Appeals, Place 3",
    "office_type": "judicial",
    "district": "3",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -696,25 +776,25 @@
    "choices": [
     {
      "name": "Thomas Smith",
-     "votes": 0,
+     "votes": 142703,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 49.669687856765,
      "choice_id": "Thomas Smith",
      "party_lines": null
     },
     {
      "name": "Okey Anyiam",
-     "votes": 0,
+     "votes": 138807,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 48.3136329462869,
      "choice_id": "Okey Anyiam",
      "party_lines": null
     },
     {
      "name": "Mark Ash",
-     "votes": 0,
+     "votes": 5794,
      "party": "LIB",
-     "pct": 0.0,
+     "pct": 2.01667919694818,
      "choice_id": "Mark Ash",
      "party_lines": null
     }
@@ -728,7 +808,7 @@
    "title": "Judge, Court of Criminal Appeals, Place 4",
    "office_type": "judicial",
    "district": "4",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -743,17 +823,17 @@
    "choices": [
     {
      "name": "Kevin Patrick Yeary",
-     "votes": 0,
+     "votes": 142878,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 49.8475386386631,
      "choice_id": "Kevin Patrick Yeary",
      "party_lines": null
     },
     {
      "name": "Audra Riley",
-     "votes": 0,
+     "votes": 143752,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 50.1524613613369,
      "choice_id": "Audra Riley",
      "party_lines": null
     }
@@ -767,7 +847,7 @@
    "title": "Judge, Court of Criminal Appeals, Place 9",
    "office_type": "judicial",
    "district": "9",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -782,17 +862,17 @@
    "choices": [
     {
      "name": "John Messinger",
-     "votes": 0,
+     "votes": 141609,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 49.5257580526702,
      "choice_id": "John Messinger",
      "party_lines": null
     },
     {
      "name": "Holly Taylor",
-     "votes": 0,
+     "votes": 144321,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 50.4742419473298,
      "choice_id": "Holly Taylor",
      "party_lines": null
     }
@@ -806,7 +886,7 @@
    "title": "Member, State Board of Education, District 14",
    "office_type": "local",
    "district": "14",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -821,17 +901,17 @@
    "choices": [
     {
      "name": "Mindy Bumgarner",
-     "votes": 0,
+     "votes": 123616,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 48.2709068757615,
      "choice_id": "Mindy Bumgarner",
      "party_lines": null
     },
     {
      "name": "Amy Taylor",
-     "votes": 0,
+     "votes": 132472,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 51.7290931242385,
      "choice_id": "Amy Taylor",
      "party_lines": null
     }
@@ -845,7 +925,7 @@
    "title": "State Representative, District 57",
    "office_type": "state_house",
    "district": "57",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "partial",
    "vote_for": 1,
    "final": false,
@@ -860,25 +940,25 @@
    "choices": [
     {
      "name": "Richard Hayes",
-     "votes": 0,
+     "votes": 29702,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 50.785671539711,
      "choice_id": "Richard Hayes",
      "party_lines": null
     },
     {
      "name": "Ray Stith",
-     "votes": 0,
+     "votes": 27562,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 47.1266136616226,
      "choice_id": "Ray Stith",
      "party_lines": null
     },
     {
      "name": "Darren Hamilton",
-     "votes": 0,
+     "votes": 1221,
      "party": "LIB",
-     "pct": 0.0,
+     "pct": 2.08771479866632,
      "choice_id": "Darren Hamilton",
      "party_lines": null
     }
@@ -892,7 +972,7 @@
    "title": "State Representative, District 63",
    "office_type": "state_house",
    "district": "63",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "partial",
    "vote_for": 1,
    "final": false,
@@ -907,17 +987,17 @@
    "choices": [
     {
      "name": "Ben Bumgarner",
-     "votes": 0,
+     "votes": 27938,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 47.4877617623062,
      "choice_id": "Ben Bumgarner",
      "party_lines": null
     },
     {
      "name": "Denise Wooten",
-     "votes": 0,
+     "votes": 30894,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 52.5122382376938,
      "choice_id": "Denise Wooten",
      "party_lines": null
     }
@@ -931,7 +1011,7 @@
    "title": "State Representative, District 64",
    "office_type": "state_house",
    "district": "64",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "partial",
    "vote_for": 1,
    "final": false,
@@ -946,17 +1026,17 @@
    "choices": [
     {
      "name": "Andy Hopper",
-     "votes": 0,
+     "votes": 15579,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 42.8937224669604,
      "choice_id": "Andy Hopper",
      "party_lines": null
     },
     {
      "name": "Julie Evans",
-     "votes": 0,
+     "votes": 20741,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 57.1062775330396,
      "choice_id": "Julie Evans",
      "party_lines": null
     }
@@ -970,7 +1050,7 @@
    "title": "State Representative, District 65",
    "office_type": "state_house",
    "district": "65",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "partial",
    "vote_for": 1,
    "final": false,
@@ -985,17 +1065,17 @@
    "choices": [
     {
      "name": "Mitch Little",
-     "votes": 0,
+     "votes": 37358,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 51.6822533340712,
      "choice_id": "Mitch Little",
      "party_lines": null
     },
     {
      "name": "Detrick DeBurr",
-     "votes": 0,
+     "votes": 34926,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 48.3177466659288,
      "choice_id": "Detrick DeBurr",
      "party_lines": null
     }
@@ -1009,7 +1089,7 @@
    "title": "State Representative, District 106",
    "office_type": "state_house",
    "district": "106",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "partial",
    "vote_for": 1,
    "final": false,
@@ -1024,17 +1104,17 @@
    "choices": [
     {
      "name": "Jared Patterson",
-     "votes": 0,
+     "votes": 30061,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 49.9792175835869,
      "choice_id": "Jared Patterson",
      "party_lines": null
     },
     {
      "name": "Joe Mayes",
-     "votes": 0,
+     "votes": 30086,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 50.0207824164131,
      "choice_id": "Joe Mayes",
      "party_lines": null
     }
@@ -1048,7 +1128,7 @@
    "title": "Chief Justice, 15th Court of Appeals District",
    "office_type": "judicial",
    "district": "15",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -1063,17 +1143,17 @@
    "choices": [
     {
      "name": "Scott Brister",
-     "votes": 0,
+     "votes": 142302,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 49.8228390566355,
      "choice_id": "Scott Brister",
      "party_lines": null
     },
     {
      "name": "Jerry Zimmerer",
-     "votes": 0,
+     "votes": 143314,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 50.1771609433645,
      "choice_id": "Jerry Zimmerer",
      "party_lines": null
     }
@@ -1087,7 +1167,7 @@
    "title": "Justice, 15th Court of Appeals District, Place 2",
    "office_type": "judicial",
    "district": "2",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -1102,17 +1182,17 @@
    "choices": [
     {
      "name": "Scott K. Field",
-     "votes": 0,
+     "votes": 141709,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 49.6717386808557,
      "choice_id": "Scott K. Field",
      "party_lines": null
     },
     {
      "name": "Tom Baker",
-     "votes": 0,
+     "votes": 143582,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 50.3282613191443,
      "choice_id": "Tom Baker",
      "party_lines": null
     }
@@ -1126,7 +1206,7 @@
    "title": "Justice, 15th Court of Appeals District, Place 3",
    "office_type": "judicial",
    "district": "3",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -1141,17 +1221,17 @@
    "choices": [
     {
      "name": "April Farris",
-     "votes": 0,
+     "votes": 143165,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 50.1928268414963,
      "choice_id": "April Farris",
      "party_lines": null
     },
     {
      "name": "Marc M. Meyer",
-     "votes": 0,
+     "votes": 142065,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 49.8071731585037,
      "choice_id": "Marc M. Meyer",
      "party_lines": null
     }
@@ -1165,7 +1245,7 @@
    "title": "Justice, 2nd Court of Appeals District, Place 2",
    "office_type": "judicial",
    "district": "2",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -1180,9 +1260,9 @@
    "choices": [
     {
      "name": "Chris Taylor",
-     "votes": 0,
+     "votes": 167061,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 100.0,
      "choice_id": "Chris Taylor",
      "party_lines": null
     }
@@ -1196,7 +1276,7 @@
    "title": "Justice, 2nd Court of Appeals District, Place 7",
    "office_type": "judicial",
    "district": "7",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -1211,9 +1291,9 @@
    "choices": [
     {
      "name": "Brian Walker",
-     "votes": 0,
+     "votes": 165115,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 100.0,
      "choice_id": "Brian Walker",
      "party_lines": null
     }
@@ -1227,7 +1307,7 @@
    "title": "District Judge, 158th Judicial District",
    "office_type": "judicial",
    "district": "158",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -1242,9 +1322,9 @@
    "choices": [
     {
      "name": "Steve Burgess",
-     "votes": 0,
+     "votes": 164865,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 100.0,
      "choice_id": "Steve Burgess",
      "party_lines": null
     }
@@ -1258,7 +1338,7 @@
    "title": "District Judge, 211th Judicial District",
    "office_type": "judicial",
    "district": "211",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -1273,9 +1353,9 @@
    "choices": [
     {
      "name": "Brody Shanklin",
-     "votes": 0,
+     "votes": 162551,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 100.0,
      "choice_id": "Brody Shanklin",
      "party_lines": null
     }
@@ -1289,7 +1369,7 @@
    "title": "District Judge, 367th Judicial District",
    "office_type": "judicial",
    "district": "367",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -1304,9 +1384,9 @@
    "choices": [
     {
      "name": "Brent Hill",
-     "votes": 0,
+     "votes": 161336,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 100.0,
      "choice_id": "Brent Hill",
      "party_lines": null
     }
@@ -1320,7 +1400,7 @@
    "title": "District Judge, 467th Judicial District",
    "office_type": "judicial",
    "district": "467",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -1335,9 +1415,9 @@
    "choices": [
     {
      "name": "Derbha Jones",
-     "votes": 0,
+     "votes": 161669,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 100.0,
      "choice_id": "Derbha Jones",
      "party_lines": null
     }
@@ -1351,7 +1431,7 @@
    "title": "District Judge, 477th Judicial District",
    "office_type": "judicial",
    "district": "477",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -1366,9 +1446,9 @@
    "choices": [
     {
      "name": "Michael Dickens",
-     "votes": 0,
+     "votes": 160659,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 100.0,
      "choice_id": "Michael Dickens",
      "party_lines": null
     }
@@ -1382,7 +1462,7 @@
    "title": "District Judge, 481st Judicial District",
    "office_type": "judicial",
    "district": "481",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -1397,17 +1477,17 @@
    "choices": [
     {
      "name": "Crystal Edmonson Levonius",
-     "votes": 0,
+     "votes": 139787,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 50.1906560579077,
      "choice_id": "Crystal Edmonson Levonius",
      "party_lines": null
     },
     {
      "name": "Seth Fuller",
-     "votes": 0,
+     "votes": 138725,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 49.8093439420923,
      "choice_id": "Seth Fuller",
      "party_lines": null
     }
@@ -1421,7 +1501,7 @@
    "title": "Criminal District Attorney Denton County",
    "office_type": "local",
    "district": null,
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -1436,9 +1516,9 @@
    "choices": [
     {
      "name": "Paul Johnson",
-     "votes": 0,
+     "votes": 158903,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 100.0,
      "choice_id": "Paul Johnson",
      "party_lines": null
     }
@@ -1452,7 +1532,7 @@
    "title": "County Judge",
    "office_type": "judicial",
    "district": null,
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -1467,17 +1547,17 @@
    "choices": [
     {
      "name": "Andy Eads",
-     "votes": 0,
+     "votes": 141522,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 50.3062338040886,
      "choice_id": "Andy Eads",
      "party_lines": null
     },
     {
      "name": "Nick Pappas",
-     "votes": 0,
+     "votes": 139799,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 49.6937661959114,
      "choice_id": "Nick Pappas",
      "party_lines": null
     }
@@ -1491,7 +1571,7 @@
    "title": "Judge, County Court at Law No. 1",
    "office_type": "judicial",
    "district": "1",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -1506,9 +1586,9 @@
    "choices": [
     {
      "name": "Kimberly McCary",
-     "votes": 0,
+     "votes": 161521,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 100.0,
      "choice_id": "Kimberly McCary",
      "party_lines": null
     }
@@ -1522,7 +1602,7 @@
    "title": "Judge, County Court at Law No. 2",
    "office_type": "judicial",
    "district": "2",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -1537,9 +1617,9 @@
    "choices": [
     {
      "name": "Robert Ramirez",
-     "votes": 0,
+     "votes": 161159,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 100.0,
      "choice_id": "Robert Ramirez",
      "party_lines": null
     }
@@ -1553,7 +1633,7 @@
    "title": "Judge, County Criminal Court at Law No. 1",
    "office_type": "judicial",
    "district": "1",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -1568,9 +1648,9 @@
    "choices": [
     {
      "name": "Lauri Ragland",
-     "votes": 0,
+     "votes": 160825,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 100.0,
      "choice_id": "Lauri Ragland",
      "party_lines": null
     }
@@ -1584,7 +1664,7 @@
    "title": "Judge, County Criminal Court at Law No. 2",
    "office_type": "judicial",
    "district": "2",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -1599,9 +1679,9 @@
    "choices": [
     {
      "name": "Susan Piel",
-     "votes": 0,
+     "votes": 161072,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 100.0,
      "choice_id": "Susan Piel",
      "party_lines": null
     }
@@ -1615,7 +1695,7 @@
    "title": "Judge, County Criminal Court at Law No. 3",
    "office_type": "judicial",
    "district": "3",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -1630,9 +1710,9 @@
    "choices": [
     {
      "name": "Forrest C. Beadle",
-     "votes": 0,
+     "votes": 160556,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 100.0,
      "choice_id": "Forrest C. Beadle",
      "party_lines": null
     }
@@ -1646,7 +1726,7 @@
    "title": "Judge, County Criminal Court at Law No. 4",
    "office_type": "judicial",
    "district": "4",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -1661,9 +1741,9 @@
    "choices": [
     {
      "name": "Chance Oliver",
-     "votes": 0,
+     "votes": 160990,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 100.0,
      "choice_id": "Chance Oliver",
      "party_lines": null
     }
@@ -1677,7 +1757,7 @@
    "title": "Judge, County Criminal Court at Law No. 5",
    "office_type": "judicial",
    "district": "5",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -1692,9 +1772,9 @@
    "choices": [
     {
      "name": "Coby Waddill",
-     "votes": 0,
+     "votes": 160903,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 100.0,
      "choice_id": "Coby Waddill",
      "party_lines": null
     }
@@ -1708,7 +1788,7 @@
    "title": "Judge, County Probate Court No. 1",
    "office_type": "judicial",
    "district": "1",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -1723,9 +1803,9 @@
    "choices": [
     {
      "name": "David Jahn",
-     "votes": 0,
+     "votes": 161457,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 100.0,
      "choice_id": "David Jahn",
      "party_lines": null
     }
@@ -1739,7 +1819,7 @@
    "title": "Judge, County Probate Court No. 2",
    "office_type": "judicial",
    "district": "2",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -1754,9 +1834,9 @@
    "choices": [
     {
      "name": "Christopher J. Everett",
-     "votes": 0,
+     "votes": 161208,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 100.0,
      "choice_id": "Christopher J. Everett",
      "party_lines": null
     }
@@ -1770,7 +1850,7 @@
    "title": "District Clerk",
    "office_type": "local",
    "district": null,
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -1785,9 +1865,9 @@
    "choices": [
     {
      "name": "David Trantham",
-     "votes": 0,
+     "votes": 160737,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 100.0,
      "choice_id": "David Trantham",
      "party_lines": null
     }
@@ -1801,7 +1881,7 @@
    "title": "County Clerk",
    "office_type": "local",
    "district": null,
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -1816,17 +1896,17 @@
    "choices": [
     {
      "name": "Juli Luke",
-     "votes": 0,
+     "votes": 142959,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 50.7105054059423,
      "choice_id": "Juli Luke",
      "party_lines": null
     },
     {
      "name": "Dale Frey",
-     "votes": 0,
+     "votes": 138953,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 49.2894945940577,
      "choice_id": "Dale Frey",
      "party_lines": null
     }
@@ -1840,7 +1920,7 @@
    "title": "County Treasurer",
    "office_type": "treasurer",
    "district": null,
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "partial",
    "vote_for": 1,
    "final": false,
@@ -1855,9 +1935,9 @@
    "choices": [
     {
      "name": "Cindy Yeatts Brown",
-     "votes": 0,
+     "votes": 159185,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 100.0,
      "choice_id": "Cindy Yeatts Brown",
      "party_lines": null
     }
@@ -1871,7 +1951,7 @@
    "title": "County Commissioner, Precinct No. 2",
    "office_type": "local",
    "district": "2",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -1886,17 +1966,17 @@
    "choices": [
     {
      "name": "Kevin Falconer",
-     "votes": 0,
+     "votes": 31858,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 46.6278320941397,
      "choice_id": "Kevin Falconer",
      "party_lines": null
     },
     {
      "name": "Candace Valenzuela",
-     "votes": 0,
+     "votes": 36466,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 53.3721679058603,
      "choice_id": "Candace Valenzuela",
      "party_lines": null
     }
@@ -1910,7 +1990,7 @@
    "title": "County Commissioner, Precinct No. 4",
    "office_type": "local",
    "district": "4",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -1925,17 +2005,17 @@
    "choices": [
     {
      "name": "David Wylie",
-     "votes": 0,
+     "votes": 42921,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 57.1891114042451,
      "choice_id": "David Wylie",
      "party_lines": null
     },
     {
      "name": "Stephanie Draper",
-     "votes": 0,
+     "votes": 32130,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 42.8108885957549,
      "choice_id": "Stephanie Draper",
      "party_lines": null
     }
@@ -1949,7 +2029,7 @@
    "title": "Justice of the Peace, Precinct No. 1",
    "office_type": "judicial",
    "district": "1",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -1964,17 +2044,17 @@
    "choices": [
     {
      "name": "Alan Wheeler",
-     "votes": 0,
+     "votes": 18496,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 48.7326763977446,
      "choice_id": "Alan Wheeler",
      "party_lines": null
     },
     {
      "name": "Brandon Chase McGee",
-     "votes": 0,
+     "votes": 19458,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 51.2673236022554,
      "choice_id": "Brandon Chase McGee",
      "party_lines": null
     }
@@ -1988,7 +2068,7 @@
    "title": "Justice of the Peace, Precinct No. 2",
    "office_type": "judicial",
    "district": "2",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -2003,17 +2083,17 @@
    "choices": [
     {
      "name": "Chris Pochyla",
-     "votes": 0,
+     "votes": 19598,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 45.8604389947115,
      "choice_id": "Chris Pochyla",
      "party_lines": null
     },
     {
      "name": "Katrina D. Moore",
-     "votes": 0,
+     "votes": 23136,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 54.1395610052885,
      "choice_id": "Katrina D. Moore",
      "party_lines": null
     }
@@ -2027,7 +2107,7 @@
    "title": "Justice of the Peace, Precinct No. 3",
    "office_type": "judicial",
    "district": "3",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -2042,17 +2122,17 @@
    "choices": [
     {
      "name": "James Kerbow",
-     "votes": 0,
+     "votes": 16131,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 46.7524563081471,
      "choice_id": "James Kerbow",
      "party_lines": null
     },
     {
      "name": "Trista Willeford",
-     "votes": 0,
+     "votes": 18372,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 53.2475436918529,
      "choice_id": "Trista Willeford",
      "party_lines": null
     }
@@ -2066,7 +2146,7 @@
    "title": "Justice of the Peace, Precinct No. 4",
    "office_type": "judicial",
    "district": "4",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -2081,17 +2161,17 @@
    "choices": [
     {
      "name": "Harris Hughey",
-     "votes": 0,
+     "votes": 44089,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 59.1314494172557,
      "choice_id": "Harris Hughey",
      "party_lines": null
     },
     {
      "name": "Will Robertson",
-     "votes": 0,
+     "votes": 30472,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 40.8685505827443,
      "choice_id": "Will Robertson",
      "party_lines": null
     }
@@ -2105,7 +2185,7 @@
    "title": "Justice of the Peace, Precinct No. 5",
    "office_type": "judicial",
    "district": "5",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -2120,17 +2200,17 @@
    "choices": [
     {
      "name": "Vince Handler",
-     "votes": 0,
+     "votes": 27203,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 50.081926468693,
      "choice_id": "Vince Handler",
      "party_lines": null
     },
     {
      "name": "Patrece Perry",
-     "votes": 0,
+     "votes": 27114,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 49.918073531307,
      "choice_id": "Patrece Perry",
      "party_lines": null
     }
@@ -2144,7 +2224,7 @@
    "title": "Justice of the Peace, Precinct No. 6",
    "office_type": "judicial",
    "district": "6",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -2159,17 +2239,17 @@
    "choices": [
     {
      "name": "Blanca Oliver",
-     "votes": 0,
+     "votes": 16849,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 42.4493600725587,
      "choice_id": "Blanca Oliver",
      "party_lines": null
     },
     {
      "name": "Michelle Butler",
-     "votes": 0,
+     "votes": 22843,
      "party": "DEM",
-     "pct": 0.0,
+     "pct": 57.5506399274413,
      "choice_id": "Michelle Butler",
      "party_lines": null
     }
@@ -2183,7 +2263,7 @@
    "title": "Constable, Precinct No. 1 (Unexpired Term)",
    "office_type": "local",
    "district": "1",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -2198,9 +2278,9 @@
    "choices": [
     {
      "name": "Trevor Krueger",
-     "votes": 0,
+     "votes": 21132,
      "party": "REP",
-     "pct": 0.0,
+     "pct": 100.0,
      "choice_id": "Trevor Krueger",
      "party_lines": null
     }
@@ -2214,7 +2294,7 @@
    "title": "Denton Central Appraisal District Board of Directors - Place 1",
    "office_type": "local",
    "district": "1",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -2229,9 +2309,9 @@
    "choices": [
     {
      "name": "Angie Cox",
-     "votes": 0,
+     "votes": 159551,
      "party": null,
-     "pct": 0.0,
+     "pct": 100.0,
      "choice_id": "Angie Cox",
      "party_lines": null
     }
@@ -2245,7 +2325,7 @@
    "title": "Denton Central Appraisal District Board of Directors - Place 2",
    "office_type": "local",
    "district": "2",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -2260,9 +2340,9 @@
    "choices": [
     {
      "name": "Curtiss Welker",
-     "votes": 0,
+     "votes": 154588,
      "party": null,
-     "pct": 0.0,
+     "pct": 100.0,
      "choice_id": "Curtiss Welker",
      "party_lines": null
     }
@@ -2276,7 +2356,7 @@
    "title": "Denton Central Appraisal District Board of Directors - Place 3",
    "office_type": "local",
    "district": "3",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -2291,17 +2371,17 @@
    "choices": [
     {
      "name": "Rick Guzman",
-     "votes": 0,
+     "votes": 146867,
      "party": null,
-     "pct": 0.0,
+     "pct": 73.767297019011,
      "choice_id": "Rick Guzman",
      "party_lines": null
     },
     {
      "name": "Edwin Irungu",
-     "votes": 0,
+     "votes": 52228,
      "party": null,
-     "pct": 0.0,
+     "pct": 26.232702980989,
      "choice_id": "Edwin Irungu",
      "party_lines": null
     }
@@ -2315,7 +2395,7 @@
    "title": "Town of Bartonville Proposition A",
    "office_type": "measure",
    "district": "a",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -2330,17 +2410,17 @@
    "choices": [
     {
      "name": "Yes",
-     "votes": 0,
+     "votes": 621,
      "party": null,
-     "pct": 0.0,
+     "pct": 82.6897470039947,
      "choice_id": "Yes",
      "party_lines": null
     },
     {
      "name": "No",
-     "votes": 0,
+     "votes": 130,
      "party": null,
-     "pct": 0.0,
+     "pct": 17.3102529960053,
      "choice_id": "No",
      "party_lines": null
     }
@@ -2354,7 +2434,7 @@
    "title": "CITY OF DALLAS PROPOSITION A",
    "office_type": "measure",
    "district": "a",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -2369,17 +2449,17 @@
    "choices": [
     {
      "name": "Yes",
-     "votes": 0,
+     "votes": 1388,
      "party": null,
-     "pct": 0.0,
+     "pct": 38.8034665921163,
      "choice_id": "Yes",
      "party_lines": null
     },
     {
      "name": "No",
-     "votes": 0,
+     "votes": 2189,
      "party": null,
-     "pct": 0.0,
+     "pct": 61.1965334078837,
      "choice_id": "No",
      "party_lines": null
     }
@@ -2393,7 +2473,7 @@
    "title": "Town of Double Oak Proposition A",
    "office_type": "measure",
    "district": "a",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -2408,17 +2488,17 @@
    "choices": [
     {
      "name": "Yes",
-     "votes": 0,
+     "votes": 697,
      "party": null,
-     "pct": 0.0,
+     "pct": 44.7368421052632,
      "choice_id": "Yes",
      "party_lines": null
     },
     {
      "name": "No",
-     "votes": 0,
+     "votes": 861,
      "party": null,
-     "pct": 0.0,
+     "pct": 55.2631578947368,
      "choice_id": "No",
      "party_lines": null
     }
@@ -2432,7 +2512,7 @@
    "title": "Town of Flower Mound Proposition A",
    "office_type": "measure",
    "district": "a",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -2447,17 +2527,17 @@
    "choices": [
     {
      "name": "Yes",
-     "votes": 0,
+     "votes": 20047,
      "party": null,
-     "pct": 0.0,
+     "pct": 76.5854217603912,
      "choice_id": "Yes",
      "party_lines": null
     },
     {
      "name": "No",
-     "votes": 0,
+     "votes": 6129,
      "party": null,
-     "pct": 0.0,
+     "pct": 23.4145782396088,
      "choice_id": "No",
      "party_lines": null
     }
@@ -2471,7 +2551,7 @@
    "title": "Town of Hickory Creek Proposition A",
    "office_type": "measure",
    "district": "a",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -2486,17 +2566,17 @@
    "choices": [
     {
      "name": "Yes",
-     "votes": 0,
+     "votes": 1000,
      "party": null,
-     "pct": 0.0,
+     "pct": 42.7350427350427,
      "choice_id": "Yes",
      "party_lines": null
     },
     {
      "name": "No",
-     "votes": 0,
+     "votes": 1340,
      "party": null,
-     "pct": 0.0,
+     "pct": 57.2649572649573,
      "choice_id": "No",
      "party_lines": null
     }
@@ -2510,7 +2590,7 @@
    "title": "City of Justin Proposition A",
    "office_type": "measure",
    "district": "a",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -2525,17 +2605,17 @@
    "choices": [
     {
      "name": "Yes",
-     "votes": 0,
+     "votes": 1920,
      "party": null,
-     "pct": 0.0,
+     "pct": 72.261949567181,
      "choice_id": "Yes",
      "party_lines": null
     },
     {
      "name": "No",
-     "votes": 0,
+     "votes": 737,
      "party": null,
-     "pct": 0.0,
+     "pct": 27.738050432819,
      "choice_id": "No",
      "party_lines": null
     }
@@ -2549,7 +2629,7 @@
    "title": "City of Lake Dallas Proposition A",
    "office_type": "measure",
    "district": "a",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -2564,17 +2644,17 @@
    "choices": [
     {
      "name": "Yes",
-     "votes": 0,
+     "votes": 1385,
      "party": null,
-     "pct": 0.0,
+     "pct": 77.3310999441653,
      "choice_id": "Yes",
      "party_lines": null
     },
     {
      "name": "No",
-     "votes": 0,
+     "votes": 406,
      "party": null,
-     "pct": 0.0,
+     "pct": 22.6689000558347,
      "choice_id": "No",
      "party_lines": null
     }
@@ -2588,7 +2668,7 @@
    "title": "CITY OF PLANO PROPOSITION A: THIS IS A TAX INCREASE",
    "office_type": "measure",
    "district": "a",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -2603,17 +2683,17 @@
    "choices": [
     {
      "name": "Yes",
-     "votes": 0,
+     "votes": 1227,
      "party": null,
-     "pct": 0.0,
+     "pct": 52.480752780154,
      "choice_id": "Yes",
      "party_lines": null
     },
     {
      "name": "No",
-     "votes": 0,
+     "votes": 1111,
      "party": null,
-     "pct": 0.0,
+     "pct": 47.519247219846,
      "choice_id": "No",
      "party_lines": null
     }
@@ -2627,7 +2707,7 @@
    "title": "City of Denton Councilmember, District 1 (Unexpired Term)",
    "office_type": "local",
    "district": "1",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -2642,33 +2722,33 @@
    "choices": [
     {
      "name": "Ward Franz",
-     "votes": 0,
+     "votes": 751,
      "party": null,
-     "pct": 0.0,
+     "pct": 18.0268843014882,
      "choice_id": "Ward Franz",
      "party_lines": null
     },
     {
      "name": "Sunny Busby",
-     "votes": 0,
+     "votes": 1777,
      "party": null,
-     "pct": 0.0,
+     "pct": 42.6548247719635,
      "choice_id": "Sunny Busby",
      "party_lines": null
     },
     {
      "name": "Michael Herron",
-     "votes": 0,
+     "votes": 855,
      "party": null,
-     "pct": 0.0,
+     "pct": 20.5232837253961,
      "choice_id": "Michael Herron",
      "party_lines": null
     },
     {
      "name": "Kris Cox",
-     "votes": 0,
+     "votes": 783,
      "party": null,
-     "pct": 0.0,
+     "pct": 18.7950072011522,
      "choice_id": "Kris Cox",
      "party_lines": null
     }
@@ -2682,7 +2762,7 @@
    "title": "City of The Colony Place 3",
    "office_type": "local",
    "district": "3",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -2697,17 +2777,17 @@
    "choices": [
     {
      "name": "Brian R. Wade",
-     "votes": 0,
+     "votes": 1688,
      "party": null,
-     "pct": 0.0,
+     "pct": 70.4507512520868,
      "choice_id": "Brian R. Wade",
      "party_lines": null
     },
     {
      "name": "Eldon J. Pipes",
-     "votes": 0,
+     "votes": 708,
      "party": null,
-     "pct": 0.0,
+     "pct": 29.5492487479132,
      "choice_id": "Eldon J. Pipes",
      "party_lines": null
     }
@@ -2721,7 +2801,7 @@
    "title": "City of The Colony Place 4",
    "office_type": "local",
    "district": "4",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -2736,25 +2816,25 @@
    "choices": [
     {
      "name": "Dan McNew",
-     "votes": 0,
+     "votes": 1084,
      "party": null,
-     "pct": 0.0,
+     "pct": 28.8835598188116,
      "choice_id": "Dan McNew",
      "party_lines": null
     },
     {
      "name": "Dan Rainey",
-     "votes": 0,
+     "votes": 1818,
      "party": null,
-     "pct": 0.0,
+     "pct": 48.4412470023981,
      "choice_id": "Dan Rainey",
      "party_lines": null
     },
     {
      "name": "Tim Costello",
-     "votes": 0,
+     "votes": 851,
      "party": null,
-     "pct": 0.0,
+     "pct": 22.6751931787903,
      "choice_id": "Tim Costello",
      "party_lines": null
     }
@@ -2768,7 +2848,7 @@
    "title": "City of The Colony Place 5",
    "office_type": "local",
    "district": "5",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -2783,17 +2863,17 @@
    "choices": [
     {
      "name": "Perry Schrag",
-     "votes": 0,
+     "votes": 1092,
      "party": null,
-     "pct": 0.0,
+     "pct": 50.5789717461788,
      "choice_id": "Perry Schrag",
      "party_lines": null
     },
     {
      "name": "Matthew Michaelson",
-     "votes": 0,
+     "votes": 1067,
      "party": null,
-     "pct": 0.0,
+     "pct": 49.4210282538212,
      "choice_id": "Matthew Michaelson",
      "party_lines": null
     }
@@ -2807,7 +2887,7 @@
    "title": "City of The Colony Place 6",
    "office_type": "local",
    "district": "6",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -2822,17 +2902,17 @@
    "choices": [
     {
      "name": "Matthew Wheeler",
-     "votes": 0,
+     "votes": 1662,
      "party": null,
-     "pct": 0.0,
+     "pct": 61.5783623564283,
      "choice_id": "Matthew Wheeler",
      "party_lines": null
     },
     {
      "name": "Joel Marks",
-     "votes": 0,
+     "votes": 1037,
      "party": null,
-     "pct": 0.0,
+     "pct": 38.4216376435717,
      "choice_id": "Joel Marks",
      "party_lines": null
     }
@@ -2846,7 +2926,7 @@
    "title": "Brookfield Water Control and Improvement District of Denton County Proposition A",
    "office_type": "measure",
    "district": "a",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -2861,17 +2941,17 @@
    "choices": [
     {
      "name": "Yes",
-     "votes": 0,
+     "votes": 165,
      "party": null,
-     "pct": 0.0,
+     "pct": 34.375,
      "choice_id": "Yes",
      "party_lines": null
     },
     {
      "name": "No",
-     "votes": 0,
+     "votes": 315,
      "party": null,
-     "pct": 0.0,
+     "pct": 65.625,
      "choice_id": "No",
      "party_lines": null
     }
@@ -2885,7 +2965,7 @@
    "title": "Cole Ranch Improvement District No. 2 of Denton County, Texas Proposition A THIS IS A TAX INCREASE",
    "office_type": "measure",
    "district": "a",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -2900,9 +2980,9 @@
    "choices": [
     {
      "name": "Yes",
-     "votes": 0,
+     "votes": 6,
      "party": null,
-     "pct": 0.0,
+     "pct": 100.0,
      "choice_id": "Yes",
      "party_lines": null
     },
@@ -2924,7 +3004,7 @@
    "title": "Cole Ranch Improvement District No. 2 of Denton County, Texas Proposition B THIS IS A TAX INCREASE",
    "office_type": "measure",
    "district": "b",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -2939,17 +3019,17 @@
    "choices": [
     {
      "name": "Yes",
-     "votes": 0,
+     "votes": 3,
      "party": null,
-     "pct": 0.0,
+     "pct": 60.0,
      "choice_id": "Yes",
      "party_lines": null
     },
     {
      "name": "No",
-     "votes": 0,
+     "votes": 2,
      "party": null,
-     "pct": 0.0,
+     "pct": 40.0,
      "choice_id": "No",
      "party_lines": null
     }
@@ -2963,7 +3043,7 @@
    "title": "Denton County Municipal Utility District No. 7 Proposition A",
    "office_type": "measure",
    "district": "a",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -2978,9 +3058,9 @@
    "choices": [
     {
      "name": "Yes",
-     "votes": 0,
+     "votes": 1,
      "party": null,
-     "pct": 0.0,
+     "pct": 100.0,
      "choice_id": "Yes",
      "party_lines": null
     },
@@ -3002,7 +3082,7 @@
    "title": "Denton County Municipal Utility District No. 7 Proposition B",
    "office_type": "measure",
    "district": "b",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -3017,9 +3097,9 @@
    "choices": [
     {
      "name": "Yes",
-     "votes": 0,
+     "votes": 1,
      "party": null,
-     "pct": 0.0,
+     "pct": 100.0,
      "choice_id": "Yes",
      "party_lines": null
     },
@@ -3041,7 +3121,7 @@
    "title": "Denton County Municipal Utility District No. 7 Proposition C",
    "office_type": "measure",
    "district": "c",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -3056,9 +3136,9 @@
    "choices": [
     {
      "name": "Yes",
-     "votes": 0,
+     "votes": 1,
      "party": null,
-     "pct": 0.0,
+     "pct": 100.0,
      "choice_id": "Yes",
      "party_lines": null
     },
@@ -3080,7 +3160,7 @@
    "title": "Denton County Municipal Utility District No. 7 Proposition D",
    "office_type": "measure",
    "district": "d",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -3095,9 +3175,9 @@
    "choices": [
     {
      "name": "Yes",
-     "votes": 0,
+     "votes": 1,
      "party": null,
-     "pct": 0.0,
+     "pct": 100.0,
      "choice_id": "Yes",
      "party_lines": null
     },
@@ -3119,7 +3199,7 @@
    "title": "Northlake Fresh Water Supply District No. 1 of Denton County Proposition A THIS IS A TAX INCREASE",
    "office_type": "measure",
    "district": "a",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -3134,9 +3214,9 @@
    "choices": [
     {
      "name": "Yes",
-     "votes": 0,
+     "votes": 1,
      "party": null,
-     "pct": 0.0,
+     "pct": 100.0,
      "choice_id": "Yes",
      "party_lines": null
     },
@@ -3158,7 +3238,7 @@
    "title": "Northlake Fresh Water Supply District No. 1 of Denton County Proposition B THIS IS A TAX INCREASE",
    "office_type": "measure",
    "district": "b",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -3173,9 +3253,9 @@
    "choices": [
     {
      "name": "Yes",
-     "votes": 0,
+     "votes": 1,
      "party": null,
-     "pct": 0.0,
+     "pct": 100.0,
      "choice_id": "Yes",
      "party_lines": null
     },
@@ -3197,7 +3277,7 @@
    "title": "Northlake Fresh Water Supply District No. 1 of Denton County Proposition C THIS IS A TAX INCREASE",
    "office_type": "measure",
    "district": "c",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -3212,9 +3292,9 @@
    "choices": [
     {
      "name": "Yes",
-     "votes": 0,
+     "votes": 1,
      "party": null,
-     "pct": 0.0,
+     "pct": 100.0,
      "choice_id": "Yes",
      "party_lines": null
     },
@@ -3236,7 +3316,7 @@
    "title": "Northlake Fresh Water Supply District No. 1 of Denton County Proposition D THIS IS A TAX INCREASE",
    "office_type": "measure",
    "district": "d",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -3251,9 +3331,9 @@
    "choices": [
     {
      "name": "Yes",
-     "votes": 0,
+     "votes": 1,
      "party": null,
-     "pct": 0.0,
+     "pct": 100.0,
      "choice_id": "Yes",
      "party_lines": null
     },
@@ -3275,7 +3355,7 @@
    "title": "Sanctuary Municipal Utility District No. 2 of Denton County Proposition A",
    "office_type": "measure",
    "district": "a",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -3290,9 +3370,9 @@
    "choices": [
     {
      "name": "Yes",
-     "votes": 0,
+     "votes": 1,
      "party": null,
-     "pct": 0.0,
+     "pct": 100.0,
      "choice_id": "Yes",
      "party_lines": null
     },
@@ -3314,7 +3394,7 @@
    "title": "Sanctuary Municipal Utility District No. 2 of Denton County Proposition B",
    "office_type": "measure",
    "district": "b",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -3329,9 +3409,9 @@
    "choices": [
     {
      "name": "Yes",
-     "votes": 0,
+     "votes": 1,
      "party": null,
-     "pct": 0.0,
+     "pct": 100.0,
      "choice_id": "Yes",
      "party_lines": null
     },
@@ -3353,7 +3433,7 @@
    "title": "Sanctuary Municipal Utility District No. 2 of Denton County Proposition C",
    "office_type": "measure",
    "district": "c",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -3368,9 +3448,9 @@
    "choices": [
     {
      "name": "Yes",
-     "votes": 0,
+     "votes": 1,
      "party": null,
-     "pct": 0.0,
+     "pct": 100.0,
      "choice_id": "Yes",
      "party_lines": null
     },
@@ -3392,7 +3472,7 @@
    "title": "Sanctuary Municipal Utility District No. 2 of Denton County Proposition D",
    "office_type": "measure",
    "district": "d",
-   "jurisdiction": "Denton",
+   "jurisdiction": "Denton County",
    "scope": "complete",
    "vote_for": 1,
    "final": false,
@@ -3407,9 +3487,9 @@
    "choices": [
     {
      "name": "Yes",
-     "votes": 0,
+     "votes": 1,
      "party": null,
-     "pct": 0.0,
+     "pct": 100.0,
      "choice_id": "Yes",
      "party_lines": null
     },
@@ -3425,10 +3505,10 @@
    "url": "https://results.enr.clarityelections.com/TX/Denton/127398/"
   }
  ],
- "contests_hash": "5d8e766dbae1303d",
+ "contests_hash": "3b7251bcce69c2fd",
  "status": "ok",
  "message": "",
- "last_attempt_at": "2026-11-04T00:47:22+00:00",
- "fetched_at": "2026-11-04T00:47:22+00:00",
- "contests_changed_at": "2026-11-04T00:25:51+00:00"
+ "last_attempt_at": "2026-11-04T01:25:48+00:00",
+ "fetched_at": "2026-11-04T01:25:48+00:00",
+ "contests_changed_at": "2026-11-04T01:23:59+00:00"
 }

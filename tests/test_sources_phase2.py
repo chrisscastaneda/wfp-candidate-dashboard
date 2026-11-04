@@ -37,6 +37,17 @@ def test_clarity_state_with_county_sub_elections(monkeypatch):
     assert [ch.name for ch in question.choices] == ["Yes", "No"]
 
 
+def test_clarity_county_site_labels_contests_with_county(monkeypatch):
+    # The matcher's county filter needs "County" in the jurisdiction; a bare "Travis" let Travis County's races
+    # match a Tarrant County candidate.
+    monkeypatch.setattr(config, "ELECTION_DATE", date(2024, 11, 5))
+    routes = {"CO/elections.json": "clarity/co_elections.json",
+              "CO/122598/current_ver.txt": "clarity/co_2024_current_ver.txt",
+              "CO/122598/367167/json/en/summary.json": "clarity/co_2024_summary.json"}
+    source = clarity.ClaritySource("co.x", "CO", "x", "x", "CO", level="county", county="Boulder")
+    assert {c.jurisdiction for c in source.pull(FakeFetch(routes))} == {"Boulder County"}
+
+
 def test_connecticut_combines_fusion_lines():
     routes = {"data/Elections.json": "ct/Elections.json", "108/Version.json": "ct/Version.json",
               "Lookupdata.json": "ct/Lookupdata.json", "stateVotes_Electiondata.json": "ct/stateVotes_Electiondata.json",
@@ -45,6 +56,8 @@ def test_connecticut_combines_fusion_lines():
     cd5 = next(c for c in contests if c.office_type == "federal_house" and c.district == "5")
     hayes = next(ch for ch in cd5.choices if ch.name == "Jahana Hayes")
     assert set(hayes.party_lines) == {"DEM", "WFP"}
+    # Precincts reporting is statewide only, so a district race gets a labeled count, not a percentage.
+    assert cd5.reporting.pct is None
     assert len([c for c in contests if c.office_type == "state_house"]) == 151
 
 

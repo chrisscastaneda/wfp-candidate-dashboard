@@ -82,7 +82,8 @@ class ClaritySource(Source):
         ver = fetch.get(f"{BASE}/{self.site}/{eid}/current_ver.txt", expect="text").strip()
         if not ver.isdigit():
             raise NotPublished(f"election {eid} has no published version yet")
-        jurisdiction = self.county or names.fold(self.title).title()
+        # "County" in the name is what the matcher's county filter keys on (see match._in_row_county).
+        jurisdiction = f"{self.county} County" if self.county else names.fold(self.title).title()
         contests = parse(self._summary(fetch, self.site, eid, ver), source_id=self.id, state=self.state,
                          jurisdiction=jurisdiction, partial_shares=self.level == "county")
         for contest in contests:
