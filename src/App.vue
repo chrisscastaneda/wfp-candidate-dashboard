@@ -8,13 +8,14 @@ import StatusToggles from './components/StatusToggles.vue'
 import TileMap from './components/TileMap.vue'
 import { CATEGORIES } from './data/categories'
 import { CANDIDATES, SCRAPED_AT, SOURCE_URL, STATE_TILES } from './data/candidates'
-import { displayStatus, RESULTS_GENERATED_AT, STATUSES } from './data/results'
+import { displayStatus, RESULTS_GENERATED_AT } from './data/results'
 import type { DisplayStatus, OfficeCategory } from './data/types'
 
 const about = ref<InstanceType<typeof AboutDialog> | null>(null)
 const selectedState = ref<string | null>(null)
 const enabledCategories = ref(new Set<OfficeCategory>(CATEGORIES.map((c) => c.category)))
-const enabledStatuses = ref(new Set<DisplayStatus>(STATUSES.map((s) => s.status)))
+// Start on races with votes to show; the other statuses are a click away.
+const enabledStatuses = ref(new Set<DisplayStatus>(['leading', 'trailing']))
 const search = ref('')
 
 const selectedTile = computed(
