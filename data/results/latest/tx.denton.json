@@ -3506,9 +3506,9 @@
   }
  ],
  "contests_hash": "3b7251bcce69c2fd",
- "status": "ok",
- "message": "",
- "last_attempt_at": "2026-11-04T01:25:48+00:00",
+ "status": "error",
+ "message": "https://results.enr.clarityelections.com/TX/Denton/127398/current_ver.txt: HTTP 502",
+ "last_attempt_at": "2026-11-04T01:39:09+00:00",
  "fetched_at": "2026-11-04T01:25:48+00:00",
  "contests_changed_at": "2026-11-04T01:23:59+00:00"
 }
