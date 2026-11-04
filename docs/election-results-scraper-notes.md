@@ -31,8 +31,9 @@ See also [election-results-scraper-plan.md](election-results-scraper-plan.md) (d
 | 12:16am | 576 | 480 | Washington (King County), more California, Connecticut and New Mexico |
 | 12:25am | 601 | 497 | Santa Clara, Contra Costa, Sonoma, Ventura (CA) and Hudson (NJ), via known Clarity ids |
 | 12:48am | 606 | 500 | South Carolina (new scraper, XLSX snapshots) |
+| 1:43am | 623 | 519 | Connecticut (15 more), Wegela (MI HD-26) |
 
-Still missing at 12:48am: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
+Still missing at 1:43am: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
 
 ---
 
@@ -346,6 +347,23 @@ Fixes made while building:
   - Courtney McClain (SC-4) trails William Timmons, 129,561 to 146,808 (45.7%).
   - Jumelle Brooks (HD-12) 54.9%, Keishan Scott (HD-50) 62.2% and Sonja Ogletree Satani (HD-98) 53.7% lead.
   - Julie Zimmerman (HD-71) trails, 41.6%.
+
+### 1:43am: late counts
+
+- 623 races with votes, WFP leading 519. All sources ran without errors; the five sources above still list no
+  Nov 3 election.
+- New: Connecticut 15 more House and Senate races (including Gary Winfield, SD-10, and Rick Lopes, SD-6, 53%),
+  Ash Kalra (CA AD-25, 73%), and Dylan Wegela (MI HD-26, 72%).
+- Wayne County is still slow (7% of precincts in for MI-13): McKinney 80%, Alawieh 79%, and Jaime Churches (HD-27)
+  down to 50.1% at 35% of precincts.
+- Flipped to leading: Kim Becker (CT HD-62, 50.1%), Brandi Mandato (CT SD-34, 50.0%), Cari Power (Socorro County NM),
+  David Mooney (NM HD-38, 52.4%), Kipperlyn Sinclair (Washington County OR, 49.8%, multi-candidate).
+- Flipped to trailing: Jennifer Engle (Moulton Niguel Water District, multi-seat).
+- Effectively complete and trailing: Angie Nixon (FL U.S. Senate) 48.0% with all 5,626 precincts in; Amanda
+  Hollowell (GA-1) 49.3% with all 15 counties posted; Jackie Baker (PA SD-20) 38.5%.
+- Still close: Jane Kim (CA Insurance Commissioner) 51.5% at 72% of precincts; Sean Frame (CA SD-6) 50.3% with all
+  precincts in (California keeps counting mail ballots for days); Laura Parra (NM HD-32) 46.7% at 29 of 31 precincts.
+- South Carolina hadn't posted a snapshot after midnight. Milwaukee's hand entries weren't re-read.
 
 ## Feed quirks worth remembering
 
