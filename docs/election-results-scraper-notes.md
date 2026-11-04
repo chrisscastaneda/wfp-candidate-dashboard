@@ -33,8 +33,9 @@ See also [election-results-scraper-plan.md](election-results-scraper-plan.md) (d
 | 12:48am | 606 | 500 | South Carolina (new scraper, XLSX snapshots) |
 | 1:43am | 623 | 519 | Connecticut (15 more), Wegela (MI HD-26) |
 | 2:16am | 625 | 523 | Connecticut (2 more) |
+| 3:35am | 628 | 524 | Connecticut (3 more) |
 
-Still missing at 2:16am: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
+Still missing at 3:35am: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
 
 ---
 
@@ -378,6 +379,20 @@ Fixes made while building:
   will decide it.
 - Wayne County at 19% of precincts for MI-13: McKinney 72%. Jaime Churches (HD-27) 50.2% at 75%.
 - Connecticut at 639 of 775 precincts: Mandato (SD-34) 50.0% and Becker (HD-62) 50.1% are still on the line.
+
+### 3:35am: two near-ties
+
+- 628 races with votes, WFP leading 524. All sources ran without errors; the same five list no Nov 3 election.
+- Vote counts changed in 211 races, mostly Oregon (44), Colorado (38), California (31 state, 20 Orange County, 12
+  Santa Clara, 8 Contra Costa, 7 Sonoma), New Mexico (28) and Connecticut (13).
+- New: Emmanuel "Manny" Sanchez (CT HD-24, 71.5%), David DeFronzo (CT HD-26, 68.8%), Cristin McCarthy Vahey (CT
+  HD-133, 67.0%).
+- Flipped to trailing: Chris Kluwe (CA AD-72), behind by 60 votes of about 155,000 (77,683 to 77,743) with all
+  precincts in; Marie Tsaasan (Aliso Viejo council D3, Orange County), behind by 11 (1,001 to 1,012). Both will move
+  as California counts mail ballots.
+- Sean Frame (CA SD-6) slipped to 48.2%. Jessie Lopez (CA AD-68) 47.6% with all precincts in.
+- Wayne County at 22% of precincts for MI-13: McKinney 72%. Jaime Churches (HD-27) 51.7% at 75%.
+- Connecticut at 694 of 775 precincts: Mandato (SD-34) leads by 25 votes, Becker (HD-62) by 34.
 
 ## Feed quirks worth remembering
 
