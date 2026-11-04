@@ -80,3 +80,26 @@ def test_manual_template_keeps_entered_rows(tmp_results, monkeypatch):
     contests = manual.parse(manual.read_rows())
     assert [(ch.name, ch.votes) for ch in contests[0].choices] == [("Rashida Tlaib", 100), ("Opponent", 50)]
     assert contests[0].office_type == "federal_house" and contests[0].district == "12"
+
+
+def test_manual_measures_unopposed_and_titles():
+    def row(cid, office, district, choice, votes):
+        return {"contest_id": cid, "state": "MA", "office": office, "district": district, "choice": choice,
+                "party": "", "votes": votes, "reporting_pct": "", "source_url": "", "as_of": "", "note": ""}
+    question, house, assembly = manual.parse([
+        row("q1", "Question", "1", "Yes", "100"), row("q1", "Question", "1", "No", "20"),
+        row("h", "State Representative 17th Middlesex", "17", "John Drinkwater", "unopposed"),
+        row("a", "State Assembly", "8", "Ismael Luna", "50")])
+    assert (question.title, question.office_type, question.district) == ("Question 1", "measure", "1")
+    assert (house.title, house.uncontested, house.choices[0].votes) == ("State Representative 17th Middlesex", True, 0)
+    assert assembly.title == "State Assembly District 8" and not assembly.uncontested
+
+
+def test_publish_unopposed_is_leading_without_votes():
+    c = Contest(source="manual", contest_id="h", state="MA", title="T", office_type="state_house", district="17",
+                uncontested=True, choices=[Choice("A", 0)])
+    rows = [{"state": "MA", "name": "A", "office": "o", "status": "auto", "source": "manual", "contest_id": "h",
+             "choice_id": "A", "choice": "A", "note": ""}]
+    out = publish.build([{"id": 7, "key": "MA|A|o", "name": "A"}], rows, {"manual": {"contests": [c]}}, "r")
+    result = out["results"]["7"]
+    assert (result["status"], result["wfp_leading"], result["uncontested"]) == ("counting", True, True)

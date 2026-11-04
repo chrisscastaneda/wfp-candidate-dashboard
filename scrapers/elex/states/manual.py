@@ -2,12 +2,14 @@
 races" in docs/election-results-scraper-plan.md).
 
 One row per candidate. Rows sharing a contest_id form one contest. A contest whose rows all have blank votes
-hasn't been entered yet and is skipped. The matcher only uses manual contests for endorsements no scraped source
+hasn't been entered yet and is skipped. For an unopposed candidate with no vote count (AP posts none for these),
+enter "unopposed" as the votes. The matcher only uses manual contests for endorsements no scraped source
 matched, so a race moves off the manual list on its own once a scraper covers it.
 
 write_template() creates or extends the file with one row per uncovered federal endorsement.
 """
 import csv
+import re
 from collections import OrderedDict
 
 from .. import config, endorsements, names
@@ -25,6 +27,13 @@ def read_rows() -> list[dict]:
         return [r for r in csv.DictReader(f) if (r.get("contest_id") or "").strip()]
 
 
+_MEASURE = re.compile(r"(?i)(ballot )?(question|measure|proposition|amendment)\b")
+
+
+def _unopposed(row: dict) -> bool:
+    return (row.get("votes") or "").strip().lower() == "unopposed"
+
+
 def parse(rows: list[dict]) -> list[Contest]:
     groups: dict[str, list[dict]] = OrderedDict()
     for row in rows:
@@ -36,16 +45,25 @@ def parse(rows: list[dict]) -> list[Contest]:
             continue
         first = members[0]
         office = first["office"].strip()
-        title = f"{office} District {first['district']}" if (first.get("district") or "").strip() else office
+        district = (first.get("district") or "").strip()
+        if not district or re.search(rf"\b{re.escape(district)}(st|nd|rd|th)?\b", office):
+            title = office  # "State Representative 16th Middlesex"
+        elif _MEASURE.match(office):
+            title = f"{office} {district}"  # "Question 1"
+        else:
+            title = f"{office} District {district}"
         pct = names.to_float(first.get("reporting_pct"))
         contest = Contest(
             source="manual", contest_id=contest_id, state=first["state"].strip().upper(), title=title,
-            office_type=names.office_type(office), district=(first.get("district") or "").strip() or None,
+            office_type="measure" if _MEASURE.match(office) else names.office_type(office),
+            district=(first.get("district") or "").strip() or None,
             jurisdiction=first["state"].strip().upper(),
             reporting=Reporting(pct=pct, text=f"{pct:g}% reporting" if pct is not None else None),
             feed_updated_at=(first.get("as_of") or "").strip() or None,
             url=(first.get("source_url") or "").strip() or None,
-            choices=[Choice(r["choice"].strip(), names.to_int(r.get("votes")), names.party(r.get("party")))
+            uncontested=len(members) == 1 and _unopposed(members[0]),
+            choices=[Choice(r["choice"].strip(), 0 if _unopposed(r) else names.to_int(r.get("votes")),
+                            names.party(r.get("party")))
                      for r in entered])
         contest.fill_percentages()
         contests.append(contest)

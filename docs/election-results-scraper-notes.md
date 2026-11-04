@@ -37,8 +37,9 @@ See also [election-results-scraper-plan.md](election-results-scraper-plan.md) (d
 | 9:46am | 628 | 523 | (none new; morning updates) |
 | 10:00am | 825 | 663 | 15 NY counties on Enhanced Voting, Chautauqua NY, San Diego, San Mateo, San Bernardino (new sources) |
 | 10:08am | 854 | 689 | Arizona and DC (new sources) |
+| 10:17am | 870 | 703 | Massachusetts (entered by hand from AP) |
 
-Still missing at 10:08am: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
+Still missing at 10:17am: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
 
 ---
 
@@ -448,6 +449,27 @@ Fixes made while building:
 - **Massachusetts:** no source. The state's electionstats site lists only this year's two special elections and
   adds a general election after certification. There is no official election-night feed.
 
+### 10:17am: Massachusetts by hand
+
+- 870 races with results, WFP leading 703. All 20 Massachusetts rows are settled.
+- **Where the numbers come from:** AP's counts, read in the browser from AP widgets that news sites embed and entered in
+  `manual_entries.csv`. The questions came from WGBH's page (86% of expected votes, as of about 7:10am) and the
+  legislative races from CBS Boston's State House and Senate widgets, which cover every district. These only change
+  when re-entered.
+- **Ballot questions (7):** WFP's side leads on all seven: Q1 Yes 86.0%, Q2 Yes 64.2%, Q3 No 61.2%, Q4 Yes 56.5%,
+  Q5 No 52.2% (AP hasn't called it; the Yes campaign conceded), Q8 No 75.7%, Q9 Yes 67.0%.
+- **Contested legislative races (5):** Lorena Betts (16th Middlesex) 68.2%; Jack Richardson (3rd Barnstable) 51.7%, 820
+  ahead; Lora Wondolowski (1st Franklin) 74.1%; Tom Hendrickson (3rd Hampden) 36.4%, trailing; Shannon Teabo 46.1%,
+  trailing Peter Durant. Teabo is running for the Worcester and Hampshire State Senate seat, though WFP lists her
+  for State House; confirmed by hand.
+- **Unopposed (4):** Celina Reyes (16th Essex), John Drinkwater (17th Middlesex), Tara Hong (18th Middlesex), Ben
+  Ewen-Campen (27th Middlesex). AP posts no count for these. They're entered with votes `unopposed`, and the dashboard
+  now shows "Unopposed" (new `uncontested` flag on contests, published in `wfp_results.json`).
+- **Not on the ballot (4):** each lost the Sept 1 Democratic primary (per electionstats.state.ma.us): Johnnie McKnight
+  (11th Hampden, to Bud Williams), Latoya Gayle (1st Suffolk Senate, to Nick Collins), Daniel Lander (Suffolk and
+  Middlesex Senate, to William Brownsberger), Carey McDonald (5th Middlesex Senate, to Kate Lipper-Garabedian). Marked
+  `no` in `results_sources.csv`.
+
 ## Feed quirks worth remembering
 
 | Source | Quirk | How it's handled |
@@ -477,6 +499,7 @@ Fixes made while building:
 | Chautauqua (NY) | One XML file; state races filed under "New York State" | Those marked partial; place name added to town and village titles |
 | Arizona | State site behind a Cloudflare challenge | Results read from Enhanced Voting's host, which the state links to |
 | DC | Ranked-choice contests post first-choice counts on election night | Title says "(first-choice votes)" |
+| Massachusetts | No official election-night feed; AP posts no count for unopposed races | Entered by hand from AP widgets on news sites; `unopposed` in the votes column |
 | Oregon | Vote by mail; precincts-reporting stays at 0 while votes come in | Shown as reported; worth replacing with a count or hiding |
 
 ## Still open
@@ -488,7 +511,9 @@ Fixes made while building:
 - Michigan: 6 of 19 races (Wayne 4, Washtenaw 2). Still missing: El-Sayed (U.S. Senate), Gilchrist and Savit
   (statewide), MI-7 and MI-12, HD-7, 8, 11, 23, 58, 77, and the two Bay City Commission races (not on Bay County's
   report).
-- Massachusetts (20 races, including 7 questions), Kentucky and Maine have no source; they need manual entries.
+- Kentucky and Maine have no source; they need manual entries.
+- Massachusetts is entered by hand (AP as of about 7–10am Nov 4) and only updates when re-entered; Q5 and the
+  3rd Barnstable race are close.
 - DC's ranked-choice rounds: re-check after DCBOE posts them and drop the "(first-choice votes)" label then.
 - Milwaukee's six races only update when re-entered by hand.
 - New York counties still without a source: Onondaga (21; ongov.net doesn't answer scripts, and it isn't on Enhanced

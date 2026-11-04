@@ -425,6 +425,21 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 425,GA,Ruwa Romman,"Georgia State Senate, District 7",auto,district_surname,ga,01000000-3a82-a359-b576-08df23e6dacd,State Senate - District 7/ Senador Estatal del Distrito 7,01000000-3a82-a359-b58f-08df23e6dacd,Ruwa Romman,
 426,GA,Nikki Merritt,"Georgia State Senate, District 9",auto,district_surname,ga,01000000-3a82-a359-7106-08df23e6da9b,State Senate - District 9/ Senador Estatal del Distrito 9,01000000-3a82-a359-711e-08df23e6da9b,Nikki Merritt (I),
 427,GA,Kenya Wicks,"Georgia State Senate, District 34",auto,district_surname,ga,01000000-3a82-a359-1a4a-08df23e657ad,State Senate - District 34,01000000-3a82-a359-1a66-08df23e657ad,Kenya Wicks (I),
+443,MA,Lorena Betts,"Massachusetts State House, 16th Middlesex District",auto,district_surname,manual,ma.house.16th-middlesex,State Representative 16th Middlesex,Lorena Betts,Lorena Betts,
+444,MA,Jack Richardson,"Massachusetts State House, 3rd Barnstable District",auto,district_surname,manual,ma.house.3rd-barnstable,State Representative 3rd Barnstable,Jack Richardson,Jack Richardson,
+445,MA,Tom Hendrickson,"Massachusetts State House, 3rd Hampden District",auto,district_surname,manual,ma.house.3rd-hampden,State Representative 3rd Hampden,Thomas Hendrickson,Thomas Hendrickson,
+446,MA,Lora Wondolowski,"Massachusetts State House, 1st Franklin District",auto,district_surname,manual,ma.house.1st-franklin,State Representative 1st Franklin,Lora Wondolowski,Lora Wondolowski,
+447,MA,Celina Reyes,"Massachusetts State House, 16th Essex District",auto,district_surname,manual,ma.house.16th-essex,State Representative 16th Essex,Celina Reyes,Celina Reyes,
+449,MA,John Drinkwater,"Massachusetts State House, 17th Middlesex District",auto,district_surname,manual,ma.house.17th-middlesex,State Representative 17th Middlesex,John Drinkwater,John Drinkwater,
+450,MA,Tara Hong,"Massachusetts State House, 18th Middlesex District",auto,district_surname,manual,ma.house.18th-middlesex,State Representative 18th Middlesex,Tara Hong,Tara Hong,
+451,MA,Ben Ewen-Campen,"Massachusetts State House, 27th Middlesex District",auto,district_surname,manual,ma.house.27th-middlesex,State Representative 27th Middlesex,Ben Ewen-Campen,Ben Ewen-Campen,
+1201,MA,Question 1,Ballot Measure,auto,measure_number,manual,ma.question.1,Question 1,Yes,Yes,
+1202,MA,Question 2,Ballot Measure,auto,measure_number,manual,ma.question.2,Question 2,Yes,Yes,
+1203,MA,Question 3,Ballot Measure,auto,measure_number,manual,ma.question.3,Question 3,No,No,
+1204,MA,Question 4,Ballot Measure,auto,measure_number,manual,ma.question.4,Question 4,Yes,Yes,
+1205,MA,Question 5,Ballot Measure,auto,measure_number,manual,ma.question.5,Question 5,No,No,
+1206,MA,Question 8,Ballot Measure,auto,measure_number,manual,ma.question.8,Question 8,No,No,
+1207,MA,Question 9,Ballot Measure,auto,measure_number,manual,ma.question.9,Question 9,Yes,Yes,
 434,MD,Sarah David,Baltimore County State’s Attorney,auto,name_in_state,md,county-4/State's Attorney,State's Attorney,Sarah R. David,Sarah R. David,
 435,MD,Karl Bickel,Frederick County Sheriff,auto,name_in_state,md,county-11/Sheriff,Sheriff,Karl Bickel,Karl Bickel,
 436,MD,Janssen Evelyn,"Howard County Council, District 4",auto,name_in_state,md,county-14/County Council District 4,County Council District 4,Janssen Evelyn,Janssen Evelyn,
@@ -894,6 +909,7 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 82,CA,Joanna Paun,"Sonoma County Board of Supervisors, District 2",confirmed,name_in_state,ca.sonoma,45,"County Supervisor, 2nd District",JOANNA PAUN,JOANNA PAUN,"found by name only; check the office (County Supervisor, 2nd District) | confirmed Nov 4: same district/ward"
 83,CA,Melanie Bagby,"Sonoma County Board of Supervisors, District 4",confirmed,name_in_state,ca.sonoma,46,"County Supervisor, 4th District",MELANIE BAGBY,MELANIE BAGBY,"found by name only; check the office (County Supervisor, 4th District) | confirmed Nov 4: same district/ward"
 397,DC,Oye Olowela,"District Council, At-Large",confirmed,near_name,dc,7,AT-LARGE MEMBER OF THE COUNCIL OF THE DISTRICT OF COLUMBIA (first-choice votes),1,Oye Owolewa,WFP spells it 'Olowela'; feed 'Oye Owolewa' | confirmed Nov 4: at-large council
+452,MA,Shannon Teabo,"Massachusetts State House, Worcester & Hampshire District",confirmed,name_in_state,manual,ma.senate.worcester-hampshire,State Senator Worcester and Hampshire,Shannon Teabo,Shannon Teabo,WFP lists State House; she is the Democratic nominee for the Worcester and Hampshire State Senate seat | confirmed Nov 4
 631,NY,Colin Smith,"Westchester County Legislature, District 1",confirmed,name_in_state,ny.westchester,01000000-0c6a-a4eb-8bab-08df2a1b67df,County Legislator 1st District,01000000-0c6a-a4eb-8bf8-08df2a1b67df,Colin D. Smith,found by name only; check the office (County Legislator 1st District) | confirmed Nov 3: same district/place
 632,NY,Erika Pierce,"Westchester County Legislature, District 2",confirmed,name_in_state,ny.westchester,01000000-0c6a-a4eb-8c6c-08df2a1b67df,County Legislator 2nd District,01000000-0c6a-a4eb-8cc8-08df2a1b67df,Erika Lang Pierce,found by name only; check the office (County Legislator 2nd District) | confirmed Nov 3: same district/place
 633,NY,Jennifer Puja,"Westchester County Legislature, District 5",confirmed,name_in_state,ny.westchester,01000000-0c6a-a4eb-8eba-08df2a1b67df,County Legislator 5th District,01000000-0c6a-a4eb-8f13-08df2a1b67df,Jennifer L. Puja,found by name only; check the office (County Legislator 5th District) | confirmed Nov 3: same district/place
@@ -995,26 +1011,6 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 152,CA,Aram Ayra,"Riverside City Council, Ward 2",no_source,,,,,,,no source carries Riverside local races yet
 430,KY,Charles Booker,U.S. Senate,no_source,,,,,,,no source covers KY yet
 431,LA,Simone Levine,"Judge, Criminal District Court, Section D, Orleans Parish",no_source,,,,,,,no source covers LA yet
-443,MA,Lorena Betts,"Massachusetts State House, 16th Middlesex District",no_source,,,,,,,no source covers MA yet
-444,MA,Jack Richardson,"Massachusetts State House, 3rd Barnstable District",no_source,,,,,,,no source covers MA yet
-445,MA,Tom Hendrickson,"Massachusetts State House, 3rd Hampden District",no_source,,,,,,,no source covers MA yet
-446,MA,Lora Wondolowski,"Massachusetts State House, 1st Franklin District",no_source,,,,,,,no source covers MA yet
-447,MA,Celina Reyes,"Massachusetts State House, 16th Essex District",no_source,,,,,,,no source covers MA yet
-448,MA,Johnnie McKnight,"Massachusetts State House, 11th Hampden District",no_source,,,,,,,no source covers MA yet
-449,MA,John Drinkwater,"Massachusetts State House, 17th Middlesex District",no_source,,,,,,,no source covers MA yet
-450,MA,Tara Hong,"Massachusetts State House, 18th Middlesex District",no_source,,,,,,,no source covers MA yet
-451,MA,Ben Ewen-Campen,"Massachusetts State House, 27th Middlesex District",no_source,,,,,,,no source covers MA yet
-452,MA,Shannon Teabo,"Massachusetts State House, Worcester & Hampshire District",no_source,,,,,,,no source covers MA yet
-453,MA,Latoya Gayle,"Massachusetts State Senate, 1st Suffolk District",no_source,,,,,,,no source covers MA yet
-454,MA,Daniel Lander,"Massachusetts State Senate, Suffolk and Middlesex District",no_source,,,,,,,no source covers MA yet
-455,MA,Carey McDonald,"Massachusetts State Senate, 5th Middlesex District",no_source,,,,,,,no source covers MA yet
-1201,MA,Question 1,Ballot Measure,no_source,,,,,,,no source covers MA yet
-1202,MA,Question 2,Ballot Measure,no_source,,,,,,,no source covers MA yet
-1203,MA,Question 3,Ballot Measure,no_source,,,,,,,no source covers MA yet
-1204,MA,Question 4,Ballot Measure,no_source,,,,,,,no source covers MA yet
-1205,MA,Question 5,Ballot Measure,no_source,,,,,,,no source covers MA yet
-1206,MA,Question 8,Ballot Measure,no_source,,,,,,,no source covers MA yet
-1207,MA,Question 9,Ballot Measure,no_source,,,,,,,no source covers MA yet
 432,ME,Troy Jackson,U.S. Senate,no_source,,,,,,,no source covers ME yet
 433,ME,Jacqueline Sartoris,Cumberland County District Attorney,no_source,,,,,,,no source covers ME yet
 456,MI,Abdul El-Sayed,U.S. Senate,no_source,,,,,,,MI has only county sources so far
@@ -1207,6 +1203,10 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 1219,WI,"Wisconsin Question 3, Governmental Entity Discrimination Prohibited Referendum",Ballot Measure,no_source,,,,,,,WI has only county sources so far
 1151,WY,Aaron Appelhans,Albany County Sheriff,no_source,,,,,,,no source covers WY yet
 394,DC,Rashida Brown,"District Council, Ward 1 (Ranking recommendation)",not_on_ballot,,,,,,,Not on DC's Nov 3 Ward 1 council ballot (Aparna Raj is the Democrat); checked Nov 4 against DCBOE results.
+448,MA,Johnnie McKnight,"Massachusetts State House, 11th Hampden District",not_on_ballot,,,,,,,Lost the Sept 1 Democratic primary for 11th Hampden to Bud L. Williams (electionstats 173375).
+453,MA,Latoya Gayle,"Massachusetts State Senate, 1st Suffolk District",not_on_ballot,,,,,,,Lost the Sept 1 Democratic primary for 1st Suffolk Senate to Nicholas P. Collins (electionstats 173147).
+454,MA,Daniel Lander,"Massachusetts State Senate, Suffolk and Middlesex District",not_on_ballot,,,,,,,Lost the Sept 1 Democratic primary for Suffolk and Middlesex Senate to William N. Brownsberger (electionstats 173087).
+455,MA,Carey McDonald,"Massachusetts State Senate, 5th Middlesex District",not_on_ballot,,,,,,,Lost the Sept 1 Democratic primary for 5th Middlesex Senate to Kate Lipper-Garabedian (electionstats 173323).
 650,NY,Reid Kornman,Eastchester School Board,not_on_ballot,,,,,,,Eastchester UFSD board election was held in May 2026.
 678,NY,Phil Howard,Newburgh School Board,not_on_ballot,,,,,,,"Decided May 19, 2026 (Newburgh ECSD); reported re-elected."
 679,NY,Letitia Politi,Newburgh School Board,not_on_ballot,,,,,,,"Decided May 19, 2026 (Newburgh ECSD); reported re-elected."

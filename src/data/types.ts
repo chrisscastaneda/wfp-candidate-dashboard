@@ -87,6 +87,8 @@ export interface CandidateResult {
   wfp_choice?: string
   /** Whether WFP's choice is in a winning position; null before any votes. Not a race call. */
   wfp_leading?: boolean | null
+  /** One candidate on the ballot; sources often post no vote count for these. */
+  uncontested?: boolean
   choices?: ResultChoice[]
 }
 

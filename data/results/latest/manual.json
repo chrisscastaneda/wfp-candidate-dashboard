@@ -38,7 +38,8 @@
      "party_lines": null
     }
    ],
-   "url": "https://county.milwaukee.gov/EN/County-Clerk/Off-Nav/Election-Results/11-3-26-General-Election--Unofficial-Results-Election-Night-Website"
+   "url": "https://county.milwaukee.gov/EN/County-Clerk/Off-Nav/Election-Results/11-3-26-General-Election--Unofficial-Results-Election-Night-Website",
+   "uncontested": false
   },
   {
    "source": "manual",
@@ -77,7 +78,8 @@
      "party_lines": null
     }
    ],
-   "url": "https://county.milwaukee.gov/EN/County-Clerk/Off-Nav/Election-Results/11-3-26-General-Election--Unofficial-Results-Election-Night-Website"
+   "url": "https://county.milwaukee.gov/EN/County-Clerk/Off-Nav/Election-Results/11-3-26-General-Election--Unofficial-Results-Election-Night-Website",
+   "uncontested": false
   },
   {
    "source": "manual",
@@ -116,7 +118,8 @@
      "party_lines": null
     }
    ],
-   "url": "https://county.milwaukee.gov/EN/County-Clerk/Off-Nav/Election-Results/11-3-26-General-Election--Unofficial-Results-Election-Night-Website"
+   "url": "https://county.milwaukee.gov/EN/County-Clerk/Off-Nav/Election-Results/11-3-26-General-Election--Unofficial-Results-Election-Night-Website",
+   "uncontested": false
   },
   {
    "source": "manual",
@@ -155,7 +158,8 @@
      "party_lines": null
     }
    ],
-   "url": "https://county.milwaukee.gov/EN/County-Clerk/Off-Nav/Election-Results/11-3-26-General-Election--Unofficial-Results-Election-Night-Website"
+   "url": "https://county.milwaukee.gov/EN/County-Clerk/Off-Nav/Election-Results/11-3-26-General-Election--Unofficial-Results-Election-Night-Website",
+   "uncontested": false
   },
   {
    "source": "manual",
@@ -194,7 +198,8 @@
      "party_lines": null
     }
    ],
-   "url": "https://county.milwaukee.gov/EN/County-Clerk/Off-Nav/Election-Results/11-3-26-General-Election--Unofficial-Results-Election-Night-Website"
+   "url": "https://county.milwaukee.gov/EN/County-Clerk/Off-Nav/Election-Results/11-3-26-General-Election--Unofficial-Results-Election-Night-Website",
+   "uncontested": false
   },
   {
    "source": "manual",
@@ -233,13 +238,630 @@
      "party_lines": null
     }
    ],
-   "url": "https://county.milwaukee.gov/EN/County-Clerk/Off-Nav/Election-Results/11-3-26-General-Election--Unofficial-Results-Election-Night-Website"
+   "url": "https://county.milwaukee.gov/EN/County-Clerk/Off-Nav/Election-Results/11-3-26-General-Election--Unofficial-Results-Election-Night-Website",
+   "uncontested": false
+  },
+  {
+   "source": "manual",
+   "contest_id": "ma.question.1",
+   "state": "MA",
+   "title": "Question 1",
+   "office_type": "measure",
+   "district": "1",
+   "jurisdiction": "MA",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T07:10:00-05:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1953973,
+     "party": null,
+     "pct": 85.98,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 318566,
+     "party": null,
+     "pct": 14.02,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://www.wgbh.org/news/politics/2026-11-03/heres-where-all-2026-mass-ballot-questions-stand",
+   "uncontested": false
+  },
+  {
+   "source": "manual",
+   "contest_id": "ma.question.2",
+   "state": "MA",
+   "title": "Question 2",
+   "office_type": "measure",
+   "district": "2",
+   "jurisdiction": "MA",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T07:10:00-05:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1441083,
+     "party": null,
+     "pct": 64.17,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 804772,
+     "party": null,
+     "pct": 35.83,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://www.wgbh.org/news/politics/2026-11-03/heres-where-all-2026-mass-ballot-questions-stand",
+   "uncontested": false
+  },
+  {
+   "source": "manual",
+   "contest_id": "ma.question.3",
+   "state": "MA",
+   "title": "Question 3",
+   "office_type": "measure",
+   "district": "3",
+   "jurisdiction": "MA",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T07:10:00-05:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 887102,
+     "party": null,
+     "pct": 38.83,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 1397308,
+     "party": null,
+     "pct": 61.17,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://www.wgbh.org/news/politics/2026-11-03/heres-where-all-2026-mass-ballot-questions-stand",
+   "uncontested": false
+  },
+  {
+   "source": "manual",
+   "contest_id": "ma.question.4",
+   "state": "MA",
+   "title": "Question 4",
+   "office_type": "measure",
+   "district": "4",
+   "jurisdiction": "MA",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T07:10:00-05:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1290368,
+     "party": null,
+     "pct": 56.47,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 994520,
+     "party": null,
+     "pct": 43.53,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://www.wgbh.org/news/politics/2026-11-03/heres-where-all-2026-mass-ballot-questions-stand",
+   "uncontested": false
+  },
+  {
+   "source": "manual",
+   "contest_id": "ma.question.5",
+   "state": "MA",
+   "title": "Question 5",
+   "office_type": "measure",
+   "district": "5",
+   "jurisdiction": "MA",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T07:10:00-05:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1077990,
+     "party": null,
+     "pct": 47.78,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 1178133,
+     "party": null,
+     "pct": 52.22,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://www.wgbh.org/news/politics/2026-11-03/heres-where-all-2026-mass-ballot-questions-stand",
+   "uncontested": false
+  },
+  {
+   "source": "manual",
+   "contest_id": "ma.question.8",
+   "state": "MA",
+   "title": "Question 8",
+   "office_type": "measure",
+   "district": "8",
+   "jurisdiction": "MA",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T07:10:00-05:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 560450,
+     "party": null,
+     "pct": 24.3,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 1745489,
+     "party": null,
+     "pct": 75.7,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://www.wgbh.org/news/politics/2026-11-03/heres-where-all-2026-mass-ballot-questions-stand",
+   "uncontested": false
+  },
+  {
+   "source": "manual",
+   "contest_id": "ma.question.9",
+   "state": "MA",
+   "title": "Question 9",
+   "office_type": "measure",
+   "district": "9",
+   "jurisdiction": "MA",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T07:10:00-05:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1551410,
+     "party": null,
+     "pct": 67.05,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 762412,
+     "party": null,
+     "pct": 32.95,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://www.wgbh.org/news/politics/2026-11-03/heres-where-all-2026-mass-ballot-questions-stand",
+   "uncontested": false
+  },
+  {
+   "source": "manual",
+   "contest_id": "ma.house.16th-middlesex",
+   "state": "MA",
+   "title": "State Representative 16th Middlesex",
+   "office_type": "state_house",
+   "district": "16",
+   "jurisdiction": "MA",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T09:48:00-05:00",
+   "choices": [
+    {
+     "name": "Lorena Betts",
+     "votes": 7933,
+     "party": "DEM",
+     "pct": 68.23,
+     "choice_id": "Lorena Betts",
+     "party_lines": null
+    },
+    {
+     "name": "Karla Miller",
+     "votes": 3693,
+     "party": "REP",
+     "pct": 31.77,
+     "choice_id": "Karla Miller",
+     "party_lines": null
+    }
+   ],
+   "url": "https://www.cbsnews.com/boston/news/massachusetts-2026-election-results-governor-senate-ballot-questions/",
+   "uncontested": false
+  },
+  {
+   "source": "manual",
+   "contest_id": "ma.house.3rd-barnstable",
+   "state": "MA",
+   "title": "State Representative 3rd Barnstable",
+   "office_type": "state_house",
+   "district": "3",
+   "jurisdiction": "MA",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:04:00-05:00",
+   "choices": [
+    {
+     "name": "Jack Richardson",
+     "votes": 12277,
+     "party": "DEM",
+     "pct": 51.73,
+     "choice_id": "Jack Richardson",
+     "party_lines": null
+    },
+    {
+     "name": "David Vieira",
+     "votes": 11457,
+     "party": "REP",
+     "pct": 48.27,
+     "choice_id": "David Vieira",
+     "party_lines": null
+    }
+   ],
+   "url": "https://www.cbsnews.com/boston/news/massachusetts-2026-election-results-governor-senate-ballot-questions/",
+   "uncontested": false
+  },
+  {
+   "source": "manual",
+   "contest_id": "ma.house.3rd-hampden",
+   "state": "MA",
+   "title": "State Representative 3rd Hampden",
+   "office_type": "state_house",
+   "district": "3",
+   "jurisdiction": "MA",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T02:39:00-05:00",
+   "choices": [
+    {
+     "name": "Nicholas Boldyga",
+     "votes": 10218,
+     "party": "REP",
+     "pct": 54.09,
+     "choice_id": "Nicholas Boldyga",
+     "party_lines": null
+    },
+    {
+     "name": "Thomas Hendrickson",
+     "votes": 6880,
+     "party": "DEM",
+     "pct": 36.42,
+     "choice_id": "Thomas Hendrickson",
+     "party_lines": null
+    },
+    {
+     "name": "Jason Perron",
+     "votes": 1794,
+     "party": "IND",
+     "pct": 9.5,
+     "choice_id": "Jason Perron",
+     "party_lines": null
+    }
+   ],
+   "url": "https://www.cbsnews.com/boston/news/massachusetts-2026-election-results-governor-senate-ballot-questions/",
+   "uncontested": false
+  },
+  {
+   "source": "manual",
+   "contest_id": "ma.house.1st-franklin",
+   "state": "MA",
+   "title": "State Representative 1st Franklin",
+   "office_type": "state_house",
+   "district": "1",
+   "jurisdiction": "MA",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T09:33:00-05:00",
+   "choices": [
+    {
+     "name": "Lora Wondolowski",
+     "votes": 14096,
+     "party": "DEM",
+     "pct": 74.08,
+     "choice_id": "Lora Wondolowski",
+     "party_lines": null
+    },
+    {
+     "name": "Amy Lavallee",
+     "votes": 4933,
+     "party": null,
+     "pct": 25.92,
+     "choice_id": "Amy Lavallee",
+     "party_lines": null
+    }
+   ],
+   "url": "https://www.cbsnews.com/boston/news/massachusetts-2026-election-results-governor-senate-ballot-questions/",
+   "uncontested": false
+  },
+  {
+   "source": "manual",
+   "contest_id": "ma.senate.worcester-hampshire",
+   "state": "MA",
+   "title": "State Senator Worcester and Hampshire",
+   "office_type": "state_senate",
+   "district": null,
+   "jurisdiction": "MA",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T09:25:00-05:00",
+   "choices": [
+    {
+     "name": "Shannon Teabo",
+     "votes": 29663,
+     "party": "DEM",
+     "pct": 46.12,
+     "choice_id": "Shannon Teabo",
+     "party_lines": null
+    },
+    {
+     "name": "Peter Durant",
+     "votes": 34660,
+     "party": "REP",
+     "pct": 53.88,
+     "choice_id": "Peter Durant",
+     "party_lines": null
+    }
+   ],
+   "url": "https://www.cbsnews.com/boston/news/massachusetts-2026-election-results-governor-senate-ballot-questions/",
+   "uncontested": false
+  },
+  {
+   "source": "manual",
+   "contest_id": "ma.house.16th-essex",
+   "state": "MA",
+   "title": "State Representative 16th Essex",
+   "office_type": "state_house",
+   "district": "16",
+   "jurisdiction": "MA",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T02:38:00-05:00",
+   "choices": [
+    {
+     "name": "Celina Reyes",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Celina Reyes",
+     "party_lines": null
+    }
+   ],
+   "url": "https://www.cbsnews.com/boston/news/massachusetts-2026-election-results-governor-senate-ballot-questions/",
+   "uncontested": true
+  },
+  {
+   "source": "manual",
+   "contest_id": "ma.house.17th-middlesex",
+   "state": "MA",
+   "title": "State Representative 17th Middlesex",
+   "office_type": "state_house",
+   "district": "17",
+   "jurisdiction": "MA",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-03T17:01:00-05:00",
+   "choices": [
+    {
+     "name": "John Drinkwater",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "John Drinkwater",
+     "party_lines": null
+    }
+   ],
+   "url": "https://www.cbsnews.com/boston/news/massachusetts-2026-election-results-governor-senate-ballot-questions/",
+   "uncontested": true
+  },
+  {
+   "source": "manual",
+   "contest_id": "ma.house.18th-middlesex",
+   "state": "MA",
+   "title": "State Representative 18th Middlesex",
+   "office_type": "state_house",
+   "district": "18",
+   "jurisdiction": "MA",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-03T17:01:00-05:00",
+   "choices": [
+    {
+     "name": "Tara Hong",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Tara Hong",
+     "party_lines": null
+    }
+   ],
+   "url": "https://www.cbsnews.com/boston/news/massachusetts-2026-election-results-governor-senate-ballot-questions/",
+   "uncontested": true
+  },
+  {
+   "source": "manual",
+   "contest_id": "ma.house.27th-middlesex",
+   "state": "MA",
+   "title": "State Representative 27th Middlesex",
+   "office_type": "state_house",
+   "district": "27",
+   "jurisdiction": "MA",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-03T20:57:00-05:00",
+   "choices": [
+    {
+     "name": "Ben Ewen-Campen",
+     "votes": 0,
+     "party": "DEM",
+     "pct": 0.0,
+     "choice_id": "Ben Ewen-Campen",
+     "party_lines": null
+    }
+   ],
+   "url": "https://www.cbsnews.com/boston/news/massachusetts-2026-election-results-governor-senate-ballot-questions/",
+   "uncontested": true
   }
  ],
- "contests_hash": "7b6d3e9f7798f180",
+ "contests_hash": "95dfbe0907432dfc",
  "status": "ok",
  "message": "",
- "last_attempt_at": "2026-11-04T15:09:46+00:00",
- "fetched_at": "2026-11-04T15:09:46+00:00",
- "contests_changed_at": "2026-11-04T04:05:44+00:00"
+ "last_attempt_at": "2026-11-04T15:17:25+00:00",
+ "fetched_at": "2026-11-04T15:17:25+00:00",
+ "contests_changed_at": "2026-11-04T15:17:25+00:00"
 }

@@ -15,6 +15,8 @@ AWAITING, COUNTING, FINAL = "awaiting", "counting", "final"
 
 def _leading(contest: Contest, wfp_choice_id: str) -> bool | None:
     """Whether WFP's choice is currently in a winning position (top `vote_for`). None before any votes."""
+    if contest.uncontested:
+        return any(c.choice_id == wfp_choice_id for c in contest.choices)
     if not contest.total_votes:
         return None
     ranked = sorted(contest.choices, key=lambda c: c.votes, reverse=True)
@@ -50,7 +52,8 @@ def build(endorsements: list[dict], match_rows: list[dict], latest: dict[str, di
             results[str(e["id"])] = entry
             continue
         entry.update(
-            status=FINAL if contest.final else COUNTING if contest.total_votes else AWAITING,
+            status=FINAL if contest.final else COUNTING if contest.total_votes or contest.uncontested else AWAITING,
+            uncontested=contest.uncontested,
             source=contest.source, **_source_link(contest), contest=contest.title, scope=contest.scope,
             reporting={"pct": contest.reporting.pct, "text": contest.reporting.text},
             updated_at=contest.feed_updated_at or latest[contest.source].get("fetched_at"),

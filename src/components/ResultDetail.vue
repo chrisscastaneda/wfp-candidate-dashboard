@@ -19,7 +19,10 @@ const updated = computed(() => {
 <template>
   <div class="mt-2 border-t border-wfp-gray pt-2 text-sm lg:text-base">
     <p class="mb-1.5 text-xs text-neutral-600 lg:text-sm">{{ result.contest }}</p>
-    <table class="w-full">
+    <p v-if="result.uncontested" class="text-neutral-700">
+      {{ choices[0]?.name }} is the only candidate on the ballot. No vote count has been reported.
+    </p>
+    <table v-else class="w-full">
       <tbody>
         <tr v-for="c in choices" :key="c.name" :class="c.is_wfp ? 'font-semibold' : ''">
           <td class="py-0.5 pr-2">

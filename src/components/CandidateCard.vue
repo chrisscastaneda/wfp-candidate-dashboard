@@ -21,6 +21,7 @@ const pill = computed(() => {
   switch (status.value) {
     case 'leading':
     case 'trailing':
+      if (r?.uncontested) return { text: 'Unopposed', class: 'bg-wfp-purple text-white' }
       return r?.status === 'final'
         ? { text: 'Final', class: 'bg-wfp-purple text-white' }
         : { text: 'Counting', class: 'bg-wfp-marigold text-neutral-900' }
@@ -89,7 +90,8 @@ const percent = (pct: number | null | undefined) => (pct == null ? '–' : `${pc
       :aria-expanded="expanded"
       @click="expanded = !expanded"
     >
-      <template v-if="hasVotes && wfpChoice">
+      <strong v-if="result.uncontested" class="text-wfp-purple">Unopposed on the ballot</strong>
+      <template v-else-if="hasVotes && wfpChoice">
         <strong class="tabular-nums">{{ percent(wfpChoice.pct) }}</strong>
         <span v-if="isMeasure" class="text-neutral-600">{{ wfpChoice.name }}</span>
         <span
@@ -100,11 +102,13 @@ const percent = (pct: number | null | undefined) => (pct == null ? '–' : `${pc
         </span>
       </template>
       <span v-else class="text-neutral-500">No votes reported yet</span>
-      <span v-if="result.reporting?.pct != null" class="text-neutral-500">
+      <span v-if="!result.uncontested && result.reporting?.pct != null" class="text-neutral-500">
         · {{ percent(result.reporting.pct) }} reporting
       </span>
       <!-- Some feeds only say how many counties have posted, which isn't a share of the vote counted. -->
-      <span v-else-if="result.reporting?.text" class="text-neutral-500">· {{ result.reporting.text }}</span>
+      <span v-else-if="!result.uncontested && result.reporting?.text" class="text-neutral-500">
+        · {{ result.reporting.text }}
+      </span>
       <span class="ml-auto text-neutral-500" aria-hidden="true">{{ expanded ? '▴' : '▾' }}</span>
       <span class="sr-only">{{ expanded ? 'Hide' : 'Show' }} all results</span>
     </button>
