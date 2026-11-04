@@ -147,6 +147,14 @@ New review items and findings:
 - The change hash ignores feed timestamps, so Nebraska's per-request timestamp doesn't write a history snapshot on
   every poll.
 
+## Tier 2 (Nov 4)
+
+| Source | Status | Notes |
+|---|---|---|
+| `az` | ok, 22 of 23 matched | Enhanced Voting configuration (`states/enhanced_voting_states.py`). results.arizona.vote is behind a Cloudflare challenge; its Nov 3 link goes to `app.enhancedvoting.com/results/public/Arizona/110326GeneralElection`. Ed Hermes (Phoenix) has no source |
+| `dc` | ok, 7 of 8 matched (Rashida Brown not on the ballot) | New parser `states/dc.py` for DCBOE's JSON. Ranked-choice contests are labeled "(first-choice votes)" until rounds are posted |
+| Massachusetts | no source | No official election-night feed; electionstats adds general elections after certification. Manual entries |
+
 ## Phase 3 status
 
 Started early Nov 3. Phase 3 is **partly built**: most county sites, and NYC's ENR, don't show their Nov 3 results

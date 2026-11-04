@@ -36,8 +36,9 @@ See also [election-results-scraper-plan.md](election-results-scraper-plan.md) (d
 | 3:35am | 628 | 524 | Connecticut (3 more) |
 | 9:46am | 628 | 523 | (none new; morning updates) |
 | 10:00am | 825 | 663 | 15 NY counties on Enhanced Voting, Chautauqua NY, San Diego, San Mateo, San Bernardino (new sources) |
+| 10:08am | 854 | 689 | Arizona and DC (new sources) |
 
-Still missing at 10:00am: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
+Still missing at 10:08am: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
 
 ---
 
@@ -430,6 +431,23 @@ Fixes made while building:
 - Close among the new ones: Steven Krasner (Newburgh supervisor) 50.0%, Kyle Fendrich (Dutchess LD-15) 49.9%, Trish
   Prunty (Dutchess LD-7) 49.6%, Alex Scialdone (Webster supervisor) and Emily Wallace-Kalouch (Chili supervisor) 49.5%.
 
+### 10:08am: tier 2, Arizona and DC
+
+- 854 races with votes, WFP leading 689.
+- **Arizona (22 of 23):** results.arizona.vote shows scripts a Cloudflare challenge, but its Nov 3 link goes to
+  Enhanced Voting's shared host (`app.enhancedvoting.com/results/public/Arizona/110326GeneralElection`), which
+  scripts can read; configuration only. Confirmed by hand: Clara Pratte and Jonathon Hill (Corporation Commission)
+  and two WFP misspellings, Sarah Liguori (LD-5) and Priya Sundareshan (LD-18). Ed Hermes (Phoenix council D4) has no
+  source: Maricopa's file has no city races, and Phoenix runs its own elections.
+- Arizona propositions with WFP's position trailing: 141 (49.3%), 317 (43.0%), 318 (41.1%). Arizona's counties are
+  still counting; every county has posted something.
+- **DC (7 of 8):** new parser for DCBOE's JSON (`cityWide/getCityWide/<year>-General-Election`). Ranked-choice
+  contests have first-choice counts only until round-by-round results are posted (DCBOE says Nov 4); their titles
+  say "(first-choice votes)". Oye Owolewa confirmed by hand (WFP spells it "Olowela"). Rashida Brown isn't on the
+  Ward 1 ballot; marked `no` in `results_sources.csv`.
+- **Massachusetts:** no source. The state's electionstats site lists only this year's two special elections and
+  adds a general election after certification. There is no official election-night feed.
+
 ## Feed quirks worth remembering
 
 | Source | Quirk | How it's handled |
@@ -457,6 +475,8 @@ Fixes made while building:
 | Live Voter Turnout (San Diego) | No contest groups; party appended to names | State and district offices, appellate courts and numbered propositions marked partial by title |
 | Live Voter Turnout (San Bernardino) | County page forwards to the results by script | Source points at the Live Voter Turnout page |
 | Chautauqua (NY) | One XML file; state races filed under "New York State" | Those marked partial; place name added to town and village titles |
+| Arizona | State site behind a Cloudflare challenge | Results read from Enhanced Voting's host, which the state links to |
+| DC | Ranked-choice contests post first-choice counts on election night | Title says "(first-choice votes)" |
 | Oregon | Vote by mail; precincts-reporting stays at 0 while votes come in | Shown as reported; worth replacing with a count or hiding |
 
 ## Still open
@@ -468,7 +488,8 @@ Fixes made while building:
 - Michigan: 6 of 19 races (Wayne 4, Washtenaw 2). Still missing: El-Sayed (U.S. Senate), Gilchrist and Savit
   (statewide), MI-7 and MI-12, HD-7, 8, 11, 23, 58, 77, and the two Bay City Commission races (not on Bay County's
   report).
-- Massachusetts, Kentucky and Maine have no source; their federal races wait on manual entries.
+- Massachusetts (20 races, including 7 questions), Kentucky and Maine have no source; they need manual entries.
+- DC's ranked-choice rounds: re-check after DCBOE posts them and drop the "(first-choice votes)" label then.
 - Milwaukee's six races only update when re-entered by hand.
 - New York counties still without a source: Onondaga (21; ongov.net doesn't answer scripts, and it isn't on Enhanced
   Voting), Niagara (11; `ny.votereporting.com` returns 403), Albany (5), Saratoga (3) and single races elsewhere.

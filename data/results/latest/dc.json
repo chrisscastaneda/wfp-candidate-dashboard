@@ -1,0 +1,803 @@
+{
+ "source": "dc",
+ "contests": [
+  {
+   "source": "dc",
+   "contest_id": "4",
+   "state": "DC",
+   "title": "DELEGATE TO THE HOUSE OF REPRESENTATIVES FROM THE DISTRICT OF COLUMBIA (first-choice votes)",
+   "office_type": "federal_house",
+   "district": null,
+   "jurisdiction": "District of Columbia",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 144,
+    "units_total": 144,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:36:21.283Z",
+   "choices": [
+    {
+     "name": "Denise Rosado",
+     "votes": 11583,
+     "party": "REP",
+     "pct": 6.4,
+     "choice_id": "1",
+     "party_lines": null
+    },
+    {
+     "name": "Robert White",
+     "votes": 157979,
+     "party": "DEM",
+     "pct": 87.29,
+     "choice_id": "2",
+     "party_lines": null
+    },
+    {
+     "name": "Kymone Freeman",
+     "votes": 10275,
+     "party": "STG",
+     "pct": 5.68,
+     "choice_id": "3",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 1142,
+     "party": null,
+     "pct": 0.63,
+     "choice_id": "4",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "dc",
+   "contest_id": "5",
+   "state": "DC",
+   "title": "MAYOR OF THE DISTRICT OF COLUMBIA (first-choice votes)",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "District of Columbia",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 144,
+    "units_total": 144,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:36:21.283Z",
+   "choices": [
+    {
+     "name": "Rhonda Hamilton",
+     "votes": 18073,
+     "party": "IND",
+     "pct": 10.06,
+     "choice_id": "1",
+     "party_lines": null
+    },
+    {
+     "name": "Janeese Lewis George",
+     "votes": 151539,
+     "party": "DEM",
+     "pct": 84.34,
+     "choice_id": "2",
+     "party_lines": null
+    },
+    {
+     "name": "Robert L. Gross",
+     "votes": 6297,
+     "party": "STG",
+     "pct": 3.5,
+     "choice_id": "3",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 3765,
+     "party": null,
+     "pct": 2.1,
+     "choice_id": "4",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "dc",
+   "contest_id": "6",
+   "state": "DC",
+   "title": "CHAIRMAN OF THE COUNCIL OF THE DISTRICT OF COLUMBIA",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "District of Columbia",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 144,
+    "units_total": 144,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:36:21.283Z",
+   "choices": [
+    {
+     "name": "Phil Mendelson",
+     "votes": 161936,
+     "party": "DEM",
+     "pct": 92.76,
+     "choice_id": "1",
+     "party_lines": null
+    },
+    {
+     "name": "Abi-Ananiah Prudent",
+     "votes": 10629,
+     "party": "REP",
+     "pct": 6.09,
+     "choice_id": "2",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 2013,
+     "party": null,
+     "pct": 1.15,
+     "choice_id": "3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "dc",
+   "contest_id": "7",
+   "state": "DC",
+   "title": "AT-LARGE MEMBER OF THE COUNCIL OF THE DISTRICT OF COLUMBIA (first-choice votes)",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "District of Columbia",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 144,
+    "units_total": 144,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:36:21.283Z",
+   "choices": [
+    {
+     "name": "Oye Owolewa",
+     "votes": 126272,
+     "party": "DEM",
+     "pct": 69.79,
+     "choice_id": "1",
+     "party_lines": null
+    },
+    {
+     "name": "Darryl Moch",
+     "votes": 5975,
+     "party": "STG",
+     "pct": 3.3,
+     "choice_id": "2",
+     "party_lines": null
+    },
+    {
+     "name": "Darrell Green",
+     "votes": 10788,
+     "party": "REP",
+     "pct": 5.96,
+     "choice_id": "3",
+     "party_lines": null
+    },
+    {
+     "name": "Elissa Silverman",
+     "votes": 36903,
+     "party": "IND",
+     "pct": 20.4,
+     "choice_id": "4",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 995,
+     "party": null,
+     "pct": 0.55,
+     "choice_id": "5",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "dc",
+   "contest_id": "8",
+   "state": "DC",
+   "title": "WARD ONE MEMBER OF THE COUNCIL OF THE DISTRICT OF COLUMBIA (first-choice votes)",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "District of Columbia",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 144,
+    "units_total": 144,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:36:21.283Z",
+   "choices": [
+    {
+     "name": "Jett James Jasper",
+     "votes": 1141,
+     "party": "REP",
+     "pct": 5.17,
+     "choice_id": "1",
+     "party_lines": null
+    },
+    {
+     "name": "Ryan Prince",
+     "votes": 870,
+     "party": "IND",
+     "pct": 3.94,
+     "choice_id": "2",
+     "party_lines": null
+    },
+    {
+     "name": "Jude Crannitch",
+     "votes": 616,
+     "party": "STG",
+     "pct": 2.79,
+     "choice_id": "3",
+     "party_lines": null
+    },
+    {
+     "name": "Aparna Raj",
+     "votes": 19072,
+     "party": "DEM",
+     "pct": 86.34,
+     "choice_id": "4",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 391,
+     "party": null,
+     "pct": 1.77,
+     "choice_id": "5",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "dc",
+   "contest_id": "9",
+   "state": "DC",
+   "title": "WARD THREE MEMBER OF THE COUNCIL OF THE DISTRICT OF COLUMBIA",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "District of Columbia",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 144,
+    "units_total": 144,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:36:21.283Z",
+   "choices": [
+    {
+     "name": "Matthew Frumin",
+     "votes": 22081,
+     "party": "DEM",
+     "pct": 96.26,
+     "choice_id": "1",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 859,
+     "party": null,
+     "pct": 3.74,
+     "choice_id": "2",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "dc",
+   "contest_id": "10",
+   "state": "DC",
+   "title": "WARD FIVE MEMBER OF THE COUNCIL OF THE DISTRICT OF COLUMBIA (first-choice votes)",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "District of Columbia",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 144,
+    "units_total": 144,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:36:21.283Z",
+   "choices": [
+    {
+     "name": "Zachary Parker",
+     "votes": 22873,
+     "party": "DEM",
+     "pct": 89.81,
+     "choice_id": "1",
+     "party_lines": null
+    },
+    {
+     "name": "Joyce Robinson-Paul",
+     "votes": 1618,
+     "party": "STG",
+     "pct": 6.35,
+     "choice_id": "2",
+     "party_lines": null
+    },
+    {
+     "name": "Jeffrey Kihien-Palza",
+     "votes": 874,
+     "party": "REP",
+     "pct": 3.43,
+     "choice_id": "3",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 102,
+     "party": null,
+     "pct": 0.4,
+     "choice_id": "4",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "dc",
+   "contest_id": "11",
+   "state": "DC",
+   "title": "WARD SIX MEMBER OF THE COUNCIL OF THE DISTRICT OF COLUMBIA",
+   "office_type": "local",
+   "district": "6",
+   "jurisdiction": "District of Columbia",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 144,
+    "units_total": 144,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:36:21.283Z",
+   "choices": [
+    {
+     "name": "Charles Allen",
+     "votes": 23657,
+     "party": "DEM",
+     "pct": 88.98,
+     "choice_id": "1",
+     "party_lines": null
+    },
+    {
+     "name": "Jorge Rice",
+     "votes": 2676,
+     "party": "REP",
+     "pct": 10.06,
+     "choice_id": "2",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 255,
+     "party": null,
+     "pct": 0.96,
+     "choice_id": "3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "dc",
+   "contest_id": "12",
+   "state": "DC",
+   "title": "ATTORNEY GENERAL FOR THE DISTRICT OF COLUMBIA",
+   "office_type": "attorney_general",
+   "district": null,
+   "jurisdiction": "District of Columbia",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 144,
+    "units_total": 144,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:36:21.283Z",
+   "choices": [
+    {
+     "name": "Manuel Rivera",
+     "votes": 12416,
+     "party": "REP",
+     "pct": 6.94,
+     "choice_id": "1",
+     "party_lines": null
+    },
+    {
+     "name": "Brian L. Schwalb",
+     "votes": 165147,
+     "party": "DEM",
+     "pct": 92.36,
+     "choice_id": "2",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 1237,
+     "party": null,
+     "pct": 0.69,
+     "choice_id": "3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "dc",
+   "contest_id": "13",
+   "state": "DC",
+   "title": "UNITED STATES SENATOR",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "District of Columbia",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 144,
+    "units_total": 144,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:36:21.283Z",
+   "choices": [
+    {
+     "name": "Robert Simmons",
+     "votes": 11825,
+     "party": "REP",
+     "pct": 6.76,
+     "choice_id": "1",
+     "party_lines": null
+    },
+    {
+     "name": "Paul Strauss",
+     "votes": 161041,
+     "party": "DEM",
+     "pct": 92.07,
+     "choice_id": "2",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 2039,
+     "party": null,
+     "pct": 1.17,
+     "choice_id": "3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "dc",
+   "contest_id": "14",
+   "state": "DC",
+   "title": "UNITED STATES REPRESENTATIVE CITYWIDE",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "District of Columbia",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 144,
+    "units_total": 144,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:36:21.283Z",
+   "choices": [
+    {
+     "name": "Ciprian Ivanof",
+     "votes": 10247,
+     "party": "REP",
+     "pct": 5.92,
+     "choice_id": "1",
+     "party_lines": null
+    },
+    {
+     "name": "Franklin Garcia",
+     "votes": 161019,
+     "party": "DEM",
+     "pct": 93.01,
+     "choice_id": "2",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 1861,
+     "party": null,
+     "pct": 1.07,
+     "choice_id": "3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "dc",
+   "contest_id": "15",
+   "state": "DC",
+   "title": "WARD ONE MEMBER OF THE STATE BOARD OF EDUCATION",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "District of Columbia",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 144,
+    "units_total": 144,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:36:21.283Z",
+   "choices": [
+    {
+     "name": "Ben Williams",
+     "votes": 16605,
+     "party": null,
+     "pct": 98.45,
+     "choice_id": "1",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 261,
+     "party": null,
+     "pct": 1.55,
+     "choice_id": "2",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "dc",
+   "contest_id": "16",
+   "state": "DC",
+   "title": "WARD THREE MEMBER OF THE STATE BOARD OF EDUCATION",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "District of Columbia",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 144,
+    "units_total": 144,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:36:21.283Z",
+   "choices": [
+    {
+     "name": "Eric Goulet",
+     "votes": 10163,
+     "party": null,
+     "pct": 50.53,
+     "choice_id": "1",
+     "party_lines": null
+    },
+    {
+     "name": "Aaron Wesolowski",
+     "votes": 9700,
+     "party": null,
+     "pct": 48.23,
+     "choice_id": "2",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 248,
+     "party": null,
+     "pct": 1.23,
+     "choice_id": "3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "dc",
+   "contest_id": "17",
+   "state": "DC",
+   "title": "WARD FIVE MEMBER OF THE STATE BOARD OF EDUCATION",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "District of Columbia",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 144,
+    "units_total": 144,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:36:21.283Z",
+   "choices": [
+    {
+     "name": "Jon Alfuth",
+     "votes": 4846,
+     "party": null,
+     "pct": 22.33,
+     "choice_id": "1",
+     "party_lines": null
+    },
+    {
+     "name": "Lynn Jennings",
+     "votes": 16623,
+     "party": null,
+     "pct": 76.6,
+     "choice_id": "2",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 232,
+     "party": null,
+     "pct": 1.07,
+     "choice_id": "3",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "dc",
+   "contest_id": "18",
+   "state": "DC",
+   "title": "WARD SIX MEMBER OF THE STATE BOARD OF EDUCATION (first-choice votes)",
+   "office_type": "local",
+   "district": "6",
+   "jurisdiction": "District of Columbia",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 144,
+    "units_total": 144,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:36:21.283Z",
+   "choices": [
+    {
+     "name": "Amber A. Williams",
+     "votes": 12852,
+     "party": null,
+     "pct": 58.0,
+     "choice_id": "1",
+     "party_lines": null
+    },
+    {
+     "name": "David Parker",
+     "votes": 2853,
+     "party": null,
+     "pct": 12.87,
+     "choice_id": "2",
+     "party_lines": null
+    },
+    {
+     "name": "Joshua Wiley",
+     "votes": 6105,
+     "party": null,
+     "pct": 27.55,
+     "choice_id": "3",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 350,
+     "party": null,
+     "pct": 1.58,
+     "choice_id": "4",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  },
+  {
+   "source": "dc",
+   "contest_id": "364",
+   "state": "DC",
+   "title": "INITIATIVE MEASURE NO. 86",
+   "office_type": "measure",
+   "district": "86",
+   "jurisdiction": "District of Columbia",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 144,
+    "units_total": 144,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T04:36:21.283Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 117053,
+     "party": null,
+     "pct": 73.31,
+     "choice_id": "1",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 42615,
+     "party": null,
+     "pct": 26.69,
+     "choice_id": "2",
+     "party_lines": null
+    }
+   ],
+   "url": null
+  }
+ ],
+ "contests_hash": "7ff83db7747c3b88",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-04T15:08:59+00:00",
+ "fetched_at": "2026-11-04T15:08:59+00:00",
+ "contests_changed_at": "2026-11-04T15:07:36+00:00"
+}

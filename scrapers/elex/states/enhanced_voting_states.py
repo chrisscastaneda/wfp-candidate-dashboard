@@ -1,4 +1,4 @@
-"""Georgia, Utah, Washington and Rhode Island: Enhanced Voting sites, so each is just configuration.
+"""Georgia, Utah, Washington, Rhode Island and Arizona: Enhanced Voting sites, so each is just configuration.
 
 Georgia and Washington returned 403 on Nov 2 (WA: "final launch preparations"). They report `blocked` until the
 sites open, then work with no code changes. Their locality names are resolved against the site's own county list
@@ -22,4 +22,9 @@ SOURCES = [
     EnhancedVotingSource("ri", "RI", "Rhode Island Board of Elections results",
                          "Rhode Island Board of Elections", "https://electionresults.ri.gov",
                          "rhodeisland", tiers=(2, 4), units=("city or town", "cities and towns")),
+    # results.arizona.vote is behind a Cloudflare challenge, but its Nov 3 link goes to Enhanced Voting's shared
+    # host, which scripts can read. County files there (Maricopa) repeat the state's races and have no city races;
+    # Phoenix runs its own council elections.
+    EnhancedVotingSource("az", "AZ", "Arizona SoS results (Enhanced Voting)", "Arizona Secretary of State",
+                         "https://app.enhancedvoting.com", "Arizona"),
 ]

@@ -23,6 +23,7 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 1076,RI,Jackie Goldman,"Providence City Council, Ward 5",needs_review,near_name,ri,01000000-59ac-daed-6be1-08df1e27bc63,Providence: City Council Ward 5,01000000-59ac-daed-ed3e-08df1e27bc6b,Jacqueline Goldman,"first name differs: WFP 'Jackie Goldman', feed 'Jacqueline Goldman'"
 1080,RI,Libby Merrill,"East Providence School Committee, Ward 3",needs_review,near_name,ri,01000000-59ac-daed-cb6d-08df1e27af35,East Providence: Non-Partisan School Committee Ward 3,01000000-59ac-daed-7134-08df1e27af3e,Elizabeth Merrill,"first name differs: WFP 'Libby Merrill', feed 'Elizabeth Merrill'"
 1112,WA,Danny Tarkenton,Spokane County Prosecutor,needs_review,name_in_state,wa,01000000-bd5d-c14f-aefb-08df12b2898e,Prosecuting Attorney,01000000-bd5d-c14f-afad-08df12b2898e,Danny Tarkenton,found by name only; check the office (Prosecuting Attorney)
+16,AZ,Ed Hermes,"Phoenix City Council, District 4",unmatched,,,,,,,no 'hermes' in any AZ contest loaded
 43,CA,Anthony Montes,"East Side Union High School District Board of Trustees, Area 2",unmatched,,,,,,,no 'montes' in any CA contest loaded
 44,CA,Alexander Gvatua,"Foothill De Anza Community College District Board of Trustees, Area 2",unmatched,,,,,,,no 'gvatua' in any CA contest loaded
 50,CA,Aaron Burnett,"Larkspur City Council, At-large",unmatched,,,,,,,no 'burnett' in any CA contest loaded
@@ -50,6 +51,24 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 1096,TX,Dr. Jared Williams,"Tarrant County Commissioner, Precinct 2",unmatched,,,,,,,no 'williams' in any TX contest loaded
 1097,TX,Nydia Cardenas,"Tarrant County Commissioner, Precinct 4",unmatched,,,,,,,no 'cardenas' in any TX contest loaded
 1101,TX,Andrew Hairston,"Travis County Justice of the Peace, Precinct 1",unmatched,,,,,,,no 'hairston' in any TX contest loaded
+3,AZ,Junelle Cavero,"Arizona State House, District 11",auto,district_surname,az,248c0000-c0a3-7204-fa57-08df11bc03cf,State Representative - District No. 11,248c0000-c0a3-7204-fe9a-08df11bc03cf,Junelle Cavero,
+5,AZ,Brian Garcia,"Arizona State House, Legislative District 8",auto,district_surname,az,248c0000-c0a3-7204-e7c1-08df11bc03cf,State Representative - District No.  8,248c0000-c0a3-7204-ebd7-08df11bc03cf,Brian Garcia,
+6,AZ,Lorena Austin,"Arizona State House, Legislative District 9",auto,district_surname,az,248c0000-c0a3-7204-ed26-08df11bc03cf,State Representative - District No.  9,248c0000-c0a3-7204-f025-08df11bc03cf,Lorena Austin,
+7,AZ,Oscar De Los Santos,"Arizona State House, Legislative District 11",auto,district_surname,az,248c0000-c0a3-7204-fa57-08df11bc03cf,State Representative - District No. 11,248c0000-c0a3-7204-ffcd-08df11bc03cf,Oscar De Los Santos,
+8,AZ,Miranda Lopez,"Arizona State House, Legislative District 21",auto,district_surname,az,248c0000-c0a3-7204-3354-08df11bc03d0,State Representative - District No. 21,248c0000-c0a3-7204-3774-08df11bc03d0,Miranda Lopez,
+9,AZ,Mariana Sandoval,"Arizona State House, Legislative District 23",auto,district_surname,az,248c0000-c0a3-7204-3cdd-08df11bc03d0,State Representative - District No. 23,248c0000-c0a3-7204-423e-08df11bc03d0,Mariana Sandoval,
+10,AZ,Alberto Flores,"Arizona State House, Legislative District 24",auto,district_surname,az,248c0000-c0a3-7204-4383-08df11bc03d0,State Representative - District No. 24,248c0000-c0a3-7204-4796-08df11bc03d0,Alberto Flores,
+11,AZ,Lisbeth Arescurenaga,"Arizona State House, Legislative District 24",auto,district_surname,az,248c0000-c0a3-7204-4383-08df11bc03d0,State Representative - District No. 24,248c0000-c0a3-7204-4663-08df11bc03d0,Lisbeth Arescurenaga,
+12,AZ,Quanta Crews,"Arizona State House, Legislative District 26",auto,district_surname,az,248c0000-c0a3-7204-4e34-08df11bc03d0,State Representative - District No. 26,248c0000-c0a3-7204-536f-08df11bc03d0,Quantá Crews,
+13,AZ,Lauren Kuby,"Arizona State Senate, Legislative District 8",auto,district_surname,az,248c0000-c0a3-7204-60d7-08df11bc03cf,State Senator - District No.  8,248c0000-c0a3-7204-6423-08df11bc03cf,Lauren Kuby,
+15,AZ,Analise Ortiz,"Arizona State Senate, Legislative District 24",auto,district_surname,az,248c0000-c0a3-7204-a29a-08df11bc03cf,State Senator - District No. 24,248c0000-c0a3-7204-a575-08df11bc03cf,Analise Ortiz,
+1152,AZ,Prop 141,Ballot Measure,auto,measure_number,az,248c0000-c0a3-7204-c77a-08df11bc03d0,PROPOSITION 141,248c0000-c0a3-7204-ca9b-08df11bc03d0,No,
+1153,AZ,Prop 142,Ballot Measure,auto,measure_number,az,248c0000-c0a3-7204-cba8-08df11bc03d0,PROPOSITION 142,248c0000-c0a3-7204-ce7b-08df11bc03d0,No,
+1154,AZ,Prop 144,Ballot Measure,auto,measure_number,az,248c0000-c0a3-7204-cf93-08df11bc03d0,PROPOSITION 144,248c0000-c0a3-7204-d261-08df11bc03d0,No,
+1155,AZ,Prop 317,Ballot Measure,auto,measure_number,az,248c0000-c0a3-7204-d77d-08df11bc03d0,PROPOSITION 317,248c0000-c0a3-7204-da4a-08df11bc03d0,No,
+1156,AZ,Prop 318,Ballot Measure,auto,measure_number,az,248c0000-c0a3-7204-db59-08df11bc03d0,PROPOSITION 318,248c0000-c0a3-7204-de2c-08df11bc03d0,No,
+1157,AZ,Prop 319,Ballot Measure,auto,measure_number,az,248c0000-c0a3-7204-df39-08df11bc03d0,PROPOSITION 319,248c0000-c0a3-7204-e0e7-08df11bc03d0,Yes,
+1158,AZ,Prop 320,Ballot Measure,auto,measure_number,az,248c0000-c0a3-7204-e33e-08df11bc03d0,PROPOSITION 320,248c0000-c0a3-7204-e5f1-08df11bc03d0,No,
 18,CA,Tamisha Torres Walker,"Antioch City Council, District 1",auto,name_in_state,ca.contra_costa,5006,CITY OF ANTIOCH  MEMBER  CITY COUNCIL  DISTRICT 1,TAMISHA TORRES-WALKER,TAMISHA TORRES-WALKER,
 19,CA,Monica Wilson,"Antioch City Council, District 4",auto,name_in_state,ca.contra_costa,5012,CITY OF ANTIOCH  MEMBER  CITY COUNCIL  DISTRICT 4,MONICA E WILSON,MONICA E WILSON,
 20,CA,Brandon Dawkins,"Antioch Unified School District Board of Education, Trustee Area 5",auto,name_in_state,ca.contra_costa,3305,ANTIOCH UNIFIED SCHOOL DISTRICT  GOVERNING BOARD MEMBER  TRUSTEE AREA 5,BRANDON DAWKINS,BRANDON DAWKINS,
@@ -359,6 +378,12 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 374,CT,Mae Flexer,"State Senate, District 29",auto,district_surname,ct,19854,State Senator 29,Mae Flexer,Mae Flexer,
 375,CT,Brandi Mandato,"State Senate, District 34",auto,district_surname,ct,19859,State Senator 34,Brandi Mandato,Brandi Mandato,
 376,CT,Ethan Werstler,"State Senate, District 35",auto,district_surname,ct,19860,State Senator 35,Ethan Werstler,Ethan Werstler,
+390,DC,Robert White,U.S. House of Representatives,auto,district_surname,dc,4,DELEGATE TO THE HOUSE OF REPRESENTATIVES FROM THE DISTRICT OF COLUMBIA (first-choice votes),2,Robert White,
+391,DC,Janeese Lewis George,D.C. Mayor,auto,name_in_state,dc,5,MAYOR OF THE DISTRICT OF COLUMBIA (first-choice votes),2,Janeese Lewis George,
+392,DC,Brian Schwalb,Attorney General,auto,district_surname,dc,12,ATTORNEY GENERAL FOR THE DISTRICT OF COLUMBIA,2,Brian L. Schwalb,
+393,DC,Aparna Raj,"District Council, Ward 1",auto,name_in_state,dc,8,WARD ONE MEMBER OF THE COUNCIL OF THE DISTRICT OF COLUMBIA (first-choice votes),4,Aparna Raj,
+395,DC,Zachary Parker,"District Council, Ward 5",auto,name_in_state,dc,10,WARD FIVE MEMBER OF THE COUNCIL OF THE DISTRICT OF COLUMBIA (first-choice votes),1,Zachary Parker,
+396,DC,Charles Allen,"District Council, Ward 6",auto,name_in_state,dc,11,WARD SIX MEMBER OF THE COUNCIL OF THE DISTRICT OF COLUMBIA,1,Charles Allen,
 377,DE,Kira Alejandro,"New Castle County Council, District 3",auto,name_in_state,de,New Castle County Council District 3,New Castle County Council District 3,627534,KIRA ALEJANDRO,
 378,DE,Michelle Booker,"State Representative, District 2",auto,district_surname,de,State Representative District 2,State Representative District 2,443084,MICHELLE H. BOOKER,
 379,DE,Branden Fletcher Dominguez,"State Representative, District 3",auto,district_surname,de,State Representative District 3,State Representative District 3,445563,BRANDEN FLETCHER-DOMINGUEZ,
@@ -861,9 +886,14 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 1145,WI,Tip McGuire,"State Assembly, District 64",auto,district_surname,wi.kenosha,Representative to the Assembly District 64,Representative to the Assembly District 64,Tip McGuire,Tip McGuire,
 1146,WI,Ben DeSmidt,"State Assembly, District 65",auto,district_surname,wi.kenosha,Representative to the Assembly District 65,Representative to the Assembly District 65,Ben DeSmidt,Ben DeSmidt,
 1148,WI,Dina Nina Martinez-Rutherford,"State Assembly, District 76",auto,district_surname,wi.dane,0020,Representative to the Assembly District 76,2,Dina Nina Martinez-Rutherford,
+1,AZ,Clara Pratte,Arizona Corporation Commission,confirmed,name_in_state,az,248c0000-c0a3-7204-82ca-08df11bc03d0,Corporation Commissioner,248c0000-c0a3-7204-883c-08df11bc03d0,Clara Pratte,found by name only; check the office (Corporation Commissioner) | confirmed Nov 4: Corporation Commission race (statewide)
+2,AZ,Jonathon Hill,Arizona Corporation Commission,confirmed,name_in_state,az,248c0000-c0a3-7204-82ca-08df11bc03d0,Corporation Commissioner,248c0000-c0a3-7204-870c-08df11bc03d0,Jonathon Hill,found by name only; check the office (Corporation Commissioner) | confirmed Nov 4: Corporation Commission race (statewide)
+4,AZ,Sarah Ligouri,"Arizona State House, Legislative District 5",confirmed,near_name,az,248c0000-c0a3-7204-d720-08df11bc03cf,State Representative - District No.  5,248c0000-c0a3-7204-d8f2-08df11bc03cf,Sarah Liguori,"name differs: WFP 'Sarah Ligouri', feed 'Sarah Liguori' | confirmed Nov 4: WFP's spelling; feed 'Sarah Liguori', same district"
+14,AZ,Priya Sunderashan,"Arizona State Senate, Legislative District 18",confirmed,near_name,az,248c0000-c0a3-7204-8cc1-08df11bc03cf,State Senator - District No. 18,248c0000-c0a3-7204-8fd1-08df11bc03cf,Priya Sundareshan,"name differs: WFP 'Priya Sunderashan', feed 'Priya Sundareshan' | confirmed Nov 4: WFP's spelling; feed 'Priya Sundareshan', same district"
 37,CA,Rebecca Barrett,"Contra Costa Community College Governing Board, Ward 3",confirmed,near_name,ca.contra_costa,3211,CONTRA COSTA COMMUNITY COLLEGE DISTRICT  GOVERNING BOARD MEMBER  WARD 3,BECCA BARRETT,BECCA BARRETT,"first name differs: WFP 'Rebecca Barrett', feed 'BECCA BARRETT' | confirmed Nov 4: same district/ward"
 82,CA,Joanna Paun,"Sonoma County Board of Supervisors, District 2",confirmed,name_in_state,ca.sonoma,45,"County Supervisor, 2nd District",JOANNA PAUN,JOANNA PAUN,"found by name only; check the office (County Supervisor, 2nd District) | confirmed Nov 4: same district/ward"
 83,CA,Melanie Bagby,"Sonoma County Board of Supervisors, District 4",confirmed,name_in_state,ca.sonoma,46,"County Supervisor, 4th District",MELANIE BAGBY,MELANIE BAGBY,"found by name only; check the office (County Supervisor, 4th District) | confirmed Nov 4: same district/ward"
+397,DC,Oye Olowela,"District Council, At-Large",confirmed,near_name,dc,7,AT-LARGE MEMBER OF THE COUNCIL OF THE DISTRICT OF COLUMBIA (first-choice votes),1,Oye Owolewa,WFP spells it 'Olowela'; feed 'Oye Owolewa' | confirmed Nov 4: at-large council
 631,NY,Colin Smith,"Westchester County Legislature, District 1",confirmed,name_in_state,ny.westchester,01000000-0c6a-a4eb-8bab-08df2a1b67df,County Legislator 1st District,01000000-0c6a-a4eb-8bf8-08df2a1b67df,Colin D. Smith,found by name only; check the office (County Legislator 1st District) | confirmed Nov 3: same district/place
 632,NY,Erika Pierce,"Westchester County Legislature, District 2",confirmed,name_in_state,ny.westchester,01000000-0c6a-a4eb-8c6c-08df2a1b67df,County Legislator 2nd District,01000000-0c6a-a4eb-8cc8-08df2a1b67df,Erika Lang Pierce,found by name only; check the office (County Legislator 2nd District) | confirmed Nov 3: same district/place
 633,NY,Jennifer Puja,"Westchester County Legislature, District 5",confirmed,name_in_state,ny.westchester,01000000-0c6a-a4eb-8eba-08df2a1b67df,County Legislator 5th District,01000000-0c6a-a4eb-8f13-08df2a1b67df,Jennifer L. Puja,found by name only; check the office (County Legislator 5th District) | confirmed Nov 3: same district/place
@@ -896,29 +926,6 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 877,NY,Nicholas Coffee,Gates Town Supervisor,confirmed,near_name,ny.monroe,01000000-fff9-9fc1-fa8a-08df1feafbfc,Supervisor Gates,01000000-fff9-9fc1-faa5-08df1feafbfc,Nick Coffee,first-name variant (Nick Coffee); same surname and district
 882,NY,Jennifer Townsend,Perinton Town Supervisor,confirmed,near_name,ny.monroe,01000000-fff9-9fc1-4d5a-08df1feafbfd,Supervisor Perinton,01000000-fff9-9fc1-4d73-08df1feafbfd,Jenn Townsend,first-name variant (Jenn Townsend); same surname and district
 17,AR,Bobby Forrest Jr.,State Circuit Court District 6 Prosecuting Attorney,no_source,,,,,,,no source covers AR yet
-1,AZ,Clara Pratte,Arizona Corporation Commission,no_source,,,,,,,no source covers AZ yet
-2,AZ,Jonathon Hill,Arizona Corporation Commission,no_source,,,,,,,no source covers AZ yet
-3,AZ,Junelle Cavero,"Arizona State House, District 11",no_source,,,,,,,no source covers AZ yet
-4,AZ,Sarah Ligouri,"Arizona State House, Legislative District 5",no_source,,,,,,,no source covers AZ yet
-5,AZ,Brian Garcia,"Arizona State House, Legislative District 8",no_source,,,,,,,no source covers AZ yet
-6,AZ,Lorena Austin,"Arizona State House, Legislative District 9",no_source,,,,,,,no source covers AZ yet
-7,AZ,Oscar De Los Santos,"Arizona State House, Legislative District 11",no_source,,,,,,,no source covers AZ yet
-8,AZ,Miranda Lopez,"Arizona State House, Legislative District 21",no_source,,,,,,,no source covers AZ yet
-9,AZ,Mariana Sandoval,"Arizona State House, Legislative District 23",no_source,,,,,,,no source covers AZ yet
-10,AZ,Alberto Flores,"Arizona State House, Legislative District 24",no_source,,,,,,,no source covers AZ yet
-11,AZ,Lisbeth Arescurenaga,"Arizona State House, Legislative District 24",no_source,,,,,,,no source covers AZ yet
-12,AZ,Quanta Crews,"Arizona State House, Legislative District 26",no_source,,,,,,,no source covers AZ yet
-13,AZ,Lauren Kuby,"Arizona State Senate, Legislative District 8",no_source,,,,,,,no source covers AZ yet
-14,AZ,Priya Sunderashan,"Arizona State Senate, Legislative District 18",no_source,,,,,,,no source covers AZ yet
-15,AZ,Analise Ortiz,"Arizona State Senate, Legislative District 24",no_source,,,,,,,no source covers AZ yet
-16,AZ,Ed Hermes,"Phoenix City Council, District 4",no_source,,,,,,,no source covers AZ yet
-1152,AZ,Prop 141,Ballot Measure,no_source,,,,,,,no source covers AZ yet
-1153,AZ,Prop 142,Ballot Measure,no_source,,,,,,,no source covers AZ yet
-1154,AZ,Prop 144,Ballot Measure,no_source,,,,,,,no source covers AZ yet
-1155,AZ,Prop 317,Ballot Measure,no_source,,,,,,,no source covers AZ yet
-1156,AZ,Prop 318,Ballot Measure,no_source,,,,,,,no source covers AZ yet
-1157,AZ,Prop 319,Ballot Measure,no_source,,,,,,,no source covers AZ yet
-1158,AZ,Prop 320,Ballot Measure,no_source,,,,,,,no source covers AZ yet
 21,CA,Daria Wrubel,"Berkeley City Council, District 4",no_source,,,,,,,no source carries Alameda local races yet
 22,CA,Moni Gangopadhyay,"Berkeley City Council, District 4",no_source,,,,,,,no source carries Alameda local races yet
 23,CA,Syrak Micael,"Berkeley City Council, District 7",no_source,,,,,,,no source carries Alameda local races yet
@@ -986,14 +993,6 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 147,CA,Justin Jackson,"Moreno Valley School Baord, Trustee Area 3",no_source,,,,,,,no source carries Riverside local races yet
 148,CA,Abel Chavez,"Nuevo Union School Board, At-large",no_source,,,,,,,no source carries Riverside local races yet
 152,CA,Aram Ayra,"Riverside City Council, Ward 2",no_source,,,,,,,no source carries Riverside local races yet
-390,DC,Robert White,U.S. House of Representatives,no_source,,,,,,,no source covers DC yet
-391,DC,Janeese Lewis George,D.C. Mayor,no_source,,,,,,,no source covers DC yet
-392,DC,Brian Schwalb,Attorney General,no_source,,,,,,,no source covers DC yet
-393,DC,Aparna Raj,"District Council, Ward 1",no_source,,,,,,,no source covers DC yet
-394,DC,Rashida Brown,"District Council, Ward 1 (Ranking recommendation)",no_source,,,,,,,no source covers DC yet
-395,DC,Zachary Parker,"District Council, Ward 5",no_source,,,,,,,no source covers DC yet
-396,DC,Charles Allen,"District Council, Ward 6",no_source,,,,,,,no source covers DC yet
-397,DC,Oye Olowela,"District Council, At-Large",no_source,,,,,,,no source covers DC yet
 430,KY,Charles Booker,U.S. Senate,no_source,,,,,,,no source covers KY yet
 431,LA,Simone Levine,"Judge, Criminal District Court, Section D, Orleans Parish",no_source,,,,,,,no source covers LA yet
 443,MA,Lorena Betts,"Massachusetts State House, 16th Middlesex District",no_source,,,,,,,no source covers MA yet
@@ -1207,6 +1206,7 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 1218,WI,"Wisconsin Question 2, Freedom to Gather in Places of Worship During an Emergency Referendum",Ballot Measure,no_source,,,,,,,WI has only county sources so far
 1219,WI,"Wisconsin Question 3, Governmental Entity Discrimination Prohibited Referendum",Ballot Measure,no_source,,,,,,,WI has only county sources so far
 1151,WY,Aaron Appelhans,Albany County Sheriff,no_source,,,,,,,no source covers WY yet
+394,DC,Rashida Brown,"District Council, Ward 1 (Ranking recommendation)",not_on_ballot,,,,,,,Not on DC's Nov 3 Ward 1 council ballot (Aparna Raj is the Democrat); checked Nov 4 against DCBOE results.
 650,NY,Reid Kornman,Eastchester School Board,not_on_ballot,,,,,,,Eastchester UFSD board election was held in May 2026.
 678,NY,Phil Howard,Newburgh School Board,not_on_ballot,,,,,,,"Decided May 19, 2026 (Newburgh ECSD); reported re-elected."
 679,NY,Letitia Politi,Newburgh School Board,not_on_ballot,,,,,,,"Decided May 19, 2026 (Newburgh ECSD); reported re-elected."

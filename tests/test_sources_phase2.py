@@ -163,3 +163,26 @@ def test_south_carolina_xlsx():
     assert [(c.name, c.party, c.votes) for c in house.choices] == [("William Timmons", "REP", 146808),
                                                                    ("Courtney McClain", "DEM", 129561)]
     assert sc.snapshot_time("x/2026-11-03-12AM-General-Election-Results.xlsx") == "2026-11-04T00:00:00-05:00"
+
+
+def test_district_of_columbia():
+    from elex.states import dc
+
+    def row(label, votes, code):
+        return {"Contestant": label, "Votes": votes, "PartyCode": code, "CandidateNumber": votes}
+    info = {"ElectionDate": "2026-11-03T00:00:00", "PrecinctsCounted": 144, "TotalPrecincts": 144}
+    contests = dc.parse(info, [
+        {"OfficeName": "DELEGATE TO THE HOUSE OF REPRESENTATIVES FROM THE DISTRICT OF COLUMBIA", "ContestNumber": 4,
+         "IsRCV": True, "ElectionData": [row("DEM Robert White", 157979, "DEM"), row("OVER VOTES", 602, "REP")]},
+        {"OfficeName": "WARD FIVE MEMBER OF THE COUNCIL OF THE DISTRICT OF COLUMBIA", "ContestNumber": 10,
+         "IsRCV": False, "ElectionData": [row("DEM Zachary Parker", 22873, "DEM"), row("Write-in", 0, "NPN")]},
+        {"OfficeName": "UNITED STATES REPRESENTATIVE CITYWIDE", "ContestNumber": 14, "IsRCV": False,
+         "ElectionData": [row("DEM Franklin Garcia", 161019, "DEM")]},
+        {"OfficeName": "INITIATIVE MEASURE NO. 86", "ContestNumber": 364, "IsRCV": False,
+         "ElectionData": [row("Yes, to approve", 117053, "NPN"), row("No, to reject", 42615, "NPN")]}])
+    delegate, ward5, shadow, measure = contests
+    assert (delegate.office_type, delegate.title.endswith("(first-choice votes)")) == ("federal_house", True)
+    assert [(ch.name, ch.party) for ch in delegate.choices] == [("Robert White", "DEM")]
+    assert (ward5.office_type, ward5.district, len(ward5.choices)) == ("local", "5", 1)
+    assert shadow.office_type == "local"  # shadow seat, not a member of Congress
+    assert measure.office_type == "measure" and [ch.name for ch in measure.choices] == ["Yes", "No"]
