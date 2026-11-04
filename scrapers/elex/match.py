@@ -65,9 +65,16 @@ _MEASURE_WORDS = _OFFICE_WORDS | {"ballot", "issue", "question", "measure", "ame
                                   "referendum", "initiative", "yes", "no"}
 
 
+# Words WFP and the feeds use for the same office ("County Legislature" vs "County Legislator 1st").
+_SAME_WORD = {"legislature": "legislator", "legislators": "legislator"}
+
+
 def _overlap(office: str, title: str, ignore=frozenset()) -> int:
     skip = _STOP | ignore
-    return len((set(names.tokens(office)) - skip) & (set(names.tokens(title)) - skip))
+
+    def words(text):
+        return {_SAME_WORD.get(t, t) for t in names.tokens(text)} - skip
+    return len(words(office) & words(title))
 
 
 def _pick(hits: list[tuple[Contest, Choice]], row: dict) -> tuple[tuple[Contest, Choice] | None, str]:
@@ -90,14 +97,25 @@ def _is_local_measure(contest: Contest) -> bool:
                 or re.search(r"\b(city|village|township|county|school district)\b", contest.title, re.I))
 
 
+# County-level jurisdictions that aren't named "... County", and what the review file calls them.
+_CITY_JURISDICTIONS = {"New York City": "nyc"}
+
+
+def _is_county_level(contest: Contest) -> bool:
+    """From a county's (or NYC's) results, which cover only some of a state's districts and local races."""
+    return bool(re.search(r"\bcounty\b", contest.jurisdiction or "", re.I)) \
+        or contest.jurisdiction in _CITY_JURISDICTIONS
+
+
 def _in_row_county(row: dict, contests: list[Contest]) -> list[Contest]:
     """For a local race, drop county contests from other counties ("Michael Nguyen" for SF supervisor isn't a
     San Gabriel city clerk in LA). Statewide-source contests, and rows with no single known county, are kept."""
     counties = [names.fold(c) for c in (row.get("county") or "").split("/") if c.strip()]
     if not counties or any("multi" in c for c in counties):
         return contests
-    return [c for c in contests if not re.search(r"\bcounty\b", c.jurisdiction or "", re.I)
-            or any(county in names.fold(c.jurisdiction) for county in counties)]
+    return [c for c in contests if not _is_county_level(c)
+            or any(county in names.fold(c.jurisdiction) or county == _CITY_JURISDICTIONS.get(c.jurisdiction)
+                   for county in counties)]
 
 
 def _position(row: dict) -> str:
@@ -174,7 +192,8 @@ def match_one(row: dict, contests: list[Contest]) -> Match:
             if len(near) == 1:
                 return Match(NEEDS_REVIEW, "near_name", *near[0],
                              note=f"name differs: WFP {row['name']!r}, feed {near[0][1].name!r}")
-        hits = _surname_hits(same_type, surname)
+        # A county source covers only some districts, so the same surname elsewhere in it is someone else.
+        hits = _surname_hits([c for c in same_type if not _is_county_level(c)], surname)
         if hits:
             picked, note = _pick(hits, row)
             if picked:
@@ -184,6 +203,8 @@ def match_one(row: dict, contests: list[Contest]) -> Match:
 
     # Local, judicial, or a state office filed under an unexpected type: search the whole state, but require the
     # first name too, since common surnames turn up across hundreds of local contests.
+    if kind not in ("local", "judicial"):
+        contests = [c for c in contests if not _is_county_level(c)]  # see the surname_any_district note above
     first = names.first_name(row["name"])
     by_surname = _surname_hits(contests, surname)
     hits = [(c, ch) for c, ch in by_surname if _has_first_name(ch, first)]

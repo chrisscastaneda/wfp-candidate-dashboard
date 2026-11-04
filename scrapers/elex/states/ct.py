@@ -43,8 +43,8 @@ def _reporting(text: str | None) -> Reporting:
 def _district_reporting(reporting: Reporting) -> Reporting:
     if not reporting.units_total:
         return Reporting()
-    return Reporting(reporting.units_reporting, reporting.units_total, as_percent=False,
-                     text=f"Statewide, {reporting.units_reporting or 0:,} of {reporting.units_total:,} precincts reported")
+    done, total = reporting.units_reporting or 0, reporting.units_total
+    return Reporting(done, total, text=f"Statewide, {done:,} of {total:,} precincts reported", as_percent=False)
 
 
 def parse(lookup: dict, votes: dict, election: dict) -> list[Contest]:

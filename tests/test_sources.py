@@ -75,6 +75,25 @@ def test_enhanced_voting_reporting_counts_localities_not_percent():
     assert precincts.pct == 25.0 and precincts.text is None
 
 
+def test_enhanced_voting_combines_fusion_lines_and_flags_county_share():
+    def option(name, party, votes):
+        return {"name": name, "voteCount": votes, "party": {"name": [{"text": party}]}}
+    payload = {"precincts": [{}], "ballotItems": [
+        {"id": "1", "name": "County Legislator 1st District", "parentJurisdictionName": "westchester",
+         "summaryResults": {"ballotOptions": [option("Colin D. Smith", "Democratic", 60),
+                                              option("Colin D. Smith", "Working Families", 15),
+                                              option("Elena Muniz-Walker", "Republican", 50)]}},
+        {"id": "2", "name": "Member of Assembly 88th District", "parentJurisdictionName": "newyork",
+         "summaryResults": {"ballotOptions": [option("A", "Democratic", 1)]}}]}
+    legislator, assembly = enhanced_voting.parse(payload, source_id="ny.westchester", state="NY",
+                                                 jurisdiction="Westchester County")
+    smith = legislator.choices[0]
+    assert len(legislator.choices) == 2 and smith.votes == 75 and smith.party_lines == {"DEM": 60, "WFP": 15}
+    enhanced_voting._county_share([legislator, assembly], "Westchester County")
+    assert (legislator.scope, assembly.scope) == ("complete", "partial")
+    assert assembly.jurisdiction == "Westchester County"
+
+
 def test_enhanced_voting_rhode_island_strips_party_suffix():
     routes = {"jurisdictions/rhodeisland": "ri/jurisdiction.json", "elections/rhodeisland/": "ri/data.json"}
     contests = _by_title(EV["ri"].pull(FakeFetch(routes)))

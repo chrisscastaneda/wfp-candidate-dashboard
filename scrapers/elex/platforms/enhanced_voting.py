@@ -51,7 +51,9 @@ def parse(payload: dict, *, source_id: str, state: str, jurisdiction: str, skip_
             continue
         is_measure = item.get("contestType") == "BallotMeasure"
         status = item.get("reportingStatus") or {}
-        choices = []
+        # New York lists a candidate once per party line (Democratic and Working Families); those combine into one
+        # choice, with each line's votes in `party_lines`.
+        by_label: dict[str, Choice] = {}
         for option in (item.get("summaryResults") or {}).get("ballotOptions") or []:
             label = _text(option.get("name"))
             if option.get("isWriteIn") and not option.get("voteCount"):
@@ -61,10 +63,20 @@ def parse(payload: dict, *, source_id: str, state: str, jurisdiction: str, skip_
             label = re.sub(r"\s*\((?:DEM|REP|IND|Ind|Soc|LIB|GRN|Lib|Grn|NP|[A-Z][a-z]{2})\)\s*$", "", label)
             label = re.sub(r"^(?:DEM|REP|LIB|CON|UNA|FWD|IAP|GRN|IND)\s+(?=\S)", "", label)
             party = option.get("party")
-            choices.append(Choice(
-                names.yes_no(label) if is_measure else label, names.to_int(option.get("voteCount")),
-                names.party(_text(party.get("name")) if isinstance(party, dict) else party),
-                choice_id=option.get("id")))
+            code = names.party(_text(party.get("name")) if isinstance(party, dict) else party)
+            votes = names.to_int(option.get("voteCount"))
+            label = names.yes_no(label) if is_measure else label
+            choice = by_label.get(label)
+            if choice is None:
+                by_label[label] = Choice(label, votes, code, choice_id=option.get("id"),
+                                         party_lines={code: votes} if code else None)
+                continue
+            choice.votes += votes
+            if code:
+                choice.party_lines = choice.party_lines or {}
+                choice.party_lines[code] = choice.party_lines.get(code, 0) + votes
+                if choice.party in (None, "WFP") and code != "WFP":
+                    choice.party = code  # show the main line ("DEM"), not WFP's fusion line
         contest = Contest(
             source=source_id, contest_id=item["id"], state=state, title=title,
             office_type="measure" if is_measure else names.office_type(title),
@@ -72,18 +84,28 @@ def parse(payload: dict, *, source_id: str, state: str, jurisdiction: str, skip_
             jurisdiction=item.get("parentJurisdictionName") or jurisdiction, vote_for=_vote_for(item),
             final=bool(election.get("isOfficialResults")),
             reporting=_reporting(status, by_precinct, units),
-            feed_updated_at=status.get("asOf") or election.get("lastUpdated"), choices=choices)
+            feed_updated_at=status.get("asOf") or election.get("lastUpdated"), choices=list(by_label.values()))
         contest.fill_percentages()
         contests.append(contest)
     return contests
+
+
+def _county_share(contests: list[Contest], county: str) -> None:
+    """A county's own file: its state, federal and Supreme Court contests are only the county's share (partial).
+    Every contest is labeled with the county, since state contests carry the state's name ("newyork")."""
+    for contest in contests:
+        contest.jurisdiction = county
+        if contest.office_type not in ("local", "measure", "judicial") or "supreme court" in contest.title.lower():
+            contest.scope = "partial"
 
 
 class EnhancedVotingSource(Source):
     platform = "Enhanced Voting"
 
     def __init__(self, id, state, title, site_name, base, jurisdiction, localities=(), tiers=(1, 2, 3, 4),
-                 units=("county", "counties")):
+                 units=("county", "counties"), level="state", county=None):
         self.id, self.state, self.title, self.site_name, self.units = id, state, title, site_name, units
+        self.level, self.county = level, county
         self.base, self.jurisdiction, self.localities = base.rstrip("/"), jurisdiction, list(localities)
         self.url = f"{self.base}/results/public/{jurisdiction}"
         self.tiers = frozenset(tiers)
@@ -101,6 +123,8 @@ class EnhancedVotingSource(Source):
         data = fetch.get(self._api(f"elections/{self.jurisdiction}/{election_id}/data"))
         contests = parse(data, source_id=self.id, state=self.state, jurisdiction=_text(info.get("name")),
                          units=self.units)
+        if self.county:
+            _county_share(contests, f"{self.county} County")
         seen = frozenset(names.fold(c.title) for c in contests)
         by_name = {names.fold(_text(c.get("name"))): c.get("shortName") for c in info.get("childLocalities") or []}
         for locality in self.localities:

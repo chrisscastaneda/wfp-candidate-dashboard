@@ -15,6 +15,7 @@ def test_office_type():
         "U.S. House of Representatives, District 12": "federal_house",
         "Representative in Congress District 1": "federal_house",
         "Senator in Congress": "federal_senate",
+        "Member of Assembly 88th District": "state_house",  # Westchester drops NYC's "the"
         "U.S. Senate": "federal_senate",
         "NC HOUSE OF REPRESENTATIVES DISTRICT 030": "state_house",
         "Sate Assembly, District 47": "state_house",

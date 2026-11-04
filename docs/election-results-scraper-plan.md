@@ -160,6 +160,9 @@ what to check when they go live.
 | `ca.los_angeles` | ok, 24 of 29 matched | `results.lavote.gov/ElectionResults/GetElectionData`, JSON with the full Nov 3 ballot already loaded |
 | `ca.orange` | ok, 20 of 21 matched | New platform module `platforms/livevoterturnout.py`. The results page link (with a random token) is read from ocvote.gov, newest election first |
 | `ca.santa_clara`, `ca.contra_costa`, `ca.sonoma`, `ca.ventura`, `ca.marin` | `not_published` | Clarity configuration only (35 rows). Their `elections.json` lists are empty until they post |
+| `ny.nyc` | ok, 55 matched | Built on election night (`counties/ny.py`). `enr.boenyc.gov` has an "Expand List" page per office with every district, each candidate's party lines, and "Percentage of Scanners Reported". A "*" after a title marks the city's share of a race that crosses the city line (statewide offices, NY-3, NY-16, SD-34, SD-36); those are partial. NYC is a county-level source for "NYC", so its state legislative contests match NYC districts only |
+| `ny.westchester` | ok, 19 matched (9 confirmed by hand) | Westchester's results are on Enhanced Voting's shared host (`app.enhancedvoting.com/results/public/westchester-county-ny`), so it's configuration. Its state and federal contests, including the 8 Assembly districts, are marked partial |
+| `ny.erie` | ok, 12 matched (Rathi Ravi by hand) | New platform module `platforms/resultscaster.py`, a JSON API under `erie.resultscaster.com/api/resultscasts/`. Erie's Nov 3 election is titled "General Election 2026 test" (slug `testgen`) but holds the real ballot. Onondaga can reuse the module if its site is reachable |
 
 **Probably not on the ballot:**
 
@@ -179,16 +182,27 @@ what to check when they go live.
 
 | County | Rows | What we know |
 |---|---:|---|
-| NYC (`enr.boenyc.gov`) | NYC's share of 140 state/federal rows | Redirects to vote.nyc until results start. The ENR is HTML per contest; build the parser once it's live. NYC districts wholly inside the city then match directly. Districts that cross into Nassau or Westchester need the partial-summing step, which waits on those county sources |
-| Westchester | 19 | `westchestercountyny.gov/boe99/` says results start after 9:00pm |
-| Erie (and Onondaga) | 12 (21) | Results Caster JavaScript app (`erie.resultscaster.com/r/<election>`). June's was `Prim26`. Find its data request in the browser's network tab tonight |
+| Onondaga | 21 | Results Caster, like Erie: try `platforms/resultscaster.py` with its subdomain |
 | San Diego, Alameda, San Bernardino, San Mateo, Santa Barbara | 16, 15, 10, 12, 7 | Each county's Nov 3 page has no results link yet. Alameda posted June results as PDF/XLSX canvasses |
 | San Francisco | 13 | `sfelections.org/results/20261103w/` returns 403 to scripts. Blocked: use manual entries |
 | Dutchess, Ulster | 38, 28 | Cumulative PDFs; needs `pdfplumber` |
 | Riverside, Kern, Fresno, Tulare; Orange NY, Onondaga, Rockland | | Blocked to scripts (from the source research) |
 
-Until then, the high-priority rows stay with the [manual federal races](#manual-federal-races), and New York's state
-legislative races have no source.
+Until then, the high-priority rows stay with the [manual federal races](#manual-federal-races). New York's state
+legislative races outside NYC have no source: the state BOE site (`nyenr.elections.ny.gov`) still returns 403 to
+scripts on election night.
+
+**Matching changes on election night:**
+
+- A county-level source (any jurisdiction named "... County", or NYC) covers only some of a state's districts, so its
+  contests are skipped by the "same surname, any district" and whole-state fallbacks. This stopped WFP's Patrick
+  Carroll (AD-96) from going to review against Robert Carroll (AD-44) in NYC.
+- Clarity county contests are now labeled "Travis County", not "Travis", so the county filter applies to them. A
+  Travis County utility district race had matched a Tarrant County candidate.
+- "Legislature" and "Legislator" count as the same office word.
+- Enhanced Voting combines a candidate's party lines into one choice, and county Enhanced Voting sources mark state
+  and federal contests partial.
+- "Member of Assembly" (Westchester, Erie) is a State Assembly race.
 
 ## What the probes found
 

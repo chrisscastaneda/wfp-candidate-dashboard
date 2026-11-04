@@ -59,7 +59,7 @@ _OFFICE_PATTERNS = [
                      r"|^senate\b|\bstate senator\b"),
     ("state_house", r"\bstate (house|assembly|representative)|\bsate assembly\b|\bgeneral assembly\b"
                     r"|\bhouse of representatives\b|\bassembly district\b|\bhouse district\b|^assembly\b"
-                    r"|\blegislature\b|\bstate rep|\bhouse of delegates\b"),
+                    r"|\blegislature\b|\bstate rep|\bhouse of delegates\b|\bmember of (the )?assembly\b"),
     ("judicial", r"\bcourt\b|\bjudge\b|\bjustice\b|\bjudicial\b"),
 ]
 
