@@ -50,8 +50,10 @@ def parse(text: str, *, source_id: str, state: str, jurisdiction: str, seen: set
         contest.choices.append(Choice(
             names.yes_no(name) if contest.office_type == "measure" or name.lower() in ("yes", "no", "for",
                                                                                          "against") else name,
-            names.to_int(row.get("CandidateVotes")), names.party(row.get("PartyCode")),
-            names.to_float(row.get("CandidatePercentage")), choice_id=row["CandidateID"]))
+            names.to_int(row.get("CandidateVotes")), names.party(row.get("PartyCode")), choice_id=row["CandidateID"]))
+    # CandidatePercentage is a fraction (0.4513), so percentages come from the votes instead.
+    for contest in contests.values():
+        contest.fill_percentages()
     return list(contests.values())
 
 

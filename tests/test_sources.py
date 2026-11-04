@@ -73,6 +73,13 @@ def test_enhanced_voting_reporting_counts_localities_not_percent():
     # A county file counts precincts, which stay a percentage.
     precincts = contest(10, 40, precincts=[{}])
     assert precincts.pct == 25.0 and precincts.text is None
+    # Westchester counts partly reported precincts as reporting; only fully reported ones count.
+    details = [{"reportingStatusClientTextKey": "reporting-status-fully-reported", "value": 0},
+               {"reportingStatusClientTextKey": "reporting-status-partially-reported", "value": 49}]
+    payload = {"precincts": [{}], "ballotItems": [{"id": "1", "name": "County Legislator 17th District",
+               "reportingStatus": {"reportingUnits": 49, "totalUnits": 49, "reportingStatusDetails": details}}]}
+    partial = enhanced_voting.parse(payload, source_id="x", state="NY", jurisdiction="x")[0].reporting
+    assert partial.pct == 0.0 and partial.text == "0 of 49 precincts fully reported, 49 partly"
 
 
 def test_enhanced_voting_combines_fusion_lines_and_flags_county_share():
@@ -121,6 +128,7 @@ def test_results_csv_new_mexico():
     assert gov.office_type == "governor"
     hd2 = next(c for c in contests if c.office_type == "federal_house" and c.district == "2")
     assert "GABRIEL VASQUEZ" in [ch.name for ch in hd2.choices] and hd2.reporting.units_total == 663
+    assert all(ch.pct is not None and (ch.pct == 0 or ch.pct > 1) for c in contests for ch in c.choices if ch.votes)
     amendment = next(c for c in contests if c.office_type == "measure" and c.district == "1")
     assert [ch.name for ch in amendment.choices] == ["Yes", "No"]
 

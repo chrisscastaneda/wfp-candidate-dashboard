@@ -34,6 +34,16 @@ def _reporting(status: dict, by_precinct: bool, units: tuple[str, str]) -> Repor
     first batch, so a single-county district reads "100%" on early votes alone. Those get a count instead of a
     percentage. Locality files count precincts, which are fine as a percentage."""
     done, total = status.get("reportingUnits"), status.get("totalUnits")
+    if by_precinct and total:
+        # Westchester counts a precinct as reporting once any of its ballots are in; the details split that into
+        # fully and partly reported, and only fully reported precincts count toward the percentage.
+        details = {d.get("reportingStatusClientTextKey"): d.get("value") or 0
+                   for d in status.get("reportingStatusDetails") or []}
+        if "reporting-status-fully-reported" in details:
+            full = details["reporting-status-fully-reported"]
+            partly = details.get("reporting-status-partially-reported", 0)
+            text = f"{full} of {total} precincts fully reported" + (f", {partly} partly" if partly else "")
+            return Reporting(full, total, text=text)
     if by_precinct or not total:
         return Reporting(done, total)
     noun = units[0] if total == 1 else units[1]
