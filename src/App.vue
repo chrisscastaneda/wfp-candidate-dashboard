@@ -48,6 +48,16 @@ const statusCounts = computed(() => {
   return counts
 })
 
+/** States with at least one endorsement passing the office and results toggles (ignoring the state and search). */
+const matchingStates = computed(
+  () =>
+    new Set(
+      CANDIDATES.filter(
+        (c) => enabledCategories.value.has(c.office_category) && enabledStatuses.value.has(displayStatus(c)),
+      ).map((c) => c.state),
+    ),
+)
+
 const visible = computed(() => {
   const q = search.value.trim().toLowerCase()
   return inScope.value.filter(
@@ -112,7 +122,12 @@ const resultsTime = new Date(RESULTS_GENERATED_AT).toLocaleString('en-US', {
             </button>
             <p v-else class="text-sm text-neutral-500">Click a state to filter</p>
           </div>
-          <TileMap :states="STATE_TILES" :selected="selectedState" @select="selectState" />
+          <TileMap
+            :states="STATE_TILES"
+            :selected="selectedState"
+            :matching="matchingStates"
+            @select="selectState"
+          />
           <MapLegend class="mt-4" />
         </div>
 

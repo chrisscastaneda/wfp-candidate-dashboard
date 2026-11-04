@@ -3,7 +3,12 @@ import { GRID_COLUMNS, GRID_ROWS } from '../data/stateGrid'
 import type { StateTileData } from '../data/types'
 import StateTile from './StateTile.vue'
 
-defineProps<{ states: StateTileData[]; selected: string | null }>()
+defineProps<{
+  states: StateTileData[]
+  selected: string | null
+  /** State names with at least one endorsement matching the filters; the rest are drawn faded. */
+  matching: Set<string>
+}>()
 defineEmits<{ select: [abbreviation: string] }>()
 </script>
 
@@ -25,6 +30,7 @@ defineEmits<{ select: [abbreviation: string] }>()
       <StateTile
         :state="state"
         :selected="selected === state.state_abbreviation"
+        :faded="!matching.has(state.state_name)"
         @select="$emit('select', $event)"
       />
     </div>

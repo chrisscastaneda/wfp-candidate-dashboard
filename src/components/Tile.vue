@@ -10,8 +10,8 @@ export interface TileNotches {
   bottomRight?: boolean
 }
 
-/** highlight: has data · muted: no data · active: currently selected */
-export type TileTone = 'highlight' | 'muted' | 'active'
+/** highlight: has data · faded: has data, none matching the filters · muted: no data · active: currently selected */
+export type TileTone = 'highlight' | 'faded' | 'muted' | 'active'
 
 const props = withDefaults(
   defineProps<{
@@ -93,6 +93,10 @@ const CORNERS = ['topLeft', 'topRight', 'bottomLeft', 'bottomRight'] as const
   cursor: default;
 }
 
+.tile--faded {
+  --tile-ink: color-mix(in srgb, var(--color-wfp-orange) 40%, white);
+  --tile-fill: color-mix(in srgb, #fde4df 45%, white);
+}
 .tile--muted {
   --tile-ink: #b3ae9f;
   --tile-fill: var(--color-wfp-gray);

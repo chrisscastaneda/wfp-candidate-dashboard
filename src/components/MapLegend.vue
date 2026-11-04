@@ -21,6 +21,12 @@ const ITEMS = [
     </div>
     <div class="flex items-center gap-1.5 whitespace-nowrap lg:gap-1">
       <div class="pointer-events-none w-6 lg:w-5" aria-hidden="true">
+        <Tile label="" tone="faded" tabindex="-1" />
+      </div>
+      No matching races
+    </div>
+    <div class="flex items-center gap-1.5 whitespace-nowrap lg:gap-1">
+      <div class="pointer-events-none w-6 lg:w-5" aria-hidden="true">
         <Tile label="" tone="muted" tabindex="-1" />
       </div>
       No endorsements
