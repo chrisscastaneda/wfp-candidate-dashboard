@@ -42,8 +42,9 @@ See also [election-results-scraper-plan.md](election-results-scraper-plan.md) (d
 | 10:44am | 958 | 777 | Onondaga, Nassau, Albany, Schenectady, Saratoga and 6 more NY counties (new sources) |
 | 10:52am | 972 | 782 | Niagara NY (new source) |
 | 10:51pm | 973 | 783 | Connecticut (2 more); 5 sources now 403, 3 timed out |
+| 11:07pm | 985 | 794 | Michigan statewide and legislative races (entered by hand) |
 
-Still missing at 10:51pm Nov 4: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
+Still missing at 11:07pm Nov 4: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
 
 ---
 
@@ -560,6 +561,23 @@ Fixes made while building:
   Trish Prunty (Dutchess LD-7) trails by 36. Connecticut is at 775 of 776 precincts with Mandato (+25) and Becker (+34)
   unchanged. Chris Kluwe (CA AD-72) is 2,719 behind.
 
+### Nov 4, 11:07pm: Michigan by hand
+
+- 985 races with results, WFP leading 794. Michigan: 17 of 19 WFP races covered; only the two Bay City Commission
+  races are left (not on Bay County's report).
+- The state's unofficial results (`mvic.sos.state.mi.us/votehistory/Index?type=C&electionDate=11-3-2026`, linked from
+  michigan.gov's results table) show scripts a Cloudflare challenge, so they're read in the browser and entered in
+  `manual_entries.csv`. Update read: 4:46pm Nov 4.
+- **The state file has 82 of 83 counties; Wayne (Detroit) isn't in yet.** Every race whose district includes Wayne is
+  entered as the state's 82-county numbers plus Wayne's own TotalVote results, added in code, and its title says so
+  ("U.S. Senate (state's 82 counties plus Wayne County)"). Wayne is at 757 of 770 precincts for statewide races and
+  100% for the districts. Without Wayne, El-Sayed was at 49.3%; with it he leads 52.5%. Gilchrist (Secretary of
+  State) 53.7%, Savit (Attorney General) 52.5%, Tlaib (MI-12) 76.2%.
+- Entered from the state file alone (no Wayne precincts): Lawrence (MI-7) 51.0%, Manetta (HD-58) 52.6%, Dievendorf
+  (HD-77) 65.0%. HD-7 isn't in the state file at all, so it lies wholly in Wayne: Wayne's result is the whole race
+  (Tonya Myers Phillips 95.1%).
+- These rows don't update. When the state adds Wayne, they should be re-entered from the state file alone.
+
 ## Feed quirks worth remembering
 
 | Source | Quirk | How it's handled |
@@ -597,6 +615,7 @@ Fixes made while building:
 | Nassau County (NY) | PDF rendered as HTML text runs | Text joined, page headers cut, parsed as one stream |
 | Niagara County (NY) | Moved to NTS; election list needs a login | Election id set in the source, date checked |
 | NM, FL, OH, DC, Kenosha (WI) | Started returning 403 to scripts the evening after the election | Last good results kept; not worked around |
+| Michigan SoS results | Cloudflare challenge to scripts; Wayne posted last | Entered by hand: state's 82 counties plus Wayne's TotalVote share |
 | Oregon | Vote by mail; precincts-reporting stays at 0 while votes come in | Shown as reported; worth replacing with a count or hiding |
 
 ## Still open
@@ -605,9 +624,8 @@ Fixes made while building:
   hadn't posted a Nov 3 election by 11:10pm.
 - Wisconsin: 9 of 29 races. Still missing: the statewide races and questions, SD-5, 7, 17, 21, 31, AD-13, 21, 51,
   53, 61–63, 73, 90, 93 (multi-county, or counties that block scripts or post PDFs).
-- Michigan: 6 of 19 races (Wayne 4, Washtenaw 2). Still missing: El-Sayed (U.S. Senate), Gilchrist and Savit
-  (statewide), MI-7 and MI-12, HD-7, 8, 11, 23, 58, 77, and the two Bay City Commission races (not on Bay County's
-  report).
+- Michigan: 17 of 19 races. The statewide and district races are hand-entered (state's 82 counties plus Wayne) and
+  need re-entering once the state adds Wayne. The two Bay City Commission races aren't on Bay County's report.
 - Kentucky and Maine have no source; they need manual entries.
 - Massachusetts is entered by hand (AP as of about 7–10am Nov 4) and only updates when re-entered; Q5 and the
   3rd Barnstable race are close.

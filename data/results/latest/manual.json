@@ -856,12 +856,596 @@
    ],
    "url": "https://www.cbsnews.com/boston/news/massachusetts-2026-election-results-governor-senate-ballot-questions/",
    "uncontested": true
+  },
+  {
+   "source": "manual",
+   "contest_id": "mi.us-senate",
+   "state": "MI",
+   "title": "U.S. Senate (state's 82 counties plus Wayne County)",
+   "office_type": "federal_senate",
+   "district": null,
+   "jurisdiction": "MI",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T16:46:30-05:00",
+   "choices": [
+    {
+     "name": "Abdul El-Sayed",
+     "votes": 2499312,
+     "party": "DEM",
+     "pct": 52.51,
+     "choice_id": "Abdul El-Sayed",
+     "party_lines": null
+    },
+    {
+     "name": "Mike Rogers",
+     "votes": 2165228,
+     "party": "REP",
+     "pct": 45.49,
+     "choice_id": "Mike Rogers",
+     "party_lines": null
+    },
+    {
+     "name": "Lydia Christensen",
+     "votes": 49362,
+     "party": "LIB",
+     "pct": 1.04,
+     "choice_id": "Lydia Christensen",
+     "party_lines": null
+    },
+    {
+     "name": "Tim Long",
+     "votes": 26340,
+     "party": "UST",
+     "pct": 0.55,
+     "choice_id": "Tim Long",
+     "party_lines": null
+    },
+    {
+     "name": "Douglas P. Marsh",
+     "votes": 12469,
+     "party": "GRN",
+     "pct": 0.26,
+     "choice_id": "Douglas P. Marsh",
+     "party_lines": null
+    },
+    {
+     "name": "Walter P. Kristy",
+     "votes": 7202,
+     "party": "NLP",
+     "pct": 0.15,
+     "choice_id": "Walter P. Kristy",
+     "party_lines": null
+    }
+   ],
+   "url": "https://mvic.sos.state.mi.us/votehistory/Index?type=C&electionDate=11-3-2026",
+   "uncontested": false
+  },
+  {
+   "source": "manual",
+   "contest_id": "mi.sos",
+   "state": "MI",
+   "title": "Secretary of State (state's 82 counties plus Wayne County)",
+   "office_type": "secretary_of_state",
+   "district": null,
+   "jurisdiction": "MI",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T16:46:30-05:00",
+   "choices": [
+    {
+     "name": "Garlin Gilchrist",
+     "votes": 2528718,
+     "party": "DEM",
+     "pct": 53.74,
+     "choice_id": "Garlin Gilchrist",
+     "party_lines": null
+    },
+    {
+     "name": "Anthony G. Forlini",
+     "votes": 2050366,
+     "party": "REP",
+     "pct": 43.58,
+     "choice_id": "Anthony G. Forlini",
+     "party_lines": null
+    },
+    {
+     "name": "Christine Sloan",
+     "votes": 76610,
+     "party": "LIB",
+     "pct": 1.63,
+     "choice_id": "Christine Sloan",
+     "party_lines": null
+    },
+    {
+     "name": "Scott E. Aughney",
+     "votes": 28059,
+     "party": "UST",
+     "pct": 0.6,
+     "choice_id": "Scott E. Aughney",
+     "party_lines": null
+    },
+    {
+     "name": "Eric Borregard",
+     "votes": 21363,
+     "party": "GRN",
+     "pct": 0.45,
+     "choice_id": "Eric Borregard",
+     "party_lines": null
+    }
+   ],
+   "url": "https://mvic.sos.state.mi.us/votehistory/Index?type=C&electionDate=11-3-2026",
+   "uncontested": false
+  },
+  {
+   "source": "manual",
+   "contest_id": "mi.ag",
+   "state": "MI",
+   "title": "Attorney General (state's 82 counties plus Wayne County)",
+   "office_type": "attorney_general",
+   "district": null,
+   "jurisdiction": "MI",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T16:46:30-05:00",
+   "choices": [
+    {
+     "name": "Eli Savit",
+     "votes": 2449767,
+     "party": "DEM",
+     "pct": 52.48,
+     "choice_id": "Eli Savit",
+     "party_lines": null
+    },
+    {
+     "name": "Doug Lloyd",
+     "votes": 2088797,
+     "party": "REP",
+     "pct": 44.75,
+     "choice_id": "Doug Lloyd",
+     "party_lines": null
+    },
+    {
+     "name": "Jason Dye",
+     "votes": 58263,
+     "party": "LIB",
+     "pct": 1.25,
+     "choice_id": "Jason Dye",
+     "party_lines": null
+    },
+    {
+     "name": "John Perry Ludtke",
+     "votes": 31858,
+     "party": "UST",
+     "pct": 0.68,
+     "choice_id": "John Perry Ludtke",
+     "party_lines": null
+    },
+    {
+     "name": "Jeff Polonowski",
+     "votes": 24956,
+     "party": "GRN",
+     "pct": 0.53,
+     "choice_id": "Jeff Polonowski",
+     "party_lines": null
+    },
+    {
+     "name": "Doug Dern",
+     "votes": 14005,
+     "party": "NLP",
+     "pct": 0.3,
+     "choice_id": "Doug Dern",
+     "party_lines": null
+    }
+   ],
+   "url": "https://mvic.sos.state.mi.us/votehistory/Index?type=C&electionDate=11-3-2026",
+   "uncontested": false
+  },
+  {
+   "source": "manual",
+   "contest_id": "mi.us-house.12",
+   "state": "MI",
+   "title": "U.S. House District 12 (state's 82 counties plus Wayne County)",
+   "office_type": "federal_house",
+   "district": "12",
+   "jurisdiction": "MI",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T16:46:30-05:00",
+   "choices": [
+    {
+     "name": "Rashida Tlaib",
+     "votes": 244652,
+     "party": "DEM",
+     "pct": 76.17,
+     "choice_id": "Rashida Tlaib",
+     "party_lines": null
+    },
+    {
+     "name": "James D. Hooper",
+     "votes": 67451,
+     "party": "REP",
+     "pct": 21.0,
+     "choice_id": "James D. Hooper",
+     "party_lines": null
+    },
+    {
+     "name": "Marc Joseph Sosnowski",
+     "votes": 2019,
+     "party": "UST",
+     "pct": 0.63,
+     "choice_id": "Marc Joseph Sosnowski",
+     "party_lines": null
+    },
+    {
+     "name": "Brenda K. Sanders",
+     "votes": 3320,
+     "party": "GRN",
+     "pct": 1.03,
+     "choice_id": "Brenda K. Sanders",
+     "party_lines": null
+    },
+    {
+     "name": "Gary Walkowicz",
+     "votes": 3768,
+     "party": "WCP",
+     "pct": 1.17,
+     "choice_id": "Gary Walkowicz",
+     "party_lines": null
+    }
+   ],
+   "url": "https://mvic.sos.state.mi.us/votehistory/Index?type=C&electionDate=11-3-2026",
+   "uncontested": false
+  },
+  {
+   "source": "manual",
+   "contest_id": "mi.us-house.7",
+   "state": "MI",
+   "title": "U.S. House District 7",
+   "office_type": "federal_house",
+   "district": "7",
+   "jurisdiction": "MI",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T16:46:30-05:00",
+   "choices": [
+    {
+     "name": "William Lawrence",
+     "votes": 202657,
+     "party": "DEM",
+     "pct": 51.03,
+     "choice_id": "William Lawrence",
+     "party_lines": null
+    },
+    {
+     "name": "Tom Barrett",
+     "votes": 189482,
+     "party": "REP",
+     "pct": 47.71,
+     "choice_id": "Tom Barrett",
+     "party_lines": null
+    },
+    {
+     "name": "Shane Dedrick",
+     "votes": 4974,
+     "party": "GRN",
+     "pct": 1.25,
+     "choice_id": "Shane Dedrick",
+     "party_lines": null
+    }
+   ],
+   "url": "https://mvic.sos.state.mi.us/votehistory/Index?type=C&electionDate=11-3-2026",
+   "uncontested": false
+  },
+  {
+   "source": "manual",
+   "contest_id": "mi.house.8",
+   "state": "MI",
+   "title": "State Representative District 8 (state's 82 counties plus Wayne County)",
+   "office_type": "state_house",
+   "district": "8",
+   "jurisdiction": "MI",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T16:46:30-05:00",
+   "choices": [
+    {
+     "name": "Chris Gilmer-Hill",
+     "votes": 34296,
+     "party": "DEM",
+     "pct": 90.96,
+     "choice_id": "Chris Gilmer-Hill",
+     "party_lines": null
+    },
+    {
+     "name": "Bruce P. Langran",
+     "votes": 2871,
+     "party": "REP",
+     "pct": 7.61,
+     "choice_id": "Bruce P. Langran",
+     "party_lines": null
+    },
+    {
+     "name": "Stephen Boyle",
+     "votes": 536,
+     "party": "GRN",
+     "pct": 1.42,
+     "choice_id": "Stephen Boyle",
+     "party_lines": null
+    }
+   ],
+   "url": "https://mvic.sos.state.mi.us/votehistory/Index?type=C&electionDate=11-3-2026",
+   "uncontested": false
+  },
+  {
+   "source": "manual",
+   "contest_id": "mi.house.11",
+   "state": "MI",
+   "title": "State Representative District 11 (state's 82 counties plus Wayne County)",
+   "office_type": "state_house",
+   "district": "11",
+   "jurisdiction": "MI",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T16:46:30-05:00",
+   "choices": [
+    {
+     "name": "Kimberly Fisher",
+     "votes": 23826,
+     "party": "DEM",
+     "pct": 86.38,
+     "choice_id": "Kimberly Fisher",
+     "party_lines": null
+    },
+    {
+     "name": "Matthew Stafford",
+     "votes": 3757,
+     "party": "REP",
+     "pct": 13.62,
+     "choice_id": "Matthew Stafford",
+     "party_lines": null
+    }
+   ],
+   "url": "https://mvic.sos.state.mi.us/votehistory/Index?type=C&electionDate=11-3-2026",
+   "uncontested": false
+  },
+  {
+   "source": "manual",
+   "contest_id": "mi.house.23",
+   "state": "MI",
+   "title": "State Representative District 23 (state's 82 counties plus Wayne County)",
+   "office_type": "state_house",
+   "district": "23",
+   "jurisdiction": "MI",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T16:46:30-05:00",
+   "choices": [
+    {
+     "name": "Jason Morgan",
+     "votes": 28336,
+     "party": "DEM",
+     "pct": 66.64,
+     "choice_id": "Jason Morgan",
+     "party_lines": null
+    },
+    {
+     "name": "Miriam Corvino",
+     "votes": 13672,
+     "party": "REP",
+     "pct": 32.15,
+     "choice_id": "Miriam Corvino",
+     "party_lines": null
+    },
+    {
+     "name": "Christina Marudas",
+     "votes": 516,
+     "party": "GRN",
+     "pct": 1.21,
+     "choice_id": "Christina Marudas",
+     "party_lines": null
+    }
+   ],
+   "url": "https://mvic.sos.state.mi.us/votehistory/Index?type=C&electionDate=11-3-2026",
+   "uncontested": false
+  },
+  {
+   "source": "manual",
+   "contest_id": "mi.house.58",
+   "state": "MI",
+   "title": "State Representative District 58",
+   "office_type": "state_house",
+   "district": "58",
+   "jurisdiction": "MI",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T16:46:30-05:00",
+   "choices": [
+    {
+     "name": "Katrina Manetta",
+     "votes": 21058,
+     "party": "DEM",
+     "pct": 52.64,
+     "choice_id": "Katrina Manetta",
+     "party_lines": null
+    },
+    {
+     "name": "Ron Robinson",
+     "votes": 18949,
+     "party": "REP",
+     "pct": 47.36,
+     "choice_id": "Ron Robinson",
+     "party_lines": null
+    }
+   ],
+   "url": "https://mvic.sos.state.mi.us/votehistory/Index?type=C&electionDate=11-3-2026",
+   "uncontested": false
+  },
+  {
+   "source": "manual",
+   "contest_id": "mi.house.77",
+   "state": "MI",
+   "title": "State Representative District 77",
+   "office_type": "state_house",
+   "district": "77",
+   "jurisdiction": "MI",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T16:46:30-05:00",
+   "choices": [
+    {
+     "name": "Emily Dievendorf",
+     "votes": 29005,
+     "party": "DEM",
+     "pct": 65.01,
+     "choice_id": "Emily Dievendorf",
+     "party_lines": null
+    },
+    {
+     "name": "Sally Jo Nelton",
+     "votes": 14387,
+     "party": "REP",
+     "pct": 32.25,
+     "choice_id": "Sally Jo Nelton",
+     "party_lines": null
+    },
+    {
+     "name": "Jennifer Long",
+     "votes": 1222,
+     "party": "LIB",
+     "pct": 2.74,
+     "choice_id": "Jennifer Long",
+     "party_lines": null
+    }
+   ],
+   "url": "https://mvic.sos.state.mi.us/votehistory/Index?type=C&electionDate=11-3-2026",
+   "uncontested": false
+  },
+  {
+   "source": "manual",
+   "contest_id": "mi.house.7",
+   "state": "MI",
+   "title": "State Representative District 7 (Wayne County; the district is entirely in Wayne)",
+   "office_type": "state_house",
+   "district": "7",
+   "jurisdiction": "MI",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": 100.0,
+    "text": "100% reporting",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-04T08:31:15-05:00",
+   "choices": [
+    {
+     "name": "Tonya Myers Phillips",
+     "votes": 24947,
+     "party": null,
+     "pct": 95.11,
+     "choice_id": "Tonya Myers Phillips",
+     "party_lines": null
+    },
+    {
+     "name": "Reginald Moorer",
+     "votes": 1282,
+     "party": null,
+     "pct": 4.89,
+     "choice_id": "Reginald Moorer",
+     "party_lines": null
+    }
+   ],
+   "url": "https://michigan.totalvote.com/Wayne",
+   "uncontested": false
   }
  ],
- "contests_hash": "95dfbe0907432dfc",
+ "contests_hash": "664af0545357d22b",
  "status": "ok",
  "message": "",
- "last_attempt_at": "2026-11-05T03:54:51+00:00",
- "fetched_at": "2026-11-05T03:54:51+00:00",
- "contests_changed_at": "2026-11-04T15:17:25+00:00"
+ "last_attempt_at": "2026-11-05T04:06:39+00:00",
+ "fetched_at": "2026-11-05T04:06:39+00:00",
+ "contests_changed_at": "2026-11-05T04:06:39+00:00"
 }

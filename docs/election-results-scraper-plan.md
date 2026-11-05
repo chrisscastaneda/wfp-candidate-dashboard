@@ -153,6 +153,7 @@ New review items and findings:
 |---|---|---|
 | `az` | ok, 22 of 23 matched | Enhanced Voting configuration (`states/enhanced_voting_states.py`). results.arizona.vote is behind a Cloudflare challenge; its Nov 3 link goes to `app.enhancedvoting.com/results/public/Arizona/110326GeneralElection`. Ed Hermes (Phoenix) has no source |
 | `dc` | ok, 7 of 8 matched (Rashida Brown not on the ballot) | New parser `states/dc.py` for DCBOE's JSON. Ranked-choice contests are labeled "(first-choice votes)" until rounds are posted |
+| Michigan | 11 entered by hand (Nov 4 evening) | The state's results (`mvic.sos.state.mi.us`) show scripts a Cloudflare challenge. Read in the browser; the state file had 82 of 83 counties, so races including Wayne add Wayne's TotalVote share |
 | Massachusetts | 16 entered by hand, 4 not on the ballot | No official election-night feed; electionstats adds general elections after certification. AP counts read from news sites' embedded widgets (WGBH for questions, CBS Boston for the legislature) into `manual_entries.csv`. Unopposed races use `unopposed` as the votes |
 
 ## New York districts summed from counties (Nov 4)
