@@ -44,8 +44,9 @@ See also [election-results-scraper-plan.md](election-results-scraper-plan.md) (d
 | 10:51pm | 973 | 783 | Connecticut (2 more); 5 sources now 403, 3 timed out |
 | 11:07pm | 985 | 794 | Michigan statewide and legislative races (entered by hand) |
 | 11:18pm | 1,019 | 816 | Los Angeles County's counts (bug fix), Multnomah ranked-choice (new source) |
+| Nov 5, 9:55am | 1,019 | 816 | (none new; 12 counts changed) |
 
-Still missing at 11:18pm Nov 4: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
+Still missing at 9:55am Nov 5: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
 
 ---
 
@@ -599,6 +600,21 @@ Fixes made while building:
 - Confirmed by hand: Helen Kreiger (WFP's spelling; LA's feed has "Krieger", same West Hollywood race).
 - Still blocked or down this run: New Mexico, Florida, Ohio, DC, Kenosha (403); Nassau, Dane, Washtenaw (timeouts).
   Their last good results stay on the dashboard.
+- **Why they're blocked: almost certainly location.** These runs came from a network in Mexico; every one of these
+  sources worked from the US on election night. The 403s are Cloudflare challenges (Florida, Ohio, DC), an F5 firewall
+  rejection (New Mexico) and Incapsula (Kenosha); Nassau, Dane and Washtenaw drop the connection outright, the usual
+  sign of a country-based firewall rule. The in-app browser on the same connection gets the same treatment (Nassau
+  won't load; Florida shows a real browser Cloudflare's bot check). Running from a US network should clear them.
+
+### Nov 5, 9:55am: quiet morning
+
+- 1,019 races with results, WFP leading 816, unchanged. Vote counts moved in only 12 races (Connecticut 10, California
+  1, Maryland 1); nothing flipped.
+- Run from Mexico again, so the same eight sources stayed blocked or timed out (New Mexico, Florida, Ohio, DC, Kenosha,
+  Nassau, Dane, Washtenaw); their last good results stay on the dashboard.
+- Most county sites haven't posted since election night. California counts mail ballots for weeks; the close
+  California races (Kluwe AD-72 -2,719, Frame SD-6 -8,358, Lopez AD-68 -2,771, Tsaasan Aliso Viejo +4) haven't moved
+  since Nov 4.
 
 ## Feed quirks worth remembering
 
@@ -636,7 +652,7 @@ Fixes made while building:
 | Saratoga County (NY) | Numbered PDF uploads; page headers repeat mid-contest | Highest number taken; header rows skipped |
 | Nassau County (NY) | PDF rendered as HTML text runs | Text joined, page headers cut, parsed as one stream |
 | Niagara County (NY) | Moved to NTS; election list needs a login | Election id set in the source, date checked |
-| NM, FL, OH, DC, Kenosha (WI) | Started returning 403 to scripts the evening after the election | Last good results kept; not worked around |
+| NM, FL, OH, DC, Kenosha (WI); Nassau, Dane, Washtenaw timeouts | Blocked on Nov 4 evening runs made from Mexico; worked from the US | Last good results kept; run from a US network |
 | Michigan SoS results | Cloudflare challenge to scripts; Wayne posted last | Entered by hand: state's 82 counties plus Wayne's TotalVote share |
 | Los Angeles County | Ballot and counts come from separate calls | `GetElectionData` for the ballot, `GetCounterData` for votes |
 | Multnomah County (OR) | Ranked-choice contests have no votes in the state feed | County tabulation JSON; last-round totals |
