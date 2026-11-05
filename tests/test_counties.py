@@ -12,11 +12,14 @@ from elex.source import NotPublished
 
 
 def test_los_angeles():
-    routes = {"GetMenuElections": "ca_la/menu_2026.json", "GetElectionData": "ca_la/election_4348.json"}
+    routes = {"GetMenuElections": "ca_la/menu_2026.json", "GetElectionData": "ca_la/election_4348.json",
+              "GetCounterData": "ca_la/counter_4348.json"}
     contests = ca.LosAngeles().pull(FakeFetch(routes))
     mayor = next(c for c in contests if c.title == "LOS ANGELES CITY GENERAL MUNICIPAL ELECTION Mayor")
     assert mayor.office_type == "local" and mayor.scope == "complete"
-    assert "NITHYA RAMAN" in [ch.name for ch in mayor.choices]
+    # Votes come from GetCounterData, keyed by candidate id; GetElectionData's own counts are all zero.
+    assert {(ch.name, ch.votes) for ch in mayor.choices} == {("NITHYA RAMAN", 405193), ("KAREN RUTH BASS", 379069)}
+    assert mayor.feed_updated_at == "2026-11-04T16:28:25-08:00"
     governor = next(c for c in contests if c.title == "GOVERNOR")
     assert governor.scope == "partial"
     assert any(c.vote_for == 3 for c in contests)  # "Vote for no more than three"
@@ -367,3 +370,34 @@ def test_nts_vic_combines_party_lines():
     assert (arida.votes, arida.party, arida.party_lines) == (30222, "DEM", {"DEM": 27590, "WFP": 2632})
     assert len(senate.choices) == 2 and legislator.scope == "complete"
     assert senate.reporting.text == "Countywide: election day fully reported, absentees partially reported"
+
+
+def test_multnomah_ranked_choice():
+    from elex.counties import or_
+    home = ('<h2>November 3, 2026 General Election</h2>'
+            '<a href="/Reports/run3/City_of_Portland_Councilor_-_District_3">Preliminary Results 3</a>'
+            '<a href="/Reports/run2/City_of_Portland_Councilor_-_District_3">Preliminary Results 2</a>'
+            '<h2>November 5, 2024 General Election</h2>'
+            '<a href="/Reports/old/City_of_Portland_Mayor">Final Results</a>')
+    reports = or_.latest_reports(home, "November 3, 2026 General Election")
+    assert reports == {"City of Portland Councilor - District 3": ("/Reports/run3/City_of_Portland_Councilor_-_District_3",
+                                                                    "Preliminary Results 3")}
+    summary = {"config": {"office": "City of Portland, Councilor, District 3"}, "results": [
+        {"round": 1, "tally": {"A": "100", "B": "90", "C": "80", "D": "20", "Uncertified Write In": "1"}},
+        {"round": 2, "tally": {"A": "100", "B": "95.6", "C": "90"}}]}
+    contest = or_.parse_tabulation(summary, title="District 3 3 Seats Up for Election", label="Preliminary Results 3",
+                                   published=None)
+    assert contest.vote_for == 3 and contest.title.endswith("(ranked-choice, round 2 of 2)")
+    # Each candidate's last round: D was eliminated after round 1 with 20.
+    assert [(c.name, c.votes) for c in contest.choices] == [("A", 100), ("B", 96), ("C", 90), ("D", 20)]
+
+
+def test_match_prefers_the_counted_copy_of_a_race():
+    def race(source, votes):
+        return Contest(source=source, contest_id="1", state="OR", jurisdiction="Multnomah County",
+                       title="City of Portland, Councilor, District 3", office_type="local",
+                       choices=[Choice("Angelita Morillo", votes), Choice("Steve Novick", votes)])
+    row = {"id": 1, "name": "Angelita Morillo", "office": "Portland City Council, District 3",
+           "office_category": "Local Office", "state_code": "OR", "county": "Multnomah", "position": ""}
+    m = match.match_one(row, [race("or", 0), race("or.multnomah", 14403)])
+    assert m.status == "auto" and m.contest.source == "or.multnomah"

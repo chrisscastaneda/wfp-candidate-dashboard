@@ -43,8 +43,9 @@ See also [election-results-scraper-plan.md](election-results-scraper-plan.md) (d
 | 10:52am | 972 | 782 | Niagara NY (new source) |
 | 10:51pm | 973 | 783 | Connecticut (2 more); 5 sources now 403, 3 timed out |
 | 11:07pm | 985 | 794 | Michigan statewide and legislative races (entered by hand) |
+| 11:18pm | 1,019 | 816 | Los Angeles County's counts (bug fix), Multnomah ranked-choice (new source) |
 
-Still missing at 11:07pm Nov 4: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
+Still missing at 11:18pm Nov 4: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
 
 ---
 
@@ -578,6 +579,27 @@ Fixes made while building:
   (Tonya Myers Phillips 95.1%).
 - These rows don't update. When the state adds Wayne, they should be re-entered from the state file alone.
 
+### Nov 4, 11:18pm: the 34 races with no votes
+
+- 1,019 races with results, WFP leading 816. No race shows "Awaiting results" any more.
+- **Los Angeles County (26 races): a bug since election night.** `GetElectionData` returns LA's ballot with every
+  `Votes` field at 0; the counts come from a second call, `GetCounterData?electionID=4348` (one `CAND` entry per
+  candidate id). Every LA pull since Nov 3 had zero votes for all 409 contests, so LA's local races sat at "Awaiting
+  results". The source now reads both. Nithya Raman (LA mayor) 51.7%, Marissa Roy (city attorney) 66.5%, Estuardo
+  Mazariegos (LA council) 46.3%, trailing.
+- **Multnomah County and Portland (8 races): ranked-choice.** Oregon's state feed lists these contests with no
+  votes. New source `or.multnomah` reads Multnomah's tabulation (rcvresults.multco.us, newest preliminary report per
+  contest, RCTab summary JSON). Each candidate shows their total in the last round they were in, so the top `vote_for`
+  are the tabulation's winners; titles say "(ranked-choice, round N of N)". Shannon Singleton (county chair) leads;
+  Bri Williams (District 2) leads, Nathan Ong Norris eliminated third; Portland District 3: Angelita Morillo and
+  Tiffany Koyama Lane elected in the count so far; District 4: Mitch Green elected, Jamey Evenstar and Jeremy
+  Beausoleil Smith eliminated.
+- **Matcher:** when a candidate turns up in more than one race, a race with votes now wins over a zero-vote copy
+  (the state feed's copy of Multnomah's contests).
+- Confirmed by hand: Helen Kreiger (WFP's spelling; LA's feed has "Krieger", same West Hollywood race).
+- Still blocked or down this run: New Mexico, Florida, Ohio, DC, Kenosha (403); Nassau, Dane, Washtenaw (timeouts).
+  Their last good results stay on the dashboard.
+
 ## Feed quirks worth remembering
 
 | Source | Quirk | How it's handled |
@@ -616,6 +638,8 @@ Fixes made while building:
 | Niagara County (NY) | Moved to NTS; election list needs a login | Election id set in the source, date checked |
 | NM, FL, OH, DC, Kenosha (WI) | Started returning 403 to scripts the evening after the election | Last good results kept; not worked around |
 | Michigan SoS results | Cloudflare challenge to scripts; Wayne posted last | Entered by hand: state's 82 counties plus Wayne's TotalVote share |
+| Los Angeles County | Ballot and counts come from separate calls | `GetElectionData` for the ballot, `GetCounterData` for votes |
+| Multnomah County (OR) | Ranked-choice contests have no votes in the state feed | County tabulation JSON; last-round totals |
 | Oregon | Vote by mail; precincts-reporting stays at 0 while votes come in | Shown as reported; worth replacing with a count or hiding |
 
 ## Still open

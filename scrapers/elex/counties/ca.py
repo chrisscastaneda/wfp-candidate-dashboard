@@ -5,8 +5,12 @@ federal contests, which are marked partial and ignored by the matcher.
 
 Los Angeles (results.lavote.gov), the JSON its results page uses:
   /ElectionResults/GetMenuElections?year=<y>        -> [{ID, Date, Title}]
-  /ElectionResults/GetElectionData?electionID=<id>  -> ContestGroups[] -> Contests[] -> Candidates[] (Name, Votes)
+  /ElectionResults/GetElectionData?electionID=<id>  -> ContestGroups[] -> Contests[] -> Candidates[] (Name, ID): the
+                                                       ballot only; its Votes fields stay 0
+  /ElectionResults/GetCounterData?electionID=<id>   -> {TimeStamp, Data: [{ReferenceType: "CAND", ReferenceID: candidate
+                                                       ID, Value: votes}, ...contest counters]}: the counts
 """
+from datetime import datetime
 import re
 
 from .. import config, names
@@ -24,7 +28,12 @@ _LA_SHARES = {"Governor", "Lieutenant Governor", "Secretary of State", "Controll
               "Superintendent Public Inst", "State Measures"}
 
 
-def parse_la(data: dict) -> list[Contest]:
+def parse_la(data: dict, counters: dict | None = None) -> list[Contest]:
+    """`counters` is GetCounterData's response; without it every count is GetElectionData's (zero)."""
+    votes = {str(c["ReferenceID"]): c["Value"] for c in (counters or {}).get("Data") or []
+             if c.get("ReferenceType") == "CAND"}
+    stamp = (counters or {}).get("TimeStamp")
+    updated = datetime.strptime(stamp, "%m/%d/%Y %I:%M:%S %p").isoformat() + "-08:00" if stamp else None
     contests = []
     for group in data.get("ContestGroups") or []:
         share = group.get("Name") in _LA_SHARES
@@ -35,7 +44,8 @@ def parse_la(data: dict) -> list[Contest]:
             if group.get("Name") in ("Cities", "Schools", "Library Districts", "Water Districts",
                                      "Recreation and Park", "Sheriff") and kind not in ("judicial",):
                 kind = "local"  # "CITY OF ... Member of the City Council" isn't a state office
-            choices = [Choice(names.yes_no(c["Name"]) if is_measure else c["Name"], names.to_int(c.get("Votes")),
+            choices = [Choice(names.yes_no(c["Name"]) if is_measure else c["Name"],
+                              names.to_int(votes.get(str(c.get("ID")), c.get("Votes"))),
                               names.party(c.get("Party")), choice_id=str(c.get("ID")))
                        for c in item.get("Candidates") or []]
             contest = Contest(
@@ -44,7 +54,8 @@ def parse_la(data: dict) -> list[Contest]:
                 else names.district(title), jurisdiction="Los Angeles County",
                 scope="partial" if share else "complete", vote_for=names.vote_for(item.get("VoteFor")),
                 reporting=Reporting(names.to_int(item.get("PrecinctsReporting")) if "PrecinctsReporting" in item
-                                    else None, item.get("PrecinctCount") or None), choices=choices)
+                                    else None, item.get("PrecinctCount") or None), feed_updated_at=updated,
+                choices=choices)
             contest.fill_percentages()
             contests.append(contest)
     return contests
@@ -66,7 +77,8 @@ class LosAngeles(Source):
         election = next((e for e in listed if e["Date"][:10] == config.ELECTION_DATE.isoformat()), None)
         if not election:
             raise NotPublished(f"no {config.ELECTION_DATE} election listed")
-        return parse_la(fetch.get(LA + "GetElectionData", params={"electionID": election["ID"]})["Data"])
+        data = fetch.get(LA + "GetElectionData", params={"electionID": election["ID"]})["Data"]
+        return parse_la(data, fetch.get(LA + "GetCounterData", params={"electionID": election["ID"]}))
 
 
 def clarity_county(name: str, eid: str | None = None) -> ClaritySource:

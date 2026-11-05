@@ -78,11 +78,17 @@ def _overlap(office: str, title: str, ignore=frozenset()) -> int:
 
 
 def _pick(hits: list[tuple[Contest, Choice]], row: dict) -> tuple[tuple[Contest, Choice] | None, str]:
-    """One (contest, choice) from several surname hits: first name, then office-title overlap. None if tied."""
+    """One (contest, choice) from several surname hits: first name, then races with votes, then office-title overlap.
+    None if tied."""
     if len(hits) > 1:
         first = names.first_name(row["name"])
         narrowed = [h for h in hits if _has_first_name(h[1], first)]
         hits = narrowed or hits
+    if len(hits) > 1:
+        # A zero-vote copy of a race another source counts (Oregon's state feed lists Multnomah's ranked-choice races
+        # with no votes; the county posts the tabulation) loses to the counted one.
+        counted = [h for h in hits if h[0].total_votes]
+        hits = counted or hits
     if len(hits) > 1:
         scores = [_overlap(row["office"], c.title) for c, _ in hits]
         best = max(scores)

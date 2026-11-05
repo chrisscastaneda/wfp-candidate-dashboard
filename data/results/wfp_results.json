@@ -1,30 +1,30 @@
 {
  "election_date": "2026-11-03",
- "generated_at": "2026-11-05T04:06:40+00:00",
- "run_id": "20261105T040639Z",
+ "generated_at": "2026-11-05T04:18:37+00:00",
+ "run_id": "20261105T041537Z",
  "sources": {
   "az": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:15+00:00",
+   "fetched_at": "2026-11-05T04:15:37+00:00",
    "contests_changed_at": "2026-11-05T03:51:15+00:00",
    "message": null
   },
   "ca": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:15+00:00",
+   "fetched_at": "2026-11-05T04:15:37+00:00",
    "contests_changed_at": "2026-11-05T03:51:15+00:00",
    "message": null
   },
   "ca.contra_costa": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:38+00:00",
+   "fetched_at": "2026-11-05T04:16:00+00:00",
    "contests_changed_at": "2026-11-04T15:31:34+00:00",
    "message": null
   },
   "ca.los_angeles": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:35+00:00",
-   "contests_changed_at": "2026-11-04T15:31:32+00:00",
+   "fetched_at": "2026-11-05T04:15:55+00:00",
+   "contests_changed_at": "2026-11-05T04:12:58+00:00",
    "message": null
   },
   "ca.marin": {
@@ -35,55 +35,55 @@
   },
   "ca.orange": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:36+00:00",
+   "fetched_at": "2026-11-05T04:15:58+00:00",
    "contests_changed_at": "2026-11-05T03:51:36+00:00",
    "message": null
   },
   "ca.san_bernardino": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:38+00:00",
+   "fetched_at": "2026-11-05T04:15:59+00:00",
    "contests_changed_at": "2026-11-04T15:31:34+00:00",
    "message": null
   },
   "ca.san_diego": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:36+00:00",
+   "fetched_at": "2026-11-05T04:15:58+00:00",
    "contests_changed_at": "2026-11-04T15:31:33+00:00",
    "message": null
   },
   "ca.san_mateo": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:37+00:00",
+   "fetched_at": "2026-11-05T04:15:59+00:00",
    "contests_changed_at": "2026-11-04T15:31:33+00:00",
    "message": null
   },
   "ca.santa_clara": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:38+00:00",
+   "fetched_at": "2026-11-05T04:16:00+00:00",
    "contests_changed_at": "2026-11-05T03:51:38+00:00",
    "message": null
   },
   "ca.sonoma": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:39+00:00",
+   "fetched_at": "2026-11-05T04:16:01+00:00",
    "contests_changed_at": "2026-11-04T15:31:35+00:00",
    "message": null
   },
   "ca.ventura": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:40+00:00",
+   "fetched_at": "2026-11-05T04:16:01+00:00",
    "contests_changed_at": "2026-11-04T15:31:35+00:00",
    "message": null
   },
   "co": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:17+00:00",
+   "fetched_at": "2026-11-05T04:15:39+00:00",
    "contests_changed_at": "2026-11-05T03:51:17+00:00",
    "message": null
   },
   "ct": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:26+00:00",
+   "fetched_at": "2026-11-05T04:15:48+00:00",
    "contests_changed_at": "2026-11-05T03:51:26+00:00",
    "message": null
   },
@@ -95,7 +95,7 @@
   },
   "de": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:31+00:00",
+   "fetched_at": "2026-11-05T04:15:53+00:00",
    "contests_changed_at": "2026-11-04T15:31:31+00:00",
    "message": null
   },
@@ -107,19 +107,19 @@
   },
   "ga": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:15+00:00",
+   "fetched_at": "2026-11-05T04:15:37+00:00",
    "contests_changed_at": "2026-11-05T03:51:15+00:00",
    "message": null
   },
   "manual": {
    "status": "ok",
-   "fetched_at": "2026-11-05T04:06:39+00:00",
+   "fetched_at": "2026-11-05T04:17:00+00:00",
    "contests_changed_at": "2026-11-05T04:06:39+00:00",
    "message": null
   },
   "md": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:32+00:00",
+   "fetched_at": "2026-11-05T04:15:53+00:00",
    "contests_changed_at": "2026-11-05T03:51:32+00:00",
    "message": null
   },
@@ -127,29 +127,29 @@
    "status": "error",
    "fetched_at": "2026-11-04T15:53:19+00:00",
    "contests_changed_at": "2026-11-04T15:32:17+00:00",
-   "message": "https://electionresults.ewashtenaw.org/electionreporting/nov2026/index.jsp: ConnectTimeout: HTTPSConnectionPool(host='electionresults.ewashtenaw.org', port=443): Max retries exceeded with url: /electionreporting/nov2026/index.jsp (Caused by ConnectTimeoutError(<HTTPSConnection(host='electionresults.ewashtenaw.org', port=443) at 0x10ee2ae90>, 'Connection to electionresults.ewashtenaw.org timed out. (connect timeout=30)'))"
+   "message": "https://electionresults.ewashtenaw.org/electionreporting/nov2026/index.jsp: ConnectTimeout: HTTPSConnectionPool(host='electionresults.ewashtenaw.org', port=443): Max retries exceeded with url: /electionreporting/nov2026/index.jsp (Caused by ConnectTimeoutError(<HTTPSConnection(host='electionresults.ewashtenaw.org', port=443) at 0x108f47110>, 'Connection to electionresults.ewashtenaw.org timed out. (connect timeout=30)'))"
   },
   "mi.wayne": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:52:38+00:00",
+   "fetched_at": "2026-11-05T04:16:57+00:00",
    "contests_changed_at": "2026-11-04T15:32:16+00:00",
    "message": null
   },
   "nc": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:15+00:00",
+   "fetched_at": "2026-11-05T04:15:37+00:00",
    "contests_changed_at": "2026-11-05T03:51:15+00:00",
    "message": null
   },
   "ne": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:17+00:00",
+   "fetched_at": "2026-11-05T04:15:38+00:00",
    "contests_changed_at": "2026-11-05T03:51:17+00:00",
    "message": null
   },
   "nj.hudson": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:20+00:00",
+   "fetched_at": "2026-11-05T04:15:42+00:00",
    "contests_changed_at": "2026-11-05T03:51:20+00:00",
    "message": null
   },
@@ -167,85 +167,85 @@
   },
   "ny.albany": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:52:33+00:00",
+   "fetched_at": "2026-11-05T04:16:52+00:00",
    "contests_changed_at": "2026-11-05T03:52:33+00:00",
    "message": null
   },
   "ny.broome": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:56+00:00",
+   "fetched_at": "2026-11-05T04:16:17+00:00",
    "contests_changed_at": "2026-11-04T15:31:52+00:00",
    "message": null
   },
   "ny.cattaraugus": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:52:08+00:00",
+   "fetched_at": "2026-11-05T04:16:28+00:00",
    "contests_changed_at": "2026-11-04T15:32:07+00:00",
    "message": null
   },
   "ny.chautauqua": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:52:31+00:00",
+   "fetched_at": "2026-11-05T04:16:50+00:00",
    "contests_changed_at": "2026-11-04T15:32:14+00:00",
    "message": null
   },
   "ny.chemung": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:52:08+00:00",
+   "fetched_at": "2026-11-05T04:16:29+00:00",
    "contests_changed_at": "2026-11-04T15:32:08+00:00",
    "message": null
   },
   "ny.clinton": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:52:00+00:00",
+   "fetched_at": "2026-11-05T04:16:21+00:00",
    "contests_changed_at": "2026-11-04T15:31:56+00:00",
    "message": null
   },
   "ny.columbia": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:52:05+00:00",
+   "fetched_at": "2026-11-05T04:16:26+00:00",
    "contests_changed_at": "2026-11-04T15:32:02+00:00",
    "message": null
   },
   "ny.counties": {
    "status": "ok",
-   "fetched_at": "2026-11-05T04:06:39+00:00",
+   "fetched_at": "2026-11-05T04:18:35+00:00",
    "contests_changed_at": "2026-11-05T03:54:51+00:00",
    "message": null
   },
   "ny.dutchess": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:52:13+00:00",
+   "fetched_at": "2026-11-05T04:16:31+00:00",
    "contests_changed_at": "2026-11-04T15:45:10+00:00",
    "message": null
   },
   "ny.erie": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:49+00:00",
+   "fetched_at": "2026-11-05T04:16:10+00:00",
    "contests_changed_at": "2026-11-05T03:51:49+00:00",
    "message": null
   },
   "ny.jefferson": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:52:18+00:00",
+   "fetched_at": "2026-11-05T04:16:36+00:00",
    "contests_changed_at": "2026-11-04T15:37:42+00:00",
    "message": null
   },
   "ny.livingston": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:52:19+00:00",
+   "fetched_at": "2026-11-05T04:16:38+00:00",
    "contests_changed_at": "2026-11-04T15:37:42+00:00",
    "message": null
   },
   "ny.madison": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:52:20+00:00",
+   "fetched_at": "2026-11-05T04:16:42+00:00",
    "contests_changed_at": "2026-11-05T03:52:20+00:00",
    "message": null
   },
   "ny.monroe": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:55+00:00",
+   "fetched_at": "2026-11-05T04:16:16+00:00",
    "contests_changed_at": "2026-11-05T03:51:55+00:00",
    "message": null
   },
@@ -253,107 +253,107 @@
    "status": "error",
    "fetched_at": "2026-11-04T15:53:14+00:00",
    "contests_changed_at": "2026-11-04T15:37:42+00:00",
-   "message": "https://app.nassaucountyny.gov/BOE/results/election2.html: ConnectTimeout: HTTPSConnectionPool(host='app.nassaucountyny.gov', port=443): Max retries exceeded with url: /BOE/results/election2.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='app.nassaucountyny.gov', port=443) at 0x10ee2aad0>, 'Connection to app.nassaucountyny.gov timed out. (connect timeout=30)'))"
+   "message": "https://app.nassaucountyny.gov/BOE/results/election2.html: ConnectTimeout: HTTPSConnectionPool(host='app.nassaucountyny.gov', port=443): Max retries exceeded with url: /BOE/results/election2.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='app.nassaucountyny.gov', port=443) at 0x108f46ad0>, 'Connection to app.nassaucountyny.gov timed out. (connect timeout=30)'))"
   },
   "ny.niagara": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:52:36+00:00",
+   "fetched_at": "2026-11-05T04:16:54+00:00",
    "contests_changed_at": "2026-11-04T15:51:32+00:00",
    "message": null
   },
   "ny.nyc": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:41+00:00",
+   "fetched_at": "2026-11-05T04:16:02+00:00",
    "contests_changed_at": "2026-11-04T15:30:21+00:00",
    "message": null
   },
   "ny.oneida": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:56+00:00",
+   "fetched_at": "2026-11-05T04:16:18+00:00",
    "contests_changed_at": "2026-11-05T03:51:56+00:00",
    "message": null
   },
   "ny.onondaga": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:54+00:00",
+   "fetched_at": "2026-11-05T04:16:15+00:00",
    "contests_changed_at": "2026-11-04T15:35:16+00:00",
    "message": null
   },
   "ny.ontario": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:52:25+00:00",
+   "fetched_at": "2026-11-05T04:16:44+00:00",
    "contests_changed_at": "2026-11-04T15:37:42+00:00",
    "message": null
   },
   "ny.orange": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:55+00:00",
+   "fetched_at": "2026-11-05T04:16:16+00:00",
    "contests_changed_at": "2026-11-05T03:51:55+00:00",
    "message": null
   },
   "ny.putnam": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:52:03+00:00",
+   "fetched_at": "2026-11-05T04:16:24+00:00",
    "contests_changed_at": "2026-11-05T03:52:03+00:00",
    "message": null
   },
   "ny.rensselaer": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:52:05+00:00",
+   "fetched_at": "2026-11-05T04:16:25+00:00",
    "contests_changed_at": "2026-11-05T03:52:05+00:00",
    "message": null
   },
   "ny.rockland": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:58+00:00",
+   "fetched_at": "2026-11-05T04:16:19+00:00",
    "contests_changed_at": "2026-11-04T15:31:56+00:00",
    "message": null
   },
   "ny.saratoga": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:52:34+00:00",
+   "fetched_at": "2026-11-05T04:16:53+00:00",
    "contests_changed_at": "2026-11-04T15:43:00+00:00",
    "message": null
   },
   "ny.schenectady": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:52:33+00:00",
+   "fetched_at": "2026-11-05T04:16:52+00:00",
    "contests_changed_at": "2026-11-05T03:52:33+00:00",
    "message": null
   },
   "ny.steuben": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:52:26+00:00",
+   "fetched_at": "2026-11-05T04:16:46+00:00",
    "contests_changed_at": "2026-11-04T15:37:42+00:00",
    "message": null
   },
   "ny.suffolk": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:52:01+00:00",
+   "fetched_at": "2026-11-05T04:16:21+00:00",
    "contests_changed_at": "2026-11-04T15:31:58+00:00",
    "message": null
   },
   "ny.sullivan": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:52:14+00:00",
+   "fetched_at": "2026-11-05T04:16:34+00:00",
    "contests_changed_at": "2026-11-05T03:52:14+00:00",
    "message": null
   },
   "ny.ulster": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:52:14+00:00",
+   "fetched_at": "2026-11-05T04:16:32+00:00",
    "contests_changed_at": "2026-11-05T03:52:14+00:00",
    "message": null
   },
   "ny.wayne": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:52:30+00:00",
+   "fetched_at": "2026-11-05T04:16:49+00:00",
    "contests_changed_at": "2026-11-04T15:37:42+00:00",
    "message": null
   },
   "ny.westchester": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:47+00:00",
+   "fetched_at": "2026-11-05T04:16:08+00:00",
    "contests_changed_at": "2026-11-05T03:51:47+00:00",
    "message": null
   },
@@ -365,31 +365,37 @@
   },
   "oh.hamilton": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:22+00:00",
+   "fetched_at": "2026-11-05T04:15:44+00:00",
    "contests_changed_at": "2026-11-04T15:31:17+00:00",
    "message": null
   },
   "or": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:28+00:00",
+   "fetched_at": "2026-11-05T04:15:50+00:00",
    "contests_changed_at": "2026-11-05T03:51:28+00:00",
+   "message": null
+  },
+  "or.multnomah": {
+   "status": "ok",
+   "fetched_at": "2026-11-05T04:16:56+00:00",
+   "contests_changed_at": "2026-11-05T04:15:00+00:00",
    "message": null
   },
   "pa": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:15+00:00",
+   "fetched_at": "2026-11-05T04:15:37+00:00",
    "contests_changed_at": "2026-11-05T03:51:15+00:00",
    "message": null
   },
   "ri": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:15+00:00",
+   "fetched_at": "2026-11-05T04:15:37+00:00",
    "contests_changed_at": "2026-11-05T03:51:15+00:00",
    "message": null
   },
   "sc": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:24+00:00",
+   "fetched_at": "2026-11-05T04:15:46+00:00",
    "contests_changed_at": "2026-11-04T15:31:20+00:00",
    "message": null
   },
@@ -407,7 +413,7 @@
   },
   "tx.denton": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:19+00:00",
+   "fetched_at": "2026-11-05T04:15:41+00:00",
    "contests_changed_at": "2026-11-04T15:31:14+00:00",
    "message": null
   },
@@ -419,27 +425,27 @@
   },
   "tx.travis": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:20+00:00",
+   "fetched_at": "2026-11-05T04:15:41+00:00",
    "contests_changed_at": "2026-11-04T15:31:15+00:00",
    "message": null
   },
   "ut": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:15+00:00",
-   "contests_changed_at": "2026-11-05T03:51:15+00:00",
+   "fetched_at": "2026-11-05T04:15:37+00:00",
+   "contests_changed_at": "2026-11-05T04:15:37+00:00",
    "message": null
   },
   "wa": {
    "status": "ok",
-   "fetched_at": "2026-11-05T03:51:15+00:00",
-   "contests_changed_at": "2026-11-05T03:51:15+00:00",
+   "fetched_at": "2026-11-05T04:15:37+00:00",
+   "contests_changed_at": "2026-11-05T04:15:37+00:00",
    "message": null
   },
   "wi.dane": {
    "status": "error",
    "fetched_at": "2026-11-04T15:53:17+00:00",
    "contests_changed_at": "2026-11-04T15:32:14+00:00",
-   "message": "https://api.danecounty.gov/api/v1/elections/list: ConnectTimeout: HTTPSConnectionPool(host='api.danecounty.gov', port=443): Max retries exceeded with url: /api/v1/elections/list (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.danecounty.gov', port=443) at 0x10ee2ad50>, 'Connection to api.danecounty.gov timed out. (connect timeout=30)'))"
+   "message": "https://api.danecounty.gov/api/v1/elections/list: ConnectTimeout: HTTPSConnectionPool(host='api.danecounty.gov', port=443): Max retries exceeded with url: /api/v1/elections/list (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.danecounty.gov', port=443) at 0x108f46d50>, 'Connection to api.danecounty.gov timed out. (connect timeout=30)'))"
   },
   "wi.kenosha": {
    "status": "blocked",
@@ -1258,7 +1264,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:38+00:00",
+   "updated_at": "2026-11-05T04:16:00+00:00",
    "wfp_choice": "TAMISHA TORRES-WALKER",
    "wfp_leading": false,
    "choices": [
@@ -1292,7 +1298,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:38+00:00",
+   "updated_at": "2026-11-05T04:16:00+00:00",
    "wfp_choice": "MONICA E WILSON",
    "wfp_leading": true,
    "choices": [
@@ -1340,7 +1346,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:38+00:00",
+   "updated_at": "2026-11-05T04:16:00+00:00",
    "wfp_choice": "BRANDON DAWKINS",
    "wfp_leading": false,
    "choices": [
@@ -1422,7 +1428,7 @@
     "pct": 80.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:38+00:00",
+   "updated_at": "2026-11-05T04:16:00+00:00",
    "wfp_choice": "Jaria Jaug",
    "wfp_leading": true,
    "choices": [
@@ -1535,7 +1541,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:38+00:00",
+   "updated_at": "2026-11-05T04:16:00+00:00",
    "wfp_choice": "LAURA NAKAMURA",
    "wfp_leading": true,
    "choices": [
@@ -1569,7 +1575,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:38+00:00",
+   "updated_at": "2026-11-05T04:16:00+00:00",
    "wfp_choice": "CAMERON SASAI",
    "wfp_leading": false,
    "choices": [
@@ -1603,7 +1609,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:38+00:00",
+   "updated_at": "2026-11-05T04:16:00+00:00",
    "wfp_choice": "BECCA BARRETT",
    "wfp_leading": true,
    "choices": [
@@ -1637,7 +1643,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:37+00:00",
+   "updated_at": "2026-11-05T04:15:59+00:00",
    "wfp_choice": "ROD DAUS-MAGBUAL",
    "wfp_leading": true,
    "choices": [
@@ -1712,7 +1718,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:37+00:00",
+   "updated_at": "2026-11-05T04:15:59+00:00",
    "wfp_choice": "OFELIA BELLO",
    "wfp_leading": true,
    "choices": [
@@ -1781,7 +1787,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:37+00:00",
+   "updated_at": "2026-11-05T04:15:59+00:00",
    "wfp_choice": "RUBEN ABRICA",
    "wfp_leading": true,
    "choices": [
@@ -1850,7 +1856,7 @@
     "pct": 87.9,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:38+00:00",
+   "updated_at": "2026-11-05T04:16:00+00:00",
    "wfp_choice": "Mer Curry Nuñez",
    "wfp_leading": false,
    "choices": [
@@ -1910,7 +1916,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:37+00:00",
+   "updated_at": "2026-11-05T04:15:59+00:00",
    "wfp_choice": "PHOEBE SHIN VENKAT",
    "wfp_leading": false,
    "choices": [
@@ -1944,7 +1950,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:38+00:00",
+   "updated_at": "2026-11-05T04:16:00+00:00",
    "wfp_choice": "Rebeca G. Armendáriz",
    "wfp_leading": true,
    "choices": [
@@ -2004,7 +2010,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:39+00:00",
+   "updated_at": "2026-11-05T04:16:01+00:00",
    "wfp_choice": "CHRIS HERROD",
    "wfp_leading": true,
    "choices": [
@@ -2037,7 +2043,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:38+00:00",
+   "updated_at": "2026-11-05T04:16:00+00:00",
    "wfp_choice": "Seema Kanani",
    "wfp_leading": false,
    "choices": [
@@ -2099,7 +2105,7 @@
     "pct": 88.2,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:38+00:00",
+   "updated_at": "2026-11-05T04:16:00+00:00",
    "wfp_choice": "Erik Poicon",
    "wfp_leading": false,
    "choices": [
@@ -2182,7 +2188,7 @@
     "pct": 88.2,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:38+00:00",
+   "updated_at": "2026-11-05T04:16:00+00:00",
    "wfp_choice": "IdaRose Sylvester",
    "wfp_leading": true,
    "choices": [
@@ -2283,7 +2289,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:37+00:00",
+   "updated_at": "2026-11-05T04:15:59+00:00",
    "wfp_choice": "CHRISTINE BOLES",
    "wfp_leading": true,
    "choices": [
@@ -2317,7 +2323,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:37+00:00",
+   "updated_at": "2026-11-05T04:15:59+00:00",
    "wfp_choice": "SAM CASILLAS",
    "wfp_leading": false,
    "choices": [
@@ -2351,7 +2357,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:39+00:00",
+   "updated_at": "2026-11-05T04:16:01+00:00",
    "wfp_choice": "ERIC VAZQUEZ",
    "wfp_leading": true,
    "choices": [
@@ -2385,7 +2391,7 @@
     "pct": 90.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:39+00:00",
+   "updated_at": "2026-11-05T04:16:01+00:00",
    "wfp_choice": "SARAH SEITCHIK SEBASTIAN",
    "wfp_leading": true,
    "choices": [
@@ -2419,7 +2425,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:38+00:00",
+   "updated_at": "2026-11-05T04:16:00+00:00",
    "wfp_choice": "TRUC 'CHRISTY' LAM-JULIAN",
    "wfp_leading": true,
    "choices": [
@@ -2480,7 +2486,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:37+00:00",
+   "updated_at": "2026-11-05T04:15:59+00:00",
    "wfp_choice": "CHRIS STURKEN",
    "wfp_leading": true,
    "choices": [
@@ -2507,7 +2513,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:38+00:00",
+   "updated_at": "2026-11-05T04:16:00+00:00",
    "wfp_choice": "CLAUDIA JIMÉNEZ",
    "wfp_leading": true,
    "choices": [
@@ -2541,7 +2547,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:37+00:00",
+   "updated_at": "2026-11-05T04:15:59+00:00",
    "wfp_choice": "MARTY P. MEDINA",
    "wfp_leading": true,
    "choices": [
@@ -2617,7 +2623,7 @@
     "pct": 82.5,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:38+00:00",
+   "updated_at": "2026-11-05T04:16:00+00:00",
    "wfp_choice": "Peter Ortiz",
    "wfp_leading": true,
    "choices": [
@@ -2658,7 +2664,7 @@
     "pct": 97.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:38+00:00",
+   "updated_at": "2026-11-05T04:16:00+00:00",
    "wfp_choice": "Gordon Chester",
    "wfp_leading": false,
    "choices": [
@@ -2699,7 +2705,7 @@
     "pct": 90.5,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:38+00:00",
+   "updated_at": "2026-11-05T04:16:00+00:00",
    "wfp_choice": "Michael Melillo",
    "wfp_leading": false,
    "choices": [
@@ -2740,7 +2746,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:37+00:00",
+   "updated_at": "2026-11-05T04:15:59+00:00",
    "wfp_choice": "DANA JOHNSON",
    "wfp_leading": true,
    "choices": [
@@ -2774,7 +2780,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:37+00:00",
+   "updated_at": "2026-11-05T04:15:59+00:00",
    "wfp_choice": "MARK NAGALES",
    "wfp_leading": false,
    "choices": [
@@ -2808,7 +2814,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:37+00:00",
+   "updated_at": "2026-11-05T04:15:59+00:00",
    "wfp_choice": "DIANA HARRIS",
    "wfp_leading": false,
    "choices": [
@@ -2848,7 +2854,7 @@
     "pct": 97.3,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:38+00:00",
+   "updated_at": "2026-11-05T04:16:00+00:00",
    "wfp_choice": "Kevin Park",
    "wfp_leading": false,
    "choices": [
@@ -2917,7 +2923,7 @@
     "pct": 93.3,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:39+00:00",
+   "updated_at": "2026-11-05T04:16:01+00:00",
    "wfp_choice": "MELANIE JONES-CARTER",
    "wfp_leading": true,
    "choices": [
@@ -2951,7 +2957,7 @@
     "pct": 75.3,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:39+00:00",
+   "updated_at": "2026-11-05T04:16:01+00:00",
    "wfp_choice": "JOANNA PAUN",
    "wfp_leading": true,
    "choices": [
@@ -2985,7 +2991,7 @@
     "pct": 78.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:39+00:00",
+   "updated_at": "2026-11-05T04:16:01+00:00",
    "wfp_choice": "MELANIE BAGBY",
    "wfp_leading": true,
    "choices": [
@@ -3019,7 +3025,7 @@
     "pct": 76.8,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:39+00:00",
+   "updated_at": "2026-11-05T04:16:01+00:00",
    "wfp_choice": "CAITLIN QUINN",
    "wfp_leading": false,
    "choices": [
@@ -3435,7 +3441,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:40+00:00",
+   "updated_at": "2026-11-05T04:16:01+00:00",
    "wfp_choice": "KRISTINA PINE",
    "wfp_leading": true,
    "choices": [
@@ -3529,7 +3535,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:40+00:00",
+   "updated_at": "2026-11-05T04:16:01+00:00",
    "wfp_choice": "JASMINE DURON",
    "wfp_leading": true,
    "choices": [
@@ -3629,7 +3635,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:40+00:00",
+   "updated_at": "2026-11-05T04:16:01+00:00",
    "wfp_choice": "SAM COHEN",
    "wfp_leading": true,
    "choices": [
@@ -3663,7 +3669,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:40+00:00",
+   "updated_at": "2026-11-05T04:16:01+00:00",
    "wfp_choice": "JOSH GRAY",
    "wfp_leading": false,
    "choices": [
@@ -3819,7 +3825,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:40+00:00",
+   "updated_at": "2026-11-05T04:16:01+00:00",
    "wfp_choice": "LIZ CAMPOS",
    "wfp_leading": true,
    "choices": [
@@ -3853,7 +3859,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:40+00:00",
+   "updated_at": "2026-11-05T04:16:01+00:00",
    "wfp_choice": "KARBA ECKLEY",
    "wfp_leading": true,
    "choices": [
@@ -3927,7 +3933,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:38+00:00",
+   "updated_at": "2026-11-05T04:15:59+00:00",
    "wfp_choice": "STEVEVONNA EVANS",
    "wfp_leading": true,
    "choices": [
@@ -3999,7 +4005,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:38+00:00",
+   "updated_at": "2026-11-05T04:15:59+00:00",
    "wfp_choice": "NUBIA DIAZ",
    "wfp_leading": false,
    "choices": [
@@ -4040,7 +4046,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:38+00:00",
+   "updated_at": "2026-11-05T04:15:59+00:00",
    "wfp_choice": "LUZ PEREZ",
    "wfp_leading": true,
    "choices": [
@@ -4088,7 +4094,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:38+00:00",
+   "updated_at": "2026-11-05T04:15:59+00:00",
    "wfp_choice": "JOCELYN \"JOZ\" SIDA",
    "wfp_leading": false,
    "choices": [
@@ -4200,7 +4206,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:38+00:00",
+   "updated_at": "2026-11-05T04:15:59+00:00",
    "wfp_choice": "DENISE DAVIS",
    "wfp_leading": true,
    "choices": [
@@ -4248,7 +4254,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:38+00:00",
+   "updated_at": "2026-11-05T04:15:59+00:00",
    "wfp_choice": "RYAN SCHAVRIEN",
    "wfp_leading": true,
    "choices": [
@@ -4296,7 +4302,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:38+00:00",
+   "updated_at": "2026-11-05T04:15:59+00:00",
    "wfp_choice": "ANA GONZALEZ",
    "wfp_leading": true,
    "choices": [
@@ -4392,7 +4398,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:38+00:00",
+   "updated_at": "2026-11-05T04:15:59+00:00",
    "wfp_choice": "CHRISTIAN SHAUGHNESSY",
    "wfp_leading": true,
    "choices": [
@@ -4433,7 +4439,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:38+00:00",
+   "updated_at": "2026-11-05T04:15:59+00:00",
    "wfp_choice": "JOE SALAS",
    "wfp_leading": true,
    "choices": [
@@ -4576,7 +4582,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:38+00:00",
+   "updated_at": "2026-11-05T04:15:59+00:00",
    "wfp_choice": "DEREK MARSHALL",
    "wfp_leading": true,
    "choices": [
@@ -4646,7 +4652,7 @@
   },
   "160": {
    "name": "Mike Van Gorder",
-   "status": "awaiting",
+   "status": "counting",
    "match_status": "auto",
    "uncontested": false,
    "source": "ca.los_angeles",
@@ -4658,106 +4664,106 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:35+00:00",
+   "updated_at": "2026-11-04T16:28:25-08:00",
    "wfp_choice": "MIKE VAN GORDER",
-   "wfp_leading": null,
+   "wfp_leading": true,
    "choices": [
     {
-     "name": "CHRIS YOOSEFI",
+     "name": "NIKKI PEREZ",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "DAVID PHILLIP DONAHUE",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "EDDY POLON",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "HOVANES \"HOV\" TONOYAN",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "JACKIE WALTMAN",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "JONATHAN ONTIVEROS",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "JT PARR",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 15612,
+     "pct": 22.36,
      "is_wfp": false
     },
     {
      "name": "MIKE VAN GORDER",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 9697,
+     "pct": 13.89,
      "is_wfp": true
-    },
-    {
-     "name": "NIKKI PEREZ",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
     },
     {
      "name": "NOLAN SOUTHERLAND",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 8265,
+     "pct": 11.84,
      "is_wfp": false
     },
     {
-     "name": "ROBBIE BRODY",
+     "name": "DAVID PHILLIP DONAHUE",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "SAMANTHA WICK",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 7450,
+     "pct": 10.67,
      "is_wfp": false
     },
     {
      "name": "TAMALA TAKAHASHI",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 6574,
+     "pct": 9.41,
+     "is_wfp": false
+    },
+    {
+     "name": "SAMANTHA WICK",
+     "party": "NON PARTISAN",
+     "votes": 6299,
+     "pct": 9.02,
+     "is_wfp": false
+    },
+    {
+     "name": "JACKIE WALTMAN",
+     "party": "NON PARTISAN",
+     "votes": 3767,
+     "pct": 5.39,
+     "is_wfp": false
+    },
+    {
+     "name": "EDDY POLON",
+     "party": "NON PARTISAN",
+     "votes": 3448,
+     "pct": 4.94,
+     "is_wfp": false
+    },
+    {
+     "name": "ROBBIE BRODY",
+     "party": "NON PARTISAN",
+     "votes": 2735,
+     "pct": 3.92,
+     "is_wfp": false
+    },
+    {
+     "name": "JONATHAN ONTIVEROS",
+     "party": "NON PARTISAN",
+     "votes": 1957,
+     "pct": 2.8,
+     "is_wfp": false
+    },
+    {
+     "name": "HOVANES \"HOV\" TONOYAN",
+     "party": "NON PARTISAN",
+     "votes": 1746,
+     "pct": 2.5,
+     "is_wfp": false
+    },
+    {
+     "name": "CHRIS YOOSEFI",
+     "party": "NON PARTISAN",
+     "votes": 1511,
+     "pct": 2.16,
+     "is_wfp": false
+    },
+    {
+     "name": "JT PARR",
+     "party": "NON PARTISAN",
+     "votes": 766,
+     "pct": 1.1,
      "is_wfp": false
     }
    ]
   },
   "161": {
    "name": "Nikki Perez",
-   "status": "awaiting",
+   "status": "counting",
    "match_status": "auto",
    "uncontested": false,
    "source": "ca.los_angeles",
@@ -4769,106 +4775,106 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:35+00:00",
+   "updated_at": "2026-11-04T16:28:25-08:00",
    "wfp_choice": "NIKKI PEREZ",
-   "wfp_leading": null,
+   "wfp_leading": true,
    "choices": [
     {
-     "name": "CHRIS YOOSEFI",
+     "name": "NIKKI PEREZ",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 15612,
+     "pct": 22.36,
+     "is_wfp": true
+    },
+    {
+     "name": "MIKE VAN GORDER",
+     "party": "NON PARTISAN",
+     "votes": 9697,
+     "pct": 13.89,
+     "is_wfp": false
+    },
+    {
+     "name": "NOLAN SOUTHERLAND",
+     "party": "NON PARTISAN",
+     "votes": 8265,
+     "pct": 11.84,
      "is_wfp": false
     },
     {
      "name": "DAVID PHILLIP DONAHUE",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "EDDY POLON",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "HOVANES \"HOV\" TONOYAN",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "JACKIE WALTMAN",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "JONATHAN ONTIVEROS",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "JT PARR",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "MIKE VAN GORDER",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "NIKKI PEREZ",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": true
-    },
-    {
-     "name": "NOLAN SOUTHERLAND",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "ROBBIE BRODY",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "SAMANTHA WICK",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 7450,
+     "pct": 10.67,
      "is_wfp": false
     },
     {
      "name": "TAMALA TAKAHASHI",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 6574,
+     "pct": 9.41,
+     "is_wfp": false
+    },
+    {
+     "name": "SAMANTHA WICK",
+     "party": "NON PARTISAN",
+     "votes": 6299,
+     "pct": 9.02,
+     "is_wfp": false
+    },
+    {
+     "name": "JACKIE WALTMAN",
+     "party": "NON PARTISAN",
+     "votes": 3767,
+     "pct": 5.39,
+     "is_wfp": false
+    },
+    {
+     "name": "EDDY POLON",
+     "party": "NON PARTISAN",
+     "votes": 3448,
+     "pct": 4.94,
+     "is_wfp": false
+    },
+    {
+     "name": "ROBBIE BRODY",
+     "party": "NON PARTISAN",
+     "votes": 2735,
+     "pct": 3.92,
+     "is_wfp": false
+    },
+    {
+     "name": "JONATHAN ONTIVEROS",
+     "party": "NON PARTISAN",
+     "votes": 1957,
+     "pct": 2.8,
+     "is_wfp": false
+    },
+    {
+     "name": "HOVANES \"HOV\" TONOYAN",
+     "party": "NON PARTISAN",
+     "votes": 1746,
+     "pct": 2.5,
+     "is_wfp": false
+    },
+    {
+     "name": "CHRIS YOOSEFI",
+     "party": "NON PARTISAN",
+     "votes": 1511,
+     "pct": 2.16,
+     "is_wfp": false
+    },
+    {
+     "name": "JT PARR",
+     "party": "NON PARTISAN",
+     "votes": 766,
+     "pct": 1.1,
      "is_wfp": false
     }
    ]
   },
   "162": {
    "name": "Nolan Southerland",
-   "status": "awaiting",
+   "status": "counting",
    "match_status": "auto",
    "uncontested": false,
    "source": "ca.los_angeles",
@@ -4880,99 +4886,99 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:35+00:00",
+   "updated_at": "2026-11-04T16:28:25-08:00",
    "wfp_choice": "NOLAN SOUTHERLAND",
-   "wfp_leading": null,
+   "wfp_leading": true,
    "choices": [
     {
-     "name": "CHRIS YOOSEFI",
+     "name": "NIKKI PEREZ",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "DAVID PHILLIP DONAHUE",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "EDDY POLON",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "HOVANES \"HOV\" TONOYAN",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "JACKIE WALTMAN",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "JONATHAN ONTIVEROS",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "JT PARR",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 15612,
+     "pct": 22.36,
      "is_wfp": false
     },
     {
      "name": "MIKE VAN GORDER",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "NIKKI PEREZ",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 9697,
+     "pct": 13.89,
      "is_wfp": false
     },
     {
      "name": "NOLAN SOUTHERLAND",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 8265,
+     "pct": 11.84,
      "is_wfp": true
     },
     {
-     "name": "ROBBIE BRODY",
+     "name": "DAVID PHILLIP DONAHUE",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "SAMANTHA WICK",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 7450,
+     "pct": 10.67,
      "is_wfp": false
     },
     {
      "name": "TAMALA TAKAHASHI",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 6574,
+     "pct": 9.41,
+     "is_wfp": false
+    },
+    {
+     "name": "SAMANTHA WICK",
+     "party": "NON PARTISAN",
+     "votes": 6299,
+     "pct": 9.02,
+     "is_wfp": false
+    },
+    {
+     "name": "JACKIE WALTMAN",
+     "party": "NON PARTISAN",
+     "votes": 3767,
+     "pct": 5.39,
+     "is_wfp": false
+    },
+    {
+     "name": "EDDY POLON",
+     "party": "NON PARTISAN",
+     "votes": 3448,
+     "pct": 4.94,
+     "is_wfp": false
+    },
+    {
+     "name": "ROBBIE BRODY",
+     "party": "NON PARTISAN",
+     "votes": 2735,
+     "pct": 3.92,
+     "is_wfp": false
+    },
+    {
+     "name": "JONATHAN ONTIVEROS",
+     "party": "NON PARTISAN",
+     "votes": 1957,
+     "pct": 2.8,
+     "is_wfp": false
+    },
+    {
+     "name": "HOVANES \"HOV\" TONOYAN",
+     "party": "NON PARTISAN",
+     "votes": 1746,
+     "pct": 2.5,
+     "is_wfp": false
+    },
+    {
+     "name": "CHRIS YOOSEFI",
+     "party": "NON PARTISAN",
+     "votes": 1511,
+     "pct": 2.16,
+     "is_wfp": false
+    },
+    {
+     "name": "JT PARR",
+     "party": "NON PARTISAN",
+     "votes": 766,
+     "pct": 1.1,
      "is_wfp": false
     }
    ]
@@ -4985,7 +4991,7 @@
   },
   "164": {
    "name": "Cynthia Gonzalez",
-   "status": "awaiting",
+   "status": "counting",
    "match_status": "auto",
    "uncontested": false,
    "source": "ca.los_angeles",
@@ -4997,50 +5003,50 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:35+00:00",
+   "updated_at": "2026-11-04T16:28:25-08:00",
    "wfp_choice": "CYNTHIA GONZALEZ",
-   "wfp_leading": null,
+   "wfp_leading": true,
    "choices": [
     {
      "name": "CYNTHIA GONZALEZ",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 1680,
+     "pct": 31.78,
      "is_wfp": true
     },
     {
      "name": "CYNTHIA ROMO",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 1531,
+     "pct": 28.96,
      "is_wfp": false
     },
     {
      "name": "JOSE R. GONZALEZ",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 791,
+     "pct": 14.96,
      "is_wfp": false
     },
     {
      "name": "MARTIN U. FUENTES",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 699,
+     "pct": 13.22,
      "is_wfp": false
     },
     {
      "name": "RICHARD CORVERA HERNANDEZ",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 586,
+     "pct": 11.08,
      "is_wfp": false
     }
    ]
   },
   "165": {
    "name": "Thomas Small",
-   "status": "awaiting",
+   "status": "counting",
    "match_status": "auto",
    "uncontested": false,
    "source": "ca.los_angeles",
@@ -5052,50 +5058,50 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:35+00:00",
+   "updated_at": "2026-11-04T16:28:25-08:00",
    "wfp_choice": "THOMAS AUJERO SMALL",
-   "wfp_leading": null,
+   "wfp_leading": false,
    "choices": [
-    {
-     "name": "FRANKLIN CARVAJAL",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
     {
      "name": "FREDDY PUZA",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 7008,
+     "pct": 30.04,
      "is_wfp": false
     },
     {
      "name": "JEANNINE WISNOSKY STEHLIN",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 5681,
+     "pct": 24.35,
      "is_wfp": false
     },
     {
      "name": "KIMBERLEY \"KIM\" GRIFFIN",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 4873,
+     "pct": 20.89,
      "is_wfp": false
     },
     {
      "name": "THOMAS AUJERO SMALL",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 4822,
+     "pct": 20.67,
      "is_wfp": true
+    },
+    {
+     "name": "FRANKLIN CARVAJAL",
+     "party": "NON PARTISAN",
+     "votes": 943,
+     "pct": 4.04,
+     "is_wfp": false
     }
    ]
   },
   "166": {
    "name": "Brian Guerrero",
-   "status": "awaiting",
+   "status": "counting",
    "match_status": "auto",
    "uncontested": false,
    "source": "ca.los_angeles",
@@ -5107,43 +5113,43 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:35+00:00",
+   "updated_at": "2026-11-04T16:28:25-08:00",
    "wfp_choice": "BRIAN GUERRERO",
-   "wfp_leading": null,
+   "wfp_leading": true,
    "choices": [
-    {
-     "name": "BRIAN GUERRERO",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": true
-    },
-    {
-     "name": "DARREL MENTHE",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
     {
      "name": "STEPHANIE LOREDO",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 8367,
+     "pct": 29.54,
      "is_wfp": false
+    },
+    {
+     "name": "BRIAN GUERRERO",
+     "party": "NON PARTISAN",
+     "votes": 7611,
+     "pct": 26.87,
+     "is_wfp": true
     },
     {
      "name": "TRISTON EZIDORE",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 7331,
+     "pct": 25.88,
+     "is_wfp": false
+    },
+    {
+     "name": "DARREL MENTHE",
+     "party": "NON PARTISAN",
+     "votes": 5016,
+     "pct": 17.71,
      "is_wfp": false
     }
    ]
   },
   "167": {
    "name": "Stephanie Loredo",
-   "status": "awaiting",
+   "status": "counting",
    "match_status": "auto",
    "uncontested": false,
    "source": "ca.los_angeles",
@@ -5155,36 +5161,36 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:35+00:00",
+   "updated_at": "2026-11-04T16:28:25-08:00",
    "wfp_choice": "STEPHANIE LOREDO",
-   "wfp_leading": null,
+   "wfp_leading": true,
    "choices": [
+    {
+     "name": "STEPHANIE LOREDO",
+     "party": "NON PARTISAN",
+     "votes": 8367,
+     "pct": 29.54,
+     "is_wfp": true
+    },
     {
      "name": "BRIAN GUERRERO",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 7611,
+     "pct": 26.87,
+     "is_wfp": false
+    },
+    {
+     "name": "TRISTON EZIDORE",
+     "party": "NON PARTISAN",
+     "votes": 7331,
+     "pct": 25.88,
      "is_wfp": false
     },
     {
      "name": "DARREL MENTHE",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "STEPHANIE LOREDO",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": true
-    },
-    {
-     "name": "TRISTON EZIDORE",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 5016,
+     "pct": 17.71,
      "is_wfp": false
     }
    ]
@@ -5197,7 +5203,7 @@
   },
   "169": {
    "name": "Nancy Martiz",
-   "status": "awaiting",
+   "status": "counting",
    "match_status": "auto",
    "uncontested": false,
    "source": "ca.los_angeles",
@@ -5209,36 +5215,36 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:35+00:00",
+   "updated_at": "2026-11-04T16:28:25-08:00",
    "wfp_choice": "NANCY CINDY MARTIZ",
-   "wfp_leading": null,
+   "wfp_leading": true,
    "choices": [
+    {
+     "name": "NANCY CINDY MARTIZ",
+     "party": "NON PARTISAN",
+     "votes": 615,
+     "pct": 45.59,
+     "is_wfp": true
+    },
     {
      "name": "KARINA MACIAS",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 608,
+     "pct": 45.07,
      "is_wfp": false
     },
     {
      "name": "KARINA MIKETTA",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 126,
+     "pct": 9.34,
      "is_wfp": false
-    },
-    {
-     "name": "NANCY CINDY MARTIZ",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": true
     }
    ]
   },
   "170": {
    "name": "David Ross",
-   "status": "awaiting",
+   "status": "counting",
    "match_status": "auto",
    "uncontested": false,
    "source": "ca.los_angeles",
@@ -5250,29 +5256,29 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:35+00:00",
+   "updated_at": "2026-11-04T16:28:25-08:00",
    "wfp_choice": "DAVID ROSS",
-   "wfp_leading": null,
+   "wfp_leading": false,
    "choices": [
-    {
-     "name": "DAVID ROSS",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": true
-    },
     {
      "name": "DONNA TRYFMAN",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 906410,
+     "pct": 52.12,
      "is_wfp": false
+    },
+    {
+     "name": "DAVID ROSS",
+     "party": "NON PARTISAN",
+     "votes": 832608,
+     "pct": 47.88,
+     "is_wfp": true
     }
    ]
   },
   "171": {
    "name": "Justin Clayton",
-   "status": "awaiting",
+   "status": "counting",
    "match_status": "auto",
    "uncontested": false,
    "source": "ca.los_angeles",
@@ -5284,29 +5290,29 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:35+00:00",
+   "updated_at": "2026-11-04T16:28:25-08:00",
    "wfp_choice": "JUSTIN ALLEN CLAYTON",
-   "wfp_leading": null,
+   "wfp_leading": true,
    "choices": [
-    {
-     "name": "ANNA SLOTKY REITANO",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
     {
      "name": "JUSTIN ALLEN CLAYTON",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 987637,
+     "pct": 55.57,
      "is_wfp": true
+    },
+    {
+     "name": "ANNA SLOTKY REITANO",
+     "party": "NON PARTISAN",
+     "votes": 789599,
+     "pct": 44.43,
+     "is_wfp": false
     }
    ]
   },
   "172": {
    "name": "Marissa Roy",
-   "status": "awaiting",
+   "status": "counting",
    "match_status": "auto",
    "uncontested": false,
    "source": "ca.los_angeles",
@@ -5318,29 +5324,29 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:35+00:00",
+   "updated_at": "2026-11-04T16:28:25-08:00",
    "wfp_choice": "MARISSA ROY",
-   "wfp_leading": null,
+   "wfp_leading": true,
    "choices": [
-    {
-     "name": "JOHN MCKINNEY",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
     {
      "name": "MARISSA ROY",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 488064,
+     "pct": 66.53,
      "is_wfp": true
+    },
+    {
+     "name": "JOHN MCKINNEY",
+     "party": "NON PARTISAN",
+     "votes": 245511,
+     "pct": 33.47,
+     "is_wfp": false
     }
    ]
   },
   "173": {
    "name": "Estuardo Mazariegos",
-   "status": "awaiting",
+   "status": "counting",
    "match_status": "auto",
    "uncontested": false,
    "source": "ca.los_angeles",
@@ -5352,29 +5358,29 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:35+00:00",
+   "updated_at": "2026-11-04T16:28:25-08:00",
    "wfp_choice": "ESTUARDO MAZARIEGOS",
-   "wfp_leading": null,
+   "wfp_leading": false,
    "choices": [
-    {
-     "name": "ESTUARDO MAZARIEGOS",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": true
-    },
     {
      "name": "JOSE UGARTE",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 13929,
+     "pct": 53.66,
      "is_wfp": false
+    },
+    {
+     "name": "ESTUARDO MAZARIEGOS",
+     "party": "NON PARTISAN",
+     "votes": 12031,
+     "pct": 46.34,
+     "is_wfp": true
     }
    ]
   },
   "174": {
    "name": "Darryn Harris",
-   "status": "awaiting",
+   "status": "counting",
    "match_status": "auto",
    "uncontested": false,
    "source": "ca.los_angeles",
@@ -5386,64 +5392,64 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:35+00:00",
+   "updated_at": "2026-11-04T16:28:25-08:00",
    "wfp_choice": "DARRYN HARRIS",
-   "wfp_leading": null,
+   "wfp_leading": true,
    "choices": [
-    {
-     "name": "ADAM BRUNO",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
     {
      "name": "DARRYN HARRIS",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 514203,
+     "pct": 55.33,
      "is_wfp": true
     },
     {
      "name": "ELAINE ALANIZ",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "ISIDRO J. ARMENTA",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "JASON R. AULA",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 140299,
+     "pct": 15.1,
      "is_wfp": false
     },
     {
      "name": "NANCY PEARLMAN",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 129942,
+     "pct": 13.98,
+     "is_wfp": false
+    },
+    {
+     "name": "ISIDRO J. ARMENTA",
+     "party": "NON PARTISAN",
+     "votes": 57922,
+     "pct": 6.23,
      "is_wfp": false
     },
     {
      "name": "PRISCILLA UMANA",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 43609,
+     "pct": 4.69,
+     "is_wfp": false
+    },
+    {
+     "name": "JASON R. AULA",
+     "party": "NON PARTISAN",
+     "votes": 28279,
+     "pct": 3.04,
+     "is_wfp": false
+    },
+    {
+     "name": "ADAM BRUNO",
+     "party": "NON PARTISAN",
+     "votes": 15109,
+     "pct": 1.63,
      "is_wfp": false
     }
    ]
   },
   "175": {
    "name": "Nithya Raman",
-   "status": "awaiting",
+   "status": "counting",
    "match_status": "auto",
    "uncontested": false,
    "source": "ca.los_angeles",
@@ -5455,29 +5461,29 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:35+00:00",
+   "updated_at": "2026-11-04T16:28:25-08:00",
    "wfp_choice": "NITHYA RAMAN",
-   "wfp_leading": null,
+   "wfp_leading": true,
    "choices": [
-    {
-     "name": "KAREN RUTH BASS",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
     {
      "name": "NITHYA RAMAN",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 405193,
+     "pct": 51.67,
      "is_wfp": true
+    },
+    {
+     "name": "KAREN RUTH BASS",
+     "party": "NON PARTISAN",
+     "votes": 379069,
+     "pct": 48.33,
+     "is_wfp": false
     }
    ]
   },
   "176": {
    "name": "Emiliano Arellano",
-   "status": "awaiting",
+   "status": "counting",
    "match_status": "auto",
    "uncontested": false,
    "source": "ca.los_angeles",
@@ -5489,57 +5495,57 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:35+00:00",
+   "updated_at": "2026-11-04T16:28:25-08:00",
    "wfp_choice": "EMILIANO ARELLANO",
-   "wfp_leading": null,
+   "wfp_leading": true,
    "choices": [
     {
-     "name": "ALFONSO MORALES",
+     "name": "JUAN MUÑOZ-GUEVARA",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 4520,
+     "pct": 19.38,
+     "is_wfp": false
+    },
+    {
+     "name": "GABRIELA CAMACHO",
+     "party": "NON PARTISAN",
+     "votes": 4389,
+     "pct": 18.82,
      "is_wfp": false
     },
     {
      "name": "EMILIANO ARELLANO",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 4386,
+     "pct": 18.81,
      "is_wfp": true
     },
     {
-     "name": "GABRIELA CAMACHO",
+     "name": "MISHAUN WATKINS",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 4232,
+     "pct": 18.15,
      "is_wfp": false
     },
     {
-     "name": "JUAN MUÑOZ-GUEVARA",
+     "name": "ALFONSO MORALES",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 3253,
+     "pct": 13.95,
      "is_wfp": false
     },
     {
      "name": "LUIS GERARDO CUELLAR",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "MISHAUN WATKINS",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 2539,
+     "pct": 10.89,
      "is_wfp": false
     }
    ]
   },
   "177": {
    "name": "Juan Munoz-Guevara",
-   "status": "awaiting",
+   "status": "counting",
    "match_status": "auto",
    "uncontested": false,
    "source": "ca.los_angeles",
@@ -5551,57 +5557,57 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:35+00:00",
+   "updated_at": "2026-11-04T16:28:25-08:00",
    "wfp_choice": "JUAN MUÑOZ-GUEVARA",
-   "wfp_leading": null,
+   "wfp_leading": true,
    "choices": [
     {
-     "name": "ALFONSO MORALES",
+     "name": "JUAN MUÑOZ-GUEVARA",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 4520,
+     "pct": 19.38,
+     "is_wfp": true
+    },
+    {
+     "name": "GABRIELA CAMACHO",
+     "party": "NON PARTISAN",
+     "votes": 4389,
+     "pct": 18.82,
      "is_wfp": false
     },
     {
      "name": "EMILIANO ARELLANO",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "GABRIELA CAMACHO",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "JUAN MUÑOZ-GUEVARA",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": true
-    },
-    {
-     "name": "LUIS GERARDO CUELLAR",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 4386,
+     "pct": 18.81,
      "is_wfp": false
     },
     {
      "name": "MISHAUN WATKINS",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 4232,
+     "pct": 18.15,
+     "is_wfp": false
+    },
+    {
+     "name": "ALFONSO MORALES",
+     "party": "NON PARTISAN",
+     "votes": 3253,
+     "pct": 13.95,
+     "is_wfp": false
+    },
+    {
+     "name": "LUIS GERARDO CUELLAR",
+     "party": "NON PARTISAN",
+     "votes": 2539,
+     "pct": 10.89,
      "is_wfp": false
     }
    ]
   },
   "178": {
    "name": "Mishaun Watkins",
-   "status": "awaiting",
+   "status": "counting",
    "match_status": "auto",
    "uncontested": false,
    "source": "ca.los_angeles",
@@ -5613,57 +5619,57 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:35+00:00",
+   "updated_at": "2026-11-04T16:28:25-08:00",
    "wfp_choice": "MISHAUN WATKINS",
-   "wfp_leading": null,
+   "wfp_leading": false,
    "choices": [
     {
-     "name": "ALFONSO MORALES",
+     "name": "JUAN MUÑOZ-GUEVARA",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "EMILIANO ARELLANO",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 4520,
+     "pct": 19.38,
      "is_wfp": false
     },
     {
      "name": "GABRIELA CAMACHO",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 4389,
+     "pct": 18.82,
      "is_wfp": false
     },
     {
-     "name": "JUAN MUÑOZ-GUEVARA",
+     "name": "EMILIANO ARELLANO",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "LUIS GERARDO CUELLAR",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 4386,
+     "pct": 18.81,
      "is_wfp": false
     },
     {
      "name": "MISHAUN WATKINS",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 4232,
+     "pct": 18.15,
      "is_wfp": true
+    },
+    {
+     "name": "ALFONSO MORALES",
+     "party": "NON PARTISAN",
+     "votes": 3253,
+     "pct": 13.95,
+     "is_wfp": false
+    },
+    {
+     "name": "LUIS GERARDO CUELLAR",
+     "party": "NON PARTISAN",
+     "votes": 2539,
+     "pct": 10.89,
+     "is_wfp": false
     }
    ]
   },
   "179": {
    "name": "Mayra Alejandra Aguiluz",
-   "status": "awaiting",
+   "status": "counting",
    "match_status": "auto",
    "uncontested": false,
    "source": "ca.los_angeles",
@@ -5675,78 +5681,78 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:35+00:00",
+   "updated_at": "2026-11-04T16:28:25-08:00",
    "wfp_choice": "MAYRA AGUILUZ",
-   "wfp_leading": null,
+   "wfp_leading": true,
    "choices": [
     {
-     "name": "ALEYDA LEMUS",
+     "name": "MAYRA AGUILUZ",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "EDITH RODRIGUEZ",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
+     "votes": 1698,
+     "pct": 21.45,
+     "is_wfp": true
     },
     {
      "name": "EDUARDO \"EDDIE\" DE LA RIVA",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "GABRIELA A. BERNAL",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "GUSTAVO VILLA",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 1674,
+     "pct": 21.14,
      "is_wfp": false
     },
     {
      "name": "MARITZA CRUZ",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 1350,
+     "pct": 17.05,
      "is_wfp": false
-    },
-    {
-     "name": "MAYRA AGUILUZ",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": true
     },
     {
      "name": "THOMAS RAMON MARTIN",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 920,
+     "pct": 11.62,
+     "is_wfp": false
+    },
+    {
+     "name": "EDITH RODRIGUEZ",
+     "party": "NON PARTISAN",
+     "votes": 589,
+     "pct": 7.44,
+     "is_wfp": false
+    },
+    {
+     "name": "GABRIELA A. BERNAL",
+     "party": "NON PARTISAN",
+     "votes": 528,
+     "pct": 6.67,
+     "is_wfp": false
+    },
+    {
+     "name": "GUSTAVO VILLA",
+     "party": "NON PARTISAN",
+     "votes": 494,
+     "pct": 6.24,
+     "is_wfp": false
+    },
+    {
+     "name": "ALEYDA LEMUS",
+     "party": "NON PARTISAN",
+     "votes": 433,
+     "pct": 5.47,
      "is_wfp": false
     },
     {
      "name": "VERONICA PERAL BERNABE",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 231,
+     "pct": 2.92,
      "is_wfp": false
     }
    ]
   },
   "180": {
    "name": "Steven Kung",
-   "status": "awaiting",
+   "status": "counting",
    "match_status": "auto",
    "uncontested": false,
    "source": "ca.los_angeles",
@@ -5758,23 +5764,23 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:35+00:00",
+   "updated_at": "2026-11-04T16:28:25-08:00",
    "wfp_choice": "STEVEN KUNG",
-   "wfp_leading": null,
+   "wfp_leading": false,
    "choices": [
-    {
-     "name": "STEVEN KUNG",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": true
-    },
     {
      "name": "VINH T. NGO",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 1250,
+     "pct": 51.27,
      "is_wfp": false
+    },
+    {
+     "name": "STEVEN KUNG",
+     "party": "NON PARTISAN",
+     "votes": 1188,
+     "pct": 48.73,
+     "is_wfp": true
     }
    ]
   },
@@ -5786,7 +5792,7 @@
   },
   "182": {
    "name": "Brandon Macias",
-   "status": "awaiting",
+   "status": "counting",
    "match_status": "auto",
    "uncontested": false,
    "source": "ca.los_angeles",
@@ -5798,36 +5804,36 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:35+00:00",
+   "updated_at": "2026-11-04T16:28:25-08:00",
    "wfp_choice": "BRANDON M. MACIAS",
-   "wfp_leading": null,
+   "wfp_leading": false,
    "choices": [
-    {
-     "name": "BRANDON M. MACIAS",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": true
-    },
     {
      "name": "CARY C. CHEN",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 1186,
+     "pct": 39.77,
      "is_wfp": false
     },
     {
      "name": "JEANNETTE C. ALVARADO",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 1023,
+     "pct": 34.31,
      "is_wfp": false
+    },
+    {
+     "name": "BRANDON M. MACIAS",
+     "party": "NON PARTISAN",
+     "votes": 773,
+     "pct": 25.92,
+     "is_wfp": true
     }
    ]
   },
   "183": {
    "name": "Caroline Torosis",
-   "status": "awaiting",
+   "status": "counting",
    "match_status": "auto",
    "uncontested": false,
    "source": "ca.los_angeles",
@@ -5839,92 +5845,92 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:35+00:00",
+   "updated_at": "2026-11-04T16:28:25-08:00",
    "wfp_choice": "CAROLINE M. TOROSIS",
-   "wfp_leading": null,
+   "wfp_leading": true,
    "choices": [
     {
-     "name": "ASHLEY OELSEN",
+     "name": "LANA NEGRETE",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "BRETT MORROW",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 12686,
+     "pct": 16.14,
      "is_wfp": false
     },
     {
      "name": "CAROLINE M. TOROSIS",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 12048,
+     "pct": 15.33,
      "is_wfp": true
     },
     {
-     "name": "DANIEL IVANOV",
+     "name": "ASHLEY OELSEN",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "DERRICK TOWNSEND",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 10991,
+     "pct": 13.98,
      "is_wfp": false
     },
     {
      "name": "DOUG TRUSSLER",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 9480,
+     "pct": 12.06,
      "is_wfp": false
     },
     {
-     "name": "ELI GILL",
+     "name": "DANIEL IVANOV",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 8929,
+     "pct": 11.36,
      "is_wfp": false
     },
     {
-     "name": "ERICKA LESLEY",
+     "name": "BRETT MORROW",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "LANA NEGRETE",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "LINDSAY DAVIS",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 8919,
+     "pct": 11.35,
      "is_wfp": false
     },
     {
      "name": "PHIL BROCK",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 5484,
+     "pct": 6.98,
+     "is_wfp": false
+    },
+    {
+     "name": "ERICKA LESLEY",
+     "party": "NON PARTISAN",
+     "votes": 3228,
+     "pct": 4.11,
+     "is_wfp": false
+    },
+    {
+     "name": "DERRICK TOWNSEND",
+     "party": "NON PARTISAN",
+     "votes": 2704,
+     "pct": 3.44,
+     "is_wfp": false
+    },
+    {
+     "name": "ELI GILL",
+     "party": "NON PARTISAN",
+     "votes": 2535,
+     "pct": 3.23,
+     "is_wfp": false
+    },
+    {
+     "name": "LINDSAY DAVIS",
+     "party": "NON PARTISAN",
+     "votes": 808,
+     "pct": 1.03,
      "is_wfp": false
     },
     {
      "name": "WADE KELLEY",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 788,
+     "pct": 1.0,
      "is_wfp": false
     }
    ]
@@ -6237,7 +6243,7 @@
   },
   "193": {
    "name": "Leslie Garcia",
-   "status": "awaiting",
+   "status": "counting",
    "match_status": "auto",
    "uncontested": false,
    "source": "ca.los_angeles",
@@ -6249,37 +6255,37 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:35+00:00",
+   "updated_at": "2026-11-04T16:28:25-08:00",
    "wfp_choice": "LESLIE H. GARCIA",
-   "wfp_leading": null,
+   "wfp_leading": false,
    "choices": [
     {
-     "name": "CARLOS YADO",
+     "name": "LETTY LOPEZ",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 2065,
+     "pct": 45.42,
      "is_wfp": false
     },
     {
      "name": "LESLIE H. GARCIA",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 1432,
+     "pct": 31.5,
      "is_wfp": true
     },
     {
-     "name": "LETTY LOPEZ",
+     "name": "CARLOS YADO",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 1049,
+     "pct": 23.08,
      "is_wfp": false
     }
    ]
   },
   "194": {
    "name": "Helen Kreiger",
-   "status": "awaiting",
-   "match_status": "needs_review",
+   "status": "counting",
+   "match_status": "confirmed",
    "uncontested": false,
    "source": "ca.los_angeles",
    "source_name": "Los Angeles County Registrar-Recorder",
@@ -6290,113 +6296,113 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:35+00:00",
+   "updated_at": "2026-11-04T16:28:25-08:00",
    "wfp_choice": "HELEN KRIEGER",
-   "wfp_leading": null,
+   "wfp_leading": true,
    "choices": [
-    {
-     "name": "ALDEN \"MARLON\" GOBEL",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
     {
      "name": "CHELSEA BYERS",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "CHUKWUDUBEM \"CHIEDU\" EGBUNIWE",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 5162,
+     "pct": 17.6,
      "is_wfp": false
     },
     {
      "name": "HELEN KRIEGER",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 4460,
+     "pct": 15.21,
      "is_wfp": true
-    },
-    {
-     "name": "JÖEL ZALDÍVAR",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
     },
     {
      "name": "JOHN DURAN",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "JONATHAN COTTRELL",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "KEVIN L. LIGON",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "KODY CHRISTIANSEN",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 3488,
+     "pct": 11.9,
      "is_wfp": false
     },
     {
      "name": "KYLE BRAZEAL",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "LARRY BLOCK",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 3395,
+     "pct": 11.58,
      "is_wfp": false
     },
     {
      "name": "STEPHEN J. POST",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 3343,
+     "pct": 11.4,
+     "is_wfp": false
+    },
+    {
+     "name": "LARRY BLOCK",
+     "party": "NON PARTISAN",
+     "votes": 3120,
+     "pct": 10.64,
+     "is_wfp": false
+    },
+    {
+     "name": "JONATHAN COTTRELL",
+     "party": "NON PARTISAN",
+     "votes": 2785,
+     "pct": 9.5,
      "is_wfp": false
     },
     {
      "name": "TATYANA \"TANYA\" TSIKANOVSKY",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 1285,
+     "pct": 4.38,
+     "is_wfp": false
+    },
+    {
+     "name": "JÖEL ZALDÍVAR",
+     "party": "NON PARTISAN",
+     "votes": 727,
+     "pct": 2.48,
+     "is_wfp": false
+    },
+    {
+     "name": "KODY CHRISTIANSEN",
+     "party": "NON PARTISAN",
+     "votes": 472,
+     "pct": 1.61,
+     "is_wfp": false
+    },
+    {
+     "name": "KEVIN L. LIGON",
+     "party": "NON PARTISAN",
+     "votes": 399,
+     "pct": 1.36,
+     "is_wfp": false
+    },
+    {
+     "name": "CHUKWUDUBEM \"CHIEDU\" EGBUNIWE",
+     "party": "NON PARTISAN",
+     "votes": 265,
+     "pct": 0.9,
+     "is_wfp": false
+    },
+    {
+     "name": "ALDEN \"MARLON\" GOBEL",
+     "party": "NON PARTISAN",
+     "votes": 222,
+     "pct": 0.76,
      "is_wfp": false
     },
     {
      "name": "TOM DEMILLE",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 199,
+     "pct": 0.68,
      "is_wfp": false
     }
    ]
   },
   "195": {
    "name": "Stephen Post",
-   "status": "awaiting",
+   "status": "counting",
    "match_status": "auto",
    "uncontested": false,
    "source": "ca.los_angeles",
@@ -6408,113 +6414,113 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:35+00:00",
+   "updated_at": "2026-11-04T16:28:25-08:00",
    "wfp_choice": "STEPHEN J. POST",
-   "wfp_leading": null,
+   "wfp_leading": false,
    "choices": [
-    {
-     "name": "ALDEN \"MARLON\" GOBEL",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
     {
      "name": "CHELSEA BYERS",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "CHUKWUDUBEM \"CHIEDU\" EGBUNIWE",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 5162,
+     "pct": 17.6,
      "is_wfp": false
     },
     {
      "name": "HELEN KRIEGER",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "JÖEL ZALDÍVAR",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 4460,
+     "pct": 15.21,
      "is_wfp": false
     },
     {
      "name": "JOHN DURAN",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "JONATHAN COTTRELL",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "KEVIN L. LIGON",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "KODY CHRISTIANSEN",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 3488,
+     "pct": 11.9,
      "is_wfp": false
     },
     {
      "name": "KYLE BRAZEAL",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "LARRY BLOCK",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 3395,
+     "pct": 11.58,
      "is_wfp": false
     },
     {
      "name": "STEPHEN J. POST",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 3343,
+     "pct": 11.4,
      "is_wfp": true
+    },
+    {
+     "name": "LARRY BLOCK",
+     "party": "NON PARTISAN",
+     "votes": 3120,
+     "pct": 10.64,
+     "is_wfp": false
+    },
+    {
+     "name": "JONATHAN COTTRELL",
+     "party": "NON PARTISAN",
+     "votes": 2785,
+     "pct": 9.5,
+     "is_wfp": false
     },
     {
      "name": "TATYANA \"TANYA\" TSIKANOVSKY",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 1285,
+     "pct": 4.38,
+     "is_wfp": false
+    },
+    {
+     "name": "JÖEL ZALDÍVAR",
+     "party": "NON PARTISAN",
+     "votes": 727,
+     "pct": 2.48,
+     "is_wfp": false
+    },
+    {
+     "name": "KODY CHRISTIANSEN",
+     "party": "NON PARTISAN",
+     "votes": 472,
+     "pct": 1.61,
+     "is_wfp": false
+    },
+    {
+     "name": "KEVIN L. LIGON",
+     "party": "NON PARTISAN",
+     "votes": 399,
+     "pct": 1.36,
+     "is_wfp": false
+    },
+    {
+     "name": "CHUKWUDUBEM \"CHIEDU\" EGBUNIWE",
+     "party": "NON PARTISAN",
+     "votes": 265,
+     "pct": 0.9,
+     "is_wfp": false
+    },
+    {
+     "name": "ALDEN \"MARLON\" GOBEL",
+     "party": "NON PARTISAN",
+     "votes": 222,
+     "pct": 0.76,
      "is_wfp": false
     },
     {
      "name": "TOM DEMILLE",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 199,
+     "pct": 0.68,
      "is_wfp": false
     }
    ]
   },
   "196": {
    "name": "Chelsea Byers",
-   "status": "awaiting",
+   "status": "counting",
    "match_status": "auto",
    "uncontested": false,
    "source": "ca.los_angeles",
@@ -6526,113 +6532,113 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:35+00:00",
+   "updated_at": "2026-11-04T16:28:25-08:00",
    "wfp_choice": "CHELSEA BYERS",
-   "wfp_leading": null,
+   "wfp_leading": true,
    "choices": [
-    {
-     "name": "ALDEN \"MARLON\" GOBEL",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
     {
      "name": "CHELSEA BYERS",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 5162,
+     "pct": 17.6,
      "is_wfp": true
-    },
-    {
-     "name": "CHUKWUDUBEM \"CHIEDU\" EGBUNIWE",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
     },
     {
      "name": "HELEN KRIEGER",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "JÖEL ZALDÍVAR",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 4460,
+     "pct": 15.21,
      "is_wfp": false
     },
     {
      "name": "JOHN DURAN",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "JONATHAN COTTRELL",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "KEVIN L. LIGON",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "KODY CHRISTIANSEN",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 3488,
+     "pct": 11.9,
      "is_wfp": false
     },
     {
      "name": "KYLE BRAZEAL",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "LARRY BLOCK",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 3395,
+     "pct": 11.58,
      "is_wfp": false
     },
     {
      "name": "STEPHEN J. POST",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 3343,
+     "pct": 11.4,
+     "is_wfp": false
+    },
+    {
+     "name": "LARRY BLOCK",
+     "party": "NON PARTISAN",
+     "votes": 3120,
+     "pct": 10.64,
+     "is_wfp": false
+    },
+    {
+     "name": "JONATHAN COTTRELL",
+     "party": "NON PARTISAN",
+     "votes": 2785,
+     "pct": 9.5,
      "is_wfp": false
     },
     {
      "name": "TATYANA \"TANYA\" TSIKANOVSKY",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 1285,
+     "pct": 4.38,
+     "is_wfp": false
+    },
+    {
+     "name": "JÖEL ZALDÍVAR",
+     "party": "NON PARTISAN",
+     "votes": 727,
+     "pct": 2.48,
+     "is_wfp": false
+    },
+    {
+     "name": "KODY CHRISTIANSEN",
+     "party": "NON PARTISAN",
+     "votes": 472,
+     "pct": 1.61,
+     "is_wfp": false
+    },
+    {
+     "name": "KEVIN L. LIGON",
+     "party": "NON PARTISAN",
+     "votes": 399,
+     "pct": 1.36,
+     "is_wfp": false
+    },
+    {
+     "name": "CHUKWUDUBEM \"CHIEDU\" EGBUNIWE",
+     "party": "NON PARTISAN",
+     "votes": 265,
+     "pct": 0.9,
+     "is_wfp": false
+    },
+    {
+     "name": "ALDEN \"MARLON\" GOBEL",
+     "party": "NON PARTISAN",
+     "votes": 222,
+     "pct": 0.76,
      "is_wfp": false
     },
     {
      "name": "TOM DEMILLE",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 199,
+     "pct": 0.68,
      "is_wfp": false
     }
    ]
   },
   "197": {
    "name": "Rebecca Hamburg Cappy",
-   "status": "awaiting",
+   "status": "counting",
    "match_status": "auto",
    "uncontested": false,
    "source": "ca.los_angeles",
@@ -6644,50 +6650,50 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:35+00:00",
+   "updated_at": "2026-11-04T16:28:25-08:00",
    "wfp_choice": "REBECCA HAMBURG CAPPY",
-   "wfp_leading": null,
+   "wfp_leading": false,
    "choices": [
     {
-     "name": "DAWSON BRUCKMAN",
+     "name": "ROGELIO \"ROGER\" BAÑUELOS",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "GRACE ATHENA BOLAND BADER",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "JEANNE OGAR",
-     "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 1953,
+     "pct": 19.43,
      "is_wfp": false
     },
     {
      "name": "NELSON E. MARTINEZ",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 1882,
+     "pct": 18.72,
+     "is_wfp": false
+    },
+    {
+     "name": "DAWSON BRUCKMAN",
+     "party": "NON PARTISAN",
+     "votes": 1769,
+     "pct": 17.6,
      "is_wfp": false
     },
     {
      "name": "REBECCA HAMBURG CAPPY",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 1543,
+     "pct": 15.35,
      "is_wfp": true
     },
     {
-     "name": "ROGELIO \"ROGER\" BAÑUELOS",
+     "name": "JEANNE OGAR",
      "party": "NON PARTISAN",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 1462,
+     "pct": 14.55,
+     "is_wfp": false
+    },
+    {
+     "name": "GRACE ATHENA BOLAND BADER",
+     "party": "NON PARTISAN",
+     "votes": 1442,
+     "pct": 14.35,
      "is_wfp": false
     }
    ]
@@ -6712,7 +6718,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:36+00:00",
+   "updated_at": "2026-11-05T04:15:58+00:00",
    "wfp_choice": "STEVEN VON DER PORTEN",
    "wfp_leading": false,
    "choices": [
@@ -6746,7 +6752,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:36+00:00",
+   "updated_at": "2026-11-05T04:15:58+00:00",
    "wfp_choice": "MARIE TSAASAN",
    "wfp_leading": true,
    "choices": [
@@ -6780,7 +6786,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:36+00:00",
+   "updated_at": "2026-11-05T04:15:58+00:00",
    "wfp_choice": "JUAN GABRIEL ALVAREZ",
    "wfp_leading": true,
    "choices": [
@@ -6814,7 +6820,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:36+00:00",
+   "updated_at": "2026-11-05T04:15:58+00:00",
    "wfp_choice": "ALVA ALVAREZ",
    "wfp_leading": true,
    "choices": [
@@ -6848,7 +6854,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:36+00:00",
+   "updated_at": "2026-11-05T04:15:58+00:00",
    "wfp_choice": "JESSICA GUERRERO",
    "wfp_leading": true,
    "choices": [
@@ -6896,7 +6902,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:36+00:00",
+   "updated_at": "2026-11-05T04:15:58+00:00",
    "wfp_choice": "ANGELY ANDRADE VALLARTA",
    "wfp_leading": true,
    "choices": [
@@ -6930,7 +6936,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:36+00:00",
+   "updated_at": "2026-11-05T04:15:58+00:00",
    "wfp_choice": "KELLY BROWN",
    "wfp_leading": true,
    "choices": [
@@ -6964,7 +6970,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:36+00:00",
+   "updated_at": "2026-11-05T04:15:58+00:00",
    "wfp_choice": "SHANA CHARLES",
    "wfp_leading": true,
    "choices": [
@@ -6998,7 +7004,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:36+00:00",
+   "updated_at": "2026-11-05T04:15:58+00:00",
    "wfp_choice": "JOZEF MALDONADO",
    "wfp_leading": false,
    "choices": [
@@ -7039,7 +7045,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:36+00:00",
+   "updated_at": "2026-11-05T04:15:58+00:00",
    "wfp_choice": "HIEU NGUYEN",
    "wfp_leading": true,
    "choices": [
@@ -7087,7 +7093,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:36+00:00",
+   "updated_at": "2026-11-05T04:15:58+00:00",
    "wfp_choice": "SUKHEE KANG",
    "wfp_leading": false,
    "choices": [
@@ -7128,7 +7134,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:36+00:00",
+   "updated_at": "2026-11-05T04:15:58+00:00",
    "wfp_choice": "BETTY MARTINEZ FRANCO",
    "wfp_leading": true,
    "choices": [
@@ -7183,7 +7189,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:36+00:00",
+   "updated_at": "2026-11-05T04:15:58+00:00",
    "wfp_choice": "JENNIFER ENGLE",
    "wfp_leading": false,
    "choices": [
@@ -7252,7 +7258,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:36+00:00",
+   "updated_at": "2026-11-05T04:15:58+00:00",
    "wfp_choice": "BENJAMIN VAZQUEZ",
    "wfp_leading": true,
    "choices": [
@@ -7286,7 +7292,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:36+00:00",
+   "updated_at": "2026-11-05T04:15:58+00:00",
    "wfp_choice": "SANDRA DE ANDA",
    "wfp_leading": true,
    "choices": [
@@ -7320,7 +7326,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:36+00:00",
+   "updated_at": "2026-11-05T04:15:58+00:00",
    "wfp_choice": "ISURI S. RAMOS",
    "wfp_leading": true,
    "choices": [
@@ -7354,7 +7360,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:36+00:00",
+   "updated_at": "2026-11-05T04:15:58+00:00",
    "wfp_choice": "KATELYN BRAZER ACEVES",
    "wfp_leading": true,
    "choices": [
@@ -7388,7 +7394,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:36+00:00",
+   "updated_at": "2026-11-05T04:15:58+00:00",
    "wfp_choice": "HECTOR BUSTOS",
    "wfp_leading": true,
    "choices": [
@@ -7422,7 +7428,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:36+00:00",
+   "updated_at": "2026-11-05T04:15:58+00:00",
    "wfp_choice": "DONALD TORRES",
    "wfp_leading": false,
    "choices": [
@@ -7456,7 +7462,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:36+00:00",
+   "updated_at": "2026-11-05T04:15:58+00:00",
    "wfp_choice": "MARLON-RAY VELASCO",
    "wfp_leading": true,
    "choices": [
@@ -7565,7 +7571,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:36+00:00",
+   "updated_at": "2026-11-05T04:15:58+00:00",
    "wfp_choice": "ALEXANDER KRAFT",
    "wfp_leading": false,
    "choices": [
@@ -7599,7 +7605,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:36+00:00",
+   "updated_at": "2026-11-05T04:15:58+00:00",
    "wfp_choice": "LILIANA SORIANO GARISTA",
    "wfp_leading": false,
    "choices": [
@@ -7640,7 +7646,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:36+00:00",
+   "updated_at": "2026-11-05T04:15:58+00:00",
    "wfp_choice": "JOSE A. LOPEZ EGUINO",
    "wfp_leading": true,
    "choices": [
@@ -7674,7 +7680,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:36+00:00",
+   "updated_at": "2026-11-05T04:15:58+00:00",
    "wfp_choice": "JOE SMITH",
    "wfp_leading": false,
    "choices": [
@@ -7722,7 +7728,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:36+00:00",
+   "updated_at": "2026-11-05T04:15:58+00:00",
    "wfp_choice": "KRYSTLE JOHNSON",
    "wfp_leading": true,
    "choices": [
@@ -7770,7 +7776,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:36+00:00",
+   "updated_at": "2026-11-05T04:15:58+00:00",
    "wfp_choice": "CINDY LOPEZ",
    "wfp_leading": true,
    "choices": [
@@ -7804,7 +7810,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:36+00:00",
+   "updated_at": "2026-11-05T04:15:58+00:00",
    "wfp_choice": "JOSE RODRIGUEZ",
    "wfp_leading": true,
    "choices": [
@@ -7852,7 +7858,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:36+00:00",
+   "updated_at": "2026-11-05T04:15:58+00:00",
    "wfp_choice": "ERIC JOYCE",
    "wfp_leading": true,
    "choices": [
@@ -7886,7 +7892,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:36+00:00",
+   "updated_at": "2026-11-05T04:15:58+00:00",
    "wfp_choice": "EMILY GONZALES",
    "wfp_leading": false,
    "choices": [
@@ -7941,7 +7947,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:36+00:00",
+   "updated_at": "2026-11-05T04:15:58+00:00",
    "wfp_choice": "NICOLE CROSBY",
    "wfp_leading": true,
    "choices": [
@@ -7975,7 +7981,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:36+00:00",
+   "updated_at": "2026-11-05T04:15:58+00:00",
    "wfp_choice": "HENRY FOSTER III",
    "wfp_leading": false,
    "choices": [
@@ -8009,7 +8015,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:36+00:00",
+   "updated_at": "2026-11-05T04:15:58+00:00",
    "wfp_choice": "MONICA MONTGOMERY STEPPE",
    "wfp_leading": true,
    "choices": [
@@ -8043,7 +8049,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:36+00:00",
+   "updated_at": "2026-11-05T04:15:58+00:00",
    "wfp_choice": "HAYDEN GORE",
    "wfp_leading": true,
    "choices": [
@@ -8104,7 +8110,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:36+00:00",
+   "updated_at": "2026-11-05T04:15:58+00:00",
    "wfp_choice": "KAYLA LAURIANO",
    "wfp_leading": true,
    "choices": [
@@ -8145,7 +8151,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:36+00:00",
+   "updated_at": "2026-11-05T04:15:58+00:00",
    "wfp_choice": "CORINNA CONTRERAS",
    "wfp_leading": true,
    "choices": [
@@ -8186,7 +8192,7 @@
     "pct": null,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:36+00:00",
+   "updated_at": "2026-11-05T04:15:58+00:00",
    "wfp_choice": "KENNETH ZUNIGA",
    "wfp_leading": false,
    "choices": [
@@ -8254,7 +8260,7 @@
     "pct": 66.7,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Melat Kiros",
    "wfp_leading": true,
    "choices": [
@@ -8309,7 +8315,7 @@
     "pct": 39.1,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Amanda Gonzalez",
    "wfp_leading": true,
    "choices": [
@@ -8364,7 +8370,7 @@
     "pct": 39.1,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Jena Griswold",
    "wfp_leading": true,
    "choices": [
@@ -8398,7 +8404,7 @@
     "pct": 57.1,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Jamie Jeffery",
    "wfp_leading": false,
    "choices": [
@@ -8432,7 +8438,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Aaron Gutierrez",
    "wfp_leading": true,
    "choices": [
@@ -8466,7 +8472,7 @@
     "pct": 66.7,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Emily Sirota",
    "wfp_leading": true,
    "choices": [
@@ -8500,7 +8506,7 @@
     "pct": 50.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Javier Mabrey",
    "wfp_leading": true,
    "choices": [
@@ -8534,7 +8540,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Scott Baldermann",
    "wfp_leading": true,
    "choices": [
@@ -8568,7 +8574,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Gena Ozols",
    "wfp_leading": true,
    "choices": [
@@ -8602,7 +8608,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Justine Sandoval",
    "wfp_leading": true,
    "choices": [
@@ -8636,7 +8642,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Iris Halpern",
    "wfp_leading": true,
    "choices": [
@@ -8670,7 +8676,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Monica VanBuskirk",
    "wfp_leading": true,
    "choices": [
@@ -8704,7 +8710,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Junie Joseph",
    "wfp_leading": true,
    "choices": [
@@ -8731,7 +8737,7 @@
     "pct": 66.7,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Consuelo Redhorse",
    "wfp_leading": true,
    "choices": [
@@ -8765,7 +8771,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Alexis Hoffkling",
    "wfp_leading": true,
    "choices": [
@@ -8799,7 +8805,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Tammy Story",
    "wfp_leading": true,
    "choices": [
@@ -8833,7 +8839,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Gabriel Cervantes",
    "wfp_leading": true,
    "choices": [
@@ -8867,7 +8873,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Chris VanDijk",
    "wfp_leading": true,
    "choices": [
@@ -8901,7 +8907,7 @@
     "pct": 33.3,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Kenny Van Nguyen",
    "wfp_leading": true,
    "choices": [
@@ -8935,7 +8941,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Jenny Willford",
    "wfp_leading": true,
    "choices": [
@@ -8969,7 +8975,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Jamie Jackson",
    "wfp_leading": true,
    "choices": [
@@ -8996,7 +9002,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Michael Clarkson",
    "wfp_leading": false,
    "choices": [
@@ -9037,7 +9043,7 @@
     "pct": 77.8,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Vic Meyers",
    "wfp_leading": false,
    "choices": [
@@ -9071,7 +9077,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Jacki Marsh",
    "wfp_leading": true,
    "choices": [
@@ -9105,7 +9111,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Yara Zokaie",
    "wfp_leading": true,
    "choices": [
@@ -9139,7 +9145,7 @@
     "pct": 50.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Mallory Martin",
    "wfp_leading": false,
    "choices": [
@@ -9173,7 +9179,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Elizabeth Velasco",
    "wfp_leading": true,
    "choices": [
@@ -9207,7 +9213,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Iman M. Jodeh",
    "wfp_leading": true,
    "choices": [
@@ -9241,7 +9247,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Chela Garcia Irlando",
    "wfp_leading": true,
    "choices": [
@@ -9282,7 +9288,7 @@
     "pct": 66.7,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Lisa Escárcega",
    "wfp_leading": true,
    "choices": [
@@ -9323,7 +9329,7 @@
     "pct": 54.5,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Karla Esser",
    "wfp_leading": true,
    "choices": [
@@ -10399,7 +10405,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Michael Farrington",
    "wfp_leading": false,
    "choices": [
@@ -10433,7 +10439,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Jack Rosenthal",
    "wfp_leading": true,
    "choices": [
@@ -10501,7 +10507,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Jahana Hayes",
    "wfp_leading": true,
    "choices": [
@@ -10542,7 +10548,7 @@
     "pct": 99.9,
     "text": "775 of 776 (99.87%)"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Ned Lamont and Susan Bysiewicz",
    "wfp_leading": true,
    "choices": [
@@ -10597,7 +10603,7 @@
     "pct": 99.9,
     "text": "775 of 776 (99.87%)"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Ned Lamont and Susan Bysiewicz",
    "wfp_leading": true,
    "choices": [
@@ -10652,7 +10658,7 @@
     "pct": 99.9,
     "text": "775 of 776 (99.87%)"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Stephanie Thomas",
    "wfp_leading": true,
    "choices": [
@@ -10693,7 +10699,7 @@
     "pct": 99.9,
     "text": "775 of 776 (99.87%)"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "William Tong",
    "wfp_leading": true,
    "choices": [
@@ -10727,7 +10733,7 @@
     "pct": 99.9,
     "text": "775 of 776 (99.87%)"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Sean Scanlon",
    "wfp_leading": true,
    "choices": [
@@ -10761,7 +10767,7 @@
     "pct": 99.9,
     "text": "775 of 776 (99.87%)"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Erick Russell",
    "wfp_leading": true,
    "choices": [
@@ -10795,7 +10801,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Francis Lombard",
    "wfp_leading": true,
    "choices": [
@@ -10829,7 +10835,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Angie Parkinson",
    "wfp_leading": true,
    "choices": [
@@ -10870,7 +10876,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Geoffrey Luxenberg",
    "wfp_leading": true,
    "choices": [
@@ -10904,7 +10910,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Eleni Kavros DeGraw",
    "wfp_leading": true,
    "choices": [
@@ -10938,7 +10944,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Kate Farrar",
    "wfp_leading": true,
    "choices": [
@@ -10965,7 +10971,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Mike Demicco",
    "wfp_leading": true,
    "choices": [
@@ -10999,7 +11005,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Rebecca Martinez",
    "wfp_leading": true,
    "choices": [
@@ -11033,7 +11039,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Jane Wisialowski",
    "wfp_leading": true,
    "choices": [
@@ -11067,7 +11073,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Emmanuel \"Manny\" Sanchez",
    "wfp_leading": true,
    "choices": [
@@ -11101,7 +11107,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "David DeFronzo",
    "wfp_leading": true,
    "choices": [
@@ -11135,7 +11141,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Gary Turco",
    "wfp_leading": true,
    "choices": [
@@ -11162,7 +11168,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Amy Morrin Bello",
    "wfp_leading": true,
    "choices": [
@@ -11196,7 +11202,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Moise \"Moses\" Carelus",
    "wfp_leading": true,
    "choices": [
@@ -11230,7 +11236,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Cinzia Lettieri",
    "wfp_leading": true,
    "choices": [
@@ -11264,7 +11270,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Nick Menapace",
    "wfp_leading": true,
    "choices": [
@@ -11298,7 +11304,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Nick Gauthier",
    "wfp_leading": true,
    "choices": [
@@ -11332,7 +11338,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Dan Gaiewski",
    "wfp_leading": true,
    "choices": [
@@ -11366,7 +11372,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Aundre Bumgardner",
    "wfp_leading": true,
    "choices": [
@@ -11400,7 +11406,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Samantha Derenthal",
    "wfp_leading": false,
    "choices": [
@@ -11434,7 +11440,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Derell Q Wilson",
    "wfp_leading": true,
    "choices": [
@@ -11468,7 +11474,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Bob Fernandez",
    "wfp_leading": true,
    "choices": [
@@ -11502,7 +11508,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Susan Johnson",
    "wfp_leading": true,
    "choices": [
@@ -11536,7 +11542,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Michelle Doucette Cunningham",
    "wfp_leading": false,
    "choices": [
@@ -11570,7 +11576,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Gregg Haddad",
    "wfp_leading": true,
    "choices": [
@@ -11597,7 +11603,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Ellen Paul",
    "wfp_leading": true,
    "choices": [
@@ -11631,7 +11637,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Kevin Brown",
    "wfp_leading": true,
    "choices": [
@@ -11665,7 +11671,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Jane Garibay",
    "wfp_leading": true,
    "choices": [
@@ -11699,7 +11705,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Kim Becker",
    "wfp_leading": true,
    "choices": [
@@ -11733,7 +11739,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Maria Horn",
    "wfp_leading": true,
    "choices": [
@@ -11767,7 +11773,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Edward M. Corey",
    "wfp_leading": false,
    "choices": [
@@ -11801,7 +11807,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Suzanne Lovig",
    "wfp_leading": false,
    "choices": [
@@ -11835,7 +11841,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Ronald Napoli, Jr.",
    "wfp_leading": true,
    "choices": [
@@ -11869,7 +11875,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "DeWayne K. Wynn, Jr.",
    "wfp_leading": true,
    "choices": [
@@ -11903,7 +11909,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Nate Brown",
    "wfp_leading": false,
    "choices": [
@@ -11937,7 +11943,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Mary B. Fortier",
    "wfp_leading": true,
    "choices": [
@@ -11971,7 +11977,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Chad Cardillo",
    "wfp_leading": true,
    "choices": [
@@ -12005,7 +12011,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Kathleen Kimball",
    "wfp_leading": false,
    "choices": [
@@ -12039,7 +12045,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Josh Elliott",
    "wfp_leading": true,
    "choices": [
@@ -12073,7 +12079,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Laurie Sweet",
    "wfp_leading": true,
    "choices": [
@@ -12100,7 +12106,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Steven Winter",
    "wfp_leading": true,
    "choices": [
@@ -12127,7 +12133,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Moira Rader",
    "wfp_leading": true,
    "choices": [
@@ -12161,7 +12167,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Karen A. Martin",
    "wfp_leading": false,
    "choices": [
@@ -12195,7 +12201,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Robin Comey",
    "wfp_leading": true,
    "choices": [
@@ -12229,7 +12235,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Kara Rochelle",
    "wfp_leading": true,
    "choices": [
@@ -12263,7 +12269,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Michelle Embree Ku",
    "wfp_leading": true,
    "choices": [
@@ -12297,7 +12303,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Anne Weisberg",
    "wfp_leading": false,
    "choices": [
@@ -12331,7 +12337,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Farley A. Santos",
    "wfp_leading": true,
    "choices": [
@@ -12365,7 +12371,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Bob Godfrey",
    "wfp_leading": true,
    "choices": [
@@ -12399,7 +12405,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "MJ Shannon",
    "wfp_leading": true,
    "choices": [
@@ -12433,7 +12439,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Toni Lombardi",
    "wfp_leading": true,
    "choices": [
@@ -12467,7 +12473,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Kaitlyn Shake",
    "wfp_leading": true,
    "choices": [
@@ -12501,7 +12507,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Cristin McCarthy Vahey",
    "wfp_leading": true,
    "choices": [
@@ -12535,7 +12541,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Sarah Keitt",
    "wfp_leading": true,
    "choices": [
@@ -12569,7 +12575,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Anne M. Hughes",
    "wfp_leading": true,
    "choices": [
@@ -12603,7 +12609,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Kadeem Roberts",
    "wfp_leading": true,
    "choices": [
@@ -12637,7 +12643,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Kenneth Gucker",
    "wfp_leading": true,
    "choices": [
@@ -12671,7 +12677,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Larry Pemberton, Jr.",
    "wfp_leading": true,
    "choices": [
@@ -12712,7 +12718,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Dominique Johnson",
    "wfp_leading": true,
    "choices": [
@@ -12746,7 +12752,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Corey P. Paris",
    "wfp_leading": true,
    "choices": [
@@ -12773,7 +12779,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Maryam Khan",
    "wfp_leading": true,
    "choices": [
@@ -12807,7 +12813,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Saud Anwar",
    "wfp_leading": true,
    "choices": [
@@ -12841,7 +12847,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "MD Rahman",
    "wfp_leading": true,
    "choices": [
@@ -12875,7 +12881,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Rick Lopes",
    "wfp_leading": true,
    "choices": [
@@ -12909,7 +12915,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "David W. Kiner",
    "wfp_leading": true,
    "choices": [
@@ -12943,7 +12949,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Matt Lesser",
    "wfp_leading": true,
    "choices": [
@@ -12984,7 +12990,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Gary Winfield",
    "wfp_leading": true,
    "choices": [
@@ -13011,7 +13017,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Christine Cohen",
    "wfp_leading": true,
    "choices": [
@@ -13045,7 +13051,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Jack Fazzino",
    "wfp_leading": true,
    "choices": [
@@ -13079,7 +13085,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Jorge Cabrera",
    "wfp_leading": true,
    "choices": [
@@ -13113,7 +13119,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Catherine Osten",
    "wfp_leading": true,
    "choices": [
@@ -13147,7 +13153,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Martha E. Marx",
    "wfp_leading": true,
    "choices": [
@@ -13181,7 +13187,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Julie Kushner",
    "wfp_leading": true,
    "choices": [
@@ -13215,7 +13221,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Mae Flexer",
    "wfp_leading": true,
    "choices": [
@@ -13249,7 +13255,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Brandi Mandato",
    "wfp_leading": true,
    "choices": [
@@ -13283,7 +13289,7 @@
     "pct": null,
     "text": "Statewide, 775 of 776 precincts reported"
    },
-   "updated_at": "2026-11-05T03:51:26+00:00",
+   "updated_at": "2026-11-05T04:15:48+00:00",
    "wfp_choice": "Ethan Werstler",
    "wfp_leading": true,
    "choices": [
@@ -15157,7 +15163,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:32+00:00",
+   "updated_at": "2026-11-05T04:15:53+00:00",
    "wfp_choice": "Sarah R. David",
    "wfp_leading": true,
    "choices": [
@@ -15184,7 +15190,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:32+00:00",
+   "updated_at": "2026-11-05T04:15:53+00:00",
    "wfp_choice": "Karl Bickel",
    "wfp_leading": true,
    "choices": [
@@ -15218,7 +15224,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:32+00:00",
+   "updated_at": "2026-11-05T04:15:53+00:00",
    "wfp_choice": "Janssen Evelyn",
    "wfp_leading": true,
    "choices": [
@@ -15245,7 +15251,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:32+00:00",
+   "updated_at": "2026-11-05T04:15:53+00:00",
    "wfp_choice": "Chuck Cook",
    "wfp_leading": true,
    "choices": [
@@ -15279,7 +15285,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:32+00:00",
+   "updated_at": "2026-11-05T04:15:53+00:00",
    "wfp_choice": "Will Jawando",
    "wfp_leading": true,
    "choices": [
@@ -15313,7 +15319,7 @@
     "pct": 88.9,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:32+00:00",
+   "updated_at": "2026-11-05T04:15:53+00:00",
    "wfp_choice": "Michelle García",
    "wfp_leading": true,
    "choices": [
@@ -15340,7 +15346,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:32+00:00",
+   "updated_at": "2026-11-05T04:15:53+00:00",
    "wfp_choice": "Victor Ramirez",
    "wfp_leading": true,
    "choices": [
@@ -15367,7 +15373,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:32+00:00",
+   "updated_at": "2026-11-05T04:15:53+00:00",
    "wfp_choice": "Shayla D. Adams-Stafford",
    "wfp_leading": true,
    "choices": [
@@ -15394,7 +15400,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:32+00:00",
+   "updated_at": "2026-11-05T04:15:53+00:00",
    "wfp_choice": "Tamara Davis Brown",
    "wfp_leading": true,
    "choices": [
@@ -16557,7 +16563,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:20+00:00",
+   "updated_at": "2026-11-05T04:15:42+00:00",
    "wfp_choice": "RON BAUTISTA",
    "wfp_leading": true,
    "choices": [
@@ -16591,7 +16597,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:20+00:00",
+   "updated_at": "2026-11-05T04:15:42+00:00",
    "wfp_choice": "BILL O'DEA",
    "wfp_leading": true,
    "choices": [
@@ -16625,7 +16631,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:20+00:00",
+   "updated_at": "2026-11-05T04:15:42+00:00",
    "wfp_choice": "PAM JOHNSON",
    "wfp_leading": true,
    "choices": [
@@ -16659,7 +16665,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:20+00:00",
+   "updated_at": "2026-11-05T04:15:42+00:00",
    "wfp_choice": "ALEX VALDEZ",
    "wfp_leading": true,
    "choices": [
@@ -26308,7 +26314,7 @@
     "pct": null,
     "text": "Countywide, 102 of 102 precincts reporting"
    },
-   "updated_at": "2026-11-05T03:52:33+00:00",
+   "updated_at": "2026-11-05T04:16:52+00:00",
    "wfp_choice": "Justin R. Chaires",
    "wfp_leading": true,
    "choices": [
@@ -31356,7 +31362,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Shannon Long",
    "wfp_leading": true,
    "choices": [
@@ -31390,7 +31396,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Anita Earls",
    "wfp_leading": true,
    "choices": [
@@ -31424,7 +31430,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Marcia Morey",
    "wfp_leading": true,
    "choices": [
@@ -31458,7 +31464,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Alma S. Adams",
    "wfp_leading": true,
    "choices": [
@@ -31492,7 +31498,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Renee A. Price",
    "wfp_leading": true,
    "choices": [
@@ -31519,7 +31525,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Rodney D. Pierce",
    "wfp_leading": true,
    "choices": [
@@ -31553,7 +31559,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Rodney Sadler",
    "wfp_leading": true,
    "choices": [
@@ -31580,7 +31586,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Satana Deberry",
    "wfp_leading": true,
    "choices": [
@@ -31607,7 +31613,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Garry L. McFadden",
    "wfp_leading": true,
    "choices": [
@@ -31736,7 +31742,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:22+00:00",
+   "updated_at": "2026-11-05T04:15:44+00:00",
    "wfp_choice": "Alison Hatheway",
    "wfp_leading": true,
    "choices": [
@@ -31763,7 +31769,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:22+00:00",
+   "updated_at": "2026-11-05T04:15:44+00:00",
    "wfp_choice": "Nicole L. Sanders",
    "wfp_leading": true,
    "choices": [
@@ -31790,7 +31796,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:22+00:00",
+   "updated_at": "2026-11-05T04:15:44+00:00",
    "wfp_choice": "Kari L. Bloom",
    "wfp_leading": true,
    "choices": [
@@ -32409,7 +32415,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Tina Kotek",
    "wfp_leading": true,
    "choices": [
@@ -32457,7 +32463,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Jeff Merkley",
    "wfp_leading": true,
    "choices": [
@@ -32512,7 +32518,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Suzanne Bonamici",
    "wfp_leading": true,
    "choices": [
@@ -32553,7 +32559,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Val Hoyle",
    "wfp_leading": true,
    "choices": [
@@ -32601,7 +32607,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Sean Davis",
    "wfp_leading": false,
    "choices": [
@@ -32656,7 +32662,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Evelyn Kocher",
    "wfp_leading": false,
    "choices": [
@@ -32697,7 +32703,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Michelle Valigura",
    "wfp_leading": false,
    "choices": [
@@ -32745,7 +32751,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Bre Irish",
    "wfp_leading": false,
    "choices": [
@@ -32786,7 +32792,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Charles Maughan",
    "wfp_leading": true,
    "choices": [
@@ -32841,7 +32847,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Steph Routh",
    "wfp_leading": true,
    "choices": [
@@ -32896,7 +32902,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Jennifer Smith",
    "wfp_leading": true,
    "choices": [
@@ -32930,7 +32936,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Athena Aguiar",
    "wfp_leading": true,
    "choices": [
@@ -32971,7 +32977,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Mallory Hiefield",
    "wfp_leading": true,
    "choices": [
@@ -33047,7 +33053,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Marchelle Paholsky",
    "wfp_leading": true,
    "choices": [
@@ -33088,7 +33094,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Karim Delgado",
    "wfp_leading": true,
    "choices": [
@@ -33129,7 +33135,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Dorian Russell",
    "wfp_leading": true,
    "choices": [
@@ -33177,7 +33183,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Diana Jackson",
    "wfp_leading": true,
    "choices": [
@@ -33232,7 +33238,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Shannon Corr",
    "wfp_leading": false,
    "choices": [
@@ -33273,7 +33279,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Diane S Sykes",
    "wfp_leading": true,
    "choices": [
@@ -33314,7 +33320,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Heather Buch",
    "wfp_leading": true,
    "choices": [
@@ -33355,7 +33361,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Richard Smith Savage",
    "wfp_leading": true,
    "choices": [
@@ -33396,7 +33402,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Allie Ball",
    "wfp_leading": false,
    "choices": [
@@ -33444,7 +33450,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Will Anderson",
    "wfp_leading": true,
    "choices": [
@@ -33480,179 +33486,179 @@
   },
   "971": {
    "name": "Shannon Singleton",
-   "status": "awaiting",
+   "status": "counting",
    "match_status": "auto",
    "uncontested": false,
-   "source": "or",
-   "source_name": "Oregon Secretary of State",
-   "source_url": "https://results.oregonvotes.gov/",
-   "contest": "Multnomah County Commission, Chair",
+   "source": "or.multnomah",
+   "source_name": "Multnomah County Elections",
+   "source_url": "https://rcvresults.multco.us/Reports/7e2e7d9c-8341-4bd5-889e-09eea9e03579/Multnomah_County_Chair",
+   "contest": "Multnomah County Commission, Chair (ranked-choice, round 2 of 2)",
    "scope": "complete",
    "reporting": {
-    "pct": 0.0,
-    "text": null
+    "pct": null,
+    "text": "Ranked-choice tabulation, preliminary results 3"
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-04T16:30:00-08:00",
    "wfp_choice": "Shannon Singleton",
-   "wfp_leading": null,
+   "wfp_leading": true,
    "choices": [
     {
      "name": "Shannon Singleton",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 122730,
+     "pct": 46.39,
      "is_wfp": true
     },
     {
      "name": "Julia Brim-Edwards",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 94586,
+     "pct": 35.75,
      "is_wfp": false
     },
     {
      "name": "Sharon Meieran",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 47261,
+     "pct": 17.86,
      "is_wfp": false
     }
    ]
   },
   "972": {
    "name": "Nathan Ong Norris",
-   "status": "awaiting",
+   "status": "counting",
    "match_status": "auto",
    "uncontested": false,
-   "source": "or",
-   "source_name": "Oregon Secretary of State",
-   "source_url": "https://results.oregonvotes.gov/",
-   "contest": "Multnomah County Commissioner, District 2",
+   "source": "or.multnomah",
+   "source_name": "Multnomah County Elections",
+   "source_url": "https://rcvresults.multco.us/Reports/7e2e7d9c-8341-4bd5-889e-09eea9e03579/Multnomah_County_Commissioner,_District_2",
+   "contest": "Multnomah County Commissioner, District 2 (ranked-choice, round 5 of 5)",
    "scope": "complete",
    "reporting": {
-    "pct": 0.0,
-    "text": null
+    "pct": null,
+    "text": "Ranked-choice tabulation, preliminary results 3"
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-04T16:30:00-08:00",
    "wfp_choice": "Nathan Ong Norris",
-   "wfp_leading": null,
+   "wfp_leading": false,
    "choices": [
-    {
-     "name": "Bruce Broussard",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Herman Greene",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
     {
      "name": "Bri Williams",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 32377,
+     "pct": 36.48,
      "is_wfp": false
     },
     {
      "name": "Serena Cruz",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 27964,
+     "pct": 31.51,
      "is_wfp": false
     },
     {
      "name": "Nathan Ong Norris",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 12683,
+     "pct": 14.29,
      "is_wfp": true
     },
     {
      "name": "Nabil Zaghloul",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 5492,
+     "pct": 6.19,
+     "is_wfp": false
+    },
+    {
+     "name": "Bruce Broussard",
+     "party": null,
+     "votes": 4748,
+     "pct": 5.35,
+     "is_wfp": false
+    },
+    {
+     "name": "Herman Greene",
+     "party": null,
+     "votes": 3306,
+     "pct": 3.72,
      "is_wfp": false
     },
     {
      "name": "Tony Robertson",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 2187,
+     "pct": 2.46,
      "is_wfp": false
     }
    ]
   },
   "973": {
    "name": "Bri Williams",
-   "status": "awaiting",
+   "status": "counting",
    "match_status": "auto",
    "uncontested": false,
-   "source": "or",
-   "source_name": "Oregon Secretary of State",
-   "source_url": "https://results.oregonvotes.gov/",
-   "contest": "Multnomah County Commissioner, District 2",
+   "source": "or.multnomah",
+   "source_name": "Multnomah County Elections",
+   "source_url": "https://rcvresults.multco.us/Reports/7e2e7d9c-8341-4bd5-889e-09eea9e03579/Multnomah_County_Commissioner,_District_2",
+   "contest": "Multnomah County Commissioner, District 2 (ranked-choice, round 5 of 5)",
    "scope": "complete",
    "reporting": {
-    "pct": 0.0,
-    "text": null
+    "pct": null,
+    "text": "Ranked-choice tabulation, preliminary results 3"
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-04T16:30:00-08:00",
    "wfp_choice": "Bri Williams",
-   "wfp_leading": null,
+   "wfp_leading": true,
    "choices": [
-    {
-     "name": "Bruce Broussard",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Herman Greene",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
     {
      "name": "Bri Williams",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 32377,
+     "pct": 36.48,
      "is_wfp": true
     },
     {
      "name": "Serena Cruz",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 27964,
+     "pct": 31.51,
      "is_wfp": false
     },
     {
      "name": "Nathan Ong Norris",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 12683,
+     "pct": 14.29,
      "is_wfp": false
     },
     {
      "name": "Nabil Zaghloul",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 5492,
+     "pct": 6.19,
+     "is_wfp": false
+    },
+    {
+     "name": "Bruce Broussard",
+     "party": null,
+     "votes": 4748,
+     "pct": 5.35,
+     "is_wfp": false
+    },
+    {
+     "name": "Herman Greene",
+     "party": null,
+     "votes": 3306,
+     "pct": 3.72,
      "is_wfp": false
     },
     {
      "name": "Tony Robertson",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 2187,
+     "pct": 2.46,
      "is_wfp": false
     }
    ]
@@ -33671,7 +33677,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Callee Ackland",
    "wfp_leading": true,
    "choices": [
@@ -33712,7 +33718,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Roy Kaufmann",
    "wfp_leading": false,
    "choices": [
@@ -33760,7 +33766,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Tom Andersen",
    "wfp_leading": true,
    "choices": [
@@ -33801,7 +33807,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Paul Evans",
    "wfp_leading": true,
    "choices": [
@@ -33849,7 +33855,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Michael Welsh",
    "wfp_leading": true,
    "choices": [
@@ -33890,7 +33896,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Nathan Sosa",
    "wfp_leading": true,
    "choices": [
@@ -33931,7 +33937,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Thuy Tran",
    "wfp_leading": true,
    "choices": [
@@ -33972,7 +33978,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Willy Chotzen",
    "wfp_leading": true,
    "choices": [
@@ -34013,7 +34019,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Lamar Wise",
    "wfp_leading": true,
    "choices": [
@@ -34054,7 +34060,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Darla Mead",
    "wfp_leading": false,
    "choices": [
@@ -34095,7 +34101,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Sierrah Williams",
    "wfp_leading": false,
    "choices": [
@@ -34143,7 +34149,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Courtney Neron Misslin",
    "wfp_leading": true,
    "choices": [
@@ -34191,7 +34197,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Nicole Bassett",
    "wfp_leading": false,
    "choices": [
@@ -34232,7 +34238,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "James I Manning Jr",
    "wfp_leading": true,
    "choices": [
@@ -34273,7 +34279,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Kipperlyn Sinclair",
    "wfp_leading": true,
    "choices": [
@@ -34320,7 +34326,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Kori Rodley",
    "wfp_leading": true,
    "choices": [
@@ -34361,7 +34367,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Ivan Maluski",
    "wfp_leading": false,
    "choices": [
@@ -34402,7 +34408,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Joanna Robinson",
    "wfp_leading": false,
    "choices": [
@@ -34443,7 +34449,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Lesly M Munoz",
    "wfp_leading": true,
    "choices": [
@@ -34484,7 +34490,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Ben Bowman",
    "wfp_leading": true,
    "choices": [
@@ -34525,7 +34531,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Tammy Carpenter",
    "wfp_leading": true,
    "choices": [
@@ -34566,7 +34572,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Dacia Grayber",
    "wfp_leading": true,
    "choices": [
@@ -34607,7 +34613,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Cyrus Javadi",
    "wfp_leading": true,
    "choices": [
@@ -34648,7 +34654,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Farrah Chaichi",
    "wfp_leading": true,
    "choices": [
@@ -34689,7 +34695,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Jules Walters",
    "wfp_leading": true,
    "choices": [
@@ -34730,7 +34736,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Michael W Sugar",
    "wfp_leading": true,
    "choices": [
@@ -34778,7 +34784,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Mark Gamba",
    "wfp_leading": true,
    "choices": [
@@ -34819,7 +34825,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Travis Nelson",
    "wfp_leading": true,
    "choices": [
@@ -34860,7 +34866,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Zach Hudson",
    "wfp_leading": true,
    "choices": [
@@ -34901,7 +34907,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Deb Patterson",
    "wfp_leading": true,
    "choices": [
@@ -34942,7 +34948,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Virginia Stapleton",
    "wfp_leading": true,
    "choices": [
@@ -34983,7 +34989,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Myrna A Munoz",
    "wfp_leading": true,
    "choices": [
@@ -35024,7 +35030,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Kayse Jama",
    "wfp_leading": true,
    "choices": [
@@ -35058,7 +35064,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Nafisa Fai",
    "wfp_leading": false,
    "choices": [
@@ -35099,7 +35105,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Morgan Schmidt",
    "wfp_leading": true,
    "choices": [
@@ -35140,7 +35146,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Jeremy Gordon",
    "wfp_leading": true,
    "choices": [
@@ -35181,7 +35187,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Sara Duncan",
    "wfp_leading": false,
    "choices": [
@@ -35222,7 +35228,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Maria Hinojos Pressey",
    "wfp_leading": false,
    "choices": [
@@ -35263,7 +35269,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Isabella Lee Tibbetts",
    "wfp_leading": false,
    "choices": [
@@ -35304,7 +35310,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Evelyn Kocher",
    "wfp_leading": false,
    "choices": [
@@ -35333,646 +35339,646 @@
   },
   "1015": {
    "name": "Angelita Morillo",
-   "status": "awaiting",
+   "status": "counting",
    "match_status": "auto",
    "uncontested": false,
-   "source": "or",
-   "source_name": "Oregon Secretary of State",
-   "source_url": "https://results.oregonvotes.gov/",
-   "contest": "City of Portland, Councilor, District 3",
+   "source": "or.multnomah",
+   "source_name": "Multnomah County Elections",
+   "source_url": "https://rcvresults.multco.us/Reports/7e2e7d9c-8341-4bd5-889e-09eea9e03579/City_of_Portland_Councilor_-_District_3",
+   "contest": "City of Portland, Councilor, District 3 (ranked-choice, round 15 of 15)",
    "scope": "complete",
    "reporting": {
-    "pct": 0.0,
-    "text": null
+    "pct": null,
+    "text": "Ranked-choice tabulation, preliminary results 3"
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-04T16:30:00-08:00",
    "wfp_choice": "Angelita Morillo",
-   "wfp_leading": null,
+   "wfp_leading": true,
    "choices": [
-    {
-     "name": "John Sweeney",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Tom Sollitt",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Larry Kelly",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Tiffany Koyama Lane",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Ali Beaudoin",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Heart Free Pham",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Terry Parker",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Martin Ward",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Joel Corcoran",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Darren McCormick",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
     {
      "name": "Angelita Morillo",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 14403,
+     "pct": 24.03,
      "is_wfp": true
     },
     {
      "name": "Steve Novick",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 14403,
+     "pct": 24.03,
      "is_wfp": false
     },
     {
-     "name": "Patrick Hilton",
+     "name": "Tiffany Koyama Lane",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Matthias Hallett",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 14403,
+     "pct": 24.03,
      "is_wfp": false
     },
     {
      "name": "Kellie Torres",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 6902,
+     "pct": 11.52,
      "is_wfp": false
     },
     {
-     "name": "Kimberly Tucker",
+     "name": "Joel Corcoran",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 1169,
+     "pct": 1.95,
      "is_wfp": false
     },
     {
-     "name": "Cristal Otero",
+     "name": "Matthias Hallett",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 1164,
+     "pct": 1.94,
      "is_wfp": false
     },
     {
-     "name": "Guy Frankenstein",
+     "name": "John Sweeney",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Keir Legree",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 1144,
+     "pct": 1.91,
      "is_wfp": false
     },
     {
      "name": "Esther León",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 1111,
+     "pct": 1.85,
+     "is_wfp": false
+    },
+    {
+     "name": "Keir Legree",
+     "party": null,
+     "votes": 883,
+     "pct": 1.47,
+     "is_wfp": false
+    },
+    {
+     "name": "Cristal Otero",
+     "party": null,
+     "votes": 682,
+     "pct": 1.14,
+     "is_wfp": false
+    },
+    {
+     "name": "Tom Sollitt",
+     "party": null,
+     "votes": 652,
+     "pct": 1.09,
+     "is_wfp": false
+    },
+    {
+     "name": "Patrick Hilton",
+     "party": null,
+     "votes": 576,
+     "pct": 0.96,
+     "is_wfp": false
+    },
+    {
+     "name": "Terry Parker",
+     "party": null,
+     "votes": 493,
+     "pct": 0.82,
+     "is_wfp": false
+    },
+    {
+     "name": "Martin Ward",
+     "party": null,
+     "votes": 373,
+     "pct": 0.62,
+     "is_wfp": false
+    },
+    {
+     "name": "Guy Frankenstein",
+     "party": null,
+     "votes": 350,
+     "pct": 0.58,
+     "is_wfp": false
+    },
+    {
+     "name": "Ali Beaudoin",
+     "party": null,
+     "votes": 325,
+     "pct": 0.54,
+     "is_wfp": false
+    },
+    {
+     "name": "Larry Kelly",
+     "party": null,
+     "votes": 272,
+     "pct": 0.45,
+     "is_wfp": false
+    },
+    {
+     "name": "Heart Free Pham",
+     "party": null,
+     "votes": 217,
+     "pct": 0.36,
+     "is_wfp": false
+    },
+    {
+     "name": "Kimberly Tucker",
+     "party": null,
+     "votes": 146,
+     "pct": 0.24,
      "is_wfp": false
     },
     {
      "name": "Kenneth (Kent) R Landgraver III",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 140,
+     "pct": 0.23,
+     "is_wfp": false
+    },
+    {
+     "name": "Darren McCormick",
+     "party": null,
+     "votes": 120,
+     "pct": 0.2,
      "is_wfp": false
     }
    ]
   },
   "1016": {
    "name": "Tiffany Koyama Lane",
-   "status": "awaiting",
+   "status": "counting",
    "match_status": "auto",
    "uncontested": false,
-   "source": "or",
-   "source_name": "Oregon Secretary of State",
-   "source_url": "https://results.oregonvotes.gov/",
-   "contest": "City of Portland, Councilor, District 3",
+   "source": "or.multnomah",
+   "source_name": "Multnomah County Elections",
+   "source_url": "https://rcvresults.multco.us/Reports/7e2e7d9c-8341-4bd5-889e-09eea9e03579/City_of_Portland_Councilor_-_District_3",
+   "contest": "City of Portland, Councilor, District 3 (ranked-choice, round 15 of 15)",
    "scope": "complete",
    "reporting": {
-    "pct": 0.0,
-    "text": null
+    "pct": null,
+    "text": "Ranked-choice tabulation, preliminary results 3"
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-04T16:30:00-08:00",
    "wfp_choice": "Tiffany Koyama Lane",
-   "wfp_leading": null,
+   "wfp_leading": true,
    "choices": [
-    {
-     "name": "John Sweeney",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Tom Sollitt",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Larry Kelly",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Tiffany Koyama Lane",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": true
-    },
-    {
-     "name": "Ali Beaudoin",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Heart Free Pham",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Terry Parker",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Martin Ward",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Joel Corcoran",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Darren McCormick",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
     {
      "name": "Angelita Morillo",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 14403,
+     "pct": 24.03,
      "is_wfp": false
     },
     {
      "name": "Steve Novick",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 14403,
+     "pct": 24.03,
      "is_wfp": false
     },
     {
-     "name": "Patrick Hilton",
+     "name": "Tiffany Koyama Lane",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 14403,
+     "pct": 24.03,
+     "is_wfp": true
+    },
+    {
+     "name": "Kellie Torres",
+     "party": null,
+     "votes": 6902,
+     "pct": 11.52,
+     "is_wfp": false
+    },
+    {
+     "name": "Joel Corcoran",
+     "party": null,
+     "votes": 1169,
+     "pct": 1.95,
      "is_wfp": false
     },
     {
      "name": "Matthias Hallett",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 1164,
+     "pct": 1.94,
      "is_wfp": false
     },
     {
-     "name": "Kellie Torres",
+     "name": "John Sweeney",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Kimberly Tucker",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Cristal Otero",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Guy Frankenstein",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Keir Legree",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 1144,
+     "pct": 1.91,
      "is_wfp": false
     },
     {
      "name": "Esther León",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 1111,
+     "pct": 1.85,
+     "is_wfp": false
+    },
+    {
+     "name": "Keir Legree",
+     "party": null,
+     "votes": 883,
+     "pct": 1.47,
+     "is_wfp": false
+    },
+    {
+     "name": "Cristal Otero",
+     "party": null,
+     "votes": 682,
+     "pct": 1.14,
+     "is_wfp": false
+    },
+    {
+     "name": "Tom Sollitt",
+     "party": null,
+     "votes": 652,
+     "pct": 1.09,
+     "is_wfp": false
+    },
+    {
+     "name": "Patrick Hilton",
+     "party": null,
+     "votes": 576,
+     "pct": 0.96,
+     "is_wfp": false
+    },
+    {
+     "name": "Terry Parker",
+     "party": null,
+     "votes": 493,
+     "pct": 0.82,
+     "is_wfp": false
+    },
+    {
+     "name": "Martin Ward",
+     "party": null,
+     "votes": 373,
+     "pct": 0.62,
+     "is_wfp": false
+    },
+    {
+     "name": "Guy Frankenstein",
+     "party": null,
+     "votes": 350,
+     "pct": 0.58,
+     "is_wfp": false
+    },
+    {
+     "name": "Ali Beaudoin",
+     "party": null,
+     "votes": 325,
+     "pct": 0.54,
+     "is_wfp": false
+    },
+    {
+     "name": "Larry Kelly",
+     "party": null,
+     "votes": 272,
+     "pct": 0.45,
+     "is_wfp": false
+    },
+    {
+     "name": "Heart Free Pham",
+     "party": null,
+     "votes": 217,
+     "pct": 0.36,
+     "is_wfp": false
+    },
+    {
+     "name": "Kimberly Tucker",
+     "party": null,
+     "votes": 146,
+     "pct": 0.24,
      "is_wfp": false
     },
     {
      "name": "Kenneth (Kent) R Landgraver III",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 140,
+     "pct": 0.23,
+     "is_wfp": false
+    },
+    {
+     "name": "Darren McCormick",
+     "party": null,
+     "votes": 120,
+     "pct": 0.2,
      "is_wfp": false
     }
    ]
   },
   "1017": {
    "name": "Jamey Evenstar",
-   "status": "awaiting",
+   "status": "counting",
    "match_status": "auto",
    "uncontested": false,
-   "source": "or",
-   "source_name": "Oregon Secretary of State",
-   "source_url": "https://results.oregonvotes.gov/",
-   "contest": "City of Portland, Councilor, District 4",
+   "source": "or.multnomah",
+   "source_name": "Multnomah County Elections",
+   "source_url": "https://rcvresults.multco.us/Reports/7e2e7d9c-8341-4bd5-889e-09eea9e03579/City_of_Portland_Councilor_-_District_4",
+   "contest": "City of Portland, Councilor, District 4 (ranked-choice, round 11 of 11)",
    "scope": "complete",
    "reporting": {
-    "pct": 0.0,
-    "text": null
+    "pct": null,
+    "text": "Ranked-choice tabulation, preliminary results 3"
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-04T16:30:00-08:00",
    "wfp_choice": "Jamey Evenstar",
-   "wfp_leading": null,
+   "wfp_leading": false,
    "choices": [
     {
-     "name": "Matt Schulte",
+     "name": "Eric Zimmerman",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Jeremy Beausoleil Smith",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "John J Goldsmith",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 13281,
+     "pct": 23.36,
      "is_wfp": false
     },
     {
      "name": "Mitch Green",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 13281,
+     "pct": 23.36,
      "is_wfp": false
     },
     {
      "name": "Olivia Clark",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Jayne Cronlund",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "John McDonald",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Eric Zimmerman",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Jamey Evenstar",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": true
-    },
-    {
-     "name": "Timothy (TJ) Anderson",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 13281,
+     "pct": 23.36,
      "is_wfp": false
     },
     {
      "name": "Eli Arnold",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 6388,
+     "pct": 11.24,
+     "is_wfp": false
+    },
+    {
+     "name": "Jamey Evenstar",
+     "party": null,
+     "votes": 3031,
+     "pct": 5.33,
+     "is_wfp": true
+    },
+    {
+     "name": "Jeremy Beausoleil Smith",
+     "party": null,
+     "votes": 2993,
+     "pct": 5.27,
+     "is_wfp": false
+    },
+    {
+     "name": "Jayne Cronlund",
+     "party": null,
+     "votes": 2058,
+     "pct": 3.62,
+     "is_wfp": false
+    },
+    {
+     "name": "Matt Schulte",
+     "party": null,
+     "votes": 876,
+     "pct": 1.54,
      "is_wfp": false
     },
     {
      "name": "Josh Leake",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 614,
+     "pct": 1.08,
+     "is_wfp": false
+    },
+    {
+     "name": "John McDonald",
+     "party": null,
+     "votes": 528,
+     "pct": 0.93,
+     "is_wfp": false
+    },
+    {
+     "name": "Timothy (TJ) Anderson",
+     "party": null,
+     "votes": 334,
+     "pct": 0.59,
+     "is_wfp": false
+    },
+    {
+     "name": "John J Goldsmith",
+     "party": null,
+     "votes": 179,
+     "pct": 0.31,
      "is_wfp": false
     }
    ]
   },
   "1018": {
    "name": "Jeremy Beausoleil Smith",
-   "status": "awaiting",
+   "status": "counting",
    "match_status": "auto",
    "uncontested": false,
-   "source": "or",
-   "source_name": "Oregon Secretary of State",
-   "source_url": "https://results.oregonvotes.gov/",
-   "contest": "City of Portland, Councilor, District 4",
+   "source": "or.multnomah",
+   "source_name": "Multnomah County Elections",
+   "source_url": "https://rcvresults.multco.us/Reports/7e2e7d9c-8341-4bd5-889e-09eea9e03579/City_of_Portland_Councilor_-_District_4",
+   "contest": "City of Portland, Councilor, District 4 (ranked-choice, round 11 of 11)",
    "scope": "complete",
    "reporting": {
-    "pct": 0.0,
-    "text": null
+    "pct": null,
+    "text": "Ranked-choice tabulation, preliminary results 3"
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-04T16:30:00-08:00",
    "wfp_choice": "Jeremy Beausoleil Smith",
-   "wfp_leading": null,
+   "wfp_leading": false,
    "choices": [
     {
-     "name": "Matt Schulte",
+     "name": "Eric Zimmerman",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Jeremy Beausoleil Smith",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": true
-    },
-    {
-     "name": "John J Goldsmith",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 13281,
+     "pct": 23.36,
      "is_wfp": false
     },
     {
      "name": "Mitch Green",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 13281,
+     "pct": 23.36,
      "is_wfp": false
     },
     {
      "name": "Olivia Clark",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Jayne Cronlund",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "John McDonald",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Eric Zimmerman",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Jamey Evenstar",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Timothy (TJ) Anderson",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 13281,
+     "pct": 23.36,
      "is_wfp": false
     },
     {
      "name": "Eli Arnold",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 6388,
+     "pct": 11.24,
+     "is_wfp": false
+    },
+    {
+     "name": "Jamey Evenstar",
+     "party": null,
+     "votes": 3031,
+     "pct": 5.33,
+     "is_wfp": false
+    },
+    {
+     "name": "Jeremy Beausoleil Smith",
+     "party": null,
+     "votes": 2993,
+     "pct": 5.27,
+     "is_wfp": true
+    },
+    {
+     "name": "Jayne Cronlund",
+     "party": null,
+     "votes": 2058,
+     "pct": 3.62,
+     "is_wfp": false
+    },
+    {
+     "name": "Matt Schulte",
+     "party": null,
+     "votes": 876,
+     "pct": 1.54,
      "is_wfp": false
     },
     {
      "name": "Josh Leake",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 614,
+     "pct": 1.08,
+     "is_wfp": false
+    },
+    {
+     "name": "John McDonald",
+     "party": null,
+     "votes": 528,
+     "pct": 0.93,
+     "is_wfp": false
+    },
+    {
+     "name": "Timothy (TJ) Anderson",
+     "party": null,
+     "votes": 334,
+     "pct": 0.59,
+     "is_wfp": false
+    },
+    {
+     "name": "John J Goldsmith",
+     "party": null,
+     "votes": 179,
+     "pct": 0.31,
      "is_wfp": false
     }
    ]
   },
   "1019": {
    "name": "Mitch Green",
-   "status": "awaiting",
+   "status": "counting",
    "match_status": "auto",
    "uncontested": false,
-   "source": "or",
-   "source_name": "Oregon Secretary of State",
-   "source_url": "https://results.oregonvotes.gov/",
-   "contest": "City of Portland, Councilor, District 4",
+   "source": "or.multnomah",
+   "source_name": "Multnomah County Elections",
+   "source_url": "https://rcvresults.multco.us/Reports/7e2e7d9c-8341-4bd5-889e-09eea9e03579/City_of_Portland_Councilor_-_District_4",
+   "contest": "City of Portland, Councilor, District 4 (ranked-choice, round 11 of 11)",
    "scope": "complete",
    "reporting": {
-    "pct": 0.0,
-    "text": null
+    "pct": null,
+    "text": "Ranked-choice tabulation, preliminary results 3"
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-04T16:30:00-08:00",
    "wfp_choice": "Mitch Green",
-   "wfp_leading": null,
+   "wfp_leading": true,
    "choices": [
     {
-     "name": "Matt Schulte",
+     "name": "Eric Zimmerman",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Jeremy Beausoleil Smith",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "John J Goldsmith",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 13281,
+     "pct": 23.36,
      "is_wfp": false
     },
     {
      "name": "Mitch Green",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 13281,
+     "pct": 23.36,
      "is_wfp": true
     },
     {
      "name": "Olivia Clark",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Jayne Cronlund",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "John McDonald",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Eric Zimmerman",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Jamey Evenstar",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
-     "is_wfp": false
-    },
-    {
-     "name": "Timothy (TJ) Anderson",
-     "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 13281,
+     "pct": 23.36,
      "is_wfp": false
     },
     {
      "name": "Eli Arnold",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 6388,
+     "pct": 11.24,
+     "is_wfp": false
+    },
+    {
+     "name": "Jamey Evenstar",
+     "party": null,
+     "votes": 3031,
+     "pct": 5.33,
+     "is_wfp": false
+    },
+    {
+     "name": "Jeremy Beausoleil Smith",
+     "party": null,
+     "votes": 2993,
+     "pct": 5.27,
+     "is_wfp": false
+    },
+    {
+     "name": "Jayne Cronlund",
+     "party": null,
+     "votes": 2058,
+     "pct": 3.62,
+     "is_wfp": false
+    },
+    {
+     "name": "Matt Schulte",
+     "party": null,
+     "votes": 876,
+     "pct": 1.54,
      "is_wfp": false
     },
     {
      "name": "Josh Leake",
      "party": null,
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 614,
+     "pct": 1.08,
+     "is_wfp": false
+    },
+    {
+     "name": "John McDonald",
+     "party": null,
+     "votes": 528,
+     "pct": 0.93,
+     "is_wfp": false
+    },
+    {
+     "name": "Timothy (TJ) Anderson",
+     "party": null,
+     "votes": 334,
+     "pct": 0.59,
+     "is_wfp": false
+    },
+    {
+     "name": "John J Goldsmith",
+     "party": null,
+     "votes": 179,
+     "pct": 0.31,
      "is_wfp": false
     }
    ]
@@ -35991,7 +35997,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Heather Coleman-Cox",
    "wfp_leading": true,
    "choices": [
@@ -36032,7 +36038,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Teo Ramirez",
    "wfp_leading": true,
    "choices": [
@@ -36087,7 +36093,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Joseph Hagedorn",
    "wfp_leading": false,
    "choices": [
@@ -36128,7 +36134,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Chris Rabb",
    "wfp_leading": true,
    "choices": [
@@ -36162,7 +36168,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Bob Brooks",
    "wfp_leading": true,
    "choices": [
@@ -36196,7 +36202,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Summer Lee",
    "wfp_leading": true,
    "choices": [
@@ -36230,7 +36236,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Chris Deluzio",
    "wfp_leading": true,
    "choices": [
@@ -36264,7 +36270,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Aerion Andrew Abney",
    "wfp_leading": true,
    "choices": [
@@ -36291,7 +36297,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Lindsay Powell",
    "wfp_leading": true,
    "choices": [
@@ -36318,7 +36324,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Ce-Ce Gerlach",
    "wfp_leading": true,
    "choices": [
@@ -36352,7 +36358,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "La'Tasha D Mayes",
    "wfp_leading": true,
    "choices": [
@@ -36379,7 +36385,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Jon Lloyd",
    "wfp_leading": false,
    "choices": [
@@ -36413,7 +36419,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Brad Chambers",
    "wfp_leading": false,
    "choices": [
@@ -36447,7 +36453,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Jen Mazzocco",
    "wfp_leading": true,
    "choices": [
@@ -36474,7 +36480,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Hadley Haas",
    "wfp_leading": true,
    "choices": [
@@ -36508,7 +36514,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Brittany Bloam",
    "wfp_leading": true,
    "choices": [
@@ -36542,7 +36548,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Izzy Smith-Wade-El",
    "wfp_leading": true,
    "choices": [
@@ -36576,7 +36582,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Caleb Mccoy",
    "wfp_leading": false,
    "choices": [
@@ -36610,7 +36616,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Paul Takac",
    "wfp_leading": true,
    "choices": [
@@ -36644,7 +36650,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Sara Agerton",
    "wfp_leading": true,
    "choices": [
@@ -36678,7 +36684,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Nikki Rivera",
    "wfp_leading": true,
    "choices": [
@@ -36712,7 +36718,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Fern Leard",
    "wfp_leading": false,
    "choices": [
@@ -36746,7 +36752,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Johanny Cepeda-Freytiz",
    "wfp_leading": true,
    "choices": [
@@ -36773,7 +36779,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Meriam Sabih",
    "wfp_leading": true,
    "choices": [
@@ -36807,7 +36813,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Megan Griffin-Shelley",
    "wfp_leading": true,
    "choices": [
@@ -36834,7 +36840,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Carol Kazeem",
    "wfp_leading": true,
    "choices": [
@@ -36868,7 +36874,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Heather Boyd",
    "wfp_leading": true,
    "choices": [
@@ -36895,7 +36901,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Rob Gurtcheff",
    "wfp_leading": false,
    "choices": [
@@ -36929,7 +36935,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Thomas Kucer",
    "wfp_leading": false,
    "choices": [
@@ -36963,7 +36969,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Joe Hohenstein",
    "wfp_leading": true,
    "choices": [
@@ -36997,7 +37003,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Malcolm Kenyatta",
    "wfp_leading": true,
    "choices": [
@@ -37024,7 +37030,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Elizabeth Fiedler",
    "wfp_leading": true,
    "choices": [
@@ -37051,7 +37057,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Rachel Cuevas",
    "wfp_leading": true,
    "choices": [
@@ -37085,7 +37091,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Rick Krajewski",
    "wfp_leading": true,
    "choices": [
@@ -37112,7 +37118,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Roni Green",
    "wfp_leading": true,
    "choices": [
@@ -37139,7 +37145,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Tarik Khan",
    "wfp_leading": true,
    "choices": [
@@ -37166,7 +37172,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Sierra Mcneil",
    "wfp_leading": true,
    "choices": [
@@ -37193,7 +37199,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Danilo Burgos",
    "wfp_leading": true,
    "choices": [
@@ -37220,7 +37226,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Chris Johnson",
    "wfp_leading": true,
    "choices": [
@@ -37247,7 +37253,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Andre D Carroll",
    "wfp_leading": true,
    "choices": [
@@ -37274,7 +37280,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Art Haywood",
    "wfp_leading": true,
    "choices": [
@@ -37308,7 +37314,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Mark Pinsley",
    "wfp_leading": true,
    "choices": [
@@ -37342,7 +37348,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Jackie Baker",
    "wfp_leading": false,
    "choices": [
@@ -37376,7 +37382,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Chris Thomas",
    "wfp_leading": true,
    "choices": [
@@ -37417,7 +37423,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Lindsey Williams",
    "wfp_leading": true,
    "choices": [
@@ -37451,7 +37457,7 @@
     "pct": null,
     "text": "Statewide, 8,931 of 9,065 districts reported (in-person ballots only)"
    },
-   "updated_at": "2026-11-05T03:51:15+00:00",
+   "updated_at": "2026-11-05T04:15:37+00:00",
    "wfp_choice": "Katie Muth",
    "wfp_leading": true,
    "choices": [
@@ -38219,7 +38225,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:19+00:00",
+   "updated_at": "2026-11-05T04:15:41+00:00",
    "wfp_choice": "Michelle Butler",
    "wfp_leading": true,
    "choices": [
@@ -38369,7 +38375,7 @@
     "pct": null,
     "text": "1 of 1 county posted results"
    },
-   "updated_at": "2026-11-05T02:47:49.5872467Z",
+   "updated_at": "2026-11-05T03:56:27.1469081Z",
    "wfp_choice": "STEPHEN OTTERSTROM",
    "wfp_leading": true,
    "choices": [
@@ -38396,7 +38402,7 @@
     "pct": null,
     "text": "1 of 1 county posted results"
    },
-   "updated_at": "2026-11-05T02:47:49.5872467Z",
+   "updated_at": "2026-11-05T03:56:27.1469081Z",
    "wfp_choice": "SAHARA HAYES",
    "wfp_leading": true,
    "choices": [
@@ -38430,7 +38436,7 @@
     "pct": null,
     "text": "1 of 1 county posted results"
    },
-   "updated_at": "2026-11-05T02:47:49.5872467Z",
+   "updated_at": "2026-11-05T03:56:27.1469081Z",
    "wfp_choice": "ROSALBA DOMINGUEZ",
    "wfp_leading": true,
    "choices": [
@@ -38464,7 +38470,7 @@
     "pct": null,
     "text": "1 of 1 county posted results"
    },
-   "updated_at": "2026-11-05T02:47:49.5872467Z",
+   "updated_at": "2026-11-05T03:56:27.1469081Z",
    "wfp_choice": "DAVID CHAPPELL",
    "wfp_leading": true,
    "choices": [
@@ -38498,7 +38504,7 @@
     "pct": null,
     "text": "1 of 1 county posted results"
    },
-   "updated_at": "2026-11-05T02:19:48.4344856Z",
+   "updated_at": "2026-11-05T04:01:31.3211464Z",
    "wfp_choice": "Pramila Jayapal",
    "wfp_leading": true,
    "choices": [
@@ -38696,7 +38702,7 @@
     "pct": null,
     "text": "1 of 1 county posted results"
    },
-   "updated_at": "2026-11-05T02:19:48.4344856Z",
+   "updated_at": "2026-11-05T04:01:31.3211464Z",
    "wfp_choice": "Kelabe Tewolde",
    "wfp_leading": true,
    "choices": [
@@ -38737,7 +38743,7 @@
     "pct": null,
     "text": "1 of 1 county posted results"
    },
-   "updated_at": "2026-11-05T02:19:48.4344856Z",
+   "updated_at": "2026-11-05T04:01:31.3211464Z",
    "wfp_choice": "Natasha Hill",
    "wfp_leading": true,
    "choices": [
@@ -38778,7 +38784,7 @@
     "pct": null,
     "text": "1 of 1 county posted results"
    },
-   "updated_at": "2026-11-05T02:19:48.4344856Z",
+   "updated_at": "2026-11-05T04:01:31.3211464Z",
    "wfp_choice": "Luc Jasmin III",
    "wfp_leading": true,
    "choices": [
@@ -38819,29 +38825,29 @@
     "pct": null,
     "text": "4 of 4 counties posted results"
    },
-   "updated_at": "2026-11-05T02:19:48.4344856Z",
+   "updated_at": "2026-11-05T04:01:31.3211464Z",
    "wfp_choice": "Chelsea Dimas",
    "wfp_leading": true,
    "choices": [
     {
      "name": "Chelsea Dimas",
      "party": "(PREFERS DEM",
-     "votes": 9241,
-     "pct": 55.29,
+     "votes": 9614,
+     "pct": 55.91,
      "is_wfp": true
     },
     {
      "name": "Gloria Mendoza",
      "party": "(PREFERS REP",
-     "votes": 7405,
-     "pct": 44.31,
+     "votes": 7515,
+     "pct": 43.7,
      "is_wfp": false
     },
     {
      "name": "Write-in",
      "party": null,
      "votes": 67,
-     "pct": 0.4,
+     "pct": 0.39,
      "is_wfp": false
     }
    ]
@@ -38860,7 +38866,7 @@
     "pct": null,
     "text": "1 of 1 county posted results"
    },
-   "updated_at": "2026-11-05T02:19:48.4344856Z",
+   "updated_at": "2026-11-05T04:01:31.3211464Z",
    "wfp_choice": "Edwin Obras",
    "wfp_leading": true,
    "choices": [
@@ -38901,7 +38907,7 @@
     "pct": null,
     "text": "1 of 1 county posted results"
    },
-   "updated_at": "2026-11-05T02:19:48.4344856Z",
+   "updated_at": "2026-11-05T04:01:31.3211464Z",
    "wfp_choice": "Mia Su-Ling Gregerson",
    "wfp_leading": true,
    "choices": [
@@ -38942,7 +38948,7 @@
     "pct": null,
     "text": "1 of 1 county posted results"
    },
-   "updated_at": "2026-11-05T02:19:48.4344856Z",
+   "updated_at": "2026-11-05T04:01:31.3211464Z",
    "wfp_choice": "Jaelynn Scott",
    "wfp_leading": true,
    "choices": [
@@ -38983,7 +38989,7 @@
     "pct": null,
     "text": "1 of 1 county posted results"
    },
-   "updated_at": "2026-11-05T02:19:48.4344856Z",
+   "updated_at": "2026-11-05T04:01:31.3211464Z",
    "wfp_choice": "Shaun Scott",
    "wfp_leading": true,
    "choices": [
@@ -39017,7 +39023,7 @@
     "pct": null,
     "text": "1 of 1 county posted results"
    },
-   "updated_at": "2026-11-05T02:19:48.4344856Z",
+   "updated_at": "2026-11-05T04:01:31.3211464Z",
    "wfp_choice": "Darya Farivar",
    "wfp_leading": true,
    "choices": [
@@ -39058,7 +39064,7 @@
     "pct": null,
     "text": "1 of 1 county posted results"
    },
-   "updated_at": "2026-11-05T02:19:48.4344856Z",
+   "updated_at": "2026-11-05T04:01:31.3211464Z",
    "wfp_choice": "Jessica Forsythe",
    "wfp_leading": true,
    "choices": [
@@ -39099,7 +39105,7 @@
     "pct": null,
     "text": "1 of 1 county posted results"
    },
-   "updated_at": "2026-11-05T02:19:48.4344856Z",
+   "updated_at": "2026-11-05T04:01:31.3211464Z",
    "wfp_choice": "Noel C. Frame",
    "wfp_leading": true,
    "choices": [
@@ -39140,7 +39146,7 @@
     "pct": null,
     "text": "1 of 1 county posted results"
    },
-   "updated_at": "2026-11-05T02:19:48.4344856Z",
+   "updated_at": "2026-11-05T04:01:31.3211464Z",
    "wfp_choice": "Hannah Sabio-Howell",
    "wfp_leading": false,
    "choices": [
@@ -39854,7 +39860,7 @@
     "pct": 86.7,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:38+00:00",
+   "updated_at": "2026-11-05T04:16:00+00:00",
    "wfp_choice": "Yes",
    "wfp_leading": true,
    "choices": [
@@ -39906,7 +39912,7 @@
     "pct": 86.7,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:38+00:00",
+   "updated_at": "2026-11-05T04:16:00+00:00",
    "wfp_choice": "Yes",
    "wfp_leading": true,
    "choices": [
@@ -39946,7 +39952,7 @@
     "pct": 86.7,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:38+00:00",
+   "updated_at": "2026-11-05T04:16:00+00:00",
    "wfp_choice": "No",
    "wfp_leading": true,
    "choices": [
@@ -40016,7 +40022,7 @@
     "pct": 39.1,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "No",
    "wfp_leading": true,
    "choices": [
@@ -40050,7 +40056,7 @@
     "pct": 39.1,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "No",
    "wfp_leading": true,
    "choices": [
@@ -40084,7 +40090,7 @@
     "pct": 39.1,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "No",
    "wfp_leading": true,
    "choices": [
@@ -40118,7 +40124,7 @@
     "pct": 39.1,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "No",
    "wfp_leading": true,
    "choices": [
@@ -40152,7 +40158,7 @@
     "pct": 39.1,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "No",
    "wfp_leading": false,
    "choices": [
@@ -40186,7 +40192,7 @@
     "pct": 39.1,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "No",
    "wfp_leading": true,
    "choices": [
@@ -40220,7 +40226,7 @@
     "pct": 39.1,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Yes",
    "wfp_leading": true,
    "choices": [
@@ -40254,7 +40260,7 @@
     "pct": 33.3,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "No",
    "wfp_leading": true,
    "choices": [
@@ -40288,7 +40294,7 @@
     "pct": 33.3,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Yes",
    "wfp_leading": false,
    "choices": [
@@ -40492,7 +40498,7 @@
     "pct": 50.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Yes",
    "wfp_leading": true,
    "choices": [
@@ -40594,7 +40600,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Yes",
    "wfp_leading": true,
    "choices": [
@@ -40628,7 +40634,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Yes",
    "wfp_leading": true,
    "choices": [
@@ -40662,7 +40668,7 @@
     "pct": 39.1,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "No",
    "wfp_leading": false,
    "choices": [
@@ -40696,7 +40702,7 @@
     "pct": 39.1,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "No",
    "wfp_leading": false,
    "choices": [
@@ -40730,7 +40736,7 @@
     "pct": 39.1,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "No",
    "wfp_leading": false,
    "choices": [
@@ -40764,7 +40770,7 @@
     "pct": 39.1,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "No",
    "wfp_leading": false,
    "choices": [
@@ -40798,7 +40804,7 @@
     "pct": 39.1,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "No",
    "wfp_leading": true,
    "choices": [
@@ -40832,7 +40838,7 @@
     "pct": 39.1,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Yes",
    "wfp_leading": true,
    "choices": [
@@ -40866,7 +40872,7 @@
     "pct": 39.1,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:17+00:00",
+   "updated_at": "2026-11-05T04:15:39+00:00",
    "wfp_choice": "Yes",
    "wfp_leading": true,
    "choices": [
@@ -41240,7 +41246,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:22+00:00",
+   "updated_at": "2026-11-05T04:15:44+00:00",
    "wfp_choice": "Yes",
    "wfp_leading": true,
    "choices": [
@@ -41274,7 +41280,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:22+00:00",
+   "updated_at": "2026-11-05T04:15:44+00:00",
    "wfp_choice": "Yes",
    "wfp_leading": false,
    "choices": [
@@ -41320,7 +41326,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Yes",
    "wfp_leading": false,
    "choices": [
@@ -41354,7 +41360,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Yes",
    "wfp_leading": true,
    "choices": [
@@ -41388,7 +41394,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-05T03:51:28+00:00",
+   "updated_at": "2026-11-05T04:15:50+00:00",
    "wfp_choice": "Yes",
    "wfp_leading": false,
    "choices": [

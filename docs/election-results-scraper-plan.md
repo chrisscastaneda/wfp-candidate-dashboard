@@ -178,7 +178,8 @@ what to check when they go live.
 
 | Source | Status | Notes |
 |---|---|---|
-| `ca.los_angeles` | ok, 24 of 29 matched | `results.lavote.gov/ElectionResults/GetElectionData`, JSON with the full Nov 3 ballot already loaded |
+| `ca.los_angeles` | ok, 24 of 29 matched | `results.lavote.gov/ElectionResults/GetElectionData` for the ballot (its vote fields stay 0) plus `GetCounterData` for the counts (fixed Nov 4; LA showed no votes until then) |
+| `or.multnomah` | ok, 8 matched (Nov 4) | Multnomah's ranked-choice tabulation (`rcvresults.multco.us`, RCTab summary JSON), newest report per contest; candidates show their last-round totals |
 | `ca.orange` | ok, 20 of 21 matched | New platform module `platforms/livevoterturnout.py`. The results page link (with a random token) is read from ocvote.gov, newest election first |
 | `ca.santa_clara`, `ca.contra_costa`, `ca.sonoma`, `ca.ventura`, `ca.marin` | ok except Marin | Clarity configuration. Their `elections.json` stayed empty on election night, so each carries the Nov 3 election id from the county's own results page (`_CLARITY_EIDS` in `counties/ca.py`). Marin's page still linked an August election |
 | `ny.nyc` | ok, 55 matched | Built on election night (`counties/ny.py`). `enr.boenyc.gov` has an "Expand List" page per office with every district, each candidate's party lines, and "Percentage of Scanners Reported". A "*" after a title marks the city's share of a race that crosses the city line (statewide offices, NY-3, NY-16, SD-34, SD-36); those are partial. NYC is a county-level source for "NYC", so its state legislative contests match NYC districts only |

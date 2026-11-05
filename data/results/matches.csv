@@ -1,6 +1,5 @@
 wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id,choice,note
 93,CA,Damon Connolly,"State Senate, District 12",needs_review,surname_any_district,ca,state-senate/2,State Senate District 2,Damon Connolly,Damon Connolly,district differs from WFP listing (12 -> 2)
-194,CA,Helen Kreiger,West Hollywood City Council,needs_review,near_name,ca.los_angeles,10533,CITY OF WEST HOLLYWOOD GENERAL MUNICIPAL ELECTION Member of the City Council,26655,HELEN KRIEGER,"surname differs: WFP 'Helen Kreiger', feed 'HELEN KRIEGER'"
 1162,CA,Prop – 2: Strengthen California’s Rainy Day Fund,Ballot Measure,needs_review,,,,,,,measure '2': 3 contests
 1166,CA,Prop 38: Fund Life-Saving Medical Research,Ballot Measure,needs_review,,,,,,,measure '38': 3 contests
 1168,CA,Prop 40: Tax Billionaires to Fund Healthcare & Education,Ballot Measure,needs_review,,,,,,,measure '40': 4 contests
@@ -872,9 +871,9 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 968,OR,Richard Smith Savage,"McMinnville Council, Ward 3",auto,name_in_state,or,300038285,"City of McMinnville, Councilor, Ward 3",Richard Smith Savage,Richard Smith Savage,
 969,OR,Allie Ball,"Milwaukie City Council, Position 2",auto,name_in_state,or,300038460,"City of Milwaukie, Councilor, Position 2",Allie Ball,Allie Ball,
 970,OR,Will Anderson,Milwaukie Mayor,auto,name_in_state,or,300038462,"City of Milwaukie, Mayor",Will Anderson,Will Anderson,
-971,OR,Shannon Singleton,Multnomah County Chair,auto,name_in_state,or,900038516,"Multnomah County Commission, Chair",Shannon Singleton,Shannon Singleton,
-972,OR,Nathan Ong Norris,"Multnomah County Commission, District 2",auto,name_in_state,or,900038518,"Multnomah County Commissioner, District 2",Nathan Ong Norris,Nathan Ong Norris,
-973,OR,Bri Williams,"Multnomah County Commissioner, District 2",auto,name_in_state,or,900038518,"Multnomah County Commissioner, District 2",Bri Williams,Bri Williams,
+971,OR,Shannon Singleton,Multnomah County Chair,auto,name_in_state,or.multnomah,"Multnomah County Commission, Chair","Multnomah County Commission, Chair (ranked-choice, round 2 of 2)",Shannon Singleton,Shannon Singleton,
+972,OR,Nathan Ong Norris,"Multnomah County Commission, District 2",auto,name_in_state,or.multnomah,"Multnomah County Commissioner, District 2","Multnomah County Commissioner, District 2 (ranked-choice, round 5 of 5)",Nathan Ong Norris,Nathan Ong Norris,
+973,OR,Bri Williams,"Multnomah County Commissioner, District 2",auto,name_in_state,or.multnomah,"Multnomah County Commissioner, District 2","Multnomah County Commissioner, District 2 (ranked-choice, round 5 of 5)",Bri Williams,Bri Williams,
 974,OR,Callee Ackland,"Springfield City Council, Ward 4",auto,name_in_state,or,300039231,City of Springfield Councilor Ward 4,Callee Ackland,Callee Ackland,
 975,OR,Roy Kaufmann,State House District 18,auto,district_surname,or,300038735,"State Representative, 18th District",Roy Kaufmann,Roy Kaufmann,
 976,OR,Thomas Andersen,State House District 19,auto,district_surname,or,300038736,"State Representative, 19th District",Tom Andersen,Tom Andersen,
@@ -914,11 +913,11 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 1012,OR,Maria Hinojos Pressey,"Marion County Commissioner, Position 2",auto,name_in_state,or,300038535,"Marion County Commissioner, Position 2",Maria Hinojos Pressey,Maria Hinojos Pressey,
 1013,OR,Isabella Lee Tibbetts,Jackson County County Commissioner Position 3,auto,name_in_state,or,300038349,"Jackson County Commissioner, Position 3",Isabella Lee Tibbetts,Isabella Lee Tibbetts,
 1014,OR,Evelyn Kocher,"Beaverton City Council, Position 1",auto,name_in_state,or,300038382,"City of Beaverton, Council Member, Position 1",Evelyn Kocher,Evelyn Kocher,
-1015,OR,Angelita Morillo,"Portland City Council, District 3",auto,name_in_state,or,900038520,"City of Portland, Councilor, District 3",Angelita Morillo,Angelita Morillo,
-1016,OR,Tiffany Koyama Lane,"Portland City Council, District 3",auto,name_in_state,or,900038520,"City of Portland, Councilor, District 3",Tiffany Koyama Lane,Tiffany Koyama Lane,
-1017,OR,Jamey Evenstar,"Portland City Council, District 4",auto,name_in_state,or,900038521,"City of Portland, Councilor, District 4",Jamey Evenstar,Jamey Evenstar,
-1018,OR,Jeremy Beausoleil Smith,"Portland City Council, District 4",auto,name_in_state,or,900038521,"City of Portland, Councilor, District 4",Jeremy Beausoleil Smith,Jeremy Beausoleil Smith,
-1019,OR,Mitch Green,"Portland City Council, District 4",auto,name_in_state,or,900038521,"City of Portland, Councilor, District 4",Mitch Green,Mitch Green,
+1015,OR,Angelita Morillo,"Portland City Council, District 3",auto,name_in_state,or.multnomah,"City of Portland, Councilor, District 3","City of Portland, Councilor, District 3 (ranked-choice, round 15 of 15)",Angelita Morillo,Angelita Morillo,
+1016,OR,Tiffany Koyama Lane,"Portland City Council, District 3",auto,name_in_state,or.multnomah,"City of Portland, Councilor, District 3","City of Portland, Councilor, District 3 (ranked-choice, round 15 of 15)",Tiffany Koyama Lane,Tiffany Koyama Lane,
+1017,OR,Jamey Evenstar,"Portland City Council, District 4",auto,name_in_state,or.multnomah,"City of Portland, Councilor, District 4","City of Portland, Councilor, District 4 (ranked-choice, round 11 of 11)",Jamey Evenstar,Jamey Evenstar,
+1018,OR,Jeremy Beausoleil Smith,"Portland City Council, District 4",auto,name_in_state,or.multnomah,"City of Portland, Councilor, District 4","City of Portland, Councilor, District 4 (ranked-choice, round 11 of 11)",Jeremy Beausoleil Smith,Jeremy Beausoleil Smith,
+1019,OR,Mitch Green,"Portland City Council, District 4",auto,name_in_state,or.multnomah,"City of Portland, Councilor, District 4","City of Portland, Councilor, District 4 (ranked-choice, round 11 of 11)",Mitch Green,Mitch Green,
 1020,OR,Heather Coleman-Cox,"Gresham City Council, Position 2",auto,name_in_state,or,300038651,"City of Gresham, Councilor, Position 2",Heather Coleman-Cox,Heather Coleman-Cox,
 1021,OR,Teo Ramirez,"Gresham City Council, Position 4",auto,name_in_state,or,300038652,"City of Gresham, Councilor, Position 4",Teo Ramirez,Teo Ramirez,
 1023,PA,Chris Rabb,"U.S. House of Representatives, District 3",auto,district_surname,pa,USC/4,Representative in Congress 3rd Congressional District,Chris Rabb,Chris Rabb,
@@ -1018,6 +1017,7 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 37,CA,Rebecca Barrett,"Contra Costa Community College Governing Board, Ward 3",confirmed,near_name,ca.contra_costa,3211,CONTRA COSTA COMMUNITY COLLEGE DISTRICT  GOVERNING BOARD MEMBER  WARD 3,BECCA BARRETT,BECCA BARRETT,"first name differs: WFP 'Rebecca Barrett', feed 'BECCA BARRETT' | confirmed Nov 4: same district/ward"
 82,CA,Joanna Paun,"Sonoma County Board of Supervisors, District 2",confirmed,name_in_state,ca.sonoma,45,"County Supervisor, 2nd District",JOANNA PAUN,JOANNA PAUN,"found by name only; check the office (County Supervisor, 2nd District) | confirmed Nov 4: same district/ward"
 83,CA,Melanie Bagby,"Sonoma County Board of Supervisors, District 4",confirmed,name_in_state,ca.sonoma,46,"County Supervisor, 4th District",MELANIE BAGBY,MELANIE BAGBY,"found by name only; check the office (County Supervisor, 4th District) | confirmed Nov 4: same district/ward"
+194,CA,Helen Kreiger,West Hollywood City Council,confirmed,near_name,ca.los_angeles,10533,CITY OF WEST HOLLYWOOD GENERAL MUNICIPAL ELECTION Member of the City Council,26655,HELEN KRIEGER,"WFP spells it 'Kreiger'; feed 'HELEN KRIEGER', same West Hollywood council race | confirmed Nov 4"
 397,DC,Oye Olowela,"District Council, At-Large",confirmed,near_name,dc,7,AT-LARGE MEMBER OF THE COUNCIL OF THE DISTRICT OF COLUMBIA (first-choice votes),1,Oye Owolewa,WFP spells it 'Olowela'; feed 'Oye Owolewa' | confirmed Nov 4: at-large council
 452,MA,Shannon Teabo,"Massachusetts State House, Worcester & Hampshire District",confirmed,name_in_state,manual,ma.senate.worcester-hampshire,State Senator Worcester and Hampshire,Shannon Teabo,Shannon Teabo,WFP lists State House; she is the Democratic nominee for the Worcester and Hampshire State Senate seat | confirmed Nov 4
 631,NY,Colin Smith,"Westchester County Legislature, District 1",confirmed,name_in_state,ny.westchester,01000000-0c6a-a4eb-8bab-08df2a1b67df,County Legislator 1st District,01000000-0c6a-a4eb-8bf8-08df2a1b67df,Colin D. Smith,found by name only; check the office (County Legislator 1st District) | confirmed Nov 3: same district/place
