@@ -1,13 +1,13 @@
 {
   "source": "https://workingfamilies.org/candidates/",
-  "scraped_at": "2026-11-03T23:05:13+00:00",
-  "count": 1219,
+  "scraped_at": "2026-11-05T03:50:27+00:00",
+  "count": 1221,
   "counts_by_category": {
     "State Executive": 35,
     "State House": 382,
     "State Senate": 107,
     "Local Office": 540,
-    "Judicial": 37,
+    "Judicial": 39,
     "Federal House": 45,
     "Federal Senate": 5,
     "Ballot Measure": 68
@@ -18630,7 +18630,7 @@
     },
     {
       "id": 1096,
-      "name": "Dr. Jared Williams",
+      "name": "Jared Williams",
       "office": "Tarrant County Commissioner, Precinct 2",
       "office_category": "Local Office",
       "office_level": "Local",
@@ -18664,6 +18664,40 @@
     },
     {
       "id": 1098,
+      "name": "Tiffany Burks",
+      "office": "Tarrant County District Attorney",
+      "office_category": "Judicial",
+      "office_level": "Local",
+      "is_federal": false,
+      "is_state": false,
+      "is_local": true,
+      "position": "Endorsed",
+      "district": "",
+      "state": "Texas",
+      "state_slug": "texas",
+      "region": "",
+      "state_wfp_page": "https://workingfamilies.org/state/texas/",
+      "source_url": "https://workingfamilies.org/candidates/"
+    },
+    {
+      "id": 1099,
+      "name": "Alisa Simmons",
+      "office": "Tarrant County Judge",
+      "office_category": "Judicial",
+      "office_level": "Local",
+      "is_federal": false,
+      "is_state": false,
+      "is_local": true,
+      "position": "Endorsed",
+      "district": "",
+      "state": "Texas",
+      "state_slug": "texas",
+      "region": "",
+      "state_wfp_page": "https://workingfamilies.org/state/texas/",
+      "source_url": "https://workingfamilies.org/candidates/"
+    },
+    {
+      "id": 1100,
       "name": "Montserrat Garibay",
       "office": "Texas House, District 49",
       "office_category": "State House",
@@ -18680,7 +18714,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1099,
+      "id": 1101,
       "name": "Jeremy B. Hendrinks",
       "office": "Texas House, District 50",
       "office_category": "State House",
@@ -18697,7 +18731,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1100,
+      "id": 1102,
       "name": "Jose Loya",
       "office": "Texas Land Commissioner",
       "office_category": "State Executive",
@@ -18714,7 +18748,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1101,
+      "id": 1103,
       "name": "Andrew Hairston",
       "office": "Travis County Justice of the Peace, Precinct 1",
       "office_category": "Judicial",
@@ -18731,7 +18765,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1102,
+      "id": 1104,
       "name": "Luke Maynes",
       "office": "Salt Lake County Council, District 3",
       "office_category": "Local Office",
@@ -18748,7 +18782,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1103,
+      "id": 1105,
       "name": "Rosie Rivera",
       "office": "Salt Lake County Sheriff",
       "office_category": "Local Office",
@@ -18765,7 +18799,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1104,
+      "id": 1106,
       "name": "Stephen Otterstrom",
       "office": "State House, District 21",
       "office_category": "State House",
@@ -18782,7 +18816,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1105,
+      "id": 1107,
       "name": "Sahara Hayes",
       "office": "State House, District 32",
       "office_category": "State House",
@@ -18799,7 +18833,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1106,
+      "id": 1108,
       "name": "Rosalba Dominguez",
       "office": "State House, District 35",
       "office_category": "State House",
@@ -18816,7 +18850,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1107,
+      "id": 1109,
       "name": "David Chappell",
       "office": "State House, District 62",
       "office_category": "State House",
@@ -18833,7 +18867,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1108,
+      "id": 1110,
       "name": "Pramila Jayapal",
       "office": "U.S. House of Representatives, District 7",
       "office_category": "Federal House",
@@ -18850,7 +18884,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1109,
+      "id": 1111,
       "name": "Jorge Baron",
       "office": "King County Council, District 4",
       "office_category": "Local Office",
@@ -18867,7 +18901,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1110,
+      "id": 1112,
       "name": "Teresa Mosqueda",
       "office": "King County Council, District 8",
       "office_category": "Local Office",
@@ -18884,7 +18918,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1111,
+      "id": 1113,
       "name": "Nilu Jenks",
       "office": "Seattle City Council, District 5",
       "office_category": "Local Office",
@@ -18901,7 +18935,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1112,
+      "id": 1114,
       "name": "Danny Tarkenton",
       "office": "Spokane County Prosecutor",
       "office_category": "Judicial",
@@ -18918,7 +18952,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1113,
+      "id": 1115,
       "name": "Kelabe Tewolde",
       "office": "State House, District 37, Position 1",
       "office_category": "State House",
@@ -18935,7 +18969,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1114,
+      "id": 1116,
       "name": "Natasha Hill",
       "office": "Washington State House, District 3, Position 1",
       "office_category": "State House",
@@ -18952,7 +18986,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1115,
+      "id": 1117,
       "name": "Luc Jasmin III",
       "office": "Washington State House, District 3, Position 2",
       "office_category": "State House",
@@ -18969,7 +19003,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1116,
+      "id": 1118,
       "name": "Chelsea Dimas",
       "office": "Washington State House, District 14, Position 1",
       "office_category": "State House",
@@ -18986,7 +19020,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1117,
+      "id": 1119,
       "name": "Edwin Obras",
       "office": "Washington State House, District 33, Position 1",
       "office_category": "State House",
@@ -19003,7 +19037,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1118,
+      "id": 1120,
       "name": "Mia Gregerson",
       "office": "Washington State House, District 33, Position 2",
       "office_category": "State House",
@@ -19020,7 +19054,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1119,
+      "id": 1121,
       "name": "Jaelynn Scott",
       "office": "Washington State House, District 37, Position 2",
       "office_category": "State House",
@@ -19037,7 +19071,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1120,
+      "id": 1122,
       "name": "Shaun Scott",
       "office": "Washington State House, District 43, Position 2",
       "office_category": "State House",
@@ -19054,7 +19088,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1121,
+      "id": 1123,
       "name": "Darya Farivar",
       "office": "Washington State House, District 46, Position 2",
       "office_category": "State House",
@@ -19071,7 +19105,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1122,
+      "id": 1124,
       "name": "Jessica Forsythe",
       "office": "Washington State House, District 48, Position 2",
       "office_category": "State House",
@@ -19088,7 +19122,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1123,
+      "id": 1125,
       "name": "Noel Frame",
       "office": "Washington State Senate, District 36",
       "office_category": "State Senate",
@@ -19105,7 +19139,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1124,
+      "id": 1126,
       "name": "Hannah Sabio-Howell",
       "office": "Washington State Senate, District 43",
       "office_category": "State Senate",
@@ -19122,7 +19156,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1125,
+      "id": 1127,
       "name": "David Crowley",
       "office": "Governor",
       "office_category": "State Executive",
@@ -19139,7 +19173,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1126,
+      "id": 1128,
       "name": "JoCasta Zamarripa",
       "office": "Secretary of State",
       "office_category": "State Executive",
@@ -19156,7 +19190,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1127,
+      "id": 1129,
       "name": "Robyn Vining",
       "office": "State Senate, District 5",
       "office_category": "State Senate",
@@ -19173,7 +19207,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1128,
+      "id": 1130,
       "name": "Chris Larson",
       "office": "State Senate, District 7",
       "office_category": "State Senate",
@@ -19190,7 +19224,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1129,
+      "id": 1131,
       "name": "Jenna Jacobson",
       "office": "State Senate, District 17",
       "office_category": "State Senate",
@@ -19207,7 +19241,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1130,
+      "id": 1132,
       "name": "Trevor Jung",
       "office": "State Senate, District 21",
       "office_category": "State Senate",
@@ -19224,7 +19258,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1131,
+      "id": 1133,
       "name": "Jeff Smith",
       "office": "State Senate, District 31",
       "office_category": "State Senate",
@@ -19241,7 +19275,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1132,
+      "id": 1134,
       "name": "Ismael Luna",
       "office": "State Assembly, District 8",
       "office_category": "State House",
@@ -19258,7 +19292,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1133,
+      "id": 1135,
       "name": "Sequanna Taylor",
       "office": "State Assembly, District 11",
       "office_category": "State House",
@@ -19275,7 +19309,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1134,
+      "id": 1136,
       "name": "Amy Zimmerman",
       "office": "State Assembly, District 13",
       "office_category": "State House",
@@ -19292,7 +19326,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1135,
+      "id": 1137,
       "name": "Angelito Tenorio",
       "office": "State Assembly, District 14",
       "office_category": "State House",
@@ -19309,7 +19343,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1136,
+      "id": 1138,
       "name": "Margaret Arney",
       "office": "State Assembly, District 18",
       "office_category": "State House",
@@ -19326,7 +19360,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1137,
+      "id": 1139,
       "name": "Ryan Clancy",
       "office": "State Assembly, District 19",
       "office_category": "State House",
@@ -19343,7 +19377,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1138,
+      "id": 1140,
       "name": "Christine Sinicki",
       "office": "State Assembly, District 20",
       "office_category": "State House",
@@ -19360,7 +19394,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1139,
+      "id": 1141,
       "name": "Dan Bukiewicz",
       "office": "State Assembly, District 21",
       "office_category": "State House",
@@ -19377,7 +19411,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1140,
+      "id": 1142,
       "name": "Ben Gruber",
       "office": "State Assembly, District 51",
       "office_category": "State House",
@@ -19394,7 +19428,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1141,
+      "id": 1143,
       "name": "Becky Nichols",
       "office": "State Assembly, District 53",
       "office_category": "State House",
@@ -19411,7 +19445,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1142,
+      "id": 1144,
       "name": "Ben Brist",
       "office": "State Assembly, District 61",
       "office_category": "State House",
@@ -19428,7 +19462,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1143,
+      "id": 1145,
       "name": "Angelina Cruz",
       "office": "State Assembly, District 62",
       "office_category": "State House",
@@ -19445,7 +19479,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1144,
+      "id": 1146,
       "name": "Eddie Phanichkul",
       "office": "State Assembly, District 63",
       "office_category": "State House",
@@ -19462,7 +19496,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1145,
+      "id": 1147,
       "name": "Tip McGuire",
       "office": "State Assembly, District 64",
       "office_category": "State House",
@@ -19479,7 +19513,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1146,
+      "id": 1148,
       "name": "Ben DeSmidt",
       "office": "State Assembly, District 65",
       "office_category": "State House",
@@ -19496,7 +19530,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1147,
+      "id": 1149,
       "name": "Angela Stroud",
       "office": "State Assembly, District 73",
       "office_category": "State House",
@@ -19513,7 +19547,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1148,
+      "id": 1150,
       "name": "Dina Nina Martinez-Rutherford",
       "office": "State Assembly, District 76",
       "office_category": "State House",
@@ -19530,7 +19564,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1149,
+      "id": 1151,
       "name": "Amaad Rivera-Wagner",
       "office": "State Assembly, District 90",
       "office_category": "State House",
@@ -19547,7 +19581,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1150,
+      "id": 1152,
       "name": "Christian Phelps",
       "office": "State Assembly, District 93",
       "office_category": "State House",
@@ -19564,7 +19598,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1151,
+      "id": 1153,
       "name": "Aaron Appelhans",
       "office": "Albany County Sheriff",
       "office_category": "Local Office",
@@ -19581,7 +19615,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1152,
+      "id": 1154,
       "name": "Prop 141",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -19598,7 +19632,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1153,
+      "id": 1155,
       "name": "Prop 142",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -19615,7 +19649,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1154,
+      "id": 1156,
       "name": "Prop 144",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -19632,7 +19666,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1155,
+      "id": 1157,
       "name": "Prop 317",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -19649,7 +19683,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1156,
+      "id": 1158,
       "name": "Prop 318",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -19666,7 +19700,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1157,
+      "id": 1159,
       "name": "Prop 319",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -19683,7 +19717,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1158,
+      "id": 1160,
       "name": "Prop 320",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -19700,7 +19734,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1159,
+      "id": 1161,
       "name": "Prop – 1: Invest in Affordable Homes",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -19717,7 +19751,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1160,
+      "id": 1162,
       "name": "Prop – 2: Strengthen California’s Rainy Day Fund",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -19734,7 +19768,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1161,
+      "id": 1163,
       "name": "Prop – 3: Keep the Wealthy Paying Their Fair Share",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -19751,7 +19785,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1162,
+      "id": 1164,
       "name": "Prop – 4: Small-Donor Democracy Over Big Money in Politics",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -19768,7 +19802,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1163,
+      "id": 1165,
       "name": "Prop – 5: Reform Recall Elections",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -19785,7 +19819,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1164,
+      "id": 1166,
       "name": "Prop 38: Fund Life-Saving Medical Research",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -19802,7 +19836,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1165,
+      "id": 1167,
       "name": "Prop 39: Reject Voter Suppression",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -19819,7 +19853,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1166,
+      "id": 1168,
       "name": "Prop 40: Tax Billionaires to Fund Healthcare & Education",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -19836,7 +19870,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1167,
+      "id": 1169,
       "name": "Prop 41: Billionaire Tax Poison Pill",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -19853,7 +19887,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1168,
+      "id": 1170,
       "name": "Prop 42: Billionaire Tax Poison Pill",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -19870,7 +19904,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1169,
+      "id": 1171,
       "name": "Prop 43: Protect Local Funding",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -19887,7 +19921,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1170,
+      "id": 1172,
       "name": "Prop 44: Protect Community Health Clinics",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -19904,7 +19938,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1171,
+      "id": 1173,
       "name": "Prop 45: Reject Corporate Polluting Projects",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -19921,7 +19955,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1172,
+      "id": 1174,
       "name": "Amendment 81: Expand Cooperation with ICE",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -19938,7 +19972,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1173,
+      "id": 1175,
       "name": "Amendment 82: Protection for Corporate Polluters",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -19955,7 +19989,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1174,
+      "id": 1176,
       "name": "Amendment 83: Legalize Cruel Practices in Hunting and Fishing",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -19972,7 +20006,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1175,
+      "id": 1177,
       "name": "Amendment 84: Make it Harder to Vote By Mail",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -19989,7 +20023,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1176,
+      "id": 1178,
       "name": "Amendment 85: Misleading Ballot Descriptions",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20006,7 +20040,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1177,
+      "id": 1179,
       "name": "Amendment 86: Protect Republicans in Redistricting",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20023,7 +20057,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1178,
+      "id": 1180,
       "name": "Amendment 87: Tax the Rich",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20040,7 +20074,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1179,
+      "id": 1181,
       "name": "Aurora Ballot Issue 3B",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20057,7 +20091,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1180,
+      "id": 1182,
       "name": "Aurora Ballot Question 3D",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20074,7 +20108,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1181,
+      "id": 1183,
       "name": "Boulder County Ballot Issue 1A",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20091,7 +20125,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1182,
+      "id": 1184,
       "name": "City of Boulder Ballot Issue 2J",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20108,7 +20142,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1183,
+      "id": 1185,
       "name": "City of Boulder Ballot Question 2L",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20125,7 +20159,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1184,
+      "id": 1186,
       "name": "Denver Public Schools Ballot Issue 4A",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20142,7 +20176,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1185,
+      "id": 1187,
       "name": "El Paso County Ballot Issue 1A",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20159,7 +20193,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1186,
+      "id": 1188,
       "name": "Front Range Passenger Rail District Ballot Issue 7A",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20176,7 +20210,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1187,
+      "id": 1189,
       "name": "Greeley Ballot Measure 2F",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20193,7 +20227,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1188,
+      "id": 1190,
       "name": "Larimer County Ballot Issue 1A",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20210,7 +20244,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1189,
+      "id": 1191,
       "name": "Longmont Amendment 3C",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20227,7 +20261,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1190,
+      "id": 1192,
       "name": "Longmont Amendment 3D",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20244,7 +20278,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1191,
+      "id": 1193,
       "name": "Proposition 132: Private Prison Cash Grab",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20261,7 +20295,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1192,
+      "id": 1194,
       "name": "Proposition 133: An Undercover Attack on Reproductive Freedom",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20278,7 +20312,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1193,
+      "id": 1195,
       "name": "Proposition 134: Puts Kids in Harm’s Way",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20295,7 +20329,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1194,
+      "id": 1196,
       "name": "Proposition 135: A Threat to Family Rights",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20312,7 +20346,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1195,
+      "id": 1197,
       "name": "Proposition 136: The Millionaire Protection Act",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20329,7 +20363,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1196,
+      "id": 1198,
       "name": "Proposition 137: Directing Taxes from Sporting Goods to Conservation",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20346,7 +20380,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1197,
+      "id": 1199,
       "name": "Proposition NN: Yes for Colorado Kids",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20363,7 +20397,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1198,
+      "id": 1200,
       "name": "Pueblo Ballot Issue 6A",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20380,7 +20414,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1199,
+      "id": 1201,
       "name": "Pueblo Ballot Question 2B",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20397,7 +20431,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1200,
+      "id": 1202,
       "name": "Pueblo West Ballot Issue 6C",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20414,7 +20448,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1201,
+      "id": 1203,
       "name": "Question 1",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20431,7 +20465,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1202,
+      "id": 1204,
       "name": "Question 2",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20448,7 +20482,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1203,
+      "id": 1205,
       "name": "Question 3",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20465,7 +20499,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1204,
+      "id": 1206,
       "name": "Question 4",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20482,7 +20516,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1205,
+      "id": 1207,
       "name": "Question 5",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20499,7 +20533,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1206,
+      "id": 1208,
       "name": "Question 8",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20516,7 +20550,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1207,
+      "id": 1209,
       "name": "Question 9",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20533,7 +20567,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1208,
+      "id": 1210,
       "name": "Cincinnati, OH | Issue 4: Cincinnati Public Schools Levy",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20550,7 +20584,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1209,
+      "id": 1211,
       "name": "Cincinnati, OH | Issue 9: Winton Woods School Levy",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20567,7 +20601,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1210,
+      "id": 1212,
       "name": "Columbus, OH | Issue 8: Our City, Our Say",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20584,7 +20618,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1211,
+      "id": 1213,
       "name": "Ohio | Senate Bill 396: Paid Family and Medical Leave Act",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20601,7 +20635,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1212,
+      "id": 1214,
       "name": "Astoria Vacant Homes",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20618,7 +20652,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1213,
+      "id": 1215,
       "name": "Eugene Clean Energy Fund",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20635,7 +20669,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1214,
+      "id": 1216,
       "name": "Hood River Affordable Housing Bond",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20652,7 +20686,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1215,
+      "id": 1217,
       "name": "Initiative Petition 9-2026-I-01",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20669,7 +20703,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1216,
+      "id": 1218,
       "name": "Your 2 Cents",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20686,7 +20720,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1217,
+      "id": 1219,
       "name": "Wisconsin Question 1, Partial Veto Referendum",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20703,7 +20737,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1218,
+      "id": 1220,
       "name": "Wisconsin Question 2, Freedom to Gather in Places of Worship During an Emergency Referendum",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",
@@ -20720,7 +20754,7 @@
       "source_url": "https://workingfamilies.org/candidates/"
     },
     {
-      "id": 1219,
+      "id": 1221,
       "name": "Wisconsin Question 3, Governmental Entity Discrimination Prohibited Referendum",
       "office": "Ballot Measure",
       "office_category": "Ballot Measure",

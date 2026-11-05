@@ -41,8 +41,9 @@ See also [election-results-scraper-plan.md](election-results-scraper-plan.md) (d
 | 10:31am | 915 | 742 | NY districts summed from county results; NYC leader fix |
 | 10:44am | 958 | 777 | Onondaga, Nassau, Albany, Schenectady, Saratoga and 6 more NY counties (new sources) |
 | 10:52am | 972 | 782 | Niagara NY (new source) |
+| 10:51pm | 973 | 783 | Connecticut (2 more); 5 sources now 403, 3 timed out |
 
-Still missing at 10:52am: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
+Still missing at 10:51pm Nov 4: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
 
 ---
 
@@ -536,6 +537,29 @@ Fixes made while building:
   Delaware ...), but none had a Nov 3 election near Niagara's id, and the list of a county's elections needs a login.
   They probably use NTS for voter registration only.
 
+### Nov 4, 10:51pm: evening pull, and sites starting to block
+
+- Candidate list re-scraped first: 1,221 rows (Tarrant County TX: Tiffany Burks and Alisa Simmons added, "Dr. Jared
+  Williams" renamed Jared Williams). See `docs/candidate-changes.md`. All three are unmatched because Tarrant still
+  lists no Nov 3 election on Clarity.
+- 973 races with results, WFP leading 783. Vote counts changed in 405 races, mostly Colorado (75), Oregon (56),
+  Connecticut (43), the summed New York districts (27), Ulster County NY (27) and Arizona (22).
+- **Blocked or down this run:** New Mexico, Florida, Ohio, DC and Kenosha County now return 403 to scripts (all
+  worked election night); Nassau County, Dane County and Washtenaw County timed out. A failed pull keeps the source's
+  last good results, so those races still show, just not updated. Not worked around.
+- **Fix:** the summed New York districts required each county's latest pull to succeed, so Nassau's timeout dropped
+  21 districts (95 → 74). A county whose pull fails now contributes its last good results, like every other source;
+  a county reporting no Nov 3 election still leaves its districts out.
+- New: Angie Parkinson (CT HD-10, 73.0%) and Michelle Embree Ku (CT HD-106, 54.8%).
+- Flipped to leading: Marie Tsaasan (Aliso Viejo D3), now 4 votes ahead; Richard Smith Savage (McMinnville Ward 3,
+  OR), 27 ahead with 35.5% in a multi-candidate race.
+- Flipped to trailing: Catherine Sayles (Eastchester supervisor, Westchester) 47.4%, 404 behind; Sara Duncan (49.7%,
+  422 behind) and Maria Hinojos Pressey (49.8%, 181 behind), both Marion County OR, which flipped to leading
+  overnight and back now.
+- Still on the line: Steven Krasner (Newburgh supervisor) leads by 15, Kyle Fendrich (Dutchess LD-15) trails by 6,
+  Trish Prunty (Dutchess LD-7) trails by 36. Connecticut is at 775 of 776 precincts with Mandato (+25) and Becker (+34)
+  unchanged. Chris Kluwe (CA AD-72) is 2,719 behind.
+
 ## Feed quirks worth remembering
 
 | Source | Quirk | How it's handled |
@@ -572,6 +596,7 @@ Fixes made while building:
 | Saratoga County (NY) | Numbered PDF uploads; page headers repeat mid-contest | Highest number taken; header rows skipped |
 | Nassau County (NY) | PDF rendered as HTML text runs | Text joined, page headers cut, parsed as one stream |
 | Niagara County (NY) | Moved to NTS; election list needs a login | Election id set in the source, date checked |
+| NM, FL, OH, DC, Kenosha (WI) | Started returning 403 to scripts the evening after the election | Last good results kept; not worked around |
 | Oregon | Vote by mail; precincts-reporting stays at 0 while votes come in | Shown as reported; worth replacing with a count or hiding |
 
 ## Still open

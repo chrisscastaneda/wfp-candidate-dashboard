@@ -6,9 +6,9 @@ every county in a district has a working source, the shares add up to the whole 
   data/ny_district_counties.json   district -> counties (from the Census Bureau's block equivalency files)
 
 A county source that is healthy but doesn't list the district is taken to have no voters in it (the Census files
-include empty water blocks, like Lake Erie's in AD-150). A county with no source, or whose source isn't healthy, leaves
-the district out. Candidates are joined across counties by first initial and surname ("Shelley Mayer" and
-"Shelley B. Mayer").
+include empty water blocks, like Lake Erie's in AD-150). A county with no source, or with no stored results, leaves
+the district out; a county whose latest pull failed contributes its last good results. Candidates are joined
+across counties by first initial and surname ("Shelley Mayer" and "Shelley B. Mayer").
 
 The result is stored like any other source ("ny.counties") so matching and publishing treat it normally.
 """
@@ -17,7 +17,7 @@ import re
 from collections import OrderedDict
 
 from . import config, names
-from .model import NOT_MODIFIED, OK, Choice, Contest, Reporting
+from .model import NOT_PUBLISHED, Choice, Contest, Reporting
 from .source import Source
 
 NYC_BOROUGHS = {"Bronx", "Kings", "New York", "Queens", "Richmond"}
@@ -58,9 +58,10 @@ def _county_sources(sources) -> dict[str, str]:
 
 
 def _usable(record: dict | None) -> bool:
-    """A county source whose last pull worked and has contests. A county that hasn't posted, or blocked us, can't
-    stand for "no voters in this district"."""
-    return bool(record and record.get("status") in (OK, NOT_MODIFIED) and record.get("contests"))
+    """A county source with stored contests for this election. A failed or blocked pull keeps its last good contests
+    (as every source does), so a timeout doesn't drop districts; a county that hasn't posted has none, and a county
+    reporting no Nov 3 election can't stand for "no voters in this district"."""
+    return bool(record and record.get("contests") and record.get("status") != NOT_PUBLISHED)
 
 
 def _person(name: str) -> str:

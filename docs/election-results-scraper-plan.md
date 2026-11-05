@@ -159,7 +159,7 @@ New review items and findings:
 
 | Source | Status | Notes |
 |---|---|---|
-| `ny.counties` | derived, 55 WFP races (95 districts summed) | `scrapers/elex/combine.py`, built in `run.py` after every pull from the stored county results. District-to-county lists in `data/ny_district_counties.json`, from the Census Bureau's block equivalency files. A district is summed only when every county in it has a working source; a county source without the district is taken to have no voters there |
+| `ny.counties` | derived, 55 WFP races (95 districts summed) | `scrapers/elex/combine.py`, built in `run.py` after every pull from the stored county results. District-to-county lists in `data/ny_district_counties.json`, from the Census Bureau's block equivalency files. A district is summed only when every county in it has a source with stored results (a failed pull contributes its last good results); a county source without the district is taken to have no voters there |
 | `ny.onondaga` | ok | Results Caster (`ongov` subdomain) |
 | `ny.jefferson`, `ny.livingston`, `ny.madison`, `ny.ontario`, `ny.steuben`, `ny.wayne` | ok | Enhanced Voting configuration, for district sums |
 | `ny.nassau` | ok | Election-night PDF rendered as HTML; text parser in `counties/ny.py` |

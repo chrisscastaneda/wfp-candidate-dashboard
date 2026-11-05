@@ -283,6 +283,8 @@ def test_county_shares_summed_into_districts():
     assert sd40.reporting.text == "Summed from Alpha and Beta county results"
     assert [(ch.name, ch.votes) for ch in by_district["41"].choices] == [("X", 1)]  # Beta lists no SD-41 voters
     assert "42" not in by_district and any("Gamma" in line for line in skipped)  # Gamma has no source
+    latest["ny.b"]["status"] = "error"  # a timeout keeps the county's last good results
+    assert {c.district for c in combine.build(latest, sources, mapping)[0]} == {"40", "41"}
     latest["ny.b"]["status"] = "not_published"
     assert {c.district for c in combine.build(latest, sources, mapping)[0]} == set()
 

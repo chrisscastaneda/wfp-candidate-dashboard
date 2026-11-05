@@ -1,14 +1,14 @@
 wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id,choice,note
 93,CA,Damon Connolly,"State Senate, District 12",needs_review,surname_any_district,ca,state-senate/2,State Senate District 2,Damon Connolly,Damon Connolly,district differs from WFP listing (12 -> 2)
 194,CA,Helen Kreiger,West Hollywood City Council,needs_review,near_name,ca.los_angeles,10533,CITY OF WEST HOLLYWOOD GENERAL MUNICIPAL ELECTION Member of the City Council,26655,HELEN KRIEGER,"surname differs: WFP 'Helen Kreiger', feed 'HELEN KRIEGER'"
-1160,CA,Prop – 2: Strengthen California’s Rainy Day Fund,Ballot Measure,needs_review,,,,,,,measure '2': 3 contests
-1164,CA,Prop 38: Fund Life-Saving Medical Research,Ballot Measure,needs_review,,,,,,,measure '38': 3 contests
-1166,CA,Prop 40: Tax Billionaires to Fund Healthcare & Education,Ballot Measure,needs_review,,,,,,,measure '40': 4 contests
-1167,CA,Prop 41: Billionaire Tax Poison Pill,Ballot Measure,needs_review,,,,,,,measure '41': 5 contests
-1168,CA,Prop 42: Billionaire Tax Poison Pill,Ballot Measure,needs_review,,,,,,,measure '42': 5 contests
-1169,CA,Prop 43: Protect Local Funding,Ballot Measure,needs_review,,,,,,,measure '43': 4 contests
-1170,CA,Prop 44: Protect Community Health Clinics,Ballot Measure,needs_review,,,,,,,measure '44': 4 contests
-1171,CA,Prop 45: Reject Corporate Polluting Projects,Ballot Measure,needs_review,,,,,,,measure '45': 4 contests
+1162,CA,Prop – 2: Strengthen California’s Rainy Day Fund,Ballot Measure,needs_review,,,,,,,measure '2': 3 contests
+1166,CA,Prop 38: Fund Life-Saving Medical Research,Ballot Measure,needs_review,,,,,,,measure '38': 3 contests
+1168,CA,Prop 40: Tax Billionaires to Fund Healthcare & Education,Ballot Measure,needs_review,,,,,,,measure '40': 4 contests
+1169,CA,Prop 41: Billionaire Tax Poison Pill,Ballot Measure,needs_review,,,,,,,measure '41': 5 contests
+1170,CA,Prop 42: Billionaire Tax Poison Pill,Ballot Measure,needs_review,,,,,,,measure '42': 5 contests
+1171,CA,Prop 43: Protect Local Funding,Ballot Measure,needs_review,,,,,,,measure '43': 4 contests
+1172,CA,Prop 44: Protect Community Health Clinics,Ballot Measure,needs_review,,,,,,,measure '44': 4 contests
+1173,CA,Prop 45: Reject Corporate Polluting Projects,Ballot Measure,needs_review,,,,,,,measure '45': 4 contests
 402,GA,Peter Hubbard,Public Service Commission,needs_review,name_in_state,ga,01000000-3a82-a359-c4c2-08df23e5ff63,PSC - District 3,01000000-3a82-a359-c4fc-08df23e5ff63,Peter Hubbard (I),found by name only; check the office (PSC - District 3)
 403,GA,Shelia Edwards,Public Service Commission,needs_review,name_in_state,ga,01000000-3a82-a359-4e6b-08df23e5ff65,PSC - District 5,01000000-3a82-a359-4e97-08df23e5ff65,Shelia Edwards,found by name only; check the office (PSC - District 5)
 428,GA,Jodi Merriday,"Fulton County Commission, District 3",needs_review,name_in_state,ga,01000000-3a82-a359-0573-08df23e6c6c9,County Commissioner - District 3,01000000-3a82-a359-062c-08df23e6c6c9,Jodi Merriday,found by name only; check the office (County Commissioner - District 3)
@@ -17,12 +17,12 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 925,OH,Annette Blackwell,Auditor,needs_review,name_in_state,oh,_55A742EA54E009A3E0633390EE0AE290,Auditor of State,Annette Blackwell,Annette Blackwell,found by name only; check the office (Auditor of State)
 986,OR,Angeline Nicole Basett,State Senate District 26,needs_review,near_name,or,300038717,"State Senator, 26th District",Nicole Bassett,Nicole Bassett,"name differs: WFP 'Angeline Nicole Basett', feed 'Nicole Bassett'"
 1022,OR,Joe Hagedorn,Multnomah County Circuit Court Judge Position 14,needs_review,near_name,or,300038778,"Judge of the Circuit Court, 4th District, Position 14",Joseph Hagedorn,Joseph Hagedorn,"first name differs: WFP 'Joe Hagedorn', feed 'Joseph Hagedorn'"
-1212,OR,Astoria Vacant Homes,Ballot Measure,needs_review,measure_words,or,300001741,04-247 City of Astoria: Excise tax on homes kept vacant most of the year.,Yes,Yes,no measure number in WFP's name; matched by title words
-1213,OR,Eugene Clean Energy Fund,Ballot Measure,needs_review,measure_words,or,300001791,20-388 City of Eugene: Licensure of Large Retailers to Finance a Clean Energy Fund,Yes,Yes,no measure number in WFP's name; matched by title words
-1214,OR,Hood River Affordable Housing Bond,Ballot Measure,needs_review,measure_words,or,300001744,14-85 City of Hood River: City of Hood River bonds to fund affordable housing,Yes,Yes,no measure number in WFP's name; matched by title words
+1214,OR,Astoria Vacant Homes,Ballot Measure,needs_review,measure_words,or,300001741,04-247 City of Astoria: Excise tax on homes kept vacant most of the year.,Yes,Yes,no measure number in WFP's name; matched by title words
+1215,OR,Eugene Clean Energy Fund,Ballot Measure,needs_review,measure_words,or,300001791,20-388 City of Eugene: Licensure of Large Retailers to Finance a Clean Energy Fund,Yes,Yes,no measure number in WFP's name; matched by title words
+1216,OR,Hood River Affordable Housing Bond,Ballot Measure,needs_review,measure_words,or,300001744,14-85 City of Hood River: City of Hood River bonds to fund affordable housing,Yes,Yes,no measure number in WFP's name; matched by title words
 1076,RI,Jackie Goldman,"Providence City Council, Ward 5",needs_review,near_name,ri,01000000-59ac-daed-6be1-08df1e27bc63,Providence: City Council Ward 5,01000000-59ac-daed-ed3e-08df1e27bc6b,Jacqueline Goldman,"first name differs: WFP 'Jackie Goldman', feed 'Jacqueline Goldman'"
 1080,RI,Libby Merrill,"East Providence School Committee, Ward 3",needs_review,near_name,ri,01000000-59ac-daed-cb6d-08df1e27af35,East Providence: Non-Partisan School Committee Ward 3,01000000-59ac-daed-7134-08df1e27af3e,Elizabeth Merrill,"first name differs: WFP 'Libby Merrill', feed 'Elizabeth Merrill'"
-1112,WA,Danny Tarkenton,Spokane County Prosecutor,needs_review,name_in_state,wa,01000000-bd5d-c14f-aefb-08df12b2898e,Prosecuting Attorney,01000000-bd5d-c14f-afad-08df12b2898e,Danny Tarkenton,found by name only; check the office (Prosecuting Attorney)
+1114,WA,Danny Tarkenton,Spokane County Prosecutor,needs_review,name_in_state,wa,01000000-bd5d-c14f-aefb-08df12b2898e,Prosecuting Attorney,01000000-bd5d-c14f-afad-08df12b2898e,Danny Tarkenton,found by name only; check the office (Prosecuting Attorney)
 16,AZ,Ed Hermes,"Phoenix City Council, District 4",unmatched,,,,,,,no 'hermes' in any AZ contest loaded
 43,CA,Anthony Montes,"East Side Union High School District Board of Trustees, Area 2",unmatched,,,,,,,no 'montes' in any CA contest loaded
 44,CA,Alexander Gvatua,"Foothill De Anza Community College District Board of Trustees, Area 2",unmatched,,,,,,,no 'gvatua' in any CA contest loaded
@@ -33,25 +33,27 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 168,CA,Andrew Yam,Garvey Unified School District,unmatched,,,,,,,no 'yam' in any CA contest loaded
 181,CA,Alton Wang,"Pasadena Area Community College District, Trustee Area No. 7",unmatched,,,,,,,no 'wang' in any CA contest loaded
 198,CA,Tiffany Ackley,"Aliso Viejo City Council, At-large",unmatched,,,,,,,no 'ackley' in any CA contest loaded
-1161,CA,Prop – 3: Keep the Wealthy Paying Their Fair Share,Ballot Measure,unmatched,,,,,,,measure '3': not found
-1162,CA,Prop – 4: Small-Donor Democracy Over Big Money in Politics,Ballot Measure,unmatched,,,,,,,measure '4': not found
+1163,CA,Prop – 3: Keep the Wealthy Paying Their Fair Share,Ballot Measure,unmatched,,,,,,,measure '3': not found
+1164,CA,Prop – 4: Small-Donor Democracy Over Big Money in Politics,Ballot Measure,unmatched,,,,,,,measure '4': not found
 276,CO,Taishya Adams,Boulder Mayor,unmatched,,,,,,,no 'adams' in any CO contest loaded
 487,NJ,Shantell Cherry,"Piscataway City Council, Ward 1",unmatched,,,,,,,no 'cherry' in any NJ contest loaded
 739,NY,Alexandria Smith,(Town of) Ulster Town Board,unmatched,,,,,,,no 'smith' in any NY contest loaded
 802,NY,Phil Dilmore,"Onondaga County Legislature, District 12",unmatched,,,,,,,no 'dilmore' in any NY contest loaded
 909,NY,Melissa First,"Chautauqua County Legislature, District 17",unmatched,,,,,,,no 'first' in any NY contest loaded
-1210,OH,"Columbus, OH | Issue 8: Our City, Our Say",Ballot Measure,unmatched,,,,,,,measure '8': not found
-1211,OH,Ohio | Senate Bill 396: Paid Family and Medical Leave Act,Ballot Measure,unmatched,,,,,,,measure None: not found
+1212,OH,"Columbus, OH | Issue 8: Our City, Our Say",Ballot Measure,unmatched,,,,,,,measure '8': not found
+1213,OH,Ohio | Senate Bill 396: Paid Family and Medical Leave Act,Ballot Measure,unmatched,,,,,,,measure None: not found
 989,OR,Christina Stephenson,Oregon Labor Commissioner,unmatched,,,,,,,no 'stephenson' in any OR contest loaded
-1216,OR,Your 2 Cents,Ballot Measure,unmatched,,,,,,,measure None: not found
+1218,OR,Your 2 Cents,Ballot Measure,unmatched,,,,,,,measure None: not found
 1068,RI,Matt McCoy,"Rhode Island State House, District 31",unmatched,,,,,,,no 'mccoy' in any RI contest loaded
 1070,RI,Gena Felix,"Rhode Island State Senate, District 8",unmatched,,,,,,,no 'felix' in any RI contest loaded
 1079,RI,Jonathan Jacobs,"East Providence City Council, Ward 1",unmatched,,,,,,,no 'jacobs' in any RI contest loaded
 1091,TX,James “Jim” Bethke,Bexar County District Attorney,unmatched,,,,,,,no 'bethke' in any TX contest loaded
 1092,TX,John Cruezot,Dallas County District Attorney,unmatched,,,,,,,no 'cruezot' in any TX contest loaded
-1096,TX,Dr. Jared Williams,"Tarrant County Commissioner, Precinct 2",unmatched,,,,,,,no 'williams' in any TX contest loaded
+1096,TX,Jared Williams,"Tarrant County Commissioner, Precinct 2",unmatched,,,,,,,no 'williams' in any TX contest loaded
 1097,TX,Nydia Cardenas,"Tarrant County Commissioner, Precinct 4",unmatched,,,,,,,no 'cardenas' in any TX contest loaded
-1101,TX,Andrew Hairston,"Travis County Justice of the Peace, Precinct 1",unmatched,,,,,,,no 'hairston' in any TX contest loaded
+1098,TX,Tiffany Burks,Tarrant County District Attorney,unmatched,,,,,,,no 'burks' in any TX contest loaded
+1099,TX,Alisa Simmons,Tarrant County Judge,unmatched,,,,,,,no 'simmons' in any TX contest loaded
+1103,TX,Andrew Hairston,"Travis County Justice of the Peace, Precinct 1",unmatched,,,,,,,no 'hairston' in any TX contest loaded
 3,AZ,Junelle Cavero,"Arizona State House, District 11",auto,district_surname,az,248c0000-c0a3-7204-fa57-08df11bc03cf,State Representative - District No. 11,248c0000-c0a3-7204-fe9a-08df11bc03cf,Junelle Cavero,
 5,AZ,Brian Garcia,"Arizona State House, Legislative District 8",auto,district_surname,az,248c0000-c0a3-7204-e7c1-08df11bc03cf,State Representative - District No.  8,248c0000-c0a3-7204-ebd7-08df11bc03cf,Brian Garcia,
 6,AZ,Lorena Austin,"Arizona State House, Legislative District 9",auto,district_surname,az,248c0000-c0a3-7204-ed26-08df11bc03cf,State Representative - District No.  9,248c0000-c0a3-7204-f025-08df11bc03cf,Lorena Austin,
@@ -63,13 +65,13 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 12,AZ,Quanta Crews,"Arizona State House, Legislative District 26",auto,district_surname,az,248c0000-c0a3-7204-4e34-08df11bc03d0,State Representative - District No. 26,248c0000-c0a3-7204-536f-08df11bc03d0,Quantá Crews,
 13,AZ,Lauren Kuby,"Arizona State Senate, Legislative District 8",auto,district_surname,az,248c0000-c0a3-7204-60d7-08df11bc03cf,State Senator - District No.  8,248c0000-c0a3-7204-6423-08df11bc03cf,Lauren Kuby,
 15,AZ,Analise Ortiz,"Arizona State Senate, Legislative District 24",auto,district_surname,az,248c0000-c0a3-7204-a29a-08df11bc03cf,State Senator - District No. 24,248c0000-c0a3-7204-a575-08df11bc03cf,Analise Ortiz,
-1152,AZ,Prop 141,Ballot Measure,auto,measure_number,az,248c0000-c0a3-7204-c77a-08df11bc03d0,PROPOSITION 141,248c0000-c0a3-7204-ca9b-08df11bc03d0,No,
-1153,AZ,Prop 142,Ballot Measure,auto,measure_number,az,248c0000-c0a3-7204-cba8-08df11bc03d0,PROPOSITION 142,248c0000-c0a3-7204-ce7b-08df11bc03d0,No,
-1154,AZ,Prop 144,Ballot Measure,auto,measure_number,az,248c0000-c0a3-7204-cf93-08df11bc03d0,PROPOSITION 144,248c0000-c0a3-7204-d261-08df11bc03d0,No,
-1155,AZ,Prop 317,Ballot Measure,auto,measure_number,az,248c0000-c0a3-7204-d77d-08df11bc03d0,PROPOSITION 317,248c0000-c0a3-7204-da4a-08df11bc03d0,No,
-1156,AZ,Prop 318,Ballot Measure,auto,measure_number,az,248c0000-c0a3-7204-db59-08df11bc03d0,PROPOSITION 318,248c0000-c0a3-7204-de2c-08df11bc03d0,No,
-1157,AZ,Prop 319,Ballot Measure,auto,measure_number,az,248c0000-c0a3-7204-df39-08df11bc03d0,PROPOSITION 319,248c0000-c0a3-7204-e0e7-08df11bc03d0,Yes,
-1158,AZ,Prop 320,Ballot Measure,auto,measure_number,az,248c0000-c0a3-7204-e33e-08df11bc03d0,PROPOSITION 320,248c0000-c0a3-7204-e5f1-08df11bc03d0,No,
+1154,AZ,Prop 141,Ballot Measure,auto,measure_number,az,248c0000-c0a3-7204-c77a-08df11bc03d0,PROPOSITION 141,248c0000-c0a3-7204-ca9b-08df11bc03d0,No,
+1155,AZ,Prop 142,Ballot Measure,auto,measure_number,az,248c0000-c0a3-7204-cba8-08df11bc03d0,PROPOSITION 142,248c0000-c0a3-7204-ce7b-08df11bc03d0,No,
+1156,AZ,Prop 144,Ballot Measure,auto,measure_number,az,248c0000-c0a3-7204-cf93-08df11bc03d0,PROPOSITION 144,248c0000-c0a3-7204-d261-08df11bc03d0,No,
+1157,AZ,Prop 317,Ballot Measure,auto,measure_number,az,248c0000-c0a3-7204-d77d-08df11bc03d0,PROPOSITION 317,248c0000-c0a3-7204-da4a-08df11bc03d0,No,
+1158,AZ,Prop 318,Ballot Measure,auto,measure_number,az,248c0000-c0a3-7204-db59-08df11bc03d0,PROPOSITION 318,248c0000-c0a3-7204-de2c-08df11bc03d0,No,
+1159,AZ,Prop 319,Ballot Measure,auto,measure_number,az,248c0000-c0a3-7204-df39-08df11bc03d0,PROPOSITION 319,248c0000-c0a3-7204-e0e7-08df11bc03d0,Yes,
+1160,AZ,Prop 320,Ballot Measure,auto,measure_number,az,248c0000-c0a3-7204-e33e-08df11bc03d0,PROPOSITION 320,248c0000-c0a3-7204-e5f1-08df11bc03d0,No,
 18,CA,Tamisha Torres Walker,"Antioch City Council, District 1",auto,name_in_state,ca.contra_costa,5006,CITY OF ANTIOCH  MEMBER  CITY COUNCIL  DISTRICT 1,TAMISHA TORRES-WALKER,TAMISHA TORRES-WALKER,
 19,CA,Monica Wilson,"Antioch City Council, District 4",auto,name_in_state,ca.contra_costa,5012,CITY OF ANTIOCH  MEMBER  CITY COUNCIL  DISTRICT 4,MONICA E WILSON,MONICA E WILSON,
 20,CA,Brandon Dawkins,"Antioch Unified School District Board of Education, Trustee Area 5",auto,name_in_state,ca.contra_costa,3305,ANTIOCH UNIFIED SCHOOL DISTRICT  GOVERNING BOARD MEMBER  TRUSTEE AREA 5,BRANDON DAWKINS,BRANDON DAWKINS,
@@ -210,9 +212,9 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 236,CA,Corinna Contreras,"Vista City Council, District 1",auto,name_in_state,ca.san_diego,160,"CITY OF VISTA MEMBER, CITY COUNCIL DISTRICT NO. 1",494,CORINNA CONTRERAS,
 237,CA,Kenneth Zuniga,Vista Mayor,auto,name_in_state,ca.san_diego,159,CITY OF VISTA MAYOR,491,KENNETH ZUNIGA,
 238,CA,Jane Kim,State Insurance Commissioner,auto,district_surname,ca,insurance-commissioner,Insurance Commissioner,Jane Kim,Jane Kim,
-1159,CA,Prop – 1: Invest in Affordable Homes,Ballot Measure,auto,measure_number,ca.santa_clara,101,State Proposition 1 - The Veterans and Affordable Housing Bond Act of 2026,Yes,Yes,
-1163,CA,Prop – 5: Reform Recall Elections,Ballot Measure,auto,measure_number,ca.santa_clara,105,State Proposition 5 - Elections: Recall of State Officers,Yes,Yes,
-1165,CA,Prop 39: Reject Voter Suppression,Ballot Measure,auto,measure_number,ca.santa_clara,108,State Proposition 39 - Establishes Additional Voter Identification and Citizenship Verification Requirements,No,No,
+1161,CA,Prop – 1: Invest in Affordable Homes,Ballot Measure,auto,measure_number,ca.santa_clara,101,State Proposition 1 - The Veterans and Affordable Housing Bond Act of 2026,Yes,Yes,
+1165,CA,Prop – 5: Reform Recall Elections,Ballot Measure,auto,measure_number,ca.santa_clara,105,State Proposition 5 - Elections: Recall of State Officers,Yes,Yes,
+1167,CA,Prop 39: Reject Voter Suppression,Ballot Measure,auto,measure_number,ca.santa_clara,108,State Proposition 39 - Establishes Additional Voter Identification and Citizenship Verification Requirements,No,No,
 239,CO,Melat Kiros,"U.S. House of Representatives, District 1",auto,district_surname,co,110,Representative to the 120th United States Congress - District 1,Melat Kiros,Melat Kiros,
 240,CO,Amanda Gonzalez,Colorado Secretary of State,auto,district_surname,co,220,Secretary of State,Amanda Gonzalez,Amanda Gonzalez,
 241,CO,Jena Griswold,Attorney General,auto,district_surname,co,240,Attorney General,Jena Griswold,Jena Griswold,
@@ -268,35 +270,35 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 292,CO,Michael Farrington,"RTD Board of Directors, District K",auto,name_in_state,co,3540,Regional Transportation District Director - District K,Michael Farrington,Michael Farrington,
 293,CO,Jack Rosenthal,"RTD Board of Directors, District O",auto,name_in_state,co,3570,Regional Transportation District Director - District O,Jack Rosenthal,Jack Rosenthal,
 294,CO,Liza Marron,"Saguache County Commission, District 3",auto,name_in_state,co,Saguache/9,Saguache County Commissioner - District 3,Liza Marron,Liza Marron,
-1172,CO,Amendment 81: Expand Cooperation with ICE,Ballot Measure,auto,measure_number,co,6000,Amendment 81 (CONSTITUTIONAL),No,No,
-1173,CO,Amendment 82: Protection for Corporate Polluters,Ballot Measure,auto,measure_number,co,6010,Amendment 82 (CONSTITUTIONAL),No,No,
-1174,CO,Amendment 83: Legalize Cruel Practices in Hunting and Fishing,Ballot Measure,auto,measure_number,co,6020,Amendment 83 (CONSTITUTIONAL),No,No,
-1175,CO,Amendment 84: Make it Harder to Vote By Mail,Ballot Measure,auto,measure_number,co,6030,Amendment 84 (CONSTITUTIONAL),No,No,
-1176,CO,Amendment 85: Misleading Ballot Descriptions,Ballot Measure,auto,measure_number,co,6040,Amendment 85 (CONSTITUTIONAL),No,No,
-1177,CO,Amendment 86: Protect Republicans in Redistricting,Ballot Measure,auto,measure_number,co,6050,Amendment 86 (CONSTITUTIONAL),No,No,
-1178,CO,Amendment 87: Tax the Rich,Ballot Measure,auto,measure_number,co,6060,Amendment 87 (CONSTITUTIONAL),Yes,Yes,
-1179,CO,Aurora Ballot Issue 3B,Ballot Measure,auto,measure_number,co,7308,City of Aurora Ballot Issue 3B,No,No,
-1180,CO,Aurora Ballot Question 3D,Ballot Measure,auto,measure_number,co,7312,City of Aurora Ballot Question 3D,Yes,Yes,
-1181,CO,Boulder County Ballot Issue 1A,Ballot Measure,auto,measure_number,co,Boulder/56,Boulder County Ballot Issue 1A,Yes,Yes,
-1182,CO,City of Boulder Ballot Issue 2J,Ballot Measure,auto,measure_number,co,Boulder/59,City of Boulder Ballot Issue 2J,Yes,Yes,
-1183,CO,City of Boulder Ballot Question 2L,Ballot Measure,auto,measure_number,co,Boulder/61,City of Boulder Ballot Question 2L,Yes,Yes,
-1184,CO,Denver Public Schools Ballot Issue 4A,Ballot Measure,auto,measure_number,co,Denver/104,Denver Public Schools Ballot Issue 4A,Yes,Yes,
-1185,CO,El Paso County Ballot Issue 1A,Ballot Measure,auto,measure_number,co,El_Paso/71,El Paso County Ballot Issue 1A,No,No,
-1186,CO,Front Range Passenger Rail District Ballot Issue 7A,Ballot Measure,auto,measure_number,co,7720,Front Range Passenger Rail District Ballot Issue 7A,Yes,Yes,
-1187,CO,Greeley Ballot Measure 2F,Ballot Measure,auto,measure_number,co,Weld/81,City of Greeley Ballot Issue 2F,No,No,
-1188,CO,Larimer County Ballot Issue 1A,Ballot Measure,auto,measure_number,co,Larimer/49,Larimer County Ballot Issue 1A,Yes,Yes,
-1189,CO,Longmont Amendment 3C,Ballot Measure,auto,measure_number,co,7328,City of Longmont Ballot Question 3C,Yes,Yes,
-1190,CO,Longmont Amendment 3D,Ballot Measure,auto,measure_number,co,7330,City of Longmont Ballot Question 3D,Yes,Yes,
-1191,CO,Proposition 132: Private Prison Cash Grab,Ballot Measure,auto,measure_number,co,6080,Proposition 132 (STATUTORY),No,No,
-1192,CO,Proposition 133: An Undercover Attack on Reproductive Freedom,Ballot Measure,auto,measure_number,co,6090,Proposition 133 (STATUTORY),No,No,
-1193,CO,Proposition 134: Puts Kids in Harm’s Way,Ballot Measure,auto,measure_number,co,6100,Proposition 134 (STATUTORY),No,No,
-1194,CO,Proposition 135: A Threat to Family Rights,Ballot Measure,auto,measure_number,co,6110,Proposition 135 (STATUTORY),No,No,
-1195,CO,Proposition 136: The Millionaire Protection Act,Ballot Measure,auto,measure_number,co,6120,Proposition 136 (STATUTORY),No,No,
-1196,CO,Proposition 137: Directing Taxes from Sporting Goods to Conservation,Ballot Measure,auto,measure_number,co,6130,Proposition 137 (STATUTORY),Yes,Yes,
-1197,CO,Proposition NN: Yes for Colorado Kids,Ballot Measure,auto,measure_number,co,6070,Proposition NN (STATUTORY),Yes,Yes,
-1198,CO,Pueblo Ballot Issue 6A,Ballot Measure,auto,measure_number,co,Pueblo/46,Pueblo City-County Library District Ballot Issue 6A,Yes,Yes,
-1199,CO,Pueblo Ballot Question 2B,Ballot Measure,auto,measure_number,co,Pueblo/48,City of Pueblo Ballot Question 2B,Yes,Yes,
-1200,CO,Pueblo West Ballot Issue 6C,Ballot Measure,auto,measure_number,co,Pueblo/51,Pueblo West Metropolitan Ballot Issue  6C,Yes,Yes,
+1174,CO,Amendment 81: Expand Cooperation with ICE,Ballot Measure,auto,measure_number,co,6000,Amendment 81 (CONSTITUTIONAL),No,No,
+1175,CO,Amendment 82: Protection for Corporate Polluters,Ballot Measure,auto,measure_number,co,6010,Amendment 82 (CONSTITUTIONAL),No,No,
+1176,CO,Amendment 83: Legalize Cruel Practices in Hunting and Fishing,Ballot Measure,auto,measure_number,co,6020,Amendment 83 (CONSTITUTIONAL),No,No,
+1177,CO,Amendment 84: Make it Harder to Vote By Mail,Ballot Measure,auto,measure_number,co,6030,Amendment 84 (CONSTITUTIONAL),No,No,
+1178,CO,Amendment 85: Misleading Ballot Descriptions,Ballot Measure,auto,measure_number,co,6040,Amendment 85 (CONSTITUTIONAL),No,No,
+1179,CO,Amendment 86: Protect Republicans in Redistricting,Ballot Measure,auto,measure_number,co,6050,Amendment 86 (CONSTITUTIONAL),No,No,
+1180,CO,Amendment 87: Tax the Rich,Ballot Measure,auto,measure_number,co,6060,Amendment 87 (CONSTITUTIONAL),Yes,Yes,
+1181,CO,Aurora Ballot Issue 3B,Ballot Measure,auto,measure_number,co,7308,City of Aurora Ballot Issue 3B,No,No,
+1182,CO,Aurora Ballot Question 3D,Ballot Measure,auto,measure_number,co,7312,City of Aurora Ballot Question 3D,Yes,Yes,
+1183,CO,Boulder County Ballot Issue 1A,Ballot Measure,auto,measure_number,co,Boulder/56,Boulder County Ballot Issue 1A,Yes,Yes,
+1184,CO,City of Boulder Ballot Issue 2J,Ballot Measure,auto,measure_number,co,Boulder/59,City of Boulder Ballot Issue 2J,Yes,Yes,
+1185,CO,City of Boulder Ballot Question 2L,Ballot Measure,auto,measure_number,co,Boulder/61,City of Boulder Ballot Question 2L,Yes,Yes,
+1186,CO,Denver Public Schools Ballot Issue 4A,Ballot Measure,auto,measure_number,co,Denver/104,Denver Public Schools Ballot Issue 4A,Yes,Yes,
+1187,CO,El Paso County Ballot Issue 1A,Ballot Measure,auto,measure_number,co,El_Paso/71,El Paso County Ballot Issue 1A,No,No,
+1188,CO,Front Range Passenger Rail District Ballot Issue 7A,Ballot Measure,auto,measure_number,co,7720,Front Range Passenger Rail District Ballot Issue 7A,Yes,Yes,
+1189,CO,Greeley Ballot Measure 2F,Ballot Measure,auto,measure_number,co,Weld/81,City of Greeley Ballot Issue 2F,No,No,
+1190,CO,Larimer County Ballot Issue 1A,Ballot Measure,auto,measure_number,co,Larimer/49,Larimer County Ballot Issue 1A,Yes,Yes,
+1191,CO,Longmont Amendment 3C,Ballot Measure,auto,measure_number,co,7328,City of Longmont Ballot Question 3C,Yes,Yes,
+1192,CO,Longmont Amendment 3D,Ballot Measure,auto,measure_number,co,7330,City of Longmont Ballot Question 3D,Yes,Yes,
+1193,CO,Proposition 132: Private Prison Cash Grab,Ballot Measure,auto,measure_number,co,6080,Proposition 132 (STATUTORY),No,No,
+1194,CO,Proposition 133: An Undercover Attack on Reproductive Freedom,Ballot Measure,auto,measure_number,co,6090,Proposition 133 (STATUTORY),No,No,
+1195,CO,Proposition 134: Puts Kids in Harm’s Way,Ballot Measure,auto,measure_number,co,6100,Proposition 134 (STATUTORY),No,No,
+1196,CO,Proposition 135: A Threat to Family Rights,Ballot Measure,auto,measure_number,co,6110,Proposition 135 (STATUTORY),No,No,
+1197,CO,Proposition 136: The Millionaire Protection Act,Ballot Measure,auto,measure_number,co,6120,Proposition 136 (STATUTORY),No,No,
+1198,CO,Proposition 137: Directing Taxes from Sporting Goods to Conservation,Ballot Measure,auto,measure_number,co,6130,Proposition 137 (STATUTORY),Yes,Yes,
+1199,CO,Proposition NN: Yes for Colorado Kids,Ballot Measure,auto,measure_number,co,6070,Proposition NN (STATUTORY),Yes,Yes,
+1200,CO,Pueblo Ballot Issue 6A,Ballot Measure,auto,measure_number,co,Pueblo/46,Pueblo City-County Library District Ballot Issue 6A,Yes,Yes,
+1201,CO,Pueblo Ballot Question 2B,Ballot Measure,auto,measure_number,co,Pueblo/48,City of Pueblo Ballot Question 2B,Yes,Yes,
+1202,CO,Pueblo West Ballot Issue 6C,Ballot Measure,auto,measure_number,co,Pueblo/51,Pueblo West Metropolitan Ballot Issue  6C,Yes,Yes,
 295,CT,Jahana Hayes,"U.S. House of Representatives, District 5",auto,district_surname,ct,19670,Representative in Congress 5,Jahana Hayes,Jahana Hayes,
 296,CT,Ned Lamont,Governor,auto,district_surname,ct,19663,Governor and Lieutenant Governor,Ned Lamont and Susan Bysiewicz,Ned Lamont and Susan Bysiewicz,
 297,CT,Susan Bysiewicz,Lt Governor,auto,district_surname,ct,19663,Governor and Lieutenant Governor,Ned Lamont and Susan Bysiewicz,Ned Lamont and Susan Bysiewicz,
@@ -434,13 +436,13 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 449,MA,John Drinkwater,"Massachusetts State House, 17th Middlesex District",auto,district_surname,manual,ma.house.17th-middlesex,State Representative 17th Middlesex,John Drinkwater,John Drinkwater,
 450,MA,Tara Hong,"Massachusetts State House, 18th Middlesex District",auto,district_surname,manual,ma.house.18th-middlesex,State Representative 18th Middlesex,Tara Hong,Tara Hong,
 451,MA,Ben Ewen-Campen,"Massachusetts State House, 27th Middlesex District",auto,district_surname,manual,ma.house.27th-middlesex,State Representative 27th Middlesex,Ben Ewen-Campen,Ben Ewen-Campen,
-1201,MA,Question 1,Ballot Measure,auto,measure_number,manual,ma.question.1,Question 1,Yes,Yes,
-1202,MA,Question 2,Ballot Measure,auto,measure_number,manual,ma.question.2,Question 2,Yes,Yes,
-1203,MA,Question 3,Ballot Measure,auto,measure_number,manual,ma.question.3,Question 3,No,No,
-1204,MA,Question 4,Ballot Measure,auto,measure_number,manual,ma.question.4,Question 4,Yes,Yes,
-1205,MA,Question 5,Ballot Measure,auto,measure_number,manual,ma.question.5,Question 5,No,No,
-1206,MA,Question 8,Ballot Measure,auto,measure_number,manual,ma.question.8,Question 8,No,No,
-1207,MA,Question 9,Ballot Measure,auto,measure_number,manual,ma.question.9,Question 9,Yes,Yes,
+1203,MA,Question 1,Ballot Measure,auto,measure_number,manual,ma.question.1,Question 1,Yes,Yes,
+1204,MA,Question 2,Ballot Measure,auto,measure_number,manual,ma.question.2,Question 2,Yes,Yes,
+1205,MA,Question 3,Ballot Measure,auto,measure_number,manual,ma.question.3,Question 3,No,No,
+1206,MA,Question 4,Ballot Measure,auto,measure_number,manual,ma.question.4,Question 4,Yes,Yes,
+1207,MA,Question 5,Ballot Measure,auto,measure_number,manual,ma.question.5,Question 5,No,No,
+1208,MA,Question 8,Ballot Measure,auto,measure_number,manual,ma.question.8,Question 8,No,No,
+1209,MA,Question 9,Ballot Measure,auto,measure_number,manual,ma.question.9,Question 9,Yes,Yes,
 434,MD,Sarah David,Baltimore County State’s Attorney,auto,name_in_state,md,county-4/State's Attorney,State's Attorney,Sarah R. David,Sarah R. David,
 435,MD,Karl Bickel,Frederick County Sheriff,auto,name_in_state,md,county-11/Sheriff,Sheriff,Karl Bickel,Karl Bickel,
 436,MD,Janssen Evelyn,"Howard County Council, District 4",auto,name_in_state,md,county-14/County Council District 4,County Council District 4,Janssen Evelyn,Janssen Evelyn,
@@ -834,8 +836,8 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 945,OH,Ian Schwartz,"Ohio House of Representatives, District 62",auto,district_surname,oh,_55A742EA58C309A3E0633390EE0AE290,State Representative - District 62,Ian Schwartz,Ian Schwartz,
 946,OH,Katie Koehler Wagner,"Ohio House of Representatives, District 80",auto,district_surname,oh,_55A742EA599F09A3E0633390EE0AE290,State Representative - District 80,Katie Koehler Wagner,Katie Koehler Wagner,
 947,OH,Cara Jacob,"Ohio State Senate, District 7",auto,district_surname,oh,_55A742EA586C09A3E0633390EE0AE290,State Senator - District 07,Cara Jacob,Cara Jacob,
-1208,OH,"Cincinnati, OH | Issue 4: Cincinnati Public Schools Levy",Ballot Measure,auto,measure_number,oh.hamilton,55,4  PROPOSED TAX LEVY (ADDITIONAL) CINCINNATI CITY SCHOOL DISTRICT,Yes,Yes,
-1209,OH,"Cincinnati, OH | Issue 9: Winton Woods School Levy",Ballot Measure,auto,measure_number,oh.hamilton,52,9  PROPOSED TAX LEVY (ADDITIONAL) WINTON WOODS CITY SCHOOL DISTRICT,Yes,Yes,
+1210,OH,"Cincinnati, OH | Issue 4: Cincinnati Public Schools Levy",Ballot Measure,auto,measure_number,oh.hamilton,55,4  PROPOSED TAX LEVY (ADDITIONAL) CINCINNATI CITY SCHOOL DISTRICT,Yes,Yes,
+1211,OH,"Cincinnati, OH | Issue 9: Winton Woods School Levy",Ballot Measure,auto,measure_number,oh.hamilton,52,9  PROPOSED TAX LEVY (ADDITIONAL) WINTON WOODS CITY SCHOOL DISTRICT,Yes,Yes,
 948,OR,Tina Kotek,Governor,auto,district_surname,or,300038702,Governor,Tina Kotek,Tina Kotek,
 949,OR,Jeff Merkley,U.S. Senate,auto,district_surname,or,300038695,US Senator,Jeff Merkley,Jeff Merkley,
 950,OR,Suzanne Bonamici,"U.S. House of Representatives, District 1",auto,district_surname,or,300038696,"US Representative, 1st District",Suzanne Bonamici,Suzanne Bonamici,
@@ -967,37 +969,37 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 1084,SC,Julie Zimmerman,"South Carolina State House, District 71",auto,district_surname,sc,"State House of Representatives, District 71","State House of Representatives, District 71",DEM Julie Zimmerman,Julie Zimmerman,
 1085,SC,Sonja Ogletree Satani,"South Carolina State House, District 98",auto,district_surname,sc,"State House of Representatives, District 98","State House of Representatives, District 98",DEM Sonja Ogletree Satani,Sonja Ogletree Satani,
 1095,TX,Michelle Butler,"Denton County Justice of the Peace, Precinct 6",auto,name_in_state,tx.denton,58,"Justice of the Peace, Precinct No. 6",Michelle Butler,Michelle Butler,
-1102,UT,Luke Maynes,"Salt Lake County Council, District 3",auto,name_in_state,ut,01000000-68b8-edcd-804b-08df2650840f,COUNTY COUNCIL DISTRICT 3,01000000-68b8-edcd-8072-08df2650840f,LUKE MAYNES,
-1103,UT,Rosie Rivera,Salt Lake County Sheriff,auto,name_in_state,ut,01000000-68b8-edcd-81d2-08df2650840f,COUNTY SHERIFF,01000000-68b8-edcd-8215-08df2650840f,ROSIE RIVERA,
-1104,UT,Stephen Otterstrom,"State House, District 21",auto,district_surname,ut,b4e60000-c0a3-7204-8e58-08df3933fc5c,State House District 21,b4e60000-c0a3-7204-9050-08df3933fc5c,STEPHEN OTTERSTROM,
-1105,UT,Sahara Hayes,"State House, District 32",auto,district_surname,ut,b4e60000-c0a3-7204-58a9-08df3933fc5c,State House District 32,b4e60000-c0a3-7204-5abf-08df3933fc5c,SAHARA HAYES,
-1106,UT,Rosalba Dominguez,"State House, District 35",auto,district_surname,ut,b4e60000-c0a3-7204-4c1e-08df3933fc5c,State House District 35,b4e60000-c0a3-7204-4f5a-08df3933fc5c,ROSALBA DOMINGUEZ,
-1107,UT,David Chappell,"State House, District 62",auto,district_surname,ut,b4e60000-c0a3-7204-cd8f-08df3933fc5b,State House District 62,b4e60000-c0a3-7204-d0d2-08df3933fc5b,DAVID CHAPPELL,
-1108,WA,Pramila Jayapal,"U.S. House of Representatives, District 7",auto,district_surname,wa,54c40000-9064-bbec-97f2-08df15c0a82a,Congressional District 7 - U.S. Representative,54c40000-9064-bbec-a211-08df15c0a82a,Pramila Jayapal,
-1109,WA,Jorge Baron,"King County Council, District 4",auto,name_in_state,wa,01000000-f0b7-9b6a-7402-08df232198db,Metropolitan King County - Council District No. 4,01000000-f0b7-9b6a-7467-08df232198db,Jorge L. Barón,
-1110,WA,Teresa Mosqueda,"King County Council, District 8",auto,name_in_state,wa,01000000-f0b7-9b6a-74ea-08df232198db,Metropolitan King County - Council District No. 8,01000000-f0b7-9b6a-7502-08df232198db,Teresa Mosqueda,
-1111,WA,Nilu Jenks,"Seattle City Council, District 5",auto,name_in_state,wa,01000000-f0b7-9b6a-7bdf-08df232198db,City of Seattle - Council District No. 5,01000000-f0b7-9b6a-7bf9-08df232198db,Nilu Jenks,
-1113,WA,Kelabe Tewolde,"State House, District 37, Position 1",auto,district_surname,wa,54c40000-9064-bbec-3c2b-08df15c0a833,Legislative District 37 - State Representative Pos. 1,54c40000-9064-bbec-4279-08df15c0a833,Kelabe Tewolde,
-1114,WA,Natasha Hill,"Washington State House, District 3, Position 1",auto,district_surname,wa,54c40000-9064-bbec-3e0e-08df15c0a82b,Legislative District 3 - State Representative Pos. 1,54c40000-9064-bbec-4713-08df15c0a82b,Natasha Hill,
-1115,WA,Luc Jasmin III,"Washington State House, District 3, Position 2",auto,district_surname,wa,54c40000-9064-bbec-4925-08df15c0a82b,Legislative District 3 - State Representative Pos. 2,54c40000-9064-bbec-5105-08df15c0a82b,Luc Jasmin III,
-1116,WA,Chelsea Dimas,"Washington State House, District 14, Position 1",auto,district_surname,wa,54c40000-9064-bbec-9a9f-08df15c0a82d,Legislative District 14 - State Representative Pos. 1,54c40000-9064-bbec-a55c-08df15c0a82d,Chelsea Dimas,
-1117,WA,Edwin Obras,"Washington State House, District 33, Position 1",auto,district_surname,wa,54c40000-9064-bbec-c4d1-08df15c0a832,Legislative District 33 - State Representative Pos. 1,54c40000-9064-bbec-cc46-08df15c0a832,Edwin Obras,
-1118,WA,Mia Gregerson,"Washington State House, District 33, Position 2",auto,district_surname,wa,54c40000-9064-bbec-ce95-08df15c0a832,Legislative District 33 - State Representative Pos. 2,54c40000-9064-bbec-d3e4-08df15c0a832,Mia Su-Ling Gregerson,
-1119,WA,Jaelynn Scott,"Washington State House, District 37, Position 2",auto,district_surname,wa,54c40000-9064-bbec-481e-08df15c0a833,Legislative District 37 - State Representative Pos. 2,54c40000-9064-bbec-4ef5-08df15c0a833,Jaelynn Scott,
-1120,WA,Shaun Scott,"Washington State House, District 43, Position 2",auto,district_surname,wa,54c40000-9064-bbec-0d12-08df15c0a834,Legislative District 43 - State Representative Pos. 2,54c40000-9064-bbec-13cd-08df15c0a834,Shaun Scott,
-1121,WA,Darya Farivar,"Washington State House, District 46, Position 2",auto,district_surname,wa,54c40000-9064-bbec-7d58-08df15c0a834,Legislative District 46 - State Representative Pos. 2,54c40000-9064-bbec-86a5-08df15c0a834,Darya Farivar,
-1122,WA,Jessica Forsythe,"Washington State House, District 48, Position 2",auto,district_surname,wa,54c40000-9064-bbec-e559-08df15c0a834,Legislative District 48 - State Representative Pos. 2,54c40000-9064-bbec-ed92-08df15c0a834,Jessica Forsythe,
-1123,WA,Noel Frame,"Washington State Senate, District 36",auto,district_surname,wa,54c40000-9064-bbec-0c22-08df15c0a833,Legislative District 36 - State Senator,54c40000-9064-bbec-1299-08df15c0a833,Noel C. Frame,
-1124,WA,Hannah Sabio-Howell,"Washington State Senate, District 43",auto,district_surname,wa,54c40000-9064-bbec-efd3-08df15c0a833,Legislative District 43 - State Senator,54c40000-9064-bbec-faff-08df15c0a833,Hannah Sabio-Howell,
-1132,WI,Ismael Luna,"State Assembly, District 8",auto,district_surname,manual,wi.assembly.8,State Assembly District 8,Ismael Luna,Ismael Luna,
-1133,WI,Sequanna Taylor,"State Assembly, District 11",auto,district_surname,manual,wi.assembly.11,State Assembly District 11,Sequanna Taylor,Sequanna Taylor,
-1135,WI,Angelito Tenorio,"State Assembly, District 14",auto,district_surname,manual,wi.assembly.14,State Assembly District 14,Angelito Tenorio,Angelito Tenorio,
-1136,WI,Margaret Arney,"State Assembly, District 18",auto,district_surname,manual,wi.assembly.18,State Assembly District 18,Margaret Arney,Margaret Arney,
-1137,WI,Ryan Clancy,"State Assembly, District 19",auto,district_surname,manual,wi.assembly.19,State Assembly District 19,Ryan Clancy,Ryan Clancy,
-1138,WI,Christine Sinicki,"State Assembly, District 20",auto,district_surname,manual,wi.assembly.20,State Assembly District 20,Christine M. Sinicki,Christine M. Sinicki,
-1145,WI,Tip McGuire,"State Assembly, District 64",auto,district_surname,wi.kenosha,Representative to the Assembly District 64,Representative to the Assembly District 64,Tip McGuire,Tip McGuire,
-1146,WI,Ben DeSmidt,"State Assembly, District 65",auto,district_surname,wi.kenosha,Representative to the Assembly District 65,Representative to the Assembly District 65,Ben DeSmidt,Ben DeSmidt,
-1148,WI,Dina Nina Martinez-Rutherford,"State Assembly, District 76",auto,district_surname,wi.dane,0020,Representative to the Assembly District 76,2,Dina Nina Martinez-Rutherford,
+1104,UT,Luke Maynes,"Salt Lake County Council, District 3",auto,name_in_state,ut,01000000-68b8-edcd-804b-08df2650840f,COUNTY COUNCIL DISTRICT 3,01000000-68b8-edcd-8072-08df2650840f,LUKE MAYNES,
+1105,UT,Rosie Rivera,Salt Lake County Sheriff,auto,name_in_state,ut,01000000-68b8-edcd-81d2-08df2650840f,COUNTY SHERIFF,01000000-68b8-edcd-8215-08df2650840f,ROSIE RIVERA,
+1106,UT,Stephen Otterstrom,"State House, District 21",auto,district_surname,ut,b4e60000-c0a3-7204-8e58-08df3933fc5c,State House District 21,b4e60000-c0a3-7204-9050-08df3933fc5c,STEPHEN OTTERSTROM,
+1107,UT,Sahara Hayes,"State House, District 32",auto,district_surname,ut,b4e60000-c0a3-7204-58a9-08df3933fc5c,State House District 32,b4e60000-c0a3-7204-5abf-08df3933fc5c,SAHARA HAYES,
+1108,UT,Rosalba Dominguez,"State House, District 35",auto,district_surname,ut,b4e60000-c0a3-7204-4c1e-08df3933fc5c,State House District 35,b4e60000-c0a3-7204-4f5a-08df3933fc5c,ROSALBA DOMINGUEZ,
+1109,UT,David Chappell,"State House, District 62",auto,district_surname,ut,b4e60000-c0a3-7204-cd8f-08df3933fc5b,State House District 62,b4e60000-c0a3-7204-d0d2-08df3933fc5b,DAVID CHAPPELL,
+1110,WA,Pramila Jayapal,"U.S. House of Representatives, District 7",auto,district_surname,wa,54c40000-9064-bbec-97f2-08df15c0a82a,Congressional District 7 - U.S. Representative,54c40000-9064-bbec-a211-08df15c0a82a,Pramila Jayapal,
+1111,WA,Jorge Baron,"King County Council, District 4",auto,name_in_state,wa,01000000-f0b7-9b6a-7402-08df232198db,Metropolitan King County - Council District No. 4,01000000-f0b7-9b6a-7467-08df232198db,Jorge L. Barón,
+1112,WA,Teresa Mosqueda,"King County Council, District 8",auto,name_in_state,wa,01000000-f0b7-9b6a-74ea-08df232198db,Metropolitan King County - Council District No. 8,01000000-f0b7-9b6a-7502-08df232198db,Teresa Mosqueda,
+1113,WA,Nilu Jenks,"Seattle City Council, District 5",auto,name_in_state,wa,01000000-f0b7-9b6a-7bdf-08df232198db,City of Seattle - Council District No. 5,01000000-f0b7-9b6a-7bf9-08df232198db,Nilu Jenks,
+1115,WA,Kelabe Tewolde,"State House, District 37, Position 1",auto,district_surname,wa,54c40000-9064-bbec-3c2b-08df15c0a833,Legislative District 37 - State Representative Pos. 1,54c40000-9064-bbec-4279-08df15c0a833,Kelabe Tewolde,
+1116,WA,Natasha Hill,"Washington State House, District 3, Position 1",auto,district_surname,wa,54c40000-9064-bbec-3e0e-08df15c0a82b,Legislative District 3 - State Representative Pos. 1,54c40000-9064-bbec-4713-08df15c0a82b,Natasha Hill,
+1117,WA,Luc Jasmin III,"Washington State House, District 3, Position 2",auto,district_surname,wa,54c40000-9064-bbec-4925-08df15c0a82b,Legislative District 3 - State Representative Pos. 2,54c40000-9064-bbec-5105-08df15c0a82b,Luc Jasmin III,
+1118,WA,Chelsea Dimas,"Washington State House, District 14, Position 1",auto,district_surname,wa,54c40000-9064-bbec-9a9f-08df15c0a82d,Legislative District 14 - State Representative Pos. 1,54c40000-9064-bbec-a55c-08df15c0a82d,Chelsea Dimas,
+1119,WA,Edwin Obras,"Washington State House, District 33, Position 1",auto,district_surname,wa,54c40000-9064-bbec-c4d1-08df15c0a832,Legislative District 33 - State Representative Pos. 1,54c40000-9064-bbec-cc46-08df15c0a832,Edwin Obras,
+1120,WA,Mia Gregerson,"Washington State House, District 33, Position 2",auto,district_surname,wa,54c40000-9064-bbec-ce95-08df15c0a832,Legislative District 33 - State Representative Pos. 2,54c40000-9064-bbec-d3e4-08df15c0a832,Mia Su-Ling Gregerson,
+1121,WA,Jaelynn Scott,"Washington State House, District 37, Position 2",auto,district_surname,wa,54c40000-9064-bbec-481e-08df15c0a833,Legislative District 37 - State Representative Pos. 2,54c40000-9064-bbec-4ef5-08df15c0a833,Jaelynn Scott,
+1122,WA,Shaun Scott,"Washington State House, District 43, Position 2",auto,district_surname,wa,54c40000-9064-bbec-0d12-08df15c0a834,Legislative District 43 - State Representative Pos. 2,54c40000-9064-bbec-13cd-08df15c0a834,Shaun Scott,
+1123,WA,Darya Farivar,"Washington State House, District 46, Position 2",auto,district_surname,wa,54c40000-9064-bbec-7d58-08df15c0a834,Legislative District 46 - State Representative Pos. 2,54c40000-9064-bbec-86a5-08df15c0a834,Darya Farivar,
+1124,WA,Jessica Forsythe,"Washington State House, District 48, Position 2",auto,district_surname,wa,54c40000-9064-bbec-e559-08df15c0a834,Legislative District 48 - State Representative Pos. 2,54c40000-9064-bbec-ed92-08df15c0a834,Jessica Forsythe,
+1125,WA,Noel Frame,"Washington State Senate, District 36",auto,district_surname,wa,54c40000-9064-bbec-0c22-08df15c0a833,Legislative District 36 - State Senator,54c40000-9064-bbec-1299-08df15c0a833,Noel C. Frame,
+1126,WA,Hannah Sabio-Howell,"Washington State Senate, District 43",auto,district_surname,wa,54c40000-9064-bbec-efd3-08df15c0a833,Legislative District 43 - State Senator,54c40000-9064-bbec-faff-08df15c0a833,Hannah Sabio-Howell,
+1134,WI,Ismael Luna,"State Assembly, District 8",auto,district_surname,manual,wi.assembly.8,State Assembly District 8,Ismael Luna,Ismael Luna,
+1135,WI,Sequanna Taylor,"State Assembly, District 11",auto,district_surname,manual,wi.assembly.11,State Assembly District 11,Sequanna Taylor,Sequanna Taylor,
+1137,WI,Angelito Tenorio,"State Assembly, District 14",auto,district_surname,manual,wi.assembly.14,State Assembly District 14,Angelito Tenorio,Angelito Tenorio,
+1138,WI,Margaret Arney,"State Assembly, District 18",auto,district_surname,manual,wi.assembly.18,State Assembly District 18,Margaret Arney,Margaret Arney,
+1139,WI,Ryan Clancy,"State Assembly, District 19",auto,district_surname,manual,wi.assembly.19,State Assembly District 19,Ryan Clancy,Ryan Clancy,
+1140,WI,Christine Sinicki,"State Assembly, District 20",auto,district_surname,manual,wi.assembly.20,State Assembly District 20,Christine M. Sinicki,Christine M. Sinicki,
+1147,WI,Tip McGuire,"State Assembly, District 64",auto,district_surname,wi.kenosha,Representative to the Assembly District 64,Representative to the Assembly District 64,Tip McGuire,Tip McGuire,
+1148,WI,Ben DeSmidt,"State Assembly, District 65",auto,district_surname,wi.kenosha,Representative to the Assembly District 65,Representative to the Assembly District 65,Ben DeSmidt,Ben DeSmidt,
+1150,WI,Dina Nina Martinez-Rutherford,"State Assembly, District 76",auto,district_surname,wi.dane,0020,Representative to the Assembly District 76,2,Dina Nina Martinez-Rutherford,
 1,AZ,Clara Pratte,Arizona Corporation Commission,confirmed,name_in_state,az,248c0000-c0a3-7204-82ca-08df11bc03d0,Corporation Commissioner,248c0000-c0a3-7204-883c-08df11bc03d0,Clara Pratte,found by name only; check the office (Corporation Commissioner) | confirmed Nov 4: Corporation Commission race (statewide)
 2,AZ,Jonathon Hill,Arizona Corporation Commission,confirmed,name_in_state,az,248c0000-c0a3-7204-82ca-08df11bc03d0,Corporation Commissioner,248c0000-c0a3-7204-870c-08df11bc03d0,Jonathon Hill,found by name only; check the office (Corporation Commissioner) | confirmed Nov 4: Corporation Commission race (statewide)
 4,AZ,Sarah Ligouri,"Arizona State House, Legislative District 5",confirmed,near_name,az,248c0000-c0a3-7204-d720-08df11bc03cf,State Representative - District No.  5,248c0000-c0a3-7204-d8f2-08df11bc03cf,Sarah Liguori,"name differs: WFP 'Sarah Ligouri', feed 'Sarah Liguori' | confirmed Nov 4: WFP's spelling; feed 'Sarah Liguori', same district"
@@ -1178,30 +1180,30 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 1088,TN,Allie Phillips,"State House, District 75",no_source,,,,,,,no source covers TN yet
 1089,TN,Jesse Huseth,"State House, District 97",no_source,,,,,,,no source covers TN yet
 1090,TN,Charlane Oliver,"State Senate, District 19",no_source,,,,,,,no source covers TN yet
-1098,TX,Montserrat Garibay,"Texas House, District 49",no_source,,,,,,,TX has only county sources so far
-1099,TX,Jeremy B. Hendrinks,"Texas House, District 50",no_source,,,,,,,TX has only county sources so far
-1100,TX,Jose Loya,Texas Land Commissioner,no_source,,,,,,,TX has only county sources so far
-1125,WI,David Crowley,Governor,no_source,,,,,,,WI has only county sources so far
-1126,WI,JoCasta Zamarripa,Secretary of State,no_source,,,,,,,WI has only county sources so far
-1127,WI,Robyn Vining,"State Senate, District 5",no_source,,,,,,,WI has only county sources so far
-1128,WI,Chris Larson,"State Senate, District 7",no_source,,,,,,,WI has only county sources so far
-1129,WI,Jenna Jacobson,"State Senate, District 17",no_source,,,,,,,WI has only county sources so far
-1130,WI,Trevor Jung,"State Senate, District 21",no_source,,,,,,,WI has only county sources so far
-1131,WI,Jeff Smith,"State Senate, District 31",no_source,,,,,,,WI has only county sources so far
-1134,WI,Amy Zimmerman,"State Assembly, District 13",no_source,,,,,,,WI has only county sources so far
-1139,WI,Dan Bukiewicz,"State Assembly, District 21",no_source,,,,,,,WI has only county sources so far
-1140,WI,Ben Gruber,"State Assembly, District 51",no_source,,,,,,,WI has only county sources so far
-1141,WI,Becky Nichols,"State Assembly, District 53",no_source,,,,,,,WI has only county sources so far
-1142,WI,Ben Brist,"State Assembly, District 61",no_source,,,,,,,WI has only county sources so far
-1143,WI,Angelina Cruz,"State Assembly, District 62",no_source,,,,,,,WI has only county sources so far
-1144,WI,Eddie Phanichkul,"State Assembly, District 63",no_source,,,,,,,WI has only county sources so far
-1147,WI,Angela Stroud,"State Assembly, District 73",no_source,,,,,,,WI has only county sources so far
-1149,WI,Amaad Rivera-Wagner,"State Assembly, District 90",no_source,,,,,,,WI has only county sources so far
-1150,WI,Christian Phelps,"State Assembly, District 93",no_source,,,,,,,WI has only county sources so far
-1217,WI,"Wisconsin Question 1, Partial Veto Referendum",Ballot Measure,no_source,,,,,,,WI has only county sources so far
-1218,WI,"Wisconsin Question 2, Freedom to Gather in Places of Worship During an Emergency Referendum",Ballot Measure,no_source,,,,,,,WI has only county sources so far
-1219,WI,"Wisconsin Question 3, Governmental Entity Discrimination Prohibited Referendum",Ballot Measure,no_source,,,,,,,WI has only county sources so far
-1151,WY,Aaron Appelhans,Albany County Sheriff,no_source,,,,,,,no source covers WY yet
+1100,TX,Montserrat Garibay,"Texas House, District 49",no_source,,,,,,,TX has only county sources so far
+1101,TX,Jeremy B. Hendrinks,"Texas House, District 50",no_source,,,,,,,TX has only county sources so far
+1102,TX,Jose Loya,Texas Land Commissioner,no_source,,,,,,,TX has only county sources so far
+1127,WI,David Crowley,Governor,no_source,,,,,,,WI has only county sources so far
+1128,WI,JoCasta Zamarripa,Secretary of State,no_source,,,,,,,WI has only county sources so far
+1129,WI,Robyn Vining,"State Senate, District 5",no_source,,,,,,,WI has only county sources so far
+1130,WI,Chris Larson,"State Senate, District 7",no_source,,,,,,,WI has only county sources so far
+1131,WI,Jenna Jacobson,"State Senate, District 17",no_source,,,,,,,WI has only county sources so far
+1132,WI,Trevor Jung,"State Senate, District 21",no_source,,,,,,,WI has only county sources so far
+1133,WI,Jeff Smith,"State Senate, District 31",no_source,,,,,,,WI has only county sources so far
+1136,WI,Amy Zimmerman,"State Assembly, District 13",no_source,,,,,,,WI has only county sources so far
+1141,WI,Dan Bukiewicz,"State Assembly, District 21",no_source,,,,,,,WI has only county sources so far
+1142,WI,Ben Gruber,"State Assembly, District 51",no_source,,,,,,,WI has only county sources so far
+1143,WI,Becky Nichols,"State Assembly, District 53",no_source,,,,,,,WI has only county sources so far
+1144,WI,Ben Brist,"State Assembly, District 61",no_source,,,,,,,WI has only county sources so far
+1145,WI,Angelina Cruz,"State Assembly, District 62",no_source,,,,,,,WI has only county sources so far
+1146,WI,Eddie Phanichkul,"State Assembly, District 63",no_source,,,,,,,WI has only county sources so far
+1149,WI,Angela Stroud,"State Assembly, District 73",no_source,,,,,,,WI has only county sources so far
+1151,WI,Amaad Rivera-Wagner,"State Assembly, District 90",no_source,,,,,,,WI has only county sources so far
+1152,WI,Christian Phelps,"State Assembly, District 93",no_source,,,,,,,WI has only county sources so far
+1219,WI,"Wisconsin Question 1, Partial Veto Referendum",Ballot Measure,no_source,,,,,,,WI has only county sources so far
+1220,WI,"Wisconsin Question 2, Freedom to Gather in Places of Worship During an Emergency Referendum",Ballot Measure,no_source,,,,,,,WI has only county sources so far
+1221,WI,"Wisconsin Question 3, Governmental Entity Discrimination Prohibited Referendum",Ballot Measure,no_source,,,,,,,WI has only county sources so far
+1153,WY,Aaron Appelhans,Albany County Sheriff,no_source,,,,,,,no source covers WY yet
 394,DC,Rashida Brown,"District Council, Ward 1 (Ranking recommendation)",not_on_ballot,,,,,,,Not on DC's Nov 3 Ward 1 council ballot (Aparna Raj is the Democrat); checked Nov 4 against DCBOE results.
 448,MA,Johnnie McKnight,"Massachusetts State House, 11th Hampden District",not_on_ballot,,,,,,,Lost the Sept 1 Democratic primary for 11th Hampden to Bud L. Williams (electionstats 173375).
 453,MA,Latoya Gayle,"Massachusetts State Senate, 1st Suffolk District",not_on_ballot,,,,,,,Lost the Sept 1 Democratic primary for 1st Suffolk Senate to Nicholas P. Collins (electionstats 173147).
@@ -1215,6 +1217,6 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 885,NY,Heidi Woika,Village of Fairport Mayor,not_on_ballot,,,,,,,"Fairport village elections were March 18, 2026 (Monroe County list)."
 886,NY,Matthew Brown,Fairport Village Trustee,not_on_ballot,,,,,,,"Fairport village elections were March 18, 2026 (Monroe County list)."
 887,NY,Adam Bonosky,Fairport Village Trustee,not_on_ballot,,,,,,,"Fairport village elections were March 18, 2026 (Monroe County list)."
-1215,OR,Initiative Petition 9-2026-I-01,Ballot Measure,not_on_ballot,,,,,,,"Did not qualify: 'Voices for All of Deschutes' (proportional ranked-choice voting for county commission) missed the Aug 5 signature deadline (Bend Bulletin, Aug 14, 2026). Organizers are collecting fo"
+1217,OR,Initiative Petition 9-2026-I-01,Ballot Measure,not_on_ballot,,,,,,,"Did not qualify: 'Voices for All of Deschutes' (proportional ranked-choice voting for county commission) missed the Aug 5 signature deadline (Bend Bulletin, Aug 14, 2026). Organizers are collecting fo"
 1093,TX,Nick Stevens,Denton City Council #2,not_on_ballot,,,,,,,"Decided May 2, 2026: Stevens won District 2 (82.8%)."
 1094,TX,George Ferrie,Denton City Council At Large #5 (runoff),not_on_ballot,,,,,,,"Decided June 13, 2026 runoff: Ferrie won Place 5 (50.4%)."

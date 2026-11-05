@@ -9,6 +9,32 @@ affects `docs/results_sources.csv`, the entry says so.
 
 ---
 
+## Nov 4, 2026 (evening): 1,219 → 1,221 rows
+
+Scraped 2026-11-05 03:50 UTC (10:50pm ET Nov 4, the day after the election), compared with the Nov 3 23:04 UTC
+scrape. 2 rows were added and 1 renamed, all in Tarrant County, Texas.
+
+### Added (2)
+
+- **Tiffany Burks, Tarrant County District Attorney (Texas)**
+- **Alisa Simmons, Tarrant County Judge (Texas)**
+
+### Renamed (1)
+
+- Dr. Jared Williams → **Jared Williams**, Tarrant County Commissioner, Precinct 2. Same race; WFP dropped the "Dr."
+  The scraper reports this as one removal and one addition.
+
+### Notes
+
+- The two new rows were inserted after Nydia Cardenas (id 1097), so every id from 1098 on moved up by 2 (124 rows,
+  Montserrat Garibay is now 1100). The results system joins on state + name + office, not id, so nothing broke.
+- `docs/results_sources.csv` was updated to match: Williams renamed, rows added for Burks (1098) and Simmons (1099)
+  with the same source as the other Tarrant County races (Tarrant's Clarity site), and ids renumbered to match
+  `data/candidates.json`.
+- Tarrant County still hasn't listed a Nov 3 election on Clarity, so all four Tarrant races stay without results.
+
+---
+
 ## Nov 3, 2026 (evening): 1,219 rows, 1 swapped
 
 Scraped 2026-11-03 23:04 UTC (6:04pm ET, election day), compared with the 08:11 UTC scrape. 1 row was added and 1
