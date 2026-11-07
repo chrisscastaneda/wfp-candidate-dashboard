@@ -45,8 +45,9 @@ See also [election-results-scraper-plan.md](election-results-scraper-plan.md) (d
 | 11:07pm | 985 | 794 | Michigan statewide and legislative races (entered by hand) |
 | 11:18pm | 1,019 | 816 | Los Angeles County's counts (bug fix), Multnomah ranked-choice (new source) |
 | Nov 5, 9:55am | 1,019 | 816 | (none new; 12 counts changed) |
+| Nov 7, 10:29am | 1,019 | 819 | (none new; 531 counts changed, California counties updated) |
 
-Still missing at 9:55am Nov 5: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
+Still missing at 10:29am Nov 7: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
 
 ---
 
@@ -615,6 +616,24 @@ Fixes made while building:
 - Most county sites haven't posted since election night. California counts mail ballots for weeks; the close
   California races (Kluwe AD-72 -2,719, Frame SD-6 -8,358, Lopez AD-68 -2,771, Tsaasan Aliso Viejo +4) haven't moved
   since Nov 4.
+
+### Nov 7, 10:29am: California counties update
+
+- Candidate list re-scraped first: 1,221 rows, no changes.
+- 1,019 races with results, WFP leading 819 (+3). Vote counts changed in 531 races: Colorado 80, Oregon 58,
+  Connecticut 33, every California county (California 31, LA 26, Orange 20, San Diego 16, Santa Clara 13, San Mateo
+  11, San Bernardino 10 ...), the summed New York districts 27, Ulster 27, Pennsylvania 24, Arizona 22.
+- Flipped to leading: Brad Chambers (PA HD-41), 30 ahead (50.0%); Mishaun Watkins (Lynwood council) and Stephen Post
+  (West Hollywood council), both now within the seats being filled in multi-seat races.
+- Closing California gaps: Jessie Lopez (AD-68) 717 behind (was 2,771), Sean Frame (SD-6) 5,171 behind (was
+  8,358), Chris Kluwe (AD-72) 2,214 behind (was 2,719), Estuardo Mazariegos (LA council) 702 behind (was 1,898),
+  Steven Kung (Monterey Park) 37 behind (was 62).
+- Leads that grew: Brandi Mandato (CT SD-34) +231 (was +25), Marie Tsaasan (Aliso Viejo) +60 (was +4), Nancy Martiz
+  (Huntington Park) +104 (was +7), Cait Conley (NY-17) 53.0%.
+- Leads that shrank: Cindy Lopez (National City) +13 (was +44), Kisha Skipper (Westchester LD-15) +260 (was +999),
+  Heather Buch (OR) +196 (was +697). Sara Duncan and Maria Hinojos Pressey (Marion County OR) fell further behind.
+- The same eight sources are still blocked or timing out from Mexico (New Mexico, Florida, Ohio, DC, Kenosha, Nassau,
+  Dane, Washtenaw).
 
 ## Feed quirks worth remembering
 

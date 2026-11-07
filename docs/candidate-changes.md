@@ -9,6 +9,12 @@ affects `docs/results_sources.csv`, the entry says so.
 
 ---
 
+## Nov 7, 2026 (morning): 1,221 rows, no changes
+
+Scraped 2026-11-07 15:29 UTC (10:29am ET), compared with the Nov 5 03:50 UTC scrape. No rows added, removed or renamed.
+
+---
+
 ## Nov 4, 2026 (evening): 1,219 → 1,221 rows
 
 Scraped 2026-11-05 03:50 UTC (10:50pm ET Nov 4, the day after the election), compared with the Nov 3 23:04 UTC
