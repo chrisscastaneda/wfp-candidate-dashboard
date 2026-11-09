@@ -4844,8 +4844,8 @@
  ],
  "contests_hash": "17a41453bea99d45",
  "status": "error",
- "message": "https://electionresults.ewashtenaw.org/electionreporting/nov2026/index.jsp: ConnectTimeout: HTTPSConnectionPool(host='electionresults.ewashtenaw.org', port=443): Max retries exceeded with url: /electionreporting/nov2026/index.jsp (Caused by ConnectTimeoutError(<HTTPSConnection(host='electionresults.ewashtenaw.org', port=443) at 0x112a00190>, 'Connection to electionresults.ewashtenaw.org timed out. (connect timeout=30)'))",
- "last_attempt_at": "2026-11-07T15:30:48+00:00",
+ "message": "https://electionresults.ewashtenaw.org/electionreporting/nov2026/index.jsp: ConnectTimeout: HTTPSConnectionPool(host='electionresults.ewashtenaw.org', port=443): Max retries exceeded with url: /electionreporting/nov2026/index.jsp (Caused by ConnectTimeoutError(<HTTPSConnection(host='electionresults.ewashtenaw.org', port=443) at 0x111253250>, 'Connection to electionresults.ewashtenaw.org timed out. (connect timeout=30)'))",
+ "last_attempt_at": "2026-11-09T00:06:19+00:00",
  "fetched_at": "2026-11-04T15:53:19+00:00",
  "contests_changed_at": "2026-11-04T15:32:17+00:00"
 }
