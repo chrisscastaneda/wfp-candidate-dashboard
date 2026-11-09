@@ -47,8 +47,9 @@ See also [election-results-scraper-plan.md](election-results-scraper-plan.md) (d
 | Nov 5, 9:55am | 1,019 | 816 | (none new; 12 counts changed) |
 | Nov 7, 10:29am | 1,019 | 819 | (none new; 531 counts changed, California counties updated) |
 | Nov 8, 7:05pm | 1,019 | 821 | (none new; 215 counts changed) |
+| Nov 9, 2:04pm | 1,019 | 822 | (none new; 159 counts changed) |
 
-Still missing at 7:05pm Nov 8: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
+Still missing at 2:04pm Nov 9: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
 
 ---
 
@@ -646,6 +647,17 @@ Fixes made while building:
   702), Steven Kung (Monterey Park) 19 behind (was 37), David Ross (LA Superior Court 131) 49.7%.
 - Holding: Brandi Mandato (CT SD-34) +259, Marie Tsaasan (Aliso Viejo) +58, Nancy Martiz (Huntington Park) +131,
   Kisha Skipper (Westchester LD-15) +246.
+- The same eight sources are still blocked or timing out from Mexico.
+
+### Nov 9, 2:04pm: slower updates
+
+- 1,019 races with results, WFP leading 822 (+1). Vote counts changed in 159 races: LA County 26, Ulster County NY 26,
+  Oregon 17, California 16, Georgia 15, Santa Clara 13, Arizona 10, Connecticut 10, Multnomah 8.
+- Flipped to leading: Erik Poicon (Mountain View council, multi-seat), now within the seats being filled.
+- Still closing: Steven Kung (Monterey Park) 10 behind (was 19), Estuardo Mazariegos (LA council) 347 behind (was
+  417), David Ross (LA Superior Court 131) 49.8%. Chris Kluwe (CA AD-72) unchanged at 1,701 behind.
+- Holding: Nancy Martiz (Huntington Park) +153, Kate Leon (Ulster LD-3) +54, Kim Becker (CT HD-62) +34, Bob Fernandez
+  (CT HD-48) +58.
 - The same eight sources are still blocked or timing out from Mexico.
 
 ## Feed quirks worth remembering

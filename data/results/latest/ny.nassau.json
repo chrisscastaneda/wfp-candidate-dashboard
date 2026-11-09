@@ -2463,8 +2463,8 @@
  ],
  "contests_hash": "db0fa4721e0f6aa8",
  "status": "error",
- "message": "https://app.nassaucountyny.gov/BOE/results/election2.html: ConnectTimeout: HTTPSConnectionPool(host='app.nassaucountyny.gov', port=443): Max retries exceeded with url: /BOE/results/election2.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='app.nassaucountyny.gov', port=443) at 0x111252d50>, 'Connection to app.nassaucountyny.gov timed out. (connect timeout=30)'))",
- "last_attempt_at": "2026-11-09T00:06:10+00:00",
+ "message": "https://app.nassaucountyny.gov/BOE/results/election2.html: ConnectTimeout: HTTPSConnectionPool(host='app.nassaucountyny.gov', port=443): Max retries exceeded with url: /BOE/results/election2.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='app.nassaucountyny.gov', port=443) at 0x1117db750>, 'Connection to app.nassaucountyny.gov timed out. (connect timeout=30)'))",
+ "last_attempt_at": "2026-11-09T19:04:58+00:00",
  "fetched_at": "2026-11-04T15:53:14+00:00",
  "contests_changed_at": "2026-11-04T15:37:42+00:00"
 }
