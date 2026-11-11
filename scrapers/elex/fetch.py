@@ -6,13 +6,18 @@ because each one ends the source's pull and the run turns it into a status:
 - Blocked: a 403/429 or a bot-challenge page. Never retried; we don't work around bot protection.
 - NotFound: a 404, which on a results site means the election isn't published yet.
 - FetchError: anything else that failed after retries.
+
+TLS certificates are verified except for hosts listed in config.UNVERIFIED_TLS_HOSTS (each with a reason); those
+requests are marked `tls_unverified` in the run log.
 """
 import json
 import threading
 import time
+import warnings
 from urllib.parse import urlsplit
 
 import requests
+from urllib3.exceptions import InsecureRequestWarning
 
 from . import config
 
@@ -73,11 +78,19 @@ class Fetcher:
                         headers["If-Modified-Since"] = cached[1]
                 start = time.monotonic()
                 entry = {"url": url, "params": params, "attempt": attempt, **({"method": "POST"} if data else {})}
+                verify = host not in config.UNVERIFIED_TLS_HOSTS
+                if not verify:
+                    entry["tls_unverified"] = config.UNVERIFIED_TLS_HOSTS[host]
                 try:
-                    if data:
-                        resp = self.session.post(url, params=params, data=data, timeout=self.timeout)
-                    else:
-                        resp = self.session.get(url, params=params, headers=headers, timeout=self.timeout)
+                    with warnings.catch_warnings():
+                        if not verify:  # the exception is deliberate and logged; don't repeat urllib3's warning
+                            warnings.simplefilter("ignore", InsecureRequestWarning)
+                        if data:
+                            resp = self.session.post(url, params=params, data=data, timeout=self.timeout,
+                                                     verify=verify)
+                        else:
+                            resp = self.session.get(url, params=params, headers=headers, timeout=self.timeout,
+                                                    verify=verify)
                 except requests.RequestException as e:
                     entry.update(status=None, error=type(e).__name__, seconds=round(time.monotonic() - start, 2))
                     log.append(entry)

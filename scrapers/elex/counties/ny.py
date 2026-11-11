@@ -262,7 +262,12 @@ class Nassau(Source):
     tiers = frozenset({4})
 
     def pull(self, fetch):
-        text = nassau_text(fetch.get(NASSAU, expect="text"))
+        page = fetch.get(NASSAU, expect="text")
+        text = nassau_text(page)
+        if len(text) < 1000 and page.count("<path") > 100:
+            # From Nov 10 the page draws its words as vector shapes, with no text to read. That's unreadable, not
+            # "no election", so it's an error and the last good results are kept (and still count in district sums).
+            raise ValueError("Nassau's results page has no text (words drawn as vector paths); keeping last results")
         when = config.ELECTION_DATE.strftime("%B %-d, %Y")
         if f"{when} General Election" not in text:
             raise NotPublished(f"Nassau's results page isn't the {when} general election")

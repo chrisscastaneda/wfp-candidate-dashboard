@@ -28,18 +28,18 @@
      "pct": 59.55,
      "choice_id": "Ned Lamont and Susan Bysiewicz",
      "party_lines": {
-      "DEM": 742719,
-      "WFP": 29832
+      "DEM": 742720,
+      "WFP": 29831
      }
     },
     {
      "name": "Ryan Fazio and Matt Corey",
-     "votes": 524596,
+     "votes": 524594,
      "party": "REP",
      "pct": 40.44,
      "choice_id": "Ryan Fazio and Matt Corey",
      "party_lines": {
-      "REP": 496890,
+      "REP": 496888,
       "IND": 27706
      }
     },
@@ -99,12 +99,12 @@
    "choices": [
     {
      "name": "Luke Bronin",
-     "votes": 170475,
+     "votes": 170479,
      "party": "DEM",
      "pct": 67.28,
      "choice_id": "Luke Bronin",
      "party_lines": {
-      "DEM": 170475
+      "DEM": 170479
      }
     },
     {
@@ -524,12 +524,12 @@
    "choices": [
     {
      "name": "MD Rahman",
-     "votes": 26329,
+     "votes": 26333,
      "party": "DEM",
-     "pct": 65.9,
+     "pct": 65.91,
      "choice_id": "MD Rahman",
      "party_lines": {
-      "DEM": 24853,
+      "DEM": 24857,
       "WFP": 1476
      }
     },
@@ -537,7 +537,7 @@
      "name": "Jenn Jennings",
      "votes": 13621,
      "party": "REP",
-     "pct": 34.1,
+     "pct": 34.09,
      "choice_id": "Jenn Jennings",
      "party_lines": {
       "REP": 13621
@@ -1371,16 +1371,6 @@
    "feed_updated_at": null,
    "choices": [
     {
-     "name": "Herron Keyon Gaston",
-     "votes": 10891,
-     "party": "DEM",
-     "pct": 93.67,
-     "choice_id": "Herron Keyon Gaston",
-     "party_lines": {
-      "DEM": 10891
-     }
-    },
-    {
      "name": "Natasha Williams",
      "votes": 736,
      "party": null,
@@ -1388,6 +1378,16 @@
      "choice_id": "Natasha Williams",
      "party_lines": {
       "?": 736
+     }
+    },
+    {
+     "name": "Herron Keyon Gaston",
+     "votes": 10891,
+     "party": "DEM",
+     "pct": 93.67,
+     "choice_id": "Herron Keyon Gaston",
+     "party_lines": {
+      "DEM": 10891
      }
     }
    ],
@@ -2314,12 +2314,12 @@
    "choices": [
     {
      "name": "Jason Rojas",
-     "votes": 5897,
+     "votes": 5898,
      "party": "DEM",
      "pct": 100.0,
      "choice_id": "Jason Rojas",
      "party_lines": {
-      "DEM": 5897
+      "DEM": 5898
      }
     }
    ],
@@ -2458,12 +2458,12 @@
     },
     {
      "name": "Geoffrey Luxenberg",
-     "votes": 5826,
+     "votes": 5828,
      "party": "DEM",
      "pct": 92.08,
      "choice_id": "Geoffrey Luxenberg",
      "party_lines": {
-      "DEM": 5373,
+      "DEM": 5375,
       "WFP": 453
      }
     }
@@ -2493,12 +2493,12 @@
    "choices": [
     {
      "name": "Jason Doucette",
-     "votes": 6611,
+     "votes": 6612,
      "party": "DEM",
      "pct": 72.43,
      "choice_id": "Jason Doucette",
      "party_lines": {
-      "DEM": 6611
+      "DEM": 6612
      }
     },
     {
@@ -4599,23 +4599,23 @@
    "choices": [
     {
      "name": "Kim Becker",
-     "votes": 6099,
+     "votes": 6103,
      "party": "DEM",
-     "pct": 50.14,
+     "pct": 50.16,
      "choice_id": "Kim Becker",
      "party_lines": {
-      "DEM": 5837,
+      "DEM": 5841,
       "WFP": 262
      }
     },
     {
      "name": "Mark W. Anderson",
-     "votes": 6065,
+     "votes": 6063,
      "party": "REP",
-     "pct": 49.86,
+     "pct": 49.84,
      "choice_id": "Mark W. Anderson",
      "party_lines": {
-      "REP": 5772,
+      "REP": 5770,
       "IND": 293
      }
     }
@@ -7214,22 +7214,22 @@
    "choices": [
     {
      "name": "Bill Mecca",
-     "votes": 5277,
+     "votes": 5278,
      "party": "DEM",
-     "pct": 49.86,
+     "pct": 49.85,
      "choice_id": "Bill Mecca",
      "party_lines": {
-      "DEM": 5277
+      "DEM": 5278
      }
     },
     {
      "name": "David J. Rutigliano",
-     "votes": 5306,
+     "votes": 5310,
      "party": "REP",
-     "pct": 50.14,
+     "pct": 50.15,
      "choice_id": "David J. Rutigliano",
      "party_lines": {
-      "REP": 5078,
+      "REP": 5082,
       "IND": 228
      }
     }
@@ -7258,16 +7258,6 @@
    "feed_updated_at": null,
    "choices": [
     {
-     "name": "Andre F. Baker, Jr.",
-     "votes": 2629,
-     "party": "DEM",
-     "pct": 93.33,
-     "choice_id": "Andre F. Baker, Jr.",
-     "party_lines": {
-      "DEM": 2629
-     }
-    },
-    {
      "name": "Alexander Leon",
      "votes": 188,
      "party": null,
@@ -7275,6 +7265,16 @@
      "choice_id": "Alexander Leon",
      "party_lines": {
       "?": 188
+     }
+    },
+    {
+     "name": "Andre F. Baker, Jr.",
+     "votes": 2629,
+     "party": "DEM",
+     "pct": 93.33,
+     "choice_id": "Andre F. Baker, Jr.",
+     "party_lines": {
+      "DEM": 2629
      }
     }
    ],
@@ -8432,12 +8432,12 @@
    "choices": [
     {
      "name": "Stephanie Thomas",
-     "votes": 809084,
+     "votes": 809088,
      "party": "DEM",
      "pct": 63.46,
      "choice_id": "Stephanie Thomas",
      "party_lines": {
-      "DEM": 749703,
+      "DEM": 749707,
       "WFP": 33690,
       "IND": 25691
      }
@@ -8488,12 +8488,12 @@
    "choices": [
     {
      "name": "Erick Russell",
-     "votes": 768184,
+     "votes": 768188,
      "party": "DEM",
      "pct": 60.29,
      "choice_id": "Erick Russell",
      "party_lines": {
-      "DEM": 732787,
+      "DEM": 732791,
       "WFP": 35397
      }
     },
@@ -8534,12 +8534,12 @@
    "choices": [
     {
      "name": "Sean Scanlon",
-     "votes": 802097,
+     "votes": 802101,
      "party": "DEM",
      "pct": 63.02,
      "choice_id": "Sean Scanlon",
      "party_lines": {
-      "DEM": 744298,
+      "DEM": 744302,
       "WFP": 33767,
       "IND": 24032
      }
@@ -8580,12 +8580,12 @@
    "choices": [
     {
      "name": "William Tong",
-     "votes": 807754,
+     "votes": 807758,
      "party": "DEM",
      "pct": 63.24,
      "choice_id": "William Tong",
      "party_lines": {
-      "DEM": 767041,
+      "DEM": 767045,
       "WFP": 40713
      }
     },
@@ -9064,12 +9064,12 @@
    "choices": [
     {
      "name": "Thomas A. Robinson",
-     "votes": 19348,
+     "votes": 19352,
      "party": "DEM",
      "pct": 100.0,
      "choice_id": "Thomas A. Robinson",
      "party_lines": {
-      "DEM": 19348
+      "DEM": 19352
      }
     }
    ],
@@ -10614,42 +10614,42 @@
    "choices": [
     {
      "name": "Crystal Hill",
-     "votes": 3904,
+     "votes": 4463,
      "party": "DEM",
-     "pct": 26.74,
+     "pct": 26.28,
      "choice_id": "Crystal Hill",
      "party_lines": {
-      "DEM": 3904
+      "DEM": 4463
      }
     },
     {
      "name": "Peter P. Orphanos",
-     "votes": 3807,
+     "votes": 4332,
      "party": "DEM",
-     "pct": 26.08,
+     "pct": 25.5,
      "choice_id": "Peter P. Orphanos",
      "party_lines": {
-      "DEM": 3807
+      "DEM": 4332
      }
     },
     {
      "name": "Zachary Fleitman",
-     "votes": 3419,
+     "votes": 4050,
      "party": "REP",
-     "pct": 23.42,
+     "pct": 23.84,
      "choice_id": "Zachary Fleitman",
      "party_lines": {
-      "REP": 3419
+      "REP": 4050
      }
     },
     {
      "name": "Gregory Grambling",
-     "votes": 3469,
+     "votes": 4140,
      "party": "REP",
-     "pct": 23.76,
+     "pct": 24.37,
      "choice_id": "Gregory Grambling",
      "party_lines": {
-      "REP": 3469
+      "REP": 4140
      }
     }
    ],
@@ -15810,10 +15810,10 @@
    "uncontested": false
   }
  ],
- "contests_hash": "695f5e941d67ec03",
+ "contests_hash": "7902a78c91d579ab",
  "status": "ok",
  "message": "",
- "last_attempt_at": "2026-11-10T04:01:52+00:00",
- "fetched_at": "2026-11-10T04:01:52+00:00",
- "contests_changed_at": "2026-11-10T04:01:52+00:00"
+ "last_attempt_at": "2026-11-11T15:55:39+00:00",
+ "fetched_at": "2026-11-11T15:55:39+00:00",
+ "contests_changed_at": "2026-11-11T15:55:39+00:00"
 }

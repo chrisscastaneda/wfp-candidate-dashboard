@@ -20,6 +20,14 @@ LOG_DIR = REPO / "logs"
 # Seconds between requests to one host (default 1). Ohio's API needs one request per contest, so it gets less.
 HOST_GAPS = {"liveresults.ohiosos.gov": 0.25}
 
+# Hosts whose TLS certificates aren't verified, each with the reason. Keep this list to hosts with a known, specific
+# certificate problem, approved one at a time; requests to them are marked in the run log.
+UNVERIFIED_TLS_HOSTS = {
+    # Florida's election-night results file. Its certificate expired around Nov 10, 2026; skipping the check was
+    # approved Nov 11 so Florida's results keep updating. Remove once the certificate is renewed.
+    "flelectionfiles.floridados.gov": "expired certificate (Nov 2026)",
+}
+
 USER_AGENT = "wfp-results-scraper/0.1 (+https://github.com/; election results for WFP endorsements)"
 
 STATE_CODES = {

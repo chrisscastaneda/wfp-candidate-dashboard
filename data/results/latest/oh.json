@@ -25,8 +25,24 @@
      "name": "Amy Acton and David Pepper",
      "votes": 2404178,
      "party": "D",
-     "pct": 52.31,
+     "pct": 52.3,
      "choice_id": "Amy Acton and David Pepper",
+     "party_lines": null
+    },
+    {
+     "name": "Timothy Grady and Andrea Neutzling",
+     "votes": 235,
+     "party": "WI",
+     "pct": 0.01,
+     "choice_id": "Timothy Grady and Andrea Neutzling",
+     "party_lines": null
+    },
+    {
+     "name": "Heather Hill and Patrick Manley",
+     "votes": 1186,
+     "party": "WI",
+     "pct": 0.03,
+     "choice_id": "Heather Hill and Patrick Manley",
      "party_lines": null
     },
     {
@@ -41,8 +57,16 @@
      "name": "Vivek Ramaswamy and Robert A. McColley",
      "votes": 2039730,
      "party": "R",
-     "pct": 44.38,
+     "pct": 44.37,
      "choice_id": "Vivek Ramaswamy and Robert A. McColley",
+     "party_lines": null
+    },
+    {
+     "name": "Renea Turner and Jalen Turner",
+     "votes": 67,
+     "party": "WI",
+     "pct": 0.0,
+     "choice_id": "Renea Turner and Jalen Turner",
      "party_lines": null
     }
    ],
@@ -321,8 +345,24 @@
      "name": "Sherrod Brown",
      "votes": 2301042,
      "party": "D",
-     "pct": 50.01,
+     "pct": 50.0,
      "choice_id": "Sherrod Brown",
+     "party_lines": null
+    },
+    {
+     "name": "Stephen Faris",
+     "votes": 291,
+     "party": "WI",
+     "pct": 0.01,
+     "choice_id": "Stephen Faris",
+     "party_lines": null
+    },
+    {
+     "name": "Anthony Holliman",
+     "votes": 36,
+     "party": "WI",
+     "pct": 0.0,
+     "choice_id": "Anthony Holliman",
      "party_lines": null
     },
     {
@@ -347,6 +387,14 @@
      "party": "L",
      "pct": 2.79,
      "choice_id": "William B. Redpath",
+     "party_lines": null
+    },
+    {
+     "name": "Timothy Telymonde",
+     "votes": 27,
+     "party": "WI",
+     "pct": 0.0,
+     "choice_id": "Timothy Telymonde",
      "party_lines": null
     }
    ],
@@ -638,10 +686,26 @@
    "feed_updated_at": null,
    "choices": [
     {
+     "name": "Thahbia Asad",
+     "votes": 5,
+     "party": "WI",
+     "pct": 0.0,
+     "choice_id": "Thahbia Asad",
+     "party_lines": null
+    },
+    {
+     "name": "Andrey Joseph Martinichin",
+     "votes": 237,
+     "party": "WI",
+     "pct": 0.07,
+     "choice_id": "Andrey Joseph Martinichin",
+     "party_lines": null
+    },
+    {
      "name": "Max Miller",
      "votes": 148177,
      "party": "R",
-     "pct": 45.07,
+     "pct": 45.03,
      "choice_id": "Max Miller",
      "party_lines": null
     },
@@ -649,7 +713,7 @@
      "name": "Brian Poindexter",
      "votes": 180614,
      "party": "D",
-     "pct": 54.93,
+     "pct": 54.89,
      "choice_id": "Brian Poindexter",
      "party_lines": null
     }
@@ -721,15 +785,23 @@
      "name": "Marcy Kaptur",
      "votes": 159306,
      "party": "D",
-     "pct": 52.73,
+     "pct": 52.7,
      "choice_id": "Marcy Kaptur",
+     "party_lines": null
+    },
+    {
+     "name": "Kathy McKinstry",
+     "votes": 175,
+     "party": "WI",
+     "pct": 0.06,
+     "choice_id": "Kathy McKinstry",
      "party_lines": null
     },
     {
      "name": "Derek Merrin",
      "votes": 142830,
      "party": "R",
-     "pct": 47.27,
+     "pct": 47.25,
      "choice_id": "Derek Merrin",
      "party_lines": null
     }
@@ -985,16 +1057,32 @@
      "name": "Mike Carey",
      "votes": 130225,
      "party": "R",
-     "pct": 45.27,
+     "pct": 45.26,
      "choice_id": "Mike Carey",
+     "party_lines": null
+    },
+    {
+     "name": "Gary Josephson",
+     "votes": 4,
+     "party": "WI",
+     "pct": 0.0,
+     "choice_id": "Gary Josephson",
      "party_lines": null
     },
     {
      "name": "Don Leonard",
      "votes": 149287,
      "party": "D",
-     "pct": 51.9,
+     "pct": 51.88,
      "choice_id": "Don Leonard",
+     "party_lines": null
+    },
+    {
+     "name": "Samuel Ronan",
+     "votes": 105,
+     "party": "WI",
+     "pct": 0.04,
+     "choice_id": "Samuel Ronan",
      "party_lines": null
     }
    ],
@@ -1020,7 +1108,16 @@
     "as_percent": true
    },
    "feed_updated_at": null,
-   "choices": [],
+   "choices": [
+    {
+     "name": "Willa Concannon",
+     "votes": 19322,
+     "party": "XX",
+     "pct": 100.0,
+     "choice_id": "Willa Concannon",
+     "party_lines": null
+    }
+   ],
    "url": null,
    "uncontested": false
   },
@@ -2245,10 +2342,18 @@
    "feed_updated_at": null,
    "choices": [
     {
+     "name": "Raisheda D. Angus",
+     "votes": 86,
+     "party": "WI",
+     "pct": 0.07,
+     "choice_id": "Raisheda D. Angus",
+     "party_lines": null
+    },
+    {
      "name": "Bill DeMora",
      "votes": 89559,
      "party": "D",
-     "pct": 72.41,
+     "pct": 72.36,
      "choice_id": "Bill DeMora",
      "party_lines": null
     },
@@ -2256,7 +2361,7 @@
      "name": "Don Roberts",
      "votes": 34116,
      "party": "R",
-     "pct": 27.59,
+     "pct": 27.57,
      "choice_id": "Don Roberts",
      "party_lines": null
     }
@@ -2517,10 +2622,18 @@
    "feed_updated_at": null,
    "choices": [
     {
+     "name": "Elegant Afriyie",
+     "votes": 34,
+     "party": "WI",
+     "pct": 0.1,
+     "choice_id": "Elegant Afriyie",
+     "party_lines": null
+    },
+    {
      "name": "Bernadine Kennedy Kent",
      "votes": 5365,
      "party": "R",
-     "pct": 16.01,
+     "pct": 16.0,
      "choice_id": "Bernadine Kennedy Kent",
      "party_lines": null
     },
@@ -2528,7 +2641,7 @@
      "name": "Ismail Mohamed",
      "votes": 28140,
      "party": "D",
-     "pct": 83.99,
+     "pct": 83.9,
      "choice_id": "Ismail Mohamed",
      "party_lines": null
     }
@@ -2592,15 +2705,23 @@
      "name": "Richard Cole",
      "votes": 13233,
      "party": "R",
-     "pct": 31.93,
+     "pct": 31.91,
      "choice_id": "Richard Cole",
+     "party_lines": null
+    },
+    {
+     "name": "Eboney C. Eldridge",
+     "votes": 19,
+     "party": "WI",
+     "pct": 0.05,
+     "choice_id": "Eboney C. Eldridge",
      "party_lines": null
     },
     {
      "name": "Meredith R Lawson Rowe",
      "votes": 28216,
      "party": "D",
-     "pct": 68.07,
+     "pct": 68.04,
      "choice_id": "Meredith R Lawson Rowe",
      "party_lines": null
     }
@@ -5920,7 +6041,7 @@
      "name": "Lora Covrett",
      "votes": 11163,
      "party": "D",
-     "pct": 25.2,
+     "pct": 25.19,
      "choice_id": "Lora Covrett",
      "party_lines": null
     },
@@ -5928,7 +6049,7 @@
      "name": "Jeffrey A. McClain",
      "votes": 30215,
      "party": "R",
-     "pct": 68.21,
+     "pct": 68.19,
      "choice_id": "Jeffrey A. McClain",
      "party_lines": null
     },
@@ -5938,6 +6059,14 @@
      "party": "NO",
      "pct": 6.59,
      "choice_id": "Craig Swartz",
+     "party_lines": null
+    },
+    {
+     "name": "Greg White",
+     "votes": 12,
+     "party": "WI",
+     "pct": 0.03,
+     "choice_id": "Greg White",
      "party_lines": null
     }
    ],
@@ -6005,10 +6134,18 @@
    "feed_updated_at": null,
    "choices": [
     {
+     "name": "Steve  Kraus",
+     "votes": 192,
+     "party": "WI",
+     "pct": 0.39,
+     "choice_id": "Steve  Kraus",
+     "party_lines": null
+    },
+    {
      "name": "Easton Michael Retzke",
      "votes": 21190,
      "party": "D",
-     "pct": 43.52,
+     "pct": 43.35,
      "choice_id": "Easton Michael Retzke",
      "party_lines": null
     },
@@ -6016,7 +6153,7 @@
      "name": "Caleb Stidham",
      "votes": 27498,
      "party": "R",
-     "pct": 56.48,
+     "pct": 56.26,
      "choice_id": "Caleb Stidham",
      "party_lines": null
     }
@@ -6473,10 +6610,10 @@
    "uncontested": false
   }
  ],
- "contests_hash": "39ee7262d8f5497a",
- "status": "blocked",
- "message": "https://liveresults.ohiosos.gov/Api/v1/Contest/getContestList: HTTP 403",
- "last_attempt_at": "2026-11-10T04:01:58+00:00",
- "fetched_at": "2026-11-04T15:52:15+00:00",
- "contests_changed_at": "2026-11-04T15:31:27+00:00"
+ "contests_hash": "1efbb51fcf493b1e",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-11T15:55:42+00:00",
+ "fetched_at": "2026-11-11T15:55:42+00:00",
+ "contests_changed_at": "2026-11-11T15:55:42+00:00"
 }

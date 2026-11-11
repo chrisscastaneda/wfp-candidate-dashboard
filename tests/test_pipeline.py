@@ -103,3 +103,21 @@ def test_publish_unopposed_is_leading_without_votes():
     out = publish.build([{"id": 7, "key": "MA|A|o", "name": "A"}], rows, {"manual": {"contests": [c]}}, "r")
     result = out["results"]["7"]
     assert (result["status"], result["wfp_leading"], result["uncontested"]) == ("counting", True, True)
+
+
+def test_tls_checks_skipped_only_for_listed_hosts(monkeypatch):
+    from elex import fetch
+
+    calls = []
+
+    class Response:
+        status_code, content, headers = 200, b"ok", {}
+
+    f = fetch.Fetcher(min_gap=0)
+    monkeypatch.setattr(f.session, "get", lambda url, **kw: calls.append((url, kw["verify"])) or Response())
+    monkeypatch.setattr(config, "UNVERIFIED_TLS_HOSTS", {"bad.example.gov": "expired certificate"})
+    log = []
+    f._request("https://bad.example.gov/results.txt", None, log)
+    f._request("https://good.example.gov/results.txt", None, log)
+    assert calls == [("https://bad.example.gov/results.txt", False), ("https://good.example.gov/results.txt", True)]
+    assert log[0]["tls_unverified"] == "expired certificate" and "tls_unverified" not in log[1]

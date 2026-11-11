@@ -2463,8 +2463,8 @@
  ],
  "contests_hash": "db0fa4721e0f6aa8",
  "status": "error",
- "message": "https://app.nassaucountyny.gov/BOE/results/election2.html: ConnectTimeout: HTTPSConnectionPool(host='app.nassaucountyny.gov', port=443): Max retries exceeded with url: /BOE/results/election2.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='app.nassaucountyny.gov', port=443) at 0x10e916d50>, 'Connection to app.nassaucountyny.gov timed out. (connect timeout=30)'))",
- "last_attempt_at": "2026-11-10T04:02:57+00:00",
+ "message": "ValueError: Nassau's results page has no text (words drawn as vector paths); keeping last results\nTraceback (most recent call last):\n  File \"/Users/christopher/code/wfp-lab/scrapers/elex/run.py\", line 40, in pull\n    result.contests = source.pull(fetch)\n                      ~~~~~~~~~~~^^^^^^^\n  File \"/Users/christopher/code/wfp-lab/scrapers/elex/counties/ny.py\", line 270, in pull\n    raise ValueError(\"Nassau's results page has no text (words drawn as vector paths); keeping last results\")\nValueError: Nassau's results page has no text (words drawn as vector paths); keeping last results\n",
+ "last_attempt_at": "2026-11-11T15:58:10+00:00",
  "fetched_at": "2026-11-04T15:53:14+00:00",
  "contests_changed_at": "2026-11-04T15:37:42+00:00"
 }

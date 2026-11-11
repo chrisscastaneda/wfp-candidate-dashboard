@@ -49,8 +49,9 @@ See also [election-results-scraper-plan.md](election-results-scraper-plan.md) (d
 | Nov 8, 7:05pm | 1,019 | 821 | (none new; 215 counts changed) |
 | Nov 9, 2:04pm | 1,019 | 822 | (none new; 159 counts changed) |
 | Nov 9, 11:02pm | 1,019 | 825 | (none new; 347 counts changed; first races final) |
+| Nov 11, 10:55am | 1,019 | 828 | (none new; back in the US; Delaware certified) |
 
-Still missing at 11:02pm Nov 9: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
+Still missing at 10:55am Nov 11: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
 
 ---
 
@@ -678,6 +679,31 @@ Fixes made while building:
   Chris Kluwe (CA AD-72) 1,383 behind (was 1,701). Brad Chambers (PA HD-41) holds by 29.
 - The same eight sources are still blocked or timing out from Mexico.
 
+### Nov 11, 10:55am: back in the US
+
+- **The blocks were location.** Run from the US again, New Mexico, Ohio, DC, Kenosha, Dane and Washtenaw all read
+  normally, as the Nov 4 notes predicted.
+- 1,019 races with results, WFP leading 828; 16 races now final. Vote counts changed in 436 races, led by Oregon 50,
+  New Mexico 35 (first update since Nov 4), Colorado 31, California 27, LA County 26, Ulster 26.
+- **Delaware certified:** 13 WFP races are final, all won (Kira Alejandro, Michelle Booker, Branden Fletcher Dominguez,
+  Rae Krantz, Larry Lambert, Sherae'a Moore, Kamela Smith, Pamela Salaam, Sophie Phillips, Frank Burns, Madinah
+  Wilson-Anton, Tyeisha Grier, Shay Frisby).
+- **Nassau's page changed:** from about Nov 10 it's drawn as vector shapes (some 4,600 SVG paths, no text), so it can't
+  be read. The source now reports that as an error rather than "not published", which keeps Nassau's election-night
+  results (1,042 of 1,083 precincts) and its 21 summed New York districts.
+- **Florida's results host has an expired TLS certificate** (`flelectionfiles.floridados.gov`). With Chris's approval,
+  certificate checks are skipped for that one host only (`config.UNVERIFIED_TLS_HOSTS`, with the reason); every
+  request to it is marked "TLS NOT VERIFIED" in the run log, and Florida's parser still checks the file's format.
+  Florida read again: Angie Nixon (U.S. Senate) 48.0%, about 5,000 more votes. The file now reports 5,429 of 5,626
+  precincts (it said 5,626 on election night), so Florida may be reporting its canvass differently. Remove the host
+  from the list once its certificate is renewed.
+- Flipped to leading: Nafisa Fai (Washington County OR at-large) 363 ahead (was 1,864 behind); Jozef Maldonado
+  (Fullerton D5) 35 ahead; Seema Kanani (Milpitas council, multi-seat).
+- Closing fast: Chris Kluwe (CA AD-72) 111 behind (was 1,383); Maria Hinojos Pressey (Marion OR) 59 behind (was 581);
+  Sara Duncan (Marion OR) 294 behind (was 813); Estuardo Mazariegos (LA council) 156 behind; Alex Sewell (Kent NY) 22
+  behind; Steven Kung (Monterey Park) still 4 behind; Sean Frame (CA SD-6) 3,298 behind (was 5,171).
+- Widening: Jessie Lopez (CA AD-68) +4,126, Kenneth Zuniga (Vista mayor) +674, Marie Tsaasan +119.
+
 ## Feed quirks worth remembering
 
 | Source | Quirk | How it's handled |
@@ -718,6 +744,8 @@ Fixes made while building:
 | Michigan SoS results | Cloudflare challenge to scripts; Wayne posted last | Entered by hand: state's 82 counties plus Wayne's TotalVote share |
 | Los Angeles County | Ballot and counts come from separate calls | `GetElectionData` for the ballot, `GetCounterData` for votes |
 | Multnomah County (OR) | Ranked-choice contests have no votes in the state feed | County tabulation JSON; last-round totals |
+| Nassau County (NY) | From ~Nov 10 the results page has no text (vector shapes) | Reported as an error; election-night results kept |
+| Florida results file host | Expired TLS certificate (Nov 11) | Certificate check skipped for that host only (approved Nov 11); logged as TLS NOT VERIFIED |
 | Oregon | Vote by mail; precincts-reporting stays at 0 while votes come in | Shown as reported; worth replacing with a count or hiding |
 
 ## Still open

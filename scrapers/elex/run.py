@@ -114,7 +114,8 @@ def run(sources: list[Source], fetcher: Fetcher, *, command: str, dry_run=False,
                 r.status = NOT_MODIFIED
             for q in r.requests:
                 log.info(f"  {r.source} GET {q['url']} {q.get('params') or ''} -> {q.get('status')} "
-                         f"{q.get('bytes', 0)}B {q.get('seconds')}s {q.get('error', '')}".rstrip())
+                         f"{q.get('bytes', 0)}B {q.get('seconds')}s {q.get('error', '')}"
+                         f"{' TLS NOT VERIFIED: ' + q['tls_unverified'] if q.get('tls_unverified') else ''}".rstrip())
             log.info(_describe(r), echo=True)
             if r.status in (BLOCKED, ERROR):
                 log.error(f"{r.source}: {r.message}")
