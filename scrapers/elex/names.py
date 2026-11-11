@@ -9,6 +9,10 @@ import unicodedata
 SUFFIXES = {"jr", "sr", "ii", "iii", "iv", "v"}
 TITLES = {"rev", "dr", "hon", "mr", "mrs", "ms"}
 
+# Statewide propositions are numbered ("PROP 1 - ...", "State Proposition 40"); county and city measures are lettered
+# ("Measure A", "Proposition 1A"). A county site's numbered proposition is its share of a statewide vote.
+STATE_PROP = re.compile(r"(?i)\bprop(osition)?\s+\d+\b")
+
 
 def fold(text: str) -> str:
     """Lowercase, strip accents and punctuation: 'Rascón' -> 'rascon', 'Smallwood-Cuevas' -> 'smallwood cuevas'."""

@@ -17,6 +17,14 @@ Text extracted with pdfplumber reads:
 
 A candidate's party lines are combined into one choice with `party_lines`. Precincts reporting is countywide only.
 
+Electionware's "Summary Results Report" (Douglas County NE) is the same idea with one total column and the party after
+the name; titles start with "For" and there's no "Contest Totals" line between contests:
+
+  For Douglas County Attorney / Vote For 1 / TOTAL
+  Makayla Danner (DEM) 116,062
+  Write-In Totals 290
+  Election Summary - 11/11/2026 11:01 AM 3 of 14 / Report generated with Electionware ...
+
 The other layout, "Statement of Votes Cast" (Saratoga NY), is parsed by parse_statement:
 
   Governor/Lt Gov (Vote for 1)
@@ -29,6 +37,7 @@ The other layout, "Statement of Votes Cast" (Saratoga NY), is parsed by parse_st
 """
 import io
 import re
+from urllib.parse import urljoin
 from datetime import datetime
 
 from .. import config, names
@@ -37,6 +46,7 @@ from ..source import NotPublished, Source
 
 _VOTE_FOR = re.compile(r"^Vote For (\d+)$")
 _ROW = re.compile(r"^(?:(?P<party>[A-Z]{2,5}) )?(?P<name>.+?) (?P<votes>[\d,]+) (?P<pct>[\d.]+)%")
+_TOTAL_ROW = re.compile(r"^(?P<name>.+?)(?: \((?P<party>[A-Z]{2,5})\))? (?P<votes>[\d,]+)$")  # Electionware
 _NOT_CANDIDATES = ("write-in", "total votes cast", "overvotes", "undervotes", "contest totals")
 _FOOTER = re.compile(r"^Election Summary - ([\d/]+ [\d:]+ [AP]M)")
 
@@ -57,16 +67,17 @@ def parse(text: str, *, source_id: str, state: str, county: str, whole: frozense
                  if pct else Reporting())
     contests, pending, current = [], [], None
     for line in lines:
-        if line in header or _FOOTER.match(line) or line.startswith(("TOTAL VOTE %", "Day Voting")):
+        if line in header or _FOOTER.match(line) or line == "TOTAL" \
+                or line.startswith(("TOTAL VOTE %", "Day Voting", "Report generated with")):
             continue
         if m := _VOTE_FOR.match(line):
-            title = re.sub(r"\s+", " ", " ".join(pending)).strip()
+            title = re.sub(r"^For ", "", re.sub(r"\s+", " ", " ".join(pending)).strip())
             current = {"title": title, "vote_for": int(m.group(1)), "choices": {}}
             contests.append(current)
             pending = []
             continue
         if current is None:
-            if line.startswith("Statistics"):
+            if line.startswith("Statistics") or re.match(r"(?i)(ballots cast|registered voters|voter turnout)\b", line):
                 pending = []
             elif not re.search(r"\d[\d,]* [\d,]+", line):  # statistics rows carry several numbers; titles one at most
                 pending.append(line)
@@ -74,8 +85,12 @@ def parse(text: str, *, source_id: str, state: str, county: str, whole: frozense
         if line.lower().startswith("contest totals"):
             current, pending = None, []
             continue
-        row = _ROW.match(line)
-        if not row or row.group("name").lower().startswith(_NOT_CANDIDATES):
+        row = _ROW.match(line) or _TOTAL_ROW.match(line)
+        if not row:
+            pending.append(line)  # Electionware: the next contest's title follows without a "Contest Totals" line
+            continue
+        pending = []
+        if row.group("name").lower().startswith(_NOT_CANDIDATES):
             continue
         name, party, votes = row.group("name").strip(), row.group("party"), names.to_int(row.group("votes"))
         choice = current["choices"].setdefault(name, Choice(name, 0, None, choice_id=name, party_lines={}))
@@ -90,6 +105,8 @@ def parse(text: str, *, source_id: str, state: str, county: str, whole: frozense
         title = item["title"]
         is_measure = bool(re.match(r"(?i)(proposal|proposition)\b", title))
         kind = "measure" if is_measure else names.office_type(title)
+        if kind not in ("measure", "judicial") and re.search(r"(?i)\bcounty\b", title):
+            kind = "local"  # "Douglas County Treasurer" isn't the state treasurer
         district = names.measure_id(title) if is_measure else names.district(title)
         complete = (kind in ("local", "judicial") and "supreme court" not in title.lower()) or (kind, district) in whole
         choices = list(item["choices"].values())
@@ -204,7 +221,7 @@ class SummaryPdfSource(Source):
         found = {int(m.group(1)): m.group(0) for m in re.finditer(self.link, page)}
         if not found:
             raise NotPublished(f"no results PDF linked on {self.url}")
-        return found[max(found)]
+        return urljoin(self.url, found[max(found)])
 
     def pull(self, fetch):
         pdf_url = self._find_pdf(fetch)

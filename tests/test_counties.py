@@ -401,3 +401,119 @@ def test_match_prefers_the_counted_copy_of_a_race():
            "office_category": "Local Office", "state_code": "OR", "county": "Multnomah", "position": ""}
     m = match.match_one(row, [race("or", 0), race("or.multnomah", 14403)])
     assert m.status == "auto" and m.contest.source == "or.multnomah"
+
+
+def test_alameda_page_first_choice_rcv_and_shares():
+    from elex.counties.ca import parse_alameda
+    page = """<h1>General Election - November 03, 2026</h1>
+<span>Last Updated: Monday, November 09, 2026; 4:59 PM</span>
+<!-- Start CATEGORY:State -->
+<button><h3 class="racePanelHeading">State Assembly, 18th District</h3></button><div class="panelDtl">
+<div class="reported col-md-6">112 of 112 Precincts Partially Reported from Vote Centers (100.00% )</div>
+<TR><TH class="resultsRow text-left" scope="row">Mia Bonta</TH><TD class="text-right" >115,080</TD><TD>78 %</TD></TR>
+</div><!-- End panelDtl State Assembly, 18th District -->
+<!-- Start CATEGORY:City -->
+<button><h4 class="racePanelHeading">Mayor - Oakland (RCV)</h4></button><div class="panelDtl">
+<div class="reported col-md-6">109 of 109 Precincts Partially Reported from Vote Centers (100.00% )</div>
+<div class="votefor col-md-6">Vote for One (1) Only </div>
+<TR><TH class="resultsRow text-left" scope="row">Barbara Lee</TH><TD class="text-right" >119,834</TD><TD>85.36 %</TD></TR>
+<TR><TH class="resultsRow text-left" scope="row">Julius Robinson</TH><TD class="text-right" >8,435</TD><TD>6.01 %</TD></TR>
+</div><!-- End panelDtl Mayor - Oakland (RCV) -->"""
+    assembly, mayor = parse_alameda(page)
+    assert (assembly.office_type, assembly.district, assembly.scope) == ("state_house", "18", "partial")
+    assert mayor.title == "Mayor - Oakland (RCV, first-choice votes)" and mayor.scope == "complete"
+    assert [(c.name, c.votes) for c in mayor.choices] == [("Barbara Lee", 119834), ("Julius Robinson", 8435)]
+    assert mayor.feed_updated_at == "2026-11-09T16:59:00-08:00"
+
+
+def test_santa_cruz_page_measures_and_names():
+    from elex.counties.ca import parse_santa_cruz
+
+    def race(n, title, rows):
+        cells = "".join(f'<div class="elec-num">{a}</div><div class="elec-num"></div><div class="elec-num">{b}</div>'
+                        for a, b in rows)
+        return (f'<div class="card-header" id="NameRace_{n}"><a>{title} (Vote for  1)  <br></a></div>'
+                f'<!-- Candidate Data Loop start -->{cells}<!-- Candidate Data Loop End -->')
+    page = ('<div class="electionTimeStamp">11/10/2026 4:30:00 PM</div>'
+            + race(1, "Pajaro Valley Unified School District Governing Board Member - Trustee Area 4",
+                   [("ERIBERTO ESTRADA, IV ", "2057 (69.52%)"), ("Write-in ", "19 (0.64%)")])
+            + race(2, "40 - Imposes One-time Tax On Certain Individuals And Trusts", [("Yes", "10 (50%)"), ("No", "10 (50%)")])
+            + race(3, "E - Sales Tax - Majority to Pass", [("Yes", "65389 (59%)"), ("No", "44528 (41%)")]))
+    board, prop, measure = parse_santa_cruz(page)
+    assert board.district == "4" and board.choices[0].name == "ERIBERTO ESTRADA IV"
+    assert (prop.office_type, prop.district, prop.scope) == ("measure", "40", "partial")
+    assert (measure.district, measure.scope) == ("e", "complete")
+
+
+def test_hart_verity_cumulative_report():
+    from elex.platforms import hart_verity
+
+    def table(*rows):
+        return "".join("<tr>" + "".join(f"<td>{c}</td>" for c in row) + "</tr>" for row in rows)
+    head = ('<meta content="11/9/2026 5:35:42 PM" name="ReportGeneratedDate"/>'
+            '<meta content="11/3/2026 12:00:00 AM" name="ElectionDate"/>')
+    block = lambda title, rows: table([title], ["Precincts"], ["Counted"], ["Total"], ["Percent"], ["14"], ["14"],
+                                      ["100.00%"], ["Choice"], ["Party"], ["Vote Center", "Vote By Mail", "Total"],
+                                      *rows, ["Cast Votes:"], ["640"])
+    page = head + block("City of Modesto Member, City Council - District 2 - Vote for ONE",
+                        [["JUAN TELLES", "291", "45.47%", "1,417", "39.50%", "1,708", "40.41%"],
+                         ["ERIC E. ALVAREZ", "292", "45.63%", "1,877", "52.33%", "2,169", "51.31%"]]) \
+        + block("Proposition 40", [["YES", "1", "50%", "2", "50%", "3", "50%"], ["NO", "1", "50%", "2", "50%", "3", "50%"]])
+    council, prop = hart_verity.parse(page, source_id="ca.stanislaus", state="CA", county="Stanislaus")
+    assert (council.district, council.scope, council.reporting.units_total) == ("2", "complete", 14)
+    assert [(c.name, c.votes) for c in council.choices] == [("JUAN TELLES", 1708), ("ERIC E. ALVAREZ", 2169)]
+    assert (prop.office_type, prop.district, prop.scope, prop.choices[0].name) == ("measure", "40", "partial", "Yes")
+
+
+def test_santa_barbara_summary_report_wrapped_titles_and_names():
+    from elex.counties.ca import parse_santa_barbara
+    lines = ["Election Summary Report", "November 3, 2026 General Election", "Cards Cast: 273,237",
+             "Governor (Vote for 1)", "Precincts", "Reported: 235 of 235 (100.00%)", "Poll", "Mail", "Total",
+             "Candidate", "Poll", "Mail", "Total", "XAVIER", "BECERRA", "8,837", "80,721", "89,558", "66.21%",
+             "City of Santa Barbara Member City Council", "Dist 4 (Vote for 1)", "Precincts",
+             "Reported: 12 of 12 (100.00%)", "Candidate", "Poll", "Mail", "Total", "DEVON WARDLOW", "1", "3,663",
+             "3,664", "50.00%", "Write-in", "0", "9", "9", "0.41%", "Poll", "Mail", "Total", "Unqualified", "Write-In",
+             "WRITE-IN", "0", "9", "9", "0.41%",
+             "Measure C2026 City Of Santa Maria General", "Services (Vote for 1)", "Precincts",
+             "Reported: 43 of 43 (100.00%)", "Candidate", "Poll", "Mail", "Total", "YES", "1", "2", "3", "60.00%"]
+    gov, council, measure = parse_santa_barbara("".join(f"<p>{x}</p>" for x in lines))
+    assert (gov.title, gov.scope, gov.choices[0].name, gov.choices[0].votes) == ("Governor", "partial", "XAVIER BECERRA", 89558)
+    assert (council.title, council.district, council.reporting.units_total) == \
+        ("City of Santa Barbara Member City Council Dist 4", "4", 12)
+    assert [c.name for c in council.choices] == ["DEVON WARDLOW"]
+    assert (measure.district, measure.choices[0].name) == ("c", "Yes")
+
+
+def test_summary_pdf_electionware_layout():
+    from elex.platforms import summary_pdf
+    text = """Summary Results Report UNOFFICIAL RESULTS
+2026 General Election
+November 3, 2026 Douglas County, Nebraska
+Statistics TOTAL
+Ballots Cast - Total 224,766
+For Douglas County Attorney
+Vote For 1
+TOTAL
+Donald W. Kleine (REP) 102,542
+Makayla Danner (DEM) 116,062
+Write-In Totals 290
+For Douglas County Treasurer
+Vote For 1
+TOTAL
+Tony Vargas (DEM) 155,493
+Election Summary - 11/11/2026 11:01 AM 3 of 14
+Report generated with Electionware Copyright © 2007-2020
+Summary Results Report UNOFFICIAL RESULTS
+2026 General Election
+November 3, 2026 Douglas County, Nebraska
+For Legislature District Four
+Vote For 1
+TOTAL
+Cindy Maxwell-Ostdiek 9,187
+"""
+    attorney, treasurer, legislature = summary_pdf.parse(text, source_id="ne.douglas", state="NE", county="Douglas")
+    assert attorney.title == "Douglas County Attorney" and attorney.scope == "complete"
+    assert [(c.name, c.votes, c.party) for c in attorney.choices] == [("Donald W. Kleine", 102542, "REP"),
+                                                                       ("Makayla Danner", 116062, "DEM")]
+    assert (treasurer.office_type, treasurer.scope) == ("local", "complete")
+    assert legislature.title == "Legislature District Four" and legislature.scope == "partial"

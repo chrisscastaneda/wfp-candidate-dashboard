@@ -4,18 +4,20 @@ SOURCES here.
 from . import combine
 from .counties import ca as ca_counties
 from .counties import mi as mi_counties
+from .counties import ne as ne_counties
 from .counties import ny as ny_counties
 from .counties import or_ as or_counties
 from .counties import wi as wi_counties
 from .source import Source
-from .states import (ca, clarity_states, ct, dc, de, enhanced_voting_states, fl, manual, md, nc, oh, or_, pa,
+from .states import (ca, clarity_states, ct, dc, de, enhanced_voting_states, fl, la, manual, md, mn, nc, oh, or_, pa,
                      results_csv_states, sc)
 
 ALL: list[Source] = [
     *ca.SOURCES, *pa.SOURCES, *nc.SOURCES, *enhanced_voting_states.SOURCES, *results_csv_states.SOURCES,
     *clarity_states.SOURCES, *fl.SOURCES, *sc.SOURCES, *ct.SOURCES, *or_.SOURCES, *oh.SOURCES, *de.SOURCES, *md.SOURCES,
-    *dc.SOURCES,
+    *dc.SOURCES, *mn.SOURCES, *la.SOURCES,
     *ca_counties.SOURCES, *ny_counties.SOURCES, *or_counties.SOURCES, *wi_counties.SOURCES, *mi_counties.SOURCES,
+    *ne_counties.SOURCES,
     *manual.SOURCES, *combine.SOURCES,
 ]
 

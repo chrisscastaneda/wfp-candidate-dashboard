@@ -1440,12 +1440,52 @@
    ],
    "url": "https://michigan.totalvote.com/Wayne",
    "uncontested": false
+  },
+  {
+   "source": "manual",
+   "contest_id": "ne.lancaster.county-attorney",
+   "state": "NE",
+   "title": "Lancaster County Attorney",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "NE",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-06T15:10:00-06:00",
+   "choices": [
+    {
+     "name": "Randall Ritnour",
+     "votes": 66454,
+     "party": "DEM",
+     "pct": 54.0,
+     "choice_id": "Randall Ritnour",
+     "party_lines": null
+    },
+    {
+     "name": "Pat Condon",
+     "votes": 56618,
+     "party": "REP",
+     "pct": 46.0,
+     "choice_id": "Pat Condon",
+     "party_lines": null
+    }
+   ],
+   "url": "https://www.lancaster.ne.gov/DocumentCenter/View/34204",
+   "uncontested": false
   }
  ],
- "contests_hash": "664af0545357d22b",
+ "contests_hash": "674041ad27fe6f39",
  "status": "ok",
  "message": "",
- "last_attempt_at": "2026-11-11T15:56:59+00:00",
- "fetched_at": "2026-11-11T15:56:59+00:00",
- "contests_changed_at": "2026-11-05T04:06:39+00:00"
+ "last_attempt_at": "2026-11-11T19:16:51+00:00",
+ "fetched_at": "2026-11-11T19:16:51+00:00",
+ "contests_changed_at": "2026-11-11T19:16:51+00:00"
 }

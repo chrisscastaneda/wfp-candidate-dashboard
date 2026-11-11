@@ -50,6 +50,9 @@ See also [election-results-scraper-plan.md](election-results-scraper-plan.md) (d
 | Nov 9, 2:04pm | 1,019 | 822 | (none new; 159 counts changed) |
 | Nov 9, 11:02pm | 1,019 | 825 | (none new; 347 counts changed; first races final) |
 | Nov 11, 10:55am | 1,019 | 828 | (none new; back in the US; Delaware certified) |
+| Nov 11, 2:05pm | 1,058 | 859 | Alameda, Santa Barbara, Santa Cruz, Stanislaus, Solano, Sacramento (CA; new sources); California props matched |
+| Nov 11, 2:14pm | 1,063 | 862 | Minnesota, Louisiana, Douglas County NE (new sources) |
+| Nov 11, 2:25pm | 1,064 | 863 | Lancaster County NE (entered by hand) |
 
 Still missing at 10:55am Nov 11: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
 
@@ -704,6 +707,93 @@ Fixes made while building:
   behind; Steven Kung (Monterey Park) still 4 behind; Sean Frame (CA SD-6) 3,298 behind (was 5,171).
 - Widening: Jessie Lopez (CA AD-68) +4,126, Kenneth Zuniga (Vista mayor) +674, Marie Tsaasan +119.
 
+### Nov 11, 2:05pm: California props and six more counties
+
+- **California's 13 statewide props now match.** Ten were stuck because the Contra Costa, Santa Clara, Sonoma and
+  Ventura Clarity sources marked their county counts of statewide props as complete, so each prop number matched four
+  or five "complete" contests. Clarity county sites now mark numbered propositions partial (local measures are
+  lettered), using the same rule as Live Voter Turnout (`names.STATE_PROP`). The matcher also now prefers the state's
+  own contest when a statewide measure number turns up in county sources too.
+- Standing: WFP's side leads on 10 of 13. Prop 40 (billionaire tax) Yes is at 47.4%, Prop 4 (public financing)
+  Yes at 49.7%, and Prop 42 (poison pill) No at 48.5%.
+- **Six California counties added** (29 races; 39 more races with results overall):
+  - Alameda (15): one server-rendered page (`alamedacountyca.gov/rovresults/<n>/`, linked from acvote). Ranked-choice
+    contests in Oakland and Berkeley show first choices only and say "(RCV, first-choice votes)".
+  - Santa Barbara (7): an "Election Summary Report" saved from Word (`sbcvote.com/Elections/results/2026nov03/
+    results-1.htm`); the county page links it by script, so the address is built from the election date.
+  - Santa Cruz (2): one server-rendered page.
+  - Stanislaus (3): a Hart Verity "Cumulative Results Report" (new platform module `platforms/hart_verity.py`).
+  - Solano (1): Live Voter Turnout, election 21 (the registrar still links 2024's page, 18).
+  - Sacramento (1): Enhanced Voting at `results.saccounty.gov`.
+- WFP lists Daria Wrubel and Moni Gangopadhyay for Berkeley District 4; the county has both in District 1 (Tregub and
+  Abuhamdieh are District 4). Matched to District 1.
+- Confirmed by hand: Michelle Fernellius (county: "Fernelius"), Carla Meade (county: "Mead"), Ricardo Valencia (Santa
+  Barbara supervisor, 5th District).
+- Justin Cummings (Santa Cruz supervisor D3) won unopposed in the June primary; marked not on the Nov 3 ballot.
+- Trailing among the new races: Juan Telles (Modesto D2) 40.4% to 51.3%, Ami Chen Mills (Santa Cruz mayor) 46.2%,
+  Seema Badar (Dublin USD Area 5) 38.6%, Jeanette Reyes (Riverbank D1) 25.3%, Moni Gangopadhyay (Berkeley D1, first
+  choices) 15.9%. Barbara Lee leads Oakland mayor with 85.4% of first choices.
+- Fixes made while building:
+  - Alameda uses `<h3>` race headings in most sections and `<h4>` under City; the parser takes either (it first
+    found 44 of 144 contests). The turnout panels are skipped.
+  - Supreme Court and Court of Appeal retention votes ("2nd App Dist" in Santa Barbara) are marked partial in all
+    four new county parsers, like statewide and district offices.
+  - Santa Cruz's retention votes have Yes/No choices, so measures are recognized by title ("40 - ...", "E - ...")
+    rather than by their choices.
+  - Santa Barbara's report runs straight from one contest's last candidate into the next title when there's no
+    write-in table; those lines start the next title instead of being read as a candidate name.
+- Code: `counties/ca.py` (Alameda, Santa Cruz, Santa Barbara parsers; Solano, Sacramento, Stanislaus configs),
+  `platforms/hart_verity.py` (new), `names.STATE_PROP` (shared by `platforms/clarity.py` and
+  `platforms/livevoterturnout.py`), `match.py` (statewide measures prefer the state's contest unless WFP's name
+  points to a place). The four Clarity counties were re-pulled so their stored props carry the new scope.
+- Data: `results_sources.csv` has the new endpoints and platforms for the six counties' 30 rows, and Cummings's row
+  set to `nov3_ballot=no`; `matches.csv` has the three confirmations.
+- Tests: county parser tests for Alameda, Santa Cruz, Hart Verity and Santa Barbara; a Clarity test for
+  proposition scope; a matcher test for statewide measures (69 pass).
+
+### Nov 11, 2:14pm: Nebraska, Minnesota, Louisiana and Arkansas
+
+- **Douglas County NE** (`ne.douglas`): numbered Electionware "Summary Results Report" PDFs
+  (`votedouglascounty-ne.gov/meer/26GNResults<n>.pdf`; 8 so far, the highest is newest). The summary-PDF parser
+  now reads this layout too (party after the name, one total column, titles starting "For"), and county offices
+  like "Douglas County Treasurer" are filed as local instead of matching the state office. Makayla Danner (county
+  attorney) leads 53.1%; Mark Martinez (sheriff) 54.8%.
+- **Lancaster County NE** has no source: lancaster.ne.gov returns 403 to scripts, and its reports are PDFs served as
+  downloads. Entered by hand at 2:25pm (below).
+- **Minnesota** (`mn`): the Secretary of State's semicolon-delimited county races file
+  (`electionresultsfiles.sos.mn.gov/20261103/cntyRaces.txt`; county codes are alphabetical). Cedrick Frazier
+  (Hennepin County Attorney) leads 50.6% to 48.9%; Jeffrey Sheridan (Dakota) trails 42.7% to 56.8%. Both 100% of
+  precincts.
+- **Louisiana** (`la`): the voter portal's JSON blobs (`RacesCandidates_Multiparish.htm` and `Votes_Multiparish.htm`
+  under the date folder) hold every federal, state and judicial race, including Orleans's courts. Simone Levine
+  (Criminal District Court, Section D) trails Kimya Holmes, 42.1%.
+- **Arkansas:** Bobby Forrest Jr.'s race (District 6 prosecuting attorney) isn't on the Nov 3 ballot. Arkansas
+  elects prosecutors in the March nonpartisan election with November runoffs only, and the Nov 3 list has just
+  District 11-West. Marked not on the ballot.
+- Fixes made while building:
+  - The summary-PDF parser now collects a title's lines even inside the report (Electionware has no "Contest
+    Totals" line between contests), skips "TOTAL" and "Report generated with ..." lines, and drops the "Ballots Cast"
+    statistics line that was being folded into the first title.
+  - Numbered PDF links found on a page are resolved against the page address (Douglas links them relatively).
+  - Minnesota's offices already start with "County" ("County Attorney"), so titles read "Hennepin County Attorney".
+- Code: `counties/ne.py` (new), `states/mn.py` (new), `states/la.py` (new), `platforms/summary_pdf.py`,
+  `registry.py`.
+- Data: `results_sources.csv` rows for Danner, Martinez, Ritnour, Sheridan, Frazier, Levine (endpoints) and Forrest
+  (`nov3_ballot=no`).
+- Tests: Minnesota file, Louisiana blobs and the Electionware PDF layout (72 pass).
+
+### Nov 11, 2:25pm: Lancaster County NE by hand
+
+- With Chris's OK to download the report, the Nov 6 3:10pm Summary Results Report
+  (`lancaster.ne.gov/DocumentCenter/View/34204`, an Electionware PDF) was opened in the browser and its text read
+  there. Randall Ritnour (county attorney) leads Pat Condon 66,454 to 56,618 (54.0%), all 199 precincts plus early
+  votes received through Nov 3.
+- Entered in `manual_entries.csv` as `ne.lancaster.county-attorney`. About 3,000 provisional and 1,700 resolution
+  ballots are counted Nov 13; re-enter after that.
+- 1,064 races with results, WFP leading 863.
+
+---
+
 ## Feed quirks worth remembering
 
 | Source | Quirk | How it's handled |
@@ -747,6 +837,17 @@ Fixes made while building:
 | Nassau County (NY) | From ~Nov 10 the results page has no text (vector shapes) | Reported as an error; election-night results kept |
 | Florida results file host | Expired TLS certificate (Nov 11) | Certificate check skipped for that host only (approved Nov 11); logged as TLS NOT VERIFIED |
 | Oregon | Vote by mail; precincts-reporting stays at 0 while votes come in | Shown as reported; worth replacing with a count or hiding |
+| California Clarity counties | Statewide props carried as the county's own complete contests | Numbered propositions marked partial; matcher prefers the state's contest |
+| Alameda County (CA) | Ranked-choice rounds on a separate script-driven page | First choices read; title says "(RCV, first-choice votes)" |
+| Santa Barbara County (CA) | Report saved from Word; titles and names wrap across cells; link added by script | Text lines joined; address built from the election date |
+| Solano County (CA) | Registrar page still links the 2024 results (Live Voter Turnout 18) | Source points at election 21 |
+| Stanislaus County (CA) | Hart Verity report: one big table, every cell its own row | Rows flattened; choices read after the "Vote Center / Vote By Mail / Total" header |
+| Nebraska SoS | No county offices on the state site | Douglas from its county PDFs; Lancaster by hand |
+| Douglas County (NE) | Electionware PDFs numbered per count, linked relatively | Highest number taken; link resolved against the page |
+| Lancaster County (NE) | 403 to scripts; reports served as file downloads | Read in the browser and entered by hand |
+| Minnesota SoS | County races file has county codes, not names | Codes are alphabetical (19 Dakota, 27 Hennepin) |
+| Louisiana SoS | Results in JSON "blobs"; single-parish courts are in the multiparish file | Multiparish races and votes read; parish files not needed yet |
+| Arkansas | Prosecutors elected in March; November only for runoffs | District 6 marked not on the Nov 3 ballot |
 
 ## Still open
 
@@ -757,15 +858,16 @@ Fixes made while building:
 - Michigan: 17 of 19 races. The statewide and district races are hand-entered (state's 82 counties plus Wayne) and
   need re-entering once the state adds Wayne. The two Bay City Commission races aren't on Bay County's report.
 - Kentucky and Maine have no source; they need manual entries.
+- Lancaster County NE (Randall Ritnour) is hand-entered from the Nov 6 report; re-enter after the Nov 13 count.
 - Massachusetts is entered by hand (AP as of about 7–10am Nov 4) and only updates when re-entered; Q5 and the
   3rd Barnstable race are close.
 - DC's ranked-choice rounds: re-check after DCBOE posts them and drop the "(first-choice votes)" label then.
 - Milwaukee's six races only update when re-entered by hand.
 - New York counties still without a source: Onondaga (21; ongov.net doesn't answer scripts, and it isn't on Enhanced
   Voting), Niagara (11; `ny.votereporting.com` returns 403), Albany (5), Saratoga (3) and single races elsewhere.
-- California counties still without a source: Alameda (15), San Francisco (13, blocked), Riverside (11, blocked),
-  Santa Barbara (7), Kern (5), Fresno and Tulare (4 each), Santa Cruz and Stanislaus (3 each).
-- Eight California propositions stay in review: several county sources carry their own share, and the state API's
-  copy doesn't match on its own.
+- California counties still without a source: San Francisco (13), Riverside (11), Kern (5), Fresno and Tulare (4
+  each). All block scripts (still 403 from the US on Nov 11), so these need entering by hand.
+- Alameda's ranked-choice tabulation (Oakland, Berkeley) is a script-driven page; only first choices are read. Worth
+  re-checking the Berkeley District 1 and Oakland school races once rounds are posted.
 - New York districts are summed from county shares (`ny.counties`); 30 WFP district races still lack a county source,
   all because of small rural counties with no readable results (Otsego, Washington, Cayuga, Delaware ...). Wisconsin could reuse `combine.py` with its own mapping.

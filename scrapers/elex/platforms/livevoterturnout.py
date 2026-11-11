@@ -33,8 +33,6 @@ _GROUP = re.compile(r'<div id="listid_(\d+)" data-group="\d+".*?aria-label="Cont
 _STATEWIDE = {"governor", "lt_governor", "secretary_of_state", "controller", "treasurer", "attorney_general",
               "insurance_commissioner", "superintendent"}
 _DISTRICT = {"federal_senate", "federal_house", "state_senate", "state_house", "board_of_equalization"}
-# State propositions are numbered ("PROP 1 - ...", "San Bernardino County PROPOSITION 1"); local measures are lettered.
-_STATE_PROP = re.compile(r"(?i)\bprop(osition)?\s+\d+\b")
 _PARTY_SUFFIX = re.compile(r"\s*\((DEM|REP|LIB|GRN|PF|AI|NPP)\)\s*$")
 
 
@@ -76,7 +74,7 @@ def parse(page: str, *, source_id: str, state: str, jurisdiction: str) -> list[C
             district=(names.measure_id(title) or names.fold(title)[:60]) if is_measure else names.district(title),
             # State propositions are listed with local measures; the county's copy is only its share.
             jurisdiction=jurisdiction, vote_for=vote_for,
-            scope="partial" if share or _STATE_PROP.search(title) else "complete",
+            scope="partial" if share or names.STATE_PROP.search(title) else "complete",
             reporting=Reporting(),
             choices=[_choice(n, votes.get((race, cid), 0), cid, is_measure) for cid, n in rows])
         contest.fill_percentages()

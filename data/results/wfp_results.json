@@ -1,7 +1,7 @@
 {
  "election_date": "2026-11-03",
- "generated_at": "2026-11-11T16:03:12+00:00",
- "run_id": "20261111T160310Z",
+ "generated_at": "2026-11-11T19:16:53+00:00",
+ "run_id": "20261111T191651Z",
  "sources": {
   "az": {
    "status": "ok",
@@ -15,10 +15,16 @@
    "contests_changed_at": "2026-11-11T15:55:24+00:00",
    "message": null
   },
+  "ca.alameda": {
+   "status": "ok",
+   "fetched_at": "2026-11-11T19:03:22+00:00",
+   "contests_changed_at": "2026-11-11T19:03:22+00:00",
+   "message": null
+  },
   "ca.contra_costa": {
    "status": "ok",
-   "fetched_at": "2026-11-11T15:55:49+00:00",
-   "contests_changed_at": "2026-11-11T15:55:49+00:00",
+   "fetched_at": "2026-11-11T18:55:20+00:00",
+   "contests_changed_at": "2026-11-11T18:55:20+00:00",
    "message": null
   },
   "ca.los_angeles": {
@@ -39,6 +45,12 @@
    "contests_changed_at": "2026-11-11T15:55:47+00:00",
    "message": null
   },
+  "ca.sacramento": {
+   "status": "ok",
+   "fetched_at": "2026-11-11T19:03:22+00:00",
+   "contests_changed_at": "2026-11-11T19:03:22+00:00",
+   "message": null
+  },
   "ca.san_bernardino": {
    "status": "ok",
    "fetched_at": "2026-11-11T15:55:49+00:00",
@@ -57,22 +69,46 @@
    "contests_changed_at": "2026-11-10T04:02:03+00:00",
    "message": null
   },
+  "ca.santa_barbara": {
+   "status": "ok",
+   "fetched_at": "2026-11-11T19:03:22+00:00",
+   "contests_changed_at": "2026-11-11T19:03:22+00:00",
+   "message": null
+  },
   "ca.santa_clara": {
    "status": "ok",
-   "fetched_at": "2026-11-11T15:55:49+00:00",
-   "contests_changed_at": "2026-11-11T15:55:49+00:00",
+   "fetched_at": "2026-11-11T18:55:20+00:00",
+   "contests_changed_at": "2026-11-11T18:55:20+00:00",
+   "message": null
+  },
+  "ca.santa_cruz": {
+   "status": "ok",
+   "fetched_at": "2026-11-11T19:03:22+00:00",
+   "contests_changed_at": "2026-11-11T19:03:22+00:00",
+   "message": null
+  },
+  "ca.solano": {
+   "status": "ok",
+   "fetched_at": "2026-11-11T19:03:22+00:00",
+   "contests_changed_at": "2026-11-11T19:03:22+00:00",
    "message": null
   },
   "ca.sonoma": {
    "status": "ok",
-   "fetched_at": "2026-11-11T15:55:50+00:00",
-   "contests_changed_at": "2026-11-10T04:02:05+00:00",
+   "fetched_at": "2026-11-11T18:55:20+00:00",
+   "contests_changed_at": "2026-11-11T18:55:20+00:00",
+   "message": null
+  },
+  "ca.stanislaus": {
+   "status": "ok",
+   "fetched_at": "2026-11-11T19:03:22+00:00",
+   "contests_changed_at": "2026-11-11T19:03:22+00:00",
    "message": null
   },
   "ca.ventura": {
    "status": "ok",
-   "fetched_at": "2026-11-11T15:55:51+00:00",
-   "contests_changed_at": "2026-11-10T04:02:06+00:00",
+   "fetched_at": "2026-11-11T18:55:20+00:00",
+   "contests_changed_at": "2026-11-11T18:55:20+00:00",
    "message": null
   },
   "co": {
@@ -111,10 +147,16 @@
    "contests_changed_at": "2026-11-11T15:55:24+00:00",
    "message": null
   },
+  "la": {
+   "status": "ok",
+   "fetched_at": "2026-11-11T19:14:28+00:00",
+   "contests_changed_at": "2026-11-11T19:14:28+00:00",
+   "message": null
+  },
   "manual": {
    "status": "ok",
-   "fetched_at": "2026-11-11T15:56:59+00:00",
-   "contests_changed_at": "2026-11-05T04:06:39+00:00",
+   "fetched_at": "2026-11-11T19:16:51+00:00",
+   "contests_changed_at": "2026-11-11T19:16:51+00:00",
    "message": null
   },
   "md": {
@@ -135,6 +177,12 @@
    "contests_changed_at": "2026-11-07T15:30:47+00:00",
    "message": null
   },
+  "mn": {
+   "status": "ok",
+   "fetched_at": "2026-11-11T19:14:28+00:00",
+   "contests_changed_at": "2026-11-11T19:14:28+00:00",
+   "message": null
+  },
   "nc": {
    "status": "ok",
    "fetched_at": "2026-11-11T15:55:24+00:00",
@@ -145,6 +193,12 @@
    "status": "ok",
    "fetched_at": "2026-11-11T15:55:26+00:00",
    "contests_changed_at": "2026-11-07T15:29:25+00:00",
+   "message": null
+  },
+  "ne.douglas": {
+   "status": "ok",
+   "fetched_at": "2026-11-11T19:14:28+00:00",
+   "contests_changed_at": "2026-11-11T19:14:28+00:00",
    "message": null
   },
   "nj.hudson": {
@@ -209,7 +263,7 @@
   },
   "ny.counties": {
    "status": "ok",
-   "fetched_at": "2026-11-11T16:03:11+00:00",
+   "fetched_at": "2026-11-11T19:16:51+00:00",
    "contests_changed_at": "2026-11-11T15:58:24+00:00",
    "message": null
   },
@@ -1246,9 +1300,9 @@
   },
   "17": {
    "name": "Bobby Forrest Jr.",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source covers AR yet"
+   "status": "not_on_ballot",
+   "match_status": "not_on_ballot",
+   "note": "Prosecuting attorney races are on Arkansas's March nonpartisan ballot with November runoffs only; District 6 isn't on the Nov 3 ballot (only 11-West is)."
   },
   "18": {
    "name": "Tamisha Torres Walker",
@@ -1264,7 +1318,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-11T15:55:49+00:00",
+   "updated_at": "2026-11-11T18:55:20+00:00",
    "wfp_choice": "TAMISHA TORRES-WALKER",
    "wfp_leading": false,
    "choices": [
@@ -1298,7 +1352,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-11T15:55:49+00:00",
+   "updated_at": "2026-11-11T18:55:20+00:00",
    "wfp_choice": "MONICA E WILSON",
    "wfp_leading": true,
    "choices": [
@@ -1346,7 +1400,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-11T15:55:49+00:00",
+   "updated_at": "2026-11-11T18:55:20+00:00",
    "wfp_choice": "BRANDON DAWKINS",
    "wfp_leading": false,
    "choices": [
@@ -1368,51 +1422,457 @@
   },
   "21": {
    "name": "Daria Wrubel",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source carries Alameda local races yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca.alameda",
+   "source_name": "Alameda County Registrar of Voters",
+   "source_url": "https://alamedacountyca.gov/rovresults/260/",
+   "contest": "Member, City Council, District 1 - Berkeley (RCV, first-choice votes)",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": "3 of 3 Precincts Partially Reported from Vote Centers (100.00% )"
+   },
+   "updated_at": "2026-11-09T16:59:00-08:00",
+   "wfp_choice": "Daria Wrubel",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Daria Wrubel",
+     "party": null,
+     "votes": 1835,
+     "pct": 26.34,
+     "is_wfp": true
+    },
+    {
+     "name": "Laura Babitt",
+     "party": null,
+     "votes": 1761,
+     "pct": 25.28,
+     "is_wfp": false
+    },
+    {
+     "name": "Ross Bernet",
+     "party": null,
+     "votes": 1689,
+     "pct": 24.25,
+     "is_wfp": false
+    },
+    {
+     "name": "Moni Gangopadhyay",
+     "party": null,
+     "votes": 1110,
+     "pct": 15.93,
+     "is_wfp": false
+    },
+    {
+     "name": "Steve Kromer",
+     "party": null,
+     "votes": 571,
+     "pct": 8.2,
+     "is_wfp": false
+    }
+   ]
   },
   "22": {
    "name": "Moni Gangopadhyay",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source carries Alameda local races yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca.alameda",
+   "source_name": "Alameda County Registrar of Voters",
+   "source_url": "https://alamedacountyca.gov/rovresults/260/",
+   "contest": "Member, City Council, District 1 - Berkeley (RCV, first-choice votes)",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": "3 of 3 Precincts Partially Reported from Vote Centers (100.00% )"
+   },
+   "updated_at": "2026-11-09T16:59:00-08:00",
+   "wfp_choice": "Moni Gangopadhyay",
+   "wfp_leading": false,
+   "choices": [
+    {
+     "name": "Daria Wrubel",
+     "party": null,
+     "votes": 1835,
+     "pct": 26.34,
+     "is_wfp": false
+    },
+    {
+     "name": "Laura Babitt",
+     "party": null,
+     "votes": 1761,
+     "pct": 25.28,
+     "is_wfp": false
+    },
+    {
+     "name": "Ross Bernet",
+     "party": null,
+     "votes": 1689,
+     "pct": 24.25,
+     "is_wfp": false
+    },
+    {
+     "name": "Moni Gangopadhyay",
+     "party": null,
+     "votes": 1110,
+     "pct": 15.93,
+     "is_wfp": true
+    },
+    {
+     "name": "Steve Kromer",
+     "party": null,
+     "votes": 571,
+     "pct": 8.2,
+     "is_wfp": false
+    }
+   ]
   },
   "23": {
    "name": "Syrak Micael",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source carries Alameda local races yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca.alameda",
+   "source_name": "Alameda County Registrar of Voters",
+   "source_url": "https://alamedacountyca.gov/rovresults/260/",
+   "contest": "Member, City Council, District 7 - Berkeley (RCV, first-choice votes)",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": "3 of 3 Precincts Partially Reported from Vote Centers (100.00% )"
+   },
+   "updated_at": "2026-11-09T16:59:00-08:00",
+   "wfp_choice": "Syrak Micael",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Syrak Micael",
+     "party": null,
+     "votes": 663,
+     "pct": 68.35,
+     "is_wfp": true
+    },
+    {
+     "name": "Aidan Hill",
+     "party": null,
+     "votes": 307,
+     "pct": 31.65,
+     "is_wfp": false
+    }
+   ]
   },
   "24": {
    "name": "Avery Arbaugh",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source carries Alameda local races yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca.alameda",
+   "source_name": "Alameda County Registrar of Voters",
+   "source_url": "https://alamedacountyca.gov/rovresults/260/",
+   "contest": "Rent Stabilization Board Commissioners - Berkeley",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": "31 of 31 Precincts Partially Reported from Vote Centers (100.00% )"
+   },
+   "updated_at": "2026-11-09T16:59:00-08:00",
+   "wfp_choice": "Avery Arbaugh",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Ida Martinac",
+     "party": null,
+     "votes": 26877,
+     "pct": 18.61,
+     "is_wfp": false
+    },
+    {
+     "name": "Avery Arbaugh",
+     "party": null,
+     "votes": 26038,
+     "pct": 18.03,
+     "is_wfp": true
+    },
+    {
+     "name": "Nathan Mizell",
+     "party": null,
+     "votes": 25750,
+     "pct": 17.83,
+     "is_wfp": false
+    },
+    {
+     "name": "Vylma Ortiz",
+     "party": null,
+     "votes": 25666,
+     "pct": 17.77,
+     "is_wfp": false
+    },
+    {
+     "name": "Derek Rodriguez",
+     "party": null,
+     "votes": 20220,
+     "pct": 14.0,
+     "is_wfp": false
+    },
+    {
+     "name": "Carole Marasovic",
+     "party": null,
+     "votes": 19888,
+     "pct": 13.77,
+     "is_wfp": false
+    }
+   ]
   },
   "25": {
    "name": "Derek Rodriguez",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source carries Alameda local races yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca.alameda",
+   "source_name": "Alameda County Registrar of Voters",
+   "source_url": "https://alamedacountyca.gov/rovresults/260/",
+   "contest": "Rent Stabilization Board Commissioners - Berkeley",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": "31 of 31 Precincts Partially Reported from Vote Centers (100.00% )"
+   },
+   "updated_at": "2026-11-09T16:59:00-08:00",
+   "wfp_choice": "Derek Rodriguez",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Ida Martinac",
+     "party": null,
+     "votes": 26877,
+     "pct": 18.61,
+     "is_wfp": false
+    },
+    {
+     "name": "Avery Arbaugh",
+     "party": null,
+     "votes": 26038,
+     "pct": 18.03,
+     "is_wfp": false
+    },
+    {
+     "name": "Nathan Mizell",
+     "party": null,
+     "votes": 25750,
+     "pct": 17.83,
+     "is_wfp": false
+    },
+    {
+     "name": "Vylma Ortiz",
+     "party": null,
+     "votes": 25666,
+     "pct": 17.77,
+     "is_wfp": false
+    },
+    {
+     "name": "Derek Rodriguez",
+     "party": null,
+     "votes": 20220,
+     "pct": 14.0,
+     "is_wfp": true
+    },
+    {
+     "name": "Carole Marasovic",
+     "party": null,
+     "votes": 19888,
+     "pct": 13.77,
+     "is_wfp": false
+    }
+   ]
   },
   "26": {
    "name": "Ida Martinac",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source carries Alameda local races yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca.alameda",
+   "source_name": "Alameda County Registrar of Voters",
+   "source_url": "https://alamedacountyca.gov/rovresults/260/",
+   "contest": "Rent Stabilization Board Commissioners - Berkeley",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": "31 of 31 Precincts Partially Reported from Vote Centers (100.00% )"
+   },
+   "updated_at": "2026-11-09T16:59:00-08:00",
+   "wfp_choice": "Ida Martinac",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Ida Martinac",
+     "party": null,
+     "votes": 26877,
+     "pct": 18.61,
+     "is_wfp": true
+    },
+    {
+     "name": "Avery Arbaugh",
+     "party": null,
+     "votes": 26038,
+     "pct": 18.03,
+     "is_wfp": false
+    },
+    {
+     "name": "Nathan Mizell",
+     "party": null,
+     "votes": 25750,
+     "pct": 17.83,
+     "is_wfp": false
+    },
+    {
+     "name": "Vylma Ortiz",
+     "party": null,
+     "votes": 25666,
+     "pct": 17.77,
+     "is_wfp": false
+    },
+    {
+     "name": "Derek Rodriguez",
+     "party": null,
+     "votes": 20220,
+     "pct": 14.0,
+     "is_wfp": false
+    },
+    {
+     "name": "Carole Marasovic",
+     "party": null,
+     "votes": 19888,
+     "pct": 13.77,
+     "is_wfp": false
+    }
+   ]
   },
   "27": {
    "name": "Nathan Mizell",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source carries Alameda local races yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca.alameda",
+   "source_name": "Alameda County Registrar of Voters",
+   "source_url": "https://alamedacountyca.gov/rovresults/260/",
+   "contest": "Rent Stabilization Board Commissioners - Berkeley",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": "31 of 31 Precincts Partially Reported from Vote Centers (100.00% )"
+   },
+   "updated_at": "2026-11-09T16:59:00-08:00",
+   "wfp_choice": "Nathan Mizell",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Ida Martinac",
+     "party": null,
+     "votes": 26877,
+     "pct": 18.61,
+     "is_wfp": false
+    },
+    {
+     "name": "Avery Arbaugh",
+     "party": null,
+     "votes": 26038,
+     "pct": 18.03,
+     "is_wfp": false
+    },
+    {
+     "name": "Nathan Mizell",
+     "party": null,
+     "votes": 25750,
+     "pct": 17.83,
+     "is_wfp": true
+    },
+    {
+     "name": "Vylma Ortiz",
+     "party": null,
+     "votes": 25666,
+     "pct": 17.77,
+     "is_wfp": false
+    },
+    {
+     "name": "Derek Rodriguez",
+     "party": null,
+     "votes": 20220,
+     "pct": 14.0,
+     "is_wfp": false
+    },
+    {
+     "name": "Carole Marasovic",
+     "party": null,
+     "votes": 19888,
+     "pct": 13.77,
+     "is_wfp": false
+    }
+   ]
   },
   "28": {
    "name": "Vylma Ortiz",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source carries Alameda local races yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca.alameda",
+   "source_name": "Alameda County Registrar of Voters",
+   "source_url": "https://alamedacountyca.gov/rovresults/260/",
+   "contest": "Rent Stabilization Board Commissioners - Berkeley",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": "31 of 31 Precincts Partially Reported from Vote Centers (100.00% )"
+   },
+   "updated_at": "2026-11-09T16:59:00-08:00",
+   "wfp_choice": "Vylma Ortiz",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Ida Martinac",
+     "party": null,
+     "votes": 26877,
+     "pct": 18.61,
+     "is_wfp": false
+    },
+    {
+     "name": "Avery Arbaugh",
+     "party": null,
+     "votes": 26038,
+     "pct": 18.03,
+     "is_wfp": false
+    },
+    {
+     "name": "Nathan Mizell",
+     "party": null,
+     "votes": 25750,
+     "pct": 17.83,
+     "is_wfp": false
+    },
+    {
+     "name": "Vylma Ortiz",
+     "party": null,
+     "votes": 25666,
+     "pct": 17.77,
+     "is_wfp": true
+    },
+    {
+     "name": "Derek Rodriguez",
+     "party": null,
+     "votes": 20220,
+     "pct": 14.0,
+     "is_wfp": false
+    },
+    {
+     "name": "Carole Marasovic",
+     "party": null,
+     "votes": 19888,
+     "pct": 13.77,
+     "is_wfp": false
+    }
+   ]
   },
   "29": {
    "name": "Jaria Jaug",
@@ -1428,7 +1888,7 @@
     "pct": 80.0,
     "text": null
    },
-   "updated_at": "2026-11-11T15:55:49+00:00",
+   "updated_at": "2026-11-11T18:55:20+00:00",
    "wfp_choice": "Jaria Jaug",
    "wfp_leading": true,
    "choices": [
@@ -1523,9 +1983,30 @@
   },
   "34": {
    "name": "Jenny Wong",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source carries Alameda local races yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca.alameda",
+   "source_name": "Alameda County Registrar of Voters",
+   "source_url": "https://alamedacountyca.gov/rovresults/260/",
+   "contest": "Auditor - Berkeley (RCV, first-choice votes)",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": "31 of 31 Precincts Partially Reported from Vote Centers (100.00% )"
+   },
+   "updated_at": "2026-11-09T16:59:00-08:00",
+   "wfp_choice": "Jenny Wong",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Jenny Wong",
+     "party": null,
+     "votes": 37749,
+     "pct": 100.0,
+     "is_wfp": true
+    }
+   ]
   },
   "35": {
    "name": "Laura Nakamura",
@@ -1541,7 +2022,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-11T15:55:49+00:00",
+   "updated_at": "2026-11-11T18:55:20+00:00",
    "wfp_choice": "LAURA NAKAMURA",
    "wfp_leading": true,
    "choices": [
@@ -1575,7 +2056,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-11T15:55:49+00:00",
+   "updated_at": "2026-11-11T18:55:20+00:00",
    "wfp_choice": "CAMERON SASAI",
    "wfp_leading": false,
    "choices": [
@@ -1609,7 +2090,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-11T15:55:49+00:00",
+   "updated_at": "2026-11-11T18:55:20+00:00",
    "wfp_choice": "BECCA BARRETT",
    "wfp_leading": true,
    "choices": [
@@ -1700,9 +2181,37 @@
   },
   "39": {
    "name": "Seema Badar",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source carries Alameda local races yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca.alameda",
+   "source_name": "Alameda County Registrar of Voters",
+   "source_url": "https://alamedacountyca.gov/rovresults/260/",
+   "contest": "Dublin USD Governing Board Member, Area 5",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": "2 of 2 Precincts Partially Reported from Vote Centers (100.00% )"
+   },
+   "updated_at": "2026-11-09T16:59:00-08:00",
+   "wfp_choice": "Seema Badar",
+   "wfp_leading": false,
+   "choices": [
+    {
+     "name": "Dan Cherrier",
+     "party": null,
+     "votes": 2297,
+     "pct": 61.43,
+     "is_wfp": false
+    },
+    {
+     "name": "Seema Badar",
+     "party": null,
+     "votes": 1442,
+     "pct": 38.57,
+     "is_wfp": true
+    }
+   ]
   },
   "40": {
    "name": "Ofelia Bello",
@@ -1856,7 +2365,7 @@
     "pct": 90.9,
     "text": null
    },
-   "updated_at": "2026-11-11T15:55:49+00:00",
+   "updated_at": "2026-11-11T18:55:20+00:00",
    "wfp_choice": "Mer Curry Nuñez",
    "wfp_leading": false,
    "choices": [
@@ -1950,7 +2459,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-11T15:55:49+00:00",
+   "updated_at": "2026-11-11T18:55:20+00:00",
    "wfp_choice": "Rebeca G. Armendáriz",
    "wfp_leading": true,
    "choices": [
@@ -1986,15 +2495,71 @@
   },
   "47": {
    "name": "George Syrop",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source carries Alameda local races yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca.alameda",
+   "source_name": "Alameda County Registrar of Voters",
+   "source_url": "https://alamedacountyca.gov/rovresults/260/",
+   "contest": "Member, City Council, District 1 - Hayward",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": "34 of 34 Precincts Partially Reported from Vote Centers (100.00% )"
+   },
+   "updated_at": "2026-11-09T16:59:00-08:00",
+   "wfp_choice": "George Syrop",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "George Syrop",
+     "party": null,
+     "votes": 4144,
+     "pct": 58.61,
+     "is_wfp": true
+    },
+    {
+     "name": "Brian M. Schott",
+     "party": null,
+     "votes": 2926,
+     "pct": 41.39,
+     "is_wfp": false
+    }
+   ]
   },
   "48": {
    "name": "Michelle Fernellius",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source carries Alameda local races yet"
+   "status": "counting",
+   "match_status": "confirmed",
+   "uncontested": false,
+   "source": "ca.alameda",
+   "source_name": "Alameda County Registrar of Voters",
+   "source_url": "https://alamedacountyca.gov/rovresults/260/",
+   "contest": "Hayward USD Governing Board Member, Area 4",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": "6 of 6 Precincts Partially Reported from Vote Centers (100.00% )"
+   },
+   "updated_at": "2026-11-09T16:59:00-08:00",
+   "wfp_choice": "Michelle Fernelius",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Michelle Fernelius",
+     "party": null,
+     "votes": 3363,
+     "pct": 53.44,
+     "is_wfp": true
+    },
+    {
+     "name": "Maria Araceli Orozco",
+     "party": null,
+     "votes": 2930,
+     "pct": 46.56,
+     "is_wfp": false
+    }
+   ]
   },
   "49": {
    "name": "Chris Herrod",
@@ -2010,7 +2575,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-11T15:55:50+00:00",
+   "updated_at": "2026-11-11T18:55:20+00:00",
    "wfp_choice": "CHRIS HERROD",
    "wfp_leading": true,
    "choices": [
@@ -2043,7 +2608,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-11T15:55:49+00:00",
+   "updated_at": "2026-11-11T18:55:20+00:00",
    "wfp_choice": "Seema Kanani",
    "wfp_leading": true,
    "choices": [
@@ -2105,7 +2670,7 @@
     "pct": 88.2,
     "text": null
    },
-   "updated_at": "2026-11-11T15:55:49+00:00",
+   "updated_at": "2026-11-11T18:55:20+00:00",
    "wfp_choice": "Erik Poicon",
    "wfp_leading": true,
    "choices": [
@@ -2188,7 +2753,7 @@
     "pct": 88.2,
     "text": null
    },
-   "updated_at": "2026-11-11T15:55:49+00:00",
+   "updated_at": "2026-11-11T18:55:20+00:00",
    "wfp_choice": "IdaRose Sylvester",
    "wfp_leading": true,
    "choices": [
@@ -2259,21 +2824,126 @@
   },
   "54": {
    "name": "Barbara Lee",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source carries Alameda local races yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca.alameda",
+   "source_name": "Alameda County Registrar of Voters",
+   "source_url": "https://alamedacountyca.gov/rovresults/260/",
+   "contest": "Mayor - Oakland (RCV, first-choice votes)",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": "109 of 109 Precincts Partially Reported from Vote Centers (100.00% )"
+   },
+   "updated_at": "2026-11-09T16:59:00-08:00",
+   "wfp_choice": "Barbara Lee",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Barbara Lee",
+     "party": null,
+     "votes": 119834,
+     "pct": 85.36,
+     "is_wfp": true
+    },
+    {
+     "name": "Julius Robinson",
+     "party": null,
+     "votes": 8435,
+     "pct": 6.01,
+     "is_wfp": false
+    },
+    {
+     "name": "Brenda F. Grisham",
+     "party": null,
+     "votes": 6422,
+     "pct": 4.57,
+     "is_wfp": false
+    },
+    {
+     "name": "Mindy Ruth Pechenuk",
+     "party": null,
+     "votes": 5702,
+     "pct": 4.06,
+     "is_wfp": false
+    }
+   ]
   },
   "55": {
    "name": "Jennifer Brouhard",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source carries Alameda local races yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca.alameda",
+   "source_name": "Alameda County Registrar of Voters",
+   "source_url": "https://alamedacountyca.gov/rovresults/260/",
+   "contest": "School Director, District 2 - Oakland (RCV, first-choice votes)",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": "16 of 16 Precincts Partially Reported from Vote Centers (100.00% )"
+   },
+   "updated_at": "2026-11-09T16:59:00-08:00",
+   "wfp_choice": "Jennifer Brouhard",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Jennifer Brouhard",
+     "party": null,
+     "votes": 8728,
+     "pct": 50.99,
+     "is_wfp": true
+    },
+    {
+     "name": "Arielle Fleisher",
+     "party": null,
+     "votes": 8388,
+     "pct": 49.01,
+     "is_wfp": false
+    }
+   ]
   },
   "56": {
    "name": "Valarie Bachelor",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source carries Alameda local races yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca.alameda",
+   "source_name": "Alameda County Registrar of Voters",
+   "source_url": "https://alamedacountyca.gov/rovresults/260/",
+   "contest": "School Director, District 6 - Oakland (RCV, first-choice votes)",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": "16 of 16 Precincts Partially Reported from Vote Centers (100.00% )"
+   },
+   "updated_at": "2026-11-09T16:59:00-08:00",
+   "wfp_choice": "Valarie Bachelor",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Valarie Bachelor",
+     "party": null,
+     "votes": 6259,
+     "pct": 37.82,
+     "is_wfp": true
+    },
+    {
+     "name": "Alexandra Williams",
+     "party": null,
+     "votes": 6067,
+     "pct": 36.66,
+     "is_wfp": false
+    },
+    {
+     "name": "Leana Powell",
+     "party": null,
+     "votes": 4223,
+     "pct": 25.52,
+     "is_wfp": false
+    }
+   ]
   },
   "57": {
    "name": "Christine Boles",
@@ -2357,7 +3027,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-11T15:55:50+00:00",
+   "updated_at": "2026-11-11T18:55:20+00:00",
    "wfp_choice": "ERIC VAZQUEZ",
    "wfp_leading": true,
    "choices": [
@@ -2391,7 +3061,7 @@
     "pct": 90.0,
     "text": null
    },
-   "updated_at": "2026-11-11T15:55:50+00:00",
+   "updated_at": "2026-11-11T18:55:20+00:00",
    "wfp_choice": "SARAH SEITCHIK SEBASTIAN",
    "wfp_leading": true,
    "choices": [
@@ -2425,7 +3095,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-11T15:55:49+00:00",
+   "updated_at": "2026-11-11T18:55:20+00:00",
    "wfp_choice": "TRUC 'CHRISTY' LAM-JULIAN",
    "wfp_leading": true,
    "choices": [
@@ -2513,7 +3183,7 @@
     "pct": 0.0,
     "text": null
    },
-   "updated_at": "2026-11-11T15:55:49+00:00",
+   "updated_at": "2026-11-11T18:55:20+00:00",
    "wfp_choice": "CLAUDIA JIMÉNEZ",
    "wfp_leading": true,
    "choices": [
@@ -2623,7 +3293,7 @@
     "pct": 85.0,
     "text": null
    },
-   "updated_at": "2026-11-11T15:55:49+00:00",
+   "updated_at": "2026-11-11T18:55:20+00:00",
    "wfp_choice": "Peter Ortiz",
    "wfp_leading": true,
    "choices": [
@@ -2664,7 +3334,7 @@
     "pct": 97.0,
     "text": null
    },
-   "updated_at": "2026-11-11T15:55:49+00:00",
+   "updated_at": "2026-11-11T18:55:20+00:00",
    "wfp_choice": "Gordon Chester",
    "wfp_leading": false,
    "choices": [
@@ -2705,7 +3375,7 @@
     "pct": 90.5,
     "text": null
    },
-   "updated_at": "2026-11-11T15:55:49+00:00",
+   "updated_at": "2026-11-11T18:55:20+00:00",
    "wfp_choice": "Michael Melillo",
    "wfp_leading": false,
    "choices": [
@@ -2854,7 +3524,7 @@
     "pct": 97.3,
     "text": null
    },
-   "updated_at": "2026-11-11T15:55:49+00:00",
+   "updated_at": "2026-11-11T18:55:20+00:00",
    "wfp_choice": "Kevin Park",
    "wfp_leading": false,
    "choices": [
@@ -2923,7 +3593,7 @@
     "pct": 93.3,
     "text": null
    },
-   "updated_at": "2026-11-11T15:55:50+00:00",
+   "updated_at": "2026-11-11T18:55:20+00:00",
    "wfp_choice": "MELANIE JONES-CARTER",
    "wfp_leading": true,
    "choices": [
@@ -2957,7 +3627,7 @@
     "pct": 76.5,
     "text": null
    },
-   "updated_at": "2026-11-11T15:55:50+00:00",
+   "updated_at": "2026-11-11T18:55:20+00:00",
    "wfp_choice": "JOANNA PAUN",
    "wfp_leading": true,
    "choices": [
@@ -2991,7 +3661,7 @@
     "pct": 78.0,
     "text": null
    },
-   "updated_at": "2026-11-11T15:55:50+00:00",
+   "updated_at": "2026-11-11T18:55:20+00:00",
    "wfp_choice": "MELANIE BAGBY",
    "wfp_leading": true,
    "choices": [
@@ -3025,7 +3695,7 @@
     "pct": 78.0,
     "text": null
    },
-   "updated_at": "2026-11-11T15:55:50+00:00",
+   "updated_at": "2026-11-11T18:55:20+00:00",
    "wfp_choice": "CAITLIN QUINN",
    "wfp_leading": false,
    "choices": [
@@ -3405,9 +4075,65 @@
   },
   "98": {
    "name": "Brianna Rogers",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source carries Solano local races yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca.solano",
+   "source_name": "Solano County Registrar of Voters",
+   "source_url": "https://www.livevoterturnout.com/ENR/solanocaenr/21/en/Index_21.html",
+   "contest": "Member, City Council, City of Vallejo - District 4",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-11T19:03:22+00:00",
+   "wfp_choice": "BRIANNA ROGERS",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "BRIANNA ROGERS",
+     "party": null,
+     "votes": 2681,
+     "pct": 55.15,
+     "is_wfp": true
+    },
+    {
+     "name": "CHARLES PALMARES",
+     "party": null,
+     "votes": 1587,
+     "pct": 32.65,
+     "is_wfp": false
+    },
+    {
+     "name": "CHRIS PLATZER",
+     "party": null,
+     "votes": 555,
+     "pct": 11.42,
+     "is_wfp": false
+    },
+    {
+     "name": "Rejected write-ins",
+     "party": null,
+     "votes": 19,
+     "pct": 0.39,
+     "is_wfp": false
+    },
+    {
+     "name": "ROXANN REYES",
+     "party": null,
+     "votes": 17,
+     "pct": 0.35,
+     "is_wfp": false
+    },
+    {
+     "name": "Unassigned write-ins",
+     "party": null,
+     "votes": 2,
+     "pct": 0.04,
+     "is_wfp": false
+    }
+   ]
   },
   "99": {
    "name": "Gabriel Garcia",
@@ -3441,7 +4167,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-11T15:55:51+00:00",
+   "updated_at": "2026-11-11T18:55:20+00:00",
    "wfp_choice": "KRISTINA PINE",
    "wfp_leading": true,
    "choices": [
@@ -3463,15 +4189,64 @@
   },
   "103": {
    "name": "Carla Meade",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source carries Santa Barbara local races yet"
+   "status": "counting",
+   "match_status": "confirmed",
+   "uncontested": false,
+   "source": "ca.santa_barbara",
+   "source_name": "Santa Barbara County Elections",
+   "source_url": "https://www.sbcvote.com/Elections/results/2026nov03/results-1.htm",
+   "contest": "City of Buellton Member City Council Dist 4",
+   "scope": "complete",
+   "reporting": {
+    "pct": 100.0,
+    "text": null
+   },
+   "updated_at": "2026-11-11T19:03:22+00:00",
+   "wfp_choice": "CARLA MEAD",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "CARLA MEAD",
+     "party": null,
+     "votes": 407,
+     "pct": 100.0,
+     "is_wfp": true
+    }
+   ]
   },
   "104": {
    "name": "David Silva",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source carries Santa Barbara local races yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca.santa_barbara",
+   "source_name": "Santa Barbara County Elections",
+   "source_url": "https://www.sbcvote.com/Elections/results/2026nov03/results-1.htm",
+   "contest": "City of Buellton Mayor",
+   "scope": "complete",
+   "reporting": {
+    "pct": 100.0,
+    "text": null
+   },
+   "updated_at": "2026-11-11T19:03:22+00:00",
+   "wfp_choice": "DAVID SILVA",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "DAVID SILVA",
+     "party": null,
+     "votes": 1377,
+     "pct": 62.36,
+     "is_wfp": true
+    },
+    {
+     "name": "DAVE KING",
+     "party": null,
+     "votes": 831,
+     "pct": 37.64,
+     "is_wfp": false
+    }
+   ]
   },
   "105": {
    "name": "Susie Nava",
@@ -3517,9 +4292,44 @@
   },
   "112": {
    "name": "Juan Telles",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source carries Stanislaus local races yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca.stanislaus",
+   "source_name": "Stanislaus County Registrar of Voters",
+   "source_url": "https://www.stanvote.gov/past-results/results.htm",
+   "contest": "City of Modesto Member, City Council - District 2",
+   "scope": "complete",
+   "reporting": {
+    "pct": 100.0,
+    "text": null
+   },
+   "updated_at": "2026-11-09T17:35:42-08:00",
+   "wfp_choice": "JUAN TELLES",
+   "wfp_leading": false,
+   "choices": [
+    {
+     "name": "ERIC E. ALVAREZ",
+     "party": null,
+     "votes": 2169,
+     "pct": 51.31,
+     "is_wfp": false
+    },
+    {
+     "name": "JUAN TELLES",
+     "party": null,
+     "votes": 1708,
+     "pct": 40.41,
+     "is_wfp": true
+    },
+    {
+     "name": "JON RODRIGUEZ",
+     "party": null,
+     "votes": 350,
+     "pct": 8.28,
+     "is_wfp": false
+    }
+   ]
   },
   "113": {
    "name": "Jasmine Duron",
@@ -3535,7 +4345,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-11T15:55:51+00:00",
+   "updated_at": "2026-11-11T18:55:20+00:00",
    "wfp_choice": "JASMINE DURON",
    "wfp_leading": true,
    "choices": [
@@ -3557,69 +4367,419 @@
   },
   "114": {
    "name": "Eriberto Estrada",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source carries Santa Cruz local races yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca.santa_cruz",
+   "source_name": "Santa Cruz County Elections",
+   "source_url": "https://www2.santacruzcountyca.gov/ElectionSites/ElectionResults/Results",
+   "contest": "Pajaro Valley Unified School District Governing Board Member - Trustee Area 4",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-10T16:30:00-08:00",
+   "wfp_choice": "ERIBERTO ESTRADA IV",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "ERIBERTO ESTRADA IV",
+     "party": null,
+     "votes": 2057,
+     "pct": 69.52,
+     "is_wfp": true
+    },
+    {
+     "name": "DANIEL DODGE JR",
+     "party": null,
+     "votes": 883,
+     "pct": 29.84,
+     "is_wfp": false
+    },
+    {
+     "name": "Write-in",
+     "party": null,
+     "votes": 19,
+     "pct": 0.64,
+     "is_wfp": false
+    }
+   ]
   },
   "115": {
    "name": "Jeanette Reyes",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source carries Stanislaus local races yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca.stanislaus",
+   "source_name": "Stanislaus County Registrar of Voters",
+   "source_url": "https://www.stanvote.gov/past-results/results.htm",
+   "contest": "City of Riverbank Member, City Council - District 1",
+   "scope": "complete",
+   "reporting": {
+    "pct": 100.0,
+    "text": null
+   },
+   "updated_at": "2026-11-09T17:35:42-08:00",
+   "wfp_choice": "JEANETTE REYES",
+   "wfp_leading": false,
+   "choices": [
+    {
+     "name": "LUIS URIBE",
+     "party": null,
+     "votes": 380,
+     "pct": 34.51,
+     "is_wfp": false
+    },
+    {
+     "name": "JEANETTE REYES",
+     "party": null,
+     "votes": 278,
+     "pct": 25.25,
+     "is_wfp": true
+    },
+    {
+     "name": "SHERRY FENN",
+     "party": null,
+     "votes": 254,
+     "pct": 23.07,
+     "is_wfp": false
+    },
+    {
+     "name": "NAI N. SOSONGKHAM",
+     "party": null,
+     "votes": 189,
+     "pct": 17.17,
+     "is_wfp": false
+    }
+   ]
   },
   "116": {
    "name": "Sammi Martinez",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source carries Stanislaus local races yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca.stanislaus",
+   "source_name": "Stanislaus County Registrar of Voters",
+   "source_url": "https://www.stanvote.gov/past-results/results.htm",
+   "contest": "City of Riverbank Member, City Council - District 3",
+   "scope": "complete",
+   "reporting": {
+    "pct": 100.0,
+    "text": null
+   },
+   "updated_at": "2026-11-09T17:35:42-08:00",
+   "wfp_choice": "SAMMI MARTINEZ",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "SAMMI MARTINEZ",
+     "party": null,
+     "votes": 693,
+     "pct": 54.83,
+     "is_wfp": true
+    },
+    {
+     "name": "CARISSA COMMONS",
+     "party": null,
+     "votes": 526,
+     "pct": 41.61,
+     "is_wfp": false
+    },
+    {
+     "name": "Calvin L. Campbell (W)",
+     "party": null,
+     "votes": 45,
+     "pct": 3.56,
+     "is_wfp": false
+    }
+   ]
   },
   "117": {
    "name": "Flo Cofer",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source carries Sacramento local races yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca.sacramento",
+   "source_name": "Sacramento County Voter Registration & Elections",
+   "source_url": "https://results.saccounty.gov/results/public/sacramento-county-ca",
+   "contest": "Board of Supervisors District 1",
+   "scope": "complete",
+   "reporting": {
+    "pct": 0.0,
+    "text": "0 of 143 precincts fully reported, 143 partly"
+   },
+   "updated_at": "2026-11-10T23:51:59.2390476Z",
+   "wfp_choice": "FLO COFER",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "FLO COFER",
+     "party": null,
+     "votes": 49348,
+     "pct": 56.69,
+     "is_wfp": true
+    },
+    {
+     "name": "ERIC GUERRA",
+     "party": null,
+     "votes": 37704,
+     "pct": 43.31,
+     "is_wfp": false
+    }
+   ]
   },
   "118": {
    "name": "Gabe Escobedo",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source carries Santa Barbara local races yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca.santa_barbara",
+   "source_name": "Santa Barbara County Elections",
+   "source_url": "https://www.sbcvote.com/Elections/results/2026nov03/results-1.htm",
+   "contest": "City of Santa Barbara Member City Council Dist 6",
+   "scope": "complete",
+   "reporting": {
+    "pct": 100.0,
+    "text": null
+   },
+   "updated_at": "2026-11-11T19:03:22+00:00",
+   "wfp_choice": "GABE ESCOBEDO",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "GABE ESCOBEDO",
+     "party": null,
+     "votes": 3047,
+     "pct": 70.0,
+     "is_wfp": true
+    },
+    {
+     "name": "JASON CARLTON",
+     "party": null,
+     "votes": 485,
+     "pct": 11.14,
+     "is_wfp": false
+    },
+    {
+     "name": "ALEXANDER STOEBER",
+     "party": null,
+     "votes": 484,
+     "pct": 11.12,
+     "is_wfp": false
+    },
+    {
+     "name": "ANABELLA LEHNE",
+     "party": null,
+     "votes": 337,
+     "pct": 7.74,
+     "is_wfp": false
+    }
+   ]
   },
   "119": {
    "name": "Devon Wardlow",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source carries Santa Barbara local races yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca.santa_barbara",
+   "source_name": "Santa Barbara County Elections",
+   "source_url": "https://www.sbcvote.com/Elections/results/2026nov03/results-1.htm",
+   "contest": "City of Santa Barbara Member City Council Dist 4",
+   "scope": "complete",
+   "reporting": {
+    "pct": 100.0,
+    "text": null
+   },
+   "updated_at": "2026-11-11T19:03:22+00:00",
+   "wfp_choice": "DEVON WARDLOW",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "DEVON WARDLOW",
+     "party": null,
+     "votes": 3664,
+     "pct": 51.01,
+     "is_wfp": true
+    },
+    {
+     "name": "MONTE WILSON",
+     "party": null,
+     "votes": 1756,
+     "pct": 24.45,
+     "is_wfp": false
+    },
+    {
+     "name": "GENEVIEVE TAFT-VAZQUEZ",
+     "party": null,
+     "votes": 1150,
+     "pct": 16.01,
+     "is_wfp": false
+    },
+    {
+     "name": "JASON PAUL DOMINGUEZ",
+     "party": null,
+     "votes": 613,
+     "pct": 8.53,
+     "is_wfp": false
+    }
+   ]
   },
   "120": {
    "name": "Ian Baucke",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source carries Santa Barbara local races yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca.santa_barbara",
+   "source_name": "Santa Barbara County Elections",
+   "source_url": "https://www.sbcvote.com/Elections/results/2026nov03/results-1.htm",
+   "contest": "City of Santa Barbara Member City Council Dist 5",
+   "scope": "complete",
+   "reporting": {
+    "pct": 100.0,
+    "text": null
+   },
+   "updated_at": "2026-11-11T19:03:22+00:00",
+   "wfp_choice": "IAN J. BAUCKE",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "IAN J. BAUCKE",
+     "party": null,
+     "votes": 3546,
+     "pct": 63.01,
+     "is_wfp": true
+    },
+    {
+     "name": "CEVIN CATHELL",
+     "party": null,
+     "votes": 1495,
+     "pct": 26.56,
+     "is_wfp": false
+    },
+    {
+     "name": "JAMES ZURLINDEN",
+     "party": null,
+     "votes": 587,
+     "pct": 10.43,
+     "is_wfp": false
+    }
+   ]
   },
   "121": {
    "name": "Ricardo Valencia",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source carries Santa Barbara local races yet"
+   "status": "counting",
+   "match_status": "confirmed",
+   "uncontested": false,
+   "source": "ca.santa_barbara",
+   "source_name": "Santa Barbara County Elections",
+   "source_url": "https://www.sbcvote.com/Elections/results/2026nov03/results-1.htm",
+   "contest": "County Supervisor 5th District",
+   "scope": "complete",
+   "reporting": {
+    "pct": 100.0,
+    "text": null
+   },
+   "updated_at": "2026-11-11T19:03:22+00:00",
+   "wfp_choice": "RICARDO VALENCIA",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "RICARDO VALENCIA",
+     "party": null,
+     "votes": 6326,
+     "pct": 53.24,
+     "is_wfp": true
+    },
+    {
+     "name": "MARIBEL AGUILERA",
+     "party": null,
+     "votes": 5557,
+     "pct": 46.76,
+     "is_wfp": false
+    }
+   ]
   },
   "122": {
    "name": "Justin Cummings",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source carries Santa Cruz local races yet"
+   "status": "not_on_ballot",
+   "match_status": "not_on_ballot",
+   "note": "Won District 3 unopposed in the June 2, 2026 primary; no supervisor race on the Nov 3 ballot."
   },
   "123": {
    "name": "Ami Chen Mills",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source carries Santa Cruz local races yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca.santa_cruz",
+   "source_name": "Santa Cruz County Elections",
+   "source_url": "https://www2.santacruzcountyca.gov/ElectionSites/ElectionResults/Results",
+   "contest": "City of Santa Cruz Mayor",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-10T16:30:00-08:00",
+   "wfp_choice": "AMI CHEN MILLS",
+   "wfp_leading": false,
+   "choices": [
+    {
+     "name": "RYAN COONERTY",
+     "party": null,
+     "votes": 13157,
+     "pct": 52.95,
+     "is_wfp": false
+    },
+    {
+     "name": "AMI CHEN MILLS",
+     "party": null,
+     "votes": 11472,
+     "pct": 46.17,
+     "is_wfp": true
+    },
+    {
+     "name": "Write-in",
+     "party": null,
+     "votes": 220,
+     "pct": 0.89,
+     "is_wfp": false
+    }
+   ]
   },
   "124": {
    "name": "Gloria Soto",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source carries Santa Barbara local races yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca.santa_barbara",
+   "source_name": "Santa Barbara County Elections",
+   "source_url": "https://www.sbcvote.com/Elections/results/2026nov03/results-1.htm",
+   "contest": "City of Santa Maria Member City Council Dist 3",
+   "scope": "complete",
+   "reporting": {
+    "pct": 100.0,
+    "text": null
+   },
+   "updated_at": "2026-11-11T19:03:22+00:00",
+   "wfp_choice": "GLORIA SOTO",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "GLORIA SOTO",
+     "party": null,
+     "votes": 2519,
+     "pct": 63.76,
+     "is_wfp": true
+    },
+    {
+     "name": "CORBY POULIS SR.",
+     "party": null,
+     "votes": 1432,
+     "pct": 36.24,
+     "is_wfp": false
+    }
+   ]
   },
   "125": {
    "name": "Sam Cohen",
@@ -3635,7 +4795,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-11T15:55:51+00:00",
+   "updated_at": "2026-11-11T18:55:20+00:00",
    "wfp_choice": "SAM COHEN",
    "wfp_leading": true,
    "choices": [
@@ -3669,7 +4829,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-11T15:55:51+00:00",
+   "updated_at": "2026-11-11T18:55:20+00:00",
    "wfp_choice": "JOSH GRAY",
    "wfp_leading": false,
    "choices": [
@@ -3825,7 +4985,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-11T15:55:51+00:00",
+   "updated_at": "2026-11-11T18:55:20+00:00",
    "wfp_choice": "LIZ CAMPOS",
    "wfp_leading": true,
    "choices": [
@@ -3859,7 +5019,7 @@
     "pct": 100.0,
     "text": null
    },
-   "updated_at": "2026-11-11T15:55:51+00:00",
+   "updated_at": "2026-11-11T18:55:20+00:00",
    "wfp_choice": "KARBA ECKLEY",
    "wfp_leading": true,
    "choices": [
@@ -15133,9 +16293,37 @@
   },
   "431": {
    "name": "Simone Levine",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source covers LA yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "la",
+   "source_name": "Louisiana Secretary of State",
+   "source_url": "https://voterportal.sos.la.gov/graphical",
+   "contest": "Judge -- Criminal District Court, Section D",
+   "scope": "complete",
+   "reporting": {
+    "pct": 100.0,
+    "text": null
+   },
+   "updated_at": "2026-11-11T05:00:15.863-06:00",
+   "wfp_choice": "Simone Levine",
+   "wfp_leading": false,
+   "choices": [
+    {
+     "name": "Kimya Holmes",
+     "party": "DEM",
+     "votes": 70882,
+     "pct": 57.9,
+     "is_wfp": false
+    },
+    {
+     "name": "Simone Levine",
+     "party": "DEM",
+     "votes": 51532,
+     "pct": 42.1,
+     "is_wfp": true
+    }
+   ]
   },
   "432": {
    "name": "Troy Jackson",
@@ -16503,33 +17691,187 @@
   },
   "475": {
    "name": "Jeffrey Sheridan",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source covers MN yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "mn",
+   "source_name": "Minnesota Secretary of State",
+   "source_url": "https://electionresultsfiles.sos.mn.gov/20261103/cntyRaces.txt",
+   "contest": "Dakota County Attorney",
+   "scope": "complete",
+   "reporting": {
+    "pct": 100.0,
+    "text": null
+   },
+   "updated_at": "2026-11-11T19:14:28+00:00",
+   "wfp_choice": "Jeffrey Sheridan",
+   "wfp_leading": false,
+   "choices": [
+    {
+     "name": "Kathy Keena",
+     "party": null,
+     "votes": 96683,
+     "pct": 56.82,
+     "is_wfp": false
+    },
+    {
+     "name": "Jeffrey Sheridan",
+     "party": null,
+     "votes": 72647,
+     "pct": 42.7,
+     "is_wfp": true
+    },
+    {
+     "name": "Write-in",
+     "party": null,
+     "votes": 818,
+     "pct": 0.48,
+     "is_wfp": false
+    }
+   ]
   },
   "476": {
    "name": "Cedrick Frazier",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source covers MN yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "mn",
+   "source_name": "Minnesota Secretary of State",
+   "source_url": "https://electionresultsfiles.sos.mn.gov/20261103/cntyRaces.txt",
+   "contest": "Hennepin County Attorney",
+   "scope": "complete",
+   "reporting": {
+    "pct": 100.0,
+    "text": null
+   },
+   "updated_at": "2026-11-11T19:14:28+00:00",
+   "wfp_choice": "Cedrick Frazier",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Cedrick Frazier",
+     "party": null,
+     "votes": 257445,
+     "pct": 50.55,
+     "is_wfp": true
+    },
+    {
+     "name": "Anders Folk",
+     "party": null,
+     "votes": 249145,
+     "pct": 48.92,
+     "is_wfp": false
+    },
+    {
+     "name": "Write-in",
+     "party": null,
+     "votes": 2665,
+     "pct": 0.52,
+     "is_wfp": false
+    }
+   ]
   },
   "477": {
    "name": "Makayla Danner",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source carries Douglas local races yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ne.douglas",
+   "source_name": "Douglas County Election Commission",
+   "source_url": "https://www.votedouglascounty-ne.gov/meer/26GNResults8.pdf",
+   "contest": "Douglas County Attorney",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-11T11:01:00-05:00",
+   "wfp_choice": "Makayla Danner",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Makayla Danner",
+     "party": "DEM",
+     "votes": 116062,
+     "pct": 53.09,
+     "is_wfp": true
+    },
+    {
+     "name": "Donald W. Kleine",
+     "party": "REP",
+     "votes": 102542,
+     "pct": 46.91,
+     "is_wfp": false
+    }
+   ]
   },
   "478": {
    "name": "Mark Martinez",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source carries Douglas local races yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ne.douglas",
+   "source_name": "Douglas County Election Commission",
+   "source_url": "https://www.votedouglascounty-ne.gov/meer/26GNResults8.pdf",
+   "contest": "Douglas County Sheriff",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-11T11:01:00-05:00",
+   "wfp_choice": "Mark Martinez",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Mark Martinez",
+     "party": "DEM",
+     "votes": 118672,
+     "pct": 54.76,
+     "is_wfp": true
+    },
+    {
+     "name": "Aaron Hanson",
+     "party": "REP",
+     "votes": 98052,
+     "pct": 45.24,
+     "is_wfp": false
+    }
+   ]
   },
   "479": {
    "name": "Randall Ritnour",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source carries Lancaster local races yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "manual",
+   "source_name": "lancaster.ne.gov",
+   "source_url": "https://www.lancaster.ne.gov/DocumentCenter/View/34204",
+   "contest": "Lancaster County Attorney",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-06T15:10:00-06:00",
+   "wfp_choice": "Randall Ritnour",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Randall Ritnour",
+     "party": "DEM",
+     "votes": 66454,
+     "pct": 54.0,
+     "is_wfp": true
+    },
+    {
+     "name": "Pat Condon",
+     "party": "REP",
+     "votes": 56618,
+     "pct": 46.0,
+     "is_wfp": false
+    }
+   ]
   },
   "480": {
    "name": "LaMonica McIver",
@@ -39928,162 +41270,442 @@
    "status": "counting",
    "match_status": "auto",
    "uncontested": false,
-   "source": "ca.santa_clara",
-   "source_name": "Santa Clara County",
-   "source_url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/",
-   "contest": "State Proposition 1 - The Veterans and Affordable Housing Bond Act of 2026",
+   "source": "ca",
+   "source_name": "California Secretary of State",
+   "source_url": "https://electionresults.sos.ca.gov/",
+   "contest": "Proposition 1: Authorizes Bonds For Housing Affordability Programs. Legislative Statute.",
    "scope": "complete",
    "reporting": {
-    "pct": 86.9,
-    "text": null
+    "pct": 100.0,
+    "text": "100.0% (23,860 of 23,860) precincts reporting"
    },
-   "updated_at": "2026-11-11T15:55:49+00:00",
+   "updated_at": "November 10, 2026, 5:31 p.m.",
    "wfp_choice": "Yes",
    "wfp_leading": true,
    "choices": [
     {
      "name": "Yes",
      "party": null,
-     "votes": 324885,
-     "pct": 59.906733687615,
+     "votes": 7091432,
+     "pct": 61.1,
      "is_wfp": true
     },
     {
      "name": "No",
      "party": null,
-     "votes": 217433,
-     "pct": 40.093266312385,
+     "votes": 4524322,
+     "pct": 38.9,
      "is_wfp": false
     }
    ]
   },
   "1162": {
    "name": "Prop – 2: Strengthen California’s Rainy Day Fund",
-   "status": "unmatched",
-   "match_status": "needs_review",
-   "note": "measure '2': 3 contests"
-  },
-  "1163": {
-   "name": "Prop – 3: Keep the Wealthy Paying Their Fair Share",
-   "status": "unmatched",
-   "match_status": "unmatched",
-   "note": "measure '3': not found"
-  },
-  "1164": {
-   "name": "Prop – 4: Small-Donor Democracy Over Big Money in Politics",
-   "status": "unmatched",
-   "match_status": "unmatched",
-   "note": "measure '4': not found"
-  },
-  "1165": {
-   "name": "Prop – 5: Reform Recall Elections",
    "status": "counting",
    "match_status": "auto",
    "uncontested": false,
-   "source": "ca.santa_clara",
-   "source_name": "Santa Clara County",
-   "source_url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/",
-   "contest": "State Proposition 5 - Elections: Recall of State Officers",
+   "source": "ca",
+   "source_name": "California Secretary of State",
+   "source_url": "https://electionresults.sos.ca.gov/",
+   "contest": "Proposition 2: Increases State's Rainy Day Fund. Legislative Constitutional Amendment.",
    "scope": "complete",
    "reporting": {
-    "pct": 86.9,
-    "text": null
+    "pct": 100.0,
+    "text": "100.0% (23,860 of 23,860) precincts reporting"
    },
-   "updated_at": "2026-11-11T15:55:49+00:00",
+   "updated_at": "November 10, 2026, 5:31 p.m.",
    "wfp_choice": "Yes",
    "wfp_leading": true,
    "choices": [
     {
      "name": "Yes",
      "party": null,
-     "votes": 278639,
-     "pct": 52.565362652123,
+     "votes": 7112883,
+     "pct": 61.3,
      "is_wfp": true
     },
     {
      "name": "No",
      "party": null,
-     "votes": 251442,
-     "pct": 47.434637347877,
+     "votes": 4492626,
+     "pct": 38.7,
+     "is_wfp": false
+    }
+   ]
+  },
+  "1163": {
+   "name": "Prop – 3: Keep the Wealthy Paying Their Fair Share",
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca",
+   "source_name": "California Secretary of State",
+   "source_url": "https://electionresults.sos.ca.gov/",
+   "contest": "Proposition 3: Provides Permanent Funding For Schools And Health Care By Extending Existing Tax On High Incomes. Initiative Constitutional Amendment.",
+   "scope": "complete",
+   "reporting": {
+    "pct": 100.0,
+    "text": "100.0% (23,860 of 23,860) precincts reporting"
+   },
+   "updated_at": "November 10, 2026, 5:31 p.m.",
+   "wfp_choice": "Yes",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Yes",
+     "party": null,
+     "votes": 7101047,
+     "pct": 60.6,
+     "is_wfp": true
+    },
+    {
+     "name": "No",
+     "party": null,
+     "votes": 4610136,
+     "pct": 39.4,
+     "is_wfp": false
+    }
+   ]
+  },
+  "1164": {
+   "name": "Prop – 4: Small-Donor Democracy Over Big Money in Politics",
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca",
+   "source_name": "California Secretary of State",
+   "source_url": "https://electionresults.sos.ca.gov/",
+   "contest": "Proposition 4: Repeals Prohibition Against Public Funding Of Election Campaigns. Legislative Statute.",
+   "scope": "complete",
+   "reporting": {
+    "pct": 100.0,
+    "text": "100.0% (23,860 of 23,860) precincts reporting"
+   },
+   "updated_at": "November 10, 2026, 5:31 p.m.",
+   "wfp_choice": "Yes",
+   "wfp_leading": false,
+   "choices": [
+    {
+     "name": "No",
+     "party": null,
+     "votes": 5768677,
+     "pct": 50.3,
+     "is_wfp": false
+    },
+    {
+     "name": "Yes",
+     "party": null,
+     "votes": 5694686,
+     "pct": 49.7,
+     "is_wfp": true
+    }
+   ]
+  },
+  "1165": {
+   "name": "Prop – 5: Reform Recall Elections",
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca",
+   "source_name": "California Secretary of State",
+   "source_url": "https://electionresults.sos.ca.gov/",
+   "contest": "Proposition 5: Changes Recall Election Process For Statewide Officers. Legislative Constitutional Amendment.",
+   "scope": "complete",
+   "reporting": {
+    "pct": 100.0,
+    "text": "100.0% (23,860 of 23,860) precincts reporting"
+   },
+   "updated_at": "November 10, 2026, 5:31 p.m.",
+   "wfp_choice": "Yes",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Yes",
+     "party": null,
+     "votes": 5851098,
+     "pct": 51.9,
+     "is_wfp": true
+    },
+    {
+     "name": "No",
+     "party": null,
+     "votes": 5417336,
+     "pct": 48.1,
      "is_wfp": false
     }
    ]
   },
   "1166": {
    "name": "Prop 38: Fund Life-Saving Medical Research",
-   "status": "unmatched",
-   "match_status": "needs_review",
-   "note": "measure '38': 3 contests"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca",
+   "source_name": "California Secretary of State",
+   "source_url": "https://electionresults.sos.ca.gov/",
+   "contest": "Proposition 38: Authorizes Bonds For Immunology Medical Research. Initiative Statute.",
+   "scope": "complete",
+   "reporting": {
+    "pct": 100.0,
+    "text": "100.0% (23,860 of 23,860) precincts reporting"
+   },
+   "updated_at": "November 10, 2026, 5:31 p.m.",
+   "wfp_choice": "Yes",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Yes",
+     "party": null,
+     "votes": 6263537,
+     "pct": 54.1,
+     "is_wfp": true
+    },
+    {
+     "name": "No",
+     "party": null,
+     "votes": 5319680,
+     "pct": 45.9,
+     "is_wfp": false
+    }
+   ]
   },
   "1167": {
    "name": "Prop 39: Reject Voter Suppression",
    "status": "counting",
    "match_status": "auto",
    "uncontested": false,
-   "source": "ca.santa_clara",
-   "source_name": "Santa Clara County",
-   "source_url": "https://results.enr.clarityelections.com/CA/Santa_Clara/127570/",
-   "contest": "State Proposition 39 - Establishes Additional Voter Identification and Citizenship Verification Requirements",
+   "source": "ca",
+   "source_name": "California Secretary of State",
+   "source_url": "https://electionresults.sos.ca.gov/",
+   "contest": "Proposition 39: Prohibits Citizens From Voting Unless They Present Government-Issued Identification. Initiative Constitutional Amendment.",
    "scope": "complete",
    "reporting": {
-    "pct": 86.9,
-    "text": null
+    "pct": 100.0,
+    "text": "100.0% (23,860 of 23,860) precincts reporting"
    },
-   "updated_at": "2026-11-11T15:55:49+00:00",
+   "updated_at": "November 10, 2026, 5:31 p.m.",
    "wfp_choice": "No",
    "wfp_leading": true,
    "choices": [
     {
      "name": "No",
      "party": null,
-     "votes": 360136,
-     "pct": 64.9812798282255,
+     "votes": 7133801,
+     "pct": 60.5,
      "is_wfp": true
     },
     {
      "name": "Yes",
      "party": null,
-     "votes": 194079,
-     "pct": 35.0187201717745,
+     "votes": 4648759,
+     "pct": 39.5,
      "is_wfp": false
     }
    ]
   },
   "1168": {
    "name": "Prop 40: Tax Billionaires to Fund Healthcare & Education",
-   "status": "unmatched",
-   "match_status": "needs_review",
-   "note": "measure '40': 4 contests"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca",
+   "source_name": "California Secretary of State",
+   "source_url": "https://electionresults.sos.ca.gov/",
+   "contest": "Proposition 40: Imposes One-Time Tax On Certain Taxpayers. Initiative Constitutional Amendment And Statute.",
+   "scope": "complete",
+   "reporting": {
+    "pct": 100.0,
+    "text": "100.0% (23,860 of 23,860) precincts reporting"
+   },
+   "updated_at": "November 10, 2026, 5:31 p.m.",
+   "wfp_choice": "Yes",
+   "wfp_leading": false,
+   "choices": [
+    {
+     "name": "No",
+     "party": null,
+     "votes": 6205615,
+     "pct": 52.6,
+     "is_wfp": false
+    },
+    {
+     "name": "Yes",
+     "party": null,
+     "votes": 5593408,
+     "pct": 47.4,
+     "is_wfp": true
+    }
+   ]
   },
   "1169": {
    "name": "Prop 41: Billionaire Tax Poison Pill",
-   "status": "unmatched",
-   "match_status": "needs_review",
-   "note": "measure '41': 5 contests"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca",
+   "source_name": "California Secretary of State",
+   "source_url": "https://electionresults.sos.ca.gov/",
+   "contest": "Proposition 41: Prohibits New State Taxes That Exclude Revenues From State Spending Limit. Requires Audits For New State Special Taxes. Initiative Constitutional Amendment.",
+   "scope": "complete",
+   "reporting": {
+    "pct": 100.0,
+    "text": "100.0% (23,860 of 23,860) precincts reporting"
+   },
+   "updated_at": "November 10, 2026, 5:31 p.m.",
+   "wfp_choice": "No",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "No",
+     "party": null,
+     "votes": 6369763,
+     "pct": 55.0,
+     "is_wfp": true
+    },
+    {
+     "name": "Yes",
+     "party": null,
+     "votes": 5215086,
+     "pct": 45.0,
+     "is_wfp": false
+    }
+   ]
   },
   "1170": {
    "name": "Prop 42: Billionaire Tax Poison Pill",
-   "status": "unmatched",
-   "match_status": "needs_review",
-   "note": "measure '42': 5 contests"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca",
+   "source_name": "California Secretary of State",
+   "source_url": "https://electionresults.sos.ca.gov/",
+   "contest": "Proposition 42: Prohibits New State Personal Property Taxes And Certain Retroactive State Taxes. Initiative Constitutional Amendment.",
+   "scope": "complete",
+   "reporting": {
+    "pct": 100.0,
+    "text": "100.0% (23,860 of 23,860) precincts reporting"
+   },
+   "updated_at": "November 10, 2026, 5:31 p.m.",
+   "wfp_choice": "No",
+   "wfp_leading": false,
+   "choices": [
+    {
+     "name": "Yes",
+     "party": null,
+     "votes": 6024692,
+     "pct": 51.5,
+     "is_wfp": false
+    },
+    {
+     "name": "No",
+     "party": null,
+     "votes": 5673727,
+     "pct": 48.5,
+     "is_wfp": true
+    }
+   ]
   },
   "1171": {
    "name": "Prop 43: Protect Local Funding",
-   "status": "unmatched",
-   "match_status": "needs_review",
-   "note": "measure '43': 4 contests"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca",
+   "source_name": "California Secretary of State",
+   "source_url": "https://electionresults.sos.ca.gov/",
+   "contest": "Proposition 43: Limits Voters' Ability To Raise Revenues For Local Government Services. Legislative Constitutional Amendment.",
+   "scope": "complete",
+   "reporting": {
+    "pct": 100.0,
+    "text": "100.0% (23,860 of 23,860) precincts reporting"
+   },
+   "updated_at": "November 10, 2026, 5:31 p.m.",
+   "wfp_choice": "No",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "No",
+     "party": null,
+     "votes": 6593042,
+     "pct": 57.4,
+     "is_wfp": true
+    },
+    {
+     "name": "Yes",
+     "party": null,
+     "votes": 4900795,
+     "pct": 42.6,
+     "is_wfp": false
+    }
+   ]
   },
   "1172": {
    "name": "Prop 44: Protect Community Health Clinics",
-   "status": "unmatched",
-   "match_status": "needs_review",
-   "note": "measure '44': 4 contests"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca",
+   "source_name": "California Secretary of State",
+   "source_url": "https://electionresults.sos.ca.gov/",
+   "contest": "Proposition 44: Requires Community Health Clinics Spend 90% Of Revenue On Program Services. Initiative Statute.",
+   "scope": "complete",
+   "reporting": {
+    "pct": 100.0,
+    "text": "100.0% (23,860 of 23,860) precincts reporting"
+   },
+   "updated_at": "November 10, 2026, 5:31 p.m.",
+   "wfp_choice": "No",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "No",
+     "party": null,
+     "votes": 9421676,
+     "pct": 82.1,
+     "is_wfp": true
+    },
+    {
+     "name": "Yes",
+     "party": null,
+     "votes": 2060625,
+     "pct": 17.9,
+     "is_wfp": false
+    }
+   ]
   },
   "1173": {
    "name": "Prop 45: Reject Corporate Polluting Projects",
-   "status": "unmatched",
-   "match_status": "needs_review",
-   "note": "measure '45': 4 contests"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca",
+   "source_name": "California Secretary of State",
+   "source_url": "https://electionresults.sos.ca.gov/",
+   "contest": "Proposition 45: Modifies Environmental Review For Certain Projects. Initiative Statute.",
+   "scope": "complete",
+   "reporting": {
+    "pct": 100.0,
+    "text": "100.0% (23,860 of 23,860) precincts reporting"
+   },
+   "updated_at": "November 10, 2026, 5:31 p.m.",
+   "wfp_choice": "No",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "No",
+     "party": null,
+     "votes": 6437728,
+     "pct": 56.2,
+     "is_wfp": true
+    },
+    {
+     "name": "Yes",
+     "party": null,
+     "votes": 5011228,
+     "pct": 43.8,
+     "is_wfp": false
+    }
+   ]
   },
   "1174": {
    "name": "Amendment 81: Expand Cooperation with ICE",

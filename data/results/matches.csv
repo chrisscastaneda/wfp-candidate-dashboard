@@ -1,13 +1,5 @@
 wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id,choice,note
 93,CA,Damon Connolly,"State Senate, District 12",needs_review,surname_any_district,ca,state-senate/2,State Senate District 2,Damon Connolly,Damon Connolly,district differs from WFP listing (12 -> 2)
-1162,CA,Prop – 2: Strengthen California’s Rainy Day Fund,Ballot Measure,needs_review,,,,,,,measure '2': 3 contests
-1166,CA,Prop 38: Fund Life-Saving Medical Research,Ballot Measure,needs_review,,,,,,,measure '38': 3 contests
-1168,CA,Prop 40: Tax Billionaires to Fund Healthcare & Education,Ballot Measure,needs_review,,,,,,,measure '40': 4 contests
-1169,CA,Prop 41: Billionaire Tax Poison Pill,Ballot Measure,needs_review,,,,,,,measure '41': 5 contests
-1170,CA,Prop 42: Billionaire Tax Poison Pill,Ballot Measure,needs_review,,,,,,,measure '42': 5 contests
-1171,CA,Prop 43: Protect Local Funding,Ballot Measure,needs_review,,,,,,,measure '43': 4 contests
-1172,CA,Prop 44: Protect Community Health Clinics,Ballot Measure,needs_review,,,,,,,measure '44': 4 contests
-1173,CA,Prop 45: Reject Corporate Polluting Projects,Ballot Measure,needs_review,,,,,,,measure '45': 4 contests
 402,GA,Peter Hubbard,Public Service Commission,needs_review,name_in_state,ga,01000000-3a82-a359-c4c2-08df23e5ff63,PSC - District 3,01000000-3a82-a359-c4fc-08df23e5ff63,Peter Hubbard (I),found by name only; check the office (PSC - District 3)
 403,GA,Shelia Edwards,Public Service Commission,needs_review,name_in_state,ga,01000000-3a82-a359-4e6b-08df23e5ff65,PSC - District 5,01000000-3a82-a359-4e97-08df23e5ff65,Shelia Edwards,found by name only; check the office (PSC - District 5)
 428,GA,Jodi Merriday,"Fulton County Commission, District 3",needs_review,name_in_state,ga,01000000-3a82-a359-0573-08df23e6c6c9,County Commissioner - District 3,01000000-3a82-a359-062c-08df23e6c6c9,Jodi Merriday,found by name only; check the office (County Commissioner - District 3)
@@ -32,8 +24,6 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 168,CA,Andrew Yam,Garvey Unified School District,unmatched,,,,,,,no 'yam' in any CA contest loaded
 181,CA,Alton Wang,"Pasadena Area Community College District, Trustee Area No. 7",unmatched,,,,,,,no 'wang' in any CA contest loaded
 198,CA,Tiffany Ackley,"Aliso Viejo City Council, At-large",unmatched,,,,,,,no 'ackley' in any CA contest loaded
-1163,CA,Prop – 3: Keep the Wealthy Paying Their Fair Share,Ballot Measure,unmatched,,,,,,,measure '3': not found
-1164,CA,Prop – 4: Small-Donor Democracy Over Big Money in Politics,Ballot Measure,unmatched,,,,,,,measure '4': not found
 276,CO,Taishya Adams,Boulder Mayor,unmatched,,,,,,,no 'adams' in any CO contest loaded
 487,NJ,Shantell Cherry,"Piscataway City Council, Ward 1",unmatched,,,,,,,no 'cherry' in any NJ contest loaded
 739,NY,Alexandria Smith,(Town of) Ulster Town Board,unmatched,,,,,,,no 'smith' in any NY contest loaded
@@ -74,20 +64,34 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 18,CA,Tamisha Torres Walker,"Antioch City Council, District 1",auto,name_in_state,ca.contra_costa,5006,CITY OF ANTIOCH  MEMBER  CITY COUNCIL  DISTRICT 1,TAMISHA TORRES-WALKER,TAMISHA TORRES-WALKER,
 19,CA,Monica Wilson,"Antioch City Council, District 4",auto,name_in_state,ca.contra_costa,5012,CITY OF ANTIOCH  MEMBER  CITY COUNCIL  DISTRICT 4,MONICA E WILSON,MONICA E WILSON,
 20,CA,Brandon Dawkins,"Antioch Unified School District Board of Education, Trustee Area 5",auto,name_in_state,ca.contra_costa,3305,ANTIOCH UNIFIED SCHOOL DISTRICT  GOVERNING BOARD MEMBER  TRUSTEE AREA 5,BRANDON DAWKINS,BRANDON DAWKINS,
+21,CA,Daria Wrubel,"Berkeley City Council, District 4",auto,name_in_state,ca.alameda,"City/Member, City Council, District 1 - Berkeley (RCV, first-choice votes)","Member, City Council, District 1 - Berkeley (RCV, first-choice votes)",Daria Wrubel,Daria Wrubel,
+22,CA,Moni Gangopadhyay,"Berkeley City Council, District 4",auto,name_in_state,ca.alameda,"City/Member, City Council, District 1 - Berkeley (RCV, first-choice votes)","Member, City Council, District 1 - Berkeley (RCV, first-choice votes)",Moni Gangopadhyay,Moni Gangopadhyay,
+23,CA,Syrak Micael,"Berkeley City Council, District 7",auto,name_in_state,ca.alameda,"City/Member, City Council, District 7 - Berkeley (RCV, first-choice votes)","Member, City Council, District 7 - Berkeley (RCV, first-choice votes)",Syrak Micael,Syrak Micael,
+24,CA,Avery Arbaugh,"Berkeley Rent Stabilization Board, At-large",auto,name_in_state,ca.alameda,City/Rent Stabilization Board Commissioners - Berkeley,Rent Stabilization Board Commissioners - Berkeley,Avery Arbaugh,Avery Arbaugh,
+25,CA,Derek Rodriguez,"Berkeley Rent Stabilization Board, At-large",auto,name_in_state,ca.alameda,City/Rent Stabilization Board Commissioners - Berkeley,Rent Stabilization Board Commissioners - Berkeley,Derek Rodriguez,Derek Rodriguez,
+26,CA,Ida Martinac,"Berkeley Rent Stabilization Board, At-large",auto,name_in_state,ca.alameda,City/Rent Stabilization Board Commissioners - Berkeley,Rent Stabilization Board Commissioners - Berkeley,Ida Martinac,Ida Martinac,
+27,CA,Nathan Mizell,"Berkeley Rent Stabilization Board, At-large",auto,name_in_state,ca.alameda,City/Rent Stabilization Board Commissioners - Berkeley,Rent Stabilization Board Commissioners - Berkeley,Nathan Mizell,Nathan Mizell,
+28,CA,Vylma Ortiz,"Berkeley Rent Stabilization Board, At-large",auto,name_in_state,ca.alameda,City/Rent Stabilization Board Commissioners - Berkeley,Rent Stabilization Board Commissioners - Berkeley,Vylma Ortiz,Vylma Ortiz,
 29,CA,Jaria Jaug,"Berryessa Union School District Board of Trustees, At-large",auto,name_in_state,ca.santa_clara,54,Berryessa Union SD,Jaria Jaug,Jaria Jaug,
 30,CA,Sally Lieber,"Board of Equalization, District 2",auto,district_surname,ca,board-of-equalization/2,Board of Equalization District 2,Sally J. Lieber,Sally J. Lieber,
+34,CA,Jenny Wong,"City of Berkeley Auditor, Citywide",auto,name_in_state,ca.alameda,"City/Auditor - Berkeley (RCV, first-choice votes)","Auditor - Berkeley (RCV, first-choice votes)",Jenny Wong,Jenny Wong,
 35,CA,Laura Nakamura,"Concord City Council, District 5",auto,name_in_state,ca.contra_costa,5305,CITY OF CONCORD  MEMBER  CITY COUNCIL  DISTRICT 5,LAURA NAKAMURA,LAURA NAKAMURA,
 36,CA,Cameron Sasai,"Contra Costa Community College Governing Board, Ward 1",auto,name_in_state,ca.contra_costa,3201,CONTRA COSTA COMMUNITY COLLEGE DISTRICT  GOVERNING BOARD MEMBER  WARD 1,CAMERON SASAI,CAMERON SASAI,
 38,CA,Rod Daus-Magbual,"Daly City City Council, At-large",auto,name_in_state,ca.san_mateo,52,"City of Daly City Member, City Council",90,ROD DAUS-MAGBUAL,
+39,CA,Seema Badar,"Dublin Unified School District Board of Trustees, Area 5",auto,name_in_state,ca.alameda,"School/Dublin USD Governing Board Member, Area 5","Dublin USD Governing Board Member, Area 5",Seema Badar,Seema Badar,
 40,CA,Ofelia Bello,"East Palo Alto City Council, At-large",auto,name_in_state,ca.san_mateo,53,"City of East Palo Alto Member, City Council",101,OFELIA BELLO,
 41,CA,Ruben Abrica,"East Palo Alto City Council, At-large",auto,name_in_state,ca.san_mateo,53,"City of East Palo Alto Member, City Council",98,RUBEN ABRICA,
 42,CA,Mer Currey Nunez,"East Side Union High School District Board of Trustees, Area 1",auto,name_in_state,ca.santa_clara,46,"East Side Union HSD, TA 1, Short Term",Mer Curry Nuñez,Mer Curry Nuñez,
 45,CA,Phoebe Shin Venkat,"Foster City Council, District 1",auto,name_in_state,ca.san_mateo,54,"City of Foster City Member, City Council, District 1",104,PHOEBE SHIN VENKAT,
 46,CA,Rebeca Armendariz,"Gilroy City Council, District 6",auto,name_in_state,ca.santa_clara,74,"City of Gilroy Council, District 6",Rebeca G. Armendáriz,Rebeca G. Armendáriz,
+47,CA,George Syrop,"Hayward City Council, District 1",auto,name_in_state,ca.alameda,"City/Member, City Council, District 1 - Hayward","Member, City Council, District 1 - Hayward",George Syrop,George Syrop,
 49,CA,Chris Herrod,"Healdsburg City Council, District 4",auto,name_in_state,ca.sonoma,53,"Member, Healdsburg City Council, District 4",CHRIS HERROD,CHRIS HERROD,
 51,CA,Seema Kanani,"Milpitas City Council, At-large",auto,name_in_state,ca.santa_clara,80,City of Milpitas Council,Seema Kanani,Seema Kanani,
 52,CA,Erik Poicon,"Mountain View City Council, At-large",auto,name_in_state,ca.santa_clara,84,City of Mountain View Council,Erik Poicon,Erik Poicon,
 53,CA,IdaRose Sylvester,"Mountain View City Council, At-large",auto,name_in_state,ca.santa_clara,84,City of Mountain View Council,IdaRose Sylvester,IdaRose Sylvester,
+54,CA,Barbara Lee,Oakland Mayor,auto,name_in_state,ca.alameda,"City/Mayor - Oakland (RCV, first-choice votes)","Mayor - Oakland (RCV, first-choice votes)",Barbara Lee,Barbara Lee,
+55,CA,Jennifer Brouhard,"OUSD School Board, District 2",auto,name_in_state,ca.alameda,"City/School Director, District 2 - Oakland (RCV, first-choice votes)","School Director, District 2 - Oakland (RCV, first-choice votes)",Jennifer Brouhard,Jennifer Brouhard,
+56,CA,Valarie Bachelor,"OUSD School Board, District 6",auto,name_in_state,ca.alameda,"City/School Director, District 6 - Oakland (RCV, first-choice votes)","School Director, District 6 - Oakland (RCV, first-choice votes)",Valarie Bachelor,Valarie Bachelor,
 57,CA,Christine Boles,"Pacifica City Council, District 2",auto,name_in_state,ca.san_mateo,65,"City of Pacifica Member, City Council, District 2",123,CHRISTINE BOLES,
 58,CA,Sam Casillas,"Pacifica City Council, District 5",auto,name_in_state,ca.san_mateo,67,"City of Pacifica Member, City Council, District 5",126,SAM CASILLAS,
 59,CA,Eric Vazquez,"Petaluma City Council, District 3",auto,name_in_state,ca.sonoma,57,"Member, Petaluma City Council, District 3",ERIC VAZQUEZ,ERIC VAZQUEZ,
@@ -114,8 +118,20 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 95,CA,Lateefah Simon,"U.S. House of Representatives, District 12",auto,district_surname,ca,us-rep/12,U.S. House of Representatives District 12,Lateefah Simon,Lateefah Simon,
 96,CA,Aisha Wahab,"U.S. House of Representatives, District 14",auto,district_surname,ca,us-rep/14,U.S. House of Representatives District 14,Aisha Wahab,Aisha Wahab,
 97,CA,Ro Khanna,"U.S. House of Representatives, District 17",auto,district_surname,ca,us-rep/17,U.S. House of Representatives District 17,Ro Khanna,Ro Khanna,
+98,CA,Brianna Rogers,"Vallejo City Council, District 4",auto,name_in_state,ca.solano,55,"Member, City Council, City of Vallejo - District 4",2,BRIANNA ROGERS,
 102,CA,Kristina Pine,"Ventura County Board of Education, Trustee Area 4",auto,name_in_state,ca.ventura,38,Ventura County Board Of Education Trustee Area 4,KRISTINA PINE,KRISTINA PINE,
+104,CA,David Silva,Buellton City Mayor,auto,name_in_state,ca.santa_barbara,City of Buellton Mayor (Vote for 1),City of Buellton Mayor,DAVID SILVA,DAVID SILVA,
+112,CA,Juan Telles,"Modesto City Council, Distrcit 2",auto,name_in_state,ca.stanislaus,"City of Modesto Member, City Council - District 2 - Vote for ONE","City of Modesto Member, City Council - District 2",JUAN TELLES,JUAN TELLES,
 113,CA,Jasmine Duron,"Oxnard School Board Trustee, Area 2",auto,name_in_state,ca.ventura,50,Oxnard School District Trustee Area 2,JASMINE DURON,JASMINE DURON,
+114,CA,Eriberto Estrada,"PVUSD Board, Distrcit 4",auto,name_in_state,ca.santa_cruz,26,Pajaro Valley Unified School District Governing Board Member - Trustee Area 4,"ERIBERTO ESTRADA, IV",ERIBERTO ESTRADA IV,
+115,CA,Jeanette Reyes,"Riverbank City Council, Distrcit 1",auto,name_in_state,ca.stanislaus,"City of Riverbank Member, City Council - District 1 - Vote for ONE","City of Riverbank Member, City Council - District 1",JEANETTE REYES,JEANETTE REYES,
+116,CA,Sammi Martinez,"Riverbank City Council, Distrcit 3",auto,name_in_state,ca.stanislaus,"City of Riverbank Member, City Council - District 3 - Vote for ONE","City of Riverbank Member, City Council - District 3",SAMMI MARTINEZ,SAMMI MARTINEZ,
+117,CA,Flo Cofer,"Sacramento County Board of Supervisors, Distrcit 1",auto,name_in_state,ca.sacramento,01000000-953c-d91e-e5dc-08df23c4bbbb,Board of Supervisors District 1,01000000-953c-d91e-e609-08df23c4bbbb,FLO COFER,
+118,CA,Gabe Escobedo,"Santa Barbara City Council, Distrcit 6",auto,name_in_state,ca.santa_barbara,City of Santa Barbara Member City Council Dist 6 (Vote for 1),City of Santa Barbara Member City Council Dist 6,GABE ESCOBEDO,GABE ESCOBEDO,
+119,CA,Devon Wardlow,"Santa Barbara City Council, District 4",auto,name_in_state,ca.santa_barbara,City of Santa Barbara Member City Council Dist 4 (Vote for 1),City of Santa Barbara Member City Council Dist 4,DEVON WARDLOW,DEVON WARDLOW,
+120,CA,Ian Baucke,"Santa Barbara City Council, District 5",auto,name_in_state,ca.santa_barbara,City of Santa Barbara Member City Council Dist 5 (Vote for 1),City of Santa Barbara Member City Council Dist 5,IAN J. BAUCKE,IAN J. BAUCKE,
+123,CA,Ami Chen Mills,Santa Cruz Mayor,auto,name_in_state,ca.santa_cruz,31,City of Santa Cruz Mayor,AMI CHEN MILLS,AMI CHEN MILLS,
+124,CA,Gloria Soto,"Santa Maria City Council, Distrcit 3",auto,name_in_state,ca.santa_barbara,City of Santa Maria Member City Council Dist 3 (Vote for 1),City of Santa Maria Member City Council Dist 3,GLORIA SOTO,GLORIA SOTO,
 125,CA,Sam Cohen,"Simi Valley City Council, Distrcit 2",auto,name_in_state,ca.ventura,77,Simi Valley City Council District 2,SAM COHEN,SAM COHEN,
 126,CA,Josh Gray,"Simi Valley City Council, District 4",auto,name_in_state,ca.ventura,78,Simi Valley City Council District 4,JOSH GRAY,JOSH GRAY,
 127,CA,Sean Frame,"State Senate, Distrcit 6",auto,district_surname,ca,state-senate/6,State Senate District 6,Sean Frame,Sean Frame,
@@ -211,9 +227,19 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 236,CA,Corinna Contreras,"Vista City Council, District 1",auto,name_in_state,ca.san_diego,160,"CITY OF VISTA MEMBER, CITY COUNCIL DISTRICT NO. 1",494,CORINNA CONTRERAS,
 237,CA,Kenneth Zuniga,Vista Mayor,auto,name_in_state,ca.san_diego,159,CITY OF VISTA MAYOR,491,KENNETH ZUNIGA,
 238,CA,Jane Kim,State Insurance Commissioner,auto,district_surname,ca,insurance-commissioner,Insurance Commissioner,Jane Kim,Jane Kim,
-1161,CA,Prop – 1: Invest in Affordable Homes,Ballot Measure,auto,measure_number,ca.santa_clara,101,State Proposition 1 - The Veterans and Affordable Housing Bond Act of 2026,Yes,Yes,
-1165,CA,Prop – 5: Reform Recall Elections,Ballot Measure,auto,measure_number,ca.santa_clara,105,State Proposition 5 - Elections: Recall of State Officers,Yes,Yes,
-1167,CA,Prop 39: Reject Voter Suppression,Ballot Measure,auto,measure_number,ca.santa_clara,108,State Proposition 39 - Establishes Additional Voter Identification and Citizenship Verification Requirements,No,No,
+1161,CA,Prop – 1: Invest in Affordable Homes,Ballot Measure,auto,measure_number,ca,prop/1,Proposition 1: Authorizes Bonds For Housing Affordability Programs. Legislative Statute.,Yes,Yes,
+1162,CA,Prop – 2: Strengthen California’s Rainy Day Fund,Ballot Measure,auto,measure_number,ca,prop/2,Proposition 2: Increases State's Rainy Day Fund. Legislative Constitutional Amendment.,Yes,Yes,
+1163,CA,Prop – 3: Keep the Wealthy Paying Their Fair Share,Ballot Measure,auto,measure_number,ca,prop/3,Proposition 3: Provides Permanent Funding For Schools And Health Care By Extending Existing Tax On High Incomes. Initiative Constitutional Amendment.,Yes,Yes,
+1164,CA,Prop – 4: Small-Donor Democracy Over Big Money in Politics,Ballot Measure,auto,measure_number,ca,prop/4,Proposition 4: Repeals Prohibition Against Public Funding Of Election Campaigns. Legislative Statute.,Yes,Yes,
+1165,CA,Prop – 5: Reform Recall Elections,Ballot Measure,auto,measure_number,ca,prop/5,Proposition 5: Changes Recall Election Process For Statewide Officers. Legislative Constitutional Amendment.,Yes,Yes,
+1166,CA,Prop 38: Fund Life-Saving Medical Research,Ballot Measure,auto,measure_number,ca,prop/38,Proposition 38: Authorizes Bonds For Immunology Medical Research. Initiative Statute.,Yes,Yes,
+1167,CA,Prop 39: Reject Voter Suppression,Ballot Measure,auto,measure_number,ca,prop/39,Proposition 39: Prohibits Citizens From Voting Unless They Present Government-Issued Identification. Initiative Constitutional Amendment.,No,No,
+1168,CA,Prop 40: Tax Billionaires to Fund Healthcare & Education,Ballot Measure,auto,measure_number,ca,prop/40,Proposition 40: Imposes One-Time Tax On Certain Taxpayers. Initiative Constitutional Amendment And Statute.,Yes,Yes,
+1169,CA,Prop 41: Billionaire Tax Poison Pill,Ballot Measure,auto,measure_number,ca,prop/41,Proposition 41: Prohibits New State Taxes That Exclude Revenues From State Spending Limit. Requires Audits For New State Special Taxes. Initiative Constitutional Amendment.,No,No,
+1170,CA,Prop 42: Billionaire Tax Poison Pill,Ballot Measure,auto,measure_number,ca,prop/42,Proposition 42: Prohibits New State Personal Property Taxes And Certain Retroactive State Taxes. Initiative Constitutional Amendment.,No,No,
+1171,CA,Prop 43: Protect Local Funding,Ballot Measure,auto,measure_number,ca,prop/43,Proposition 43: Limits Voters' Ability To Raise Revenues For Local Government Services. Legislative Constitutional Amendment.,No,No,
+1172,CA,Prop 44: Protect Community Health Clinics,Ballot Measure,auto,measure_number,ca,prop/44,Proposition 44: Requires Community Health Clinics Spend 90% Of Revenue On Program Services. Initiative Statute.,No,No,
+1173,CA,Prop 45: Reject Corporate Polluting Projects,Ballot Measure,auto,measure_number,ca,prop/45,Proposition 45: Modifies Environmental Review For Certain Projects. Initiative Statute.,No,No,
 239,CO,Melat Kiros,"U.S. House of Representatives, District 1",auto,district_surname,co,110,Representative to the 120th United States Congress - District 1,Melat Kiros,Melat Kiros,
 240,CO,Amanda Gonzalez,Colorado Secretary of State,auto,district_surname,co,220,Secretary of State,Amanda Gonzalez,Amanda Gonzalez,
 241,CO,Jena Griswold,Attorney General,auto,district_surname,co,240,Attorney General,Jena Griswold,Jena Griswold,
@@ -427,6 +453,7 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 425,GA,Ruwa Romman,"Georgia State Senate, District 7",auto,district_surname,ga,01000000-3a82-a359-b576-08df23e6dacd,State Senate - District 7/ Senador Estatal del Distrito 7,01000000-3a82-a359-b58f-08df23e6dacd,Ruwa Romman,
 426,GA,Nikki Merritt,"Georgia State Senate, District 9",auto,district_surname,ga,01000000-3a82-a359-7106-08df23e6da9b,State Senate - District 9/ Senador Estatal del Distrito 9,01000000-3a82-a359-711e-08df23e6da9b,Nikki Merritt (I),
 427,GA,Kenya Wicks,"Georgia State Senate, District 34",auto,district_surname,ga,01000000-3a82-a359-1a4a-08df23e657ad,State Senate - District 34,01000000-3a82-a359-1a66-08df23e657ad,Kenya Wicks (I),
+431,LA,Simone Levine,"Judge, Criminal District Court, Section D, Orleans Parish",auto,name_in_state,la,70090,"Judge -- Criminal District Court, Section D",128711,Simone Levine,
 443,MA,Lorena Betts,"Massachusetts State House, 16th Middlesex District",auto,district_surname,manual,ma.house.16th-middlesex,State Representative 16th Middlesex,Lorena Betts,Lorena Betts,
 444,MA,Jack Richardson,"Massachusetts State House, 3rd Barnstable District",auto,district_surname,manual,ma.house.3rd-barnstable,State Representative 3rd Barnstable,Jack Richardson,Jack Richardson,
 445,MA,Tom Hendrickson,"Massachusetts State House, 3rd Hampden District",auto,district_surname,manual,ma.house.3rd-hampden,State Representative 3rd Hampden,Thomas Hendrickson,Thomas Hendrickson,
@@ -468,6 +495,8 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 470,MI,Abbas Alawieh,"Michigan State Senate, District 2",auto,district_surname,mi.wayne,State Senator District 2,State Senator District 2,Abbas Alawieh,Abbas Alawieh,
 471,MI,Yousef Rabhi,Ann Arbor City Mayor,auto,name_in_state,mi.washtenaw,Mayor City of Ann Arbor,Mayor City of Ann Arbor,Yousef Rabhi,Yousef Rabhi,
 472,MI,Ryan Bartholomew,Ann Arbor City Council Ward 3,auto,name_in_state,mi.washtenaw,Ann Arbor Ward 3 Council,Ann Arbor Ward 3 Council,Ryan Bartholomew,Ryan Bartholomew,
+475,MN,Jeffrey Sheridan,Dakota County Attorney,auto,name_in_state,mn,19-0405-,Dakota County Attorney,9002,Jeffrey Sheridan,
+476,MN,Cedrick Frazier,Hennepin County Attorney,auto,name_in_state,mn,27-0405-,Hennepin County Attorney,9003,Cedrick Frazier,
 916,NC,Shannon Long,Alamance County Sheriff,auto,name_in_state,nc,3:ALAMANCE COUNTY SHERIFF,Alamance County Sheriff,Shannon Long,Shannon Long,
 917,NC,Anita Earls,North Carolina Supreme Court,auto,name_in_state,nc,1368:NC SUPREME COURT ASSOCIATE JUSTICE SEAT 01,Nc Supreme Court Associate Justice Seat 01,Anita Earls,Anita Earls,
 918,NC,Marcia Morey,"State House, District 30",auto,district_surname,nc,1198:NC HOUSE OF REPRESENTATIVES DISTRICT 030,Nc House Of Representatives District 030,Marcia Morey,Marcia Morey,
@@ -477,6 +506,9 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 922,NC,Rev. Rodney Sadler,State House District 106,auto,district_surname,nc,1274:NC HOUSE OF REPRESENTATIVES DISTRICT 106,Nc House Of Representatives District 106,Rodney Sadler,Rodney Sadler,
 923,NC,Satana Deberry,Durham County District Attorney,auto,name_in_state,nc,1015:DISTRICT ATTORNEY DISTRICT 16,District Attorney District 16,Satana Deberry,Satana Deberry,
 924,NC,Garry McFadden,Mecklenburg County Sheriff,auto,name_in_state,nc,9:MECKLENBURG COUNTY SHERIFF,Mecklenburg County Sheriff,Garry L. McFadden,Garry L. McFadden,
+477,NE,Makayla Danner,Douglas County District Attorney,auto,name_in_state,ne.douglas,Douglas County Attorney,Douglas County Attorney,Makayla Danner,Makayla Danner,
+478,NE,Mark Martinez,Douglas County Sheriff,auto,name_in_state,ne.douglas,Douglas County Sheriff,Douglas County Sheriff,Mark Martinez,Mark Martinez,
+479,NE,Randall Ritnour,Lancaster County District Attorney,auto,name_in_state,manual,ne.lancaster.county-attorney,Lancaster County Attorney,Randall Ritnour,Randall Ritnour,
 483,NJ,Ron Bautista,Hudson County Commissioner District 5,auto,name_in_state,nj.hudson,0013,County Commissioner - 5th,RON BAUTISTA,RON BAUTISTA,
 484,NJ,Bill O’Dea,"Hudson County Commissioner, District 2",auto,name_in_state,nj.hudson,0010,County Commissioner - 2nd,BILL O'DEA,BILL O'DEA,
 485,NJ,Pam Johnson,"Hudson County Commissioner, District 3",auto,name_in_state,nj.hudson,0011,County Commissioner - 3rd,PAM JOHNSON,PAM JOHNSON,
@@ -1015,8 +1047,11 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 4,AZ,Sarah Ligouri,"Arizona State House, Legislative District 5",confirmed,near_name,az,248c0000-c0a3-7204-d720-08df11bc03cf,State Representative - District No.  5,248c0000-c0a3-7204-d8f2-08df11bc03cf,Sarah Liguori,"name differs: WFP 'Sarah Ligouri', feed 'Sarah Liguori' | confirmed Nov 4: WFP's spelling; feed 'Sarah Liguori', same district"
 14,AZ,Priya Sunderashan,"Arizona State Senate, Legislative District 18",confirmed,near_name,az,248c0000-c0a3-7204-8cc1-08df11bc03cf,State Senator - District No. 18,248c0000-c0a3-7204-8fd1-08df11bc03cf,Priya Sundareshan,"name differs: WFP 'Priya Sunderashan', feed 'Priya Sundareshan' | confirmed Nov 4: WFP's spelling; feed 'Priya Sundareshan', same district"
 37,CA,Rebecca Barrett,"Contra Costa Community College Governing Board, Ward 3",confirmed,near_name,ca.contra_costa,3211,CONTRA COSTA COMMUNITY COLLEGE DISTRICT  GOVERNING BOARD MEMBER  WARD 3,BECCA BARRETT,BECCA BARRETT,"first name differs: WFP 'Rebecca Barrett', feed 'BECCA BARRETT' | confirmed Nov 4: same district/ward"
+48,CA,Michelle Fernellius,"Hayward Unified School District Board of Trustee, Area 4",confirmed,near_name,ca.alameda,"School/Hayward USD Governing Board Member, Area 4","Hayward USD Governing Board Member, Area 4",Michelle Fernelius,Michelle Fernelius,"surname differs: WFP 'Michelle Fernellius', feed 'Michelle Fernelius' | confirmed Nov 11: Hayward USD Area 4; county spells it Fernelius"
 82,CA,Joanna Paun,"Sonoma County Board of Supervisors, District 2",confirmed,name_in_state,ca.sonoma,45,"County Supervisor, 2nd District",JOANNA PAUN,JOANNA PAUN,"found by name only; check the office (County Supervisor, 2nd District) | confirmed Nov 4: same district/ward"
 83,CA,Melanie Bagby,"Sonoma County Board of Supervisors, District 4",confirmed,name_in_state,ca.sonoma,46,"County Supervisor, 4th District",MELANIE BAGBY,MELANIE BAGBY,"found by name only; check the office (County Supervisor, 4th District) | confirmed Nov 4: same district/ward"
+103,CA,Carla Meade,"Buellton City Council, District 4",confirmed,near_name,ca.santa_barbara,City of Buellton Member City Council Dist 4 (Vote for 1),City of Buellton Member City Council Dist 4,CARLA MEAD,CARLA MEAD,"surname differs: WFP 'Carla Meade', feed 'CARLA MEAD' | confirmed Nov 11: Buellton council District 4; county spells it Mead"
+121,CA,Ricardo Valencia,"Santa Barbara County Board of Supervisors, District 5",confirmed,name_in_state,ca.santa_barbara,County Supervisor 5th District (Vote for 1),County Supervisor 5th District,RICARDO VALENCIA,RICARDO VALENCIA,"found by name only; check the office (County Supervisor 5th District) | confirmed Nov 11: Santa Barbara County supervisor, 5th District"
 194,CA,Helen Kreiger,West Hollywood City Council,confirmed,near_name,ca.los_angeles,10533,CITY OF WEST HOLLYWOOD GENERAL MUNICIPAL ELECTION Member of the City Council,26655,HELEN KRIEGER,"WFP spells it 'Kreiger'; feed 'HELEN KRIEGER', same West Hollywood council race | confirmed Nov 4"
 397,DC,Oye Olowela,"District Council, At-Large",confirmed,near_name,dc,7,AT-LARGE MEMBER OF THE COUNCIL OF THE DISTRICT OF COLUMBIA (first-choice votes),1,Oye Owolewa,WFP spells it 'Olowela'; feed 'Oye Owolewa' | confirmed Nov 4: at-large council
 452,MA,Shannon Teabo,"Massachusetts State House, Worcester & Hampshire District",confirmed,name_in_state,manual,ma.senate.worcester-hampshire,State Senator Worcester and Hampshire,Shannon Teabo,Shannon Teabo,WFP lists State House; she is the Democratic nominee for the Worcester and Hampshire State Senate seat | confirmed Nov 4
@@ -1057,25 +1092,9 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 877,NY,Nicholas Coffee,Gates Town Supervisor,confirmed,near_name,ny.monroe,01000000-fff9-9fc1-fa8a-08df1feafbfc,Supervisor Gates,01000000-fff9-9fc1-faa5-08df1feafbfc,Nick Coffee,first-name variant (Nick Coffee); same surname and district
 882,NY,Jennifer Townsend,Perinton Town Supervisor,confirmed,near_name,ny.monroe,01000000-fff9-9fc1-4d5a-08df1feafbfd,Supervisor Perinton,01000000-fff9-9fc1-4d73-08df1feafbfd,Jenn Townsend,first-name variant (Jenn Townsend); same surname and district
 892,NY,Doug Mooradian,"Niagara County Legislature, District 7",confirmed,near_name,ny.niagara,19,County Legislator District 7,34,Douglas E. Mooradian,first-name variant (Douglas E. Mooradian); same district | confirmed Nov 4
-17,AR,Bobby Forrest Jr.,State Circuit Court District 6 Prosecuting Attorney,no_source,,,,,,,no source covers AR yet
-21,CA,Daria Wrubel,"Berkeley City Council, District 4",no_source,,,,,,,no source carries Alameda local races yet
-22,CA,Moni Gangopadhyay,"Berkeley City Council, District 4",no_source,,,,,,,no source carries Alameda local races yet
-23,CA,Syrak Micael,"Berkeley City Council, District 7",no_source,,,,,,,no source carries Alameda local races yet
-24,CA,Avery Arbaugh,"Berkeley Rent Stabilization Board, At-large",no_source,,,,,,,no source carries Alameda local races yet
-25,CA,Derek Rodriguez,"Berkeley Rent Stabilization Board, At-large",no_source,,,,,,,no source carries Alameda local races yet
-26,CA,Ida Martinac,"Berkeley Rent Stabilization Board, At-large",no_source,,,,,,,no source carries Alameda local races yet
-27,CA,Nathan Mizell,"Berkeley Rent Stabilization Board, At-large",no_source,,,,,,,no source carries Alameda local races yet
-28,CA,Vylma Ortiz,"Berkeley Rent Stabilization Board, At-large",no_source,,,,,,,no source carries Alameda local races yet
 31,CA,Bunny McFadden,"City College of San Francisco Board of Trustees, At-large",no_source,,,,,,,no source carries San Francisco local races yet
 32,CA,Jeremy Lee,"City College of San Francisco Board of Trustees, At-large",no_source,,,,,,,no source carries San Francisco local races yet
 33,CA,Leah LaCroix,"City College of San Francisco Board of Trustees, At-large",no_source,,,,,,,no source carries San Francisco local races yet
-34,CA,Jenny Wong,"City of Berkeley Auditor, Citywide",no_source,,,,,,,no source carries Alameda local races yet
-39,CA,Seema Badar,"Dublin Unified School District Board of Trustees, Area 5",no_source,,,,,,,no source carries Alameda local races yet
-47,CA,George Syrop,"Hayward City Council, District 1",no_source,,,,,,,no source carries Alameda local races yet
-48,CA,Michelle Fernellius,"Hayward Unified School District Board of Trustee, Area 4",no_source,,,,,,,no source carries Alameda local races yet
-54,CA,Barbara Lee,Oakland Mayor,no_source,,,,,,,no source carries Alameda local races yet
-55,CA,Jennifer Brouhard,"OUSD School Board, District 2",no_source,,,,,,,no source carries Alameda local races yet
-56,CA,Valarie Bachelor,"OUSD School Board, District 6",no_source,,,,,,,no source carries Alameda local races yet
 66,CA,Gary McCoy,"San Francisco Board of Supervisors, District 8",no_source,,,,,,,no source carries San Francisco local races yet
 67,CA,Michael Nguyen,"San Francisco Board of Supervisors, District 8",no_source,,,,,,,no source carries San Francisco local races yet
 68,CA,Dion-Jay (DJ) Brookter,"San Francisco Board of Supervisors, District 10",no_source,,,,,,,no source carries San Francisco local races yet
@@ -1086,12 +1105,9 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 85,CA,Aysha Dominguez Pamukcu,"South San Francisco City Council, District 1",no_source,,,,,,,no source carries San Francisco local races yet
 86,CA,Melanie Olson,"South San Francisco City Council, District 3",no_source,,,,,,,no source carries San Francisco local races yet
 87,CA,Eddie Flores,"South San Francisco City Council, District 5",no_source,,,,,,,no source carries San Francisco local races yet
-98,CA,Brianna Rogers,"Vallejo City Council, District 4",no_source,,,,,,,no source carries Solano local races yet
 99,CA,Gabriel Garcia,"Arvin Ctiy Council, At-large",no_source,,,,,,,no source carries Kern local races yet
 100,CA,Jose Luis Garcia,"Arvin Ctiy Council, At-large",no_source,,,,,,,no source carries Kern local races yet
 101,CA,Manpreet Kaur,"Bakersfield City Council, Ward 7",no_source,,,,,,,no source carries Kern local races yet
-103,CA,Carla Meade,"Buellton City Council, District 4",no_source,,,,,,,no source carries Santa Barbara local races yet
-104,CA,David Silva,Buellton City Mayor,no_source,,,,,,,no source carries Santa Barbara local races yet
 105,CA,Susie Nava,"College Of Sequias Board, Ward 5",no_source,,,,,,,no source carries Tulare local races yet
 106,CA,Naindeep Singh,"Fresno City Council, District 1",no_source,,,,,,,no source carries Fresno local races yet
 107,CA,Ariana Martinez Lott,"Fresno City Council, District 7",no_source,,,,,,,no source carries Fresno local races yet
@@ -1099,18 +1115,6 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 109,CA,Jevon Price,"Tulare Local Healthcare District, Area 3",no_source,,,,,,,no source carries Tulare local races yet
 110,CA,Anastasia Hopper,"Kern Board of Education, Area 1",no_source,,,,,,,no source carries Kern local races yet
 111,CA,David Wescott,"Kern High School District, Area 1",no_source,,,,,,,no source carries Kern local races yet
-112,CA,Juan Telles,"Modesto City Council, Distrcit 2",no_source,,,,,,,no source carries Stanislaus local races yet
-114,CA,Eriberto Estrada,"PVUSD Board, Distrcit 4",no_source,,,,,,,no source carries Santa Cruz local races yet
-115,CA,Jeanette Reyes,"Riverbank City Council, Distrcit 1",no_source,,,,,,,no source carries Stanislaus local races yet
-116,CA,Sammi Martinez,"Riverbank City Council, Distrcit 3",no_source,,,,,,,no source carries Stanislaus local races yet
-117,CA,Flo Cofer,"Sacramento County Board of Supervisors, Distrcit 1",no_source,,,,,,,no source carries Sacramento local races yet
-118,CA,Gabe Escobedo,"Santa Barbara City Council, Distrcit 6",no_source,,,,,,,no source carries Santa Barbara local races yet
-119,CA,Devon Wardlow,"Santa Barbara City Council, District 4",no_source,,,,,,,no source carries Santa Barbara local races yet
-120,CA,Ian Baucke,"Santa Barbara City Council, District 5",no_source,,,,,,,no source carries Santa Barbara local races yet
-121,CA,Ricardo Valencia,"Santa Barbara County Board of Supervisors, District 5",no_source,,,,,,,no source carries Santa Barbara local races yet
-122,CA,Justin Cummings,"Santa Cruz County Board of Supervisors, District 3",no_source,,,,,,,no source carries Santa Cruz local races yet
-123,CA,Ami Chen Mills,Santa Cruz Mayor,no_source,,,,,,,no source carries Santa Cruz local races yet
-124,CA,Gloria Soto,"Santa Maria City Council, Distrcit 3",no_source,,,,,,,no source carries Santa Barbara local races yet
 128,CA,Jose Salazar,"Fresno County Superior Court, Seat 7",no_source,,,,,,,no source carries Fresno local races yet
 133,CA,Emmanuel Soto,"Visalia City Council, Distrcit 4",no_source,,,,,,,no source carries Tulare local races yet
 134,CA,Wences Sosa,"Visalia City Council, Distrcit 5",no_source,,,,,,,no source carries Tulare local races yet
@@ -1126,16 +1130,10 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 148,CA,Abel Chavez,"Nuevo Union School Board, At-large",no_source,,,,,,,no source carries Riverside local races yet
 152,CA,Aram Ayra,"Riverside City Council, Ward 2",no_source,,,,,,,no source carries Riverside local races yet
 430,KY,Charles Booker,U.S. Senate,no_source,,,,,,,no source covers KY yet
-431,LA,Simone Levine,"Judge, Criminal District Court, Section D, Orleans Parish",no_source,,,,,,,no source covers LA yet
 432,ME,Troy Jackson,U.S. Senate,no_source,,,,,,,no source covers ME yet
 433,ME,Jacqueline Sartoris,Cumberland County District Attorney,no_source,,,,,,,no source covers ME yet
 473,MI,Kenzie Colton,Bay City Commission Ward 3,no_source,,,,,,,no source carries Bay local races yet
 474,MI,Chris Runberg,Bay City Commission Ward 7,no_source,,,,,,,no source carries Bay local races yet
-475,MN,Jeffrey Sheridan,Dakota County Attorney,no_source,,,,,,,no source covers MN yet
-476,MN,Cedrick Frazier,Hennepin County Attorney,no_source,,,,,,,no source covers MN yet
-477,NE,Makayla Danner,Douglas County District Attorney,no_source,,,,,,,no source carries Douglas local races yet
-478,NE,Mark Martinez,Douglas County Sheriff,no_source,,,,,,,no source carries Douglas local races yet
-479,NE,Randall Ritnour,Lancaster County District Attorney,no_source,,,,,,,no source carries Lancaster local races yet
 480,NJ,LaMonica McIver,"U.S. House of Representatives, District 10",no_source,,,,,,,NJ has only county sources so far
 481,NJ,Analilia Mejia,"U.S. House of Representatives, District 11",no_source,,,,,,,NJ has only county sources so far
 482,NJ,Adam Hamawy,"U.S. House of Representatives, District 12",no_source,,,,,,,NJ has only county sources so far
@@ -1204,6 +1202,8 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 1220,WI,"Wisconsin Question 2, Freedom to Gather in Places of Worship During an Emergency Referendum",Ballot Measure,no_source,,,,,,,WI has only county sources so far
 1221,WI,"Wisconsin Question 3, Governmental Entity Discrimination Prohibited Referendum",Ballot Measure,no_source,,,,,,,WI has only county sources so far
 1153,WY,Aaron Appelhans,Albany County Sheriff,no_source,,,,,,,no source covers WY yet
+17,AR,Bobby Forrest Jr.,State Circuit Court District 6 Prosecuting Attorney,not_on_ballot,,,,,,,Prosecuting attorney races are on Arkansas's March nonpartisan ballot with November runoffs only; District 6 isn't on the Nov 3 ballot (only 11-West is).
+122,CA,Justin Cummings,"Santa Cruz County Board of Supervisors, District 3",not_on_ballot,,,,,,,"Won District 3 unopposed in the June 2, 2026 primary; no supervisor race on the Nov 3 ballot."
 394,DC,Rashida Brown,"District Council, Ward 1 (Ranking recommendation)",not_on_ballot,,,,,,,Not on DC's Nov 3 Ward 1 council ballot (Aparna Raj is the Democrat); checked Nov 4 against DCBOE results.
 448,MA,Johnnie McKnight,"Massachusetts State House, 11th Hampden District",not_on_ballot,,,,,,,Lost the Sept 1 Democratic primary for 11th Hampden to Bud L. Williams (electionstats 173375).
 453,MA,Latoya Gayle,"Massachusetts State Senate, 1st Suffolk District",not_on_ballot,,,,,,,Lost the Sept 1 Democratic primary for 1st Suffolk Senate to Nicholas P. Collins (electionstats 173147).

@@ -1,0 +1,4499 @@
+{
+ "source": "la",
+ "contests": [
+  {
+   "source": "la",
+   "contest_id": "67997",
+   "state": "LA",
+   "title": "U. S. Senator",
+   "office_type": "federal_senate",
+   "district": null,
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3722,
+    "units_total": 3722,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "\"Jamie\" Davis",
+     "votes": 720217,
+     "party": "DEM",
+     "pct": 49.12,
+     "choice_id": "124654",
+     "party_lines": null
+    },
+    {
+     "name": "Julia Letlow",
+     "votes": 746014,
+     "party": "REP",
+     "pct": 50.88,
+     "choice_id": "124655",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "70195",
+   "state": "LA",
+   "title": "U. S. Representative -- 1st Congressional District",
+   "office_type": "federal_house",
+   "district": "1",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 522,
+    "units_total": 522,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Randall Arrington",
+     "votes": 9776,
+     "party": "REP",
+     "pct": 3.71,
+     "choice_id": "124838",
+     "party_lines": null
+    },
+    {
+     "name": "E. \"Liddy\" Glass",
+     "votes": 4279,
+     "party": null,
+     "pct": 1.62,
+     "choice_id": "128364",
+     "party_lines": null
+    },
+    {
+     "name": "Lauren Jewett",
+     "votes": 89440,
+     "party": "DEM",
+     "pct": 33.96,
+     "choice_id": "124814",
+     "party_lines": null
+    },
+    {
+     "name": "Steve Scalise",
+     "votes": 159896,
+     "party": "REP",
+     "pct": 60.71,
+     "choice_id": "128488",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "70196",
+   "state": "LA",
+   "title": "U. S. Representative -- 2nd Congressional District",
+   "office_type": "federal_house",
+   "district": "2",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 613,
+    "units_total": 613,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Lisa Ballay",
+     "votes": 6409,
+     "party": "LBT",
+     "pct": 2.66,
+     "choice_id": "128128",
+     "party_lines": null
+    },
+    {
+     "name": "Walter \"Rocky\" Beach",
+     "votes": 2553,
+     "party": null,
+     "pct": 1.06,
+     "choice_id": "126704",
+     "party_lines": null
+    },
+    {
+     "name": "Troy A. Carter, Sr.",
+     "votes": 192286,
+     "party": "DEM",
+     "pct": 79.91,
+     "choice_id": "124710",
+     "party_lines": null
+    },
+    {
+     "name": "Renada \"Honey\" Collins",
+     "votes": 2999,
+     "party": null,
+     "pct": 1.25,
+     "choice_id": "128470",
+     "party_lines": null
+    },
+    {
+     "name": "Peter Williams",
+     "votes": 36369,
+     "party": "REP",
+     "pct": 15.11,
+     "choice_id": "128392",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "70197",
+   "state": "LA",
+   "title": "U. S. Representative -- 3rd Congressional District",
+   "office_type": "federal_house",
+   "district": "3",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 571,
+    "units_total": 571,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "\"Kate\" Cotten",
+     "votes": 15661,
+     "party": "REP",
+     "pct": 6.66,
+     "choice_id": "128096",
+     "party_lines": null
+    },
+    {
+     "name": "John Day",
+     "votes": 49163,
+     "party": "DEM",
+     "pct": 20.92,
+     "choice_id": "128098",
+     "party_lines": null
+    },
+    {
+     "name": "Priscilla Gonzalez",
+     "votes": 16828,
+     "party": "DEM",
+     "pct": 7.16,
+     "choice_id": "127456",
+     "party_lines": null
+    },
+    {
+     "name": "\"Clay\" Higgins",
+     "votes": 129203,
+     "party": "REP",
+     "pct": 54.98,
+     "choice_id": "126289",
+     "party_lines": null
+    },
+    {
+     "name": "Tia LeBrun",
+     "votes": 4208,
+     "party": null,
+     "pct": 1.79,
+     "choice_id": "128322",
+     "party_lines": null
+    },
+    {
+     "name": "Caleb \"With a C\" Walker",
+     "votes": 19932,
+     "party": "DEM",
+     "pct": 8.48,
+     "choice_id": "127825",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "70198",
+   "state": "LA",
+   "title": "U. S. Representative -- 4th Congressional District",
+   "office_type": "federal_house",
+   "district": "4",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 684,
+    "units_total": 684,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Conrad Cable",
+     "votes": 52899,
+     "party": "DEM",
+     "pct": 22.96,
+     "choice_id": "124916",
+     "party_lines": null
+    },
+    {
+     "name": "\"Matt\" Gromlich",
+     "votes": 32868,
+     "party": "DEM",
+     "pct": 14.27,
+     "choice_id": "128295",
+     "party_lines": null
+    },
+    {
+     "name": "Gordon Heslop",
+     "votes": 2571,
+     "party": "REP",
+     "pct": 1.12,
+     "choice_id": "128648",
+     "party_lines": null
+    },
+    {
+     "name": "\"Mike\" Johnson",
+     "votes": 134750,
+     "party": "REP",
+     "pct": 58.5,
+     "choice_id": "125565",
+     "party_lines": null
+    },
+    {
+     "name": "\"Mike\" Nichols",
+     "votes": 7271,
+     "party": "REP",
+     "pct": 3.16,
+     "choice_id": "126511",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "70199",
+   "state": "LA",
+   "title": "U. S. Representative -- 5th Congressional District",
+   "office_type": "federal_house",
+   "district": "5",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 791,
+    "units_total": 791,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Stewart Cathey, Jr.",
+     "votes": 28168,
+     "party": "REP",
+     "pct": 12.36,
+     "choice_id": "125294",
+     "party_lines": null
+    },
+    {
+     "name": "Misti Cordell",
+     "votes": 33371,
+     "party": "REP",
+     "pct": 14.64,
+     "choice_id": "127858",
+     "party_lines": null
+    },
+    {
+     "name": "Oscar \"Omar\" Dantzler",
+     "votes": 2233,
+     "party": "REP",
+     "pct": 0.98,
+     "choice_id": "127807",
+     "party_lines": null
+    },
+    {
+     "name": "Michael Echols",
+     "votes": 32905,
+     "party": "REP",
+     "pct": 14.44,
+     "choice_id": "124686",
+     "party_lines": null
+    },
+    {
+     "name": "\"Gabe\" Firment",
+     "votes": 39126,
+     "party": "REP",
+     "pct": 17.17,
+     "choice_id": "125503",
+     "party_lines": null
+    },
+    {
+     "name": "Austin Magee",
+     "votes": 7910,
+     "party": "REP",
+     "pct": 3.47,
+     "choice_id": "126355",
+     "party_lines": null
+    },
+    {
+     "name": "Dan McKay",
+     "votes": 16051,
+     "party": "DEM",
+     "pct": 7.04,
+     "choice_id": "125791",
+     "party_lines": null
+    },
+    {
+     "name": "Patricia \"Pat\" Moore",
+     "votes": 40786,
+     "party": "DEM",
+     "pct": 17.89,
+     "choice_id": "128703",
+     "party_lines": null
+    },
+    {
+     "name": "Antonio Wilson",
+     "votes": 27373,
+     "party": "DEM",
+     "pct": 12.01,
+     "choice_id": "128161",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "70200",
+   "state": "LA",
+   "title": "U. S. Representative -- 6th Congressional District",
+   "office_type": "federal_house",
+   "district": "6",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 541,
+    "units_total": 541,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Monique Appeaning",
+     "votes": 8110,
+     "party": "REP",
+     "pct": 3.1,
+     "choice_id": "124670",
+     "party_lines": null
+    },
+    {
+     "name": "Chauna Banks",
+     "votes": 50882,
+     "party": "DEM",
+     "pct": 19.42,
+     "choice_id": "128694",
+     "party_lines": null
+    },
+    {
+     "name": "Rufus Craig",
+     "votes": 3461,
+     "party": "LBT",
+     "pct": 1.32,
+     "choice_id": "128130",
+     "party_lines": null
+    },
+    {
+     "name": "Larry Davis III",
+     "votes": 11359,
+     "party": "REP",
+     "pct": 4.34,
+     "choice_id": "125575",
+     "party_lines": null
+    },
+    {
+     "name": "\"Rick\" Edmonds",
+     "votes": 49242,
+     "party": "REP",
+     "pct": 18.8,
+     "choice_id": "124767",
+     "party_lines": null
+    },
+    {
+     "name": "Patrick \"Pat\" Forbes",
+     "votes": 23822,
+     "party": "DEM",
+     "pct": 9.09,
+     "choice_id": "127150",
+     "party_lines": null
+    },
+    {
+     "name": "Lindsay \"Rubia\" Garcia",
+     "votes": 33544,
+     "party": "DEM",
+     "pct": 12.8,
+     "choice_id": "127227",
+     "party_lines": null
+    },
+    {
+     "name": "Michael Mebruer",
+     "votes": 3160,
+     "party": "REP",
+     "pct": 1.21,
+     "choice_id": "126243",
+     "party_lines": null
+    },
+    {
+     "name": "Blake Miguez",
+     "votes": 50214,
+     "party": "REP",
+     "pct": 19.17,
+     "choice_id": "128372",
+     "party_lines": null
+    },
+    {
+     "name": "Stephen Wagley",
+     "votes": 28169,
+     "party": "REP",
+     "pct": 10.75,
+     "choice_id": "128407",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67989",
+   "state": "LA",
+   "title": "PSC -- District 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 608,
+    "units_total": 608,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Stephanie Hilferty",
+     "votes": 176505,
+     "party": "REP",
+     "pct": 58.88,
+     "choice_id": "124653",
+     "party_lines": null
+    },
+    {
+     "name": "Christopher \"Chris\" Justin",
+     "votes": 39984,
+     "party": null,
+     "pct": 13.34,
+     "choice_id": "124524",
+     "party_lines": null
+    },
+    {
+     "name": "Connie Norris",
+     "votes": 83259,
+     "party": "DEM",
+     "pct": 27.78,
+     "choice_id": "124641",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67990",
+   "state": "LA",
+   "title": "PSC -- District 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 869,
+    "units_total": 869,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "John E. Atkins",
+     "votes": 161071,
+     "party": "REP",
+     "pct": 59.16,
+     "choice_id": "124645",
+     "party_lines": null
+    },
+    {
+     "name": "James Edward Green",
+     "votes": 111205,
+     "party": "DEM",
+     "pct": 40.84,
+     "choice_id": "124644",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "70065",
+   "state": "LA",
+   "title": "BESE -- District 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 389,
+    "units_total": 389,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "\"Joseph\" Cao",
+     "votes": 127178,
+     "party": "REP",
+     "pct": 63.34,
+     "choice_id": "124652",
+     "party_lines": null
+    },
+    {
+     "name": "Angela Hershey",
+     "votes": 73614,
+     "party": "DEM",
+     "pct": 36.66,
+     "choice_id": "124610",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "70161",
+   "state": "LA",
+   "title": "State Representative -- 92nd Representative District",
+   "office_type": "state_house",
+   "district": "92",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 29,
+    "units_total": 29,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Gregory Carroll",
+     "votes": 6620,
+     "party": "DEM",
+     "pct": 57.59,
+     "choice_id": "126304",
+     "party_lines": null
+    },
+    {
+     "name": "Alex Perdomo",
+     "votes": 1826,
+     "party": "REP",
+     "pct": 15.88,
+     "choice_id": "125766",
+     "party_lines": null
+    },
+    {
+     "name": "Michael \"Mike\" Sigur",
+     "votes": 3050,
+     "party": "REP",
+     "pct": 26.53,
+     "choice_id": "128702",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67788",
+   "state": "LA",
+   "title": "District Judge -- 1st Judicial District Court, ES 3, Div. F",
+   "office_type": "judicial",
+   "district": "3",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 50,
+    "units_total": 50,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Treneisha Jackson Hill",
+     "votes": 12636,
+     "party": "DEM",
+     "pct": 48.63,
+     "choice_id": "128602",
+     "party_lines": null
+    },
+    {
+     "name": "Hugo A. Holland, Jr.",
+     "votes": 13349,
+     "party": "REP",
+     "pct": 51.37,
+     "choice_id": "125152",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67790",
+   "state": "LA",
+   "title": "District Judge -- 2nd Judicial District Court, Div. A",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 89,
+    "units_total": 89,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Rachel Wiggins Bays",
+     "votes": 8540,
+     "party": "REP",
+     "pct": 57.49,
+     "choice_id": "126337",
+     "party_lines": null
+    },
+    {
+     "name": "Patrick O. Jefferson",
+     "votes": 6315,
+     "party": null,
+     "pct": 42.51,
+     "choice_id": "125371",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67791",
+   "state": "LA",
+   "title": "District Judge -- 2nd Judicial District Court, Div. B",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 89,
+    "units_total": 89,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Clay Carroll",
+     "votes": 6993,
+     "party": "REP",
+     "pct": 46.93,
+     "choice_id": "127113",
+     "party_lines": null
+    },
+    {
+     "name": "Yumeaka Robinson Washington",
+     "votes": 7907,
+     "party": null,
+     "pct": 53.07,
+     "choice_id": "124947",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67794",
+   "state": "LA",
+   "title": "District Judge -- 3rd Judicial District Court, Div. B",
+   "office_type": "judicial",
+   "district": "3",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 79,
+    "units_total": 79,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Phillip Ellis",
+     "votes": 11975,
+     "party": "REP",
+     "pct": 61.39,
+     "choice_id": "125413",
+     "party_lines": null
+    },
+    {
+     "name": "Lewis A. Jones",
+     "votes": 7532,
+     "party": "REP",
+     "pct": 38.61,
+     "choice_id": "125822",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67797",
+   "state": "LA",
+   "title": "District Judge -- 4th Judicial District Court, ES 1, Div. H",
+   "office_type": "judicial",
+   "district": "1",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 24,
+    "units_total": 24,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Carlton Parhms",
+     "votes": 2961,
+     "party": "DEM",
+     "pct": 37.96,
+     "choice_id": "125776",
+     "party_lines": null
+    },
+    {
+     "name": "Shirley Wilson Davis",
+     "votes": 4840,
+     "party": "DEM",
+     "pct": 62.04,
+     "choice_id": "126189",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67798",
+   "state": "LA",
+   "title": "District Judge -- 4th Judicial District Court, ES 1, Div. I",
+   "office_type": "judicial",
+   "district": "1",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 24,
+    "units_total": 24,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Mary Alice \"Bryant\" Cezar",
+     "votes": 1376,
+     "party": "DEM",
+     "pct": 16.92,
+     "choice_id": "126494",
+     "party_lines": null
+    },
+    {
+     "name": "Janet Floyd",
+     "votes": 5092,
+     "party": "DEM",
+     "pct": 62.6,
+     "choice_id": "124977",
+     "party_lines": null
+    },
+    {
+     "name": "Jasmyne McConnell",
+     "votes": 1666,
+     "party": "DEM",
+     "pct": 20.48,
+     "choice_id": "128286",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67801",
+   "state": "LA",
+   "title": "District Judge -- 4th Judicial District Court, ES 2, Div. B",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 98,
+    "units_total": 98,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Adam Cossey",
+     "votes": 23295,
+     "party": "REP",
+     "pct": 57.74,
+     "choice_id": "127317",
+     "party_lines": null
+    },
+    {
+     "name": "Brandon Creekbaum",
+     "votes": 10790,
+     "party": "REP",
+     "pct": 26.74,
+     "choice_id": "128333",
+     "party_lines": null
+    },
+    {
+     "name": "C. Bryan Racer",
+     "votes": 6260,
+     "party": "REP",
+     "pct": 15.52,
+     "choice_id": "126503",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67825",
+   "state": "LA",
+   "title": "District Judge -- 12th Judicial District Court, Division A",
+   "office_type": "judicial",
+   "district": "12",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 41,
+    "units_total": 41,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Mark Jeansonne",
+     "votes": 6759,
+     "party": "REP",
+     "pct": 55.61,
+     "choice_id": "124969",
+     "party_lines": null
+    },
+    {
+     "name": "Alissa Piazza Tassin",
+     "votes": 5396,
+     "party": "REP",
+     "pct": 44.39,
+     "choice_id": "125464",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67826",
+   "state": "LA",
+   "title": "District Judge -- 12th Judicial District Court, Division B",
+   "office_type": "judicial",
+   "district": "12",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 41,
+    "units_total": 41,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Wesley Elmer",
+     "votes": 2631,
+     "party": "REP",
+     "pct": 21.9,
+     "choice_id": "125630",
+     "party_lines": null
+    },
+    {
+     "name": "Kirk Lacour",
+     "votes": 2052,
+     "party": "REP",
+     "pct": 17.08,
+     "choice_id": "127941",
+     "party_lines": null
+    },
+    {
+     "name": "Barry Laiche",
+     "votes": 3919,
+     "party": "REP",
+     "pct": 32.63,
+     "choice_id": "127771",
+     "party_lines": null
+    },
+    {
+     "name": "Elizabeth Williams",
+     "votes": 3409,
+     "party": null,
+     "pct": 28.38,
+     "choice_id": "124906",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67831",
+   "state": "LA",
+   "title": "District Judge -- 14th Judicial District Court, ES 1, Div. J",
+   "office_type": "judicial",
+   "district": "1",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 43,
+    "units_total": 43,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Sa Trica Williams Bensaadat",
+     "votes": 5310,
+     "party": "DEM",
+     "pct": 36.75,
+     "choice_id": "126869",
+     "party_lines": null
+    },
+    {
+     "name": "Brittany Bell Chavis",
+     "votes": 9139,
+     "party": "DEM",
+     "pct": 63.25,
+     "choice_id": "125177",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67842",
+   "state": "LA",
+   "title": "District Judge -- 15th Judicial District Court, ES 3, Div. I",
+   "office_type": "judicial",
+   "district": "3",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 94,
+    "units_total": 94,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "\"Will\" Keaty II",
+     "votes": 25399,
+     "party": "REP",
+     "pct": 46.02,
+     "choice_id": "126961",
+     "party_lines": null
+    },
+    {
+     "name": "David Way",
+     "votes": 29793,
+     "party": "REP",
+     "pct": 53.98,
+     "choice_id": "126805",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67845",
+   "state": "LA",
+   "title": "District Judge -- 15th Judicial District Court, ES 3, Div. M",
+   "office_type": "judicial",
+   "district": "3",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 94,
+    "units_total": 94,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Dyan Schnaars",
+     "votes": 16869,
+     "party": "REP",
+     "pct": 30.79,
+     "choice_id": "127247",
+     "party_lines": null
+    },
+    {
+     "name": "Susan Theall",
+     "votes": 37916,
+     "party": "REP",
+     "pct": 69.21,
+     "choice_id": "126130",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67862",
+   "state": "LA",
+   "title": "District Judge -- 17th Judicial District Court, Division D",
+   "office_type": "judicial",
+   "district": "17",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 72,
+    "units_total": 72,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Beau Brooks",
+     "votes": 22916,
+     "party": "REP",
+     "pct": 87.59,
+     "choice_id": "125551",
+     "party_lines": null
+    },
+    {
+     "name": "Lantz Savage",
+     "votes": 3248,
+     "party": "REP",
+     "pct": 12.41,
+     "choice_id": "124780",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67864",
+   "state": "LA",
+   "title": "District Judge -- 18th Judicial District Court, ES 1, Div. C",
+   "office_type": "judicial",
+   "district": "1",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 20,
+    "units_total": 20,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Alycia Grace-O'Bear",
+     "votes": 2050,
+     "party": "DEM",
+     "pct": 31.33,
+     "choice_id": "126746",
+     "party_lines": null
+    },
+    {
+     "name": "Lori White",
+     "votes": 2128,
+     "party": "DEM",
+     "pct": 32.52,
+     "choice_id": "126027",
+     "party_lines": null
+    },
+    {
+     "name": "Victor Woods, Jr.",
+     "votes": 2366,
+     "party": "DEM",
+     "pct": 36.16,
+     "choice_id": "127513",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "70043",
+   "state": "LA",
+   "title": "District Judge -- 19th Judicial District Court, Div. B",
+   "office_type": "judicial",
+   "district": "19",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 329,
+    "units_total": 329,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Winston DeCuir, Jr.",
+     "votes": 94306,
+     "party": "DEM",
+     "pct": 63.12,
+     "choice_id": "124747",
+     "party_lines": null
+    },
+    {
+     "name": "Justin DeLaune",
+     "votes": 55100,
+     "party": "REP",
+     "pct": 36.88,
+     "choice_id": "125332",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "70048",
+   "state": "LA",
+   "title": "District Judge -- 19th Judicial District Court, ES 1, Div. L",
+   "office_type": "judicial",
+   "district": "1",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 167,
+    "units_total": 167,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Elzie Alford",
+     "votes": 28467,
+     "party": "DEM",
+     "pct": 46.71,
+     "choice_id": "128476",
+     "party_lines": null
+    },
+    {
+     "name": "Jermaine Guillory",
+     "votes": 32472,
+     "party": "DEM",
+     "pct": 53.29,
+     "choice_id": "125049",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "70049",
+   "state": "LA",
+   "title": "District Judge -- 19th Judicial District Court, ES 1, Div. M",
+   "office_type": "judicial",
+   "district": "1",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 167,
+    "units_total": 167,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "ReAzalia Allen",
+     "votes": 16254,
+     "party": "DEM",
+     "pct": 26.9,
+     "choice_id": "126589",
+     "party_lines": null
+    },
+    {
+     "name": "Allison \"AJ\" Sabine",
+     "votes": 12755,
+     "party": "DEM",
+     "pct": 21.11,
+     "choice_id": "125456",
+     "party_lines": null
+    },
+    {
+     "name": "Vernon Thomas",
+     "votes": 31416,
+     "party": "DEM",
+     "pct": 51.99,
+     "choice_id": "127658",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67889",
+   "state": "LA",
+   "title": "District Judge -- 21st Judicial District Court, Division E",
+   "office_type": "judicial",
+   "district": "21",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 164,
+    "units_total": 164,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Lindon Bennett Magee",
+     "votes": 59227,
+     "party": "REP",
+     "pct": 71.54,
+     "choice_id": "127780",
+     "party_lines": null
+    },
+    {
+     "name": "Jasper Brock",
+     "votes": 23567,
+     "party": null,
+     "pct": 28.46,
+     "choice_id": "128199",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67899",
+   "state": "LA",
+   "title": "District Judge -- 22nd Judicial District Court, Division E",
+   "office_type": "judicial",
+   "district": "22",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 212,
+    "units_total": 212,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Michele Moore Echols",
+     "votes": 49063,
+     "party": "REP",
+     "pct": 47.63,
+     "choice_id": "128047",
+     "party_lines": null
+    },
+    {
+     "name": "Cameron Mary",
+     "votes": 53954,
+     "party": "REP",
+     "pct": 52.37,
+     "choice_id": "126528",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67901",
+   "state": "LA",
+   "title": "District Judge -- 22nd Judicial District Court, Division G",
+   "office_type": "judicial",
+   "district": "22",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 212,
+    "units_total": 212,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "\"Ben\" Clayton",
+     "votes": 20379,
+     "party": "REP",
+     "pct": 20.4,
+     "choice_id": "126064",
+     "party_lines": null
+    },
+    {
+     "name": "Jason Cuccia",
+     "votes": 16513,
+     "party": "REP",
+     "pct": 16.53,
+     "choice_id": "126960",
+     "party_lines": null
+    },
+    {
+     "name": "Theophile \"Theo\" Jones",
+     "votes": 11806,
+     "party": "REP",
+     "pct": 11.82,
+     "choice_id": "127292",
+     "party_lines": null
+    },
+    {
+     "name": "Amanda A. Trosclair",
+     "votes": 34172,
+     "party": "REP",
+     "pct": 34.2,
+     "choice_id": "126012",
+     "party_lines": null
+    },
+    {
+     "name": "Angelina Valuri",
+     "votes": 17050,
+     "party": "REP",
+     "pct": 17.06,
+     "choice_id": "126546",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67902",
+   "state": "LA",
+   "title": "District Judge -- 22nd Judicial District Court, Division H",
+   "office_type": "judicial",
+   "district": "22",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 212,
+    "units_total": 212,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Whitney Germany",
+     "votes": 47814,
+     "party": "REP",
+     "pct": 48.38,
+     "choice_id": "126233",
+     "party_lines": null
+    },
+    {
+     "name": "Luke Lancaster",
+     "votes": 51021,
+     "party": "REP",
+     "pct": 51.62,
+     "choice_id": "125542",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67908",
+   "state": "LA",
+   "title": "District Judge -- 23rd Judicial District Court, ES 2, Div. A",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 103,
+    "units_total": 103,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Kim Landry",
+     "votes": 22867,
+     "party": "REP",
+     "pct": 51.58,
+     "choice_id": "126997",
+     "party_lines": null
+    },
+    {
+     "name": "Jason Verdigets",
+     "votes": 21470,
+     "party": "REP",
+     "pct": 48.42,
+     "choice_id": "125090",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67920",
+   "state": "LA",
+   "title": "District Judge -- 24th Judicial District Court, ES 2, Div. F",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 159,
+    "units_total": 159,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Marko Marjanovic",
+     "votes": 31731,
+     "party": "REP",
+     "pct": 47.47,
+     "choice_id": "126388",
+     "party_lines": null
+    },
+    {
+     "name": "Joseph R. \"Joe\" McMahon III",
+     "votes": 35120,
+     "party": "REP",
+     "pct": 52.53,
+     "choice_id": "125624",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67937",
+   "state": "LA",
+   "title": "District Judge -- 27th Judicial District Court, ES 1, Div. C",
+   "office_type": "judicial",
+   "district": "1",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 23,
+    "units_total": 23,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Jarvis J. Claiborne",
+     "votes": 966,
+     "party": "DEM",
+     "pct": 19.4,
+     "choice_id": "127084",
+     "party_lines": null
+    },
+    {
+     "name": "Charlee Renaud Lear",
+     "votes": 1494,
+     "party": "DEM",
+     "pct": 30.01,
+     "choice_id": "127545",
+     "party_lines": null
+    },
+    {
+     "name": "Greta Malbrough Marion",
+     "votes": 302,
+     "party": "DEM",
+     "pct": 6.07,
+     "choice_id": "124867",
+     "party_lines": null
+    },
+    {
+     "name": "Ogden L. Pitre",
+     "votes": 2217,
+     "party": "DEM",
+     "pct": 44.53,
+     "choice_id": "128474",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67947",
+   "state": "LA",
+   "title": "District Judge -- 30th Judicial District Court, Division C",
+   "office_type": "judicial",
+   "district": "30",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 60,
+    "units_total": 60,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Lisa Nelson",
+     "votes": 3092,
+     "party": "REP",
+     "pct": 28.85,
+     "choice_id": "125121",
+     "party_lines": null
+    },
+    {
+     "name": "\"Cindy\" Poston Lavespere",
+     "votes": 4731,
+     "party": "REP",
+     "pct": 44.14,
+     "choice_id": "126603",
+     "party_lines": null
+    },
+    {
+     "name": "Bryan Somers",
+     "votes": 2896,
+     "party": "REP",
+     "pct": 27.02,
+     "choice_id": "127415",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67948",
+   "state": "LA",
+   "title": "District Judge -- 31st Judicial District Court",
+   "office_type": "judicial",
+   "district": "31",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 26,
+    "units_total": 26,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Karen Daniel Ancelet",
+     "votes": 4378,
+     "party": "REP",
+     "pct": 42.98,
+     "choice_id": "127375",
+     "party_lines": null
+    },
+    {
+     "name": "Steve Gunnell",
+     "votes": 5809,
+     "party": "REP",
+     "pct": 57.02,
+     "choice_id": "126232",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67952",
+   "state": "LA",
+   "title": "District Judge -- 32nd Judicial District Court, Division D",
+   "office_type": "judicial",
+   "district": "32",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 64,
+    "units_total": 64,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Gregg J. Graffagnino",
+     "votes": 12574,
+     "party": "REP",
+     "pct": 46.91,
+     "choice_id": "126592",
+     "party_lines": null
+    },
+    {
+     "name": "Amanda Mustin",
+     "votes": 14228,
+     "party": "REP",
+     "pct": 53.09,
+     "choice_id": "126152",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67953",
+   "state": "LA",
+   "title": "District Judge -- 32nd Judicial District Court, Division E",
+   "office_type": "judicial",
+   "district": "32",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 64,
+    "units_total": 64,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Kentley R. Fairchild",
+     "votes": 19381,
+     "party": "REP",
+     "pct": 70.14,
+     "choice_id": "125351",
+     "party_lines": null
+    },
+    {
+     "name": "Kevin D. Thompson",
+     "votes": 8252,
+     "party": null,
+     "pct": 29.86,
+     "choice_id": "125390",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67961",
+   "state": "LA",
+   "title": "District Judge -- 35th Judicial District Court",
+   "office_type": "judicial",
+   "district": "35",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 31,
+    "units_total": 31,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Renee \"Dugas\" Nugent",
+     "votes": 2203,
+     "party": "REP",
+     "pct": 34.64,
+     "choice_id": "127477",
+     "party_lines": null
+    },
+    {
+     "name": "Warren Daniel \"Danny\" Willett",
+     "votes": 4156,
+     "party": "REP",
+     "pct": 65.36,
+     "choice_id": "126486",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67967",
+   "state": "LA",
+   "title": "District Judge -- 40th Judicial District Court, ES 1, Div. B",
+   "office_type": "judicial",
+   "district": "1",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 15,
+    "units_total": 15,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Eric Carter",
+     "votes": 1655,
+     "party": "DEM",
+     "pct": 41.08,
+     "choice_id": "128447",
+     "party_lines": null
+    },
+    {
+     "name": "Nghana Lewis",
+     "votes": 2374,
+     "party": "DEM",
+     "pct": 58.92,
+     "choice_id": "125157",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67968",
+   "state": "LA",
+   "title": "District Judge -- 40th Judicial District Court, ES 2, Div. A",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 12,
+    "units_total": 12,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Vercell Fiffie",
+     "votes": 1784,
+     "party": "DEM",
+     "pct": 47.26,
+     "choice_id": "125131",
+     "party_lines": null
+    },
+    {
+     "name": "Atoundra Pierre Lawson",
+     "votes": 1991,
+     "party": "DEM",
+     "pct": 52.74,
+     "choice_id": "126972",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "70082",
+   "state": "LA",
+   "title": "Judge -- Civil District Court, Division L",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 349,
+    "units_total": 349,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Warren McKenna III",
+     "votes": 52474,
+     "party": "DEM",
+     "pct": 42.89,
+     "choice_id": "127512",
+     "party_lines": null
+    },
+    {
+     "name": "Candace N. Newell",
+     "votes": 69879,
+     "party": "DEM",
+     "pct": 57.11,
+     "choice_id": "126161",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "70083",
+   "state": "LA",
+   "title": "Judge -- Civil District Court, Division M",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 349,
+    "units_total": 349,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Stephanie Bridges",
+     "votes": 68856,
+     "party": "DEM",
+     "pct": 57.15,
+     "choice_id": "124748",
+     "party_lines": null
+    },
+    {
+     "name": "Shawn Lindsay",
+     "votes": 51628,
+     "party": "DEM",
+     "pct": 42.85,
+     "choice_id": "124883",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "70085",
+   "state": "LA",
+   "title": "Judge -- Civil District Court, Domestic Section 1",
+   "office_type": "judicial",
+   "district": "1",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 349,
+    "units_total": 349,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Michael \"Mike\" Hall",
+     "votes": 76794,
+     "party": "DEM",
+     "pct": 64.68,
+     "choice_id": "125465",
+     "party_lines": null
+    },
+    {
+     "name": "Marie Williams",
+     "votes": 41935,
+     "party": "DEM",
+     "pct": 35.32,
+     "choice_id": "127625",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "70090",
+   "state": "LA",
+   "title": "Judge -- Criminal District Court, Section D",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 349,
+    "units_total": 349,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Kimya Holmes",
+     "votes": 70882,
+     "party": "DEM",
+     "pct": 57.9,
+     "choice_id": "125458",
+     "party_lines": null
+    },
+    {
+     "name": "Simone Levine",
+     "votes": 51532,
+     "party": "DEM",
+     "pct": 42.1,
+     "choice_id": "128711",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "70094",
+   "state": "LA",
+   "title": "Judge -- Criminal District Court, Section H",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 349,
+    "units_total": 349,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Camille Buras",
+     "votes": 71309,
+     "party": "DEM",
+     "pct": 58.07,
+     "choice_id": "125289",
+     "party_lines": null
+    },
+    {
+     "name": "Leon Roché",
+     "votes": 51493,
+     "party": "DEM",
+     "pct": 41.93,
+     "choice_id": "128591",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "69144",
+   "state": "LA",
+   "title": "Magistrate -- Magistrate Section, Criminal District Court",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 349,
+    "units_total": 349,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Chanel Robinson Debose",
+     "votes": 55351,
+     "party": "DEM",
+     "pct": 46.39,
+     "choice_id": "128745",
+     "party_lines": null
+    },
+    {
+     "name": "Juana Marine Lombard",
+     "votes": 63966,
+     "party": "DEM",
+     "pct": 53.61,
+     "choice_id": "125267",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "70118",
+   "state": "LA",
+   "title": "Magistrate Judge -- 14th Judicial District Court",
+   "office_type": "judicial",
+   "district": "14",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 123,
+    "units_total": 123,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Brent Hawkins",
+     "votes": 21942,
+     "party": null,
+     "pct": 40.32,
+     "choice_id": "126255",
+     "party_lines": null
+    },
+    {
+     "name": "Joseph \"Joey\" Williams",
+     "votes": 32475,
+     "party": "REP",
+     "pct": 59.68,
+     "choice_id": "126062",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "70194",
+   "state": "LA",
+   "title": "District Attorney -- 1st Judicial District Court",
+   "office_type": "judicial",
+   "district": "1",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 128,
+    "units_total": 128,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Lauren Ray Anderson",
+     "votes": 1726,
+     "party": "LBT",
+     "pct": 2.41,
+     "choice_id": "126125",
+     "party_lines": null
+    },
+    {
+     "name": "Patricia \"Pat\" Gilley",
+     "votes": 1853,
+     "party": null,
+     "pct": 2.58,
+     "choice_id": "125566",
+     "party_lines": null
+    },
+    {
+     "name": "Alan Seabaugh",
+     "votes": 29568,
+     "party": "REP",
+     "pct": 41.25,
+     "choice_id": "125918",
+     "party_lines": null
+    },
+    {
+     "name": "James E. Stewart, Sr.",
+     "votes": 38541,
+     "party": "DEM",
+     "pct": 53.76,
+     "choice_id": "125098",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67738",
+   "state": "LA",
+   "title": "District Attorney -- 2nd Judicial District Court",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 89,
+    "units_total": 89,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Colby Bowman",
+     "votes": 4968,
+     "party": null,
+     "pct": 33.13,
+     "choice_id": "126736",
+     "party_lines": null
+    },
+    {
+     "name": "\"Jim\" Colvin",
+     "votes": 3180,
+     "party": null,
+     "pct": 21.21,
+     "choice_id": "126417",
+     "party_lines": null
+    },
+    {
+     "name": "Tammy Gantt Jump",
+     "votes": 2660,
+     "party": "REP",
+     "pct": 17.74,
+     "choice_id": "126543",
+     "party_lines": null
+    },
+    {
+     "name": "\"Rick\" Warren",
+     "votes": 4187,
+     "party": "REP",
+     "pct": 27.92,
+     "choice_id": "126229",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67740",
+   "state": "LA",
+   "title": "District Attorney -- 4th Judicial District Court",
+   "office_type": "judicial",
+   "district": "4",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 115,
+    "units_total": 115,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Mennon Campbell, Jr.",
+     "votes": 28573,
+     "party": "REP",
+     "pct": 56.68,
+     "choice_id": "126706",
+     "party_lines": null
+    },
+    {
+     "name": "Alvin Sharp",
+     "votes": 21839,
+     "party": "REP",
+     "pct": 43.32,
+     "choice_id": "127662",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67742",
+   "state": "LA",
+   "title": "District Attorney -- 6th Judicial District Court",
+   "office_type": "judicial",
+   "district": "6",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 53,
+    "units_total": 53,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Joy Jackson",
+     "votes": 2492,
+     "party": "DEM",
+     "pct": 37.69,
+     "choice_id": "126721",
+     "party_lines": null
+    },
+    {
+     "name": "Edwin Moberley IV",
+     "votes": 4119,
+     "party": null,
+     "pct": 62.31,
+     "choice_id": "125463",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67744",
+   "state": "LA",
+   "title": "District Attorney -- 8th Judicial District Court",
+   "office_type": "judicial",
+   "district": "8",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 26,
+    "units_total": 26,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Jacque Derr",
+     "votes": 1760,
+     "party": null,
+     "pct": 42.76,
+     "choice_id": "126512",
+     "party_lines": null
+    },
+    {
+     "name": "Keith Gates",
+     "votes": 2356,
+     "party": "REP",
+     "pct": 57.24,
+     "choice_id": "124696",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67747",
+   "state": "LA",
+   "title": "District Attorney -- 11th Judicial District Court",
+   "office_type": "judicial",
+   "district": "11",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 27,
+    "units_total": 27,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Ronald D. Brandon",
+     "votes": 3411,
+     "party": "REP",
+     "pct": 43.36,
+     "choice_id": "125228",
+     "party_lines": null
+    },
+    {
+     "name": "Anna Garcie",
+     "votes": 4455,
+     "party": "REP",
+     "pct": 56.64,
+     "choice_id": "128596",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67748",
+   "state": "LA",
+   "title": "District Attorney -- 12th Judicial District Court",
+   "office_type": "judicial",
+   "district": "12",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 41,
+    "units_total": 41,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Jonathan Terrel Gaspard",
+     "votes": 2570,
+     "party": "REP",
+     "pct": 21.63,
+     "choice_id": "125846",
+     "party_lines": null
+    },
+    {
+     "name": "Chad Guillot",
+     "votes": 9310,
+     "party": "REP",
+     "pct": 78.37,
+     "choice_id": "125904",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67751",
+   "state": "LA",
+   "title": "District Attorney -- 15th Judicial District Court",
+   "office_type": "judicial",
+   "district": "15",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 244,
+    "units_total": 244,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Kristian Earles",
+     "votes": 47878,
+     "party": "REP",
+     "pct": 44.13,
+     "choice_id": "125303",
+     "party_lines": null
+    },
+    {
+     "name": "Donald \"Don\" Landry",
+     "votes": 60606,
+     "party": "REP",
+     "pct": 55.87,
+     "choice_id": "124986",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67755",
+   "state": "LA",
+   "title": "District Attorney -- 19th Judicial District Court",
+   "office_type": "judicial",
+   "district": "19",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 329,
+    "units_total": 329,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Hillar Moore III",
+     "votes": 85409,
+     "party": "DEM",
+     "pct": 57.87,
+     "choice_id": "124662",
+     "party_lines": null
+    },
+    {
+     "name": "Ryan Thompson",
+     "votes": 62188,
+     "party": "DEM",
+     "pct": 42.13,
+     "choice_id": "125237",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67756",
+   "state": "LA",
+   "title": "District Attorney -- 20th Judicial District Court",
+   "office_type": "judicial",
+   "district": "20",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 50,
+    "units_total": 50,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Cy D'Aquila, Jr.",
+     "votes": 7389,
+     "party": "REP",
+     "pct": 61.89,
+     "choice_id": "124822",
+     "party_lines": null
+    },
+    {
+     "name": "Kenneth \"Ken\" Fabre",
+     "votes": 4549,
+     "party": null,
+     "pct": 38.11,
+     "choice_id": "126029",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67757",
+   "state": "LA",
+   "title": "District Attorney -- 21st Judicial District Court",
+   "office_type": "judicial",
+   "district": "21",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 164,
+    "units_total": 164,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Brad Cascio",
+     "votes": 53311,
+     "party": "REP",
+     "pct": 64.66,
+     "choice_id": "127310",
+     "party_lines": null
+    },
+    {
+     "name": "Sherman Mack",
+     "votes": 29137,
+     "party": "REP",
+     "pct": 35.34,
+     "choice_id": "125132",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67767",
+   "state": "LA",
+   "title": "District Attorney -- 31st Judicial District Court",
+   "office_type": "judicial",
+   "district": "31",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 26,
+    "units_total": 26,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Lauren Heinen",
+     "votes": 4283,
+     "party": "REP",
+     "pct": 41.86,
+     "choice_id": "124870",
+     "party_lines": null
+    },
+    {
+     "name": "Richard \"Ric\" Oustalet, Jr.",
+     "votes": 3129,
+     "party": "REP",
+     "pct": 30.58,
+     "choice_id": "126195",
+     "party_lines": null
+    },
+    {
+     "name": "Daniel W. Sparks",
+     "votes": 2819,
+     "party": "REP",
+     "pct": 27.55,
+     "choice_id": "126169",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67769",
+   "state": "LA",
+   "title": "District Attorney -- 33rd Judicial District Court",
+   "office_type": "judicial",
+   "district": "33",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 18,
+    "units_total": 18,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Joseph \"Joe\" Green, Jr.",
+     "votes": 4537,
+     "party": "REP",
+     "pct": 69.83,
+     "choice_id": "124966",
+     "party_lines": null
+    },
+    {
+     "name": "Romelzy Willis, Jr.",
+     "votes": 1960,
+     "party": "REP",
+     "pct": 30.17,
+     "choice_id": "128595",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67771",
+   "state": "LA",
+   "title": "District Attorney -- 35th Judicial District Court",
+   "office_type": "judicial",
+   "district": "35",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 31,
+    "units_total": 31,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "James Patrick Lemoine",
+     "votes": 3819,
+     "party": "REP",
+     "pct": 61.02,
+     "choice_id": "125761",
+     "party_lines": null
+    },
+    {
+     "name": "\"Ed\" Tarpley",
+     "votes": 2440,
+     "party": "REP",
+     "pct": 38.98,
+     "choice_id": "128586",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67773",
+   "state": "LA",
+   "title": "District Attorney -- 37th Judicial District Court",
+   "office_type": "judicial",
+   "district": "37",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 19,
+    "units_total": 19,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Brian Frazier",
+     "votes": 1710,
+     "party": null,
+     "pct": 55.05,
+     "choice_id": "124744",
+     "party_lines": null
+    },
+    {
+     "name": "W. Mark McKee",
+     "votes": 1396,
+     "party": null,
+     "pct": 44.95,
+     "choice_id": "126802",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "68069",
+   "state": "LA",
+   "title": "City Judge, City Court -- Election Dist. 2, Div. D, City of Shreveport",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 49,
+    "units_total": 49,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Kharmen Davis-Taylor",
+     "votes": 6041,
+     "party": "DEM",
+     "pct": 37.06,
+     "choice_id": "126600",
+     "party_lines": null
+    },
+    {
+     "name": "Trinicia Leonard",
+     "votes": 4548,
+     "party": "DEM",
+     "pct": 27.9,
+     "choice_id": "125527",
+     "party_lines": null
+    },
+    {
+     "name": "Sheva Sims",
+     "votes": 5712,
+     "party": "DEM",
+     "pct": 35.04,
+     "choice_id": "126103",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "68072",
+   "state": "LA",
+   "title": "City Marshal -- City Court, City of Eunice",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 14,
+    "units_total": 14,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Terry J. Darbonne",
+     "votes": 2449,
+     "party": "REP",
+     "pct": 70.52,
+     "choice_id": "125647",
+     "party_lines": null
+    },
+    {
+     "name": "Michael DeVillier",
+     "votes": 1024,
+     "party": "REP",
+     "pct": 29.48,
+     "choice_id": "125386",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "68220",
+   "state": "LA",
+   "title": "Mayor -- City of Eunice",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 12,
+    "units_total": 12,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Scott A. Fontenot",
+     "votes": 1424,
+     "party": null,
+     "pct": 61.25,
+     "choice_id": "125272",
+     "party_lines": null
+    },
+    {
+     "name": "M. Guillory",
+     "votes": 194,
+     "party": null,
+     "pct": 8.34,
+     "choice_id": "126495",
+     "party_lines": null
+    },
+    {
+     "name": "Van Reed",
+     "votes": 707,
+     "party": "REP",
+     "pct": 30.41,
+     "choice_id": "127131",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "68222",
+   "state": "LA",
+   "title": "Mayor -- City of Shreveport",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 114,
+    "units_total": 114,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "\"Tom\" Arceneaux",
+     "votes": 19401,
+     "party": "REP",
+     "pct": 35.56,
+     "choice_id": "125752",
+     "party_lines": null
+    },
+    {
+     "name": "Siavash \"Sia\" Fakhriravari",
+     "votes": 386,
+     "party": null,
+     "pct": 0.71,
+     "choice_id": "127430",
+     "party_lines": null
+    },
+    {
+     "name": "Chaunta Mero",
+     "votes": 1101,
+     "party": "DEM",
+     "pct": 2.02,
+     "choice_id": "125010",
+     "party_lines": null
+    },
+    {
+     "name": "Tammy Phelps",
+     "votes": 8723,
+     "party": "DEM",
+     "pct": 15.99,
+     "choice_id": "125314",
+     "party_lines": null
+    },
+    {
+     "name": "Stormy Gage Watts",
+     "votes": 12331,
+     "party": "DEM",
+     "pct": 22.6,
+     "choice_id": "127279",
+     "party_lines": null
+    },
+    {
+     "name": "Michael D. Williams",
+     "votes": 2666,
+     "party": "DEM",
+     "pct": 4.89,
+     "choice_id": "126172",
+     "party_lines": null
+    },
+    {
+     "name": "John-Paul Young",
+     "votes": 9945,
+     "party": "REP",
+     "pct": 18.23,
+     "choice_id": "125146",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "69547",
+   "state": "LA",
+   "title": "Mayor -- Town of Arnaudville",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "\"Ginger\" LeCompte",
+     "votes": 156,
+     "party": "REP",
+     "pct": 45.48,
+     "choice_id": "128467",
+     "party_lines": null
+    },
+    {
+     "name": "Todd Meche",
+     "votes": 187,
+     "party": "REP",
+     "pct": 54.52,
+     "choice_id": "125823",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67978",
+   "state": "LA",
+   "title": "Mayor -- Town of Basile",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 3,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Mark Denette",
+     "votes": 203,
+     "party": "REP",
+     "pct": 50.37,
+     "choice_id": "127046",
+     "party_lines": null
+    },
+    {
+     "name": "Latoya Ivory",
+     "votes": 151,
+     "party": "DEM",
+     "pct": 37.47,
+     "choice_id": "126918",
+     "party_lines": null
+    },
+    {
+     "name": "Herbert \"Ripp\" Rippeon",
+     "votes": 49,
+     "party": "REP",
+     "pct": 12.16,
+     "choice_id": "126565",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67728",
+   "state": "LA",
+   "title": "Chief of Police -- Town of Basile",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 3,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Victor Fontenot",
+     "votes": 141,
+     "party": "REP",
+     "pct": 35.43,
+     "choice_id": "126623",
+     "party_lines": null
+    },
+    {
+     "name": "Nicholas Paul Richardson",
+     "votes": 257,
+     "party": null,
+     "pct": 64.57,
+     "choice_id": "127575",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67722",
+   "state": "LA",
+   "title": "Alderman at Large -- Town of Basile",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 3,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Otis Johnson",
+     "votes": 245,
+     "party": "DEM",
+     "pct": 63.14,
+     "choice_id": "127098",
+     "party_lines": null
+    },
+    {
+     "name": "\"Tim\" Lavergne",
+     "votes": 143,
+     "party": "DEM",
+     "pct": 36.86,
+     "choice_id": "128666",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "68010",
+   "state": "LA",
+   "title": "Alderman -- Ward 1, City of Eunice",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 7,
+    "units_total": 7,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Chad Andrepont",
+     "votes": 311,
+     "party": null,
+     "pct": 55.44,
+     "choice_id": "126923",
+     "party_lines": null
+    },
+    {
+     "name": "Darryl Hinds",
+     "votes": 250,
+     "party": "DEM",
+     "pct": 44.56,
+     "choice_id": "126025",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "68011",
+   "state": "LA",
+   "title": "Alderman -- Ward 2, City of Eunice",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 6,
+    "units_total": 6,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "\"Jackie JuJu\" Landry",
+     "votes": 306,
+     "party": "DEM",
+     "pct": 55.84,
+     "choice_id": "126431",
+     "party_lines": null
+    },
+    {
+     "name": "Germaine Simpson",
+     "votes": 242,
+     "party": "DEM",
+     "pct": 44.16,
+     "choice_id": "127791",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "68013",
+   "state": "LA",
+   "title": "Alderman -- Ward 4, City of Eunice",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 4,
+    "units_total": 4,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "James \"Donnie\" Fontenot",
+     "votes": 218,
+     "party": "REP",
+     "pct": 43.86,
+     "choice_id": "127236",
+     "party_lines": null
+    },
+    {
+     "name": "Connie Thibodeaux",
+     "votes": 279,
+     "party": "REP",
+     "pct": 56.14,
+     "choice_id": "126202",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67723",
+   "state": "LA",
+   "title": "Aldermen -- District 2, Town of Basile",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 3,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Melissa Bergeron Clavier",
+     "votes": 186,
+     "party": "REP",
+     "pct": 27.72,
+     "choice_id": "125275",
+     "party_lines": null
+    },
+    {
+     "name": "Bryan L. Goodley",
+     "votes": 36,
+     "party": null,
+     "pct": 5.37,
+     "choice_id": "128163",
+     "party_lines": null
+    },
+    {
+     "name": "John \"JJ\" Jenkins",
+     "votes": 177,
+     "party": "REP",
+     "pct": 26.38,
+     "choice_id": "128099",
+     "party_lines": null
+    },
+    {
+     "name": "Nickolas \"Nick\" Labauve",
+     "votes": 75,
+     "party": null,
+     "pct": 11.18,
+     "choice_id": "126352",
+     "party_lines": null
+    },
+    {
+     "name": "Kristy Miller",
+     "votes": 131,
+     "party": "REP",
+     "pct": 19.52,
+     "choice_id": "128449",
+     "party_lines": null
+    },
+    {
+     "name": "Charetha Ceaser Rankins",
+     "votes": 66,
+     "party": "DEM",
+     "pct": 9.84,
+     "choice_id": "127847",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "69498",
+   "state": "LA",
+   "title": "Aldermen -- Town of Arnaudville",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 5,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Dakota \"Brown\" Arnaud",
+     "votes": 90,
+     "party": null,
+     "pct": 6.64,
+     "choice_id": "126551",
+     "party_lines": null
+    },
+    {
+     "name": "Chelsey Coody",
+     "votes": 139,
+     "party": null,
+     "pct": 10.25,
+     "choice_id": "128273",
+     "party_lines": null
+    },
+    {
+     "name": "Ryan Courville",
+     "votes": 211,
+     "party": "REP",
+     "pct": 15.56,
+     "choice_id": "126183",
+     "party_lines": null
+    },
+    {
+     "name": "Jamie Ulin Huval",
+     "votes": 181,
+     "party": "REP",
+     "pct": 13.35,
+     "choice_id": "125999",
+     "party_lines": null
+    },
+    {
+     "name": "\"Debbie\" Kidder",
+     "votes": 165,
+     "party": "DEM",
+     "pct": 12.17,
+     "choice_id": "125862",
+     "party_lines": null
+    },
+    {
+     "name": "Kathleen \"Kathy\" Richard",
+     "votes": 179,
+     "party": "DEM",
+     "pct": 13.2,
+     "choice_id": "128481",
+     "party_lines": null
+    },
+    {
+     "name": "Cynthia Stelly",
+     "votes": 176,
+     "party": "REP",
+     "pct": 12.98,
+     "choice_id": "125818",
+     "party_lines": null
+    },
+    {
+     "name": "John Ray Taylor",
+     "votes": 215,
+     "party": null,
+     "pct": 15.86,
+     "choice_id": "125960",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "67724",
+   "state": "LA",
+   "title": "Aldermen -- Town of Duson",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 5,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Glenn C. Cormier",
+     "votes": 236,
+     "party": "REP",
+     "pct": 15.9,
+     "choice_id": "127112",
+     "party_lines": null
+    },
+    {
+     "name": "Blake Credeur",
+     "votes": 211,
+     "party": null,
+     "pct": 14.22,
+     "choice_id": "127354",
+     "party_lines": null
+    },
+    {
+     "name": "Coby J. Duhon",
+     "votes": 218,
+     "party": "REP",
+     "pct": 14.69,
+     "choice_id": "127108",
+     "party_lines": null
+    },
+    {
+     "name": "\"Steve\" Hanks",
+     "votes": 186,
+     "party": null,
+     "pct": 12.53,
+     "choice_id": "127579",
+     "party_lines": null
+    },
+    {
+     "name": "John \"Johnny\" Lagneaux II",
+     "votes": 237,
+     "party": "REP",
+     "pct": 15.97,
+     "choice_id": "125628",
+     "party_lines": null
+    },
+    {
+     "name": "Andrew \"Maxis\" Malaxonis",
+     "votes": 165,
+     "party": null,
+     "pct": 11.12,
+     "choice_id": "125032",
+     "party_lines": null
+    },
+    {
+     "name": "Carolyn \"Pepe\" Richard",
+     "votes": 231,
+     "party": "REP",
+     "pct": 15.57,
+     "choice_id": "127633",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "68157",
+   "state": "LA",
+   "title": "Councilman -- District A, City of Shreveport",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 26,
+    "units_total": 26,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Tabatha \"Tab\" Taylor",
+     "votes": 5335,
+     "party": "DEM",
+     "pct": 84.98,
+     "choice_id": "125941",
+     "party_lines": null
+    },
+    {
+     "name": "Hanh Williams",
+     "votes": 943,
+     "party": "REP",
+     "pct": 15.02,
+     "choice_id": "128072",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "68158",
+   "state": "LA",
+   "title": "Councilman -- District B, City of Shreveport",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 22,
+    "units_total": 22,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Gary Brooks",
+     "votes": 2996,
+     "party": "DEM",
+     "pct": 52.11,
+     "choice_id": "126725",
+     "party_lines": null
+    },
+    {
+     "name": "Louis Paul Gaiennie",
+     "votes": 374,
+     "party": null,
+     "pct": 6.51,
+     "choice_id": "126004",
+     "party_lines": null
+    },
+    {
+     "name": "Craig B. Lee",
+     "votes": 1518,
+     "party": "DEM",
+     "pct": 26.4,
+     "choice_id": "128365",
+     "party_lines": null
+    },
+    {
+     "name": "Bennett Prestridge",
+     "votes": 362,
+     "party": "DEM",
+     "pct": 6.3,
+     "choice_id": "127033",
+     "party_lines": null
+    },
+    {
+     "name": "Jeremy Taylor",
+     "votes": 499,
+     "party": null,
+     "pct": 8.68,
+     "choice_id": "128238",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "68159",
+   "state": "LA",
+   "title": "Councilman -- District C, City of Shreveport",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 17,
+    "units_total": 17,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Mark Black",
+     "votes": 3134,
+     "party": null,
+     "pct": 33.85,
+     "choice_id": "127301",
+     "party_lines": null
+    },
+    {
+     "name": "\"Jim\" Taliaferro",
+     "votes": 6125,
+     "party": "REP",
+     "pct": 66.15,
+     "choice_id": "125889",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "68161",
+   "state": "LA",
+   "title": "Councilman -- District E, City of Shreveport",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 21,
+    "units_total": 21,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Francine \"Monro\" Brown",
+     "votes": 1153,
+     "party": "DEM",
+     "pct": 15.92,
+     "choice_id": "127527",
+     "party_lines": null
+    },
+    {
+     "name": "Alan Jackson",
+     "votes": 4116,
+     "party": "DEM",
+     "pct": 56.82,
+     "choice_id": "125433",
+     "party_lines": null
+    },
+    {
+     "name": "Alvin Oliver",
+     "votes": 1975,
+     "party": "DEM",
+     "pct": 27.26,
+     "choice_id": "125673",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "68162",
+   "state": "LA",
+   "title": "Councilman -- District F, City of Shreveport",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 15,
+    "units_total": 15,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Billy Roy Anderson, Jr.",
+     "votes": 2414,
+     "party": "DEM",
+     "pct": 42.2,
+     "choice_id": "125383",
+     "party_lines": null
+    },
+    {
+     "name": "Decarlous Muntaqim",
+     "votes": 143,
+     "party": null,
+     "pct": 2.5,
+     "choice_id": "127799",
+     "party_lines": null
+    },
+    {
+     "name": "Lester Smith",
+     "votes": 2569,
+     "party": "DEM",
+     "pct": 44.9,
+     "choice_id": "125671",
+     "party_lines": null
+    },
+    {
+     "name": "James R. Sneed",
+     "votes": 595,
+     "party": null,
+     "pct": 10.4,
+     "choice_id": "126151",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "68163",
+   "state": "LA",
+   "title": "Councilman -- District G, City of Shreveport",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 20,
+    "units_total": 20,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Ursula Bowman",
+     "votes": 3970,
+     "party": "DEM",
+     "pct": 58.98,
+     "choice_id": "125483",
+     "party_lines": null
+    },
+    {
+     "name": "Steven Hall",
+     "votes": 1097,
+     "party": "DEM",
+     "pct": 16.3,
+     "choice_id": "126276",
+     "party_lines": null
+    },
+    {
+     "name": "Derrick L. Henderson",
+     "votes": 1664,
+     "party": "DEM",
+     "pct": 24.72,
+     "choice_id": "125756",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "68866",
+   "state": "LA",
+   "title": "Councilman -- District 1, City of Broussard",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 6,
+    "units_total": 6,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Lori Landry",
+     "votes": 350,
+     "party": "REP",
+     "pct": 46.98,
+     "choice_id": "128187",
+     "party_lines": null
+    },
+    {
+     "name": "\"Angel\" Racca",
+     "votes": 395,
+     "party": "REP",
+     "pct": 53.02,
+     "choice_id": "127814",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "68867",
+   "state": "LA",
+   "title": "Councilman -- District 2, City of Broussard",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Charles Sharma",
+     "votes": 314,
+     "party": "REP",
+     "pct": 34.43,
+     "choice_id": "125490",
+     "party_lines": null
+    },
+    {
+     "name": "\"Trey\" Smith",
+     "votes": 598,
+     "party": "REP",
+     "pct": 65.57,
+     "choice_id": "125975",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "13833",
+   "state": "LA",
+   "title": "CA No. 1 (ACT No. 39, 2026-RS - SB 180) -- Allows a one-time transfer of a property tax exemption for surviving spouse of a disabled veteran",
+   "office_type": "measure",
+   "district": "ca no 1 act no 39 2026 rs sb 180 allows a one time transfer ",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3722,
+    "units_total": 3722,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1071249,
+     "party": null,
+     "pct": 74.26,
+     "choice_id": "3",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 371221,
+     "party": null,
+     "pct": 25.74,
+     "choice_id": "4",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "13836",
+   "state": "LA",
+   "title": "CA No. 2 (ACT No. 273, 2026-RS - HB 521) -- Allows taxing authority to continue lower millage rate without losing ability to adjust to max rate",
+   "office_type": "measure",
+   "district": "ca no 2 act no 273 2026 rs hb 521 allows taxing authority to",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3722,
+    "units_total": 3722,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 596366,
+     "party": null,
+     "pct": 41.98,
+     "choice_id": "3",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 824366,
+     "party": null,
+     "pct": 58.02,
+     "choice_id": "4",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "13834",
+   "state": "LA",
+   "title": "CA No. 3 (ACT No. 271, 2026-RS - HB 51) -- Prohibits release on bail for defendants who have been convicted of certain offenses against a child",
+   "office_type": "measure",
+   "district": "ca no 3 act no 271 2026 rs hb 51 prohibits release on bail f",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3722,
+    "units_total": 3722,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 972152,
+     "party": null,
+     "pct": 67.8,
+     "choice_id": "3",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 461717,
+     "party": null,
+     "pct": 32.2,
+     "choice_id": "4",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "13839",
+   "state": "LA",
+   "title": "CA No. 4 (ACT No. 414, 2026-RS - HB 225) -- Sets a lifetime term limit on a person who has served as governor more than one and one-half terms",
+   "office_type": "measure",
+   "district": "ca no 4 act no 414 2026 rs hb 225 sets a lifetime term limit",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3722,
+    "units_total": 3722,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 801183,
+     "party": null,
+     "pct": 55.93,
+     "choice_id": "3",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 631380,
+     "party": null,
+     "pct": 44.07,
+     "choice_id": "4",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "13840",
+   "state": "LA",
+   "title": "CA No. 5 (ACT No. 606, 2026-RS - HB 27) -- Authorizes retirement systems to apply funds to any unfunded accrued liability, not only the oldest",
+   "office_type": "measure",
+   "district": "ca no 5 act no 606 2026 rs hb 27 authorizes retirement syste",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3722,
+    "units_total": 3722,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 526551,
+     "party": null,
+     "pct": 37.58,
+     "choice_id": "3",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 874572,
+     "party": null,
+     "pct": 62.42,
+     "choice_id": "4",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "13837",
+   "state": "LA",
+   "title": "CA No. 6 (ACT No. 274, 2026-RS - HB 514) -- Authorizes extension of an additional property tax exemption for owners who are 65 or older",
+   "office_type": "measure",
+   "district": "ca no 6 act no 274 2026 rs hb 514 authorizes extension of an",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3722,
+    "units_total": 3722,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 900398,
+     "party": null,
+     "pct": 63.56,
+     "choice_id": "3",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 516259,
+     "party": null,
+     "pct": 36.44,
+     "choice_id": "4",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "13841",
+   "state": "LA",
+   "title": "CA No. 7 (ACT No. 607, 2026-RS - SB 228) -- Authorizes the use of public funds to identify, inventory, remove, or replace certain water lines",
+   "office_type": "measure",
+   "district": "ca no 7 act no 607 2026 rs sb 228 authorizes the use of publ",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3722,
+    "units_total": 3722,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 924355,
+     "party": null,
+     "pct": 65.25,
+     "choice_id": "3",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 492224,
+     "party": null,
+     "pct": 34.75,
+     "choice_id": "4",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "13838",
+   "state": "LA",
+   "title": "CA No. 8 (ACT No. 277, 2026-RS - HB 192) -- Prohibits expropriation of property by a foreign adversary or an agent of a foreign adversary",
+   "office_type": "measure",
+   "district": "ca no 8 act no 277 2026 rs hb 192 prohibits expropriation of",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3722,
+    "units_total": 3722,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 876991,
+     "party": null,
+     "pct": 62.11,
+     "choice_id": "3",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 534935,
+     "party": null,
+     "pct": 37.89,
+     "choice_id": "4",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "13832",
+   "state": "LA",
+   "title": "CA No. 9 (ACT No. 220, 2025-RS - HB 300) -- Increases the income limit to qualify for the special assessment level for a homestead exemption",
+   "office_type": "measure",
+   "district": "ca no 9 act no 220 2025 rs hb 300 increases the income limit",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3722,
+    "units_total": 3722,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 823829,
+     "party": null,
+     "pct": 58.19,
+     "choice_id": "3",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 591847,
+     "party": null,
+     "pct": 41.81,
+     "choice_id": "4",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "13835",
+   "state": "LA",
+   "title": "CA No. 10 (ACT No. 272, 2026-RS - HB 214) -- Allows property tax exemption of rehabilitated blighted property under conditions provided by law",
+   "office_type": "measure",
+   "district": "ca no 10 act no 272 2026 rs hb 214 allows property tax exemp",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3722,
+    "units_total": 3722,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 659143,
+     "party": null,
+     "pct": 46.81,
+     "choice_id": "3",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 749084,
+     "party": null,
+     "pct": 53.19,
+     "choice_id": "4",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "la",
+   "contest_id": "13804",
+   "state": "LA",
+   "title": "City of Shreveport (Downtown Dev. Dist.) -- 9.04 Mills Cont. - CC - 25 Yrs.",
+   "office_type": "measure",
+   "district": "city of shreveport downtown dev dist 9 04 mills cont cc 25 y",
+   "jurisdiction": "Louisiana",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 114,
+    "units_total": 114,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-11T05:00:15.863-06:00",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 26282,
+     "party": null,
+     "pct": 51.6,
+     "choice_id": "3",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 24653,
+     "party": null,
+     "pct": 48.4,
+     "choice_id": "4",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  }
+ ],
+ "contests_hash": "929b28031ead6e1e",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-11T19:14:28+00:00",
+ "fetched_at": "2026-11-11T19:14:28+00:00",
+ "contests_changed_at": "2026-11-11T19:14:28+00:00"
+}

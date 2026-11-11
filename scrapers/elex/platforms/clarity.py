@@ -54,7 +54,8 @@ def parse(summary: list[dict], *, source_id: str, state: str, jurisdiction: str,
                                                       item.get("P") or [None] * 99, item.get("PCT") or [None] * 99)]
         contest = Contest(
             source=source_id, contest_id=f"{prefix}{item.get('K')}", state=state, title=title, office_type=kind,
-            scope="partial" if partial_shares and kind not in ("local", "judicial", "measure") else "complete",
+            scope="partial" if partial_shares and (kind not in ("local", "judicial", "measure")
+                                                   or (is_measure and names.STATE_PROP.search(title))) else "complete",
             district=(names.measure_id(title) or (leading.group(1) if leading else None)) if is_measure
             else names.district(title), jurisdiction=jurisdiction,
             vote_for=names.to_int(item.get("VF")) or 1,

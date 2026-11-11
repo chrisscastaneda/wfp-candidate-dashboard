@@ -90,3 +90,15 @@ def test_manual_only_used_when_scrapers_miss():
     scraped = [contest("Rep District 12", "federal_house", "12", "Rashida Tlaib", state="MI", source="mi")]
     out = match.match_all(rows, manual + scraped, {})
     assert out[0]["source"] == "mi"
+
+
+def test_statewide_measure_prefers_state_contest_over_county_shares():
+    def county(title, juris):
+        c = contest(title, "measure", "40", "Yes", "No", source="ca.x")
+        c.jurisdiction = juris
+        return c
+    contests = [contest("Proposition 40: Imposes One-Time Tax On Certain Taxpayers", "measure", "40", "Yes", "No"),
+                county("PROPOSITION 40", "Contra Costa County"), county("Prop 40 - Imposes One-Time Tax", "Sonoma County")]
+    m = match.match_one(row("Prop 40: Tax Billionaires to Fund Healthcare", "Ballot Measure", "Ballot Measure"),
+                        contests)
+    assert (m.status, m.contest.source) == ("auto", "ca")

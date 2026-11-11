@@ -1,0 +1,5035 @@
+{
+ "source": "ca.sacramento",
+ "contests": [
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-c491-08df23c4bbbb",
+   "state": "CA",
+   "title": "Governor",
+   "office_type": "governor",
+   "district": null,
+   "jurisdiction": "Sacramento County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 719,
+    "pct": 0.0,
+    "text": "0 of 719 precincts fully reported, 719 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "STEVE HILTON",
+     "votes": 175585,
+     "party": "REP",
+     "pct": 35.0,
+     "choice_id": "01000000-953c-d91e-cc43-08df23c4bbbb",
+     "party_lines": {
+      "REP": 175585
+     }
+    },
+    {
+     "name": "XAVIER BECERRA",
+     "votes": 326088,
+     "party": "DEM",
+     "pct": 65.0,
+     "choice_id": "01000000-953c-d91e-ce29-08df23c4bbbb",
+     "party_lines": {
+      "DEM": 326088
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-ce48-08df23c4bbbb",
+   "state": "CA",
+   "title": "Lieutenant Governor",
+   "office_type": "lt_governor",
+   "district": null,
+   "jurisdiction": "Sacramento County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 719,
+    "pct": 0.0,
+    "text": "0 of 719 precincts fully reported, 719 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "GLORIA ROMERO",
+     "votes": 174074,
+     "party": "REP",
+     "pct": 35.32,
+     "choice_id": "01000000-953c-d91e-ce89-08df23c4bbbb",
+     "party_lines": {
+      "REP": 174074
+     }
+    },
+    {
+     "name": "FIONA MA",
+     "votes": 318733,
+     "party": "DEM",
+     "pct": 64.68,
+     "choice_id": "01000000-953c-d91e-cea9-08df23c4bbbb",
+     "party_lines": {
+      "DEM": 318733
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-cec5-08df23c4bbbb",
+   "state": "CA",
+   "title": "Secretary of State",
+   "office_type": "secretary_of_state",
+   "district": null,
+   "jurisdiction": "Sacramento County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 719,
+    "pct": 0.0,
+    "text": "0 of 719 precincts fully reported, 719 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "DONALD P. (DON) WAGNER",
+     "votes": 168411,
+     "party": "REP",
+     "pct": 34.12,
+     "choice_id": "01000000-953c-d91e-ceec-08df23c4bbbb",
+     "party_lines": {
+      "REP": 168411
+     }
+    },
+    {
+     "name": "SHIRLEY N. WEBER",
+     "votes": 325148,
+     "party": "DEM",
+     "pct": 65.88,
+     "choice_id": "01000000-953c-d91e-cf05-08df23c4bbbb",
+     "party_lines": {
+      "DEM": 325148
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-cf1d-08df23c4bbbb",
+   "state": "CA",
+   "title": "Controller",
+   "office_type": "controller",
+   "district": null,
+   "jurisdiction": "Sacramento County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 719,
+    "pct": 0.0,
+    "text": "0 of 719 precincts fully reported, 719 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "MALIA M. COHEN",
+     "votes": 318600,
+     "party": "DEM",
+     "pct": 64.79,
+     "choice_id": "01000000-953c-d91e-cf43-08df23c4bbbb",
+     "party_lines": {
+      "DEM": 318600
+     }
+    },
+    {
+     "name": "HERB W MORGAN",
+     "votes": 173127,
+     "party": "REP",
+     "pct": 35.21,
+     "choice_id": "01000000-953c-d91e-cf5c-08df23c4bbbb",
+     "party_lines": {
+      "REP": 173127
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-cf74-08df23c4bbbb",
+   "state": "CA",
+   "title": "Treasurer",
+   "office_type": "treasurer",
+   "district": null,
+   "jurisdiction": "Sacramento County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 719,
+    "pct": 0.0,
+    "text": "0 of 719 precincts fully reported, 719 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "JENNIFER HAWKS",
+     "votes": 173521,
+     "party": "REP",
+     "pct": 35.41,
+     "choice_id": "01000000-953c-d91e-cf98-08df23c4bbbb",
+     "party_lines": {
+      "REP": 173521
+     }
+    },
+    {
+     "name": "ELENI KOUNALAKIS",
+     "votes": 316555,
+     "party": "DEM",
+     "pct": 64.59,
+     "choice_id": "01000000-953c-d91e-cfb2-08df23c4bbbb",
+     "party_lines": {
+      "DEM": 316555
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-cfce-08df23c4bbbb",
+   "state": "CA",
+   "title": "Attorney General",
+   "office_type": "attorney_general",
+   "district": null,
+   "jurisdiction": "Sacramento County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 719,
+    "pct": 0.0,
+    "text": "0 of 719 precincts fully reported, 719 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "ROB BONTA",
+     "votes": 320191,
+     "party": "DEM",
+     "pct": 64.62,
+     "choice_id": "01000000-953c-d91e-cff4-08df23c4bbbb",
+     "party_lines": {
+      "DEM": 320191
+     }
+    },
+    {
+     "name": "MICHAEL E. GATES",
+     "votes": 175315,
+     "party": "REP",
+     "pct": 35.38,
+     "choice_id": "01000000-953c-d91e-d00e-08df23c4bbbb",
+     "party_lines": {
+      "REP": 175315
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-d027-08df23c4bbbb",
+   "state": "CA",
+   "title": "Insurance Commissioner",
+   "office_type": "insurance_commissioner",
+   "district": null,
+   "jurisdiction": "Sacramento County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 719,
+    "pct": 0.0,
+    "text": "0 of 719 precincts fully reported, 719 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "JANE KIM",
+     "votes": 233221,
+     "party": "DEM",
+     "pct": 55.95,
+     "choice_id": "01000000-953c-d91e-d04b-08df23c4bbbb",
+     "party_lines": {
+      "DEM": 233221
+     }
+    },
+    {
+     "name": "BEN ALLEN",
+     "votes": 183629,
+     "party": "DEM",
+     "pct": 44.05,
+     "choice_id": "01000000-953c-d91e-d066-08df23c4bbbb",
+     "party_lines": {
+      "DEM": 183629
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-d07f-08df23c4bbbb",
+   "state": "CA",
+   "title": "Board of Equalization District 1",
+   "office_type": "board_of_equalization",
+   "district": "1",
+   "jurisdiction": "Sacramento County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 719,
+    "pct": 0.0,
+    "text": "0 of 719 precincts fully reported, 719 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "SHANNON GROVE",
+     "votes": 174094,
+     "party": "REP",
+     "pct": 36.12,
+     "choice_id": "01000000-953c-d91e-d0a2-08df23c4bbbb",
+     "party_lines": {
+      "REP": 174094
+     }
+    },
+    {
+     "name": "NELSON ESPARZA",
+     "votes": 307883,
+     "party": "DEM",
+     "pct": 63.88,
+     "choice_id": "01000000-953c-d91e-d0bd-08df23c4bbbb",
+     "party_lines": {
+      "DEM": 307883
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-d0d8-08df23c4bbbb",
+   "state": "CA",
+   "title": "U S Representative District 3",
+   "office_type": "federal_house",
+   "district": "3",
+   "jurisdiction": "Sacramento County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 221,
+    "pct": 0.0,
+    "text": "0 of 221 precincts fully reported, 221 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "AMI BERA",
+     "votes": 100570,
+     "party": "DEM",
+     "pct": 64.03,
+     "choice_id": "01000000-953c-d91e-d0fd-08df23c4bbbb",
+     "party_lines": {
+      "DEM": 100570
+     }
+    },
+    {
+     "name": "ROBB TUCKER",
+     "votes": 56502,
+     "party": "REP",
+     "pct": 35.97,
+     "choice_id": "01000000-953c-d91e-d117-08df23c4bbbb",
+     "party_lines": {
+      "REP": 56502
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-d131-08df23c4bbbb",
+   "state": "CA",
+   "title": "U S Representative District 4",
+   "office_type": "federal_house",
+   "district": "4",
+   "jurisdiction": "Sacramento County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 29,
+    "pct": 0.0,
+    "text": "0 of 29 precincts fully reported, 29 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "ERIC JONES",
+     "votes": 6384,
+     "party": "DEM",
+     "pct": 60.83,
+     "choice_id": "01000000-953c-d91e-d15d-08df23c4bbbb",
+     "party_lines": {
+      "DEM": 6384
+     }
+    },
+    {
+     "name": "MIKE THOMPSON",
+     "votes": 4111,
+     "party": "DEM",
+     "pct": 39.17,
+     "choice_id": "01000000-953c-d91e-d179-08df23c4bbbb",
+     "party_lines": {
+      "DEM": 4111
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-d192-08df23c4bbbb",
+   "state": "CA",
+   "title": "U S Representative District 6",
+   "office_type": "federal_house",
+   "district": "6",
+   "jurisdiction": "Sacramento County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 204,
+    "pct": 0.0,
+    "text": "0 of 204 precincts fully reported, 204 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "KEVIN KILEY",
+     "votes": 52413,
+     "party": "NO PARTY PRE",
+     "pct": 36.52,
+     "choice_id": "01000000-953c-d91e-d1ba-08df23c4bbbb",
+     "party_lines": {
+      "NO PARTY PRE": 52413
+     }
+    },
+    {
+     "name": "RICHARD PAN",
+     "votes": 91094,
+     "party": "DEM",
+     "pct": 63.48,
+     "choice_id": "01000000-953c-d91e-d1d4-08df23c4bbbb",
+     "party_lines": {
+      "DEM": 91094
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-d1ec-08df23c4bbbb",
+   "state": "CA",
+   "title": "U S Representative District 7",
+   "office_type": "federal_house",
+   "district": "7",
+   "jurisdiction": "Sacramento County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 260,
+    "pct": 0.0,
+    "text": "0 of 260 precincts fully reported, 260 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "MAI VANG",
+     "votes": 82618,
+     "party": "DEM",
+     "pct": 50.79,
+     "choice_id": "01000000-953c-d91e-d255-08df23c4bbbb",
+     "party_lines": {
+      "DEM": 82618
+     }
+    },
+    {
+     "name": "DORIS MATSUI",
+     "votes": 80053,
+     "party": "DEM",
+     "pct": 49.21,
+     "choice_id": "01000000-953c-d91e-d270-08df23c4bbbb",
+     "party_lines": {
+      "DEM": 80053
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-d287-08df23c4bbbb",
+   "state": "CA",
+   "title": "U S Representative District 8",
+   "office_type": "federal_house",
+   "district": "8",
+   "jurisdiction": "Sacramento County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported, 5 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "RUDY RECILE",
+     "votes": 399,
+     "party": "REP",
+     "pct": 46.78,
+     "choice_id": "01000000-953c-d91e-d2b2-08df23c4bbbb",
+     "party_lines": {
+      "REP": 399
+     }
+    },
+    {
+     "name": "JOHN GARAMENDI",
+     "votes": 454,
+     "party": "DEM",
+     "pct": 53.22,
+     "choice_id": "01000000-953c-d91e-d2cd-08df23c4bbbb",
+     "party_lines": {
+      "DEM": 454
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-d2e5-08df23c4bbbb",
+   "state": "CA",
+   "title": "State Senator District 6",
+   "office_type": "state_senate",
+   "district": "6",
+   "jurisdiction": "Sacramento County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 314,
+    "pct": 0.0,
+    "text": "0 of 314 precincts fully reported, 314 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "ROGER NIELLO",
+     "votes": 103958,
+     "party": "REP",
+     "pct": 47.59,
+     "choice_id": "01000000-953c-d91e-d311-08df23c4bbbb",
+     "party_lines": {
+      "REP": 103958
+     }
+    },
+    {
+     "name": "SEAN FRAME",
+     "votes": 114466,
+     "party": "DEM",
+     "pct": 52.41,
+     "choice_id": "01000000-953c-d91e-d32c-08df23c4bbbb",
+     "party_lines": {
+      "DEM": 114466
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-d343-08df23c4bbbb",
+   "state": "CA",
+   "title": "State Senator District 8",
+   "office_type": "state_senate",
+   "district": "8",
+   "jurisdiction": "Sacramento County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 388,
+    "pct": 0.0,
+    "text": "0 of 388 precincts fully reported, 388 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "ANGELIQUE ASHBY",
+     "votes": 201010,
+     "party": "DEM",
+     "pct": 74.37,
+     "choice_id": "01000000-953c-d91e-d370-08df23c4bbbb",
+     "party_lines": {
+      "DEM": 201010
+     }
+    },
+    {
+     "name": "SUSAN A MASON",
+     "votes": 69265,
+     "party": "REP",
+     "pct": 25.63,
+     "choice_id": "01000000-953c-d91e-d38b-08df23c4bbbb",
+     "party_lines": {
+      "REP": 69265
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-d3a3-08df23c4bbbb",
+   "state": "CA",
+   "title": "State Assembly District 6",
+   "office_type": "state_house",
+   "district": "6",
+   "jurisdiction": "Sacramento County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 229,
+    "pct": 0.0,
+    "text": "0 of 229 precincts fully reported, 229 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "MAGGY KRELL",
+     "votes": 113442,
+     "party": "DEM",
+     "pct": 83.72,
+     "choice_id": "01000000-953c-d91e-d3cd-08df23c4bbbb",
+     "party_lines": {
+      "DEM": 113442
+     }
+    },
+    {
+     "name": "JAGTAR SINGH",
+     "votes": 22065,
+     "party": "DEM",
+     "pct": 16.28,
+     "choice_id": "01000000-953c-d91e-d3e8-08df23c4bbbb",
+     "party_lines": {
+      "DEM": 22065
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-d3ff-08df23c4bbbb",
+   "state": "CA",
+   "title": "State Assembly District 7",
+   "office_type": "state_house",
+   "district": "7",
+   "jurisdiction": "Sacramento County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 223,
+    "pct": 0.0,
+    "text": "0 of 223 precincts fully reported, 223 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "JOSH HOOVER",
+     "votes": 79450,
+     "party": "REP",
+     "pct": 46.8,
+     "choice_id": "01000000-953c-d91e-d429-08df23c4bbbb",
+     "party_lines": {
+      "REP": 79450
+     }
+    },
+    {
+     "name": "AMY L. SLAVENSKY",
+     "votes": 90313,
+     "party": "DEM",
+     "pct": 53.2,
+     "choice_id": "01000000-953c-d91e-d444-08df23c4bbbb",
+     "party_lines": {
+      "DEM": 90313
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-d45c-08df23c4bbbb",
+   "state": "CA",
+   "title": "State Assembly District 9",
+   "office_type": "state_house",
+   "district": "9",
+   "jurisdiction": "Sacramento County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 64,
+    "pct": 0.0,
+    "text": "0 of 64 precincts fully reported, 64 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "HEATH FLORA",
+     "votes": 11530,
+     "party": "REP",
+     "pct": 59.38,
+     "choice_id": "01000000-953c-d91e-d48a-08df23c4bbbb",
+     "party_lines": {
+      "REP": 11530
+     }
+    },
+    {
+     "name": "MATTHEW ADAMS",
+     "votes": 7886,
+     "party": "DEM",
+     "pct": 40.62,
+     "choice_id": "01000000-953c-d91e-d4a6-08df23c4bbbb",
+     "party_lines": {
+      "DEM": 7886
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-d4be-08df23c4bbbb",
+   "state": "CA",
+   "title": "State Assembly District 10",
+   "office_type": "state_house",
+   "district": "10",
+   "jurisdiction": "Sacramento County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 202,
+    "pct": 0.0,
+    "text": "0 of 202 precincts fully reported, 202 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "STEPHANIE NGUYEN",
+     "votes": 105280,
+     "party": "DEM",
+     "pct": 73.77,
+     "choice_id": "01000000-953c-d91e-d4eb-08df23c4bbbb",
+     "party_lines": {
+      "DEM": 105280
+     }
+    },
+    {
+     "name": "VINAYA SINGH",
+     "votes": 37431,
+     "party": "REP",
+     "pct": 26.23,
+     "choice_id": "01000000-953c-d91e-d507-08df23c4bbbb",
+     "party_lines": {
+      "REP": 37431
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-d51d-08df23c4bbbb",
+   "state": "CA",
+   "title": "State Assembly District 11",
+   "office_type": "state_house",
+   "district": "11",
+   "jurisdiction": "Sacramento County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported, 1 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "JENNY LEILANI CALLISON",
+     "votes": 109,
+     "party": "NO PARTY PRE",
+     "pct": 43.25,
+     "choice_id": "01000000-953c-d91e-d546-08df23c4bbbb",
+     "party_lines": {
+      "NO PARTY PRE": 109
+     }
+    },
+    {
+     "name": "LORI D WILSON",
+     "votes": 143,
+     "party": "DEM",
+     "pct": 56.75,
+     "choice_id": "01000000-953c-d91e-d562-08df23c4bbbb",
+     "party_lines": {
+      "DEM": 143
+     }
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-d578-08df23c4bbbb",
+   "state": "CA",
+   "title": "Associate Justice of the Supreme Court (Groban)",
+   "office_type": "measure",
+   "district": "associate justice of the supreme court groban",
+   "jurisdiction": "Sacramento County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 719,
+    "pct": 0.0,
+    "text": "0 of 719 precincts fully reported, 719 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 280865,
+     "party": null,
+     "pct": 72.32,
+     "choice_id": "01000000-953c-d91e-d5a1-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 107519,
+     "party": null,
+     "pct": 27.68,
+     "choice_id": "01000000-953c-d91e-d5d0-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-d5d8-08df23c4bbbb",
+   "state": "CA",
+   "title": "Associate Justice of the Supreme Court (Evans)",
+   "office_type": "measure",
+   "district": "associate justice of the supreme court evans",
+   "jurisdiction": "Sacramento County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 719,
+    "pct": 0.0,
+    "text": "0 of 719 precincts fully reported, 719 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 283462,
+     "party": null,
+     "pct": 72.93,
+     "choice_id": "01000000-953c-d91e-d602-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 105235,
+     "party": null,
+     "pct": 27.07,
+     "choice_id": "01000000-953c-d91e-d62e-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-d635-08df23c4bbbb",
+   "state": "CA",
+   "title": "Presiding Justice Third Appellate District (Earl)",
+   "office_type": "measure",
+   "district": "presiding justice third appellate district earl",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 719,
+    "pct": 0.0,
+    "text": "0 of 719 precincts fully reported, 719 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 283266,
+     "party": null,
+     "pct": 74.08,
+     "choice_id": "01000000-953c-d91e-d65e-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 99109,
+     "party": null,
+     "pct": 25.92,
+     "choice_id": "01000000-953c-d91e-d689-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-d690-08df23c4bbbb",
+   "state": "CA",
+   "title": "Associate Justice Third Appellate District (Damrell)",
+   "office_type": "measure",
+   "district": "associate justice third appellate district damrell",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 719,
+    "pct": 0.0,
+    "text": "0 of 719 precincts fully reported, 719 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 262724,
+     "party": null,
+     "pct": 71.81,
+     "choice_id": "01000000-953c-d91e-d6b9-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 103147,
+     "party": null,
+     "pct": 28.19,
+     "choice_id": "01000000-953c-d91e-d6e4-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-d6ee-08df23c4bbbb",
+   "state": "CA",
+   "title": "Associate Justice Third Appellate District (Sapp)",
+   "office_type": "measure",
+   "district": "associate justice third appellate district sapp",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 719,
+    "pct": 0.0,
+    "text": "0 of 719 precincts fully reported, 719 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 245649,
+     "party": null,
+     "pct": 68.06,
+     "choice_id": "01000000-953c-d91e-d718-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 115288,
+     "party": null,
+     "pct": 31.94,
+     "choice_id": "01000000-953c-d91e-d742-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-d74a-08df23c4bbbb",
+   "state": "CA",
+   "title": "Associate Justice Third Appellate District (Boulware Eurie)",
+   "office_type": "measure",
+   "district": "associate justice third appellate district boulware eurie",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 719,
+    "pct": 0.0,
+    "text": "0 of 719 precincts fully reported, 719 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 262261,
+     "party": null,
+     "pct": 72.49,
+     "choice_id": "01000000-953c-d91e-d773-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 99504,
+     "party": null,
+     "pct": 27.51,
+     "choice_id": "01000000-953c-d91e-d79d-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-d7a4-08df23c4bbbb",
+   "state": "CA",
+   "title": "Associate Justice Third Appellate District (Renner)",
+   "office_type": "measure",
+   "district": "associate justice third appellate district renner",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 719,
+    "pct": 0.0,
+    "text": "0 of 719 precincts fully reported, 719 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 253602,
+     "party": null,
+     "pct": 70.67,
+     "choice_id": "01000000-953c-d91e-d7ce-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 105229,
+     "party": null,
+     "pct": 29.33,
+     "choice_id": "01000000-953c-d91e-d7f8-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-d801-08df23c4bbbb",
+   "state": "CA",
+   "title": "Associate Justice Third Appellate District (Feinberg)",
+   "office_type": "measure",
+   "district": "associate justice third appellate district feinberg",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 719,
+    "pct": 0.0,
+    "text": "0 of 719 precincts fully reported, 719 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 253819,
+     "party": null,
+     "pct": 70.67,
+     "choice_id": "01000000-953c-d91e-d82d-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 105362,
+     "party": null,
+     "pct": 29.33,
+     "choice_id": "01000000-953c-d91e-d858-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-d85e-08df23c4bbbb",
+   "state": "CA",
+   "title": "Associate Justice Third Appellate District (Mesiwala)",
+   "office_type": "measure",
+   "district": "associate justice third appellate district mesiwala",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 719,
+    "pct": 0.0,
+    "text": "0 of 719 precincts fully reported, 719 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 246294,
+     "party": null,
+     "pct": 68.59,
+     "choice_id": "01000000-953c-d91e-d888-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 112771,
+     "party": null,
+     "pct": 31.41,
+     "choice_id": "01000000-953c-d91e-d8b4-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-d8ba-08df23c4bbbb",
+   "state": "CA",
+   "title": "State Superintendent of Public Instruction",
+   "office_type": "superintendent",
+   "district": null,
+   "jurisdiction": "Sacramento County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 719,
+    "pct": 0.0,
+    "text": "0 of 719 precincts fully reported, 719 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "SONJA SHAW",
+     "votes": 168818,
+     "party": null,
+     "pct": 41.63,
+     "choice_id": "01000000-953c-d91e-d8e4-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "RICHARD BARRERA",
+     "votes": 236702,
+     "party": null,
+     "pct": 58.37,
+     "choice_id": "01000000-953c-d91e-d8fe-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-d932-08df23c4bbbb",
+   "state": "CA",
+   "title": "Los Rios Community College District Trustee Area 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 98,
+    "pct": 0.0,
+    "text": "0 of 98 precincts fully reported, 98 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "D'ANDREA CHAPMAN",
+     "votes": 15381,
+     "party": null,
+     "pct": 31.5,
+     "choice_id": "01000000-953c-d91e-d95e-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "MAGDALENA T. GONZALEZ",
+     "votes": 10784,
+     "party": null,
+     "pct": 22.08,
+     "choice_id": "01000000-953c-d91e-d978-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "DEVON GRAVES",
+     "votes": 22666,
+     "party": null,
+     "pct": 46.42,
+     "choice_id": "01000000-953c-d91e-d992-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-d9c4-08df23c4bbbb",
+   "state": "CA",
+   "title": "Los Rios Community College District Trustee Area 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 117,
+    "pct": 0.0,
+    "text": "0 of 117 precincts fully reported, 117 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "SUKDIP \"STEVE\" CHIMA",
+     "votes": 1928,
+     "party": null,
+     "pct": 2.93,
+     "choice_id": "01000000-953c-d91e-da04-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "TIM LOREE",
+     "votes": 4676,
+     "party": null,
+     "pct": 7.11,
+     "choice_id": "01000000-953c-d91e-da1e-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "ORANIT LIMMANEEPRASERT",
+     "votes": 14893,
+     "party": null,
+     "pct": 22.66,
+     "choice_id": "01000000-953c-d91e-da38-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "PHIL DAVIS",
+     "votes": 12934,
+     "party": null,
+     "pct": 19.68,
+     "choice_id": "01000000-953c-d91e-da52-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "JONATHAN BROWNELL",
+     "votes": 1649,
+     "party": null,
+     "pct": 2.51,
+     "choice_id": "01000000-953c-d91e-da6f-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "MARTIN ROSS",
+     "votes": 4901,
+     "party": null,
+     "pct": 7.46,
+     "choice_id": "01000000-953c-d91e-da8a-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "MARK GREGG",
+     "votes": 12075,
+     "party": null,
+     "pct": 18.37,
+     "choice_id": "01000000-953c-d91e-daa4-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "PAULA VILLESCAZ",
+     "votes": 12665,
+     "party": null,
+     "pct": 19.27,
+     "choice_id": "01000000-953c-d91e-dabe-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-daef-08df23c4bbbb",
+   "state": "CA",
+   "title": "Los Rios Community College District Trustee Area 6",
+   "office_type": "local",
+   "district": "6",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 112,
+    "pct": 0.0,
+    "text": "0 of 112 precincts fully reported, 112 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "PEARL KOVEN",
+     "votes": 6630,
+     "party": null,
+     "pct": 10.74,
+     "choice_id": "01000000-953c-d91e-db1b-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "ZIMA CREASON",
+     "votes": 16308,
+     "party": null,
+     "pct": 26.43,
+     "choice_id": "01000000-953c-d91e-db35-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "DEBORAH V. ORTIZ",
+     "votes": 29831,
+     "party": null,
+     "pct": 48.34,
+     "choice_id": "01000000-953c-d91e-db4e-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "WILLIAM THOMAS BERNAL",
+     "votes": 5425,
+     "party": null,
+     "pct": 8.79,
+     "choice_id": "01000000-953c-d91e-db68-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "KEITH ELLIS",
+     "votes": 3515,
+     "party": null,
+     "pct": 5.7,
+     "choice_id": "01000000-953c-d91e-db82-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-dbb7-08df23c4bbbb",
+   "state": "CA",
+   "title": "San Joaquin Delta Community College District Trustee Area 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 15,
+    "pct": 0.0,
+    "text": "0 of 15 precincts fully reported, 15 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "CHARLES R. JENNINGS",
+     "votes": 2424,
+     "party": null,
+     "pct": 63.19,
+     "choice_id": "01000000-953c-d91e-dbe4-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "TONY SHAH",
+     "votes": 1412,
+     "party": null,
+     "pct": 36.81,
+     "choice_id": "01000000-953c-d91e-dbfe-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-dc30-08df23c4bbbb",
+   "state": "CA",
+   "title": "Sierra Joint Community College District Trustee Area 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 22,
+    "pct": 0.0,
+    "text": "0 of 22 precincts fully reported, 22 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "PAUL HARRIS",
+     "votes": 2095,
+     "party": null,
+     "pct": 28.59,
+     "choice_id": "01000000-953c-d91e-dc5f-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "BOB ROMNESS",
+     "votes": 2492,
+     "party": null,
+     "pct": 34.01,
+     "choice_id": "01000000-953c-d91e-dc7a-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "ROBERT GONZALEZ",
+     "votes": 2740,
+     "party": null,
+     "pct": 37.4,
+     "choice_id": "01000000-953c-d91e-dc94-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-dcc6-08df23c4bbbb",
+   "state": "CA",
+   "title": "Center Joint Unified School District Trustee Area 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported, 4 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "KELLY CATHRINE KELLEY",
+     "votes": 299,
+     "party": null,
+     "pct": 29.37,
+     "choice_id": "01000000-953c-d91e-dcf5-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "NATASHA C THAO",
+     "votes": 719,
+     "party": null,
+     "pct": 70.63,
+     "choice_id": "01000000-953c-d91e-dd11-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-dd41-08df23c4bbbb",
+   "state": "CA",
+   "title": "Center Joint Unified School District Trustee Area 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported, 5 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "NANCY ANDERSON",
+     "votes": 710,
+     "party": null,
+     "pct": 64.96,
+     "choice_id": "01000000-953c-d91e-dd72-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "STEVEN J BRUNO",
+     "votes": 383,
+     "party": null,
+     "pct": 35.04,
+     "choice_id": "01000000-953c-d91e-dd8e-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-ddbe-08df23c4bbbb",
+   "state": "CA",
+   "title": "Elk Grove Unified School District Trustee Area 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 23,
+    "pct": 0.0,
+    "text": "0 of 23 precincts fully reported, 23 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "MICHAEL VARGAS",
+     "votes": 9721,
+     "party": null,
+     "pct": 69.27,
+     "choice_id": "01000000-953c-d91e-ddf0-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "KIRK THOMSON",
+     "votes": 4312,
+     "party": null,
+     "pct": 30.73,
+     "choice_id": "01000000-953c-d91e-de0b-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-de3a-08df23c4bbbb",
+   "state": "CA",
+   "title": "Elk Grove Unified School District Trustee Area 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 25,
+    "pct": 0.0,
+    "text": "0 of 25 precincts fully reported, 25 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "DELIA BAULWIN",
+     "votes": 10370,
+     "party": null,
+     "pct": 72.09,
+     "choice_id": "01000000-953c-d91e-de6a-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "CRAIG J. TOWNSEND",
+     "votes": 4014,
+     "party": null,
+     "pct": 27.91,
+     "choice_id": "01000000-953c-d91e-de84-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-deb4-08df23c4bbbb",
+   "state": "CA",
+   "title": "Elk Grove Unified School District Trustee Area 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 24,
+    "pct": 0.0,
+    "text": "0 of 24 precincts fully reported, 24 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "VARINDER SINGH",
+     "votes": 6517,
+     "party": null,
+     "pct": 45.08,
+     "choice_id": "01000000-953c-d91e-dee3-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "RACHELL REINWALD",
+     "votes": 3962,
+     "party": null,
+     "pct": 27.41,
+     "choice_id": "01000000-953c-d91e-defd-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "ELENA TRUKHAN",
+     "votes": 3978,
+     "party": null,
+     "pct": 27.52,
+     "choice_id": "01000000-953c-d91e-df1b-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-df4b-08df23c4bbbb",
+   "state": "CA",
+   "title": "Folsom Cordova Unified School District Trustee Area 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 15,
+    "pct": 0.0,
+    "text": "0 of 15 precincts fully reported, 15 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "KARA L. LOFTHOUSE",
+     "votes": 5266,
+     "party": null,
+     "pct": 54.03,
+     "choice_id": "01000000-953c-d91e-df7b-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "CHRIS FREDRICH",
+     "votes": 4480,
+     "party": null,
+     "pct": 45.97,
+     "choice_id": "01000000-953c-d91e-df95-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-dfc5-08df23c4bbbb",
+   "state": "CA",
+   "title": "Folsom Cordova Unified School District Trustee Area 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 17,
+    "pct": 0.0,
+    "text": "0 of 17 precincts fully reported, 17 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "SUSAN K. CUNNINGHAM",
+     "votes": 3583,
+     "party": null,
+     "pct": 42.46,
+     "choice_id": "01000000-953c-d91e-dff5-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "DAVID REID",
+     "votes": 4855,
+     "party": null,
+     "pct": 57.54,
+     "choice_id": "01000000-953c-d91e-e00f-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-e03f-08df23c4bbbb",
+   "state": "CA",
+   "title": "River Delta Unified School District Trustee Area 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "ANNAFIINA SWENSON",
+     "votes": 88,
+     "party": null,
+     "pct": 36.36,
+     "choice_id": "01000000-953c-d91e-e070-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "DANIEL MERWIN",
+     "votes": 154,
+     "party": null,
+     "pct": 63.64,
+     "choice_id": "01000000-953c-d91e-e08a-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-e0b8-08df23c4bbbb",
+   "state": "CA",
+   "title": "San Juan Unified School District Trustee Area 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 24,
+    "pct": 0.0,
+    "text": "0 of 24 precincts fully reported, 24 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "ROXANNE STELLMACHER",
+     "votes": 9118,
+     "party": null,
+     "pct": 51.51,
+     "choice_id": "01000000-953c-d91e-e0e6-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "MORRI ELLIOTT",
+     "votes": 8583,
+     "party": null,
+     "pct": 48.49,
+     "choice_id": "01000000-953c-d91e-e100-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-e12e-08df23c4bbbb",
+   "state": "CA",
+   "title": "San Juan Unified School District Trustee Area 7",
+   "office_type": "local",
+   "district": "7",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 21,
+    "pct": 0.0,
+    "text": "0 of 21 precincts fully reported, 21 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "MANUEL I PEREZ",
+     "votes": 6993,
+     "party": null,
+     "pct": 58.01,
+     "choice_id": "01000000-953c-d91e-e15b-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "MURAD \"MOE\" SARAMA",
+     "votes": 5062,
+     "party": null,
+     "pct": 41.99,
+     "choice_id": "01000000-953c-d91e-e185-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-e1b3-08df23c4bbbb",
+   "state": "CA",
+   "title": "Natomas Unified School District Trustee Area 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": "0 of 7 precincts fully reported, 7 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "NEIL POPLE",
+     "votes": 1644,
+     "party": null,
+     "pct": 37.48,
+     "choice_id": "01000000-953c-d91e-e1df-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "JEREMY D. GREENE",
+     "votes": 2742,
+     "party": null,
+     "pct": 62.52,
+     "choice_id": "01000000-953c-d91e-e1f9-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-e227-08df23c4bbbb",
+   "state": "CA",
+   "title": "Natomas Unified School District Trustee Area 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported, 6 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "AMIR KHAN",
+     "votes": 932,
+     "party": null,
+     "pct": 19.62,
+     "choice_id": "01000000-953c-d91e-e254-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "KRYSTAL KING",
+     "votes": 1180,
+     "party": null,
+     "pct": 24.84,
+     "choice_id": "01000000-953c-d91e-e26e-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "LENG LAI",
+     "votes": 1702,
+     "party": null,
+     "pct": 35.83,
+     "choice_id": "01000000-953c-d91e-e288-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "JENN SOUZA",
+     "votes": 936,
+     "party": null,
+     "pct": 19.71,
+     "choice_id": "01000000-953c-d91e-e2a2-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-e2d3-08df23c4bbbb",
+   "state": "CA",
+   "title": "Galt Joint Union High School District Trustee Area 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 10,
+    "pct": 0.0,
+    "text": "0 of 10 precincts fully reported, 10 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "DANIEL K. DENIER",
+     "votes": 956,
+     "party": null,
+     "pct": 46.36,
+     "choice_id": "01000000-953c-d91e-e300-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "MELISSA J. NEUBURGER",
+     "votes": 1106,
+     "party": null,
+     "pct": 53.64,
+     "choice_id": "01000000-953c-d91e-e31d-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-e34b-08df23c4bbbb",
+   "state": "CA",
+   "title": "Arcohe Union School District Governing Board Member (3)",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 8,
+    "pct": 0.0,
+    "text": "0 of 8 precincts fully reported, 8 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "MONICA E. PETERSEN",
+     "votes": 662,
+     "party": null,
+     "pct": 20.22,
+     "choice_id": "01000000-953c-d91e-e37a-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "MICHAEL OSTROM",
+     "votes": 407,
+     "party": null,
+     "pct": 12.43,
+     "choice_id": "01000000-953c-d91e-e393-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "MIKE DIETER",
+     "votes": 346,
+     "party": null,
+     "pct": 10.57,
+     "choice_id": "01000000-953c-d91e-e3af-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "GARRETT SPARKS",
+     "votes": 721,
+     "party": null,
+     "pct": 22.02,
+     "choice_id": "01000000-953c-d91e-e3cb-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "BOBBIE F. STEPPS",
+     "votes": 540,
+     "party": null,
+     "pct": 16.49,
+     "choice_id": "01000000-953c-d91e-e3ea-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "TREVOR MESSERSMITH",
+     "votes": 598,
+     "party": null,
+     "pct": 18.27,
+     "choice_id": "01000000-953c-d91e-e407-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-e437-08df23c4bbbb",
+   "state": "CA",
+   "title": "Dry Creek Joint Elementary School District Trustee Area 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported, 5 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "TONYA HARRIS",
+     "votes": 1696,
+     "party": null,
+     "pct": 66.35,
+     "choice_id": "01000000-953c-d91e-e463-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "RENAE SCHIECKOFF",
+     "votes": 860,
+     "party": null,
+     "pct": 33.65,
+     "choice_id": "01000000-953c-d91e-e47f-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-e4b1-08df23c4bbbb",
+   "state": "CA",
+   "title": "Galt Joint Union Elementary School District Trustee Area 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported, 4 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "ANNETTE KUNZE",
+     "votes": 753,
+     "party": null,
+     "pct": 40.03,
+     "choice_id": "01000000-953c-d91e-e4df-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "ERICA BROSSARD",
+     "votes": 1128,
+     "party": null,
+     "pct": 59.97,
+     "choice_id": "01000000-953c-d91e-e4fa-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-e52c-08df23c4bbbb",
+   "state": "CA",
+   "title": "Robla School District Governing Board Member (3)",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 9,
+    "pct": 0.0,
+    "text": "0 of 9 precincts fully reported, 9 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "RAYNELL HAMILTON-STARKS",
+     "votes": 1575,
+     "party": null,
+     "pct": 28.03,
+     "choice_id": "01000000-953c-d91e-e559-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "SABRINA OLIVER",
+     "votes": 1359,
+     "party": null,
+     "pct": 24.19,
+     "choice_id": "01000000-953c-d91e-e575-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "CRAIG J. DELUZ",
+     "votes": 1120,
+     "party": null,
+     "pct": 19.93,
+     "choice_id": "01000000-953c-d91e-e590-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "JORGE E. MENDOZA GONZALEZ",
+     "votes": 1565,
+     "party": null,
+     "pct": 27.85,
+     "choice_id": "01000000-953c-d91e-e5ac-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-e5dc-08df23c4bbbb",
+   "state": "CA",
+   "title": "Board of Supervisors District 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 143,
+    "pct": 0.0,
+    "text": "0 of 143 precincts fully reported, 143 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "FLO COFER",
+     "votes": 49348,
+     "party": null,
+     "pct": 56.69,
+     "choice_id": "01000000-953c-d91e-e609-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "ERIC GUERRA",
+     "votes": 37704,
+     "party": null,
+     "pct": 43.31,
+     "choice_id": "01000000-953c-d91e-e625-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-e655-08df23c4bbbb",
+   "state": "CA",
+   "title": "City of Folsom Council District 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 9,
+    "pct": 0.0,
+    "text": "0 of 9 precincts fully reported, 9 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "MIKE KOZLOWSKI",
+     "votes": 3195,
+     "party": null,
+     "pct": 55.0,
+     "choice_id": "01000000-953c-d91e-e686-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "PAUL KERFELD",
+     "votes": 731,
+     "party": null,
+     "pct": 12.58,
+     "choice_id": "01000000-953c-d91e-e6a3-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "CHAD VANDER VEEN",
+     "votes": 1883,
+     "party": null,
+     "pct": 32.42,
+     "choice_id": "01000000-953c-d91e-e6bf-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-e6ed-08df23c4bbbb",
+   "state": "CA",
+   "title": "City of Folsom Council District 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 11,
+    "pct": 0.0,
+    "text": "0 of 11 precincts fully reported, 11 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "SARAH AQUINO",
+     "votes": 4905,
+     "party": null,
+     "pct": 57.2,
+     "choice_id": "01000000-953c-d91e-e71d-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "JAGADISH \"JAG\" NAGENDRA",
+     "votes": 3670,
+     "party": null,
+     "pct": 42.8,
+     "choice_id": "01000000-953c-d91e-e739-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-e768-08df23c4bbbb",
+   "state": "CA",
+   "title": "City of Folsom Council District 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 6,
+    "pct": 0.0,
+    "text": "0 of 6 precincts fully reported, 6 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "JUSTIN HURST",
+     "votes": 2351,
+     "party": null,
+     "pct": 45.66,
+     "choice_id": "01000000-953c-d91e-e79a-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "ANNA ROHRBOUGH",
+     "votes": 2798,
+     "party": null,
+     "pct": 54.34,
+     "choice_id": "01000000-953c-d91e-e7b7-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-e7e4-08df23c4bbbb",
+   "state": "CA",
+   "title": "City of Galt Council District 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 2,
+    "pct": 0.0,
+    "text": "0 of 2 precincts fully reported, 2 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "MARK A JACKSON",
+     "votes": 783,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "01000000-953c-d91e-e813-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-e842-08df23c4bbbb",
+   "state": "CA",
+   "title": "City of Galt Council District 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported, 4 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "BONNIE RODRIGUEZ",
+     "votes": 1038,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "01000000-953c-d91e-e872-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-e8a1-08df23c4bbbb",
+   "state": "CA",
+   "title": "City of Galt Council District 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 3,
+    "pct": 0.0,
+    "text": "0 of 3 precincts fully reported, 3 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "PAUL SANDHU",
+     "votes": 767,
+     "party": null,
+     "pct": 47.06,
+     "choice_id": "01000000-953c-d91e-e8d5-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "TOM SILVA",
+     "votes": 863,
+     "party": null,
+     "pct": 52.94,
+     "choice_id": "01000000-953c-d91e-e8f1-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-e91f-08df23c4bbbb",
+   "state": "CA",
+   "title": "City of Citrus Heights Council District 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 8,
+    "pct": 0.0,
+    "text": "0 of 8 precincts fully reported, 8 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "MARIJANE LOPEZ-TAFF",
+     "votes": 3632,
+     "party": null,
+     "pct": 61.9,
+     "choice_id": "01000000-953c-d91e-e94f-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "CHARLES STONE",
+     "votes": 2236,
+     "party": null,
+     "pct": 38.1,
+     "choice_id": "01000000-953c-d91e-e96b-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-e999-08df23c4bbbb",
+   "state": "CA",
+   "title": "City of Citrus Heights Council District 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": "0 of 7 precincts fully reported, 7 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "JAYNA KARPINSKI-COSTA",
+     "votes": 2349,
+     "party": null,
+     "pct": 54.93,
+     "choice_id": "01000000-953c-d91e-e9c9-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "SUSAN E POWERS",
+     "votes": 1927,
+     "party": null,
+     "pct": 45.07,
+     "choice_id": "01000000-953c-d91e-e9e8-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-ea18-08df23c4bbbb",
+   "state": "CA",
+   "title": "City of Citrus Heights Council District 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported, 5 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "PORSCHE MIDDLETON",
+     "votes": 2931,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "01000000-953c-d91e-ea47-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-ea74-08df23c4bbbb",
+   "state": "CA",
+   "title": "City of Rancho Cordova Council District 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 8,
+    "pct": 0.0,
+    "text": "0 of 8 precincts fully reported, 8 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "ELLIOTT STEVENSON",
+     "votes": 2795,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "01000000-953c-d91e-eaa4-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-ead2-08df23c4bbbb",
+   "state": "CA",
+   "title": "City of Rancho Cordova Council District 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 11,
+    "pct": 0.0,
+    "text": "0 of 11 precincts fully reported, 11 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "LILIA DARBINYAN",
+     "votes": 937,
+     "party": null,
+     "pct": 23.5,
+     "choice_id": "01000000-953c-d91e-eb02-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "LINDA BUDGE",
+     "votes": 1446,
+     "party": null,
+     "pct": 36.27,
+     "choice_id": "01000000-953c-d91e-eb1f-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "TEGAN MAULDIN",
+     "votes": 1604,
+     "party": null,
+     "pct": 40.23,
+     "choice_id": "01000000-953c-d91e-eb3d-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-eb6a-08df23c4bbbb",
+   "state": "CA",
+   "title": "City of Elk Grove Council District 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 17,
+    "pct": 0.0,
+    "text": "0 of 17 precincts fully reported, 17 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "PEGGY PARKS",
+     "votes": 4011,
+     "party": null,
+     "pct": 35.26,
+     "choice_id": "01000000-953c-d91e-eb99-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "SERGIO D. ROBLES",
+     "votes": 7363,
+     "party": null,
+     "pct": 64.74,
+     "choice_id": "01000000-953c-d91e-ebb5-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-ebe3-08df23c4bbbb",
+   "state": "CA",
+   "title": "Sacramento Municipal Utility District Director, Ward 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 106,
+    "pct": 0.0,
+    "text": "0 of 106 precincts fully reported, 106 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "SCOTT SLOTTERBECK",
+     "votes": 13875,
+     "party": null,
+     "pct": 24.87,
+     "choice_id": "01000000-953c-d91e-ec12-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "GREGG B. FISHMAN",
+     "votes": 41912,
+     "party": null,
+     "pct": 75.13,
+     "choice_id": "01000000-953c-d91e-ec2f-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-ec5e-08df23c4bbbb",
+   "state": "CA",
+   "title": "Rancho Murieta Community Services District Director (3)",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported, 4 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "MARIA CAUDILL",
+     "votes": 1246,
+     "party": null,
+     "pct": 15.72,
+     "choice_id": "01000000-953c-d91e-ec8f-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "TIM DEC",
+     "votes": 241,
+     "party": null,
+     "pct": 3.04,
+     "choice_id": "01000000-953c-d91e-ecac-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "TOM SHEWCHUK",
+     "votes": 1501,
+     "party": null,
+     "pct": 18.94,
+     "choice_id": "01000000-953c-d91e-ecc9-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "CATHERINE SILVERA",
+     "votes": 1254,
+     "party": null,
+     "pct": 15.82,
+     "choice_id": "01000000-953c-d91e-ece5-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "STEPHEN BOOTH",
+     "votes": 985,
+     "party": null,
+     "pct": 12.43,
+     "choice_id": "01000000-953c-d91e-ed02-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "JEFFREY BERKHEIMER",
+     "votes": 1065,
+     "party": null,
+     "pct": 13.44,
+     "choice_id": "01000000-953c-d91e-ed1e-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "PETER W. REAGAN",
+     "votes": 644,
+     "party": null,
+     "pct": 8.12,
+     "choice_id": "01000000-953c-d91e-ed39-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "WILLIAM GERE",
+     "votes": 991,
+     "party": null,
+     "pct": 12.5,
+     "choice_id": "01000000-953c-d91e-ed54-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-ed88-08df23c4bbbb",
+   "state": "CA",
+   "title": "Rancho Murieta Community Services District Director - Short Term (1)",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported, 4 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "JOHN VAN DOREN",
+     "votes": 1402,
+     "party": null,
+     "pct": 48.75,
+     "choice_id": "01000000-953c-d91e-edb9-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "MICHAEL MARTEL",
+     "votes": 1474,
+     "party": null,
+     "pct": 51.25,
+     "choice_id": "01000000-953c-d91e-edd6-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-ee03-08df23c4bbbb",
+   "state": "CA",
+   "title": "San Juan Water District Director, Division 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 10,
+    "pct": 0.0,
+    "text": "0 of 10 precincts fully reported, 10 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "MICHAEL NISHIMURA",
+     "votes": 2326,
+     "party": null,
+     "pct": 35.02,
+     "choice_id": "01000000-953c-d91e-ee34-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "GEORGE C. MACHADO",
+     "votes": 4315,
+     "party": null,
+     "pct": 64.98,
+     "choice_id": "01000000-953c-d91e-ee51-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-ee7d-08df23c4bbbb",
+   "state": "CA",
+   "title": "San Juan Water District Director, Division 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 13,
+    "pct": 0.0,
+    "text": "0 of 13 precincts fully reported, 13 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "EDWARD J. \"TED\" COSTA",
+     "votes": 5118,
+     "party": null,
+     "pct": 72.87,
+     "choice_id": "01000000-953c-d91e-eeb0-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "JOAN PEDERSON",
+     "votes": 1905,
+     "party": null,
+     "pct": 27.13,
+     "choice_id": "01000000-953c-d91e-eece-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-eefa-08df23c4bbbb",
+   "state": "CA",
+   "title": "San Juan Water District Director, Division 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 20,
+    "pct": 0.0,
+    "text": "0 of 20 precincts fully reported, 20 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "ANDREW L. JOHNSON",
+     "votes": 4216,
+     "party": null,
+     "pct": 38.76,
+     "choice_id": "01000000-953c-d91e-ef2a-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "MANUEL ZAMORANO",
+     "votes": 5174,
+     "party": null,
+     "pct": 47.57,
+     "choice_id": "01000000-953c-d91e-ef46-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "KEVIN FURRY",
+     "votes": 1487,
+     "party": null,
+     "pct": 13.67,
+     "choice_id": "01000000-953c-d91e-ef61-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-ef8c-08df23c4bbbb",
+   "state": "CA",
+   "title": "Florin Resource Conservation District Director (3)",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 3,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 164,
+    "pct": 0.0,
+    "text": "0 of 164 precincts fully reported, 164 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "PAUL LINDSAY",
+     "votes": 35709,
+     "party": null,
+     "pct": 28.85,
+     "choice_id": "01000000-953c-d91e-efbf-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "BRET BARTHOLOMEW",
+     "votes": 30623,
+     "party": null,
+     "pct": 24.74,
+     "choice_id": "01000000-953c-d91e-efde-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "JOHN MOUA",
+     "votes": 30788,
+     "party": null,
+     "pct": 24.87,
+     "choice_id": "01000000-953c-d91e-effa-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "KIMBERLY A. MARTIN",
+     "votes": 26663,
+     "party": null,
+     "pct": 21.54,
+     "choice_id": "01000000-953c-d91e-f015-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 3,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "01000000-953c-d91e-f03f-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-f042-08df23c4bbbb",
+   "state": "CA",
+   "title": "Wilton Fire Protection District Director (2)",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": "0 of 7 precincts fully reported, 7 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "MIKE J. KATEN",
+     "votes": 255,
+     "party": null,
+     "pct": 5.78,
+     "choice_id": "01000000-953c-d91e-f078-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "ALEXANDER J CARL",
+     "votes": 1086,
+     "party": null,
+     "pct": 24.64,
+     "choice_id": "01000000-953c-d91e-f095-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "MARK CREAGER",
+     "votes": 918,
+     "party": null,
+     "pct": 20.83,
+     "choice_id": "01000000-953c-d91e-f0b1-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "CARLOS WILLIAM ROGERS",
+     "votes": 481,
+     "party": null,
+     "pct": 10.91,
+     "choice_id": "01000000-953c-d91e-f0cf-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "TIM ERIK RADULOVICH",
+     "votes": 365,
+     "party": null,
+     "pct": 8.28,
+     "choice_id": "01000000-953c-d91e-f0ec-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "RON FIORICA",
+     "votes": 1303,
+     "party": null,
+     "pct": 29.56,
+     "choice_id": "01000000-953c-d91e-f108-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-f13c-08df23c4bbbb",
+   "state": "CA",
+   "title": "American River Flood Control District Trustee, Division 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 22,
+    "pct": 0.0,
+    "text": "0 of 22 precincts fully reported, 22 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "TIM CRUSH",
+     "votes": 6228,
+     "party": null,
+     "pct": 41.67,
+     "choice_id": "01000000-953c-d91e-f16f-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "EMILY SMET",
+     "votes": 8718,
+     "party": null,
+     "pct": 58.33,
+     "choice_id": "01000000-953c-d91e-f18b-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-f1b5-08df23c4bbbb",
+   "state": "CA",
+   "title": "El Dorado Irrigation District Director, Division 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 1,
+    "pct": 0.0,
+    "text": "0 of 1 precincts fully reported, 1 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "LORI GODSEY ANZINI",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "01000000-953c-d91e-f1ea-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "ERIC METTLER",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "01000000-953c-d91e-f207-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-f22c-08df23c4bbbb",
+   "state": "CA",
+   "title": "Carmichael Water District Director, Division 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported, 5 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "JOHN A WALLACE",
+     "votes": 710,
+     "party": null,
+     "pct": 37.31,
+     "choice_id": "01000000-953c-d91e-f262-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "JEFF NELSON",
+     "votes": 711,
+     "party": null,
+     "pct": 37.36,
+     "choice_id": "01000000-953c-d91e-f27e-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "DRU R. ENSER",
+     "votes": 482,
+     "party": null,
+     "pct": 25.33,
+     "choice_id": "01000000-953c-d91e-f29a-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-f2c4-08df23c4bbbb",
+   "state": "CA",
+   "title": "Fair Oaks Water District Director, Division 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported, 5 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "KEVIN PEÑA",
+     "votes": 1048,
+     "party": null,
+     "pct": 36.26,
+     "choice_id": "01000000-953c-d91e-f2f7-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "GEORGE B. BABCOCK",
+     "votes": 1842,
+     "party": null,
+     "pct": 63.74,
+     "choice_id": "01000000-953c-d91e-f313-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-f33e-08df23c4bbbb",
+   "state": "CA",
+   "title": "Fair Oaks Water District Director, Division 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 4,
+    "pct": 0.0,
+    "text": "0 of 4 precincts fully reported, 4 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "MARK DOLBY",
+     "votes": 1831,
+     "party": null,
+     "pct": 61.5,
+     "choice_id": "01000000-953c-d91e-f370-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "JESSICA DEITCHMAN",
+     "votes": 1146,
+     "party": null,
+     "pct": 38.5,
+     "choice_id": "01000000-953c-d91e-f38d-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-f3b9-08df23c4bbbb",
+   "state": "CA",
+   "title": "Fair Oaks Recreation and Park District Director (2)",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 19,
+    "pct": 0.0,
+    "text": "0 of 19 precincts fully reported, 19 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "RALPH L. CARHART",
+     "votes": 8223,
+     "party": null,
+     "pct": 43.45,
+     "choice_id": "01000000-953c-d91e-f3ed-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "RAYMOND JAMES IRWIN",
+     "votes": 7890,
+     "party": null,
+     "pct": 41.69,
+     "choice_id": "01000000-953c-d91e-f40a-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "CAMERON D. VAULT",
+     "votes": 2811,
+     "party": null,
+     "pct": 14.85,
+     "choice_id": "01000000-953c-d91e-f427-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.01,
+     "choice_id": "01000000-953c-d91e-f44c-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-f453-08df23c4bbbb",
+   "state": "CA",
+   "title": "Fair Oaks Recreation and Park District Director - Short Term (1)",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 19,
+    "pct": 0.0,
+    "text": "0 of 19 precincts fully reported, 19 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "VICKI WALTER",
+     "votes": 3876,
+     "party": null,
+     "pct": 37.68,
+     "choice_id": "01000000-953c-d91e-f487-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "MANUEL LAVALLE",
+     "votes": 6410,
+     "party": null,
+     "pct": 62.32,
+     "choice_id": "01000000-953c-d91e-f4a3-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-f4cf-08df23c4bbbb",
+   "state": "CA",
+   "title": "Fulton-El Camino Recreation and Park District Director (2)",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 11,
+    "pct": 0.0,
+    "text": "0 of 11 precincts fully reported, 11 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "SHAFIULLAH HOTAK",
+     "votes": 1436,
+     "party": null,
+     "pct": 17.83,
+     "choice_id": "01000000-953c-d91e-f503-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "GABRIELLA KHAN",
+     "votes": 1506,
+     "party": null,
+     "pct": 18.7,
+     "choice_id": "01000000-953c-d91e-f51f-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "MICHAEL SEAMAN",
+     "votes": 3895,
+     "party": null,
+     "pct": 48.36,
+     "choice_id": "01000000-953c-d91e-f53b-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "STEVEN T. RICE",
+     "votes": 1218,
+     "party": null,
+     "pct": 15.12,
+     "choice_id": "01000000-953c-d91e-f558-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-f582-08df23c4bbbb",
+   "state": "CA",
+   "title": "North Highlands Recreation and Park District Director (2)",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 19,
+    "pct": 0.0,
+    "text": "0 of 19 precincts fully reported, 19 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "PATRICK B WILLIAMS",
+     "votes": 4152,
+     "party": null,
+     "pct": 40.52,
+     "choice_id": "01000000-953c-d91e-f5b8-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "SUKDIP \"STEVE\" CHIMA",
+     "votes": 2165,
+     "party": null,
+     "pct": 21.13,
+     "choice_id": "01000000-953c-d91e-f5d4-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "JOANNA MCVAY",
+     "votes": 3927,
+     "party": null,
+     "pct": 38.33,
+     "choice_id": "01000000-953c-d91e-f5f1-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 2,
+     "party": null,
+     "pct": 0.02,
+     "choice_id": "01000000-953c-d91e-f61a-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-f61d-08df23c4bbbb",
+   "state": "CA",
+   "title": "Cordova Recreation and Park District Director, District 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 8,
+    "pct": 0.0,
+    "text": "0 of 8 precincts fully reported, 8 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "BRIAN M DANZL",
+     "votes": 3788,
+     "party": null,
+     "pct": 69.84,
+     "choice_id": "01000000-953c-d91e-f651-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "ERIC MOTT",
+     "votes": 1636,
+     "party": null,
+     "pct": 30.16,
+     "choice_id": "01000000-953c-d91e-f66d-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-f697-08df23c4bbbb",
+   "state": "CA",
+   "title": "Southgate Recreation and Park District Director, Division 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 7,
+    "pct": 0.0,
+    "text": "0 of 7 precincts fully reported, 7 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "ROSARIO ROSAS",
+     "votes": 2856,
+     "party": null,
+     "pct": 86.44,
+     "choice_id": "01000000-953c-d91e-f6cb-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "RALPH MERLETTI",
+     "votes": 448,
+     "party": null,
+     "pct": 13.56,
+     "choice_id": "01000000-953c-d91e-f6e7-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-f70f-08df23c4bbbb",
+   "state": "CA",
+   "title": "Southgate Recreation and Park District Director, Division 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 16,
+    "pct": 0.0,
+    "text": "0 of 16 precincts fully reported, 16 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "KRISTY T LAC",
+     "votes": 4797,
+     "party": null,
+     "pct": 83.38,
+     "choice_id": "01000000-953c-d91e-f746-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "BRIAN LAJDA",
+     "votes": 956,
+     "party": null,
+     "pct": 16.62,
+     "choice_id": "01000000-953c-d91e-f762-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-f78c-08df23c4bbbb",
+   "state": "CA",
+   "title": "Florin County Water District Director (2)",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 5,
+    "pct": 0.0,
+    "text": "0 of 5 precincts fully reported, 5 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "JUDI H JOHNSON",
+     "votes": 1192,
+     "party": null,
+     "pct": 48.53,
+     "choice_id": "01000000-953c-d91e-f7c0-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "JASON ANDREWS",
+     "votes": 979,
+     "party": null,
+     "pct": 39.86,
+     "choice_id": "01000000-953c-d91e-f7db-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "JAMES LAJDA",
+     "votes": 285,
+     "party": null,
+     "pct": 11.6,
+     "choice_id": "01000000-953c-d91e-f7f7-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-f81f-08df23c4bbbb",
+   "state": "CA",
+   "title": "Rio Linda / Elverta Community Water District Director (2)",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 2,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 11,
+    "pct": 0.0,
+    "text": "0 of 11 precincts fully reported, 11 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "JENNIFER BODDIE",
+     "votes": 1948,
+     "party": null,
+     "pct": 35.78,
+     "choice_id": "01000000-953c-d91e-f853-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "VICKY A. YOUNG",
+     "votes": 1212,
+     "party": null,
+     "pct": 22.26,
+     "choice_id": "01000000-953c-d91e-f870-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "NEVAEH MOORE",
+     "votes": 471,
+     "party": null,
+     "pct": 8.65,
+     "choice_id": "01000000-953c-d91e-f88c-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "JOSHUA MACCULLOCH",
+     "votes": 1813,
+     "party": null,
+     "pct": 33.3,
+     "choice_id": "01000000-953c-d91e-f8a8-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-f8d1-08df23c4bbbb",
+   "state": "CA",
+   "title": "Sacramento Suburban Water District Director, Division 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 11,
+    "pct": 0.0,
+    "text": "0 of 11 precincts fully reported, 11 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "ROBERT P. \"BOB\" WICHERT",
+     "votes": 4093,
+     "party": null,
+     "pct": 61.76,
+     "choice_id": "01000000-953c-d91e-f905-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "ANDREW SAUNDERS",
+     "votes": 1802,
+     "party": null,
+     "pct": 27.19,
+     "choice_id": "01000000-953c-d91e-f921-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "DAVID D. FRANCO",
+     "votes": 732,
+     "party": null,
+     "pct": 11.05,
+     "choice_id": "01000000-953c-d91e-f93d-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-f964-08df23c4bbbb",
+   "state": "CA",
+   "title": "Sacramento Suburban Water District Director, Division 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 16,
+    "pct": 0.0,
+    "text": "0 of 16 precincts fully reported, 16 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "EDWARD WINKLER",
+     "votes": 4114,
+     "party": null,
+     "pct": 45.78,
+     "choice_id": "01000000-953c-d91e-f999-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "COREY CARSKADDON",
+     "votes": 1172,
+     "party": null,
+     "pct": 13.04,
+     "choice_id": "01000000-953c-d91e-f9b7-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "FERNANDO GONZALEZ",
+     "votes": 836,
+     "party": null,
+     "pct": 9.3,
+     "choice_id": "01000000-953c-d91e-f9d2-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "ROBERT J. MATTEOLI",
+     "votes": 2181,
+     "party": null,
+     "pct": 24.27,
+     "choice_id": "01000000-953c-d91e-f9ee-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "GLENN MUELLER",
+     "votes": 683,
+     "party": null,
+     "pct": 7.6,
+     "choice_id": "01000000-953c-d91e-fa09-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-fa32-08df23c4bbbb",
+   "state": "CA",
+   "title": "Sacramento Suburban Water District Director, Division 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 19,
+    "pct": 0.0,
+    "text": "0 of 19 precincts fully reported, 19 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "KEN PAYNE",
+     "votes": 2823,
+     "party": null,
+     "pct": 26.41,
+     "choice_id": "01000000-953c-d91e-fa67-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "CRAIG LOCKE",
+     "votes": 7867,
+     "party": null,
+     "pct": 73.59,
+     "choice_id": "01000000-953c-d91e-fa84-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-faad-08df23c4bbbb",
+   "state": "CA",
+   "title": "Sacramento Suburban Water District Director, Division 1 - Short Term",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 16,
+    "pct": 0.0,
+    "text": "0 of 16 precincts fully reported, 16 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "JOHNNIE L. HALL",
+     "votes": 583,
+     "party": null,
+     "pct": 8.14,
+     "choice_id": "01000000-953c-d91e-fae4-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "ANDREW CONSIGLIO",
+     "votes": 3392,
+     "party": null,
+     "pct": 47.37,
+     "choice_id": "01000000-953c-d91e-fb02-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "BRIAN DYER",
+     "votes": 1280,
+     "party": null,
+     "pct": 17.88,
+     "choice_id": "01000000-953c-d91e-fb1e-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "NAOMI GOUDEAUX",
+     "votes": 1905,
+     "party": null,
+     "pct": 26.61,
+     "choice_id": "01000000-953c-d91e-fb39-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-fb61-08df23c4bbbb",
+   "state": "CA",
+   "title": "Proposition 1 The Veterans And Affordable Housing Bond Act Of 2026.",
+   "office_type": "measure",
+   "district": "1",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 719,
+    "pct": 0.0,
+    "text": "0 of 719 precincts fully reported, 719 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 284293,
+     "party": null,
+     "pct": 60.2,
+     "choice_id": "01000000-953c-d91e-fb97-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 187932,
+     "party": null,
+     "pct": 39.8,
+     "choice_id": "01000000-953c-d91e-fbb4-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-fbbf-08df23c4bbbb",
+   "state": "CA",
+   "title": "Proposition 2 Save for California's Future Act.",
+   "office_type": "measure",
+   "district": "2",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 719,
+    "pct": 0.0,
+    "text": "0 of 719 precincts fully reported, 719 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 278123,
+     "party": null,
+     "pct": 59.81,
+     "choice_id": "01000000-953c-d91e-fbf4-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 186919,
+     "party": null,
+     "pct": 40.19,
+     "choice_id": "01000000-953c-d91e-fc12-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-fc1e-08df23c4bbbb",
+   "state": "CA",
+   "title": "Proposition 3 Provides Permanent Funding for Schools and Healthcare by Extending Existing Tax on High Incomes.",
+   "office_type": "measure",
+   "district": "3",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 719,
+    "pct": 0.0,
+    "text": "0 of 719 precincts fully reported, 719 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 303273,
+     "party": null,
+     "pct": 61.76,
+     "choice_id": "01000000-953c-d91e-fc53-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 187798,
+     "party": null,
+     "pct": 38.24,
+     "choice_id": "01000000-953c-d91e-fc70-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-fc7b-08df23c4bbbb",
+   "state": "CA",
+   "title": "Proposition 4 Political Reform Act of 1974: public campaign financing: California Fair Elections Act of 2026.",
+   "office_type": "measure",
+   "district": "4",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 719,
+    "pct": 0.0,
+    "text": "0 of 719 precincts fully reported, 719 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 229828,
+     "party": null,
+     "pct": 47.93,
+     "choice_id": "01000000-953c-d91e-fcb7-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 249670,
+     "party": null,
+     "pct": 52.07,
+     "choice_id": "01000000-953c-d91e-fcd2-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-fcde-08df23c4bbbb",
+   "state": "CA",
+   "title": "Proposition 5 Elections: recall of State officers.",
+   "office_type": "measure",
+   "district": "5",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 719,
+    "pct": 0.0,
+    "text": "0 of 719 precincts fully reported, 719 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 234256,
+     "party": null,
+     "pct": 49.68,
+     "choice_id": "01000000-953c-d91e-fd18-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 237290,
+     "party": null,
+     "pct": 50.32,
+     "choice_id": "01000000-953c-d91e-fd34-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-fd40-08df23c4bbbb",
+   "state": "CA",
+   "title": "Proposition 37 Creates Loan Program for Middle-Income Buyers of Qualified New Homes.",
+   "office_type": "measure",
+   "district": "37",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 719,
+    "pct": 0.0,
+    "text": "0 of 719 precincts fully reported, 719 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 300507,
+     "party": null,
+     "pct": 62.28,
+     "choice_id": "01000000-953c-d91e-fd7b-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 181982,
+     "party": null,
+     "pct": 37.72,
+     "choice_id": "01000000-953c-d91e-fd97-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-fda1-08df23c4bbbb",
+   "state": "CA",
+   "title": "Proposition 38 Authorizes Bonds for Immunology Research.",
+   "office_type": "measure",
+   "district": "38",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 719,
+    "pct": 0.0,
+    "text": "0 of 719 precincts fully reported, 719 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 268327,
+     "party": null,
+     "pct": 55.47,
+     "choice_id": "01000000-953c-d91e-fdd9-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 215376,
+     "party": null,
+     "pct": 44.53,
+     "choice_id": "01000000-953c-d91e-fdf5-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-fdff-08df23c4bbbb",
+   "state": "CA",
+   "title": "Proposition 39 Establishes Additional Voter Identification and Citizenship Verification Requirements.",
+   "office_type": "measure",
+   "district": "39",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 719,
+    "pct": 0.0,
+    "text": "0 of 719 precincts fully reported, 719 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 195594,
+     "party": null,
+     "pct": 39.68,
+     "choice_id": "01000000-953c-d91e-fe38-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 297291,
+     "party": null,
+     "pct": 60.32,
+     "choice_id": "01000000-953c-d91e-fe55-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-fe5f-08df23c4bbbb",
+   "state": "CA",
+   "title": "Proposition 40 Imposes One-Time Tax on Certain Individuals and Trusts.",
+   "office_type": "measure",
+   "district": "40",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 719,
+    "pct": 0.0,
+    "text": "0 of 719 precincts fully reported, 719 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 228673,
+     "party": null,
+     "pct": 46.39,
+     "choice_id": "01000000-953c-d91e-fe99-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 264235,
+     "party": null,
+     "pct": 53.61,
+     "choice_id": "01000000-953c-d91e-feb5-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-febf-08df23c4bbbb",
+   "state": "CA",
+   "title": "Proposition 41 Requires Audits Of Programs Funded By New State Special Taxes. Prohibits New State Taxes That Are Excluded Fro...",
+   "office_type": "measure",
+   "district": "41",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 719,
+    "pct": 0.0,
+    "text": "0 of 719 precincts fully reported, 719 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 219179,
+     "party": null,
+     "pct": 45.84,
+     "choice_id": "01000000-953c-d91e-fef6-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 258960,
+     "party": null,
+     "pct": 54.16,
+     "choice_id": "01000000-953c-d91e-ff14-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-ff1d-08df23c4bbbb",
+   "state": "CA",
+   "title": "Proposition 42 Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes.",
+   "office_type": "measure",
+   "district": "42",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 719,
+    "pct": 0.0,
+    "text": "0 of 719 precincts fully reported, 719 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 255861,
+     "party": null,
+     "pct": 52.92,
+     "choice_id": "01000000-953c-d91e-ff53-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 227615,
+     "party": null,
+     "pct": 47.08,
+     "choice_id": "01000000-953c-d91e-ff70-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-ff7a-08df23c4bbbb",
+   "state": "CA",
+   "title": "Proposition 43 Local Taxes: limitation",
+   "office_type": "measure",
+   "district": "43",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 719,
+    "pct": 0.0,
+    "text": "0 of 719 precincts fully reported, 719 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 200273,
+     "party": null,
+     "pct": 42.21,
+     "choice_id": "01000000-953c-d91e-ffb3-08df23c4bbbb",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 274189,
+     "party": null,
+     "pct": 57.79,
+     "choice_id": "01000000-953c-d91e-ffd0-08df23c4bbbb",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-ffd9-08df23c4bbbb",
+   "state": "CA",
+   "title": "Proposition 44 Requires Community Health Clinics Spend 90% of Revenue on Program Services.",
+   "office_type": "measure",
+   "district": "44",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 719,
+    "pct": 0.0,
+    "text": "0 of 719 precincts fully reported, 719 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 98169,
+     "party": null,
+     "pct": 20.71,
+     "choice_id": "01000000-953c-d91e-0011-08df23c4bbbc",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 375876,
+     "party": null,
+     "pct": 79.29,
+     "choice_id": "01000000-953c-d91e-002d-08df23c4bbbc",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-0036-08df23c4bbbc",
+   "state": "CA",
+   "title": "Proposition 45 Modifies Environmental Review for Certain Projects.",
+   "office_type": "measure",
+   "district": "45",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 719,
+    "pct": 0.0,
+    "text": "0 of 719 precincts fully reported, 719 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 215388,
+     "party": null,
+     "pct": 45.52,
+     "choice_id": "01000000-953c-d91e-006e-08df23c4bbbc",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 257790,
+     "party": null,
+     "pct": 54.48,
+     "choice_id": "01000000-953c-d91e-0089-08df23c4bbbc",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-0093-08df23c4bbbc",
+   "state": "CA",
+   "title": "Measure H Los Rios Community College District School Facilities Improvement District No. 1 Bond",
+   "office_type": "measure",
+   "district": "h",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 661,
+    "pct": 0.0,
+    "text": "0 of 661 precincts fully reported, 661 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 266280,
+     "party": null,
+     "pct": 63.37,
+     "choice_id": "01000000-953c-d91e-00cc-08df23c4bbbc",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 153927,
+     "party": null,
+     "pct": 36.63,
+     "choice_id": "01000000-953c-d91e-00fd-08df23c4bbbc",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-0106-08df23c4bbbc",
+   "state": "CA",
+   "title": "Measure E Center Joint Unified School District General Obligations Bonds Measure",
+   "office_type": "measure",
+   "district": "e",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 18,
+    "pct": 0.0,
+    "text": "0 of 18 precincts fully reported, 18 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 4628,
+     "party": null,
+     "pct": 67.35,
+     "choice_id": "01000000-953c-d91e-013d-08df23c4bbbc",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 2244,
+     "party": null,
+     "pct": 32.65,
+     "choice_id": "01000000-953c-d91e-015a-08df23c4bbbc",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-0162-08df23c4bbbc",
+   "state": "CA",
+   "title": "Measure D Natomas Unified School District Bond Measure",
+   "office_type": "measure",
+   "district": "d",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 34,
+    "pct": 0.0,
+    "text": "0 of 34 precincts fully reported, 34 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 18310,
+     "party": null,
+     "pct": 72.95,
+     "choice_id": "01000000-953c-d91e-0199-08df23c4bbbc",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 6789,
+     "party": null,
+     "pct": 27.05,
+     "choice_id": "01000000-953c-d91e-01b8-08df23c4bbbc",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-01c1-08df23c4bbbc",
+   "state": "CA",
+   "title": "Measure M Sacramento City Unified School District Parcel Tax Measure",
+   "office_type": "measure",
+   "district": "m",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 140,
+    "pct": 0.0,
+    "text": "0 of 140 precincts fully reported, 140 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 53415,
+     "party": null,
+     "pct": 53.55,
+     "choice_id": "01000000-953c-d91e-01f7-08df23c4bbbc",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 46342,
+     "party": null,
+     "pct": 46.45,
+     "choice_id": "01000000-953c-d91e-0215-08df23c4bbbc",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-021f-08df23c4bbbc",
+   "state": "CA",
+   "title": "Measure G Galt Joint Union High School District Obligation Bond Measure",
+   "office_type": "measure",
+   "district": "g",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 27,
+    "pct": 0.0,
+    "text": "0 of 27 precincts fully reported, 27 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 5816,
+     "party": null,
+     "pct": 55.02,
+     "choice_id": "01000000-953c-d91e-0255-08df23c4bbbc",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 4755,
+     "party": null,
+     "pct": 44.98,
+     "choice_id": "01000000-953c-d91e-0270-08df23c4bbbc",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-0278-08df23c4bbbc",
+   "state": "CA",
+   "title": "Measure I City of Folsom Amending City Charter Section 4.03",
+   "office_type": "measure",
+   "district": "i",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 39,
+    "pct": 0.0,
+    "text": "0 of 39 precincts fully reported, 39 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 19044,
+     "party": null,
+     "pct": 64.36,
+     "choice_id": "01000000-953c-d91e-02af-08df23c4bbbc",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 10548,
+     "party": null,
+     "pct": 35.64,
+     "choice_id": "01000000-953c-d91e-02ca-08df23c4bbbc",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-02d2-08df23c4bbbc",
+   "state": "CA",
+   "title": "Measure J City Of Folsom Amending City Charter 4.07",
+   "office_type": "measure",
+   "district": "j",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 39,
+    "pct": 0.0,
+    "text": "0 of 39 precincts fully reported, 39 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 13020,
+     "party": null,
+     "pct": 44.71,
+     "choice_id": "01000000-953c-d91e-0307-08df23c4bbbc",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 16103,
+     "party": null,
+     "pct": 55.29,
+     "choice_id": "01000000-953c-d91e-0323-08df23c4bbbc",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-032c-08df23c4bbbc",
+   "state": "CA",
+   "title": "Measure K City of Folsom Amending Folsom Municipal Code Section 2.48.030",
+   "office_type": "measure",
+   "district": "k",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 39,
+    "pct": 0.0,
+    "text": "0 of 39 precincts fully reported, 39 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 14752,
+     "party": null,
+     "pct": 48.17,
+     "choice_id": "01000000-953c-d91e-0365-08df23c4bbbc",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 15871,
+     "party": null,
+     "pct": 51.83,
+     "choice_id": "01000000-953c-d91e-0383-08df23c4bbbc",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  },
+  {
+   "source": "ca.sacramento",
+   "contest_id": "01000000-953c-d91e-038c-08df23c4bbbc",
+   "state": "CA",
+   "title": "Measure L City of Galt Adding Chapter 2.14 (City Clerk) and Chapter 2.18 (City Treasurer)",
+   "office_type": "measure",
+   "district": "l",
+   "jurisdiction": "Sacramento County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 0,
+    "units_total": 14,
+    "pct": 0.0,
+    "text": "0 of 14 precincts fully reported, 14 partly",
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T23:51:59.2390476Z",
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 3721,
+     "party": null,
+     "pct": 50.3,
+     "choice_id": "01000000-953c-d91e-03c3-08df23c4bbbc",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 3677,
+     "party": null,
+     "pct": 49.7,
+     "choice_id": "01000000-953c-d91e-03e0-08df23c4bbbc",
+     "party_lines": null
+    }
+   ],
+   "url": null,
+   "uncontested": false
+  }
+ ],
+ "contests_hash": "ec5c874621956be5",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-11T19:03:22+00:00",
+ "fetched_at": "2026-11-11T19:03:22+00:00",
+ "contests_changed_at": "2026-11-11T19:03:22+00:00"
+}

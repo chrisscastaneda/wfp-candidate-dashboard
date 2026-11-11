@@ -186,3 +186,42 @@ def test_district_of_columbia():
     assert (ward5.office_type, ward5.district, len(ward5.choices)) == ("local", "5", 1)
     assert shadow.office_type == "local"  # shadow seat, not a member of Congress
     assert measure.office_type == "measure" and [ch.name for ch in measure.choices] == ["Yes", "No"]
+
+
+def test_clarity_county_site_marks_state_propositions_partial():
+    summary = [{"K": 1, "C": "State Proposition 40 - Imposes One-Time Tax", "CH": ["Yes", "No"], "V": [5, 3]},
+               {"K": 2, "C": "Measure A - Parcel Tax", "CH": ["Yes", "No"], "V": [5, 3]},
+               {"K": 3, "C": "Proposition 1A - Library Bond", "CH": ["Yes", "No"], "V": [5, 3]}]
+    contests = clarity.parse(summary, source_id="ca.santa_clara", state="CA", jurisdiction="Santa Clara",
+                             partial_shares=True)
+    assert [c.scope for c in contests] == ["partial", "complete", "complete"]
+
+
+def test_minnesota_county_races_file():
+    from elex.states import mn
+    text = ("MN;27;;0405;County Attorney;;9003;Cedrick Frazier;;;NP;395;395;257445;50.55;509255\n"
+            "MN;27;;0405;County Attorney;;9004;Anders Folk;;;NP;395;395;249145;48.92;509255\n"
+            "MN;27;;0405;County Attorney;;9901;WRITE-IN;;;WI;395;395;2665;0.52;509255\n"
+            "MN;19;;0405;County Attorney;;9002;Jeffrey Sheridan;;;NP;144;144;72647;42.70;170148\n")
+    hennepin, dakota = mn.parse(text)
+    assert (hennepin.title, hennepin.jurisdiction) == ("Hennepin County Attorney", "Hennepin County")
+    assert [(c.name, c.votes) for c in hennepin.choices] == [("Cedrick Frazier", 257445), ("Anders Folk", 249145),
+                                                             ("Write-in", 2665)]
+    assert (hennepin.reporting.units_reporting, hennepin.reporting.units_total) == (395, 395)
+    assert dakota.jurisdiction == "Dakota County"
+
+
+def test_louisiana_multiparish_blobs():
+    from elex.states import la
+    races = {"Races": {"WriteTime": "2026-11-11T05:00:15", "Race": [
+        {"ID": "70090", "SpecificTitle": "Judge -- Criminal District Court, Section D", "NumberToBeElected": "1",
+         "Choice": [{"ID": "1", "Desc": "Kimya Holmes (DEM)"}, {"ID": "2", "Desc": "Simone Levine (DEM)"}]},
+        {"ID": "5", "SpecificTitle": "CA No. 1 (Act 3) -- Taxes", "NumberToBeElected": "1",
+         "Choice": [{"ID": "7", "Desc": "YES"}, {"ID": "8", "Desc": "NO"}]}]}}
+    votes = {"Races": {"Race": [{"ID": "70090", "PrecinctsReporting": "349", "PrecinctsExpected": "349",
+                                 "Choice": [{"ID": "1", "VoteTotal": "50000"}, {"ID": "2", "VoteTotal": "60000"}]}]}}
+    judge, amendment = la.parse(races, votes)
+    assert judge.office_type == "judicial" and judge.reporting.units_total == 349
+    assert [(c.name, c.votes, c.party) for c in judge.choices] == [("Kimya Holmes", 50000, "DEM"),
+                                                                     ("Simone Levine", 60000, "DEM")]
+    assert amendment.office_type == "measure" and [c.name for c in amendment.choices] == ["Yes", "No"]

@@ -140,6 +140,11 @@ def match_one(row: dict, contests: list[Contest]) -> Match:
     if kind == "measure":
         ident = names.measure_id(row["name"])
         hits = [c for c in contests if c.office_type == "measure" and ident and c.district == ident]
+        local_name = re.search(r"(?i)\b(city|county|town|village|school|district)\b", row["name"]) or any(
+            _overlap(row["name"], c.jurisdiction or "", _MEASURE_WORDS) for c in hits if _is_county_level(c))
+        if len(hits) > 1 and not local_name and any(not _is_county_level(c) for c in hits):
+            # A statewide measure also appears on county sites as that county's share: the state's own contest wins.
+            hits = [c for c in hits if not _is_county_level(c)]
         if len(hits) > 1:
             # Local measures reuse numbers ("1A" in several Colorado counties): keep the ones whose title or
             # jurisdiction shares a place name with WFP's name for the measure.
