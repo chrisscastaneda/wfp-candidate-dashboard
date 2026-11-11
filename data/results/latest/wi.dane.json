@@ -1484,8 +1484,8 @@
  ],
  "contests_hash": "4d49ca98e0754836",
  "status": "error",
- "message": "https://api.danecounty.gov/api/v1/elections/list: ConnectTimeout: HTTPSConnectionPool(host='api.danecounty.gov', port=443): Max retries exceeded with url: /api/v1/elections/list (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.danecounty.gov', port=443) at 0x1117db9d0>, 'Connection to api.danecounty.gov timed out. (connect timeout=30)'))",
- "last_attempt_at": "2026-11-09T19:05:03+00:00",
+ "message": "https://api.danecounty.gov/api/v1/elections/list: ConnectTimeout: HTTPSConnectionPool(host='api.danecounty.gov', port=443): Max retries exceeded with url: /api/v1/elections/list (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.danecounty.gov', port=443) at 0x10e916e90>, 'Connection to api.danecounty.gov timed out. (connect timeout=30)'))",
+ "last_attempt_at": "2026-11-10T04:03:06+00:00",
  "fetched_at": "2026-11-04T15:53:17+00:00",
  "contests_changed_at": "2026-11-04T15:32:14+00:00"
 }

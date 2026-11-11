@@ -48,8 +48,9 @@ See also [election-results-scraper-plan.md](election-results-scraper-plan.md) (d
 | Nov 7, 10:29am | 1,019 | 819 | (none new; 531 counts changed, California counties updated) |
 | Nov 8, 7:05pm | 1,019 | 821 | (none new; 215 counts changed) |
 | Nov 9, 2:04pm | 1,019 | 822 | (none new; 159 counts changed) |
+| Nov 9, 11:02pm | 1,019 | 825 | (none new; 347 counts changed; first races final) |
 
-Still missing at 2:04pm Nov 9: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
+Still missing at 11:02pm Nov 9: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
 
 ---
 
@@ -658,6 +659,23 @@ Fixes made while building:
   417), David Ross (LA Superior Court 131) 49.8%. Chris Kluwe (CA AD-72) unchanged at 1,701 behind.
 - Holding: Nancy Martiz (Huntington Park) +153, Kate Leon (Ulster LD-3) +54, Kim Becker (CT HD-62) +34, Bob Fernandez
   (CT HD-48) +58.
+- The same eight sources are still blocked or timing out from Mexico.
+
+### Nov 9, 11:02pm: first official results
+
+- 1,019 races with results, WFP leading 825 (+3). Vote counts changed in 347 races: Colorado 29, California 28, LA
+  County 26, the summed New York districts 21, Orange County 20, Westchester 19, Pennsylvania 18, Washington 17,
+  San Diego 16, Georgia 16, Oregon 16.
+- **First races marked final:** Georgia's feed now reports three county races as official: Keyanna Jones Moore (DeKalb
+  Commission D3), Jodi Merriday (Fulton Commission D3) and Rohit Malhotra (Fulton Commission D4), all won. Their status
+  is `final`, which the dashboard shows as "Final" (counts of races with results should include `final` as well as
+  `counting` from here on).
+- Flipped to leading: Diana Harris (San Mateo Union HSD), 282 ahead (50.9%); Kenneth Zuniga (Vista mayor), 459 ahead
+  (50.8%); Joe Smith (Lemon Grove council, multi-seat), now within the seats being filled.
+- Widening: Jessie Lopez (CA AD-68) +2,583 (was +1,105), Marie Tsaasan (Aliso Viejo) +101, Cindy Lopez (National
+  City) +45, Corinna Contreras (Vista D1) +246, Sarah Seitchik Sebastian (Petaluma JUHSD) +159.
+- Still closing: Steven Kung (Monterey Park) 4 behind (was 10), Estuardo Mazariegos (LA council) 286 behind (was 347),
+  Chris Kluwe (CA AD-72) 1,383 behind (was 1,701). Brad Chambers (PA HD-41) holds by 29.
 - The same eight sources are still blocked or timing out from Mexico.
 
 ## Feed quirks worth remembering
