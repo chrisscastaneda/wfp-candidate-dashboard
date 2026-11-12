@@ -1,11 +1,11 @@
 # WFP Candidate Dashboard
 
-A dashboard of Working Families Party 2026 endorsements: a tile grid map of the
+A dashboard of [Working Families Party 2026 endorsements](https://workingfamilies.org/candidates/): a tile grid map of the
 50 states + DC on the left (click a state to filter), office-type checkboxes
 below it, and the matching candidates and ballot measures on the right. The
 design spec is in [prompts/wfp-candidate-dashboard.md](prompts/wfp-candidate-dashboard.md).
 
-Live version: [chrisscastaneda.github.io/wfp-candidate-dashboard](https://chrisscastaneda.github.io/wfp-candidate-dashboard/)
+Live Dashboard: [chrisscastaneda.github.io/wfp-candidate-dashboard](https://chrisscastaneda.github.io/wfp-candidate-dashboard/)
 
 ## Project layout
 
