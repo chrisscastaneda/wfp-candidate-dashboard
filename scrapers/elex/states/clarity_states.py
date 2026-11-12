@@ -7,9 +7,10 @@ the matcher ignores them; their county races and measures are complete.
 from ..platforms.clarity import ClaritySource
 
 
-def county(id, state, name, site=None, eid=None):
+def county(id, state, name, site=None, eid=None, whole=()):
     return ClaritySource(id, state, f"{name} County (Clarity)", f"{name} County",
-                         site or f"{state}/{name.replace(' ', '_')}", tiers=(4,), level="county", county=name, eid=eid)
+                         site or f"{state}/{name.replace(' ', '_')}", tiers=(4,), level="county", county=name, eid=eid,
+                         whole=whole)
 
 
 SOURCES = [
@@ -21,7 +22,8 @@ SOURCES = [
     county("tx.dallas", "TX", "Dallas", eid="127396"),  # Nov 3 id linked from dallascountyvotes.org; not in elections.json
     county("tx.denton", "TX", "Denton"),
     county("tx.tarrant", "TX", "Tarrant", eid="127297"),  # Nov 3 id linked from tarrantcountytx.gov; not in elections.json
-    county("tx.travis", "TX", "Travis"),
+    # Texas House 49 and 50 lie entirely in Travis County (and aren't on the state's site, which has no 2026 yet).
+    county("tx.travis", "TX", "Travis", whole=[("state_house", "49"), ("state_house", "50")]),
     county("nj.hudson", "NJ", "Hudson", eid="127495"),  # Nov 3 id from hudsoncountyclerk.org; not in elections.json
     county("nj.middlesex", "NJ", "Middlesex"),
     county("oh.hamilton", "OH", "Hamilton"),

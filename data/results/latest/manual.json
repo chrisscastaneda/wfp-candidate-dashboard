@@ -3,6 +3,110 @@
  "contests": [
   {
    "source": "manual",
+   "contest_id": "ky.us-senate",
+   "state": "KY",
+   "title": "U.S. Senate",
+   "office_type": "federal_senate",
+   "district": null,
+   "jurisdiction": "KY",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Andy Barr",
+     "votes": 784869,
+     "party": "REP",
+     "pct": 55.0,
+     "choice_id": "Andy Barr",
+     "party_lines": null
+    },
+    {
+     "name": "Charles Booker",
+     "votes": 612357,
+     "party": "DEM",
+     "pct": 42.91,
+     "choice_id": "Charles Booker",
+     "party_lines": null
+    },
+    {
+     "name": "Christopher Campbell",
+     "votes": 29892,
+     "party": null,
+     "pct": 2.09,
+     "choice_id": "Christopher Campbell",
+     "party_lines": null
+    }
+   ],
+   "url": "https://vrsws.sos.ky.gov/liveresults/",
+   "uncontested": false
+  },
+  {
+   "source": "manual",
+   "contest_id": "tn.us-house.9",
+   "state": "TN",
+   "title": "U.S. House District 9",
+   "office_type": "federal_house",
+   "district": "9",
+   "jurisdiction": "TN",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Brent Taylor",
+     "votes": 111968,
+     "party": "REP",
+     "pct": 49.63,
+     "choice_id": "Brent Taylor",
+     "party_lines": null
+    },
+    {
+     "name": "Justin J. Pearson",
+     "votes": 109429,
+     "party": "DEM",
+     "pct": 48.5,
+     "choice_id": "Justin J. Pearson",
+     "party_lines": null
+    },
+    {
+     "name": "Dennis Clark",
+     "votes": 2413,
+     "party": null,
+     "pct": 1.07,
+     "choice_id": "Dennis Clark",
+     "party_lines": null
+    },
+    {
+     "name": "Michelle Davis Head",
+     "votes": 1804,
+     "party": null,
+     "pct": 0.8,
+     "choice_id": "Michelle Davis Head",
+     "party_lines": null
+    }
+   ],
+   "url": "https://www.tnelectionresults.com/home",
+   "uncontested": false
+  },
+  {
+   "source": "manual",
    "contest_id": "wi.assembly.8",
    "state": "WI",
    "title": "State Assembly District 8",
@@ -1640,12 +1744,364 @@
    ],
    "url": "https://www.phoenix.gov/administration/departments/cityclerk/programs-services/elections/election-results.html",
    "uncontested": false
+  },
+  {
+   "source": "manual",
+   "contest_id": "tn.house.51",
+   "state": "TN",
+   "title": "State House District 51",
+   "office_type": "state_house",
+   "district": "51",
+   "jurisdiction": "TN",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Aftyn Behn",
+     "votes": 22630,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "Aftyn Behn",
+     "party_lines": null
+    }
+   ],
+   "url": "https://www.tnelectionresults.com/categories/general-assembly/offices",
+   "uncontested": false
+  },
+  {
+   "source": "manual",
+   "contest_id": "tn.house.75",
+   "state": "TN",
+   "title": "State House District 75",
+   "office_type": "state_house",
+   "district": "75",
+   "jurisdiction": "TN",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Allie Phillips",
+     "votes": 7822,
+     "party": "DEM",
+     "pct": 55.01,
+     "choice_id": "Allie Phillips",
+     "party_lines": null
+    },
+    {
+     "name": "Michael Lankford",
+     "votes": 6396,
+     "party": "REP",
+     "pct": 44.99,
+     "choice_id": "Michael Lankford",
+     "party_lines": null
+    }
+   ],
+   "url": "https://www.tnelectionresults.com/categories/general-assembly/offices",
+   "uncontested": false
+  },
+  {
+   "source": "manual",
+   "contest_id": "tn.house.97",
+   "state": "TN",
+   "title": "State House District 97",
+   "office_type": "state_house",
+   "district": "97",
+   "jurisdiction": "TN",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jesse Huseth",
+     "votes": 13895,
+     "party": "DEM",
+     "pct": 56.95,
+     "choice_id": "Jesse Huseth",
+     "party_lines": null
+    },
+    {
+     "name": "John Gillespie",
+     "votes": 10502,
+     "party": "REP",
+     "pct": 43.05,
+     "choice_id": "John Gillespie",
+     "party_lines": null
+    }
+   ],
+   "url": "https://www.tnelectionresults.com/categories/general-assembly/offices",
+   "uncontested": false
+  },
+  {
+   "source": "manual",
+   "contest_id": "tn.senate.19",
+   "state": "TN",
+   "title": "State Senate District 19",
+   "office_type": "state_senate",
+   "district": "19",
+   "jurisdiction": "TN",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Charlane Oliver",
+     "votes": 46773,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "Charlane Oliver",
+     "party_lines": null
+    }
+   ],
+   "url": "https://www.tnelectionresults.com/categories/general-assembly/offices",
+   "uncontested": false
+  },
+  {
+   "source": "manual",
+   "contest_id": "wi.governor",
+   "state": "WI",
+   "title": "Governor",
+   "office_type": "governor",
+   "district": null,
+   "jurisdiction": "WI",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "David Crowley",
+     "votes": 1440993,
+     "party": "DEM",
+     "pct": 54.0,
+     "choice_id": "David Crowley",
+     "party_lines": null
+    },
+    {
+     "name": "Tom Tiffany",
+     "votes": 1227676,
+     "party": "REP",
+     "pct": 46.0,
+     "choice_id": "Tom Tiffany",
+     "party_lines": null
+    }
+   ],
+   "url": "https://media.foxtv.com/witi/elections/wisconsin-nov-2026.html",
+   "uncontested": false
+  },
+  {
+   "source": "manual",
+   "contest_id": "wi.secretary-of-state",
+   "state": "WI",
+   "title": "Secretary of State",
+   "office_type": "secretary_of_state",
+   "district": null,
+   "jurisdiction": "WI",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JoCasta Zamarripa",
+     "votes": 1337683,
+     "party": "DEM",
+     "pct": 50.61,
+     "choice_id": "JoCasta Zamarripa",
+     "party_lines": null
+    },
+    {
+     "name": "Jay Schroeder",
+     "votes": 1205463,
+     "party": "REP",
+     "pct": 45.61,
+     "choice_id": "Jay Schroeder",
+     "party_lines": null
+    },
+    {
+     "name": "Pete Karas",
+     "votes": 99715,
+     "party": null,
+     "pct": 3.77,
+     "choice_id": "Pete Karas",
+     "party_lines": null
+    }
+   ],
+   "url": "https://media.foxtv.com/witi/elections/wisconsin-nov-2026.html",
+   "uncontested": false
+  },
+  {
+   "source": "manual",
+   "contest_id": "wi.question.1",
+   "state": "WI",
+   "title": "Question 1",
+   "office_type": "measure",
+   "district": "1",
+   "jurisdiction": "WI",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1308835,
+     "party": null,
+     "pct": 50.75,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 1270123,
+     "party": null,
+     "pct": 49.25,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://media.foxtv.com/witi/elections/wisconsin-nov-2026.html",
+   "uncontested": false
+  },
+  {
+   "source": "manual",
+   "contest_id": "wi.question.2",
+   "state": "WI",
+   "title": "Question 2",
+   "office_type": "measure",
+   "district": "2",
+   "jurisdiction": "WI",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1244742,
+     "party": null,
+     "pct": 48.08,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 1344295,
+     "party": null,
+     "pct": 51.92,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://media.foxtv.com/witi/elections/wisconsin-nov-2026.html",
+   "uncontested": false
+  },
+  {
+   "source": "manual",
+   "contest_id": "wi.question.3",
+   "state": "WI",
+   "title": "Question 3",
+   "office_type": "measure",
+   "district": "3",
+   "jurisdiction": "WI",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1452551,
+     "party": null,
+     "pct": 56.47,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 1119646,
+     "party": null,
+     "pct": 43.53,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://media.foxtv.com/witi/elections/wisconsin-nov-2026.html",
+   "uncontested": false
   }
  ],
- "contests_hash": "b3eee4da363cd12e",
+ "contests_hash": "8359722a4fabff9e",
  "status": "ok",
  "message": "",
- "last_attempt_at": "2026-11-11T19:33:58+00:00",
- "fetched_at": "2026-11-11T19:33:58+00:00",
- "contests_changed_at": "2026-11-11T19:33:58+00:00"
+ "last_attempt_at": "2026-11-12T03:28:34+00:00",
+ "fetched_at": "2026-11-12T03:28:34+00:00",
+ "contests_changed_at": "2026-11-12T03:28:34+00:00"
 }

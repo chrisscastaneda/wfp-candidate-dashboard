@@ -225,3 +225,4 @@ def test_louisiana_multiparish_blobs():
     assert [(c.name, c.votes, c.party) for c in judge.choices] == [("Kimya Holmes", 50000, "DEM"),
                                                                      ("Simone Levine", 60000, "DEM")]
     assert amendment.office_type == "measure" and [c.name for c in amendment.choices] == ["Yes", "No"]
+

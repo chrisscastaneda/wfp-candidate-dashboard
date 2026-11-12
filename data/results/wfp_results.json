@@ -1,7 +1,7 @@
 {
  "election_date": "2026-11-03",
- "generated_at": "2026-11-11T19:34:00+00:00",
- "run_id": "20261111T193358Z",
+ "generated_at": "2026-11-12T03:28:35+00:00",
+ "run_id": "20261112T032834Z",
  "sources": {
   "az": {
    "status": "ok",
@@ -155,8 +155,8 @@
   },
   "manual": {
    "status": "ok",
-   "fetched_at": "2026-11-11T19:33:58+00:00",
-   "contests_changed_at": "2026-11-11T19:33:58+00:00",
+   "fetched_at": "2026-11-12T03:28:34+00:00",
+   "contests_changed_at": "2026-11-12T03:28:34+00:00",
    "message": null
   },
   "md": {
@@ -263,7 +263,7 @@
   },
   "ny.counties": {
    "status": "ok",
-   "fetched_at": "2026-11-11T19:33:58+00:00",
+   "fetched_at": "2026-11-12T03:28:34+00:00",
    "contests_changed_at": "2026-11-11T15:58:24+00:00",
    "message": null
   },
@@ -485,8 +485,8 @@
   },
   "tx.travis": {
    "status": "ok",
-   "fetched_at": "2026-11-11T15:55:29+00:00",
-   "contests_changed_at": "2026-11-11T15:55:29+00:00",
+   "fetched_at": "2026-11-12T03:27:26+00:00",
+   "contests_changed_at": "2026-11-12T03:27:26+00:00",
    "message": null
   },
   "ut": {
@@ -16489,9 +16489,44 @@
   },
   "430": {
    "name": "Charles Booker",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source covers KY yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "manual",
+   "source_name": "vrsws.sos.ky.gov",
+   "source_url": "https://vrsws.sos.ky.gov/liveresults/",
+   "contest": "U.S. Senate",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-12T03:28:34+00:00",
+   "wfp_choice": "Charles Booker",
+   "wfp_leading": false,
+   "choices": [
+    {
+     "name": "Andy Barr",
+     "party": "REP",
+     "votes": 784869,
+     "pct": 55.0,
+     "is_wfp": false
+    },
+    {
+     "name": "Charles Booker",
+     "party": "DEM",
+     "votes": 612357,
+     "pct": 42.91,
+     "is_wfp": true
+    },
+    {
+     "name": "Christopher Campbell",
+     "party": null,
+     "votes": 29892,
+     "pct": 2.09,
+     "is_wfp": false
+    }
+   ]
   },
   "431": {
    "name": "Simone Levine",
@@ -39780,33 +39815,173 @@
   },
   "1086": {
    "name": "Justin J. Pearson",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source covers TN yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "manual",
+   "source_name": "tnelectionresults.com",
+   "source_url": "https://www.tnelectionresults.com/home",
+   "contest": "U.S. House District 9",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-12T03:28:34+00:00",
+   "wfp_choice": "Justin J. Pearson",
+   "wfp_leading": false,
+   "choices": [
+    {
+     "name": "Brent Taylor",
+     "party": "REP",
+     "votes": 111968,
+     "pct": 49.63,
+     "is_wfp": false
+    },
+    {
+     "name": "Justin J. Pearson",
+     "party": "DEM",
+     "votes": 109429,
+     "pct": 48.5,
+     "is_wfp": true
+    },
+    {
+     "name": "Dennis Clark",
+     "party": null,
+     "votes": 2413,
+     "pct": 1.07,
+     "is_wfp": false
+    },
+    {
+     "name": "Michelle Davis Head",
+     "party": null,
+     "votes": 1804,
+     "pct": 0.8,
+     "is_wfp": false
+    }
+   ]
   },
   "1087": {
    "name": "Aftyn Behn",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source covers TN yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "manual",
+   "source_name": "tnelectionresults.com",
+   "source_url": "https://www.tnelectionresults.com/categories/general-assembly/offices",
+   "contest": "State House District 51",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-12T03:28:34+00:00",
+   "wfp_choice": "Aftyn Behn",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Aftyn Behn",
+     "party": "DEM",
+     "votes": 22630,
+     "pct": 100.0,
+     "is_wfp": true
+    }
+   ]
   },
   "1088": {
    "name": "Allie Phillips",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source covers TN yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "manual",
+   "source_name": "tnelectionresults.com",
+   "source_url": "https://www.tnelectionresults.com/categories/general-assembly/offices",
+   "contest": "State House District 75",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-12T03:28:34+00:00",
+   "wfp_choice": "Allie Phillips",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Allie Phillips",
+     "party": "DEM",
+     "votes": 7822,
+     "pct": 55.01,
+     "is_wfp": true
+    },
+    {
+     "name": "Michael Lankford",
+     "party": "REP",
+     "votes": 6396,
+     "pct": 44.99,
+     "is_wfp": false
+    }
+   ]
   },
   "1089": {
    "name": "Jesse Huseth",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source covers TN yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "manual",
+   "source_name": "tnelectionresults.com",
+   "source_url": "https://www.tnelectionresults.com/categories/general-assembly/offices",
+   "contest": "State House District 97",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-12T03:28:34+00:00",
+   "wfp_choice": "Jesse Huseth",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Jesse Huseth",
+     "party": "DEM",
+     "votes": 13895,
+     "pct": 56.95,
+     "is_wfp": true
+    },
+    {
+     "name": "John Gillespie",
+     "party": "REP",
+     "votes": 10502,
+     "pct": 43.05,
+     "is_wfp": false
+    }
+   ]
   },
   "1090": {
    "name": "Charlane Oliver",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "no source covers TN yet"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "manual",
+   "source_name": "tnelectionresults.com",
+   "source_url": "https://www.tnelectionresults.com/categories/general-assembly/offices",
+   "contest": "State Senate District 19",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-12T03:28:34+00:00",
+   "wfp_choice": "Charlane Oliver",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Charlane Oliver",
+     "party": "DEM",
+     "votes": 46773,
+     "pct": 100.0,
+     "is_wfp": true
+    }
+   ]
   },
   "1091": {
    "name": "James “Jim” Bethke",
@@ -40004,21 +40179,49 @@
   },
   "1100": {
    "name": "Montserrat Garibay",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "TX has only county sources so far"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "tx.travis",
+   "source_name": "Travis County",
+   "source_url": "https://results.enr.clarityelections.com/TX/Travis/127492/",
+   "contest": "State Representative, District 49",
+   "scope": "complete",
+   "reporting": {
+    "pct": 84.4,
+    "text": null
+   },
+   "updated_at": "2026-11-12T03:27:26+00:00",
+   "wfp_choice": "Montserrat Garibay (DEM)",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Montserrat Garibay (DEM)",
+     "party": "DEM",
+     "votes": 79000,
+     "pct": 89.9413673364832,
+     "is_wfp": true
+    },
+    {
+     "name": "Arshia Papari (GRN)",
+     "party": "GRN",
+     "votes": 8835,
+     "pct": 10.0586326635168,
+     "is_wfp": false
+    }
+   ]
   },
   "1101": {
    "name": "Jeremy B. Hendrinks",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "TX has only county sources so far"
+   "status": "not_on_ballot",
+   "match_status": "not_on_ballot",
+   "note": "Not on Travis's Nov 3 ballot for State Representative District 50 (Samantha Lopez-Resendez is the Democrat)."
   },
   "1102": {
    "name": "Jose Loya",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "TX has only county sources so far"
+   "status": "not_on_ballot",
+   "match_status": "not_on_ballot",
+   "note": "Lost the March 3, 2026 Democratic primary to Benjamin Flores; not on the Nov 3 ballot."
   },
   "1103": {
    "name": "Andrew Hairston",
@@ -40908,15 +41111,78 @@
   },
   "1127": {
    "name": "David Crowley",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "WI has only county sources so far"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "manual",
+   "source_name": "media.foxtv.com",
+   "source_url": "https://media.foxtv.com/witi/elections/wisconsin-nov-2026.html",
+   "contest": "Governor",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-12T03:28:34+00:00",
+   "wfp_choice": "David Crowley",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "David Crowley",
+     "party": "DEM",
+     "votes": 1440993,
+     "pct": 54.0,
+     "is_wfp": true
+    },
+    {
+     "name": "Tom Tiffany",
+     "party": "REP",
+     "votes": 1227676,
+     "pct": 46.0,
+     "is_wfp": false
+    }
+   ]
   },
   "1128": {
    "name": "JoCasta Zamarripa",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "WI has only county sources so far"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "manual",
+   "source_name": "media.foxtv.com",
+   "source_url": "https://media.foxtv.com/witi/elections/wisconsin-nov-2026.html",
+   "contest": "Secretary of State",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-12T03:28:34+00:00",
+   "wfp_choice": "JoCasta Zamarripa",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "JoCasta Zamarripa",
+     "party": "DEM",
+     "votes": 1337683,
+     "pct": 50.61,
+     "is_wfp": true
+    },
+    {
+     "name": "Jay Schroeder",
+     "party": "REP",
+     "votes": 1205463,
+     "pct": 45.61,
+     "is_wfp": false
+    },
+    {
+     "name": "Pete Karas",
+     "party": null,
+     "votes": 99715,
+     "pct": 3.77,
+     "is_wfp": false
+    }
+   ]
   },
   "1129": {
    "name": "Robyn Vining",
@@ -43497,21 +43763,105 @@
   },
   "1219": {
    "name": "Wisconsin Question 1, Partial Veto Referendum",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "WI has only county sources so far"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "manual",
+   "source_name": "media.foxtv.com",
+   "source_url": "https://media.foxtv.com/witi/elections/wisconsin-nov-2026.html",
+   "contest": "Question 1",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-12T03:28:34+00:00",
+   "wfp_choice": "No",
+   "wfp_leading": false,
+   "choices": [
+    {
+     "name": "Yes",
+     "party": null,
+     "votes": 1308835,
+     "pct": 50.75,
+     "is_wfp": false
+    },
+    {
+     "name": "No",
+     "party": null,
+     "votes": 1270123,
+     "pct": 49.25,
+     "is_wfp": true
+    }
+   ]
   },
   "1220": {
    "name": "Wisconsin Question 2, Freedom to Gather in Places of Worship During an Emergency Referendum",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "WI has only county sources so far"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "manual",
+   "source_name": "media.foxtv.com",
+   "source_url": "https://media.foxtv.com/witi/elections/wisconsin-nov-2026.html",
+   "contest": "Question 2",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-12T03:28:34+00:00",
+   "wfp_choice": "No",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "No",
+     "party": null,
+     "votes": 1344295,
+     "pct": 51.92,
+     "is_wfp": true
+    },
+    {
+     "name": "Yes",
+     "party": null,
+     "votes": 1244742,
+     "pct": 48.08,
+     "is_wfp": false
+    }
+   ]
   },
   "1221": {
    "name": "Wisconsin Question 3, Governmental Entity Discrimination Prohibited Referendum",
-   "status": "no_source",
-   "match_status": "no_source",
-   "note": "WI has only county sources so far"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "manual",
+   "source_name": "media.foxtv.com",
+   "source_url": "https://media.foxtv.com/witi/elections/wisconsin-nov-2026.html",
+   "contest": "Question 3",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-12T03:28:34+00:00",
+   "wfp_choice": "No",
+   "wfp_leading": false,
+   "choices": [
+    {
+     "name": "Yes",
+     "party": null,
+     "votes": 1452551,
+     "pct": 56.47,
+     "is_wfp": false
+    },
+    {
+     "name": "No",
+     "party": null,
+     "votes": 1119646,
+     "pct": 43.53,
+     "is_wfp": true
+    }
+   ]
   }
  }
 }

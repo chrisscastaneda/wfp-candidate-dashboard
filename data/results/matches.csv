@@ -428,6 +428,7 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 425,GA,Ruwa Romman,"Georgia State Senate, District 7",auto,district_surname,ga,01000000-3a82-a359-b576-08df23e6dacd,State Senate - District 7/ Senador Estatal del Distrito 7,01000000-3a82-a359-b58f-08df23e6dacd,Ruwa Romman,
 426,GA,Nikki Merritt,"Georgia State Senate, District 9",auto,district_surname,ga,01000000-3a82-a359-7106-08df23e6da9b,State Senate - District 9/ Senador Estatal del Distrito 9,01000000-3a82-a359-711e-08df23e6da9b,Nikki Merritt (I),
 427,GA,Kenya Wicks,"Georgia State Senate, District 34",auto,district_surname,ga,01000000-3a82-a359-1a4a-08df23e657ad,State Senate - District 34,01000000-3a82-a359-1a66-08df23e657ad,Kenya Wicks (I),
+430,KY,Charles Booker,U.S. Senate,auto,district_surname,manual,ky.us-senate,U.S. Senate,Charles Booker,Charles Booker,
 431,LA,Simone Levine,"Judge, Criminal District Court, Section D, Orleans Parish",auto,name_in_state,la,70090,"Judge -- Criminal District Court, Section D",128711,Simone Levine,
 443,MA,Lorena Betts,"Massachusetts State House, 16th Middlesex District",auto,district_surname,manual,ma.house.16th-middlesex,State Representative 16th Middlesex,Lorena Betts,Lorena Betts,
 444,MA,Jack Richardson,"Massachusetts State House, 3rd Barnstable District",auto,district_surname,manual,ma.house.3rd-barnstable,State Representative 3rd Barnstable,Jack Richardson,Jack Richardson,
@@ -986,11 +987,17 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 1083,SC,Keishan Scott,"South Carolina State House, District 50",auto,district_surname,sc,"State House of Representatives, District 50","State House of Representatives, District 50",DEM Keishan M Scott,Keishan M Scott,
 1084,SC,Julie Zimmerman,"South Carolina State House, District 71",auto,district_surname,sc,"State House of Representatives, District 71","State House of Representatives, District 71",DEM Julie Zimmerman,Julie Zimmerman,
 1085,SC,Sonja Ogletree Satani,"South Carolina State House, District 98",auto,district_surname,sc,"State House of Representatives, District 98","State House of Representatives, District 98",DEM Sonja Ogletree Satani,Sonja Ogletree Satani,
+1086,TN,Justin J. Pearson,"U.S. House of Representatives, District 9",auto,district_surname,manual,tn.us-house.9,U.S. House District 9,Justin J. Pearson,Justin J. Pearson,
+1087,TN,Aftyn Behn,"State House, District 51",auto,district_surname,manual,tn.house.51,State House District 51,Aftyn Behn,Aftyn Behn,
+1088,TN,Allie Phillips,"State House, District 75",auto,district_surname,manual,tn.house.75,State House District 75,Allie Phillips,Allie Phillips,
+1089,TN,Jesse Huseth,"State House, District 97",auto,district_surname,manual,tn.house.97,State House District 97,Jesse Huseth,Jesse Huseth,
+1090,TN,Charlane Oliver,"State Senate, District 19",auto,district_surname,manual,tn.senate.19,State Senate District 19,Charlane Oliver,Charlane Oliver,
 1095,TX,Michelle Butler,"Denton County Justice of the Peace, Precinct 6",auto,name_in_state,tx.denton,58,"Justice of the Peace, Precinct No. 6",Michelle Butler,Michelle Butler,
 1096,TX,Jared Williams,"Tarrant County Commissioner, Precinct 2",auto,name_in_state,tx.tarrant,75,"County Commissioner, Precinct 2",Jared Williams,Jared Williams,
 1097,TX,Nydia Cardenas,"Tarrant County Commissioner, Precinct 4",auto,name_in_state,tx.tarrant,76,"County Commissioner, Precinct 4",Nydia Cardenas,Nydia Cardenas,
 1098,TX,Tiffany Burks,Tarrant County District Attorney,auto,name_in_state,tx.tarrant,56,Criminal District Attorney Tarrant County,Tiffany Burks,Tiffany Burks,
 1099,TX,Alisa Simmons,Tarrant County Judge,auto,name_in_state,tx.tarrant,57,County Judge,Alisa Simmons,Alisa Simmons,
+1100,TX,Montserrat Garibay,"Texas House, District 49",auto,district_surname,tx.travis,0029,"State Representative, District 49",Montserrat Garibay (DEM),Montserrat Garibay (DEM),
 1104,UT,Luke Maynes,"Salt Lake County Council, District 3",auto,name_in_state,ut,01000000-68b8-edcd-804b-08df2650840f,COUNTY COUNCIL DISTRICT 3,01000000-68b8-edcd-8072-08df2650840f,LUKE MAYNES,
 1105,UT,Rosie Rivera,Salt Lake County Sheriff,auto,name_in_state,ut,01000000-68b8-edcd-81d2-08df2650840f,COUNTY SHERIFF,01000000-68b8-edcd-8215-08df2650840f,ROSIE RIVERA,
 1106,UT,Stephen Otterstrom,"State House, District 21",auto,district_surname,ut,b4e60000-c0a3-7204-8e58-08df3933fc5c,State House District 21,b4e60000-c0a3-7204-9050-08df3933fc5c,STEPHEN OTTERSTROM,
@@ -1013,6 +1020,8 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 1124,WA,Jessica Forsythe,"Washington State House, District 48, Position 2",auto,district_surname,wa,54c40000-9064-bbec-e559-08df15c0a834,Legislative District 48 - State Representative Pos. 2,54c40000-9064-bbec-ed92-08df15c0a834,Jessica Forsythe,
 1125,WA,Noel Frame,"Washington State Senate, District 36",auto,district_surname,wa,54c40000-9064-bbec-0c22-08df15c0a833,Legislative District 36 - State Senator,54c40000-9064-bbec-1299-08df15c0a833,Noel C. Frame,
 1126,WA,Hannah Sabio-Howell,"Washington State Senate, District 43",auto,district_surname,wa,54c40000-9064-bbec-efd3-08df15c0a833,Legislative District 43 - State Senator,54c40000-9064-bbec-faff-08df15c0a833,Hannah Sabio-Howell,
+1127,WI,David Crowley,Governor,auto,district_surname,manual,wi.governor,Governor,David Crowley,David Crowley,
+1128,WI,JoCasta Zamarripa,Secretary of State,auto,district_surname,manual,wi.secretary-of-state,Secretary of State,JoCasta Zamarripa,JoCasta Zamarripa,
 1134,WI,Ismael Luna,"State Assembly, District 8",auto,district_surname,manual,wi.assembly.8,State Assembly District 8,Ismael Luna,Ismael Luna,
 1135,WI,Sequanna Taylor,"State Assembly, District 11",auto,district_surname,manual,wi.assembly.11,State Assembly District 11,Sequanna Taylor,Sequanna Taylor,
 1137,WI,Angelito Tenorio,"State Assembly, District 14",auto,district_surname,manual,wi.assembly.14,State Assembly District 14,Angelito Tenorio,Angelito Tenorio,
@@ -1022,6 +1031,9 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 1147,WI,Tip McGuire,"State Assembly, District 64",auto,district_surname,wi.kenosha,Representative to the Assembly District 64,Representative to the Assembly District 64,Tip McGuire,Tip McGuire,
 1148,WI,Ben DeSmidt,"State Assembly, District 65",auto,district_surname,wi.kenosha,Representative to the Assembly District 65,Representative to the Assembly District 65,Ben DeSmidt,Ben DeSmidt,
 1150,WI,Dina Nina Martinez-Rutherford,"State Assembly, District 76",auto,district_surname,wi.dane,0020,Representative to the Assembly District 76,2,Dina Nina Martinez-Rutherford,
+1219,WI,"Wisconsin Question 1, Partial Veto Referendum",Ballot Measure,auto,measure_number,manual,wi.question.1,Question 1,No,No,
+1220,WI,"Wisconsin Question 2, Freedom to Gather in Places of Worship During an Emergency Referendum",Ballot Measure,auto,measure_number,manual,wi.question.2,Question 2,No,No,
+1221,WI,"Wisconsin Question 3, Governmental Entity Discrimination Prohibited Referendum",Ballot Measure,auto,measure_number,manual,wi.question.3,Question 3,No,No,
 1,AZ,Clara Pratte,Arizona Corporation Commission,confirmed,name_in_state,az,248c0000-c0a3-7204-82ca-08df11bc03d0,Corporation Commissioner,248c0000-c0a3-7204-883c-08df11bc03d0,Clara Pratte,found by name only; check the office (Corporation Commissioner) | confirmed Nov 4: Corporation Commission race (statewide)
 2,AZ,Jonathon Hill,Arizona Corporation Commission,confirmed,name_in_state,az,248c0000-c0a3-7204-82ca-08df11bc03d0,Corporation Commissioner,248c0000-c0a3-7204-870c-08df11bc03d0,Jonathon Hill,found by name only; check the office (Corporation Commissioner) | confirmed Nov 4: Corporation Commission race (statewide)
 4,AZ,Sarah Ligouri,"Arizona State House, Legislative District 5",confirmed,near_name,az,248c0000-c0a3-7204-d720-08df11bc03cf,State Representative - District No.  5,248c0000-c0a3-7204-d8f2-08df11bc03cf,Sarah Liguori,"name differs: WFP 'Sarah Ligouri', feed 'Sarah Liguori' | confirmed Nov 4: WFP's spelling; feed 'Sarah Liguori', same district"
@@ -1110,7 +1122,6 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 147,CA,Justin Jackson,"Moreno Valley School Baord, Trustee Area 3",no_source,,,,,,,no source carries Riverside local races yet
 148,CA,Abel Chavez,"Nuevo Union School Board, At-large",no_source,,,,,,,no source carries Riverside local races yet
 152,CA,Aram Ayra,"Riverside City Council, Ward 2",no_source,,,,,,,no source carries Riverside local races yet
-430,KY,Charles Booker,U.S. Senate,no_source,,,,,,,no source covers KY yet
 432,ME,Troy Jackson,U.S. Senate,no_source,,,,,,,no source covers ME yet
 433,ME,Jacqueline Sartoris,Cumberland County District Attorney,no_source,,,,,,,no source covers ME yet
 473,MI,Kenzie Colton,Bay City Commission Ward 3,no_source,,,,,,,no source carries Bay local races yet
@@ -1154,16 +1165,6 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 840,NY,Manford Benjamin Susman,Cayuga County Court Judge,no_source,,,,,,,no source carries Cayuga local races yet
 844,NY,Victoria Guite-Williams,"State Senate, District 57",no_source,,,,,,,NY has only county sources so far
 846,NY,Thomas Arida,"State Senate, District 62",no_source,,,,,,,NY has only county sources so far
-1086,TN,Justin J. Pearson,"U.S. House of Representatives, District 9",no_source,,,,,,,no source covers TN yet
-1087,TN,Aftyn Behn,"State House, District 51",no_source,,,,,,,no source covers TN yet
-1088,TN,Allie Phillips,"State House, District 75",no_source,,,,,,,no source covers TN yet
-1089,TN,Jesse Huseth,"State House, District 97",no_source,,,,,,,no source covers TN yet
-1090,TN,Charlane Oliver,"State Senate, District 19",no_source,,,,,,,no source covers TN yet
-1100,TX,Montserrat Garibay,"Texas House, District 49",no_source,,,,,,,TX has only county sources so far
-1101,TX,Jeremy B. Hendrinks,"Texas House, District 50",no_source,,,,,,,TX has only county sources so far
-1102,TX,Jose Loya,Texas Land Commissioner,no_source,,,,,,,TX has only county sources so far
-1127,WI,David Crowley,Governor,no_source,,,,,,,WI has only county sources so far
-1128,WI,JoCasta Zamarripa,Secretary of State,no_source,,,,,,,WI has only county sources so far
 1129,WI,Robyn Vining,"State Senate, District 5",no_source,,,,,,,WI has only county sources so far
 1130,WI,Chris Larson,"State Senate, District 7",no_source,,,,,,,WI has only county sources so far
 1131,WI,Jenna Jacobson,"State Senate, District 17",no_source,,,,,,,WI has only county sources so far
@@ -1179,9 +1180,6 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 1149,WI,Angela Stroud,"State Assembly, District 73",no_source,,,,,,,WI has only county sources so far
 1151,WI,Amaad Rivera-Wagner,"State Assembly, District 90",no_source,,,,,,,WI has only county sources so far
 1152,WI,Christian Phelps,"State Assembly, District 93",no_source,,,,,,,WI has only county sources so far
-1219,WI,"Wisconsin Question 1, Partial Veto Referendum",Ballot Measure,no_source,,,,,,,WI has only county sources so far
-1220,WI,"Wisconsin Question 2, Freedom to Gather in Places of Worship During an Emergency Referendum",Ballot Measure,no_source,,,,,,,WI has only county sources so far
-1221,WI,"Wisconsin Question 3, Governmental Entity Discrimination Prohibited Referendum",Ballot Measure,no_source,,,,,,,WI has only county sources so far
 1153,WY,Aaron Appelhans,Albany County Sheriff,no_source,,,,,,,no source covers WY yet
 17,AR,Bobby Forrest Jr.,State Circuit Court District 6 Prosecuting Attorney,not_on_ballot,,,,,,,Prosecuting attorney races are on Arkansas's March nonpartisan ballot with November runoffs only; District 6 isn't on the Nov 3 ballot (only 11-West is).
 43,CA,Anthony Montes,"East Side Union High School District Board of Trustees, Area 2",not_on_ballot,,,,,,,Not on Santa Clara's Nov 3 ballot; East Side Union HSD's trustee area wasn't contested.
@@ -1219,4 +1217,6 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 1092,TX,John Cruezot,Dallas County District Attorney,not_on_ballot,,,,,,,Not on Dallas's Nov 3 ballot for Criminal District Attorney (Amber Givens is the only candidate).
 1093,TX,Nick Stevens,Denton City Council #2,not_on_ballot,,,,,,,"Decided May 2, 2026: Stevens won District 2 (82.8%)."
 1094,TX,George Ferrie,Denton City Council At Large #5 (runoff),not_on_ballot,,,,,,,"Decided June 13, 2026 runoff: Ferrie won Place 5 (50.4%)."
+1101,TX,Jeremy B. Hendrinks,"Texas House, District 50",not_on_ballot,,,,,,,Not on Travis's Nov 3 ballot for State Representative District 50 (Samantha Lopez-Resendez is the Democrat).
+1102,TX,Jose Loya,Texas Land Commissioner,not_on_ballot,,,,,,,"Lost the March 3, 2026 Democratic primary to Benjamin Flores; not on the Nov 3 ballot."
 1103,TX,Andrew Hairston,"Travis County Justice of the Peace, Precinct 1",not_on_ballot,,,,,,,"Not on Travis's Nov 3 ballot for Justice of the Peace, Precinct 1 (Ciara Parks is the only candidate)."

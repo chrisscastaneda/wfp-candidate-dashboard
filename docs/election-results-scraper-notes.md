@@ -54,6 +54,7 @@ See also [election-results-scraper-plan.md](election-results-scraper-plan.md) (d
 | Nov 11, 2:14pm | 1,063 | 862 | Minnesota, Louisiana, Douglas County NE (new sources) |
 | Nov 11, 2:25pm | 1,064 | 863 | Lancaster County NE (entered by hand) |
 | Nov 11, 2:50pm | 1,073 | 869 | Tarrant, Bexar, Dallas (TX) and Marin (CA) via known Clarity ids; Franklin County OH (new source); Boulder mayor and Phoenix D4 (by hand); 19 races marked not on the ballot |
+| Nov 11, 3:20pm | 1,085 | 877 | Tennessee (5), Kentucky Senate, Wisconsin statewide and questions (5) by hand; Texas HD-49 from Travis |
 
 Still missing at 2:50pm Nov 11: Middlesex (NJ). Bexar, Dallas, Tarrant and Marin read again from Nov 11 (see "Nov 11, 2:50pm" below).
 
@@ -837,6 +838,32 @@ All 29 unmatched races were checked one by one; 1 is left (Shantell Cherry, Pisc
   (73 pass).
 - 1,073 races with results, WFP leading 869; 37 not on the ballot; 110 with no source; 1 unmatched.
 
+### Nov 11, 3:20pm: high-profile races by hand
+
+Sites that block scripts, read in the browser and entered in `manual_entries.csv` (re-enter until certified):
+
+- **Tennessee** (Secretary of State dashboard, "Final Unofficial Results", all counties complete): Justin Pearson
+  trails Brent Taylor in TN-9, 109,429 to 111,968 (48.5% to 49.6%). Aftyn Behn (HD-51) and Charlane Oliver (SD-19)
+  were unopposed; Allie Phillips (HD-75) leads 55.0%, Jesse Huseth (HD-97) 57.0%.
+- **Kentucky** (state live results, statewide page): Charles Booker trails Andy Barr for U.S. Senate, 612,357 to
+  784,869 (43%). The page's "Last Updated" reads 11/11/2026 10:05:43 PM, later than when it was read.
+- **Wisconsin** (AP count via FOX6's results embed, 99% of precincts): David Crowley wins governor, 1,440,993 to
+  1,227,676 (54%); JoCasta Zamarripa leads for Secretary of State, 51%. WFP opposes all three questions: Question 1
+  (partial veto limits) passes 51% Yes, Question 2 (worship closures) fails 52% No, Question 3 (governmental
+  discrimination) passes 56% Yes.
+- **Texas:** the state results site (results.texas-election.com) has no 2026 elections at all; its list stops at
+  2024. HD-49 and HD-50 lie entirely in Travis County, so the Travis Clarity source now marks them complete (new
+  `whole` option on Clarity sources), and Montserrat Garibay (HD-49) matches from it, leading with 90% against a Green
+  candidate. Jeremy Hendrinks isn't on Travis's HD-50 ballot (Samantha Lopez-Resendez is the Democrat) and Jose Loya
+  lost the March primary for Land Commissioner to Benjamin Flores; both marked not on the ballot.
+- **Maine is still open.** The Secretary of State hasn't posted any Nov 3 results (its page still shows June), and no
+  AP vote counts could be found: the AP results page is gone, the Boston.com widget didn't load, and the Press
+  Herald's results link redirects to June. AP and DDHQ called the Senate race for Troy Jackson (about 53% to 47%).
+  Jacqueline Sartoris (Cumberland County DA) has no source.
+- Code: `platforms/clarity.py` and `states/clarity_states.py` (`whole` option; Travis HD-49 and HD-50). Data:
+  `manual_entries.csv` (24 rows), `results_sources.csv` (Loya and Hendrinks not on the ballot; hand-entry notes).
+- 1,085 races with results, WFP leading 877; 39 not on the ballot; 96 with no source; 1 unmatched.
+
 ---
 
 ## Feed quirks worth remembering
@@ -898,6 +925,9 @@ All 29 unmatched races were checked one by one; 1 is left (Shantell Cherry, Pisc
 | Boulder (CO) | City races (ranked choice) aren't in the state's results | Entered by hand from the county's RCV report |
 | Phoenix (AZ) | City runs its own council elections; not in Maricopa's file | Entered by hand from the City Clerk's page |
 | California local races | Unopposed candidates are appointed, not listed on the ballot | Marked not on the Nov 3 ballot when the county has no contest |
+| Texas SoS results site | No 2026 elections listed (stops at 2024) | Single-county districts read from the county (Travis `whole`); others wait |
+| Tennessee, Kentucky SoS | Block scripts (403) | Read in the browser and entered by hand |
+| Wisconsin statewide | No state election-night feed | AP count via FOX6's embed, entered by hand |
 
 ## Still open
 
@@ -907,7 +937,8 @@ All 29 unmatched races were checked one by one; 1 is left (Shantell Cherry, Pisc
   53, 61–63, 73, 90, 93 (multi-county, or counties that block scripts or post PDFs).
 - Michigan: 17 of 19 races. The statewide and district races are hand-entered (state's 82 counties plus Wayne) and
   need re-entering once the state adds Wayne. The two Bay City Commission races aren't on Bay County's report.
-- Kentucky and Maine have no source; they need manual entries.
+- Tennessee (5), Kentucky Senate and Wisconsin's statewide races and questions (5) are hand-entered Nov 11;
+  re-enter until certified. Maine (Senate, Cumberland DA) has no counts yet: the state hasn't posted Nov 3 results.
 - Lancaster County NE (Randall Ritnour) is hand-entered from the Nov 6 report; re-enter after the Nov 13 count.
 - Boulder mayor and Phoenix District 4 are hand-entered (Nov 6 and Nov 10 reports); re-enter when they update.
 - Middlesex NJ still shows no Nov 3 election on Clarity, and its county site blocks scripts; Shantell Cherry

@@ -70,8 +70,11 @@ class ClaritySource(Source):
     platform = "Clarity ENR"
 
     def __init__(self, id, state, title, site_name, site, counties=(), tiers=(1, 2, 3, 4), level="state",
-                 county=None, eid=None):
+                 county=None, eid=None, whole=frozenset()):
         self.id, self.state, self.title, self.site_name, self.site = id, state, title, site_name, site
+        # (office_type, district) pairs that lie entirely inside this county, so its count is the whole race
+        # ("state_house", "49" for Travis). Without this a county's district races are only its share.
+        self.whole = frozenset(whole)
         # Some counties link tonight's election from their own site but never add it to Clarity's election list
         # (elections.json is empty); `eid` is that election's id, used when the list doesn't have one.
         self.eid = eid
@@ -97,6 +100,8 @@ class ClaritySource(Source):
                          jurisdiction=jurisdiction, partial_shares=self.level == "county")
         for contest in contests:
             contest.url = f"{BASE}/{self.site}/{eid}/"
+            if (contest.office_type, contest.district) in self.whole:
+                contest.scope = "complete"
         if not self.counties:
             return contests
         settings = fetch.get(f"{BASE}/{self.site}/{eid}/{ver}/json/en/electionsettings.json")
