@@ -517,3 +517,18 @@ Cindy Maxwell-Ostdiek 9,187
                                                                        ("Makayla Danner", 116062, "DEM")]
     assert (treasurer.office_type, treasurer.scope) == ("local", "complete")
     assert legislature.title == "Legislature District Four" and legislature.scope == "partial"
+
+
+def test_franklin_county_api_sums_precincts():
+    from elex.counties import oh
+    data = {"year": 2026, "month": 11, "day": 3, "isTest": False,
+            "turnout": [{"area": 1, "reg": 10, "abs": 2, "day": 5, "prov": 0}],
+            "races": [{"id": 4, "name": "Governor and Lieutenant Governor", "level": "s", "office": "governor",
+                       "choices": [{"name": "Dem Amy Acton", "party": "DEM", "votes": [3, 4], "abs": [1, 1]}]},
+                      {"id": 47, "name": "#8 Proposed Charter Amendment (By Petition) City of Columbus", "level": "l",
+                       "choices": [{"name": "Yes", "votes": [10, 5], "abs": [2, 1]},
+                                   {"name": "No", "votes": [2, 1], "abs": [0, 0]}]}]}
+    governor, issue = oh.parse_franklin(data)
+    assert governor.scope == "partial" and (governor.choices[0].name, governor.choices[0].votes) == ("Amy Acton", 7)
+    assert (issue.office_type, issue.district, issue.scope) == ("measure", "8", "complete")
+    assert [(c.name, c.votes) for c in issue.choices] == [("Yes", 15), ("No", 3)]

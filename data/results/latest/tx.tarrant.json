@@ -1,8 +1,4691 @@
 {
  "source": "tx.tarrant",
- "contests": [],
- "contests_hash": null,
- "status": "not_published",
- "message": "no 2026-11-03 election listed",
- "last_attempt_at": "2026-11-11T15:55:28+00:00"
+ "contests": [
+  {
+   "source": "tx.tarrant",
+   "contest_id": "1",
+   "state": "TX",
+   "title": "United States Senator",
+   "office_type": "federal_senate",
+   "district": null,
+   "jurisdiction": "Tarrant County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 2985,
+    "pct": 23.3,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Ken Paxton",
+     "votes": 287783,
+     "party": "REP",
+     "pct": 39.4964522459959,
+     "choice_id": "Ken Paxton",
+     "party_lines": null
+    },
+    {
+     "name": "James Talarico",
+     "votes": 427879,
+     "party": "DEM",
+     "pct": 58.7237692656081,
+     "choice_id": "James Talarico",
+     "party_lines": null
+    },
+    {
+     "name": "Ted Brown",
+     "votes": 12597,
+     "party": "LIB",
+     "pct": 1.72886101313424,
+     "choice_id": "Ted Brown",
+     "party_lines": null
+    },
+    {
+     "name": "Avery Ayers",
+     "votes": 132,
+     "party": null,
+     "pct": 0.0181161906591823,
+     "choice_id": "Avery Ayers",
+     "party_lines": null
+    },
+    {
+     "name": "Jade Simmons",
+     "votes": 154,
+     "party": null,
+     "pct": 0.021135555769046,
+     "choice_id": "Jade Simmons",
+     "party_lines": null
+    },
+    {
+     "name": "Bradford 'Brad' Hall",
+     "votes": 85,
+     "party": null,
+     "pct": 0.0116657288335644,
+     "choice_id": "Bradford 'Brad' Hall",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "2",
+   "state": "TX",
+   "title": "United States Representative, District 6",
+   "office_type": "federal_house",
+   "district": "6",
+   "jurisdiction": "Tarrant County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 77,
+    "units_total": 164,
+    "pct": 47.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jake Ellzey",
+     "votes": 41599,
+     "party": "REP",
+     "pct": 48.7495898373412,
+     "choice_id": "Jake Ellzey",
+     "party_lines": null
+    },
+    {
+     "name": "Danny Minton",
+     "votes": 43733,
+     "party": "DEM",
+     "pct": 51.2504101626588,
+     "choice_id": "Danny Minton",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "3",
+   "state": "TX",
+   "title": "United States Representative, District 12",
+   "office_type": "federal_house",
+   "district": "12",
+   "jurisdiction": "Tarrant County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 242,
+    "units_total": 563,
+    "pct": 43.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Craig Goldman",
+     "votes": 100050,
+     "party": "REP",
+     "pct": 46.334460241745,
+     "choice_id": "Craig Goldman",
+     "party_lines": null
+    },
+    {
+     "name": "Angela 'Heli' Rodriguez Prilliman",
+     "votes": 115880,
+     "party": "DEM",
+     "pct": 53.665539758255,
+     "choice_id": "Angela 'Heli' Rodriguez Prilliman",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "4",
+   "state": "TX",
+   "title": "United States Representative, District 24",
+   "office_type": "federal_house",
+   "district": "24",
+   "jurisdiction": "Tarrant County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 145,
+    "units_total": 373,
+    "pct": 38.9,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Beth Van Duyne",
+     "votes": 119793,
+     "party": "REP",
+     "pct": 54.5512916843126,
+     "choice_id": "Beth Van Duyne",
+     "party_lines": null
+    },
+    {
+     "name": "Kevin Burge",
+     "votes": 99804,
+     "party": "DEM",
+     "pct": 45.4487083156874,
+     "choice_id": "Kevin Burge",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "5",
+   "state": "TX",
+   "title": "United States Representative, District 25",
+   "office_type": "federal_house",
+   "district": "25",
+   "jurisdiction": "Tarrant County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 161,
+    "units_total": 331,
+    "pct": 48.6,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Roger Williams",
+     "votes": 38272,
+     "party": "REP",
+     "pct": 28.6272075158388,
+     "choice_id": "Roger Williams",
+     "party_lines": null
+    },
+    {
+     "name": "Dione Sims",
+     "votes": 95419,
+     "party": "DEM",
+     "pct": 71.3727924841612,
+     "choice_id": "Dione Sims",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "6",
+   "state": "TX",
+   "title": "United States Representative, District 30",
+   "office_type": "federal_house",
+   "district": "30",
+   "jurisdiction": "Tarrant County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 70,
+    "units_total": 140,
+    "pct": 50.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Everett Jackson",
+     "votes": 18081,
+     "party": "REP",
+     "pct": 25.8739857758189,
+     "choice_id": "Everett Jackson",
+     "party_lines": null
+    },
+    {
+     "name": "Frederick D. Haynes III",
+     "votes": 51800,
+     "party": "DEM",
+     "pct": 74.1260142241811,
+     "choice_id": "Frederick D. Haynes III",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "7",
+   "state": "TX",
+   "title": "Governor",
+   "office_type": "governor",
+   "district": null,
+   "jurisdiction": "Tarrant County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 2278,
+    "pct": 30.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Greg Abbott",
+     "votes": 307297,
+     "party": "REP",
+     "pct": 42.1283742099996,
+     "choice_id": "Greg Abbott",
+     "party_lines": null
+    },
+    {
+     "name": "Gina Hinojosa",
+     "votes": 410931,
+     "party": "DEM",
+     "pct": 56.3359061184761,
+     "choice_id": "Gina Hinojosa",
+     "party_lines": null
+    },
+    {
+     "name": "Pat Dixon",
+     "votes": 10913,
+     "party": "LIB",
+     "pct": 1.49609969428184,
+     "choice_id": "Pat Dixon",
+     "party_lines": null
+    },
+    {
+     "name": "Edward Earl Giles",
+     "votes": 33,
+     "party": null,
+     "pct": 0.00452408044637594,
+     "choice_id": "Edward Earl Giles",
+     "party_lines": null
+    },
+    {
+     "name": "Jenn Mack",
+     "votes": 154,
+     "party": null,
+     "pct": 0.021112375416421,
+     "choice_id": "Jenn Mack",
+     "party_lines": null
+    },
+    {
+     "name": "Mike Miller",
+     "votes": 102,
+     "party": null,
+     "pct": 0.0139835213797074,
+     "choice_id": "Mike Miller",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "8",
+   "state": "TX",
+   "title": "Lieutenant Governor",
+   "office_type": "lt_governor",
+   "district": null,
+   "jurisdiction": "Tarrant County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 2278,
+    "pct": 30.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Dan Patrick",
+     "votes": 305214,
+     "party": "REP",
+     "pct": 42.032853530763,
+     "choice_id": "Dan Patrick",
+     "party_lines": null
+    },
+    {
+     "name": "Vikki Goodwin",
+     "votes": 403724,
+     "party": "DEM",
+     "pct": 55.5992574352872,
+     "choice_id": "Vikki Goodwin",
+     "party_lines": null
+    },
+    {
+     "name": "Anthony Cristo",
+     "votes": 10889,
+     "party": "LIB",
+     "pct": 1.49958960629748,
+     "choice_id": "Anthony Cristo",
+     "party_lines": null
+    },
+    {
+     "name": "Kevin McCormick",
+     "votes": 6219,
+     "party": "GRN",
+     "pct": 0.856455851002297,
+     "choice_id": "Kevin McCormick",
+     "party_lines": null
+    },
+    {
+     "name": "Arturo Espinosa",
+     "votes": 33,
+     "party": null,
+     "pct": 0.0045446282494092,
+     "choice_id": "Arturo Espinosa",
+     "party_lines": null
+    },
+    {
+     "name": "Stephen Samuelson",
+     "votes": 53,
+     "party": null,
+     "pct": 0.00729894840056629,
+     "choice_id": "Stephen Samuelson",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "9",
+   "state": "TX",
+   "title": "Attorney General",
+   "office_type": "attorney_general",
+   "district": null,
+   "jurisdiction": "Tarrant County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 2278,
+    "pct": 30.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Mayes Middleton",
+     "votes": 307316,
+     "party": "REP",
+     "pct": 42.3640471618393,
+     "choice_id": "Mayes Middleton",
+     "party_lines": null
+    },
+    {
+     "name": "Nathan Johnson",
+     "votes": 406594,
+     "party": "DEM",
+     "pct": 56.0496927973841,
+     "choice_id": "Nathan Johnson",
+     "party_lines": null
+    },
+    {
+     "name": "Tom Oxford",
+     "votes": 11507,
+     "party": "LIB",
+     "pct": 1.58626004077655,
+     "choice_id": "Tom Oxford",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "10",
+   "state": "TX",
+   "title": "Comptroller of Public Accounts",
+   "office_type": "controller",
+   "district": null,
+   "jurisdiction": "Tarrant County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 2278,
+    "pct": 30.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Don Huffines",
+     "votes": 310449,
+     "party": "REP",
+     "pct": 42.896226584554,
+     "choice_id": "Don Huffines",
+     "party_lines": null
+    },
+    {
+     "name": "Sarah Eckhardt",
+     "votes": 398080,
+     "party": "DEM",
+     "pct": 55.0046219468552,
+     "choice_id": "Sarah Eckhardt",
+     "party_lines": null
+    },
+    {
+     "name": "V. Alonzo Echavarria-Garza",
+     "votes": 11193,
+     "party": "LIB",
+     "pct": 1.54659046787367,
+     "choice_id": "V. Alonzo Echavarria-Garza",
+     "party_lines": null
+    },
+    {
+     "name": "Shehla Faizi",
+     "votes": 3999,
+     "party": "GRN",
+     "pct": 0.552561000717127,
+     "choice_id": "Shehla Faizi",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "11",
+   "state": "TX",
+   "title": "Commissioner of the General Land Office",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 2278,
+    "pct": 30.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Dawn Buckingham",
+     "votes": 312342,
+     "party": "REP",
+     "pct": 43.2898044944381,
+     "choice_id": "Dawn Buckingham",
+     "party_lines": null
+    },
+    {
+     "name": "Benjamin Flores",
+     "votes": 398322,
+     "party": "DEM",
+     "pct": 55.2064131811718,
+     "choice_id": "Benjamin Flores",
+     "party_lines": null
+    },
+    {
+     "name": "Neill Snider",
+     "votes": 10850,
+     "party": "LIB",
+     "pct": 1.5037823243901,
+     "choice_id": "Neill Snider",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "12",
+   "state": "TX",
+   "title": "Commissioner of Agriculture",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 2278,
+    "pct": 30.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Nate Sheets",
+     "votes": 309723,
+     "party": "REP",
+     "pct": 42.9611145479916,
+     "choice_id": "Nate Sheets",
+     "party_lines": null
+    },
+    {
+     "name": "Clayton Tucker",
+     "votes": 398161,
+     "party": "DEM",
+     "pct": 55.2281888317719,
+     "choice_id": "Clayton Tucker",
+     "party_lines": null
+    },
+    {
+     "name": "Austin R. Kelly",
+     "votes": 13054,
+     "party": "LIB",
+     "pct": 1.81069662023641,
+     "choice_id": "Austin R. Kelly",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "13",
+   "state": "TX",
+   "title": "Railroad Commissioner",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 2278,
+    "pct": 30.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Bo French",
+     "votes": 299130,
+     "party": "REP",
+     "pct": 41.5729134672446,
+     "choice_id": "Bo French",
+     "party_lines": null
+    },
+    {
+     "name": "Jon Rosenthal",
+     "votes": 407510,
+     "party": "DEM",
+     "pct": 56.6355028483832,
+     "choice_id": "Jon Rosenthal",
+     "party_lines": null
+    },
+    {
+     "name": "Arthur Dibianca",
+     "votes": 12891,
+     "party": "LIB",
+     "pct": 1.79158368437218,
+     "choice_id": "Arthur Dibianca",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "14",
+   "state": "TX",
+   "title": "Chief Justice, Supreme Court",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 2278,
+    "pct": 30.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jimmy Blacklock",
+     "votes": 316809,
+     "party": "REP",
+     "pct": 43.8773574061019,
+     "choice_id": "Jimmy Blacklock",
+     "party_lines": null
+    },
+    {
+     "name": "Maggie Ellis",
+     "votes": 405224,
+     "party": "DEM",
+     "pct": 56.1226425938981,
+     "choice_id": "Maggie Ellis",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "15",
+   "state": "TX",
+   "title": "Justice, Supreme Court, Place 2, (Unexpired Term)",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 2278,
+    "pct": 30.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "James P. Sullivan",
+     "votes": 317668,
+     "party": "REP",
+     "pct": 44.0945275358295,
+     "choice_id": "James P. Sullivan",
+     "party_lines": null
+    },
+    {
+     "name": "Chari Kelly",
+     "votes": 402757,
+     "party": "DEM",
+     "pct": 55.9054724641705,
+     "choice_id": "Chari Kelly",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "16",
+   "state": "TX",
+   "title": "Justice, Supreme Court, Place 7",
+   "office_type": "judicial",
+   "district": "7",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 2278,
+    "pct": 30.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Kyle Hawkins",
+     "votes": 313715,
+     "party": "REP",
+     "pct": 43.6141121122429,
+     "choice_id": "Kyle Hawkins",
+     "party_lines": null
+    },
+    {
+     "name": "Kristen Hawkins",
+     "votes": 405582,
+     "party": "DEM",
+     "pct": 56.3858878877571,
+     "choice_id": "Kristen Hawkins",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "17",
+   "state": "TX",
+   "title": "Justice, Supreme Court, Place 8",
+   "office_type": "judicial",
+   "district": "8",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 2278,
+    "pct": 30.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Brett Busby",
+     "votes": 317290,
+     "party": "REP",
+     "pct": 44.1643583926061,
+     "choice_id": "Brett Busby",
+     "party_lines": null
+    },
+    {
+     "name": "Gisela D. Triana",
+     "votes": 401140,
+     "party": "DEM",
+     "pct": 55.8356416073939,
+     "choice_id": "Gisela D. Triana",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "18",
+   "state": "TX",
+   "title": "Judge, Court of Criminal Appeals, Place 3",
+   "office_type": "judicial",
+   "district": "3",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 2278,
+    "pct": 30.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Thomas Smith",
+     "votes": 315714,
+     "party": "REP",
+     "pct": 43.9864410180104,
+     "choice_id": "Thomas Smith",
+     "party_lines": null
+    },
+    {
+     "name": "Okey Anyiam",
+     "votes": 385821,
+     "party": "DEM",
+     "pct": 53.7540072977751,
+     "choice_id": "Okey Anyiam",
+     "party_lines": null
+    },
+    {
+     "name": "Mark Ash",
+     "votes": 16218,
+     "party": "LIB",
+     "pct": 2.25955168421449,
+     "choice_id": "Mark Ash",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "19",
+   "state": "TX",
+   "title": "Judge, Court of Criminal Appeals, Place 4",
+   "office_type": "judicial",
+   "district": "4",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 2278,
+    "pct": 30.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Kevin Patrick Yeary",
+     "votes": 317602,
+     "party": "REP",
+     "pct": 44.3051624396144,
+     "choice_id": "Kevin Patrick Yeary",
+     "party_lines": null
+    },
+    {
+     "name": "Audra Riley",
+     "votes": 399249,
+     "party": "DEM",
+     "pct": 55.6948375603856,
+     "choice_id": "Audra Riley",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "20",
+   "state": "TX",
+   "title": "Judge, Court of Criminal Appeals, Place 9",
+   "office_type": "judicial",
+   "district": "9",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 2278,
+    "pct": 30.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "John Messinger",
+     "votes": 315580,
+     "party": "REP",
+     "pct": 44.072649065352,
+     "choice_id": "John Messinger",
+     "party_lines": null
+    },
+    {
+     "name": "Holly Taylor",
+     "votes": 400465,
+     "party": "DEM",
+     "pct": 55.927350934648,
+     "choice_id": "Holly Taylor",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "21",
+   "state": "TX",
+   "title": "Member, State Board of Education, District 13",
+   "office_type": "local",
+   "district": "13",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 232,
+    "units_total": 250,
+    "pct": 92.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Carlos 'Charlie' Garza",
+     "votes": 36097,
+     "party": "REP",
+     "pct": 24.1974298987109,
+     "choice_id": "Carlos 'Charlie' Garza",
+     "party_lines": null
+    },
+    {
+     "name": "Tiffany Clark",
+     "votes": 113080,
+     "party": "DEM",
+     "pct": 75.8025701012891,
+     "choice_id": "Tiffany Clark",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "22",
+   "state": "TX",
+   "title": "State Senator, District 9",
+   "office_type": "state_senate",
+   "district": "9",
+   "jurisdiction": "Tarrant County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 336,
+    "units_total": 485,
+    "pct": 69.3,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Leigh Wambsganss",
+     "votes": 166711,
+     "party": "REP",
+     "pct": 48.7460489650555,
+     "choice_id": "Leigh Wambsganss",
+     "party_lines": null
+    },
+    {
+     "name": "Taylor Rehmet",
+     "votes": 175288,
+     "party": "DEM",
+     "pct": 51.2539510349445,
+     "choice_id": "Taylor Rehmet",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "23",
+   "state": "TX",
+   "title": "State Senator, District 22",
+   "office_type": "state_senate",
+   "district": "22",
+   "jurisdiction": "Tarrant County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 100,
+    "units_total": 101,
+    "pct": 99.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "David Cook",
+     "votes": 37389,
+     "party": "REP",
+     "pct": 35.0412371134021,
+     "choice_id": "David Cook",
+     "party_lines": null
+    },
+    {
+     "name": "Amy Martinez-Salas",
+     "votes": 69311,
+     "party": "DEM",
+     "pct": 64.9587628865979,
+     "choice_id": "Amy Martinez-Salas",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "24",
+   "state": "TX",
+   "title": "State Representative, District 90",
+   "office_type": "state_house",
+   "district": "90",
+   "jurisdiction": "Tarrant County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 83,
+    "units_total": 89,
+    "pct": 93.3,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Ramon Romero, Jr",
+     "votes": 37460,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "Ramon Romero, Jr",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "25",
+   "state": "TX",
+   "title": "State Representative, District 91",
+   "office_type": "state_house",
+   "district": "91",
+   "jurisdiction": "Tarrant County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 56,
+    "units_total": 100,
+    "pct": 56.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "David Lowe",
+     "votes": 33009,
+     "party": "REP",
+     "pct": 52.6644117553208,
+     "choice_id": "David Lowe",
+     "party_lines": null
+    },
+    {
+     "name": "Yisak Worku",
+     "votes": 29669,
+     "party": "DEM",
+     "pct": 47.3355882446792,
+     "choice_id": "Yisak Worku",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "26",
+   "state": "TX",
+   "title": "State Representative, District 92",
+   "office_type": "state_house",
+   "district": "92",
+   "jurisdiction": "Tarrant County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 55,
+    "units_total": 57,
+    "pct": 96.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "JP Woodruff",
+     "votes": 15064,
+     "party": "REP",
+     "pct": 33.0604630747284,
+     "choice_id": "JP Woodruff",
+     "party_lines": null
+    },
+    {
+     "name": "Salman Bhojani",
+     "votes": 30501,
+     "party": "DEM",
+     "pct": 66.9395369252716,
+     "choice_id": "Salman Bhojani",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "27",
+   "state": "TX",
+   "title": "State Representative, District 93",
+   "office_type": "state_house",
+   "district": "93",
+   "jurisdiction": "Tarrant County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 51,
+    "units_total": 87,
+    "pct": 58.6,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Alan Blaylock",
+     "votes": 38162,
+     "party": "REP",
+     "pct": 49.4749397153006,
+     "choice_id": "Alan Blaylock",
+     "party_lines": null
+    },
+    {
+     "name": "Ericka Lomick",
+     "votes": 38972,
+     "party": "DEM",
+     "pct": 50.5250602846994,
+     "choice_id": "Ericka Lomick",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "28",
+   "state": "TX",
+   "title": "State Representative, District 94",
+   "office_type": "state_house",
+   "district": "94",
+   "jurisdiction": "Tarrant County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 68,
+    "units_total": 73,
+    "pct": 93.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Cheryl Bean",
+     "votes": 33259,
+     "party": "REP",
+     "pct": 47.5318698908135,
+     "choice_id": "Cheryl Bean",
+     "party_lines": null
+    },
+    {
+     "name": "Katie O'Brien Duzan",
+     "votes": 36713,
+     "party": "DEM",
+     "pct": 52.4681301091865,
+     "choice_id": "Katie O'Brien Duzan",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "29",
+   "state": "TX",
+   "title": "State Representative, District 95",
+   "office_type": "state_house",
+   "district": "95",
+   "jurisdiction": "Tarrant County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 77,
+    "units_total": 83,
+    "pct": 92.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Nicole Collier",
+     "votes": 43460,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "Nicole Collier",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "30",
+   "state": "TX",
+   "title": "State Representative, District 96",
+   "office_type": "state_house",
+   "district": "96",
+   "jurisdiction": "Tarrant County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 60,
+    "units_total": 64,
+    "pct": 93.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Ellen Fleischmann",
+     "votes": 35429,
+     "party": "REP",
+     "pct": 47.273964560205,
+     "choice_id": "Ellen Fleischmann",
+     "party_lines": null
+    },
+    {
+     "name": "Ebony M. Turner",
+     "votes": 39515,
+     "party": "DEM",
+     "pct": 52.726035439795,
+     "choice_id": "Ebony M. Turner",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "31",
+   "state": "TX",
+   "title": "State Representative, District 97",
+   "office_type": "state_house",
+   "district": "97",
+   "jurisdiction": "Tarrant County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 61,
+    "units_total": 77,
+    "pct": 79.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "John W. McQueeney",
+     "votes": 39546,
+     "party": "REP",
+     "pct": 49.1065552395972,
+     "choice_id": "John W. McQueeney",
+     "party_lines": null
+    },
+    {
+     "name": "Beth Llewellyn McLaughlin",
+     "votes": 40985,
+     "party": "DEM",
+     "pct": 50.8934447604028,
+     "choice_id": "Beth Llewellyn McLaughlin",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "32",
+   "state": "TX",
+   "title": "State Representative, District 98",
+   "office_type": "state_house",
+   "district": "98",
+   "jurisdiction": "Tarrant County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 56,
+    "units_total": 79,
+    "pct": 70.9,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Armin Mizani",
+     "votes": 51794,
+     "party": "REP",
+     "pct": 59.9197121669617,
+     "choice_id": "Armin Mizani",
+     "party_lines": null
+    },
+    {
+     "name": "Cate Brennan",
+     "votes": 34645,
+     "party": "DEM",
+     "pct": 40.0802878330383,
+     "choice_id": "Cate Brennan",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "33",
+   "state": "TX",
+   "title": "State Representative, District 99",
+   "office_type": "state_house",
+   "district": "99",
+   "jurisdiction": "Tarrant County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 71,
+    "units_total": 98,
+    "pct": 72.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Charlie Geren",
+     "votes": 35109,
+     "party": "REP",
+     "pct": 52.9292046071278,
+     "choice_id": "Charlie Geren",
+     "party_lines": null
+    },
+    {
+     "name": "Michelle Winder",
+     "votes": 31223,
+     "party": "DEM",
+     "pct": 47.0707953928722,
+     "choice_id": "Michelle Winder",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "34",
+   "state": "TX",
+   "title": "State Representative, District 101",
+   "office_type": "state_house",
+   "district": "101",
+   "jurisdiction": "Tarrant County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 58,
+    "units_total": 59,
+    "pct": 98.3,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Junior Ezeonu",
+     "votes": 46763,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "Junior Ezeonu",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "35",
+   "state": "TX",
+   "title": "Chief Justice, 15th Court of Appeals District",
+   "office_type": "judicial",
+   "district": "15",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 2278,
+    "pct": 30.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Scott Brister",
+     "votes": 316494,
+     "party": "REP",
+     "pct": 44.2792626418642,
+     "choice_id": "Scott Brister",
+     "party_lines": null
+    },
+    {
+     "name": "Jerry Zimmerer",
+     "votes": 398274,
+     "party": "DEM",
+     "pct": 55.7207373581358,
+     "choice_id": "Jerry Zimmerer",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "36",
+   "state": "TX",
+   "title": "Justice, 15th Court of Appeals District, Place 2",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 2278,
+    "pct": 30.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Scott K. Field",
+     "votes": 314762,
+     "party": "REP",
+     "pct": 44.1118681977818,
+     "choice_id": "Scott K. Field",
+     "party_lines": null
+    },
+    {
+     "name": "Tom Baker",
+     "votes": 398792,
+     "party": "DEM",
+     "pct": 55.8881318022182,
+     "choice_id": "Tom Baker",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "37",
+   "state": "TX",
+   "title": "Justice, 15th Court of Appeals District, Place 3",
+   "office_type": "judicial",
+   "district": "3",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 2278,
+    "pct": 30.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "April Farris",
+     "votes": 316620,
+     "party": "REP",
+     "pct": 44.4198774111273,
+     "choice_id": "April Farris",
+     "party_lines": null
+    },
+    {
+     "name": "Marc M. Meyer",
+     "votes": 396169,
+     "party": "DEM",
+     "pct": 55.5801225888727,
+     "choice_id": "Marc M. Meyer",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "38",
+   "state": "TX",
+   "title": "Justice, 2nd Court of Appeals District, Place 2",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 1571,
+    "pct": 44.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Chris Taylor",
+     "votes": 405033,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "Chris Taylor",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "39",
+   "state": "TX",
+   "title": "Justice, 2nd Court of Appeals District, Place 7",
+   "office_type": "judicial",
+   "district": "7",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 1571,
+    "pct": 44.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Brian Walker",
+     "votes": 399112,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "Brian Walker",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "86",
+   "state": "TX",
+   "title": "State Senator, District 22 (Unexpired Term)",
+   "office_type": "state_senate",
+   "district": "22",
+   "jurisdiction": "Tarrant County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 100,
+    "units_total": 101,
+    "pct": 99.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Amy Martinez-Salas",
+     "votes": 68531,
+     "party": "DEM",
+     "pct": 64.3441276160252,
+     "choice_id": "Amy Martinez-Salas",
+     "party_lines": null
+    },
+    {
+     "name": "David Cook",
+     "votes": 37976,
+     "party": "REP",
+     "pct": 35.6558723839748,
+     "choice_id": "David Cook",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "87",
+   "state": "TX",
+   "title": "State Representative District  93 (Unexpired Term)",
+   "office_type": "state_house",
+   "district": "93",
+   "jurisdiction": "Tarrant County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 51,
+    "units_total": 87,
+    "pct": 58.6,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Ericka Lomick",
+     "votes": 39346,
+     "party": "DEM",
+     "pct": 51.1133051001585,
+     "choice_id": "Ericka Lomick",
+     "party_lines": null
+    },
+    {
+     "name": "Alan Blaylock",
+     "votes": 37632,
+     "party": "REP",
+     "pct": 48.8866948998415,
+     "choice_id": "Alan Blaylock",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "40",
+   "state": "TX",
+   "title": "District Judge, 141st Judicial District",
+   "office_type": "judicial",
+   "district": "141",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "John P. Chupp",
+     "votes": 397566,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "John P. Chupp",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "85",
+   "state": "TX",
+   "title": "District Judge, 213th Judicial District (Unexpired Term)",
+   "office_type": "judicial",
+   "district": "213",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Michael Ferry",
+     "votes": 322484,
+     "party": "REP",
+     "pct": 45.6122385475777,
+     "choice_id": "Michael Ferry",
+     "party_lines": null
+    },
+    {
+     "name": "Arthurine 'AnhThu' Kamphaus",
+     "votes": 384528,
+     "party": "DEM",
+     "pct": 54.3877614524223,
+     "choice_id": "Arthurine 'AnhThu' Kamphaus",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "41",
+   "state": "TX",
+   "title": "District Judge, 236th Judicial District",
+   "office_type": "judicial",
+   "district": "236",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Dusty Fillmore",
+     "votes": 313467,
+     "party": "REP",
+     "pct": 44.193043127646,
+     "choice_id": "Dusty Fillmore",
+     "party_lines": null
+    },
+    {
+     "name": "Katherine 'Kate' Kim",
+     "votes": 395846,
+     "party": "DEM",
+     "pct": 55.806956872354,
+     "choice_id": "Katherine 'Kate' Kim",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "42",
+   "state": "TX",
+   "title": "District Judge, 297th Judicial District",
+   "office_type": "judicial",
+   "district": "297",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Amy Allin",
+     "votes": 317080,
+     "party": "REP",
+     "pct": 44.7894227577391,
+     "choice_id": "Amy Allin",
+     "party_lines": null
+    },
+    {
+     "name": "Fred Howey",
+     "votes": 390855,
+     "party": "DEM",
+     "pct": 55.2105772422609,
+     "choice_id": "Fred Howey",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "43",
+   "state": "TX",
+   "title": "District Judge, 371st Judicial District",
+   "office_type": "judicial",
+   "district": "371",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Ryan Hill",
+     "votes": 317730,
+     "party": "REP",
+     "pct": 44.883458115553,
+     "choice_id": "Ryan Hill",
+     "party_lines": null
+    },
+    {
+     "name": "Marquetta 'MarQ' Clayton",
+     "votes": 390170,
+     "party": "DEM",
+     "pct": 55.116541884447,
+     "choice_id": "Marquetta 'MarQ' Clayton",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "44",
+   "state": "TX",
+   "title": "District Judge, 372nd Judicial District",
+   "office_type": "judicial",
+   "district": "372",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Julie Lugo",
+     "votes": 395060,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "Julie Lugo",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "45",
+   "state": "TX",
+   "title": "District Judge, 432nd Judicial District",
+   "office_type": "judicial",
+   "district": "432",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Lee Sorrells",
+     "votes": 311620,
+     "party": "REP",
+     "pct": 44.0174193830894,
+     "choice_id": "Lee Sorrells",
+     "party_lines": null
+    },
+    {
+     "name": "Courtney Miller",
+     "votes": 396327,
+     "party": "DEM",
+     "pct": 55.9825806169106,
+     "choice_id": "Courtney Miller",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "46",
+   "state": "TX",
+   "title": "District Judge, 485th Judicial District",
+   "office_type": "judicial",
+   "district": "485",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Steven Jumes",
+     "votes": 391607,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "Steven Jumes",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "47",
+   "state": "TX",
+   "title": "Criminal District Judge, Court No. 1",
+   "office_type": "judicial",
+   "district": "1",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Sherri Wagner",
+     "votes": 314764,
+     "party": "REP",
+     "pct": 44.4241837463411,
+     "choice_id": "Sherri Wagner",
+     "party_lines": null
+    },
+    {
+     "name": "Cindy Stormer",
+     "votes": 393778,
+     "party": "DEM",
+     "pct": 55.5758162536589,
+     "choice_id": "Cindy Stormer",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "48",
+   "state": "TX",
+   "title": "Criminal District Judge, Court No. 3",
+   "office_type": "judicial",
+   "district": "3",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Douglas Allen",
+     "votes": 390848,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "Douglas Allen",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "49",
+   "state": "TX",
+   "title": "Criminal District Judge, Court No. 4",
+   "office_type": "judicial",
+   "district": "4",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Andy Porter",
+     "votes": 314351,
+     "party": "REP",
+     "pct": 44.461149833669,
+     "choice_id": "Andy Porter",
+     "party_lines": null
+    },
+    {
+     "name": "John Brender",
+     "votes": 392673,
+     "party": "DEM",
+     "pct": 55.538850166331,
+     "choice_id": "John Brender",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "50",
+   "state": "TX",
+   "title": "Family District Judge, 231st Judicial District",
+   "office_type": "judicial",
+   "district": "231",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Leslie Barrows",
+     "votes": 314134,
+     "party": "REP",
+     "pct": 44.390777439886,
+     "choice_id": "Leslie Barrows",
+     "party_lines": null
+    },
+    {
+     "name": "Lyndsay Newell",
+     "votes": 393522,
+     "party": "DEM",
+     "pct": 55.609222560114,
+     "choice_id": "Lyndsay Newell",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "51",
+   "state": "TX",
+   "title": "Family District Judge, 233rd Judicial District",
+   "office_type": "judicial",
+   "district": "233",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Kenneth E. Newell",
+     "votes": 390437,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "Kenneth E. Newell",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "52",
+   "state": "TX",
+   "title": "Family District Judge, 322nd Judicial District",
+   "office_type": "judicial",
+   "district": "322",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "James B. Munford",
+     "votes": 387946,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "James B. Munford",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "53",
+   "state": "TX",
+   "title": "Family District Judge, 323rd Judicial District",
+   "office_type": "judicial",
+   "district": "323",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Alex Kim",
+     "votes": 311378,
+     "party": "REP",
+     "pct": 44.0774368164613,
+     "choice_id": "Alex Kim",
+     "party_lines": null
+    },
+    {
+     "name": "Brian Willett",
+     "votes": 395056,
+     "party": "DEM",
+     "pct": 55.9225631835387,
+     "choice_id": "Brian Willett",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "54",
+   "state": "TX",
+   "title": "Family District Judge, 324th Judicial District",
+   "office_type": "judicial",
+   "district": "324",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Andy Hsu",
+     "votes": 309025,
+     "party": "REP",
+     "pct": 43.7824711434518,
+     "choice_id": "Andy Hsu",
+     "party_lines": null
+    },
+    {
+     "name": "Crystal Gayden",
+     "votes": 396794,
+     "party": "DEM",
+     "pct": 56.2175288565482,
+     "choice_id": "Crystal Gayden",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "55",
+   "state": "TX",
+   "title": "Family District Judge, 325th Judicial District",
+   "office_type": "judicial",
+   "district": "325",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Cynthia Terry",
+     "votes": 313678,
+     "party": "REP",
+     "pct": 44.4519709320122,
+     "choice_id": "Cynthia Terry",
+     "party_lines": null
+    },
+    {
+     "name": "Andy Griffin",
+     "votes": 391978,
+     "party": "DEM",
+     "pct": 55.5480290679878,
+     "choice_id": "Andy Griffin",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "56",
+   "state": "TX",
+   "title": "Criminal District Attorney Tarrant County",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Phil Sorrells",
+     "votes": 312556,
+     "party": "REP",
+     "pct": 44.0378502671386,
+     "choice_id": "Phil Sorrells",
+     "party_lines": null
+    },
+    {
+     "name": "Tiffany Burks",
+     "votes": 397188,
+     "party": "DEM",
+     "pct": 55.9621497328614,
+     "choice_id": "Tiffany Burks",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "57",
+   "state": "TX",
+   "title": "County Judge",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Tim O'Hare",
+     "votes": 311040,
+     "party": "REP",
+     "pct": 43.6038809472741,
+     "choice_id": "Tim O'Hare",
+     "party_lines": null
+    },
+    {
+     "name": "Alisa Simmons",
+     "votes": 402291,
+     "party": "DEM",
+     "pct": 56.3961190527259,
+     "choice_id": "Alisa Simmons",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "58",
+   "state": "TX",
+   "title": "Judge, County Court at Law, No. 1",
+   "office_type": "judicial",
+   "district": "1",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Don Pierson",
+     "votes": 388831,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "Don Pierson",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "59",
+   "state": "TX",
+   "title": "Judge, County Court at Law, No. 2",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jennifer Rymell",
+     "votes": 386833,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "Jennifer Rymell",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "60",
+   "state": "TX",
+   "title": "Judge, County Court at Law, No. 3",
+   "office_type": "judicial",
+   "district": "3",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Mike Hrabal",
+     "votes": 384584,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "Mike Hrabal",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "61",
+   "state": "TX",
+   "title": "Judge, County Criminal Court, No. 1",
+   "office_type": "judicial",
+   "district": "1",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "David Cook",
+     "votes": 386427,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "David Cook",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "62",
+   "state": "TX",
+   "title": "Judge, County Criminal Court, No. 2",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Carey Walker",
+     "votes": 384124,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "Carey Walker",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "63",
+   "state": "TX",
+   "title": "Judge, County Criminal Court, No. 3",
+   "office_type": "judicial",
+   "district": "3",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Bob McCoy",
+     "votes": 383078,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "Bob McCoy",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "64",
+   "state": "TX",
+   "title": "Judge, County Criminal Court, No. 4",
+   "office_type": "judicial",
+   "district": "4",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Deborah Nekhom",
+     "votes": 382947,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "Deborah Nekhom",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "65",
+   "state": "TX",
+   "title": "Judge, County Criminal Court, No. 5",
+   "office_type": "judicial",
+   "district": "5",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Brad Clark",
+     "votes": 317929,
+     "party": "REP",
+     "pct": 45.1901537376907,
+     "choice_id": "Brad Clark",
+     "party_lines": null
+    },
+    {
+     "name": "Julya 'Jujubill' Billhymer",
+     "votes": 385607,
+     "party": "DEM",
+     "pct": 54.8098462623093,
+     "choice_id": "Julya 'Jujubill' Billhymer",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "66",
+   "state": "TX",
+   "title": "Judge, County Criminal Court, No. 6",
+   "office_type": "judicial",
+   "district": "6",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Randi Hartin",
+     "votes": 382754,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "Randi Hartin",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "67",
+   "state": "TX",
+   "title": "Judge, County Criminal Court, No. 7",
+   "office_type": "judicial",
+   "district": "7",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Eric Starnes",
+     "votes": 381729,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "Eric Starnes",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "68",
+   "state": "TX",
+   "title": "Judge, County Criminal Court, No. 8",
+   "office_type": "judicial",
+   "district": "8",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Charles L. 'Chuck' Vanover",
+     "votes": 380950,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "Charles L. 'Chuck' Vanover",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "69",
+   "state": "TX",
+   "title": "Judge, County Criminal Court, No. 9",
+   "office_type": "judicial",
+   "district": "9",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Brian Bolton",
+     "votes": 313064,
+     "party": "REP",
+     "pct": 44.4113437146679,
+     "choice_id": "Brian Bolton",
+     "party_lines": null
+    },
+    {
+     "name": "Lesa Pamplin",
+     "votes": 391855,
+     "party": "DEM",
+     "pct": 55.5886562853321,
+     "choice_id": "Lesa Pamplin",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "70",
+   "state": "TX",
+   "title": "Judge, County Criminal Court, No. 10",
+   "office_type": "judicial",
+   "district": "10",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Trent Loftin",
+     "votes": 382202,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "Trent Loftin",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "71",
+   "state": "TX",
+   "title": "Judge, County Probate Court No. 1",
+   "office_type": "judicial",
+   "district": "1",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Patricia Burns",
+     "votes": 382466,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "Patricia Burns",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "72",
+   "state": "TX",
+   "title": "Judge, County Probate Court No. 2",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Brook Bell",
+     "votes": 380524,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "Brook Bell",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "73",
+   "state": "TX",
+   "title": "District Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Tom Wilder",
+     "votes": 310020,
+     "party": "REP",
+     "pct": 43.7841777014507,
+     "choice_id": "Tom Wilder",
+     "party_lines": null
+    },
+    {
+     "name": "Nathan Smith",
+     "votes": 398044,
+     "party": "DEM",
+     "pct": 56.2158222985493,
+     "choice_id": "Nathan Smith",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "74",
+   "state": "TX",
+   "title": "County Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Mary Louise Nicholson",
+     "votes": 312614,
+     "party": "REP",
+     "pct": 44.196281514595,
+     "choice_id": "Mary Louise Nicholson",
+     "party_lines": null
+    },
+    {
+     "name": "Lydia Bean",
+     "votes": 394717,
+     "party": "DEM",
+     "pct": 55.803718485405,
+     "choice_id": "Lydia Bean",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "75",
+   "state": "TX",
+   "title": "County Commissioner, Precinct 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 176,
+    "units_total": 194,
+    "pct": 90.7,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Tony Tinderholt",
+     "votes": 80955,
+     "party": "REP",
+     "pct": 44.5959345562717,
+     "choice_id": "Tony Tinderholt",
+     "party_lines": null
+    },
+    {
+     "name": "Jared Williams",
+     "votes": 100575,
+     "party": "DEM",
+     "pct": 55.4040654437283,
+     "choice_id": "Jared Williams",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "76",
+   "state": "TX",
+   "title": "County Commissioner, Precinct 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 180,
+    "units_total": 246,
+    "pct": 73.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Manny Ramirez",
+     "votes": 82839,
+     "party": "REP",
+     "pct": 48.196395117467,
+     "choice_id": "Manny Ramirez",
+     "party_lines": null
+    },
+    {
+     "name": "Nydia Cardenas",
+     "votes": 89039,
+     "party": "DEM",
+     "pct": 51.803604882533,
+     "choice_id": "Nydia Cardenas",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "77",
+   "state": "TX",
+   "title": "Justice of the Peace, Precinct 1",
+   "office_type": "judicial",
+   "district": "1",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 94,
+    "units_total": 154,
+    "pct": 61.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Ricky Rodriguez",
+     "votes": 55603,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "Ricky Rodriguez",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "78",
+   "state": "TX",
+   "title": "Justice of the Peace, Precinct 2",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 87,
+    "units_total": 91,
+    "pct": 95.6,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Mary Tom Cravens Curnutt",
+     "votes": 34503,
+     "party": "REP",
+     "pct": 42.8587399383882,
+     "choice_id": "Mary Tom Cravens Curnutt",
+     "party_lines": null
+    },
+    {
+     "name": "Celina Vasquez",
+     "votes": 46001,
+     "party": "DEM",
+     "pct": 57.1412600616118,
+     "choice_id": "Celina Vasquez",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "79",
+   "state": "TX",
+   "title": "Justice of the Peace, Precinct 3",
+   "office_type": "judicial",
+   "district": "3",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 88,
+    "units_total": 128,
+    "pct": 68.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "William P. 'Bill' Brandt",
+     "votes": 89156,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "William P. 'Bill' Brandt",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "80",
+   "state": "TX",
+   "title": "Justice of the Peace, Precinct 4",
+   "office_type": "judicial",
+   "district": "4",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 76,
+    "units_total": 115,
+    "pct": 66.1,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Christopher 'Chris' Gregory",
+     "votes": 50341,
+     "party": "REP",
+     "pct": 54.8388853787664,
+     "choice_id": "Christopher 'Chris' Gregory",
+     "party_lines": null
+    },
+    {
+     "name": "Rodney Lee",
+     "votes": 41457,
+     "party": "DEM",
+     "pct": 45.1611146212336,
+     "choice_id": "Rodney Lee",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "81",
+   "state": "TX",
+   "title": "Justice of the Peace, Precinct 5",
+   "office_type": "judicial",
+   "district": "5",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 94,
+    "units_total": 98,
+    "pct": 95.9,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Sergio L. De Leon",
+     "votes": 34417,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "Sergio L. De Leon",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "82",
+   "state": "TX",
+   "title": "Justice of the Peace, Precinct 6",
+   "office_type": "judicial",
+   "district": "6",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 52,
+    "units_total": 66,
+    "pct": 78.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jason M. Charbonnet",
+     "votes": 37825,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "Jason M. Charbonnet",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "83",
+   "state": "TX",
+   "title": "Justice of the Peace, Precinct 7",
+   "office_type": "judicial",
+   "district": "7",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 113,
+    "units_total": 114,
+    "pct": 99.1,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Paige Payne - Neal",
+     "votes": 44983,
+     "party": "REP",
+     "pct": 36.742111754568,
+     "choice_id": "Paige Payne - Neal",
+     "party_lines": null
+    },
+    {
+     "name": "Kenneth D. Sanders",
+     "votes": 77446,
+     "party": "DEM",
+     "pct": 63.257888245432,
+     "choice_id": "Kenneth D. Sanders",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "84",
+   "state": "TX",
+   "title": "Justice of the Peace, Precinct 8",
+   "office_type": "judicial",
+   "district": "8",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 91,
+    "units_total": 98,
+    "pct": 92.9,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Lisa Woodard",
+     "votes": 60781,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "Lisa Woodard",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "88",
+   "state": "TX",
+   "title": "Tarrant Appraisal District Board of Directors - At-Large Place 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Rebecca Hardy",
+     "votes": 209278,
+     "party": null,
+     "pct": 40.7996241283111,
+     "choice_id": "Rebecca Hardy",
+     "party_lines": null
+    },
+    {
+     "name": "Byron Haynes",
+     "votes": 134073,
+     "party": null,
+     "pct": 26.1380938548488,
+     "choice_id": "Byron Haynes",
+     "party_lines": null
+    },
+    {
+     "name": "Phyllis Durbin Grissom",
+     "votes": 104364,
+     "party": null,
+     "pct": 20.3461996603898,
+     "choice_id": "Phyllis Durbin Grissom",
+     "party_lines": null
+    },
+    {
+     "name": "Sayeda Bilquees Syed",
+     "votes": 65226,
+     "party": null,
+     "pct": 12.7160823564504,
+     "choice_id": "Sayeda Bilquees Syed",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "89",
+   "state": "TX",
+   "title": "Tarrant Appraisal District Board of Directors - At-Large Place 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Ambika Sharma",
+     "votes": 189765,
+     "party": null,
+     "pct": 38.9099513433381,
+     "choice_id": "Ambika Sharma",
+     "party_lines": null
+    },
+    {
+     "name": "Cary Cheshire",
+     "votes": 109028,
+     "party": null,
+     "pct": 22.3554089271544,
+     "choice_id": "Cary Cheshire",
+     "party_lines": null
+    },
+    {
+     "name": "Paul Stockard",
+     "votes": 106767,
+     "party": null,
+     "pct": 21.8918071039137,
+     "choice_id": "Paul Stockard",
+     "party_lines": null
+    },
+    {
+     "name": "Marshall Hobbs",
+     "votes": 82143,
+     "party": null,
+     "pct": 16.8428326255939,
+     "choice_id": "Marshall Hobbs",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "90",
+   "state": "TX",
+   "title": "Tarrant Appraisal District Board of Directors - At-Large  Place 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 695,
+    "units_total": 864,
+    "pct": 80.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "John Adams",
+     "votes": 282216,
+     "party": null,
+     "pct": 58.9706834945776,
+     "choice_id": "John Adams",
+     "party_lines": null
+    },
+    {
+     "name": "Matt Bryant",
+     "votes": 196354,
+     "party": null,
+     "pct": 41.0293165054224,
+     "choice_id": "Matt Bryant",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "91",
+   "state": "TX",
+   "title": "Eagle Mountain-Saginaw Independent School District Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 41,
+    "units_total": 41,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 14331,
+     "party": null,
+     "pct": 33.3302323417913,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 28666,
+     "party": null,
+     "pct": 66.6697676582087,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "92",
+   "state": "TX",
+   "title": "Eagle Mountain-Saginaw Independent School District Proposition B",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 41,
+    "units_total": 41,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 12931,
+     "party": null,
+     "pct": 30.3416396827632,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 29687,
+     "party": null,
+     "pct": 69.6583603172368,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "93",
+   "state": "TX",
+   "title": "Keller Independent School District Trustee, Place 4 - Three-Year Term",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 63,
+    "units_total": 67,
+    "pct": 94.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Rachel Weatherington",
+     "votes": 39550,
+     "party": null,
+     "pct": 70.1825989743226,
+     "choice_id": "Rachel Weatherington",
+     "party_lines": null
+    },
+    {
+     "name": "Geramie Parrish",
+     "votes": 16803,
+     "party": null,
+     "pct": 29.8174010256774,
+     "choice_id": "Geramie Parrish",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "94",
+   "state": "TX",
+   "title": "Keller Independent School District Trustee, Place 5 - Three-Year Term",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 63,
+    "units_total": 67,
+    "pct": 94.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Chris Coker",
+     "votes": 21955,
+     "party": null,
+     "pct": 39.8623744938904,
+     "choice_id": "Chris Coker",
+     "party_lines": null
+    },
+    {
+     "name": "Andrew Walsh",
+     "votes": 22412,
+     "party": null,
+     "pct": 40.6921219383772,
+     "choice_id": "Andrew Walsh",
+     "party_lines": null
+    },
+    {
+     "name": "Colin Hodges",
+     "votes": 10710,
+     "party": null,
+     "pct": 19.4455035677324,
+     "choice_id": "Colin Hodges",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "95",
+   "state": "TX",
+   "title": "Keller Independent School District Trustee, Place 6 - (Unexpired Term)",
+   "office_type": "local",
+   "district": "6",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 63,
+    "units_total": 67,
+    "pct": 94.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Barbara Brewer",
+     "votes": 27431,
+     "party": null,
+     "pct": 51.5349064402194,
+     "choice_id": "Barbara Brewer",
+     "party_lines": null
+    },
+    {
+     "name": "Tommie Johnson",
+     "votes": 25797,
+     "party": null,
+     "pct": 48.4650935597806,
+     "choice_id": "Tommie Johnson",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "96",
+   "state": "TX",
+   "title": "Keller Independent School District Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 63,
+    "units_total": 67,
+    "pct": 94.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 33451,
+     "party": null,
+     "pct": 46.5982224946368,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 38335,
+     "party": null,
+     "pct": 53.4017775053632,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "97",
+   "state": "TX",
+   "title": "Keller Independent School District Proposition B",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 63,
+    "units_total": 67,
+    "pct": 94.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 31536,
+     "party": null,
+     "pct": 43.8889971330754,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 40318,
+     "party": null,
+     "pct": 56.1110028669246,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "98",
+   "state": "TX",
+   "title": "Keller Independent School District Proposition C",
+   "office_type": "measure",
+   "district": "c",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 63,
+    "units_total": 67,
+    "pct": 94.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 29193,
+     "party": null,
+     "pct": 40.9232365145228,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 42143,
+     "party": null,
+     "pct": 59.0767634854772,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "99",
+   "state": "TX",
+   "title": "Keller Independent School District Proposition D",
+   "office_type": "measure",
+   "district": "d",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 63,
+    "units_total": 67,
+    "pct": 94.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 25654,
+     "party": null,
+     "pct": 36.1039180364783,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 45402,
+     "party": null,
+     "pct": 63.8960819635217,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "100",
+   "state": "TX",
+   "title": "Keller Independent School District Proposition E",
+   "office_type": "measure",
+   "district": "e",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 63,
+    "units_total": 67,
+    "pct": 94.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 24240,
+     "party": null,
+     "pct": 34.4602086946632,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 46102,
+     "party": null,
+     "pct": 65.5397913053368,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "101",
+   "state": "TX",
+   "title": "City of Benbrook Member of the Council, Place 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 13,
+    "units_total": 13,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Renee Franklin",
+     "votes": 7356,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Renee Franklin",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "102",
+   "state": "TX",
+   "title": "City of Benbrook Member of the Council, Place 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 13,
+    "units_total": 13,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Greg Clem",
+     "votes": 3813,
+     "party": null,
+     "pct": 50.1512560831251,
+     "choice_id": "Greg Clem",
+     "party_lines": null
+    },
+    {
+     "name": "Dustin Phillips",
+     "votes": 3790,
+     "party": null,
+     "pct": 49.8487439168749,
+     "choice_id": "Dustin Phillips",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "103",
+   "state": "TX",
+   "title": "City of Benbrook Member of the Council, Place 6",
+   "office_type": "local",
+   "district": "6",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 13,
+    "units_total": 13,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Whitney Hughes",
+     "votes": 4156,
+     "party": null,
+     "pct": 54.440660204349,
+     "choice_id": "Whitney Hughes",
+     "party_lines": null
+    },
+    {
+     "name": "Laura Mackey",
+     "votes": 3478,
+     "party": null,
+     "pct": 45.559339795651,
+     "choice_id": "Laura Mackey",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "104",
+   "state": "TX",
+   "title": "Town of Flower Mound Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 307,
+     "party": null,
+     "pct": 75.0611246943765,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 102,
+     "party": null,
+     "pct": 24.9388753056235,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "105",
+   "state": "TX",
+   "title": "City of Forest Hill City Council, Council Member Place 2 (Unexpired Term)",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 7,
+    "units_total": 7,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Timey Boardingham",
+     "votes": 1359,
+     "party": null,
+     "pct": 37.5621890547264,
+     "choice_id": "Timey Boardingham",
+     "party_lines": null
+    },
+    {
+     "name": "Carlie Jones",
+     "votes": 2259,
+     "party": null,
+     "pct": 62.4378109452736,
+     "choice_id": "Carlie Jones",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "106",
+   "state": "TX",
+   "title": "City of Forest Hill Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 7,
+    "units_total": 7,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2725,
+     "party": null,
+     "pct": 74.5554035567716,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 930,
+     "party": null,
+     "pct": 25.4445964432285,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "107",
+   "state": "TX",
+   "title": "City of Forest Hill Proposition B",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 7,
+    "units_total": 7,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2145,
+     "party": null,
+     "pct": 60.4225352112676,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 1405,
+     "party": null,
+     "pct": 39.5774647887324,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "108",
+   "state": "TX",
+   "title": "City of Forest Hill Proposition C",
+   "office_type": "measure",
+   "district": "c",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 7,
+    "units_total": 7,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2806,
+     "party": null,
+     "pct": 81.1686433323691,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 651,
+     "party": null,
+     "pct": 18.8313566676309,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "109",
+   "state": "TX",
+   "title": "City of Forest Hill Proposition D",
+   "office_type": "measure",
+   "district": "d",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 7,
+    "units_total": 7,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1830,
+     "party": null,
+     "pct": 53.2596041909197,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 1606,
+     "party": null,
+     "pct": 46.7403958090803,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "110",
+   "state": "TX",
+   "title": "City of Forest Hill Proposition E",
+   "office_type": "measure",
+   "district": "e",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 7,
+    "units_total": 7,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 3212,
+     "party": null,
+     "pct": 91.3018760659466,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 306,
+     "party": null,
+     "pct": 8.69812393405344,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "111",
+   "state": "TX",
+   "title": "City of North Richland Hills Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 24,
+    "units_total": 28,
+    "pct": 85.7,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 15778,
+     "party": null,
+     "pct": 55.7999717074551,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 12498,
+     "party": null,
+     "pct": 44.2000282925449,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "112",
+   "state": "TX",
+   "title": "City of North Richland Hills Proposition B",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 24,
+    "units_total": 28,
+    "pct": 85.7,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 16513,
+     "party": null,
+     "pct": 58.4406851642129,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 11743,
+     "party": null,
+     "pct": 41.5593148357871,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "113",
+   "state": "TX",
+   "title": "City of North Richland Hills Proposition C",
+   "office_type": "measure",
+   "district": "c",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 24,
+    "units_total": 28,
+    "pct": 85.7,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 14696,
+     "party": null,
+     "pct": 52.425799086758,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 13336,
+     "party": null,
+     "pct": 47.574200913242,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "114",
+   "state": "TX",
+   "title": "City of North Richland Hills Proposition D",
+   "office_type": "measure",
+   "district": "d",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 24,
+    "units_total": 28,
+    "pct": 85.7,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 13684,
+     "party": null,
+     "pct": 48.939594435106,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 14277,
+     "party": null,
+     "pct": 51.060405564894,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "115",
+   "state": "TX",
+   "title": "City of River Oaks City Council Member Place 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Susan Stewart",
+     "votes": 748,
+     "party": null,
+     "pct": 44.6567164179104,
+     "choice_id": "Susan Stewart",
+     "party_lines": null
+    },
+    {
+     "name": "Brent Forester",
+     "votes": 693,
+     "party": null,
+     "pct": 41.3731343283582,
+     "choice_id": "Brent Forester",
+     "party_lines": null
+    },
+    {
+     "name": "Ann Baffico",
+     "votes": 234,
+     "party": null,
+     "pct": 13.9701492537313,
+     "choice_id": "Ann Baffico",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "116",
+   "state": "TX",
+   "title": "City of River Oaks Mayor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jill Fox",
+     "votes": 1011,
+     "party": null,
+     "pct": 55.8872305140962,
+     "choice_id": "Jill Fox",
+     "party_lines": null
+    },
+    {
+     "name": "Don Istook",
+     "votes": 798,
+     "party": null,
+     "pct": 44.1127694859038,
+     "choice_id": "Don Istook",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "117",
+   "state": "TX",
+   "title": "City of White Settlement Mayor",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Faron Young",
+     "votes": 2964,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Faron Young",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.tarrant",
+   "contest_id": "118",
+   "state": "TX",
+   "title": "City of White Settlement Place 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Tarrant County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 5,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Aaron James",
+     "votes": 1843,
+     "party": null,
+     "pct": 57.5039001560062,
+     "choice_id": "Aaron James",
+     "party_lines": null
+    },
+    {
+     "name": "Don Wagnon",
+     "votes": 785,
+     "party": null,
+     "pct": 24.4929797191888,
+     "choice_id": "Don Wagnon",
+     "party_lines": null
+    },
+    {
+     "name": "David Burke",
+     "votes": 577,
+     "party": null,
+     "pct": 18.003120124805,
+     "choice_id": "David Burke",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "uncontested": false
+  }
+ ],
+ "contests_hash": "579500aa9e084a9e",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-11T19:28:54+00:00",
+ "fetched_at": "2026-11-11T19:28:54+00:00",
+ "contests_changed_at": "2026-11-11T19:28:54+00:00"
 }

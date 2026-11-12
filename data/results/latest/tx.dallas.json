@@ -1,8 +1,3339 @@
 {
  "source": "tx.dallas",
- "contests": [],
- "contests_hash": null,
- "status": "not_published",
- "message": "no 2026-11-03 election listed",
- "last_attempt_at": "2026-11-11T15:55:28+00:00"
+ "contests": [
+  {
+   "source": "tx.dallas",
+   "contest_id": "0007",
+   "state": "TX",
+   "title": "United States Senator",
+   "office_type": "federal_senate",
+   "district": null,
+   "jurisdiction": "Dallas County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 733,
+    "units_total": 914,
+    "pct": 80.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Ken Paxton",
+     "votes": 206616,
+     "party": "REP",
+     "pct": 26.2729170852291,
+     "choice_id": "Ken Paxton",
+     "party_lines": null
+    },
+    {
+     "name": "James Talarico",
+     "votes": 564029,
+     "party": "DEM",
+     "pct": 71.720908112947,
+     "choice_id": "James Talarico",
+     "party_lines": null
+    },
+    {
+     "name": "Ted Brown",
+     "votes": 13745,
+     "party": "LIB",
+     "pct": 1.74778935482476,
+     "choice_id": "Ted Brown",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Votes Cast",
+     "votes": 2032,
+     "party": null,
+     "pct": 0.258385446999194,
+     "choice_id": "Write-In Votes Cast",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0008",
+   "state": "TX",
+   "title": "United States Representative, District 5",
+   "office_type": "federal_house",
+   "district": "5",
+   "jurisdiction": "Dallas County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 111,
+    "units_total": 153,
+    "pct": 72.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Lance Gooden",
+     "votes": 44655,
+     "party": "REP",
+     "pct": 35.9321188322765,
+     "choice_id": "Lance Gooden",
+     "party_lines": null
+    },
+    {
+     "name": "Chelsey Hockett",
+     "votes": 79621,
+     "party": "DEM",
+     "pct": 64.0678811677235,
+     "choice_id": "Chelsey Hockett",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0009",
+   "state": "TX",
+   "title": "United States Representative, District 6",
+   "office_type": "federal_house",
+   "district": "6",
+   "jurisdiction": "Dallas County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 52,
+    "units_total": 59,
+    "pct": 88.1,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jake Ellzey",
+     "votes": 14415,
+     "party": "REP",
+     "pct": 33.3572453371593,
+     "choice_id": "Jake Ellzey",
+     "party_lines": null
+    },
+    {
+     "name": "Danny Minton",
+     "votes": 28799,
+     "party": "DEM",
+     "pct": 66.6427546628407,
+     "choice_id": "Danny Minton",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0010",
+   "state": "TX",
+   "title": "United States Representative, District 24",
+   "office_type": "federal_house",
+   "district": "24",
+   "jurisdiction": "Dallas County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 86,
+    "units_total": 100,
+    "pct": 86.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Beth Van Duyne",
+     "votes": 52031,
+     "party": "REP",
+     "pct": 50.9688099996082,
+     "choice_id": "Beth Van Duyne",
+     "party_lines": null
+    },
+    {
+     "name": "Kevin Burge",
+     "votes": 50053,
+     "party": "DEM",
+     "pct": 49.0311900003918,
+     "choice_id": "Kevin Burge",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0011",
+   "state": "TX",
+   "title": "United States Representative, District 30",
+   "office_type": "federal_house",
+   "district": "30",
+   "jurisdiction": "Dallas County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 150,
+    "units_total": 180,
+    "pct": 83.3,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Everett Jackson",
+     "votes": 21201,
+     "party": "REP",
+     "pct": 13.5544999456567,
+     "choice_id": "Everett Jackson",
+     "party_lines": null
+    },
+    {
+     "name": "Frederick D. Haynes III",
+     "votes": 135212,
+     "party": "DEM",
+     "pct": 86.4455000543433,
+     "choice_id": "Frederick D. Haynes III",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0012",
+   "state": "TX",
+   "title": "United States Representative, District 32",
+   "office_type": "federal_house",
+   "district": "32",
+   "jurisdiction": "Dallas County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 115,
+    "units_total": 136,
+    "pct": 84.6,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jace Yarbrough",
+     "votes": 58106,
+     "party": "REP",
+     "pct": 37.7819536649913,
+     "choice_id": "Jace Yarbrough",
+     "party_lines": null
+    },
+    {
+     "name": "Dan Barrios",
+     "votes": 95687,
+     "party": "DEM",
+     "pct": 62.2180463350087,
+     "choice_id": "Dan Barrios",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0013",
+   "state": "TX",
+   "title": "United States Representative, District 33",
+   "office_type": "federal_house",
+   "district": "33",
+   "jurisdiction": "Dallas County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 219,
+    "units_total": 286,
+    "pct": 76.6,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Patrick David Gillespie",
+     "votes": 41198,
+     "party": "REP",
+     "pct": 21.3861159993563,
+     "choice_id": "Patrick David Gillespie",
+     "party_lines": null
+    },
+    {
+     "name": "Colin Allred",
+     "votes": 151093,
+     "party": "DEM",
+     "pct": 78.4332352223589,
+     "choice_id": "Colin Allred",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Votes Cast",
+     "votes": 348,
+     "party": null,
+     "pct": 0.180648778284771,
+     "choice_id": "Write-In Votes Cast",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0014",
+   "state": "TX",
+   "title": "Governor",
+   "office_type": "governor",
+   "district": null,
+   "jurisdiction": "Dallas County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 733,
+    "units_total": 914,
+    "pct": 80.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Greg Abbott",
+     "votes": 232067,
+     "party": "REP",
+     "pct": 29.5246128557834,
+     "choice_id": "Greg Abbott",
+     "party_lines": null
+    },
+    {
+     "name": "Gina Hinojosa",
+     "votes": 540468,
+     "party": "DEM",
+     "pct": 68.7607822781332,
+     "choice_id": "Gina Hinojosa",
+     "party_lines": null
+    },
+    {
+     "name": "Pat Dixon",
+     "votes": 12692,
+     "party": "LIB",
+     "pct": 1.61473361729846,
+     "choice_id": "Pat Dixon",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Votes Cast",
+     "votes": 785,
+     "party": null,
+     "pct": 0.0998712487850058,
+     "choice_id": "Write-In Votes Cast",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0015",
+   "state": "TX",
+   "title": "Lieutenant Governor",
+   "office_type": "lt_governor",
+   "district": null,
+   "jurisdiction": "Dallas County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 733,
+    "units_total": 914,
+    "pct": 80.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Dan Patrick",
+     "votes": 227603,
+     "party": "REP",
+     "pct": 29.1380325686194,
+     "choice_id": "Dan Patrick",
+     "party_lines": null
+    },
+    {
+     "name": "Vikki Goodwin",
+     "votes": 532778,
+     "party": "DEM",
+     "pct": 68.2069336337567,
+     "choice_id": "Vikki Goodwin",
+     "party_lines": null
+    },
+    {
+     "name": "Anthony Cristo",
+     "votes": 13388,
+     "party": "LIB",
+     "pct": 1.71394920114707,
+     "choice_id": "Anthony Cristo",
+     "party_lines": null
+    },
+    {
+     "name": "Kevin McCormick",
+     "votes": 6873,
+     "party": "GRN",
+     "pct": 0.87989041376485,
+     "choice_id": "Kevin McCormick",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Votes Cast",
+     "votes": 478,
+     "party": null,
+     "pct": 0.0611941827120033,
+     "choice_id": "Write-In Votes Cast",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0016",
+   "state": "TX",
+   "title": "Attorney General",
+   "office_type": "attorney_general",
+   "district": null,
+   "jurisdiction": "Dallas County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 733,
+    "units_total": 914,
+    "pct": 80.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Mayes Middleton",
+     "votes": 224553,
+     "party": "REP",
+     "pct": 28.8421671860028,
+     "choice_id": "Mayes Middleton",
+     "party_lines": null
+    },
+    {
+     "name": "Nathan Johnson",
+     "votes": 542111,
+     "party": "DEM",
+     "pct": 69.6301367399731,
+     "choice_id": "Nathan Johnson",
+     "party_lines": null
+    },
+    {
+     "name": "Tom Oxford",
+     "votes": 11894,
+     "party": "LIB",
+     "pct": 1.52769607402403,
+     "choice_id": "Tom Oxford",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0017",
+   "state": "TX",
+   "title": "Comptroller of Public Accounts",
+   "office_type": "controller",
+   "district": null,
+   "jurisdiction": "Dallas County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 733,
+    "units_total": 914,
+    "pct": 80.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Don Huffines",
+     "votes": 229258,
+     "party": "REP",
+     "pct": 29.4652232531299,
+     "choice_id": "Don Huffines",
+     "party_lines": null
+    },
+    {
+     "name": "Sarah Eckhardt",
+     "votes": 525930,
+     "party": "DEM",
+     "pct": 67.5947834558384,
+     "choice_id": "Sarah Eckhardt",
+     "party_lines": null
+    },
+    {
+     "name": "V. Alonzo Echavarria-Garza",
+     "votes": 17171,
+     "party": "LIB",
+     "pct": 2.20689070165269,
+     "choice_id": "V. Alonzo Echavarria-Garza",
+     "party_lines": null
+    },
+    {
+     "name": "Shehla Faizi",
+     "votes": 5704,
+     "party": "GRN",
+     "pct": 0.733102589379009,
+     "choice_id": "Shehla Faizi",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0018",
+   "state": "TX",
+   "title": "Commissioner of the General Land Office",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 733,
+    "units_total": 914,
+    "pct": 80.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Dawn Buckingham",
+     "votes": 235661,
+     "party": "REP",
+     "pct": 30.331201517712,
+     "choice_id": "Dawn Buckingham",
+     "party_lines": null
+    },
+    {
+     "name": "Benjamin Flores",
+     "votes": 529253,
+     "party": "DEM",
+     "pct": 68.1185236286599,
+     "choice_id": "Benjamin Flores",
+     "party_lines": null
+    },
+    {
+     "name": "Neill Snider",
+     "votes": 12045,
+     "party": "LIB",
+     "pct": 1.55027485362806,
+     "choice_id": "Neill Snider",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0019",
+   "state": "TX",
+   "title": "Commissioner of Agriculture",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 733,
+    "units_total": 914,
+    "pct": 80.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Nate Sheets",
+     "votes": 233815,
+     "party": "REP",
+     "pct": 30.1608821169569,
+     "choice_id": "Nate Sheets",
+     "party_lines": null
+    },
+    {
+     "name": "Clayton Tucker",
+     "votes": 526406,
+     "party": "DEM",
+     "pct": 67.9035532863965,
+     "choice_id": "Clayton Tucker",
+     "party_lines": null
+    },
+    {
+     "name": "Austin R. Kelly",
+     "votes": 15005,
+     "party": "LIB",
+     "pct": 1.93556459664666,
+     "choice_id": "Austin R. Kelly",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0020",
+   "state": "TX",
+   "title": "Railroad Commissioner",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 733,
+    "units_total": 914,
+    "pct": 80.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Bo French",
+     "votes": 219211,
+     "party": "REP",
+     "pct": 28.2896706586826,
+     "choice_id": "Bo French",
+     "party_lines": null
+    },
+    {
+     "name": "Jon Rosenthal",
+     "votes": 539843,
+     "party": "DEM",
+     "pct": 69.6679485855874,
+     "choice_id": "Jon Rosenthal",
+     "party_lines": null
+    },
+    {
+     "name": "Arthur DiBianca",
+     "votes": 15826,
+     "party": "LIB",
+     "pct": 2.04238075572992,
+     "choice_id": "Arthur DiBianca",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0021",
+   "state": "TX",
+   "title": "Chief Justice, Supreme Court",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 733,
+    "units_total": 914,
+    "pct": 80.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jimmy Blacklock",
+     "votes": 240997,
+     "party": "REP",
+     "pct": 31.1056987382029,
+     "choice_id": "Jimmy Blacklock",
+     "party_lines": null
+    },
+    {
+     "name": "Maggie Ellis",
+     "votes": 533771,
+     "party": "DEM",
+     "pct": 68.8943012617971,
+     "choice_id": "Maggie Ellis",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0022",
+   "state": "TX",
+   "title": "Justice, Supreme Court, Place 2 - Unexpired Term",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 733,
+    "units_total": 914,
+    "pct": 80.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "James P. Sullivan",
+     "votes": 236201,
+     "party": "REP",
+     "pct": 30.6016925436869,
+     "choice_id": "James P. Sullivan",
+     "party_lines": null
+    },
+    {
+     "name": "Chari Kelly",
+     "votes": 535655,
+     "party": "DEM",
+     "pct": 69.3983074563131,
+     "choice_id": "Chari Kelly",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0023",
+   "state": "TX",
+   "title": "Justice, Supreme Court, Place 7",
+   "office_type": "judicial",
+   "district": "7",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 733,
+    "units_total": 914,
+    "pct": 80.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Kyle Hawkins",
+     "votes": 231482,
+     "party": "REP",
+     "pct": 30.0473786004491,
+     "choice_id": "Kyle Hawkins",
+     "party_lines": null
+    },
+    {
+     "name": "Kristen Hawkins",
+     "votes": 538908,
+     "party": "DEM",
+     "pct": 69.9526213995509,
+     "choice_id": "Kristen Hawkins",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0024",
+   "state": "TX",
+   "title": "Justice, Supreme Court, Place 8",
+   "office_type": "judicial",
+   "district": "8",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 733,
+    "units_total": 914,
+    "pct": 80.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Brett Busby",
+     "votes": 238846,
+     "party": "REP",
+     "pct": 30.990747384524,
+     "choice_id": "Brett Busby",
+     "party_lines": null
+    },
+    {
+     "name": "Gisela D. Triana",
+     "votes": 531855,
+     "party": "DEM",
+     "pct": 69.009252615476,
+     "choice_id": "Gisela D. Triana",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0025",
+   "state": "TX",
+   "title": "Judge, Court of Criminal Appeals, Place 3",
+   "office_type": "judicial",
+   "district": "3",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 733,
+    "units_total": 914,
+    "pct": 80.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Thomas Smith",
+     "votes": 233531,
+     "party": "REP",
+     "pct": 30.305716184089,
+     "choice_id": "Thomas Smith",
+     "party_lines": null
+    },
+    {
+     "name": "Okey Anyiam",
+     "votes": 517350,
+     "party": "DEM",
+     "pct": 67.1373919001692,
+     "choice_id": "Okey Anyiam",
+     "party_lines": null
+    },
+    {
+     "name": "Mark Ash",
+     "votes": 19703,
+     "party": "LIB",
+     "pct": 2.55689191574183,
+     "choice_id": "Mark Ash",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0026",
+   "state": "TX",
+   "title": "Judge, Court of Criminal Appeals, Place 4",
+   "office_type": "judicial",
+   "district": "4",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 733,
+    "units_total": 914,
+    "pct": 80.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Kevin Patrick Yeary",
+     "votes": 238900,
+     "party": "REP",
+     "pct": 31.022025768149,
+     "choice_id": "Kevin Patrick Yeary",
+     "party_lines": null
+    },
+    {
+     "name": "Audra Riley",
+     "votes": 531198,
+     "party": "DEM",
+     "pct": 68.977974231851,
+     "choice_id": "Audra Riley",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0027",
+   "state": "TX",
+   "title": "Judge, Court of Criminal Appeals, Place 9",
+   "office_type": "judicial",
+   "district": "9",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 733,
+    "units_total": 914,
+    "pct": 80.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "John Messinger",
+     "votes": 233230,
+     "party": "REP",
+     "pct": 30.3279733064942,
+     "choice_id": "John Messinger",
+     "party_lines": null
+    },
+    {
+     "name": "Holly Taylor",
+     "votes": 535796,
+     "party": "DEM",
+     "pct": 69.6720266935058,
+     "choice_id": "Holly Taylor",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0028",
+   "state": "TX",
+   "title": "Member, State Board of Education, District 9",
+   "office_type": "local",
+   "district": "9",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 170,
+    "units_total": 230,
+    "pct": 73.9,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Kason Huddleston",
+     "votes": 76314,
+     "party": "REP",
+     "pct": 36.5168458678457,
+     "choice_id": "Kason Huddleston",
+     "party_lines": null
+    },
+    {
+     "name": "Ericka Ledferd",
+     "votes": 132669,
+     "party": "DEM",
+     "pct": 63.4831541321543,
+     "choice_id": "Ericka Ledferd",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0029",
+   "state": "TX",
+   "title": "Member, State Board of Education, District 13",
+   "office_type": "local",
+   "district": "13",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 384,
+    "units_total": 483,
+    "pct": 79.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Carlos (Charlie) Garza",
+     "votes": 69487,
+     "party": "REP",
+     "pct": 19.6366400651098,
+     "choice_id": "Carlos (Charlie) Garza",
+     "party_lines": null
+    },
+    {
+     "name": "Tiffany Clark",
+     "votes": 284377,
+     "party": "DEM",
+     "pct": 80.3633599348902,
+     "choice_id": "Tiffany Clark",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0030",
+   "state": "TX",
+   "title": "Member, State Board of Education, District 14",
+   "office_type": "local",
+   "district": "14",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 35,
+    "units_total": 39,
+    "pct": 89.7,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Mindy Bumgarner",
+     "votes": 17626,
+     "party": "REP",
+     "pct": 36.395548121993,
+     "choice_id": "Mindy Bumgarner",
+     "party_lines": null
+    },
+    {
+     "name": "Amy Taylor",
+     "votes": 30803,
+     "party": "DEM",
+     "pct": 63.604451878007,
+     "choice_id": "Amy Taylor",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0031",
+   "state": "TX",
+   "title": "State Senator, District 2",
+   "office_type": "state_senate",
+   "district": "2",
+   "jurisdiction": "Dallas County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 100,
+    "units_total": 138,
+    "pct": 72.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Bob Hall",
+     "votes": 55263,
+     "party": "REP",
+     "pct": 39.7438294689604,
+     "choice_id": "Bob Hall",
+     "party_lines": null
+    },
+    {
+     "name": "Keenen Colbert",
+     "votes": 83785,
+     "party": "DEM",
+     "pct": 60.2561705310396,
+     "choice_id": "Keenen Colbert",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0032",
+   "state": "TX",
+   "title": "State Representative, District 100",
+   "office_type": "state_house",
+   "district": "100",
+   "jurisdiction": "Dallas County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 56,
+    "units_total": 70,
+    "pct": 80.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jordan Scott Hoffnagle",
+     "votes": 4822,
+     "party": "REP",
+     "pct": 12.4188729782631,
+     "choice_id": "Jordan Scott Hoffnagle",
+     "party_lines": null
+    },
+    {
+     "name": "Venton Jones",
+     "votes": 34006,
+     "party": "DEM",
+     "pct": 87.5811270217369,
+     "choice_id": "Venton Jones",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0033",
+   "state": "TX",
+   "title": "State Representative, District 102",
+   "office_type": "state_house",
+   "district": "102",
+   "jurisdiction": "Dallas County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 43,
+    "units_total": 50,
+    "pct": 86.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Bonnie Abadie",
+     "votes": 14250,
+     "party": "REP",
+     "pct": 31.1325701302106,
+     "choice_id": "Bonnie Abadie",
+     "party_lines": null
+    },
+    {
+     "name": "Ana-Maria Rodriguez Ramos",
+     "votes": 31522,
+     "party": "DEM",
+     "pct": 68.8674298697894,
+     "choice_id": "Ana-Maria Rodriguez Ramos",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0034",
+   "state": "TX",
+   "title": "State Representative, District 103",
+   "office_type": "state_house",
+   "district": "103",
+   "jurisdiction": "Dallas County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 63,
+    "units_total": 81,
+    "pct": 77.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Melanie Medley-Thomas",
+     "votes": 10836,
+     "party": "REP",
+     "pct": 22.2404663191166,
+     "choice_id": "Melanie Medley-Thomas",
+     "party_lines": null
+    },
+    {
+     "name": "Rafael Anchia",
+     "votes": 37886,
+     "party": "DEM",
+     "pct": 77.7595336808834,
+     "choice_id": "Rafael Anchia",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0035",
+   "state": "TX",
+   "title": "State Representative, District 104",
+   "office_type": "state_house",
+   "district": "104",
+   "jurisdiction": "Dallas County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 54,
+    "units_total": 67,
+    "pct": 80.6,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jessica Gonzalez",
+     "votes": 35234,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "Jessica Gonzalez",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0036",
+   "state": "TX",
+   "title": "State Representative, District 105",
+   "office_type": "state_house",
+   "district": "105",
+   "jurisdiction": "Dallas County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 46,
+    "units_total": 52,
+    "pct": 88.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Terry Meza",
+     "votes": 30307,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "Terry Meza",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0037",
+   "state": "TX",
+   "title": "State Representative, District 107",
+   "office_type": "state_house",
+   "district": "107",
+   "jurisdiction": "Dallas County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 43,
+    "units_total": 59,
+    "pct": 72.9,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Linda Garcia",
+     "votes": 31564,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "Linda Garcia",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0038",
+   "state": "TX",
+   "title": "State Representative, District 108",
+   "office_type": "state_house",
+   "district": "108",
+   "jurisdiction": "Dallas County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 79,
+    "units_total": 90,
+    "pct": 87.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Morgan Meyer",
+     "votes": 51850,
+     "party": "REP",
+     "pct": 56.0431483603191,
+     "choice_id": "Morgan Meyer",
+     "party_lines": null
+    },
+    {
+     "name": "Allison Mitchell",
+     "votes": 40668,
+     "party": "DEM",
+     "pct": 43.9568516396809,
+     "choice_id": "Allison Mitchell",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0039",
+   "state": "TX",
+   "title": "State Representative, District 109",
+   "office_type": "state_house",
+   "district": "109",
+   "jurisdiction": "Dallas County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 43,
+    "units_total": 61,
+    "pct": 70.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Will Campbell",
+     "votes": 10375,
+     "party": "REP",
+     "pct": 16.0735588021132,
+     "choice_id": "Will Campbell",
+     "party_lines": null
+    },
+    {
+     "name": "Aicha Davis",
+     "votes": 54172,
+     "party": "DEM",
+     "pct": 83.9264411978868,
+     "choice_id": "Aicha Davis",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0040",
+   "state": "TX",
+   "title": "State Representative, District 110",
+   "office_type": "state_house",
+   "district": "110",
+   "jurisdiction": "Dallas County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 58,
+    "units_total": 68,
+    "pct": 85.3,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Toni Rose",
+     "votes": 32350,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "Toni Rose",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0041",
+   "state": "TX",
+   "title": "State Representative, District 111",
+   "office_type": "state_house",
+   "district": "111",
+   "jurisdiction": "Dallas County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 49,
+    "units_total": 61,
+    "pct": 80.3,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yvonne Davis",
+     "votes": 52018,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "Yvonne Davis",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0042",
+   "state": "TX",
+   "title": "State Representative, District 112",
+   "office_type": "state_house",
+   "district": "112",
+   "jurisdiction": "Dallas County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 56,
+    "units_total": 75,
+    "pct": 74.7,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Angie Chen Button",
+     "votes": 37535,
+     "party": "REP",
+     "pct": 46.4294991526787,
+     "choice_id": "Angie Chen Button",
+     "party_lines": null
+    },
+    {
+     "name": "Zach Herbert",
+     "votes": 43308,
+     "party": "DEM",
+     "pct": 53.5705008473213,
+     "choice_id": "Zach Herbert",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0043",
+   "state": "TX",
+   "title": "State Representative, District 113",
+   "office_type": "state_house",
+   "district": "113",
+   "jurisdiction": "Dallas County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 39,
+    "units_total": 56,
+    "pct": 69.6,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Stephen W. Stanley",
+     "votes": 18275,
+     "party": "REP",
+     "pct": 32.6806151645207,
+     "choice_id": "Stephen W. Stanley",
+     "party_lines": null
+    },
+    {
+     "name": "Rhetta Andrews Bowers",
+     "votes": 37645,
+     "party": "DEM",
+     "pct": 67.3193848354793,
+     "choice_id": "Rhetta Andrews Bowers",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0044",
+   "state": "TX",
+   "title": "State Representative, District 114",
+   "office_type": "state_house",
+   "district": "114",
+   "jurisdiction": "Dallas County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 59,
+    "units_total": 69,
+    "pct": 85.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Tim McDonough",
+     "votes": 18628,
+     "party": "REP",
+     "pct": 29.7500598898028,
+     "choice_id": "Tim McDonough",
+     "party_lines": null
+    },
+    {
+     "name": "John Bryant",
+     "votes": 43987,
+     "party": "DEM",
+     "pct": 70.2499401101972,
+     "choice_id": "John Bryant",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0045",
+   "state": "TX",
+   "title": "State Representative, District 115",
+   "office_type": "state_house",
+   "district": "115",
+   "jurisdiction": "Dallas County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 45,
+    "units_total": 55,
+    "pct": 81.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Danny Rosellini",
+     "votes": 22207,
+     "party": "REP",
+     "pct": 35.4886136636037,
+     "choice_id": "Danny Rosellini",
+     "party_lines": null
+    },
+    {
+     "name": "Cassandra Hernandez",
+     "votes": 40368,
+     "party": "DEM",
+     "pct": 64.5113863363963,
+     "choice_id": "Cassandra Hernandez",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0046",
+   "state": "TX",
+   "title": "Chief Justice, 15th Court of Appeals District",
+   "office_type": "judicial",
+   "district": "15",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 733,
+    "units_total": 914,
+    "pct": 80.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Scott Brister",
+     "votes": 236409,
+     "party": "REP",
+     "pct": 30.8733938676073,
+     "choice_id": "Scott Brister",
+     "party_lines": null
+    },
+    {
+     "name": "Jerry Zimmerer",
+     "votes": 529328,
+     "party": "DEM",
+     "pct": 69.1266061323927,
+     "choice_id": "Jerry Zimmerer",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0047",
+   "state": "TX",
+   "title": "Justice, 15th Court of Appeals District, Place 2",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 733,
+    "units_total": 914,
+    "pct": 80.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Scott K. Field",
+     "votes": 234958,
+     "party": "REP",
+     "pct": 30.6194842496494,
+     "choice_id": "Scott K. Field",
+     "party_lines": null
+    },
+    {
+     "name": "Tom Baker",
+     "votes": 532390,
+     "party": "DEM",
+     "pct": 69.3805157503506,
+     "choice_id": "Tom Baker",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0048",
+   "state": "TX",
+   "title": "Justice, 15th Court of Appeals District, Place 3",
+   "office_type": "judicial",
+   "district": "3",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 733,
+    "units_total": 914,
+    "pct": 80.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "April Farris",
+     "votes": 238053,
+     "party": "REP",
+     "pct": 31.0272692437027,
+     "choice_id": "April Farris",
+     "party_lines": null
+    },
+    {
+     "name": "Marc M. Meyer",
+     "votes": 529185,
+     "party": "DEM",
+     "pct": 68.9727307562973,
+     "choice_id": "Marc M. Meyer",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0049",
+   "state": "TX",
+   "title": "Justice, 5th Court of Appeals District, Place 3",
+   "office_type": "judicial",
+   "district": "3",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 733,
+    "units_total": 914,
+    "pct": 80.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Matthew Kolodoski",
+     "votes": 231400,
+     "party": "REP",
+     "pct": 30.2085617904774,
+     "choice_id": "Matthew Kolodoski",
+     "party_lines": null
+    },
+    {
+     "name": "Amanda Reichek",
+     "votes": 534608,
+     "party": "DEM",
+     "pct": 69.7914382095226,
+     "choice_id": "Amanda Reichek",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0050",
+   "state": "TX",
+   "title": "Justice, 5th Court of Appeals District, Place 6",
+   "office_type": "judicial",
+   "district": "6",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 733,
+    "units_total": 914,
+    "pct": 80.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Ben Smith",
+     "votes": 235165,
+     "party": "REP",
+     "pct": 30.7001110955905,
+     "choice_id": "Ben Smith",
+     "party_lines": null
+    },
+    {
+     "name": "Monica Purdy",
+     "votes": 530842,
+     "party": "DEM",
+     "pct": 69.2998889044095,
+     "choice_id": "Monica Purdy",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0051",
+   "state": "TX",
+   "title": "Justice, 5th Court of Appeals District, Place 8",
+   "office_type": "judicial",
+   "district": "8",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 733,
+    "units_total": 914,
+    "pct": 80.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Ashley Wysocki",
+     "votes": 237315,
+     "party": "REP",
+     "pct": 30.9838210180538,
+     "choice_id": "Ashley Wysocki",
+     "party_lines": null
+    },
+    {
+     "name": "Andrea D. Plumlee",
+     "votes": 528617,
+     "party": "DEM",
+     "pct": 69.0161789819462,
+     "choice_id": "Andrea D. Plumlee",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0052",
+   "state": "TX",
+   "title": "District Judge, 298th Judicial District",
+   "office_type": "judicial",
+   "district": "298",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 733,
+    "units_total": 914,
+    "pct": 80.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Clark B. Will",
+     "votes": 232762,
+     "party": "REP",
+     "pct": 30.3988277301376,
+     "choice_id": "Clark B. Will",
+     "party_lines": null
+    },
+    {
+     "name": "Ashley Smith",
+     "votes": 532932,
+     "party": "DEM",
+     "pct": 69.6011722698624,
+     "choice_id": "Ashley Smith",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0053",
+   "state": "TX",
+   "title": "Criminal District Attorney",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 733,
+    "units_total": 914,
+    "pct": 80.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Amber Givens",
+     "votes": 593230,
+     "party": "DEM",
+     "pct": 95.482514803709,
+     "choice_id": "Amber Givens",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Votes Cast",
+     "votes": 28067,
+     "party": null,
+     "pct": 4.51748519629098,
+     "choice_id": "Write-In Votes Cast",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0054",
+   "state": "TX",
+   "title": "County Judge",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 733,
+    "units_total": 914,
+    "pct": 80.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Mike Immler",
+     "votes": 229699,
+     "party": "REP",
+     "pct": 29.867461748808,
+     "choice_id": "Mike Immler",
+     "party_lines": null
+    },
+    {
+     "name": "Clay Jenkins",
+     "votes": 539362,
+     "party": "DEM",
+     "pct": 70.132538251192,
+     "choice_id": "Clay Jenkins",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0055",
+   "state": "TX",
+   "title": "District Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 733,
+    "units_total": 914,
+    "pct": 80.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Dave Muehlhaeusler",
+     "votes": 232604,
+     "party": "REP",
+     "pct": 30.4408481412557,
+     "choice_id": "Dave Muehlhaeusler",
+     "party_lines": null
+    },
+    {
+     "name": "Felicia Pitre",
+     "votes": 531514,
+     "party": "DEM",
+     "pct": 69.5591518587443,
+     "choice_id": "Felicia Pitre",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0056",
+   "state": "TX",
+   "title": "County Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 733,
+    "units_total": 914,
+    "pct": 80.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Skye Garcia",
+     "votes": 238033,
+     "party": "REP",
+     "pct": 31.127143290546,
+     "choice_id": "Skye Garcia",
+     "party_lines": null
+    },
+    {
+     "name": "Damarcus L Offord",
+     "votes": 526679,
+     "party": "DEM",
+     "pct": 68.872856709454,
+     "choice_id": "Damarcus L Offord",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0057",
+   "state": "TX",
+   "title": "County Treasurer",
+   "office_type": "treasurer",
+   "district": null,
+   "jurisdiction": "Dallas County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 733,
+    "units_total": 914,
+    "pct": 80.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Corsandra Brigham Phelps",
+     "votes": 233518,
+     "party": "REP",
+     "pct": 30.5208401406334,
+     "choice_id": "Corsandra Brigham Phelps",
+     "party_lines": null
+    },
+    {
+     "name": "Pauline Medrano",
+     "votes": 531592,
+     "party": "DEM",
+     "pct": 69.4791598593666,
+     "choice_id": "Pauline Medrano",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0058",
+   "state": "TX",
+   "title": "County Commissioner, Precinct No. 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 201,
+    "units_total": 231,
+    "pct": 87.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Barry Wernick",
+     "votes": 93915,
+     "party": "REP",
+     "pct": 40.387468553121,
+     "choice_id": "Barry Wernick",
+     "party_lines": null
+    },
+    {
+     "name": "Andy Sommerman",
+     "votes": 138620,
+     "party": "DEM",
+     "pct": 59.612531446879,
+     "choice_id": "Andy Sommerman",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0059",
+   "state": "TX",
+   "title": "County Commissioner, Precinct No. 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 185,
+    "units_total": 223,
+    "pct": 83.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Elba Garcia",
+     "votes": 122606,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "Elba Garcia",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0060",
+   "state": "TX",
+   "title": "Justice of the Peace, Precinct No. 1, Place 1",
+   "office_type": "judicial",
+   "district": "1",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 139,
+    "units_total": 175,
+    "pct": 79.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Lizbeth Diaz",
+     "votes": 20207,
+     "party": "REP",
+     "pct": 15.470658040807,
+     "choice_id": "Lizbeth Diaz",
+     "party_lines": null
+    },
+    {
+     "name": "Thomas G. Jones",
+     "votes": 110408,
+     "party": "DEM",
+     "pct": 84.529341959193,
+     "choice_id": "Thomas G. Jones",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0061",
+   "state": "TX",
+   "title": "Justice of the Peace, Precinct No. 1, Place 2",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 139,
+    "units_total": 175,
+    "pct": 79.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Valencia Nash",
+     "votes": 117338,
+     "party": "DEM",
+     "pct": 98.821765751198,
+     "choice_id": "Valencia Nash",
+     "party_lines": null
+    },
+    {
+     "name": "Write-In Votes Cast",
+     "votes": 1399,
+     "party": null,
+     "pct": 1.17823424880197,
+     "choice_id": "Write-In Votes Cast",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0062",
+   "state": "TX",
+   "title": "Justice of the Peace, Precinct No. 2, Place 1",
+   "office_type": "judicial",
+   "district": "1",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 127,
+    "units_total": 190,
+    "pct": 66.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Vickie Whiteside",
+     "votes": 55961,
+     "party": "REP",
+     "pct": 36.0429467609589,
+     "choice_id": "Vickie Whiteside",
+     "party_lines": null
+    },
+    {
+     "name": "Margaret O'Brien",
+     "votes": 99301,
+     "party": "DEM",
+     "pct": 63.9570532390411,
+     "choice_id": "Margaret O'Brien",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0063",
+   "state": "TX",
+   "title": "Justice of the Peace, Precinct No. 2, Place 2",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 127,
+    "units_total": 190,
+    "pct": 66.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Antoinette N Harris",
+     "votes": 114547,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "Antoinette N Harris",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0064",
+   "state": "TX",
+   "title": "Justice of the Peace, Precinct No. 3, Place 1",
+   "office_type": "judicial",
+   "district": "1",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 159,
+    "units_total": 186,
+    "pct": 85.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Lynn A. Benedetto",
+     "votes": 76697,
+     "party": "REP",
+     "pct": 42.1254696047631,
+     "choice_id": "Lynn A. Benedetto",
+     "party_lines": null
+    },
+    {
+     "name": "Adam M. Swartz",
+     "votes": 105371,
+     "party": "DEM",
+     "pct": 57.8745303952369,
+     "choice_id": "Adam M. Swartz",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0065",
+   "state": "TX",
+   "title": "Justice of the Peace, Precinct No. 3, Place 2",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 159,
+    "units_total": 186,
+    "pct": 85.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Michael L. Geller",
+     "votes": 76682,
+     "party": "REP",
+     "pct": 42.0754023341692,
+     "choice_id": "Michael L. Geller",
+     "party_lines": null
+    },
+    {
+     "name": "Paula M Rosales",
+     "votes": 105567,
+     "party": "DEM",
+     "pct": 57.9245976658308,
+     "choice_id": "Paula M Rosales",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0066",
+   "state": "TX",
+   "title": "Justice of the Peace, Precinct No. 4, Place 1",
+   "office_type": "judicial",
+   "district": "1",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 137,
+    "units_total": 163,
+    "pct": 84.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Fred Van Liew",
+     "votes": 45018,
+     "party": "REP",
+     "pct": 29.3410675878251,
+     "choice_id": "Fred Van Liew",
+     "party_lines": null
+    },
+    {
+     "name": "Mike Jones",
+     "votes": 108412,
+     "party": "DEM",
+     "pct": 70.6589324121749,
+     "choice_id": "Mike Jones",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0067",
+   "state": "TX",
+   "title": "Justice of the Peace, Precinct No. 4, Place 2",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 137,
+    "units_total": 163,
+    "pct": 84.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Sasha Moreno",
+     "votes": 119166,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "Sasha Moreno",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0068",
+   "state": "TX",
+   "title": "Justice of the Peace, Precinct No. 5, Place 1",
+   "office_type": "judicial",
+   "district": "1",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 171,
+    "units_total": 200,
+    "pct": 85.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Sara Martinez",
+     "votes": 116877,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "Sara Martinez",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0069",
+   "state": "TX",
+   "title": "Justice of the Peace, Precinct No. 5, Place 2",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 171,
+    "units_total": 200,
+    "pct": 85.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Omar Narvaez",
+     "votes": 116560,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "Omar Narvaez",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0070",
+   "state": "TX",
+   "title": "Constable, Precinct No. 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 139,
+    "units_total": 175,
+    "pct": 79.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Tracey Gulley",
+     "votes": 118391,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "Tracey Gulley",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0071",
+   "state": "TX",
+   "title": "Constable, Precinct No. 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 127,
+    "units_total": 190,
+    "pct": 66.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Chad Calvert",
+     "votes": 55263,
+     "party": "REP",
+     "pct": 35.6342369296639,
+     "choice_id": "Chad Calvert",
+     "party_lines": null
+    },
+    {
+     "name": "Deanna Hammond",
+     "votes": 99821,
+     "party": "DEM",
+     "pct": 64.3657630703361,
+     "choice_id": "Deanna Hammond",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0072",
+   "state": "TX",
+   "title": "Constable, Precinct No. 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 159,
+    "units_total": 186,
+    "pct": 85.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Henry Curry",
+     "votes": 128974,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "Henry Curry",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0073",
+   "state": "TX",
+   "title": "Constable, Precinct No. 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 137,
+    "units_total": 163,
+    "pct": 84.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Eddie Brown, Jr",
+     "votes": 120727,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "Eddie Brown, Jr",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0074",
+   "state": "TX",
+   "title": "Constable, Precinct No. 5",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 171,
+    "units_total": 200,
+    "pct": 85.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Michael Orozco",
+     "votes": 117406,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "Michael Orozco",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0075",
+   "state": "TX",
+   "title": "DALLAS COUNTY PROPOSITION A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 733,
+    "units_total": 914,
+    "pct": 80.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 338919,
+     "party": null,
+     "pct": 48.1447756826402,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 365039,
+     "party": null,
+     "pct": 51.8552243173598,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0076",
+   "state": "TX",
+   "title": "Uncontested Races",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 733,
+    "units_total": 914,
+    "pct": 80.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 505474,
+     "party": null,
+     "pct": 68.8006163110084,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "Yes",
+     "votes": 229220,
+     "party": null,
+     "pct": 31.1993836889916,
+     "choice_id": "Yes",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0077",
+   "state": "TX",
+   "title": "CITY OF DALLAS PROPOSITION A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 385,
+    "units_total": 482,
+    "pct": 79.9,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 150393,
+     "party": null,
+     "pct": 43.679659840434,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 193916,
+     "party": null,
+     "pct": 56.320340159566,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0078",
+   "state": "TX",
+   "title": "City of Garland Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 48,
+    "units_total": 61,
+    "pct": 78.7,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 34617,
+     "party": null,
+     "pct": 51.0236568649127,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 33228,
+     "party": null,
+     "pct": 48.9763431350873,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0079",
+   "state": "TX",
+   "title": "CITY OF UNIVERSITY PARK PROPOSITION A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 7,
+    "units_total": 8,
+    "pct": 87.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 6830,
+     "party": null,
+     "pct": 61.0420949146483,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 4359,
+     "party": null,
+     "pct": 38.9579050853517,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0080",
+   "state": "TX",
+   "title": "CITY OF WYLIE, TEXAS PROPOSITION A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 242,
+     "party": null,
+     "pct": 47.0817120622568,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 272,
+     "party": null,
+     "pct": 52.9182879377432,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0081",
+   "state": "TX",
+   "title": "CITY OF WYLIE, TEXAS PROPOSITION B",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 220,
+     "party": null,
+     "pct": 42.8015564202335,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 294,
+     "party": null,
+     "pct": 57.1984435797665,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0082",
+   "state": "TX",
+   "title": "CITY OF WYLIE, TEXAS PROPOSITION C",
+   "office_type": "measure",
+   "district": "c",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 182,
+     "party": null,
+     "pct": 35.2713178294574,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 334,
+     "party": null,
+     "pct": 64.7286821705426,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0083",
+   "state": "TX",
+   "title": "CITY OF WYLIE, TEXAS PROPOSITION D",
+   "office_type": "measure",
+   "district": "d",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 191,
+     "party": null,
+     "pct": 37.015503875969,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 325,
+     "party": null,
+     "pct": 62.984496124031,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0084",
+   "state": "TX",
+   "title": "CITY OF WYLIE, TEXAS PROPOSITION E",
+   "office_type": "measure",
+   "district": "e",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 235,
+     "party": null,
+     "pct": 45.2793834296724,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 284,
+     "party": null,
+     "pct": 54.7206165703276,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0085",
+   "state": "TX",
+   "title": "IRVING ISD PROPOSITION A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 49,
+    "units_total": 58,
+    "pct": 84.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 17920,
+     "party": null,
+     "pct": 44.3553377391649,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 22481,
+     "party": null,
+     "pct": 55.6446622608351,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0086",
+   "state": "TX",
+   "title": "IRVING ISD PROPOSITION B",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 49,
+    "units_total": 58,
+    "pct": 84.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 15815,
+     "party": null,
+     "pct": 39.8031862683412,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 23918,
+     "party": null,
+     "pct": 60.1968137316588,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0087",
+   "state": "TX",
+   "title": "IRVING ISD PROPOSITION C",
+   "office_type": "measure",
+   "district": "c",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 49,
+    "units_total": 58,
+    "pct": 84.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 16010,
+     "party": null,
+     "pct": 39.821908267834,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 24194,
+     "party": null,
+     "pct": 60.178091732166,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0088",
+   "state": "TX",
+   "title": "IRVING ISD PROPOSITION D",
+   "office_type": "measure",
+   "district": "d",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 49,
+    "units_total": 58,
+    "pct": 84.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 17508,
+     "party": null,
+     "pct": 43.4204652546997,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 22814,
+     "party": null,
+     "pct": 56.5795347453003,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.dallas",
+   "contest_id": "0089",
+   "state": "TX",
+   "title": "MESQUITE INDEPENDENT SCHOOL DISTRICT PROPOSITION A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Dallas County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 43,
+    "units_total": 63,
+    "pct": 68.3,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 19266,
+     "party": null,
+     "pct": 42.5796185382456,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 25981,
+     "party": null,
+     "pct": 57.4203814617544,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Dallas/127396/",
+   "uncontested": false
+  }
+ ],
+ "contests_hash": "b63feed7ae0f473c",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-11T19:29:21+00:00",
+ "fetched_at": "2026-11-11T19:29:21+00:00",
+ "contests_changed_at": "2026-11-11T19:29:21+00:00"
 }

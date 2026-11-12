@@ -5,6 +5,7 @@ from . import combine
 from .counties import ca as ca_counties
 from .counties import mi as mi_counties
 from .counties import ne as ne_counties
+from .counties import oh as oh_counties
 from .counties import ny as ny_counties
 from .counties import or_ as or_counties
 from .counties import wi as wi_counties
@@ -17,7 +18,7 @@ ALL: list[Source] = [
     *clarity_states.SOURCES, *fl.SOURCES, *sc.SOURCES, *ct.SOURCES, *or_.SOURCES, *oh.SOURCES, *de.SOURCES, *md.SOURCES,
     *dc.SOURCES, *mn.SOURCES, *la.SOURCES,
     *ca_counties.SOURCES, *ny_counties.SOURCES, *or_counties.SOURCES, *wi_counties.SOURCES, *mi_counties.SOURCES,
-    *ne_counties.SOURCES,
+    *ne_counties.SOURCES, *oh_counties.SOURCES,
     *manual.SOURCES, *combine.SOURCES,
 ]
 

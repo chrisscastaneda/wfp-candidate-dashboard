@@ -14,35 +14,7 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 1076,RI,Jackie Goldman,"Providence City Council, Ward 5",needs_review,near_name,ri,01000000-59ac-daed-6be1-08df1e27bc63,Providence: City Council Ward 5,01000000-59ac-daed-ed3e-08df1e27bc6b,Jacqueline Goldman,"first name differs: WFP 'Jackie Goldman', feed 'Jacqueline Goldman'"
 1080,RI,Libby Merrill,"East Providence School Committee, Ward 3",needs_review,near_name,ri,01000000-59ac-daed-cb6d-08df1e27af35,East Providence: Non-Partisan School Committee Ward 3,01000000-59ac-daed-7134-08df1e27af3e,Elizabeth Merrill,"first name differs: WFP 'Libby Merrill', feed 'Elizabeth Merrill'"
 1114,WA,Danny Tarkenton,Spokane County Prosecutor,needs_review,name_in_state,wa,01000000-bd5d-c14f-aefb-08df12b2898e,Prosecuting Attorney,01000000-bd5d-c14f-afad-08df12b2898e,Danny Tarkenton,found by name only; check the office (Prosecuting Attorney)
-16,AZ,Ed Hermes,"Phoenix City Council, District 4",unmatched,,,,,,,no 'hermes' in any AZ contest loaded
-43,CA,Anthony Montes,"East Side Union High School District Board of Trustees, Area 2",unmatched,,,,,,,no 'montes' in any CA contest loaded
-44,CA,Alexander Gvatua,"Foothill De Anza Community College District Board of Trustees, Area 2",unmatched,,,,,,,no 'gvatua' in any CA contest loaded
-50,CA,Aaron Burnett,"Larkspur City Council, At-large",unmatched,,,,,,,no 'burnett' in any CA contest loaded
-62,CA,Destiny Briscoe,"Pittsburg Unified School District Board of Education, At-large",unmatched,,,,,,,no 'briscoe' in any CA contest loaded
-79,CA,Allyson Chan,"San Mateo-Foster City School District, District 1",unmatched,,,,,,,no 'chan' in any CA contest loaded
-163,CA,Estefany Castañeda,"Centinela Valley Union High School District, Trustee Area 5",unmatched,,,,,,,no 'castaneda' in any CA contest loaded
-168,CA,Andrew Yam,Garvey Unified School District,unmatched,,,,,,,no 'yam' in any CA contest loaded
-181,CA,Alton Wang,"Pasadena Area Community College District, Trustee Area No. 7",unmatched,,,,,,,no 'wang' in any CA contest loaded
-198,CA,Tiffany Ackley,"Aliso Viejo City Council, At-large",unmatched,,,,,,,no 'ackley' in any CA contest loaded
-276,CO,Taishya Adams,Boulder Mayor,unmatched,,,,,,,no 'adams' in any CO contest loaded
 487,NJ,Shantell Cherry,"Piscataway City Council, Ward 1",unmatched,,,,,,,no 'cherry' in any NJ contest loaded
-739,NY,Alexandria Smith,(Town of) Ulster Town Board,unmatched,,,,,,,no 'smith' in any NY contest loaded
-802,NY,Phil Dilmore,"Onondaga County Legislature, District 12",unmatched,,,,,,,no 'dilmore' in any NY contest loaded
-909,NY,Melissa First,"Chautauqua County Legislature, District 17",unmatched,,,,,,,no 'first' in any NY contest loaded
-1212,OH,"Columbus, OH | Issue 8: Our City, Our Say",Ballot Measure,unmatched,,,,,,,measure '8': not found
-1213,OH,Ohio | Senate Bill 396: Paid Family and Medical Leave Act,Ballot Measure,unmatched,,,,,,,measure None: not found
-989,OR,Christina Stephenson,Oregon Labor Commissioner,unmatched,,,,,,,no 'stephenson' in any OR contest loaded
-1218,OR,Your 2 Cents,Ballot Measure,unmatched,,,,,,,measure None: not found
-1068,RI,Matt McCoy,"Rhode Island State House, District 31",unmatched,,,,,,,no 'mccoy' in any RI contest loaded
-1070,RI,Gena Felix,"Rhode Island State Senate, District 8",unmatched,,,,,,,no 'felix' in any RI contest loaded
-1079,RI,Jonathan Jacobs,"East Providence City Council, Ward 1",unmatched,,,,,,,no 'jacobs' in any RI contest loaded
-1091,TX,James “Jim” Bethke,Bexar County District Attorney,unmatched,,,,,,,no 'bethke' in any TX contest loaded
-1092,TX,John Cruezot,Dallas County District Attorney,unmatched,,,,,,,no 'cruezot' in any TX contest loaded
-1096,TX,Jared Williams,"Tarrant County Commissioner, Precinct 2",unmatched,,,,,,,no 'williams' in any TX contest loaded
-1097,TX,Nydia Cardenas,"Tarrant County Commissioner, Precinct 4",unmatched,,,,,,,no 'cardenas' in any TX contest loaded
-1098,TX,Tiffany Burks,Tarrant County District Attorney,unmatched,,,,,,,no 'burks' in any TX contest loaded
-1099,TX,Alisa Simmons,Tarrant County Judge,unmatched,,,,,,,no 'simmons' in any TX contest loaded
-1103,TX,Andrew Hairston,"Travis County Justice of the Peace, Precinct 1",unmatched,,,,,,,no 'hairston' in any TX contest loaded
 3,AZ,Junelle Cavero,"Arizona State House, District 11",auto,district_surname,az,248c0000-c0a3-7204-fa57-08df11bc03cf,State Representative - District No. 11,248c0000-c0a3-7204-fe9a-08df11bc03cf,Junelle Cavero,
 5,AZ,Brian Garcia,"Arizona State House, Legislative District 8",auto,district_surname,az,248c0000-c0a3-7204-e7c1-08df11bc03cf,State Representative - District No.  8,248c0000-c0a3-7204-ebd7-08df11bc03cf,Brian Garcia,
 6,AZ,Lorena Austin,"Arizona State House, Legislative District 9",auto,district_surname,az,248c0000-c0a3-7204-ed26-08df11bc03cf,State Representative - District No.  9,248c0000-c0a3-7204-f025-08df11bc03cf,Lorena Austin,
@@ -54,6 +26,7 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 12,AZ,Quanta Crews,"Arizona State House, Legislative District 26",auto,district_surname,az,248c0000-c0a3-7204-4e34-08df11bc03d0,State Representative - District No. 26,248c0000-c0a3-7204-536f-08df11bc03d0,Quantá Crews,
 13,AZ,Lauren Kuby,"Arizona State Senate, Legislative District 8",auto,district_surname,az,248c0000-c0a3-7204-60d7-08df11bc03cf,State Senator - District No.  8,248c0000-c0a3-7204-6423-08df11bc03cf,Lauren Kuby,
 15,AZ,Analise Ortiz,"Arizona State Senate, Legislative District 24",auto,district_surname,az,248c0000-c0a3-7204-a29a-08df11bc03cf,State Senator - District No. 24,248c0000-c0a3-7204-a575-08df11bc03cf,Analise Ortiz,
+16,AZ,Ed Hermes,"Phoenix City Council, District 4",auto,name_in_state,manual,az.phoenix.council-4,Phoenix City Council District 4,Ed Hermes,Ed Hermes,
 1154,AZ,Prop 141,Ballot Measure,auto,measure_number,az,248c0000-c0a3-7204-c77a-08df11bc03d0,PROPOSITION 141,248c0000-c0a3-7204-ca9b-08df11bc03d0,No,
 1155,AZ,Prop 142,Ballot Measure,auto,measure_number,az,248c0000-c0a3-7204-cba8-08df11bc03d0,PROPOSITION 142,248c0000-c0a3-7204-ce7b-08df11bc03d0,No,
 1156,AZ,Prop 144,Ballot Measure,auto,measure_number,az,248c0000-c0a3-7204-cf93-08df11bc03d0,PROPOSITION 144,248c0000-c0a3-7204-d261-08df11bc03d0,No,
@@ -86,6 +59,7 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 46,CA,Rebeca Armendariz,"Gilroy City Council, District 6",auto,name_in_state,ca.santa_clara,74,"City of Gilroy Council, District 6",Rebeca G. Armendáriz,Rebeca G. Armendáriz,
 47,CA,George Syrop,"Hayward City Council, District 1",auto,name_in_state,ca.alameda,"City/Member, City Council, District 1 - Hayward","Member, City Council, District 1 - Hayward",George Syrop,George Syrop,
 49,CA,Chris Herrod,"Healdsburg City Council, District 4",auto,name_in_state,ca.sonoma,53,"Member, Healdsburg City Council, District 4",CHRIS HERROD,CHRIS HERROD,
+50,CA,Aaron Burnett,"Larkspur City Council, At-large",auto,name_in_state,ca.marin,43,"City of Larkspur, City Council Member",Aaron Burnett,Aaron Burnett,
 51,CA,Seema Kanani,"Milpitas City Council, At-large",auto,name_in_state,ca.santa_clara,80,City of Milpitas Council,Seema Kanani,Seema Kanani,
 52,CA,Erik Poicon,"Mountain View City Council, At-large",auto,name_in_state,ca.santa_clara,84,City of Mountain View Council,Erik Poicon,Erik Poicon,
 53,CA,IdaRose Sylvester,"Mountain View City Council, At-large",auto,name_in_state,ca.santa_clara,84,City of Mountain View Council,IdaRose Sylvester,IdaRose Sylvester,
@@ -277,6 +251,7 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 273,CO,Jessica Campbell,"Arapahoe County Commission, District 2",auto,name_in_state,co,Arapahoe/26,Arapahoe County Commissioner - District 2,Jessica Campbell,Jessica Campbell,
 274,CO,Leslie Summey,"Arapahoe County Commission, District 4",auto,name_in_state,co,Arapahoe/27,Arapahoe County Commissioner - District 4,Leslie Summey,Leslie Summey,
 275,CO,Michael Westerberg,Arapahoe County Treasurer,auto,name_in_state,co,Arapahoe/29,Arapahoe County Treasurer,Michael Westerberg,Michael Westerberg,
+276,CO,Taishya Adams,Boulder Mayor,auto,name_in_state,manual,co.boulder.mayor,"Boulder Mayor (ranked-choice, final round)",Taishya Adams,Taishya Adams,
 277,CO,Jamillah Richmond,Boulder City Council,auto,name_in_state,co,Boulder/24,City of Boulder Council Candidates,Jamillah Richmond,Jamillah Richmond,
 278,CO,Rachel Rose Isaacson,Boulder City Council,auto,name_in_state,co,Boulder/24,City of Boulder Council Candidates,Rachel Rose Isaacson,Rachel Rose Isaacson,
 279,CO,Ryan Schuchard,Boulder City Council,auto,name_in_state,co,Boulder/24,City of Boulder Council Candidates,Ryan Schuchard,Ryan Schuchard,
@@ -880,6 +855,7 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 947,OH,Cara Jacob,"Ohio State Senate, District 7",auto,district_surname,oh,_55A742EA586C09A3E0633390EE0AE290,State Senator - District 07,Cara Jacob,Cara Jacob,
 1210,OH,"Cincinnati, OH | Issue 4: Cincinnati Public Schools Levy",Ballot Measure,auto,measure_number,oh.hamilton,55,4  PROPOSED TAX LEVY (ADDITIONAL) CINCINNATI CITY SCHOOL DISTRICT,Yes,Yes,
 1211,OH,"Cincinnati, OH | Issue 9: Winton Woods School Levy",Ballot Measure,auto,measure_number,oh.hamilton,52,9  PROPOSED TAX LEVY (ADDITIONAL) WINTON WOODS CITY SCHOOL DISTRICT,Yes,Yes,
+1212,OH,"Columbus, OH | Issue 8: Our City, Our Say",Ballot Measure,auto,measure_number,oh.franklin,47,#8 Proposed Charter Amendment (By Petition) City of Columbus,Yes,Yes,
 948,OR,Tina Kotek,Governor,auto,district_surname,or,300038702,Governor,Tina Kotek,Tina Kotek,
 949,OR,Jeff Merkley,U.S. Senate,auto,district_surname,or,300038695,US Senator,Jeff Merkley,Jeff Merkley,
 950,OR,Suzanne Bonamici,"U.S. House of Representatives, District 1",auto,district_surname,or,300038696,"US Representative, 1st District",Suzanne Bonamici,Suzanne Bonamici,
@@ -1011,6 +987,10 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 1084,SC,Julie Zimmerman,"South Carolina State House, District 71",auto,district_surname,sc,"State House of Representatives, District 71","State House of Representatives, District 71",DEM Julie Zimmerman,Julie Zimmerman,
 1085,SC,Sonja Ogletree Satani,"South Carolina State House, District 98",auto,district_surname,sc,"State House of Representatives, District 98","State House of Representatives, District 98",DEM Sonja Ogletree Satani,Sonja Ogletree Satani,
 1095,TX,Michelle Butler,"Denton County Justice of the Peace, Precinct 6",auto,name_in_state,tx.denton,58,"Justice of the Peace, Precinct No. 6",Michelle Butler,Michelle Butler,
+1096,TX,Jared Williams,"Tarrant County Commissioner, Precinct 2",auto,name_in_state,tx.tarrant,75,"County Commissioner, Precinct 2",Jared Williams,Jared Williams,
+1097,TX,Nydia Cardenas,"Tarrant County Commissioner, Precinct 4",auto,name_in_state,tx.tarrant,76,"County Commissioner, Precinct 4",Nydia Cardenas,Nydia Cardenas,
+1098,TX,Tiffany Burks,Tarrant County District Attorney,auto,name_in_state,tx.tarrant,56,Criminal District Attorney Tarrant County,Tiffany Burks,Tiffany Burks,
+1099,TX,Alisa Simmons,Tarrant County Judge,auto,name_in_state,tx.tarrant,57,County Judge,Alisa Simmons,Alisa Simmons,
 1104,UT,Luke Maynes,"Salt Lake County Council, District 3",auto,name_in_state,ut,01000000-68b8-edcd-804b-08df2650840f,COUNTY COUNCIL DISTRICT 3,01000000-68b8-edcd-8072-08df2650840f,LUKE MAYNES,
 1105,UT,Rosie Rivera,Salt Lake County Sheriff,auto,name_in_state,ut,01000000-68b8-edcd-81d2-08df2650840f,COUNTY SHERIFF,01000000-68b8-edcd-8215-08df2650840f,ROSIE RIVERA,
 1106,UT,Stephen Otterstrom,"State House, District 21",auto,district_surname,ut,b4e60000-c0a3-7204-8e58-08df3933fc5c,State House District 21,b4e60000-c0a3-7204-9050-08df3933fc5c,STEPHEN OTTERSTROM,
@@ -1092,6 +1072,7 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 877,NY,Nicholas Coffee,Gates Town Supervisor,confirmed,near_name,ny.monroe,01000000-fff9-9fc1-fa8a-08df1feafbfc,Supervisor Gates,01000000-fff9-9fc1-faa5-08df1feafbfc,Nick Coffee,first-name variant (Nick Coffee); same surname and district
 882,NY,Jennifer Townsend,Perinton Town Supervisor,confirmed,near_name,ny.monroe,01000000-fff9-9fc1-4d5a-08df1feafbfd,Supervisor Perinton,01000000-fff9-9fc1-4d73-08df1feafbfd,Jenn Townsend,first-name variant (Jenn Townsend); same surname and district
 892,NY,Doug Mooradian,"Niagara County Legislature, District 7",confirmed,near_name,ny.niagara,19,County Legislator District 7,34,Douglas E. Mooradian,first-name variant (Douglas E. Mooradian); same district | confirmed Nov 4
+1218,OR,Your 2 Cents,Ballot Measure,confirmed,measure_words,or,300001788,26-267 City of Portland: Amends Charter: Portland residents decide 2% of city's annual discretionary budget.,Yes,Yes,"measure None: not found | confirmed Nov 11: ""Your 2 Cents"" is Portland's participatory-budgeting charter amendment, 26-267"
 31,CA,Bunny McFadden,"City College of San Francisco Board of Trustees, At-large",no_source,,,,,,,no source carries San Francisco local races yet
 32,CA,Jeremy Lee,"City College of San Francisco Board of Trustees, At-large",no_source,,,,,,,no source carries San Francisco local races yet
 33,CA,Leah LaCroix,"City College of San Francisco Board of Trustees, At-large",no_source,,,,,,,no source carries San Francisco local races yet
@@ -1203,7 +1184,15 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 1221,WI,"Wisconsin Question 3, Governmental Entity Discrimination Prohibited Referendum",Ballot Measure,no_source,,,,,,,WI has only county sources so far
 1153,WY,Aaron Appelhans,Albany County Sheriff,no_source,,,,,,,no source covers WY yet
 17,AR,Bobby Forrest Jr.,State Circuit Court District 6 Prosecuting Attorney,not_on_ballot,,,,,,,Prosecuting attorney races are on Arkansas's March nonpartisan ballot with November runoffs only; District 6 isn't on the Nov 3 ballot (only 11-West is).
+43,CA,Anthony Montes,"East Side Union High School District Board of Trustees, Area 2",not_on_ballot,,,,,,,Not on Santa Clara's Nov 3 ballot; East Side Union HSD's trustee area wasn't contested.
+44,CA,Alexander Gvatua,"Foothill De Anza Community College District Board of Trustees, Area 2",not_on_ballot,,,,,,,Not on Santa Clara's Nov 3 ballot; Foothill-De Anza's trustee area wasn't contested.
+62,CA,Destiny Briscoe,"Pittsburg Unified School District Board of Education, At-large",not_on_ballot,,,,,,,No Pittsburg Unified board contest on Contra Costa's Nov 3 ballot (California appoints unopposed candidates instead of listing them).
+79,CA,Allyson Chan,"San Mateo-Foster City School District, District 1",not_on_ballot,,,,,,,No San Mateo-Foster City School District board contest on San Mateo's Nov 3 ballot (only its Measure W).
 122,CA,Justin Cummings,"Santa Cruz County Board of Supervisors, District 3",not_on_ballot,,,,,,,"Won District 3 unopposed in the June 2, 2026 primary; no supervisor race on the Nov 3 ballot."
+163,CA,Estefany Castañeda,"Centinela Valley Union High School District, Trustee Area 5",not_on_ballot,,,,,,,No Centinela Valley Union HSD contest on Los Angeles County's Nov 3 ballot.
+168,CA,Andrew Yam,Garvey Unified School District,not_on_ballot,,,,,,,No Garvey Unified contest on Los Angeles County's Nov 3 ballot.
+181,CA,Alton Wang,"Pasadena Area Community College District, Trustee Area No. 7",not_on_ballot,,,,,,,"Pasadena Area CCD has only trustee areas 1, 3 and 5 on Los Angeles County's Nov 3 ballot, not area 7."
+198,CA,Tiffany Ackley,"Aliso Viejo City Council, At-large",not_on_ballot,,,,,,,Not in any Aliso Viejo council contest on Orange County's Nov 3 ballot (Districts 2 and 3 short term only).
 394,DC,Rashida Brown,"District Council, Ward 1 (Ranking recommendation)",not_on_ballot,,,,,,,Not on DC's Nov 3 Ward 1 council ballot (Aparna Raj is the Democrat); checked Nov 4 against DCBOE results.
 448,MA,Johnnie McKnight,"Massachusetts State House, 11th Hampden District",not_on_ballot,,,,,,,Lost the Sept 1 Democratic primary for 11th Hampden to Bud L. Williams (electionstats 173375).
 453,MA,Latoya Gayle,"Massachusetts State Senate, 1st Suffolk District",not_on_ballot,,,,,,,Lost the Sept 1 Democratic primary for 1st Suffolk Senate to Nicholas P. Collins (electionstats 173147).
@@ -1213,10 +1202,21 @@ wfp_id,state,name,office,status,method,source,contest_id,contest_title,choice_id
 678,NY,Phil Howard,Newburgh School Board,not_on_ballot,,,,,,,"Decided May 19, 2026 (Newburgh ECSD); reported re-elected."
 679,NY,Letitia Politi,Newburgh School Board,not_on_ballot,,,,,,,"Decided May 19, 2026 (Newburgh ECSD); reported re-elected."
 680,NY,Ramiro Burgarelli,Newburgh School Board,not_on_ballot,,,,,,,"Decided May 19, 2026 (Newburgh ECSD); reported re-elected."
+739,NY,Alexandria Smith,(Town of) Ulster Town Board,not_on_ballot,,,,,,,"Ulster lists only an unexpired-term Town of Ulster board seat, without Alexandria Smith."
 779,NY,Ellen McHale,Charleston Town Council,not_on_ballot,,,,,,,"Not on the Nov 3 ballot. Won a Charleston council seat in Nov 2025 (182 votes, 44 on the WFP line). The 2026 Charleston ballot has only an unexpired-term council seat (Nicholas R. Quill, R, unopposed)"
+802,NY,Phil Dilmore,"Onondaga County Legislature, District 12",not_on_ballot,,,,,,,Not on Onondaga's ballot for Legislature District 12 (Neil Smith is the Democrat).
 885,NY,Heidi Woika,Village of Fairport Mayor,not_on_ballot,,,,,,,"Fairport village elections were March 18, 2026 (Monroe County list)."
 886,NY,Matthew Brown,Fairport Village Trustee,not_on_ballot,,,,,,,"Fairport village elections were March 18, 2026 (Monroe County list)."
 887,NY,Adam Bonosky,Fairport Village Trustee,not_on_ballot,,,,,,,"Fairport village elections were March 18, 2026 (Monroe County list)."
+909,NY,Melissa First,"Chautauqua County Legislature, District 17",not_on_ballot,,,,,,,Not on Chautauqua's ballot for Legislature District 17 (only Travis Heiser is listed).
+1213,OH,Ohio | Senate Bill 396: Paid Family and Medical Leave Act,Ballot Measure,not_on_ballot,,,,,,,"SB 396 is a bill in the Ohio General Assembly, not a ballot issue; Ohio's Nov 3 statewide issue is Issue 3."
+989,OR,Christina Stephenson,Oregon Labor Commissioner,not_on_ballot,,,,,,,"Won re-election outright in the May 19, 2026 nonpartisan primary (63%); not on the Nov 3 ballot."
 1217,OR,Initiative Petition 9-2026-I-01,Ballot Measure,not_on_ballot,,,,,,,"Did not qualify: 'Voices for All of Deschutes' (proportional ranked-choice voting for county commission) missed the Aug 5 signature deadline (Bend Bulletin, Aug 14, 2026). Organizers are collecting fo"
+1068,RI,Matt McCoy,"Rhode Island State House, District 31",not_on_ballot,,,,,,,"Lost the Sept 9, 2026 Democratic primary for House District 31 to Jim Sheehan; not on the Nov 3 ballot."
+1070,RI,Gena Felix,"Rhode Island State Senate, District 8",not_on_ballot,,,,,,,"Lost the Sept 9, 2026 Democratic primary for Senate District 8 to Lori Urso; not on the Nov 3 ballot."
+1079,RI,Jonathan Jacobs,"East Providence City Council, Ward 1",not_on_ballot,,,,,,,Not on East Providence's Nov 3 ballot for Ward 1 council (Frank J. Rego and Bethany White).
+1091,TX,James “Jim” Bethke,Bexar County District Attorney,not_on_ballot,,,,,,,"Not on Bexar's Nov 3 ballot for Criminal District Attorney (Ashley Foster, Luz Elena Chapa, Jason Wolff)."
+1092,TX,John Cruezot,Dallas County District Attorney,not_on_ballot,,,,,,,Not on Dallas's Nov 3 ballot for Criminal District Attorney (Amber Givens is the only candidate).
 1093,TX,Nick Stevens,Denton City Council #2,not_on_ballot,,,,,,,"Decided May 2, 2026: Stevens won District 2 (82.8%)."
 1094,TX,George Ferrie,Denton City Council At Large #5 (runoff),not_on_ballot,,,,,,,"Decided June 13, 2026 runoff: Ferrie won Place 5 (50.4%)."
+1103,TX,Andrew Hairston,"Travis County Justice of the Peace, Precinct 1",not_on_ballot,,,,,,,"Not on Travis's Nov 3 ballot for Justice of the Peace, Precinct 1 (Ciara Parks is the only candidate)."

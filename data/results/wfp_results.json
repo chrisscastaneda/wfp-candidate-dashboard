@@ -1,7 +1,7 @@
 {
  "election_date": "2026-11-03",
- "generated_at": "2026-11-11T19:16:53+00:00",
- "run_id": "20261111T191651Z",
+ "generated_at": "2026-11-11T19:34:00+00:00",
+ "run_id": "20261111T193358Z",
  "sources": {
   "az": {
    "status": "ok",
@@ -34,10 +34,10 @@
    "message": null
   },
   "ca.marin": {
-   "status": "not_published",
-   "fetched_at": null,
-   "contests_changed_at": null,
-   "message": "no 2026-11-03 election listed"
+   "status": "ok",
+   "fetched_at": "2026-11-11T19:29:54+00:00",
+   "contests_changed_at": "2026-11-11T19:29:54+00:00",
+   "message": null
   },
   "ca.orange": {
    "status": "ok",
@@ -155,8 +155,8 @@
   },
   "manual": {
    "status": "ok",
-   "fetched_at": "2026-11-11T19:16:51+00:00",
-   "contests_changed_at": "2026-11-11T19:16:51+00:00",
+   "fetched_at": "2026-11-11T19:33:58+00:00",
+   "contests_changed_at": "2026-11-11T19:33:58+00:00",
    "message": null
   },
   "md": {
@@ -263,7 +263,7 @@
   },
   "ny.counties": {
    "status": "ok",
-   "fetched_at": "2026-11-11T19:16:51+00:00",
+   "fetched_at": "2026-11-11T19:33:58+00:00",
    "contests_changed_at": "2026-11-11T15:58:24+00:00",
    "message": null
   },
@@ -417,6 +417,12 @@
    "contests_changed_at": "2026-11-11T15:55:42+00:00",
    "message": null
   },
+  "oh.franklin": {
+   "status": "ok",
+   "fetched_at": "2026-11-11T19:32:56+00:00",
+   "contests_changed_at": "2026-11-11T19:32:56+00:00",
+   "message": null
+  },
   "oh.hamilton": {
    "status": "ok",
    "fetched_at": "2026-11-11T15:55:31+00:00",
@@ -454,16 +460,16 @@
    "message": null
   },
   "tx.bexar": {
-   "status": "not_published",
-   "fetched_at": null,
-   "contests_changed_at": null,
-   "message": "no 2026-11-03 election listed"
+   "status": "ok",
+   "fetched_at": "2026-11-11T19:28:54+00:00",
+   "contests_changed_at": "2026-11-11T19:28:54+00:00",
+   "message": null
   },
   "tx.dallas": {
-   "status": "not_published",
-   "fetched_at": null,
-   "contests_changed_at": null,
-   "message": "no 2026-11-03 election listed"
+   "status": "ok",
+   "fetched_at": "2026-11-11T19:29:21+00:00",
+   "contests_changed_at": "2026-11-11T19:29:21+00:00",
+   "message": null
   },
   "tx.denton": {
    "status": "ok",
@@ -472,10 +478,10 @@
    "message": null
   },
   "tx.tarrant": {
-   "status": "not_published",
-   "fetched_at": null,
-   "contests_changed_at": null,
-   "message": "no 2026-11-03 election listed"
+   "status": "ok",
+   "fetched_at": "2026-11-11T19:28:54+00:00",
+   "contests_changed_at": "2026-11-11T19:28:54+00:00",
+   "message": null
   },
   "tx.travis": {
    "status": "ok",
@@ -1294,9 +1300,79 @@
   },
   "16": {
    "name": "Ed Hermes",
-   "status": "unmatched",
-   "match_status": "unmatched",
-   "note": "no 'hermes' in any AZ contest loaded"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "manual",
+   "source_name": "phoenix.gov",
+   "source_url": "https://www.phoenix.gov/administration/departments/cityclerk/programs-services/elections/election-results.html",
+   "contest": "Phoenix City Council District 4",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-10T19:00:00-07:00",
+   "wfp_choice": "Ed Hermes",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Ed Hermes",
+     "party": null,
+     "votes": 15185,
+     "pct": 40.74,
+     "is_wfp": true
+    },
+    {
+     "name": "Ashley Harder",
+     "party": null,
+     "votes": 4619,
+     "pct": 12.39,
+     "is_wfp": false
+    },
+    {
+     "name": "Patricia Jimenez",
+     "party": null,
+     "votes": 4204,
+     "pct": 11.28,
+     "is_wfp": false
+    },
+    {
+     "name": "Cassandra Hernandez",
+     "party": null,
+     "votes": 4062,
+     "pct": 10.9,
+     "is_wfp": false
+    },
+    {
+     "name": "Megan Schmitz",
+     "party": null,
+     "votes": 2881,
+     "pct": 7.73,
+     "is_wfp": false
+    },
+    {
+     "name": "Michael Mazzocco",
+     "party": null,
+     "votes": 2328,
+     "pct": 6.25,
+     "is_wfp": false
+    },
+    {
+     "name": "Zachary Lauer",
+     "party": null,
+     "votes": 2075,
+     "pct": 5.57,
+     "is_wfp": false
+    },
+    {
+     "name": "Robb Olivieri",
+     "party": null,
+     "votes": 1917,
+     "pct": 5.14,
+     "is_wfp": false
+    }
+   ]
   },
   "17": {
    "name": "Bobby Forrest Jr.",
@@ -2401,15 +2477,15 @@
   },
   "43": {
    "name": "Anthony Montes",
-   "status": "unmatched",
-   "match_status": "unmatched",
-   "note": "no 'montes' in any CA contest loaded"
+   "status": "not_on_ballot",
+   "match_status": "not_on_ballot",
+   "note": "Not on Santa Clara's Nov 3 ballot; East Side Union HSD's trustee area wasn't contested."
   },
   "44": {
    "name": "Alexander Gvatua",
-   "status": "unmatched",
-   "match_status": "unmatched",
-   "note": "no 'gvatua' in any CA contest loaded"
+   "status": "not_on_ballot",
+   "match_status": "not_on_ballot",
+   "note": "Not on Santa Clara's Nov 3 ballot; Foothill-De Anza's trustee area wasn't contested."
   },
   "45": {
    "name": "Phoebe Shin Venkat",
@@ -2590,9 +2666,79 @@
   },
   "50": {
    "name": "Aaron Burnett",
-   "status": "unmatched",
-   "match_status": "unmatched",
-   "note": "no 'burnett' in any CA contest loaded"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "ca.marin",
+   "source_name": "Marin County",
+   "source_url": "https://results.enr.clarityelections.com/CA/Marin/127071/",
+   "contest": "City of Larkspur, City Council Member",
+   "scope": "complete",
+   "reporting": {
+    "pct": 85.7,
+    "text": null
+   },
+   "updated_at": "2026-11-11T19:29:54+00:00",
+   "wfp_choice": "Aaron Burnett",
+   "wfp_leading": false,
+   "choices": [
+    {
+     "name": "Stephanie Andre",
+     "party": null,
+     "votes": 2530,
+     "pct": 24.8112189859763,
+     "is_wfp": false
+    },
+    {
+     "name": "Sarah Margulies",
+     "party": null,
+     "votes": 2147,
+     "pct": 21.0552123173482,
+     "is_wfp": false
+    },
+    {
+     "name": "Brian H. Jaffe",
+     "party": null,
+     "votes": 1764,
+     "pct": 17.2992056487202,
+     "is_wfp": false
+    },
+    {
+     "name": "Jeanne Friedel",
+     "party": null,
+     "votes": 1463,
+     "pct": 14.3473570658037,
+     "is_wfp": false
+    },
+    {
+     "name": "Aaron Burnett",
+     "party": null,
+     "votes": 989,
+     "pct": 9.69893105815436,
+     "is_wfp": true
+    },
+    {
+     "name": "Gareth Walter",
+     "party": null,
+     "votes": 914,
+     "pct": 8.96342061390605,
+     "is_wfp": false
+    },
+    {
+     "name": "Spencer Doyle",
+     "party": null,
+     "votes": 390,
+     "pct": 3.8246543100912,
+     "is_wfp": false
+    },
+    {
+     "name": "Write-in",
+     "party": null,
+     "votes": 0,
+     "pct": 0.0,
+     "is_wfp": false
+    }
+   ]
   },
   "51": {
    "name": "Seema Kanani",
@@ -3138,9 +3284,9 @@
   },
   "62": {
    "name": "Destiny Briscoe",
-   "status": "unmatched",
-   "match_status": "unmatched",
-   "note": "no 'briscoe' in any CA contest loaded"
+   "status": "not_on_ballot",
+   "match_status": "not_on_ballot",
+   "note": "No Pittsburg Unified board contest on Contra Costa's Nov 3 ballot (California appoints unopposed candidates instead of listing them)."
   },
   "63": {
    "name": "Chris Sturken",
@@ -3506,9 +3652,9 @@
   },
   "79": {
    "name": "Allyson Chan",
-   "status": "unmatched",
-   "match_status": "unmatched",
-   "note": "no 'chan' in any CA contest loaded"
+   "status": "not_on_ballot",
+   "match_status": "not_on_ballot",
+   "note": "No San Mateo-Foster City School District board contest on San Mateo's Nov 3 ballot (only its Measure W)."
   },
   "80": {
    "name": "Kevin Park",
@@ -6145,9 +6291,9 @@
   },
   "163": {
    "name": "Estefany Castañeda",
-   "status": "unmatched",
-   "match_status": "unmatched",
-   "note": "no 'castaneda' in any CA contest loaded"
+   "status": "not_on_ballot",
+   "match_status": "not_on_ballot",
+   "note": "No Centinela Valley Union HSD contest on Los Angeles County's Nov 3 ballot."
   },
   "164": {
    "name": "Cynthia Gonzalez",
@@ -6357,9 +6503,9 @@
   },
   "168": {
    "name": "Andrew Yam",
-   "status": "unmatched",
-   "match_status": "unmatched",
-   "note": "no 'yam' in any CA contest loaded"
+   "status": "not_on_ballot",
+   "match_status": "not_on_ballot",
+   "note": "No Garvey Unified contest on Los Angeles County's Nov 3 ballot."
   },
   "169": {
    "name": "Nancy Martiz",
@@ -6946,9 +7092,9 @@
   },
   "181": {
    "name": "Alton Wang",
-   "status": "unmatched",
-   "match_status": "unmatched",
-   "note": "no 'wang' in any CA contest loaded"
+   "status": "not_on_ballot",
+   "match_status": "not_on_ballot",
+   "note": "Pasadena Area CCD has only trustee areas 1, 3 and 5 on Los Angeles County's Nov 3 ballot, not area 7."
   },
   "182": {
    "name": "Brandon Macias",
@@ -7860,9 +8006,9 @@
   },
   "198": {
    "name": "Tiffany Ackley",
-   "status": "unmatched",
-   "match_status": "unmatched",
-   "note": "no 'ackley' in any CA contest loaded"
+   "status": "not_on_ballot",
+   "match_status": "not_on_ballot",
+   "note": "Not in any Aliso Viejo council contest on Orange County's Nov 3 ballot (Districts 2 and 3 short term only)."
   },
   "199": {
    "name": "Steven Von der Porten",
@@ -10722,9 +10868,65 @@
   },
   "276": {
    "name": "Taishya Adams",
-   "status": "unmatched",
-   "match_status": "unmatched",
-   "note": "no 'adams' in any CO contest loaded"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "manual",
+   "source_name": "electionresults.bouldercounty.gov",
+   "source_url": "https://electionresults.bouldercounty.gov/Home/GetRcvFile/RcvShortReport11.6.pdf",
+   "contest": "Boulder Mayor (ranked-choice, final round)",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": null
+   },
+   "updated_at": "2026-11-06T22:49:50-07:00",
+   "wfp_choice": "Taishya Adams",
+   "wfp_leading": false,
+   "choices": [
+    {
+     "name": "Aaron Brockett",
+     "party": null,
+     "votes": 26053,
+     "pct": 48.31,
+     "is_wfp": false
+    },
+    {
+     "name": "Aquiles La Grave",
+     "party": null,
+     "votes": 13777,
+     "pct": 25.55,
+     "is_wfp": false
+    },
+    {
+     "name": "Taishya Adams",
+     "party": null,
+     "votes": 9537,
+     "pct": 17.69,
+     "is_wfp": true
+    },
+    {
+     "name": "Lisa Ann Jacobs",
+     "party": null,
+     "votes": 1967,
+     "pct": 3.65,
+     "is_wfp": false
+    },
+    {
+     "name": "Jameson (Jamo) Goldstein",
+     "party": null,
+     "votes": 1673,
+     "pct": 3.1,
+     "is_wfp": false
+    },
+    {
+     "name": "Grateful Fred Instead",
+     "party": null,
+     "votes": 917,
+     "pct": 1.7,
+     "is_wfp": false
+    }
+   ]
   },
   "277": {
    "name": "Jamillah Richmond",
@@ -27087,9 +27289,9 @@
   },
   "739": {
    "name": "Alexandria Smith",
-   "status": "unmatched",
-   "match_status": "unmatched",
-   "note": "no 'smith' in any NY contest loaded"
+   "status": "not_on_ballot",
+   "match_status": "not_on_ballot",
+   "note": "Ulster lists only an unexpired-term Town of Ulster board seat, without Alexandria Smith."
   },
   "740": {
    "name": "Alexandria Wojcik",
@@ -28711,9 +28913,9 @@
   },
   "802": {
    "name": "Phil Dilmore",
-   "status": "unmatched",
-   "match_status": "unmatched",
-   "note": "no 'dilmore' in any NY contest loaded"
+   "status": "not_on_ballot",
+   "match_status": "not_on_ballot",
+   "note": "Not on Onondaga's ballot for Legislature District 12 (Neil Smith is the Democrat)."
   },
   "803": {
    "name": "Blake Carter",
@@ -32517,9 +32719,9 @@
   },
   "909": {
    "name": "Melissa First",
-   "status": "unmatched",
-   "match_status": "unmatched",
-   "note": "no 'first' in any NY contest loaded"
+   "status": "not_on_ballot",
+   "match_status": "not_on_ballot",
+   "note": "Not on Chautauqua's ballot for Legislature District 17 (only Travis Heiser is listed)."
   },
   "910": {
    "name": "John Hamels",
@@ -35727,9 +35929,9 @@
   },
   "989": {
    "name": "Christina Stephenson",
-   "status": "unmatched",
-   "match_status": "unmatched",
-   "note": "no 'stephenson' in any OR contest loaded"
+   "status": "not_on_ballot",
+   "match_status": "not_on_ballot",
+   "note": "Won re-election outright in the May 19, 2026 nonpartisan primary (63%); not on the Nov 3 ballot."
   },
   "990": {
    "name": "Kori Rodley",
@@ -38980,9 +39182,9 @@
   },
   "1068": {
    "name": "Matt McCoy",
-   "status": "unmatched",
-   "match_status": "unmatched",
-   "note": "no 'mccoy' in any RI contest loaded"
+   "status": "not_on_ballot",
+   "match_status": "not_on_ballot",
+   "note": "Lost the Sept 9, 2026 Democratic primary for House District 31 to Jim Sheehan; not on the Nov 3 ballot."
   },
   "1069": {
    "name": "Veronicka Vega",
@@ -39027,9 +39229,9 @@
   },
   "1070": {
    "name": "Gena Felix",
-   "status": "unmatched",
-   "match_status": "unmatched",
-   "note": "no 'felix' in any RI contest loaded"
+   "status": "not_on_ballot",
+   "match_status": "not_on_ballot",
+   "note": "Lost the Sept 9, 2026 Democratic primary for Senate District 8 to Lori Urso; not on the Nov 3 ballot."
   },
   "1071": {
    "name": "Nelly Burdette",
@@ -39354,9 +39556,9 @@
   },
   "1079": {
    "name": "Jonathan Jacobs",
-   "status": "unmatched",
-   "match_status": "unmatched",
-   "note": "no 'jacobs' in any RI contest loaded"
+   "status": "not_on_ballot",
+   "match_status": "not_on_ballot",
+   "note": "Not on East Providence's Nov 3 ballot for Ward 1 council (Frank J. Rego and Bethany White)."
   },
   "1080": {
    "name": "Libby Merrill",
@@ -39608,15 +39810,15 @@
   },
   "1091": {
    "name": "James “Jim” Bethke",
-   "status": "unmatched",
-   "match_status": "unmatched",
-   "note": "no 'bethke' in any TX contest loaded"
+   "status": "not_on_ballot",
+   "match_status": "not_on_ballot",
+   "note": "Not on Bexar's Nov 3 ballot for Criminal District Attorney (Ashley Foster, Luz Elena Chapa, Jason Wolff)."
   },
   "1092": {
    "name": "John Cruezot",
-   "status": "unmatched",
-   "match_status": "unmatched",
-   "note": "no 'cruezot' in any TX contest loaded"
+   "status": "not_on_ballot",
+   "match_status": "not_on_ballot",
+   "note": "Not on Dallas's Nov 3 ballot for Criminal District Attorney (Amber Givens is the only candidate)."
   },
   "1093": {
    "name": "Nick Stevens",
@@ -39666,27 +39868,139 @@
   },
   "1096": {
    "name": "Jared Williams",
-   "status": "unmatched",
-   "match_status": "unmatched",
-   "note": "no 'williams' in any TX contest loaded"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "tx.tarrant",
+   "source_name": "Tarrant County",
+   "source_url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "contest": "County Commissioner, Precinct 2",
+   "scope": "complete",
+   "reporting": {
+    "pct": 90.7,
+    "text": null
+   },
+   "updated_at": "2026-11-11T19:28:54+00:00",
+   "wfp_choice": "Jared Williams",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Jared Williams",
+     "party": "DEM",
+     "votes": 100575,
+     "pct": 55.4040654437283,
+     "is_wfp": true
+    },
+    {
+     "name": "Tony Tinderholt",
+     "party": "REP",
+     "votes": 80955,
+     "pct": 44.5959345562717,
+     "is_wfp": false
+    }
+   ]
   },
   "1097": {
    "name": "Nydia Cardenas",
-   "status": "unmatched",
-   "match_status": "unmatched",
-   "note": "no 'cardenas' in any TX contest loaded"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "tx.tarrant",
+   "source_name": "Tarrant County",
+   "source_url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "contest": "County Commissioner, Precinct 4",
+   "scope": "complete",
+   "reporting": {
+    "pct": 73.2,
+    "text": null
+   },
+   "updated_at": "2026-11-11T19:28:54+00:00",
+   "wfp_choice": "Nydia Cardenas",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Nydia Cardenas",
+     "party": "DEM",
+     "votes": 89039,
+     "pct": 51.803604882533,
+     "is_wfp": true
+    },
+    {
+     "name": "Manny Ramirez",
+     "party": "REP",
+     "votes": 82839,
+     "pct": 48.196395117467,
+     "is_wfp": false
+    }
+   ]
   },
   "1098": {
    "name": "Tiffany Burks",
-   "status": "unmatched",
-   "match_status": "unmatched",
-   "note": "no 'burks' in any TX contest loaded"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "tx.tarrant",
+   "source_name": "Tarrant County",
+   "source_url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "contest": "Criminal District Attorney Tarrant County",
+   "scope": "complete",
+   "reporting": {
+    "pct": 80.4,
+    "text": null
+   },
+   "updated_at": "2026-11-11T19:28:54+00:00",
+   "wfp_choice": "Tiffany Burks",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Tiffany Burks",
+     "party": "DEM",
+     "votes": 397188,
+     "pct": 55.9621497328614,
+     "is_wfp": true
+    },
+    {
+     "name": "Phil Sorrells",
+     "party": "REP",
+     "votes": 312556,
+     "pct": 44.0378502671386,
+     "is_wfp": false
+    }
+   ]
   },
   "1099": {
    "name": "Alisa Simmons",
-   "status": "unmatched",
-   "match_status": "unmatched",
-   "note": "no 'simmons' in any TX contest loaded"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "tx.tarrant",
+   "source_name": "Tarrant County",
+   "source_url": "https://results.enr.clarityelections.com/TX/Tarrant/127297/",
+   "contest": "County Judge",
+   "scope": "complete",
+   "reporting": {
+    "pct": 80.4,
+    "text": null
+   },
+   "updated_at": "2026-11-11T19:28:54+00:00",
+   "wfp_choice": "Alisa Simmons",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Alisa Simmons",
+     "party": "DEM",
+     "votes": 402291,
+     "pct": 56.3961190527259,
+     "is_wfp": true
+    },
+    {
+     "name": "Tim O'Hare",
+     "party": "REP",
+     "votes": 311040,
+     "pct": 43.6038809472741,
+     "is_wfp": false
+    }
+   ]
   },
   "1100": {
    "name": "Montserrat Garibay",
@@ -39708,9 +40022,9 @@
   },
   "1103": {
    "name": "Andrew Hairston",
-   "status": "unmatched",
-   "match_status": "unmatched",
-   "note": "no 'hairston' in any TX contest loaded"
+   "status": "not_on_ballot",
+   "match_status": "not_on_ballot",
+   "note": "Not on Travis's Nov 3 ballot for Justice of the Peace, Precinct 1 (Ciara Parks is the only candidate)."
   },
   "1104": {
    "name": "Luke Maynes",
@@ -43001,15 +43315,43 @@
   },
   "1212": {
    "name": "Columbus, OH | Issue 8: Our City, Our Say",
-   "status": "unmatched",
-   "match_status": "unmatched",
-   "note": "measure '8': not found"
+   "status": "counting",
+   "match_status": "auto",
+   "uncontested": false,
+   "source": "oh.franklin",
+   "source_name": "Franklin County Board of Elections",
+   "source_url": "https://vote.franklincountyohio.gov/elections/",
+   "contest": "#8 Proposed Charter Amendment (By Petition) City of Columbus",
+   "scope": "complete",
+   "reporting": {
+    "pct": null,
+    "text": "Countywide: 511,532 ballots counted"
+   },
+   "updated_at": "2026-11-11T19:32:56+00:00",
+   "wfp_choice": "Yes",
+   "wfp_leading": true,
+   "choices": [
+    {
+     "name": "Yes",
+     "party": null,
+     "votes": 232013,
+     "pct": 82.01,
+     "is_wfp": true
+    },
+    {
+     "name": "No",
+     "party": null,
+     "votes": 50888,
+     "pct": 17.99,
+     "is_wfp": false
+    }
+   ]
   },
   "1213": {
    "name": "Ohio | Senate Bill 396: Paid Family and Medical Leave Act",
-   "status": "unmatched",
-   "match_status": "unmatched",
-   "note": "measure None: not found"
+   "status": "not_on_ballot",
+   "match_status": "not_on_ballot",
+   "note": "SB 396 is a bill in the Ohio General Assembly, not a ballot issue; Ohio's Nov 3 statewide issue is Issue 3."
   },
   "1214": {
    "name": "Astoria Vacant Homes",
@@ -43121,9 +43463,37 @@
   },
   "1218": {
    "name": "Your 2 Cents",
-   "status": "unmatched",
-   "match_status": "unmatched",
-   "note": "measure None: not found"
+   "status": "counting",
+   "match_status": "confirmed",
+   "uncontested": false,
+   "source": "or",
+   "source_name": "Oregon Secretary of State",
+   "source_url": "https://results.oregonvotes.gov/",
+   "contest": "26-267 City of Portland: Amends Charter: Portland residents decide 2% of city's annual discretionary budget.",
+   "scope": "complete",
+   "reporting": {
+    "pct": 0.0,
+    "text": null
+   },
+   "updated_at": "2026-11-11T15:55:40+00:00",
+   "wfp_choice": "Yes",
+   "wfp_leading": false,
+   "choices": [
+    {
+     "name": "No",
+     "party": null,
+     "votes": 179432,
+     "pct": 62.76,
+     "is_wfp": false
+    },
+    {
+     "name": "Yes",
+     "party": null,
+     "votes": 106472,
+     "pct": 37.24,
+     "is_wfp": true
+    }
+   ]
   },
   "1219": {
    "name": "Wisconsin Question 1, Partial Veto Referendum",

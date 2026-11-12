@@ -353,7 +353,8 @@ def clarity_county(name: str, eid: str | None = None) -> ClaritySource:
 
 
 # Nov 3 election ids linked from each county's site; Clarity's elections.json lists nothing for these counties.
-_CLARITY_EIDS = {"Sonoma": "127275", "Contra Costa": "127405", "Santa Clara": "127570", "Ventura": "127362"}
+_CLARITY_EIDS = {"Sonoma": "127275", "Contra Costa": "127405", "Santa Clara": "127570", "Ventura": "127362",
+                 "Marin": "127071"}
 
 
 SOURCES = [

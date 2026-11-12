@@ -17,10 +17,10 @@ SOURCES = [
     ClaritySource("co", "CO", "Colorado SoS results", "Colorado Secretary of State", "CO", counties=[
         "Adams", "Arapahoe", "Boulder", "Denver", "Douglas", "El Paso", "Garfield", "Jefferson", "Larimer",
         "Pueblo", "Saguache", "Weld"]),
-    county("tx.bexar", "TX", "Bexar"),
-    county("tx.dallas", "TX", "Dallas"),
+    county("tx.bexar", "TX", "Bexar", eid="127291"),  # Nov 3 id linked from elections.bexar.org; not in elections.json
+    county("tx.dallas", "TX", "Dallas", eid="127396"),  # Nov 3 id linked from dallascountyvotes.org; not in elections.json
     county("tx.denton", "TX", "Denton"),
-    county("tx.tarrant", "TX", "Tarrant"),
+    county("tx.tarrant", "TX", "Tarrant", eid="127297"),  # Nov 3 id linked from tarrantcountytx.gov; not in elections.json
     county("tx.travis", "TX", "Travis"),
     county("nj.hudson", "NJ", "Hudson", eid="127495"),  # Nov 3 id from hudsoncountyclerk.org; not in elections.json
     county("nj.middlesex", "NJ", "Middlesex"),

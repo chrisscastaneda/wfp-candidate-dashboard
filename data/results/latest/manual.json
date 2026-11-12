@@ -1480,12 +1480,172 @@
    ],
    "url": "https://www.lancaster.ne.gov/DocumentCenter/View/34204",
    "uncontested": false
+  },
+  {
+   "source": "manual",
+   "contest_id": "co.boulder.mayor",
+   "state": "CO",
+   "title": "Boulder Mayor (ranked-choice, final round)",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "CO",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-06T22:49:50-07:00",
+   "choices": [
+    {
+     "name": "Aaron Brockett",
+     "votes": 26053,
+     "party": null,
+     "pct": 48.31,
+     "choice_id": "Aaron Brockett",
+     "party_lines": null
+    },
+    {
+     "name": "Aquiles La Grave",
+     "votes": 13777,
+     "party": null,
+     "pct": 25.55,
+     "choice_id": "Aquiles La Grave",
+     "party_lines": null
+    },
+    {
+     "name": "Taishya Adams",
+     "votes": 9537,
+     "party": null,
+     "pct": 17.69,
+     "choice_id": "Taishya Adams",
+     "party_lines": null
+    },
+    {
+     "name": "Lisa Ann Jacobs",
+     "votes": 1967,
+     "party": null,
+     "pct": 3.65,
+     "choice_id": "Lisa Ann Jacobs",
+     "party_lines": null
+    },
+    {
+     "name": "Jameson (Jamo) Goldstein",
+     "votes": 1673,
+     "party": null,
+     "pct": 3.1,
+     "choice_id": "Jameson (Jamo) Goldstein",
+     "party_lines": null
+    },
+    {
+     "name": "Grateful Fred Instead",
+     "votes": 917,
+     "party": null,
+     "pct": 1.7,
+     "choice_id": "Grateful Fred Instead",
+     "party_lines": null
+    }
+   ],
+   "url": "https://electionresults.bouldercounty.gov/Home/GetRcvFile/RcvShortReport11.6.pdf",
+   "uncontested": false
+  },
+  {
+   "source": "manual",
+   "contest_id": "az.phoenix.council-4",
+   "state": "AZ",
+   "title": "Phoenix City Council District 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "AZ",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": null,
+    "units_total": null,
+    "pct": null,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": "2026-11-10T19:00:00-07:00",
+   "choices": [
+    {
+     "name": "Ed Hermes",
+     "votes": 15185,
+     "party": null,
+     "pct": 40.74,
+     "choice_id": "Ed Hermes",
+     "party_lines": null
+    },
+    {
+     "name": "Ashley Harder",
+     "votes": 4619,
+     "party": null,
+     "pct": 12.39,
+     "choice_id": "Ashley Harder",
+     "party_lines": null
+    },
+    {
+     "name": "Patricia Jimenez",
+     "votes": 4204,
+     "party": null,
+     "pct": 11.28,
+     "choice_id": "Patricia Jimenez",
+     "party_lines": null
+    },
+    {
+     "name": "Cassandra Hernandez",
+     "votes": 4062,
+     "party": null,
+     "pct": 10.9,
+     "choice_id": "Cassandra Hernandez",
+     "party_lines": null
+    },
+    {
+     "name": "Megan Schmitz",
+     "votes": 2881,
+     "party": null,
+     "pct": 7.73,
+     "choice_id": "Megan Schmitz",
+     "party_lines": null
+    },
+    {
+     "name": "Michael Mazzocco",
+     "votes": 2328,
+     "party": null,
+     "pct": 6.25,
+     "choice_id": "Michael Mazzocco",
+     "party_lines": null
+    },
+    {
+     "name": "Zachary Lauer",
+     "votes": 2075,
+     "party": null,
+     "pct": 5.57,
+     "choice_id": "Zachary Lauer",
+     "party_lines": null
+    },
+    {
+     "name": "Robb Olivieri",
+     "votes": 1917,
+     "party": null,
+     "pct": 5.14,
+     "choice_id": "Robb Olivieri",
+     "party_lines": null
+    }
+   ],
+   "url": "https://www.phoenix.gov/administration/departments/cityclerk/programs-services/elections/election-results.html",
+   "uncontested": false
   }
  ],
- "contests_hash": "674041ad27fe6f39",
+ "contests_hash": "b3eee4da363cd12e",
  "status": "ok",
  "message": "",
- "last_attempt_at": "2026-11-11T19:16:51+00:00",
- "fetched_at": "2026-11-11T19:16:51+00:00",
- "contests_changed_at": "2026-11-11T19:16:51+00:00"
+ "last_attempt_at": "2026-11-11T19:33:58+00:00",
+ "fetched_at": "2026-11-11T19:33:58+00:00",
+ "contests_changed_at": "2026-11-11T19:33:58+00:00"
 }

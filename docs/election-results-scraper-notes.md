@@ -53,8 +53,9 @@ See also [election-results-scraper-plan.md](election-results-scraper-plan.md) (d
 | Nov 11, 2:05pm | 1,058 | 859 | Alameda, Santa Barbara, Santa Cruz, Stanislaus, Solano, Sacramento (CA; new sources); California props matched |
 | Nov 11, 2:14pm | 1,063 | 862 | Minnesota, Louisiana, Douglas County NE (new sources) |
 | Nov 11, 2:25pm | 1,064 | 863 | Lancaster County NE (entered by hand) |
+| Nov 11, 2:50pm | 1,073 | 869 | Tarrant, Bexar, Dallas (TX) and Marin (CA) via known Clarity ids; Franklin County OH (new source); Boulder mayor and Phoenix D4 (by hand); 19 races marked not on the ballot |
 
-Still missing at 10:55am Nov 11: Bexar/Dallas/Tarrant counties (TX), Middlesex (NJ) and Marin (CA). See "12:25am: the silent Clarity counties" below.
+Still missing at 2:50pm Nov 11: Middlesex (NJ). Bexar, Dallas, Tarrant and Marin read again from Nov 11 (see "Nov 11, 2:50pm" below).
 
 ---
 
@@ -792,6 +793,50 @@ Fixes made while building:
   ballots are counted Nov 13; re-enter after that.
 - 1,064 races with results, WFP leading 863.
 
+### Nov 11, 2:50pm: the unmatched races
+
+All 29 unmatched races were checked one by one; 1 is left (Shantell Cherry, Piscataway Ward 1, waiting on Middlesex).
+
+- **Silent Clarity counties, again.** Tarrant (127297), Bexar (127291) and Dallas (127396) TX, and Marin CA (127071),
+  post their Nov 3 elections on Clarity without listing them in `elections.json`, so the sources said "no Nov 3
+  election". The ids come from each county's own results link (Dallas's and Marin's sites block scripts, so they were
+  read in the browser) and are now set in the sources, as Hudson's and the four California counties' were on
+  election night. Marin's id was checked first: it's lower than the other Nov 3 ids, but its contests include the
+  Supreme Court retention votes and Larkspur's council race.
+  - Tarrant: Jared Williams (commissioner Pct 2) 55.4%, Nydia Cardenas (Pct 4) 51.8%, Tiffany Burks (DA) 56.0%,
+    Alisa Simmons (county judge) 56.4%, all leading.
+  - Marin: Aaron Burnett (Larkspur council, multi-seat) 9.7%, trailing.
+- **Franklin County OH** (`oh.franklin`, new): the county's live results map reads one JSON file
+  (`vote.franklincountyohio.gov/elections/api/election/live`) with per-precinct votes; `votes` is each precinct's
+  total and `abs` the absentee part. Its Live Voter Turnout page (election 4) is only a test page pointing back
+  there. Columbus Issue 8 ("Our City, Our Say", "#8 Proposed Charter Amendment (By Petition)") passes 82.0%.
+- **Confirmed by hand:** WFP's "Your 2 Cents" is Portland's participatory-budgeting charter amendment, 26-267 (Yes
+  37.2%, failing).
+- **Entered by hand:**
+  - Boulder mayor (ranked choice), from Boulder County's RCV Short Report (Nov 6, 10:49pm): each candidate's total in
+    the last round they were in, as with Multnomah. Taishya Adams was eliminated in round 4 with 9,537 (23.3% of that
+    round); Aaron Brockett wins round 5, 26,053 to Aquiles La Grave's 13,777. Colorado's state results don't carry
+    Boulder's city races.
+  - Phoenix City Council District 4, from the City Clerk's page (Nov 10, 7pm; Phoenix runs its own elections, so they
+    aren't in Maricopa's file). Ed Hermes leads with 40.7%; with no majority, he and Ashley Harder (12.4%) go to a
+    runoff.
+- **Not on the Nov 3 ballot** (19 races; `nov3_ballot=no` with the reason in `results_sources.csv`):
+  - California, no contest on the county's ballot (California appoints unopposed candidates instead of listing
+    them): Anthony Montes and Alexander Gvatua (Santa Clara), Destiny Briscoe (Pittsburg USD), Allyson Chan (San
+    Mateo-Foster City SD), Estefany Castañeda (Centinela Valley UHSD), Andrew Yam (Garvey USD), Alton Wang (Pasadena
+    Area CCD area 7; only areas 1, 3 and 5 are up), Tiffany Ackley (Aliso Viejo).
+  - Not on the county's ballot for the seat: Alexandria Smith (Town of Ulster), Phil Dilmore (Onondaga LD-12), Melissa
+    First (Chautauqua LD-17), Jonathan Jacobs (East Providence Ward 1), James Bethke (Bexar DA), John Cruezot (Dallas
+    DA; Amber Givens is unopposed), Andrew Hairston (Travis JP Pct 1; Ciara Parks is unopposed).
+  - Decided earlier: Christina Stephenson (Oregon Labor Commissioner) won outright in the May 19 primary with 63%;
+    Matt McCoy (RI HD-31) and Gena Felix (RI SD-8) lost the Sept 9 Democratic primaries.
+  - Not a ballot question: Ohio SB 396 (paid family leave) is a bill in the General Assembly.
+- Code: `states/clarity_states.py` (Texas ids), `counties/ca.py` (Marin id), `counties/oh.py` (new),
+  `registry.py`. Data: `results_sources.csv` (19 not-on-ballot rows; Franklin, Boulder, Phoenix, Tarrant and Marin
+  source details), `matches.csv` (Your 2 Cents), `manual_entries.csv` (Boulder, Phoenix). Tests: Franklin's API
+  (73 pass).
+- 1,073 races with results, WFP leading 869; 37 not on the ballot; 110 with no source; 1 unmatched.
+
 ---
 
 ## Feed quirks worth remembering
@@ -848,6 +893,11 @@ Fixes made while building:
 | Minnesota SoS | County races file has county codes, not names | Codes are alphabetical (19 Dakota, 27 Hennepin) |
 | Louisiana SoS | Results in JSON "blobs"; single-parish courts are in the multiparish file | Multiparish races and votes read; parish files not needed yet |
 | Arkansas | Prosecutors elected in March; November only for runoffs | District 6 marked not on the Nov 3 ballot |
+| Tarrant, Bexar, Dallas (TX); Marin (CA) | Nov 3 elections on Clarity but not in `elections.json` | Election ids from each county's own results link, set in the sources |
+| Franklin County (OH) | Live Voter Turnout page is a test page; real results in the map app's JSON | `api/election/live` read; per-precinct votes summed |
+| Boulder (CO) | City races (ranked choice) aren't in the state's results | Entered by hand from the county's RCV report |
+| Phoenix (AZ) | City runs its own council elections; not in Maricopa's file | Entered by hand from the City Clerk's page |
+| California local races | Unopposed candidates are appointed, not listed on the ballot | Marked not on the Nov 3 ballot when the county has no contest |
 
 ## Still open
 
@@ -859,6 +909,9 @@ Fixes made while building:
   need re-entering once the state adds Wayne. The two Bay City Commission races aren't on Bay County's report.
 - Kentucky and Maine have no source; they need manual entries.
 - Lancaster County NE (Randall Ritnour) is hand-entered from the Nov 6 report; re-enter after the Nov 13 count.
+- Boulder mayor and Phoenix District 4 are hand-entered (Nov 6 and Nov 10 reports); re-enter when they update.
+- Middlesex NJ still shows no Nov 3 election on Clarity, and its county site blocks scripts; Shantell Cherry
+  (Piscataway Ward 1) and the county's share of NJ House races wait on it.
 - Massachusetts is entered by hand (AP as of about 7–10am Nov 4) and only updates when re-entered; Q5 and the
   3rd Barnstable race are close.
 - DC's ranked-choice rounds: re-check after DCBOE posts them and drop the "(first-choice votes)" label then.

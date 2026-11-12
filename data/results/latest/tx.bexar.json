@@ -1,8 +1,7227 @@
 {
  "source": "tx.bexar",
- "contests": [],
- "contests_hash": null,
- "status": "not_published",
- "message": "no 2026-11-03 election listed",
- "last_attempt_at": "2026-11-11T15:55:28+00:00"
+ "contests": [
+  {
+   "source": "tx.bexar",
+   "contest_id": "0004",
+   "state": "TX",
+   "title": "United States Senator",
+   "office_type": "federal_senate",
+   "district": null,
+   "jurisdiction": "Bexar County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Ken Paxton",
+     "votes": 206824,
+     "party": "REP",
+     "pct": 31.3743336761659,
+     "choice_id": "REP Ken Paxton",
+     "party_lines": null
+    },
+    {
+     "name": "DEM James Talarico",
+     "votes": 440148,
+     "party": "DEM",
+     "pct": 66.7686062492605,
+     "choice_id": "DEM James Talarico",
+     "party_lines": null
+    },
+    {
+     "name": "LIB Ted Brown",
+     "votes": 11336,
+     "party": "LIB",
+     "pct": 1.71962367304092,
+     "choice_id": "LIB Ted Brown",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 906,
+     "party": null,
+     "pct": 0.137436401532734,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0005",
+   "state": "TX",
+   "title": "United States Representative District 20",
+   "office_type": "federal_house",
+   "district": "20",
+   "jurisdiction": "Bexar County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 276,
+    "units_total": 299,
+    "pct": 92.3,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Edgardo Rafael Baez",
+     "votes": 43095,
+     "party": "REP",
+     "pct": 22.3914331140693,
+     "choice_id": "REP Edgardo Rafael Baez",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Joaquin Castro",
+     "votes": 149367,
+     "party": "DEM",
+     "pct": 77.6085668859307,
+     "choice_id": "DEM Joaquin Castro",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0006",
+   "state": "TX",
+   "title": "United States Representative District 21",
+   "office_type": "federal_house",
+   "district": "21",
+   "jurisdiction": "Bexar County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 128,
+    "units_total": 152,
+    "pct": 84.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Mark Teixeira",
+     "votes": 51789,
+     "party": "REP",
+     "pct": 39.4018472587836,
+     "choice_id": "REP Mark Teixeira",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Kristin Hook",
+     "votes": 79649,
+     "party": "DEM",
+     "pct": 60.5981527412164,
+     "choice_id": "DEM Kristin Hook",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0007",
+   "state": "TX",
+   "title": "United States Representative District 23",
+   "office_type": "federal_house",
+   "district": "23",
+   "jurisdiction": "Bexar County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 129,
+    "units_total": 144,
+    "pct": 89.6,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Brandon Herrera",
+     "votes": 70940,
+     "party": "REP",
+     "pct": 42.1491678896303,
+     "choice_id": "REP Brandon Herrera",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Katy Padilla Stout",
+     "votes": 91502,
+     "party": "DEM",
+     "pct": 54.366128562686,
+     "choice_id": "DEM Katy Padilla Stout",
+     "party_lines": null
+    },
+    {
+     "name": "IND Ben Mendoza",
+     "votes": 5865,
+     "party": "IND",
+     "pct": 3.4847035476837,
+     "choice_id": "IND Ben Mendoza",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0008",
+   "state": "TX",
+   "title": "United States Representative District 35",
+   "office_type": "federal_house",
+   "district": "35",
+   "jurisdiction": "Bexar County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 191,
+    "units_total": 211,
+    "pct": 90.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Carlos De La Cruz",
+     "votes": 55061,
+     "party": "REP",
+     "pct": 35.0564101258086,
+     "choice_id": "REP Carlos De La Cruz",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Johnny C. Garcia",
+     "votes": 102003,
+     "party": "DEM",
+     "pct": 64.9435898741914,
+     "choice_id": "DEM Johnny C. Garcia",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0009",
+   "state": "TX",
+   "title": "Governor",
+   "office_type": "governor",
+   "district": null,
+   "jurisdiction": "Bexar County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Greg Abbott",
+     "votes": 223071,
+     "party": "REP",
+     "pct": 33.793976891065,
+     "choice_id": "REP Greg Abbott",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Gina Hinojosa",
+     "votes": 427403,
+     "party": "DEM",
+     "pct": 64.7491027752234,
+     "choice_id": "DEM Gina Hinojosa",
+     "party_lines": null
+    },
+    {
+     "name": "LIB Pat Dixon",
+     "votes": 9048,
+     "party": "LIB",
+     "pct": 1.3707200976835,
+     "choice_id": "LIB Pat Dixon",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 569,
+     "party": null,
+     "pct": 0.0862002360280628,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0010",
+   "state": "TX",
+   "title": "Lieutenant Governor",
+   "office_type": "lt_governor",
+   "district": null,
+   "jurisdiction": "Bexar County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Dan Patrick",
+     "votes": 221647,
+     "party": "REP",
+     "pct": 33.9015015364096,
+     "choice_id": "REP Dan Patrick",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Vikki Goodwin",
+     "votes": 412605,
+     "party": "DEM",
+     "pct": 63.1090384324186,
+     "choice_id": "DEM Vikki Goodwin",
+     "party_lines": null
+    },
+    {
+     "name": "LIB Anthony Cristo",
+     "votes": 12466,
+     "party": "LIB",
+     "pct": 1.90670804546365,
+     "choice_id": "LIB Anthony Cristo",
+     "party_lines": null
+    },
+    {
+     "name": "GRN Kevin McCormick",
+     "votes": 6775,
+     "party": "GRN",
+     "pct": 1.03625437253459,
+     "choice_id": "GRN Kevin McCormick",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 304,
+     "party": null,
+     "pct": 0.046497613173508,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0011",
+   "state": "TX",
+   "title": "Attorney General",
+   "office_type": "attorney_general",
+   "district": null,
+   "jurisdiction": "Bexar County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Mayes Middleton",
+     "votes": 220580,
+     "party": "REP",
+     "pct": 34.0111509948316,
+     "choice_id": "REP Mayes Middleton",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Nathan Johnson",
+     "votes": 416674,
+     "party": "DEM",
+     "pct": 64.2468144420185,
+     "choice_id": "DEM Nathan Johnson",
+     "party_lines": null
+    },
+    {
+     "name": "LIB Tom Oxford",
+     "votes": 11298,
+     "party": "LIB",
+     "pct": 1.74203456314991,
+     "choice_id": "LIB Tom Oxford",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0012",
+   "state": "TX",
+   "title": "Comptroller of Public Accounts",
+   "office_type": "controller",
+   "district": null,
+   "jurisdiction": "Bexar County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Don Huffines",
+     "votes": 218527,
+     "party": "REP",
+     "pct": 33.8248815114526,
+     "choice_id": "REP Don Huffines",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Sarah Eckhardt",
+     "votes": 408036,
+     "party": "DEM",
+     "pct": 63.1581880152433,
+     "choice_id": "DEM Sarah Eckhardt",
+     "party_lines": null
+    },
+    {
+     "name": "LIB V. Alonzo Echavarria-Garza",
+     "votes": 14016,
+     "party": "LIB",
+     "pct": 2.16947809316249,
+     "choice_id": "LIB V. Alonzo Echavarria-Garza",
+     "party_lines": null
+    },
+    {
+     "name": "GRN Shehla Faizi",
+     "votes": 5475,
+     "party": "GRN",
+     "pct": 0.847452380141598,
+     "choice_id": "GRN Shehla Faizi",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0013",
+   "state": "TX",
+   "title": "Commissioner of the General Land Office",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Dawn Buckingham",
+     "votes": 221166,
+     "party": "REP",
+     "pct": 34.3167557301655,
+     "choice_id": "REP Dawn Buckingham",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Benjamin Flores",
+     "votes": 412593,
+     "party": "DEM",
+     "pct": 64.0191222745638,
+     "choice_id": "DEM Benjamin Flores",
+     "party_lines": null
+    },
+    {
+     "name": "LIB Neill Snider",
+     "votes": 10725,
+     "party": "LIB",
+     "pct": 1.66412199527064,
+     "choice_id": "LIB Neill Snider",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0014",
+   "state": "TX",
+   "title": "Commissioner of Agriculture",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Nate Sheets",
+     "votes": 220095,
+     "party": "REP",
+     "pct": 34.2300322867612,
+     "choice_id": "REP Nate Sheets",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Clayton Tucker",
+     "votes": 408042,
+     "party": "DEM",
+     "pct": 63.4602823069793,
+     "choice_id": "DEM Clayton Tucker",
+     "party_lines": null
+    },
+    {
+     "name": "LIB Austin R. Kelly",
+     "votes": 14851,
+     "party": "LIB",
+     "pct": 2.30968540625953,
+     "choice_id": "LIB Austin R. Kelly",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0015",
+   "state": "TX",
+   "title": "Railroad Commissioner",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Bo French",
+     "votes": 216732,
+     "party": "REP",
+     "pct": 33.7374378899391,
+     "choice_id": "REP Bo French",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Jon Rosenthal",
+     "votes": 412910,
+     "party": "DEM",
+     "pct": 64.2753514900188,
+     "choice_id": "DEM Jon Rosenthal",
+     "party_lines": null
+    },
+    {
+     "name": "LIB Arthur Dibianca",
+     "votes": 12766,
+     "party": "LIB",
+     "pct": 1.98721062004209,
+     "choice_id": "LIB Arthur Dibianca",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0016",
+   "state": "TX",
+   "title": "Chief Justice, Supreme Court",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Jimmy Blacklock",
+     "votes": 226322,
+     "party": "REP",
+     "pct": 35.1408759056086,
+     "choice_id": "REP Jimmy Blacklock",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Maggie Ellis",
+     "votes": 417720,
+     "party": "DEM",
+     "pct": 64.8591240943914,
+     "choice_id": "DEM Maggie Ellis",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0017",
+   "state": "TX",
+   "title": "Justice, Supreme Court, Place 2 - Unexpired Term",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP James P. Sullivan",
+     "votes": 227209,
+     "party": "REP",
+     "pct": 35.5705464997589,
+     "choice_id": "REP James P. Sullivan",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Chari Kelly",
+     "votes": 411547,
+     "party": "DEM",
+     "pct": 64.4294535002411,
+     "choice_id": "DEM Chari Kelly",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0018",
+   "state": "TX",
+   "title": "Justice, Supreme Court, Place 7",
+   "office_type": "judicial",
+   "district": "7",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Kyle Hawkins",
+     "votes": 222213,
+     "party": "REP",
+     "pct": 34.849779888368,
+     "choice_id": "REP Kyle Hawkins",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Kristen Hawkins",
+     "votes": 415418,
+     "party": "DEM",
+     "pct": 65.150220111632,
+     "choice_id": "DEM Kristen Hawkins",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0019",
+   "state": "TX",
+   "title": "Justice, Supreme Court, Place 8",
+   "office_type": "judicial",
+   "district": "8",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Brett Busby",
+     "votes": 224061,
+     "party": "REP",
+     "pct": 35.1452247662459,
+     "choice_id": "REP Brett Busby",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Gisela D. Triana",
+     "votes": 413468,
+     "party": "DEM",
+     "pct": 64.8547752337541,
+     "choice_id": "DEM Gisela D. Triana",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0020",
+   "state": "TX",
+   "title": "Judge, Court of Criminal Appeals, Place 3",
+   "office_type": "judicial",
+   "district": "3",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Thomas Smith",
+     "votes": 223237,
+     "party": "REP",
+     "pct": 35.0307017062083,
+     "choice_id": "REP Thomas Smith",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Okey Anyiam",
+     "votes": 396547,
+     "party": "DEM",
+     "pct": 62.2267799221983,
+     "choice_id": "DEM Okey Anyiam",
+     "party_lines": null
+    },
+    {
+     "name": "LIB Mark Ash",
+     "votes": 17477,
+     "party": "LIB",
+     "pct": 2.74251837159343,
+     "choice_id": "LIB Mark Ash",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0021",
+   "state": "TX",
+   "title": "Judge, Court of Criminal Appeals, Place 4",
+   "office_type": "judicial",
+   "district": "4",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Kevin Patrick Yeary",
+     "votes": 228488,
+     "party": "REP",
+     "pct": 35.9047288304186,
+     "choice_id": "REP Kevin Patrick Yeary",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Audra Riley",
+     "votes": 407885,
+     "party": "DEM",
+     "pct": 64.0952711695814,
+     "choice_id": "DEM Audra Riley",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0022",
+   "state": "TX",
+   "title": "Judge, Court of Criminal Appeals, Place 9",
+   "office_type": "judicial",
+   "district": "9",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP John Messinger",
+     "votes": 224533,
+     "party": "REP",
+     "pct": 35.3087607896049,
+     "choice_id": "REP John Messinger",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Holly Taylor",
+     "votes": 411380,
+     "party": "DEM",
+     "pct": 64.6912392103951,
+     "choice_id": "DEM Holly Taylor",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0023",
+   "state": "TX",
+   "title": "State Senator, District 19",
+   "office_type": "state_senate",
+   "district": "19",
+   "jurisdiction": "Bexar County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 234,
+    "units_total": 262,
+    "pct": 89.3,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Marcus Cardenas",
+     "votes": 71126,
+     "party": "REP",
+     "pct": 32.3713470387176,
+     "choice_id": "REP Marcus Cardenas",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Roland Gutierrez",
+     "votes": 148593,
+     "party": "DEM",
+     "pct": 67.6286529612824,
+     "choice_id": "DEM Roland Gutierrez",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0024",
+   "state": "TX",
+   "title": "State Senator, District 21",
+   "office_type": "state_senate",
+   "district": "21",
+   "jurisdiction": "Bexar County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 7,
+    "units_total": 7,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Julie Dahlberg",
+     "votes": 3044,
+     "party": "REP",
+     "pct": 49.9098212821774,
+     "choice_id": "REP Julie Dahlberg",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Judith Zaffirini",
+     "votes": 3055,
+     "party": "DEM",
+     "pct": 50.0901787178226,
+     "choice_id": "DEM Judith Zaffirini",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0025",
+   "state": "TX",
+   "title": "State Senator, District 26",
+   "office_type": "state_senate",
+   "district": "26",
+   "jurisdiction": "Bexar County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 352,
+    "units_total": 391,
+    "pct": 90.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DEM Jose Menendez",
+     "votes": 179332,
+     "party": "DEM",
+     "pct": 84.0679173815618,
+     "choice_id": "DEM Jose Menendez",
+     "party_lines": null
+    },
+    {
+     "name": "GRN Julián Villarreal",
+     "votes": 33986,
+     "party": "GRN",
+     "pct": 15.9320826184382,
+     "choice_id": "GRN Julián Villarreal",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0026",
+   "state": "TX",
+   "title": "State Representative District 116",
+   "office_type": "state_house",
+   "district": "116",
+   "jurisdiction": "Bexar County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 67,
+    "units_total": 72,
+    "pct": 93.1,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Rhett Rosenquest Smith",
+     "votes": 12529,
+     "party": "REP",
+     "pct": 24.2087568110677,
+     "choice_id": "REP Rhett Rosenquest Smith",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Trey Martinez Fischer",
+     "votes": 39225,
+     "party": "DEM",
+     "pct": 75.7912431889323,
+     "choice_id": "DEM Trey Martinez Fischer",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0027",
+   "state": "TX",
+   "title": "State Representative District 117",
+   "office_type": "state_house",
+   "district": "117",
+   "jurisdiction": "Bexar County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 55,
+    "units_total": 63,
+    "pct": 87.3,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Ben Mostyn",
+     "votes": 19692,
+     "party": "REP",
+     "pct": 30.673852767999,
+     "choice_id": "REP Ben Mostyn",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Philip Cortez",
+     "votes": 44506,
+     "party": "DEM",
+     "pct": 69.326147232001,
+     "choice_id": "DEM Philip Cortez",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0028",
+   "state": "TX",
+   "title": "State Representative District 118",
+   "office_type": "state_house",
+   "district": "118",
+   "jurisdiction": "Bexar County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 81,
+    "units_total": 91,
+    "pct": 89.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Jorge Borrego",
+     "votes": 26451,
+     "party": "REP",
+     "pct": 38.308133472367,
+     "choice_id": "REP Jorge Borrego",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Kristian Carranza",
+     "votes": 42597,
+     "party": "DEM",
+     "pct": 61.691866527633,
+     "choice_id": "DEM Kristian Carranza",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0029",
+   "state": "TX",
+   "title": "State Representative District 119",
+   "office_type": "state_house",
+   "district": "119",
+   "jurisdiction": "Bexar County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 75,
+    "units_total": 84,
+    "pct": 89.3,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Melva Perez",
+     "votes": 15103,
+     "party": "REP",
+     "pct": 27.8951645672491,
+     "choice_id": "REP Melva Perez",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Elizabeth 'Liz' Campos",
+     "votes": 39039,
+     "party": "DEM",
+     "pct": 72.1048354327509,
+     "choice_id": "DEM Elizabeth 'Liz' Campos",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0030",
+   "state": "TX",
+   "title": "State Representative District 120",
+   "office_type": "state_house",
+   "district": "120",
+   "jurisdiction": "Bexar County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 84,
+    "units_total": 98,
+    "pct": 85.7,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DEM Barbara Gervin Hawkins",
+     "votes": 37296,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Barbara Gervin Hawkins",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0031",
+   "state": "TX",
+   "title": "State Representative District 121",
+   "office_type": "state_house",
+   "district": "121",
+   "jurisdiction": "Bexar County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 70,
+    "units_total": 79,
+    "pct": 88.6,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Marc Lahood",
+     "votes": 39076,
+     "party": "REP",
+     "pct": 45.9360966778736,
+     "choice_id": "REP Marc Lahood",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Zack Dunn",
+     "votes": 45990,
+     "party": "DEM",
+     "pct": 54.0639033221264,
+     "choice_id": "DEM Zack Dunn",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0032",
+   "state": "TX",
+   "title": "State Representative District 122",
+   "office_type": "state_house",
+   "district": "122",
+   "jurisdiction": "Bexar County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 80,
+    "units_total": 87,
+    "pct": 92.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Mark Dorazio",
+     "votes": 50153,
+     "party": "REP",
+     "pct": 50.8991820082408,
+     "choice_id": "REP Mark Dorazio",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Shelly Nickels",
+     "votes": 48381,
+     "party": "DEM",
+     "pct": 49.1008179917592,
+     "choice_id": "DEM Shelly Nickels",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0033",
+   "state": "TX",
+   "title": "State Representative District 123",
+   "office_type": "state_house",
+   "district": "123",
+   "jurisdiction": "Bexar County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 96,
+    "units_total": 110,
+    "pct": 87.3,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DEM Diego Bernal",
+     "votes": 44129,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Diego Bernal",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0034",
+   "state": "TX",
+   "title": "State Representative District 124",
+   "office_type": "state_house",
+   "district": "124",
+   "jurisdiction": "Bexar County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 54,
+    "units_total": 58,
+    "pct": 93.1,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Sylvia Soto",
+     "votes": 11781,
+     "party": "REP",
+     "pct": 26.7756085365576,
+     "choice_id": "REP Sylvia Soto",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Josey Garcia",
+     "votes": 32168,
+     "party": "DEM",
+     "pct": 73.1107525171027,
+     "choice_id": "DEM Josey Garcia",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 50,
+     "party": null,
+     "pct": 0.11363894633969,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0035",
+   "state": "TX",
+   "title": "State Representative District 125",
+   "office_type": "state_house",
+   "district": "125",
+   "jurisdiction": "Bexar County",
+   "scope": "partial",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 62,
+    "units_total": 64,
+    "pct": 96.9,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Ricardo 'Rick' Martinez",
+     "votes": 21656,
+     "party": "REP",
+     "pct": 32.466792599922,
+     "choice_id": "REP Ricardo 'Rick' Martinez",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Adrian Reyna",
+     "votes": 45046,
+     "party": "DEM",
+     "pct": 67.533207400078,
+     "choice_id": "DEM Adrian Reyna",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0036",
+   "state": "TX",
+   "title": "Chief Justice, 15th Court of Appeals District",
+   "office_type": "judicial",
+   "district": "15",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Scott Brister",
+     "votes": 227333,
+     "party": "REP",
+     "pct": 35.9038302388608,
+     "choice_id": "REP Scott Brister",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Jerry Zimmerer",
+     "votes": 405839,
+     "party": "DEM",
+     "pct": 64.0961697611392,
+     "choice_id": "DEM Jerry Zimmerer",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0037",
+   "state": "TX",
+   "title": "Justice, 15th Court of Appeals District, Place 2",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Scott K. Field",
+     "votes": 226195,
+     "party": "REP",
+     "pct": 35.764599852954,
+     "choice_id": "REP Scott K. Field",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Tom Baker",
+     "votes": 406260,
+     "party": "DEM",
+     "pct": 64.235400147046,
+     "choice_id": "DEM Tom Baker",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0038",
+   "state": "TX",
+   "title": "Justice, 15th Court of Appeals District, Place 3",
+   "office_type": "judicial",
+   "district": "3",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP April Farris",
+     "votes": 229455,
+     "party": "REP",
+     "pct": 36.2898634158068,
+     "choice_id": "REP April Farris",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Marc M. Meyer",
+     "votes": 402829,
+     "party": "DEM",
+     "pct": 63.7101365841932,
+     "choice_id": "DEM Marc M. Meyer",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0039",
+   "state": "TX",
+   "title": "Chief Justice, 4th Court of Appeals District",
+   "office_type": "judicial",
+   "district": "4",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Bert Richardson",
+     "votes": 226712,
+     "party": "REP",
+     "pct": 35.8632428336632,
+     "choice_id": "REP Bert Richardson",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Antonia 'Toni' Arteaga",
+     "votes": 405445,
+     "party": "DEM",
+     "pct": 64.1367571663368,
+     "choice_id": "DEM Antonia 'Toni' Arteaga",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0040",
+   "state": "TX",
+   "title": "District Judge, 45th Judicial District",
+   "office_type": "judicial",
+   "district": "45",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DEM Mary Lou Alvarez",
+     "votes": 427641,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Mary Lou Alvarez",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0041",
+   "state": "TX",
+   "title": "District Judge, 144th Judicial District",
+   "office_type": "judicial",
+   "district": "144",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DEM Michael De Leon",
+     "votes": 426163,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Michael De Leon",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0042",
+   "state": "TX",
+   "title": "District Judge, 150th Judicial District",
+   "office_type": "judicial",
+   "district": "150",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DEM Monique Diaz",
+     "votes": 426866,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Monique Diaz",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0043",
+   "state": "TX",
+   "title": "District Judge, 186th Judicial District",
+   "office_type": "judicial",
+   "district": "186",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DEM Kristina Escalona",
+     "votes": 425825,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Kristina Escalona",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0044",
+   "state": "TX",
+   "title": "District Judge, 187th Judicial District",
+   "office_type": "judicial",
+   "district": "187",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DEM Stephanie Franco",
+     "votes": 425287,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Stephanie Franco",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0045",
+   "state": "TX",
+   "title": "District Judge, 224th Judicial District",
+   "office_type": "judicial",
+   "district": "224",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DEM Marisa Flores",
+     "votes": 428442,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Marisa Flores",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0046",
+   "state": "TX",
+   "title": "District Judge, 225th Judicial District",
+   "office_type": "judicial",
+   "district": "225",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Benjamin Robertson",
+     "votes": 224379,
+     "party": "REP",
+     "pct": 35.8257784533439,
+     "choice_id": "REP Benjamin Robertson",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Christine Vasquez Hortick",
+     "votes": 401927,
+     "party": "DEM",
+     "pct": 64.1742215466561,
+     "choice_id": "DEM Christine Vasquez Hortick",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0047",
+   "state": "TX",
+   "title": "District Judge, 226th Judicial District",
+   "office_type": "judicial",
+   "district": "226",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DEM Anastacia 'Ana' Ochoa Nelson",
+     "votes": 421517,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Anastacia 'Ana' Ochoa Nelson",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0048",
+   "state": "TX",
+   "title": "District Judge, 227th Judicial District",
+   "office_type": "judicial",
+   "district": "227",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DEM Christine Del Prado",
+     "votes": 422253,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Christine Del Prado",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0049",
+   "state": "TX",
+   "title": "District Judge, 285th Judicial District",
+   "office_type": "judicial",
+   "district": "285",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DEM Nadine Melissa Nieto",
+     "votes": 420680,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Nadine Melissa Nieto",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0050",
+   "state": "TX",
+   "title": "District Judge, 288th Judicial District",
+   "office_type": "judicial",
+   "district": "288",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DEM Cynthia Marie Chapa",
+     "votes": 422188,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Cynthia Marie Chapa",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0051",
+   "state": "TX",
+   "title": "District Judge, 289th Judicial District",
+   "office_type": "judicial",
+   "district": "289",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DEM Rose Sosa",
+     "votes": 418604,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Rose Sosa",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0052",
+   "state": "TX",
+   "title": "District Judge, 290th Judicial District",
+   "office_type": "judicial",
+   "district": "290",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DEM Jennifer Pena",
+     "votes": 422249,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Jennifer Pena",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0053",
+   "state": "TX",
+   "title": "District Judge, 436th Judicial District",
+   "office_type": "judicial",
+   "district": "436",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DEM Raymond A. Villareal",
+     "votes": 419852,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Raymond A. Villareal",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0054",
+   "state": "TX",
+   "title": "District Judge, 437th Judicial District",
+   "office_type": "judicial",
+   "district": "437",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DEM Joel Perez",
+     "votes": 420194,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Joel Perez",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0055",
+   "state": "TX",
+   "title": "Bexar County Criminal District Attorney",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Ashley Foster",
+     "votes": 216605,
+     "party": "REP",
+     "pct": 34.1614857853017,
+     "choice_id": "REP Ashley Foster",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Luz Elena Chapa",
+     "votes": 388364,
+     "party": "DEM",
+     "pct": 61.2501616561157,
+     "choice_id": "DEM Luz Elena Chapa",
+     "party_lines": null
+    },
+    {
+     "name": "IND Jason Wolff",
+     "votes": 29093,
+     "party": "IND",
+     "pct": 4.5883525585826,
+     "choice_id": "IND Jason Wolff",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0056",
+   "state": "TX",
+   "title": "County Judge",
+   "office_type": "judicial",
+   "district": null,
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Patrick Von Dohlen",
+     "votes": 214872,
+     "party": "REP",
+     "pct": 33.4509744702646,
+     "choice_id": "REP Patrick Von Dohlen",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Ron Nirenberg",
+     "votes": 427477,
+     "party": "DEM",
+     "pct": 66.5490255297354,
+     "choice_id": "DEM Ron Nirenberg",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0057",
+   "state": "TX",
+   "title": "Judge, County Court at Law No. 1",
+   "office_type": "judicial",
+   "district": "1",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Bob Behrens",
+     "votes": 221711,
+     "party": "REP",
+     "pct": 35.3829531889359,
+     "choice_id": "REP Bob Behrens",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Helen Petry Stowe",
+     "votes": 404893,
+     "party": "DEM",
+     "pct": 64.6170468110641,
+     "choice_id": "DEM Helen Petry Stowe",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0058",
+   "state": "TX",
+   "title": "Judge, County Court at Law No. 2",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DEM Melissa Saenz",
+     "votes": 421742,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Melissa Saenz",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0059",
+   "state": "TX",
+   "title": "Judge, County Court at Law No. 3",
+   "office_type": "judicial",
+   "district": "3",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DEM David J. Rodriguez",
+     "votes": 421550,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM David J. Rodriguez",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0060",
+   "state": "TX",
+   "title": "Judge, County Court at Law No. 4",
+   "office_type": "judicial",
+   "district": "4",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Jason Roland Garrahan",
+     "votes": 221088,
+     "party": "REP",
+     "pct": 35.3963372168419,
+     "choice_id": "REP Jason Roland Garrahan",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Alfredo Ximenez",
+     "votes": 403519,
+     "party": "DEM",
+     "pct": 64.603662783158,
+     "choice_id": "DEM Alfredo Ximenez",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0061",
+   "state": "TX",
+   "title": "Judge, County Court at Law No. 5",
+   "office_type": "judicial",
+   "district": "5",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DEM Andrea Arevalos",
+     "votes": 418995,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Andrea Arevalos",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0062",
+   "state": "TX",
+   "title": "Judge, County Court at Law No. 6",
+   "office_type": "judicial",
+   "district": "6",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DEM Erica Dominguez",
+     "votes": 420217,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Erica Dominguez",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0063",
+   "state": "TX",
+   "title": "Judge, County Court at Law No. 7",
+   "office_type": "judicial",
+   "district": "7",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DEM Melanie M. Lira",
+     "votes": 418837,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Melanie M. Lira",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0064",
+   "state": "TX",
+   "title": "Judge, County Court at Law No. 8",
+   "office_type": "judicial",
+   "district": "8",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Celeste Brown",
+     "votes": 226672,
+     "party": "REP",
+     "pct": 36.1959967105001,
+     "choice_id": "REP Celeste Brown",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Victoria Cruz",
+     "votes": 399563,
+     "party": "DEM",
+     "pct": 63.8040032894999,
+     "choice_id": "DEM Victoria Cruz",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0065",
+   "state": "TX",
+   "title": "Judge, County Court at Law No. 9",
+   "office_type": "judicial",
+   "district": "9",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Daphne Previti Austin",
+     "votes": 222129,
+     "party": "REP",
+     "pct": 35.5096187970189,
+     "choice_id": "REP Daphne Previti Austin",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Jessica A. Gonzalez",
+     "votes": 403417,
+     "party": "DEM",
+     "pct": 64.4903812029811,
+     "choice_id": "DEM Jessica A. Gonzalez",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0066",
+   "state": "TX",
+   "title": "Judge, County Court at Law No. 10",
+   "office_type": "judicial",
+   "district": "10",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DEM Cesar Garcia",
+     "votes": 417385,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Cesar Garcia",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0067",
+   "state": "TX",
+   "title": "Judge, County Court at Law No. 11",
+   "office_type": "judicial",
+   "district": "11",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DEM Erica Peña",
+     "votes": 418415,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Erica Peña",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0068",
+   "state": "TX",
+   "title": "Judge, County Court at Law No. 12",
+   "office_type": "judicial",
+   "district": "12",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Deborah Dietzmann",
+     "votes": 218033,
+     "party": "REP",
+     "pct": 35.1499450260683,
+     "choice_id": "REP Deborah Dietzmann",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Lauren Zamora",
+     "votes": 402261,
+     "party": "DEM",
+     "pct": 64.8500549739317,
+     "choice_id": "DEM Lauren Zamora",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0069",
+   "state": "TX",
+   "title": "Judge, County Court at Law No. 13",
+   "office_type": "judicial",
+   "district": "13",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DEM Alicia 'Ali' Perez",
+     "votes": 417222,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Alicia 'Ali' Perez",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0070",
+   "state": "TX",
+   "title": "Judge, County Court at Law No. 14",
+   "office_type": "judicial",
+   "district": "14",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DEM Audrey Martinez",
+     "votes": 415388,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Audrey Martinez",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0071",
+   "state": "TX",
+   "title": "Judge, County Court at Law No. 15",
+   "office_type": "judicial",
+   "district": "15",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DEM Melissa Vara",
+     "votes": 417948,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Melissa Vara",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0072",
+   "state": "TX",
+   "title": "Judge, Probate Court No. 1",
+   "office_type": "judicial",
+   "district": "1",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DEM Oscar J. Kazen",
+     "votes": 416738,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Oscar J. Kazen",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0073",
+   "state": "TX",
+   "title": "Judge, Probate Court No. 2",
+   "office_type": "judicial",
+   "district": "2",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DEM Veronica Vasquez",
+     "votes": 418031,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Veronica Vasquez",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0074",
+   "state": "TX",
+   "title": "District Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DEM Christine 'Chris' Castillo",
+     "votes": 418399,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Christine 'Chris' Castillo",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0075",
+   "state": "TX",
+   "title": "County Clerk",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DEM Lucy Adame-Clark",
+     "votes": 421095,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Lucy Adame-Clark",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0076",
+   "state": "TX",
+   "title": "County Commissioner Precinct 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 177,
+    "units_total": 188,
+    "pct": 94.1,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP David Sherwood Hill",
+     "votes": 39327,
+     "party": "REP",
+     "pct": 28.3560458576682,
+     "choice_id": "REP David Sherwood Hill",
+     "party_lines": null
+    },
+    {
+     "name": "DEM Justin Rodriguez",
+     "votes": 99363,
+     "party": "DEM",
+     "pct": 71.6439541423318,
+     "choice_id": "DEM Justin Rodriguez",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0077",
+   "state": "TX",
+   "title": "County Commissioner Precinct 4",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 202,
+    "units_total": 235,
+    "pct": 86.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DEM Tommy Calvert Jr.",
+     "votes": 92358,
+     "party": "DEM",
+     "pct": 80.0065836206448,
+     "choice_id": "DEM Tommy Calvert Jr.",
+     "party_lines": null
+    },
+    {
+     "name": "IND Roy Anthony II",
+     "votes": 23080,
+     "party": "IND",
+     "pct": 19.9934163793552,
+     "choice_id": "IND Roy Anthony II",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0078",
+   "state": "TX",
+   "title": "Justice of the Peace Precinct 1",
+   "office_type": "judicial",
+   "district": "1",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 159,
+    "units_total": 171,
+    "pct": 93.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DEM Armando Cruz Jr.",
+     "votes": 98766,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Armando Cruz Jr.",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0079",
+   "state": "TX",
+   "title": "Justice of the Peace Precinct 3",
+   "office_type": "judicial",
+   "district": "3",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 186,
+    "units_total": 212,
+    "pct": 87.7,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "REP Julie Bray Patterson",
+     "votes": 119581,
+     "party": "REP",
+     "pct": 100.0,
+     "choice_id": "REP Julie Bray Patterson",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0080",
+   "state": "TX",
+   "title": "Justice of the Peace Precinct 4",
+   "office_type": "judicial",
+   "district": "4",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 202,
+    "units_total": 235,
+    "pct": 86.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "DEM Anna Campos",
+     "votes": 95289,
+     "party": "DEM",
+     "pct": 100.0,
+     "choice_id": "DEM Anna Campos",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0081",
+   "state": "TX",
+   "title": "Bexar Central Appraisal District  - For Director, Place No. 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Susan Bayne",
+     "votes": 134042,
+     "party": null,
+     "pct": 35.9046200660009,
+     "choice_id": "Susan Bayne",
+     "party_lines": null
+    },
+    {
+     "name": "Diana Arévalo",
+     "votes": 239286,
+     "party": null,
+     "pct": 64.0953799339991,
+     "choice_id": "Diana Arévalo",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0082",
+   "state": "TX",
+   "title": "Bexar Central Appraisal District  - For Director, Place No. 2",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Leticia Anguiano",
+     "votes": 219602,
+     "party": null,
+     "pct": 61.2224870711886,
+     "choice_id": "Leticia Anguiano",
+     "party_lines": null
+    },
+    {
+     "name": "Erika Hizel",
+     "votes": 139093,
+     "party": null,
+     "pct": 38.7775129288114,
+     "choice_id": "Erika Hizel",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0083",
+   "state": "TX",
+   "title": "Bexar Central Appraisal District  - For Director, Place No. 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 724,
+    "units_total": 806,
+    "pct": 89.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Jon Melendez",
+     "votes": 301129,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Jon Melendez",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0128",
+   "state": "TX",
+   "title": "Bexar County Municipal Utility District No. 1 - Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0129",
+   "state": "TX",
+   "title": "For Permanent Director Bexar Municipal Utility District",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 5,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Matthew Abrahamsen",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Matthew Abrahamsen",
+     "party_lines": null
+    },
+    {
+     "name": "Theodore Duano",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Theodore Duano",
+     "party_lines": null
+    },
+    {
+     "name": "Andrew Macias",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Andrew Macias",
+     "party_lines": null
+    },
+    {
+     "name": "Alberto Rodriguez",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Alberto Rodriguez",
+     "party_lines": null
+    },
+    {
+     "name": "Alejandro Silva",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "Alejandro Silva",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0130",
+   "state": "TX",
+   "title": "Bexar County Municipal Utility District No. 1 - Proposition B",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0131",
+   "state": "TX",
+   "title": "Bexar County Municipal Utility District No. 1 - Proposition C",
+   "office_type": "measure",
+   "district": "c",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0132",
+   "state": "TX",
+   "title": "Bexar County Municipal Utility District No. 1 - Proposition D",
+   "office_type": "measure",
+   "district": "d",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0133",
+   "state": "TX",
+   "title": "Bexar County Municipal Utility District No. 1 - Proposition E",
+   "office_type": "measure",
+   "district": "e",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0134",
+   "state": "TX",
+   "title": "Bexar County Municipal Utility District No. 1 - Proposition F",
+   "office_type": "measure",
+   "district": "f",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0135",
+   "state": "TX",
+   "title": "Bexar County Municipal Utility District No. 1 - Proposition G",
+   "office_type": "measure",
+   "district": "g",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0084",
+   "state": "TX",
+   "title": "City of China Grove - Proposition",
+   "office_type": "measure",
+   "district": null,
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 387,
+     "party": null,
+     "pct": 66.1538461538462,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 198,
+     "party": null,
+     "pct": 33.8461538461538,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0085",
+   "state": "TX",
+   "title": "For City Council, Place 2 City of Converse, Texas",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 12,
+    "units_total": 19,
+    "pct": 63.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Renée Paschall",
+     "votes": 3388,
+     "party": null,
+     "pct": 53.3711405166982,
+     "choice_id": "Renée Paschall",
+     "party_lines": null
+    },
+    {
+     "name": "Orlando D. Cruz",
+     "votes": 2960,
+     "party": null,
+     "pct": 46.6288594833018,
+     "choice_id": "Orlando D. Cruz",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0086",
+   "state": "TX",
+   "title": "For City Council, Place 4 City of Converse, Texas",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 12,
+    "units_total": 19,
+    "pct": 63.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Bradley Heinz",
+     "votes": 1903,
+     "party": null,
+     "pct": 31.8333890933423,
+     "choice_id": "Bradley Heinz",
+     "party_lines": null
+    },
+    {
+     "name": "Jessica Ann Hannah",
+     "votes": 4075,
+     "party": null,
+     "pct": 68.1666109066578,
+     "choice_id": "Jessica Ann Hannah",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0087",
+   "state": "TX",
+   "title": "For City Council, Place 6 City of Converse, Texas",
+   "office_type": "local",
+   "district": "6",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 12,
+    "units_total": 19,
+    "pct": 63.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Nawid Zazai",
+     "votes": 1370,
+     "party": null,
+     "pct": 22.5662987975622,
+     "choice_id": "Nawid Zazai",
+     "party_lines": null
+    },
+    {
+     "name": "Nancy Droneburg",
+     "votes": 2660,
+     "party": null,
+     "pct": 43.8148575193543,
+     "choice_id": "Nancy Droneburg",
+     "party_lines": null
+    },
+    {
+     "name": "Marc Gilbert",
+     "votes": 2041,
+     "party": null,
+     "pct": 33.6188436830835,
+     "choice_id": "Marc Gilbert",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0088",
+   "state": "TX",
+   "title": "CITY OF CONVERSE - PROPOSITION A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 12,
+    "units_total": 19,
+    "pct": 63.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1958,
+     "party": null,
+     "pct": 21.2941816204459,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 7237,
+     "party": null,
+     "pct": 78.7058183795541,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0089",
+   "state": "TX",
+   "title": "CITY OF CONVERSE - PROPOSITION B",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 12,
+    "units_total": 19,
+    "pct": 63.2,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 6104,
+     "party": null,
+     "pct": 67.1654929577465,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 2984,
+     "party": null,
+     "pct": 32.8345070422535,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0090",
+   "state": "TX",
+   "title": "TOWN OF HOLLYWOOD PARK - PROPOSITION A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1526,
+     "party": null,
+     "pct": 87.5502008032128,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 217,
+     "party": null,
+     "pct": 12.4497991967871,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0091",
+   "state": "TX",
+   "title": "For City Council, Place 5 City of Live Oak, Texas",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 6,
+    "pct": 83.3,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Michael Llamas",
+     "votes": 1536,
+     "party": null,
+     "pct": 41.4910858995138,
+     "choice_id": "Michael Llamas",
+     "party_lines": null
+    },
+    {
+     "name": "Jasmine Johnson",
+     "votes": 2166,
+     "party": null,
+     "pct": 58.5089141004862,
+     "choice_id": "Jasmine Johnson",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0092",
+   "state": "TX",
+   "title": "City of Live Oak - Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 6,
+    "pct": 83.3,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1905,
+     "party": null,
+     "pct": 38.5471469040874,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 3037,
+     "party": null,
+     "pct": 61.4528530959126,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0093",
+   "state": "TX",
+   "title": "City of Live Oak - Proposition B",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 6,
+    "pct": 83.3,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 4021,
+     "party": null,
+     "pct": 83.4578663345787,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 797,
+     "party": null,
+     "pct": 16.5421336654213,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0094",
+   "state": "TX",
+   "title": "City of Live Oak - Proposition C",
+   "office_type": "measure",
+   "district": "c",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 6,
+    "pct": 83.3,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2879,
+     "party": null,
+     "pct": 59.5696254914132,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 1954,
+     "party": null,
+     "pct": 40.4303745085868,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0095",
+   "state": "TX",
+   "title": "City of Live Oak - Proposition D",
+   "office_type": "measure",
+   "district": "d",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 6,
+    "pct": 83.3,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2800,
+     "party": null,
+     "pct": 58.4429137967022,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 1991,
+     "party": null,
+     "pct": 41.5570862032978,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0096",
+   "state": "TX",
+   "title": "City of Live Oak - Proposition E",
+   "office_type": "measure",
+   "district": "e",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 6,
+    "pct": 83.3,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2425,
+     "party": null,
+     "pct": 50.4787676935887,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 2379,
+     "party": null,
+     "pct": 49.5212323064113,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0097",
+   "state": "TX",
+   "title": "City of Live Oak - Proposition F",
+   "office_type": "measure",
+   "district": "f",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 5,
+    "units_total": 6,
+    "pct": 83.3,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 4486,
+     "party": null,
+     "pct": 90.062236498695,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 495,
+     "party": null,
+     "pct": 9.93776350130496,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0098",
+   "state": "TX",
+   "title": "CITY OF SAN ANTONIO - PROPOSITION A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 543,
+    "units_total": 604,
+    "pct": 89.9,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 287683,
+     "party": null,
+     "pct": 72.5627489210792,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 108778,
+     "party": null,
+     "pct": 27.4372510789208,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0099",
+   "state": "TX",
+   "title": "For Mayor City of Sandy Oaks, Texas",
+   "office_type": "local",
+   "district": null,
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Michael Martinez Jr",
+     "votes": 559,
+     "party": null,
+     "pct": 92.7031509121061,
+     "choice_id": "Michael Martinez Jr",
+     "party_lines": null
+    },
+    {
+     "name": "Write-in",
+     "votes": 44,
+     "party": null,
+     "pct": 7.29684908789386,
+     "choice_id": "Write-in",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0100",
+   "state": "TX",
+   "title": "For Alderman, Place 2 City of Sandy Oaks, Texas",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Douglas Tomasini",
+     "votes": 222,
+     "party": null,
+     "pct": 34.6333853354134,
+     "choice_id": "Douglas Tomasini",
+     "party_lines": null
+    },
+    {
+     "name": "Priscilla Schmitt",
+     "votes": 419,
+     "party": null,
+     "pct": 65.3666146645866,
+     "choice_id": "Priscilla Schmitt",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0101",
+   "state": "TX",
+   "title": "For Alderman, Place 3 City of Sandy Oaks, Texas",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Lamar McNeal",
+     "votes": 500,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Lamar McNeal",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0102",
+   "state": "TX",
+   "title": "For Alderman, Place 4 City of Sandy Oaks, Texas",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "CJ Walker",
+     "votes": 512,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "CJ Walker",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0103",
+   "state": "TX",
+   "title": "For City Council, Place 3 City of Schertz, Texas",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Paul Macaluso",
+     "votes": 1244,
+     "party": null,
+     "pct": 63.1792788217369,
+     "choice_id": "Paul Macaluso",
+     "party_lines": null
+    },
+    {
+     "name": "Billie Langhus",
+     "votes": 725,
+     "party": null,
+     "pct": 36.8207211782631,
+     "choice_id": "Billie Langhus",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0104",
+   "state": "TX",
+   "title": "For City Council, Place 4 City of Schertz, Texas",
+   "office_type": "local",
+   "district": "4",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Kenneth E. Ratcliff",
+     "votes": 943,
+     "party": null,
+     "pct": 48.2846902201741,
+     "choice_id": "Kenneth E. Ratcliff",
+     "party_lines": null
+    },
+    {
+     "name": "Benjamin Guerrero",
+     "votes": 1010,
+     "party": null,
+     "pct": 51.7153097798259,
+     "choice_id": "Benjamin Guerrero",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0105",
+   "state": "TX",
+   "title": "For City Council, Place 5 City of Schertz, Texas",
+   "office_type": "local",
+   "district": "5",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Robert M. Westbrook",
+     "votes": 1164,
+     "party": null,
+     "pct": 58.7582029278142,
+     "choice_id": "Robert M. Westbrook",
+     "party_lines": null
+    },
+    {
+     "name": "Jonathon A. Marquez",
+     "votes": 817,
+     "party": null,
+     "pct": 41.2417970721858,
+     "choice_id": "Jonathon A. Marquez",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0106",
+   "state": "TX",
+   "title": "For City Council, Place 1 City of Windcrest, Texas",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 5,
+    "pct": 60.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Narquiz Cervantes",
+     "votes": 817,
+     "party": null,
+     "pct": 34.7363945578231,
+     "choice_id": "Narquiz Cervantes",
+     "party_lines": null
+    },
+    {
+     "name": "Susie Hamilton",
+     "votes": 1156,
+     "party": null,
+     "pct": 49.1496598639456,
+     "choice_id": "Susie Hamilton",
+     "party_lines": null
+    },
+    {
+     "name": "Joan Pedrotti",
+     "votes": 379,
+     "party": null,
+     "pct": 16.1139455782313,
+     "choice_id": "Joan Pedrotti",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0107",
+   "state": "TX",
+   "title": "For City Council, Place 2 City of Windcrest, Texas",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 5,
+    "pct": 60.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Cindy Strzelecki",
+     "votes": 1318,
+     "party": null,
+     "pct": 57.2794437201217,
+     "choice_id": "Cindy Strzelecki",
+     "party_lines": null
+    },
+    {
+     "name": "Sue Alexander",
+     "votes": 983,
+     "party": null,
+     "pct": 42.7205562798783,
+     "choice_id": "Sue Alexander",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0108",
+   "state": "TX",
+   "title": "For City Council, Place 3 City of Windcrest, Texas",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 3,
+    "units_total": 5,
+    "pct": 60.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Greg Turner",
+     "votes": 1389,
+     "party": null,
+     "pct": 62.342908438061,
+     "choice_id": "Greg Turner",
+     "party_lines": null
+    },
+    {
+     "name": "Robert Maloy",
+     "votes": 839,
+     "party": null,
+     "pct": 37.657091561939,
+     "choice_id": "Robert Maloy",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0110",
+   "state": "TX",
+   "title": "COMAL INDEPENDENT SCHOOL DISTRICT - PROPOSITION B",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 11,
+    "units_total": 11,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 6867,
+     "party": null,
+     "pct": 43.14255198844,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 9050,
+     "party": null,
+     "pct": 56.85744801156,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0109",
+   "state": "TX",
+   "title": "COMAL INDEPENDENT SCHOOL DISTRICT - PROPOSITION A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 11,
+    "units_total": 11,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 6867,
+     "party": null,
+     "pct": 43.1615336266499,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 9043,
+     "party": null,
+     "pct": 56.8384663733501,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0111",
+   "state": "TX",
+   "title": "EAST CENTRAL INDEPENDENT SCHOOL DISTRICT - PROPOSITION A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 39,
+    "units_total": 46,
+    "pct": 84.8,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 11944,
+     "party": null,
+     "pct": 47.1238065177937,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 13402,
+     "party": null,
+     "pct": 52.8761934822063,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0112",
+   "state": "TX",
+   "title": "For Trustee, Place 1 Edgewood Independent School District",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 24,
+    "units_total": 25,
+    "pct": 96.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Dora Maldonado",
+     "votes": 4374,
+     "party": null,
+     "pct": 58.3822744260545,
+     "choice_id": "Dora Maldonado",
+     "party_lines": null
+    },
+    {
+     "name": "James Hernandez",
+     "votes": 3118,
+     "party": null,
+     "pct": 41.6177255739455,
+     "choice_id": "James Hernandez",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0113",
+   "state": "TX",
+   "title": "For Trustee, Place 2 Edgewood Independent School District",
+   "office_type": "local",
+   "district": "2",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 24,
+    "units_total": 25,
+    "pct": 96.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Frank Espinosa",
+     "votes": 2319,
+     "party": null,
+     "pct": 31.9069895432031,
+     "choice_id": "Frank Espinosa",
+     "party_lines": null
+    },
+    {
+     "name": "Elias Hernandez",
+     "votes": 2636,
+     "party": null,
+     "pct": 36.2685745734728,
+     "choice_id": "Elias Hernandez",
+     "party_lines": null
+    },
+    {
+     "name": "Jose 'Joe' Gallegos II",
+     "votes": 2313,
+     "party": null,
+     "pct": 31.8244358833242,
+     "choice_id": "Jose 'Joe' Gallegos II",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0114",
+   "state": "TX",
+   "title": "For Trustee, Place 3 Edgewood Independent School District",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 24,
+    "units_total": 25,
+    "pct": 96.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Dorothy Borjas",
+     "votes": 3859,
+     "party": null,
+     "pct": 53.9871292669278,
+     "choice_id": "Dorothy Borjas",
+     "party_lines": null
+    },
+    {
+     "name": "Richard Santoyo",
+     "votes": 3289,
+     "party": null,
+     "pct": 46.0128707330722,
+     "choice_id": "Richard Santoyo",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0115",
+   "state": "TX",
+   "title": "For Trustee, Place 6 Edgewood Independent School District",
+   "office_type": "local",
+   "district": "6",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 24,
+    "units_total": 25,
+    "pct": 96.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Michael Valdez",
+     "votes": 4581,
+     "party": null,
+     "pct": 65.0433054096266,
+     "choice_id": "Michael Valdez",
+     "party_lines": null
+    },
+    {
+     "name": "Joey Cipriano",
+     "votes": 2462,
+     "party": null,
+     "pct": 34.9566945903734,
+     "choice_id": "Joey Cipriano",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0116",
+   "state": "TX",
+   "title": "NORTHSIDE INDEPENDENT SCHOOL DISTRICT - PROPOSITION A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 219,
+    "units_total": 237,
+    "pct": 92.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 100862,
+     "party": null,
+     "pct": 45.1641792381439,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 122461,
+     "party": null,
+     "pct": 54.8358207618561,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0117",
+   "state": "TX",
+   "title": "NORTHSIDE INDEPENDENT SCHOOL DISTRICT - PROPOSITION B",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 219,
+    "units_total": 237,
+    "pct": 92.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 107063,
+     "party": null,
+     "pct": 47.7324808959509,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 117235,
+     "party": null,
+     "pct": 52.2675191040491,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0118",
+   "state": "TX",
+   "title": "NORTHSIDE INDEPENDENT SCHOOL DISTRICT - PROPOSITION C",
+   "office_type": "measure",
+   "district": "c",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 219,
+    "units_total": 237,
+    "pct": 92.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 98300,
+     "party": null,
+     "pct": 44.1383150209466,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 124409,
+     "party": null,
+     "pct": 55.8616849790534,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0119",
+   "state": "TX",
+   "title": "NORTHSIDE INDEPENDENT SCHOOL DISTRICT - PROPOSITION D",
+   "office_type": "measure",
+   "district": "d",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 219,
+    "units_total": 237,
+    "pct": 92.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 92160,
+     "party": null,
+     "pct": 41.4245068029504,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 130317,
+     "party": null,
+     "pct": 58.5754931970496,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0120",
+   "state": "TX",
+   "title": "San Antonio Independent School District - Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 170,
+    "units_total": 178,
+    "pct": 95.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 33363,
+     "party": null,
+     "pct": 47.6757312908158,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 36616,
+     "party": null,
+     "pct": 52.3242687091842,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0121",
+   "state": "TX",
+   "title": "San Antonio Independent School District - Proposition B",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 170,
+    "units_total": 178,
+    "pct": 95.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 32754,
+     "party": null,
+     "pct": 46.7013616596564,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 37381,
+     "party": null,
+     "pct": 53.2986383403436,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0122",
+   "state": "TX",
+   "title": "San Antonio Independent School District - Proposition C",
+   "office_type": "measure",
+   "district": "c",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 170,
+    "units_total": 178,
+    "pct": 95.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 30857,
+     "party": null,
+     "pct": 44.3628155730634,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 38699,
+     "party": null,
+     "pct": 55.6371844269366,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0123",
+   "state": "TX",
+   "title": "San Antonio Independent School District - Proposition D",
+   "office_type": "measure",
+   "district": "d",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 170,
+    "units_total": 178,
+    "pct": 95.5,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 26745,
+     "party": null,
+     "pct": 38.4764782045749,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 42765,
+     "party": null,
+     "pct": 61.5235217954251,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0124",
+   "state": "TX",
+   "title": "SCHERTZ-CIBOLO-UNIVERSAL CITY INDEPENDENT SCHOOL DISTRICT - PROPOSITION A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 10,
+    "units_total": 11,
+    "pct": 90.9,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2620,
+     "party": null,
+     "pct": 48.4646688864225,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 2786,
+     "party": null,
+     "pct": 51.5353311135775,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0125",
+   "state": "TX",
+   "title": "South San Antonio Independent School District - PROPOSITION A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 19,
+    "units_total": 20,
+    "pct": 95.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 3849,
+     "party": null,
+     "pct": 43.4081425510319,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 5018,
+     "party": null,
+     "pct": 56.5918574489681,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0126",
+   "state": "TX",
+   "title": "Somerset Independent School District - For Trustee, Single Member District 3",
+   "office_type": "local",
+   "district": "3",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 4,
+    "units_total": 4,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Albert Herrera",
+     "votes": 284,
+     "party": null,
+     "pct": 60.0422832980973,
+     "choice_id": "Albert Herrera",
+     "party_lines": null
+    },
+    {
+     "name": "Doug Black",
+     "votes": 189,
+     "party": null,
+     "pct": 39.9577167019027,
+     "choice_id": "Doug Black",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0127",
+   "state": "TX",
+   "title": "Somerset Independent School District - For Trustee, Single Member District 7",
+   "office_type": "local",
+   "district": "7",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 2,
+    "units_total": 2,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Robert A. Casias",
+     "votes": 112,
+     "party": null,
+     "pct": 51.6129032258064,
+     "choice_id": "Robert A. Casias",
+     "party_lines": null
+    },
+    {
+     "name": "Emilio G. Arcos",
+     "votes": 105,
+     "party": null,
+     "pct": 48.3870967741936,
+     "choice_id": "Emilio G. Arcos",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0143",
+   "state": "TX",
+   "title": "EASTRIDGE SPECIAL IMPROVEMENT DISTRICT - PROPOSITION A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0144",
+   "state": "TX",
+   "title": "EASTRIDGE SPECIAL IMPROVEMENT DISTRICT - PROPOSITION B",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0145",
+   "state": "TX",
+   "title": "EASTRIDGE SPECIAL IMPROVEMENT DISTRICT - PROPOSITION C",
+   "office_type": "measure",
+   "district": "c",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0146",
+   "state": "TX",
+   "title": "EASTRIDGE SPECIAL IMPROVEMENT DISTRICT - PROPOSITION D",
+   "office_type": "measure",
+   "district": "d",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0147",
+   "state": "TX",
+   "title": "EASTRIDGE SPECIAL IMPROVEMENT DISTRICT - PROPOSITION E",
+   "office_type": "measure",
+   "district": "e",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0148",
+   "state": "TX",
+   "title": "EASTRIDGE SPECIAL IMPROVEMENT DISTRICT - PROPOSITION F",
+   "office_type": "measure",
+   "district": "f",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0149",
+   "state": "TX",
+   "title": "EASTRIDGE SPECIAL IMPROVEMENT DISTRICT - PROPOSITION G",
+   "office_type": "measure",
+   "district": "g",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0150",
+   "state": "TX",
+   "title": "EASTRIDGE SPECIAL IMPROVEMENT DISTRICT - PROPOSITION H",
+   "office_type": "measure",
+   "district": "h",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0151",
+   "state": "TX",
+   "title": "EASTRIDGE SPECIAL IMPROVEMENT DISTRICT - PROPOSITION I",
+   "office_type": "measure",
+   "district": "i",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0152",
+   "state": "TX",
+   "title": "EASTRIDGE SPECIAL IMPROVEMENT DISTRICT - PROPOSITION J",
+   "office_type": "measure",
+   "district": "j",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0153",
+   "state": "TX",
+   "title": "EASTRIDGE SPECIAL IMPROVEMENT DISTRICT - PROPOSITION K",
+   "office_type": "measure",
+   "district": "k",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 2,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0154",
+   "state": "TX",
+   "title": "HOLLY HEIGHTS SPECIAL IMPROVEMENT DISTRICT - PROPOSITION A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0155",
+   "state": "TX",
+   "title": "HOLLY HEIGHTS SPECIAL IMPROVEMENT DISTRICT - PROPOSITION B",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0156",
+   "state": "TX",
+   "title": "HOLLY HEIGHTS SPECIAL IMPROVEMENT DISTRICT - PROPOSITION C",
+   "office_type": "measure",
+   "district": "c",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0157",
+   "state": "TX",
+   "title": "HOLLY HEIGHTS SPECIAL IMPROVEMENT DISTRICT - PROPOSITION D",
+   "office_type": "measure",
+   "district": "d",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0158",
+   "state": "TX",
+   "title": "HOLLY HEIGHTS SPECIAL IMPROVEMENT DISTRICT - PROPOSITION E",
+   "office_type": "measure",
+   "district": "e",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0159",
+   "state": "TX",
+   "title": "HOLLY HEIGHTS SPECIAL IMPROVEMENT DISTRICT - PROPOSITION F",
+   "office_type": "measure",
+   "district": "f",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0160",
+   "state": "TX",
+   "title": "HOLLY HEIGHTS SPECIAL IMPROVEMENT DISTRICT - PROPOSITION G",
+   "office_type": "measure",
+   "district": "g",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0161",
+   "state": "TX",
+   "title": "HOLLY HEIGHTS SPECIAL IMPROVEMENT DISTRICT - PROPOSITION H",
+   "office_type": "measure",
+   "district": "h",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0162",
+   "state": "TX",
+   "title": "HOLLY HEIGHTS SPECIAL IMPROVEMENT DISTRICT - PROPOSITION I",
+   "office_type": "measure",
+   "district": "i",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0163",
+   "state": "TX",
+   "title": "HOLLY HEIGHTS SPECIAL IMPROVEMENT DISTRICT - PROPOSITION J",
+   "office_type": "measure",
+   "district": "j",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0164",
+   "state": "TX",
+   "title": "HOLLY HEIGHTS SPECIAL IMPROVEMENT DISTRICT - PROPOSITION K",
+   "office_type": "measure",
+   "district": "k",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0137",
+   "state": "TX",
+   "title": "Jones Avenue Municipal Management District -Proposition A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 9,
+     "party": null,
+     "pct": 81.8181818181818,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 2,
+     "party": null,
+     "pct": 18.1818181818182,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0138",
+   "state": "TX",
+   "title": "Jones Avenue Municipal Management District -Proposition B",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 8,
+     "party": null,
+     "pct": 72.7272727272727,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 3,
+     "party": null,
+     "pct": 27.2727272727273,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0139",
+   "state": "TX",
+   "title": "Jones Avenue Municipal Management District -Proposition C",
+   "office_type": "measure",
+   "district": "c",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 7,
+     "party": null,
+     "pct": 63.6363636363636,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 4,
+     "party": null,
+     "pct": 36.3636363636364,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0140",
+   "state": "TX",
+   "title": "Jones Avenue Municipal Management District -Proposition D",
+   "office_type": "measure",
+   "district": "d",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 8,
+     "party": null,
+     "pct": 72.7272727272727,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 3,
+     "party": null,
+     "pct": 27.2727272727273,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0141",
+   "state": "TX",
+   "title": "Jones Avenue Municipal Management District -Proposition E",
+   "office_type": "measure",
+   "district": "e",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 7,
+     "party": null,
+     "pct": 63.6363636363636,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 4,
+     "party": null,
+     "pct": 36.3636363636364,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0142",
+   "state": "TX",
+   "title": "Jones Avenue Municipal Management District -Proposition F",
+   "office_type": "measure",
+   "district": "f",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 9,
+     "party": null,
+     "pct": 81.8181818181818,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 2,
+     "party": null,
+     "pct": 18.1818181818182,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0165",
+   "state": "TX",
+   "title": "SLOANE OAK SPECIAL \nIMPROVEMENT DISTRICT - PROPOSITION A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0166",
+   "state": "TX",
+   "title": "SLOANE OAK SPECIAL \nIMPROVEMENT DISTRICT - PROPOSITION B",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0167",
+   "state": "TX",
+   "title": "SLOANE OAK SPECIAL \nIMPROVEMENT DISTRICT - PROPOSITION C",
+   "office_type": "measure",
+   "district": "c",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0168",
+   "state": "TX",
+   "title": "SLOANE OAK SPECIAL \nIMPROVEMENT DISTRICT - PROPOSITION D",
+   "office_type": "measure",
+   "district": "d",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0169",
+   "state": "TX",
+   "title": "SLOANE OAK SPECIAL \nIMPROVEMENT DISTRICT - PROPOSITION E",
+   "office_type": "measure",
+   "district": "e",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0170",
+   "state": "TX",
+   "title": "SLOANE OAK SPECIAL \nIMPROVEMENT DISTRICT - PROPOSITION F",
+   "office_type": "measure",
+   "district": "f",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0171",
+   "state": "TX",
+   "title": "SLOANE OAK SPECIAL \nIMPROVEMENT DISTRICT - PROPOSITION G",
+   "office_type": "measure",
+   "district": "g",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0172",
+   "state": "TX",
+   "title": "SLOANE OAK SPECIAL \nIMPROVEMENT DISTRICT - PROPOSITION H",
+   "office_type": "measure",
+   "district": "h",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0173",
+   "state": "TX",
+   "title": "SLOANE OAK SPECIAL \nIMPROVEMENT DISTRICT - PROPOSITION I",
+   "office_type": "measure",
+   "district": "i",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0174",
+   "state": "TX",
+   "title": "SLOANE OAK SPECIAL \nIMPROVEMENT DISTRICT - PROPOSITION J",
+   "office_type": "measure",
+   "district": "j",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0175",
+   "state": "TX",
+   "title": "SLOANE OAK SPECIAL \nIMPROVEMENT DISTRICT - PROPOSITION K",
+   "office_type": "measure",
+   "district": "k",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0176",
+   "state": "TX",
+   "title": "SUNSHINE TRAILS SPECIAL\nIMPROVEMENT DISTRICT - PROPOSITION A",
+   "office_type": "measure",
+   "district": "a",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0177",
+   "state": "TX",
+   "title": "SUNSHINE TRAILS SPECIAL\nIMPROVEMENT DISTRICT - PROPOSITION B",
+   "office_type": "measure",
+   "district": "b",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0178",
+   "state": "TX",
+   "title": "SUNSHINE TRAILS SPECIAL\nIMPROVEMENT DISTRICT - PROPOSITION C",
+   "office_type": "measure",
+   "district": "c",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0179",
+   "state": "TX",
+   "title": "SUNSHINE TRAILS SPECIAL\nIMPROVEMENT DISTRICT - PROPOSITION D",
+   "office_type": "measure",
+   "district": "d",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0180",
+   "state": "TX",
+   "title": "SUNSHINE TRAILS SPECIAL\nIMPROVEMENT DISTRICT - PROPOSITION E",
+   "office_type": "measure",
+   "district": "e",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0181",
+   "state": "TX",
+   "title": "SUNSHINE TRAILS SPECIAL\nIMPROVEMENT DISTRICT - PROPOSITION F",
+   "office_type": "measure",
+   "district": "f",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0182",
+   "state": "TX",
+   "title": "SUNSHINE TRAILS SPECIAL\nIMPROVEMENT DISTRICT - PROPOSITION G",
+   "office_type": "measure",
+   "district": "g",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0183",
+   "state": "TX",
+   "title": "SUNSHINE TRAILS SPECIAL\nIMPROVEMENT DISTRICT - PROPOSITION H",
+   "office_type": "measure",
+   "district": "h",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0184",
+   "state": "TX",
+   "title": "SUNSHINE TRAILS SPECIAL\nIMPROVEMENT DISTRICT - PROPOSITION I",
+   "office_type": "measure",
+   "district": "i",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0185",
+   "state": "TX",
+   "title": "SUNSHINE TRAILS SPECIAL\nIMPROVEMENT DISTRICT - PROPOSITION J",
+   "office_type": "measure",
+   "district": "j",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0186",
+   "state": "TX",
+   "title": "SUNSHINE TRAILS SPECIAL\nIMPROVEMENT DISTRICT - PROPOSITION K",
+   "office_type": "measure",
+   "district": "k",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 1,
+    "units_total": 1,
+    "pct": 100.0,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Yes",
+     "votes": 1,
+     "party": null,
+     "pct": 100.0,
+     "choice_id": "Yes",
+     "party_lines": null
+    },
+    {
+     "name": "No",
+     "votes": 0,
+     "party": null,
+     "pct": 0.0,
+     "choice_id": "No",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  },
+  {
+   "source": "tx.bexar",
+   "contest_id": "0136",
+   "state": "TX",
+   "title": "For Director Edwards Aquifer Authority District 1",
+   "office_type": "local",
+   "district": "1",
+   "jurisdiction": "Bexar County",
+   "scope": "complete",
+   "vote_for": 1,
+   "final": false,
+   "reporting": {
+    "units_reporting": 126,
+    "units_total": 141,
+    "pct": 89.4,
+    "text": null,
+    "as_percent": true
+   },
+   "feed_updated_at": null,
+   "choices": [
+    {
+     "name": "Joey Groff",
+     "votes": 28707,
+     "party": null,
+     "pct": 37.5382482935377,
+     "choice_id": "Joey Groff",
+     "party_lines": null
+    },
+    {
+     "name": "Carol G. Patterson",
+     "votes": 47767,
+     "party": null,
+     "pct": 62.4617517064623,
+     "choice_id": "Carol G. Patterson",
+     "party_lines": null
+    }
+   ],
+   "url": "https://results.enr.clarityelections.com/TX/Bexar/127291/",
+   "uncontested": false
+  }
+ ],
+ "contests_hash": "a515397e55750732",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-11T19:28:54+00:00",
+ "fetched_at": "2026-11-11T19:28:54+00:00",
+ "contests_changed_at": "2026-11-11T19:28:54+00:00"
 }
