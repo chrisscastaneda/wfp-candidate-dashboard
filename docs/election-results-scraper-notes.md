@@ -55,6 +55,7 @@ See also [election-results-scraper-plan.md](election-results-scraper-plan.md) (d
 | Nov 11, 2:25pm | 1,064 | 863 | Lancaster County NE (entered by hand) |
 | Nov 11, 2:50pm | 1,073 | 869 | Tarrant, Bexar, Dallas (TX) and Marin (CA) via known Clarity ids; Franklin County OH (new source); Boulder mayor and Phoenix D4 (by hand); 19 races marked not on the ballot |
 | Nov 11, 3:20pm | 1,085 | 877 | Tennessee (5), Kentucky Senate, Wisconsin statewide and questions (5) by hand; Texas HD-49 from Travis |
+| Nov 12, 8:37pm | 1,085 | 879 | (none new; 363 counts changed; Kluwe and Currey Nunez flip to leading) |
 
 Still missing at 2:50pm Nov 11: Middlesex (NJ). Bexar, Dallas, Tarrant and Marin read again from Nov 11 (see "Nov 11, 2:50pm" below).
 
@@ -863,6 +864,23 @@ Sites that block scripts, read in the browser and entered in `manual_entries.csv
 - Code: `platforms/clarity.py` and `states/clarity_states.py` (`whole` option; Travis HD-49 and HD-50). Data:
   `manual_entries.csv` (24 rows), `results_sources.csv` (Loya and Hendrinks not on the ballot; hand-entry notes).
 - 1,085 races with results, WFP leading 877; 39 not on the ballot; 96 with no source; 1 unmatched.
+
+### Nov 12, 8:37pm: late updates
+
+- All 85 sources ran. Nassau still draws its page as vector shapes (error; election-night results kept), and
+  Middlesex NJ still lists no Nov 3 election. Florida read normally with its certificate exception.
+- 1,085 races with results (unchanged), WFP leading 879 (was 877). Vote counts changed in 363 races, led by the
+  California API 29, New York's summed districts 28, Oregon 28, New Mexico 26, Arizona 20, Orange County 20, Onondaga 20
+  and Westchester 18. Hand-entered races didn't change (they only update when re-entered).
+- **Flipped to leading:** Chris Kluwe (CA AD-72) 726 ahead (was 111 behind); Mer Currey Nunez (East Side Union HSD
+  TA 1, short term) 142 ahead (was 39 behind).
+- **Closing:** Jozef Maldonado (Fullerton D5) now 24 ahead (was 35); Mariana Sandoval (AZ LD-23) 14 behind (was 9);
+  Caitlin Quinn (Sonoma Board of Education) 390 behind (was 657); Rob Santucci (Cicero supervisor) 297 behind (was
+  333); Bre Irish (Corvallis Ward 1) 334 behind (was 347); Sean Davis (Astoria mayor) 53 behind (was 59).
+- **Widening:** Diana Harris (San Mateo UHSD) +479 (was +282); Ofelia Bello (East Palo Alto) +262 (was +148);
+  Justin Neal (Onondaga LD-1) +229 (was +186); Sarah Seitchik Sebastian (Petaluma JUHSD) +198 (was +159).
+- Still very close and unchanged: Steven Kung (Monterey Park) 4 behind, Kyle Fendrich (Dutchess LD-15) 6 behind, Bob
+  Fernandez (CO HD-48) 58 ahead, Kim Becker (CO HD-62) 40 ahead, Jonathan Bradner (OH HD-29) 19 behind.
 
 ---
 
