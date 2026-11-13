@@ -56,6 +56,7 @@ See also [election-results-scraper-plan.md](election-results-scraper-plan.md) (d
 | Nov 11, 2:50pm | 1,073 | 869 | Tarrant, Bexar, Dallas (TX) and Marin (CA) via known Clarity ids; Franklin County OH (new source); Boulder mayor and Phoenix D4 (by hand); 19 races marked not on the ballot |
 | Nov 11, 3:20pm | 1,085 | 877 | Tennessee (5), Kentucky Senate, Wisconsin statewide and questions (5) by hand; Texas HD-49 from Travis |
 | Nov 12, 8:37pm | 1,085 | 879 | (none new; 363 counts changed; Kluwe and Currey Nunez flip to leading) |
+| Nov 13, 1:52pm | 1,085 | 879 | (none new; 142 counts changed; no flips) |
 
 Still missing at 2:50pm Nov 11: Middlesex (NJ). Bexar, Dallas, Tarrant and Marin read again from Nov 11 (see "Nov 11, 2:50pm" below).
 
@@ -881,6 +882,21 @@ Sites that block scripts, read in the browser and entered in `manual_entries.csv
   Justin Neal (Onondaga LD-1) +229 (was +186); Sarah Seitchik Sebastian (Petaluma JUHSD) +198 (was +159).
 - Still very close and unchanged: Steven Kung (Monterey Park) 4 behind, Kyle Fendrich (Dutchess LD-15) 6 behind, Bob
   Fernandez (CO HD-48) 58 ahead, Kim Becker (CO HD-62) 40 ahead, Jonathan Bradner (OH HD-29) 19 behind.
+
+### Nov 13, 1:52pm: quieter day
+
+- First run with the project skill (`.claude/skills/update-results/`), which snapshots the published results, runs
+  the scrapers, compares the two with `compare.py`, and updates these notes and `dist/`.
+- All 85 sources ran; Nassau (vector-drawn page) and Middlesex NJ (no Nov 3 election listed) as before.
+- 1,085 races with results, WFP leading 879 (both unchanged). Vote counts changed in 142 races, led by the California
+  API 23, Colorado 23, San Diego 16 and Oregon 16. No races flipped.
+- **Closing:** Cindy Lopez (National City D1) now 27 ahead (was 46); Maria Hinojos Pressey (Marion County Position
+  2) 32 behind (was 59); Emily Gonzales (Oceanside D2) 327 behind (was 394); Sara Duncan (Marion County Position 1)
+  280 behind (was 294).
+- **Widening:** Kenneth Zuniga (Vista mayor) +804 (was +674); Mark Pinsley (PA SD-16) +3,299 (was +3,221). Prop 4
+  (public financing) Yes now trails by 80,340 (was 75,779).
+- Hand entries due: Lancaster NE counts provisionals and resolution ballots today at 4pm (re-enter after). Boulder,
+  Phoenix, Tennessee and Michigan's state-plus-Wayne entries are marked for re-entry when their sources update.
 
 ---
 
