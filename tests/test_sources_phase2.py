@@ -226,3 +226,11 @@ def test_louisiana_multiparish_blobs():
                                                                      ("Simone Levine", 60000, "DEM")]
     assert amendment.office_type == "measure" and [c.name for c in amendment.choices] == ["Yes", "No"]
 
+
+
+def test_oregon_empty_page_is_an_error_not_no_contests():
+    shell = "<html><h1>Preparing Export...</h1><h3>Unofficial</h3></html>"
+    with pytest.raises(ValueError, match="came back empty"):
+        or_._checked(shell, "FED")
+    page = '<div class="display-results-box-a">x</div>'
+    assert or_._checked(page, "FED") is page

@@ -86,7 +86,7 @@ class Oregon(Source):
         contests = []
         for group in GROUPS:
             params = {"type": group, "map": "CTY"}
-            page = fetch.get(f"{BASE}/resultsSW.aspx", params=params, expect="text")
+            page = _checked(fetch.get(f"{BASE}/resultsSW.aspx", params=params, expect="text"), group)
             contests += parse(page, jurisdiction="Oregon")
             for button in MORE_PAGES.get(group, []):
                 buttons = re.findall(rf'name="{re.escape(button)}" value="([^"]*)"', page)
@@ -97,10 +97,19 @@ class Oregon(Source):
             raise NotPublished("results pages have no contests")
         seen = frozenset(names.fold(c.title) for c in contests)
         for county, cty in COUNTIES.items():
-            page = fetch.get(f"{BASE}/ResultsSW.aspx", params={"type": "CTYALL", "cty": cty, "map": "CTY"},
-                             expect="text")
+            page = _checked(fetch.get(f"{BASE}/ResultsSW.aspx", params={"type": "CTYALL", "cty": cty, "map": "CTY"},
+                                      expect="text"), f"{county} County")
             contests += parse(page, jurisdiction=f"{county} County", skip_titles=seen)
         return contests
+
+
+def _checked(page: str, label: str) -> str:
+    """Every page has contests this election. From ~Nov 15 some come back as an empty shell ("Preparing Export...",
+    about 2 KB, no results boxes); taking that as "no contests" dropped the federal races and local measures and let
+    county pages repeat statewide contests. Treat it as a failed pull so the last good results are kept."""
+    if "display-results-box-a" not in page:
+        raise ValueError(f"Oregon's {label} page came back empty ({len(page):,} bytes); keeping last results")
+    return page
 
 
 SOURCES = [Oregon()]

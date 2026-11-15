@@ -5534,11 +5534,11 @@
      "party_lines": null
     },
     {
-     "name": "Esther León",
+     "name": "Esther Le\u00f3n",
      "votes": 0,
      "party": null,
      "pct": 0.0,
-     "choice_id": "Esther León",
+     "choice_id": "Esther Le\u00f3n",
      "party_lines": null
     },
     {
@@ -16158,11 +16158,11 @@
    "feed_updated_at": null,
    "choices": [
     {
-     "name": "Colette Paré-Miller",
+     "name": "Colette Par\u00e9-Miller",
      "votes": 1956,
      "party": null,
      "pct": 98.49,
-     "choice_id": "Colette Paré-Miller",
+     "choice_id": "Colette Par\u00e9-Miller",
      "party_lines": null
     },
     {
@@ -24158,11 +24158,11 @@
      "party_lines": null
     },
     {
-     "name": "Gabriel Elijio Velásquez",
+     "name": "Gabriel Elijio Vel\u00e1squez",
      "votes": 10307,
      "party": null,
      "pct": 16.07,
-     "choice_id": "Gabriel Elijio Velásquez",
+     "choice_id": "Gabriel Elijio Vel\u00e1squez",
      "party_lines": null
     },
     {
@@ -25675,9 +25675,9 @@
   }
  ],
  "contests_hash": "7d4a2a7b94f2c902",
- "status": "ok",
- "message": "",
- "last_attempt_at": "2026-11-13T18:53:08+00:00",
- "fetched_at": "2026-11-13T18:53:08+00:00",
+ "status": "error",
+ "message": "ValueError: Oregon's Washington County page came back empty (2,109 bytes); keeping last results\nTraceback (most recent call last):\n  File \"/Users/christopher/code/wfp-lab/scrapers/elex/run.py\", line 40, in pull\n    result.contests = source.pull(fetch)\n                      ~~~~~~~~~~~^^^^^^^\n  File \"/Users/christopher/code/wfp-lab/scrapers/elex/states/or_.py\", line 100, in pull\n    page = _checked(fetch.get(f\"{BASE}/ResultsSW.aspx\", params={\"type\": \"CTYALL\", \"cty\": cty, \"map\": \"CTY\"},\n                              expect=\"text\"), f\"{county} County\")\n  File \"/Users/christopher/code/wfp-lab/scrapers/elex/states/or_.py\", line 111, in _checked\n    raise ValueError(f\"Oregon's {label} page came back empty ({len(page):,} bytes); keeping last results\")\nValueError: Oregon's Washington County page came back empty (2,109 bytes); keeping last results\n",
+ "last_attempt_at": "2026-11-15T17:37:39+00:00",
+ "fetched_at": "2026-11-15T17:34:41+00:00",
  "contests_changed_at": "2026-11-13T18:53:08+00:00"
 }

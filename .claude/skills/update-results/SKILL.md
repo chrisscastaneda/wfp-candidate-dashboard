@@ -60,6 +60,15 @@ Margins are WFP's votes minus the rival across the winning line, so `+` means le
 Look into anything surprising before writing it up. Examples: a source that newly errors, a count that went down,
 or a race that changed status.
 
+**A source that publishes a partial or empty pull** shows up as races going from `counting` to `unmatched` or
+`awaiting`, or as a source's contest count dropping (it's printed on the source's line in the run output). This
+happened with Oregon on Nov 15, when some pages came back as empty shells. To recover:
+1. Fix the source so the bad response raises an error. A failed pull keeps the stored results; an empty one replaces
+   them.
+2. Restore the last good pull from `data/results/history/<source>/<run id>.json` into
+   `data/results/latest/<source>.json`. Keep the current `status`, `message`, `last_attempt_at` and `fetched_at`.
+3. Rematch with `.venv/bin/python scrapers/scrape_results.py match`, then compare again.
+
 ### 4. Check the hand entries
 
 Hand entries only change when re-entered. The end of the comparison output lists every hand-entered contest:

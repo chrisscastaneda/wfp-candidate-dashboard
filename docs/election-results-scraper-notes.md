@@ -57,6 +57,7 @@ See also [election-results-scraper-plan.md](election-results-scraper-plan.md) (d
 | Nov 11, 3:20pm | 1,085 | 877 | Tennessee (5), Kentucky Senate, Wisconsin statewide and questions (5) by hand; Texas HD-49 from Travis |
 | Nov 12, 8:37pm | 1,085 | 879 | (none new; 363 counts changed; Kluwe and Currey Nunez flip to leading) |
 | Nov 13, 1:52pm | 1,085 | 879 | (none new; 142 counts changed; no flips) |
+| Nov 15, 12:34pm | 1,085 | 880 | (none new; 331 counts changed; Caitlin Quinn flips to leading; Oregon held at Nov 13) |
 
 Still missing at 2:50pm Nov 11: Middlesex (NJ). Bexar, Dallas, Tarrant and Marin read again from Nov 11 (see "Nov 11, 2:50pm" below).
 
@@ -898,6 +899,35 @@ Sites that block scripts, read in the browser and entered in `manual_entries.csv
 - Hand entries due: Lancaster NE counts provisionals and resolution ballots today at 4pm (re-enter after). Boulder,
   Phoenix, Tennessee and Michigan's state-plus-Wayne entries are marked for re-entry when their sources update.
 
+### Nov 15, 12:34pm: Oregon's site half-fails
+
+- **Oregon's results site returned empty pages.** Its federal, county-measure and local-measure pages (FED, MCR,
+  LMEA) and Yamhill's county page came back as a 2 KB shell headed "Preparing Export..." with no results. The source
+  read those as "no contests", so the pull lost the federal races and local measures. County pages then repeated
+  statewide contests the missing pages would have filtered out, some with zero votes. Seven races broke: Merkley,
+  Bonamici and Hoyle and the Hood River bond went unmatched, Milwaukie's two races went to awaiting, and Portland
+  26-267 matched a stray county copy (a 19-vote margin instead of 73,183).
+  - Fix: every Oregon page must have results boxes, or the pull fails and keeps the last good results
+    (`states/or_.py`, `_checked`). A test covers it.
+  - The bad pull had already been stored, so Oregon's stored results were restored from the Nov 13 1:52pm history
+    snapshot (`history/or/20261113T185243Z.json`), keeping the current error status. Oregon stays at its Nov 13
+    counts until the site serves full pages again. A rerun at 12:37pm still got empty pages (Washington County).
+  - The skill now explains how to spot and recover from a partial pull.
+- Other sources as before: Nassau (vector page) errors with its last results kept; Middlesex NJ has no Nov 3
+  election listed.
+- 1,085 races with results, WFP leading 880 (was 879). Vote counts changed in 331 races, led by Colorado 83, the
+  California API 42, Los Angeles 26, Pennsylvania 23 and Orange County 19.
+- **Flipped to leading:** Caitlin Quinn (Sonoma County Board of Education, TA 2), 234 ahead (was 390 behind).
+- **Closing:** Estuardo Mazariegos (LA council D9) 41 behind (was 156); Jozef Maldonado (Fullerton D5) 22 ahead (was
+  24); Mai Vang (CA-7) 12,193 behind (was 15,314); David Ross (LA Superior Court 131) 4,273 behind (was 5,604).
+  Props 40, 42 and 4 all narrowed by 6,500–20,000 votes, still losing for WFP's side.
+- **Widening:** Derek Rodriguez (Berkeley Rent Board) +571 (was +332); Jennifer Brouhard (Oakland school D2, first
+  choices) +411 (was +340); Angela Giron (Pueblo commissioner D3) +914 (was +810); Allen Medina (Pueblo sheriff)
+  +345 (was +278).
+- Still very close and unchanged: Steven Kung (Monterey Park) 4 behind, Kyle Fendrich (Dutchess LD-15) 6 behind,
+  Jonathan Bradner (OH HD-29) 19 behind.
+- Hand entries due: Lancaster NE counted its provisional and resolution ballots on Nov 13 (not yet re-entered).
+
 ---
 
 ## Feed quirks worth remembering
@@ -959,6 +989,7 @@ Sites that block scripts, read in the browser and entered in `manual_entries.csv
 | Boulder (CO) | City races (ranked choice) aren't in the state's results | Entered by hand from the county's RCV report |
 | Phoenix (AZ) | City runs its own council elections; not in Maricopa's file | Entered by hand from the City Clerk's page |
 | California local races | Unopposed candidates are appointed, not listed on the ballot | Marked not on the Nov 3 ballot when the county has no contest |
+| Oregon SoS (Nov 15) | Some pages served as empty "Preparing Export..." shells | Empty page fails the pull; last good results restored from history |
 | Texas SoS results site | No 2026 elections listed (stops at 2024) | Single-county districts read from the county (Travis `whole`); others wait |
 | Tennessee, Kentucky SoS | Block scripts (403) | Read in the browser and entered by hand |
 | Wisconsin statewide | No state election-night feed | AP count via FOX6's embed, entered by hand |
@@ -975,6 +1006,8 @@ Sites that block scripts, read in the browser and entered in `manual_entries.csv
   re-enter until certified. Maine (Senate, Cumberland DA) has no counts yet: the state hasn't posted Nov 3 results.
 - Lancaster County NE (Randall Ritnour) is hand-entered from the Nov 6 report; re-enter after the Nov 13 count.
 - Boulder mayor and Phoenix District 4 are hand-entered (Nov 6 and Nov 10 reports); re-enter when they update.
+- Oregon is held at its Nov 13 counts while its site serves empty pages (from Nov 15); it updates again once a full
+  pull succeeds.
 - Middlesex NJ still shows no Nov 3 election on Clarity, and its county site blocks scripts; Shantell Cherry
   (Piscataway Ward 1) and the county's share of NJ House races wait on it.
 - Massachusetts is entered by hand (AP as of about 7–10am Nov 4) and only updates when re-entered; Q5 and the
