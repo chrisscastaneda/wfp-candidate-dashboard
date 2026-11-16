@@ -58,6 +58,7 @@ See also [election-results-scraper-plan.md](election-results-scraper-plan.md) (d
 | Nov 12, 8:37pm | 1,085 | 879 | (none new; 363 counts changed; Kluwe and Currey Nunez flip to leading) |
 | Nov 13, 1:52pm | 1,085 | 879 | (none new; 142 counts changed; no flips) |
 | Nov 15, 12:34pm | 1,085 | 880 | (none new; 331 counts changed; Caitlin Quinn flips to leading; Oregon held at Nov 13) |
+| Nov 16, 12:54pm | 1,085 | 880 | (none new; Lancaster NE re-entered from the Nov 13 final count) |
 
 Still missing at 2:50pm Nov 11: Middlesex (NJ). Bexar, Dallas, Tarrant and Marin read again from Nov 11 (see "Nov 11, 2:50pm" below).
 
@@ -928,6 +929,15 @@ Sites that block scripts, read in the browser and entered in `manual_entries.csv
   Jonathan Bradner (OH HD-29) 19 behind.
 - Hand entries due: Lancaster NE counted its provisional and resolution ballots on Nov 13 (not yet re-entered).
 
+### Nov 16, 12:54pm: Lancaster NE re-entered
+
+- Lancaster's Nov 13 report ("4:45 pm - Provisionals and Resolutions", `DocumentCenter/View/34268`, generated
+  11/13/2026 4:43pm and marked "Unofficial Results - Final") was read in the browser and entered by hand. It adds
+  2,269 provisional ballots; 133,521 ballots cast in all.
+- County Attorney: Randall Ritnour 68,966, Pat Condon 58,059 (176 write-ins). Ritnour leads by 10,907 (was 9,836).
+- Rematched with `run --sources manual` (run 20261116T175407Z). Totals unchanged: 1,085 races with results, WFP
+  leading 880.
+
 ---
 
 ## Feed quirks worth remembering
@@ -1004,7 +1014,8 @@ Sites that block scripts, read in the browser and entered in `manual_entries.csv
   need re-entering once the state adds Wayne. The two Bay City Commission races aren't on Bay County's report.
 - Tennessee (5), Kentucky Senate and Wisconsin's statewide races and questions (5) are hand-entered Nov 11;
   re-enter until certified. Maine (Senate, Cumberland DA) has no counts yet: the state hasn't posted Nov 3 results.
-- Lancaster County NE (Randall Ritnour) is hand-entered from the Nov 6 report; re-enter after the Nov 13 count.
+- Lancaster County NE (Randall Ritnour) is hand-entered from the Nov 13 final unofficial report; re-enter once the
+  county certifies.
 - Boulder mayor and Phoenix District 4 are hand-entered (Nov 6 and Nov 10 reports); re-enter when they update.
 - Oregon is held at its Nov 13 counts while its site serves empty pages (from Nov 15); it updates again once a full
   pull succeeds.
