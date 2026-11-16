@@ -3,45 +3,45 @@
  "contests": [
   {
    "source": "ny.nassau",
-   "contest_id": "Governor and Lieutenant Governor",
+   "contest_id": "All District Categories All Districts Governor and Lieutenant Governor",
    "state": "NY",
-   "title": "Governor and Lieutenant Governor",
-   "office_type": "governor",
+   "title": "All District Categories All Districts Governor and Lieutenant Governor",
+   "office_type": "lt_governor",
    "district": null,
    "jurisdiction": "Nassau County",
    "scope": "partial",
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Kathy C. Hochul",
-     "votes": 249895,
+     "votes": 269481,
      "party": "DEM",
-     "pct": 50.26,
+     "pct": 50.24,
      "choice_id": "Kathy C. Hochul",
      "party_lines": {
-      "DEM": 240165,
-      "WFP": 9730
+      "DEM": 258857,
+      "WFP": 10624
      }
     },
     {
      "name": "Bruce A. Blakeman",
-     "votes": 247291,
+     "votes": 266928,
      "party": "REP",
-     "pct": 49.74,
+     "pct": 49.76,
      "choice_id": "Bruce A. Blakeman",
      "party_lines": {
-      "REP": 228983,
-      "CONSERVATIVE": 15981,
-      "VOTE AFFORDA": 2327
+      "REP": 247051,
+      "CONSERVATIVE": 17340,
+      "VOTE AFFORDA": 2537
      }
     }
    ],
@@ -60,34 +60,34 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Thomas P. DiNapoli",
-     "votes": 272030,
+     "votes": 293133,
      "party": "DEM",
-     "pct": 55.64,
+     "pct": 55.58,
      "choice_id": "Thomas P. DiNapoli",
      "party_lines": {
-      "DEM": 257960,
-      "WFP": 14070
+      "DEM": 277778,
+      "WFP": 15355
      }
     },
     {
      "name": "Joseph Hernandez",
-     "votes": 216883,
+     "votes": 234294,
      "party": "REP",
-     "pct": 44.36,
+     "pct": 44.42,
      "choice_id": "Joseph Hernandez",
      "party_lines": {
-      "REP": 200397,
-      "CONSERVATIVE": 16486
+      "REP": 216397,
+      "CONSERVATIVE": 17897
      }
     }
    ],
@@ -106,34 +106,34 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Letitia A. James",
-     "votes": 248175,
+     "votes": 267599,
      "party": "DEM",
-     "pct": 50.65,
+     "pct": 50.62,
      "choice_id": "Letitia A. James",
      "party_lines": {
-      "DEM": 236872,
-      "WFP": 11303
+      "DEM": 255269,
+      "WFP": 12330
      }
     },
     {
      "name": "Saritha Komatireddy",
-     "votes": 241845,
+     "votes": 261056,
      "party": "REP",
-     "pct": 49.35,
+     "pct": 49.38,
      "choice_id": "Saritha Komatireddy",
      "party_lines": {
-      "REP": 223203,
-      "CONSERVATIVE": 18642
+      "REP": 240804,
+      "CONSERVATIVE": 20252
      }
     }
    ],
@@ -152,34 +152,34 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Patrick Halpin",
-     "votes": 10074,
+     "votes": 11366,
      "party": "DEM",
-     "pct": 32.59,
+     "pct": 32.33,
      "choice_id": "Patrick Halpin",
      "party_lines": {
-      "DEM": 9516,
-      "WFP": 558
+      "DEM": 10735,
+      "WFP": 631
      }
     },
     {
      "name": "Andrew R. Garbarino",
-     "votes": 20838,
+     "votes": 23787,
      "party": "REP",
-     "pct": 67.41,
+     "pct": 67.67,
      "choice_id": "Andrew R. Garbarino",
      "party_lines": {
-      "REP": 19139,
-      "CONSERVATIVE": 1699
+      "REP": 21855,
+      "CONSERVATIVE": 1932
      }
     }
    ],
@@ -198,31 +198,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Thomas R. Suozzi",
-     "votes": 102635,
+     "votes": 109291,
      "party": null,
-     "pct": 53.52,
+     "pct": 53.44,
      "choice_id": "Thomas R. Suozzi",
      "party_lines": null
     },
     {
      "name": "Michael J. LiPetri Jr.",
-     "votes": 89125,
+     "votes": 95217,
      "party": "REP",
-     "pct": 46.48,
+     "pct": 46.56,
      "choice_id": "Michael J. LiPetri Jr.",
      "party_lines": {
-      "REP": 82518,
-      "CONSERVATIVE": 6607
+      "REP": 88112,
+      "CONSERVATIVE": 7105
      }
     }
    ],
@@ -241,36 +241,36 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Laura A. Gillen",
-     "votes": 151336,
+     "votes": 163834,
      "party": null,
-     "pct": 56.28,
+     "pct": 56.37,
      "choice_id": "Laura A. Gillen",
      "party_lines": null
     },
     {
      "name": "Jeanine C. Driscoll",
-     "votes": 116912,
+     "votes": 126049,
      "party": "REP",
-     "pct": 43.48,
+     "pct": 43.37,
      "choice_id": "Jeanine C. Driscoll",
      "party_lines": {
-      "REP": 108023,
-      "CONSERVATIVE": 8889
+      "REP": 116449,
+      "CONSERVATIVE": 9600
      }
     },
     {
      "name": "Blay Tarnoff",
-     "votes": 663,
+     "votes": 733,
      "party": null,
      "pct": 0.25,
      "choice_id": "Blay Tarnoff",
@@ -292,31 +292,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Andrew Piddoubny",
-     "votes": 50896,
+     "votes": 56535,
      "party": null,
-     "pct": 42.6,
+     "pct": 42.22,
      "choice_id": "Andrew Piddoubny",
      "party_lines": null
     },
     {
      "name": "Steven D. Rhoads",
-     "votes": 68587,
+     "votes": 77384,
      "party": "REP",
-     "pct": 57.4,
+     "pct": 57.78,
      "choice_id": "Steven D. Rhoads",
      "party_lines": {
-      "REP": 62903,
-      "CONSERVATIVE": 5684
+      "REP": 70971,
+      "CONSERVATIVE": 6413
      }
     }
    ],
@@ -335,34 +335,34 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Siela A. Bynoe",
-     "votes": 66198,
+     "votes": 70843,
      "party": "DEM",
-     "pct": 67.47,
+     "pct": 68.01,
      "choice_id": "Siela A. Bynoe",
      "party_lines": {
-      "DEM": 63702,
-      "WFP": 2496
+      "DEM": 68160,
+      "WFP": 2683
      }
     },
     {
      "name": "Matthew J. Capp",
-     "votes": 31920,
+     "votes": 33317,
      "party": "REP",
-     "pct": 32.53,
+     "pct": 31.99,
      "choice_id": "Matthew J. Capp",
      "party_lines": {
-      "REP": 29207,
-      "CONSERVATIVE": 2713
+      "REP": 30483,
+      "CONSERVATIVE": 2834
      }
     }
    ],
@@ -381,31 +381,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Rory Lancman",
-     "votes": 56472,
+     "votes": 58942,
      "party": null,
-     "pct": 47.97,
+     "pct": 48.14,
      "choice_id": "Rory Lancman",
      "party_lines": null
     },
     {
      "name": "Jake Blumencranz",
-     "votes": 61246,
+     "votes": 63486,
      "party": "REP",
-     "pct": 52.03,
+     "pct": 51.86,
      "choice_id": "Jake Blumencranz",
      "party_lines": {
-      "REP": 57146,
-      "CONSERVATIVE": 4100
+      "REP": 59222,
+      "CONSERVATIVE": 4264
      }
     }
    ],
@@ -424,31 +424,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Joshua James Taveras",
-     "votes": 12406,
+     "votes": 14198,
      "party": null,
-     "pct": 33.51,
+     "pct": 33.37,
      "choice_id": "Joshua James Taveras",
      "party_lines": null
     },
     {
      "name": "Jarett C. Gandolfo",
-     "votes": 24621,
+     "votes": 28343,
      "party": "REP",
-     "pct": 66.49,
+     "pct": 66.63,
      "choice_id": "Jarett C. Gandolfo",
      "party_lines": {
-      "REP": 22503,
-      "CONSERVATIVE": 2118
+      "REP": 25915,
+      "CONSERVATIVE": 2428
      }
     }
    ],
@@ -467,31 +467,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Lisa Malkie Vider",
-     "votes": 58862,
+     "votes": 63208,
      "party": null,
-     "pct": 51.27,
+     "pct": 51.62,
      "choice_id": "Lisa Malkie Vider",
      "party_lines": null
     },
     {
      "name": "Patricia M. Canzoneri-Fitzpatrick",
-     "votes": 55950,
+     "votes": 59248,
      "party": "REP",
-     "pct": 48.73,
+     "pct": 48.38,
      "choice_id": "Patricia M. Canzoneri-Fitzpatrick",
      "party_lines": {
-      "REP": 51725,
-      "CONSERVATIVE": 4225
+      "REP": 54720,
+      "CONSERVATIVE": 4528
      }
     }
    ],
@@ -510,31 +510,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Christopher J. Walis",
-     "votes": 4140,
+     "votes": 5100,
      "party": null,
-     "pct": 27.6,
+     "pct": 27.54,
      "choice_id": "Christopher J. Walis",
      "party_lines": null
     },
     {
      "name": "Michael A. Durso",
-     "votes": 10861,
+     "votes": 13420,
      "party": "REP",
-     "pct": 72.4,
+     "pct": 72.46,
      "choice_id": "Michael A. Durso",
      "party_lines": {
-      "REP": 9979,
-      "CONSERVATIVE": 882
+      "REP": 12335,
+      "CONSERVATIVE": 1085
      }
     }
    ],
@@ -553,31 +553,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Steve Stern",
-     "votes": 2713,
+     "votes": 2769,
      "party": null,
-     "pct": 58.31,
+     "pct": 58.42,
      "choice_id": "Steve Stern",
      "party_lines": null
     },
     {
      "name": "Tiffany L. LeGrow",
-     "votes": 1940,
+     "votes": 1971,
      "party": "REP",
-     "pct": 41.69,
+     "pct": 41.58,
      "choice_id": "Tiffany L. LeGrow",
      "party_lines": {
-      "REP": 1827,
-      "CONSERVATIVE": 113
+      "REP": 1855,
+      "CONSERVATIVE": 116
      }
     }
    ],
@@ -596,31 +596,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Kwani B. O'Pharrow",
-     "votes": 1668,
+     "votes": 1698,
      "party": null,
-     "pct": 63.76,
+     "pct": 63.81,
      "choice_id": "Kwani B. O'Pharrow",
      "party_lines": null
     },
     {
      "name": "Joseph R. Cardinale",
-     "votes": 948,
+     "votes": 963,
      "party": "REP",
-     "pct": 36.24,
+     "pct": 36.19,
      "choice_id": "Joseph R. Cardinale",
      "party_lines": {
-      "REP": 844,
-      "CONSERVATIVE": 104
+      "REP": 857,
+      "CONSERVATIVE": 106
      }
     }
    ],
@@ -639,31 +639,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Charles D. Lavine",
-     "votes": 24929,
+     "votes": 26260,
      "party": null,
-     "pct": 59.56,
+     "pct": 59.52,
      "choice_id": "Charles D. Lavine",
      "party_lines": null
     },
     {
      "name": "Conner Phillip Dunleavy",
-     "votes": 16927,
+     "votes": 17861,
      "party": "REP",
-     "pct": 40.44,
+     "pct": 40.48,
      "choice_id": "Conner Phillip Dunleavy",
      "party_lines": {
-      "REP": 15621,
-      "CONSERVATIVE": 1306
+      "REP": 16497,
+      "CONSERVATIVE": 1364
      }
     }
    ],
@@ -682,31 +682,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "John E. Brooks",
-     "votes": 22232,
+     "votes": 25150,
      "party": null,
-     "pct": 41.77,
+     "pct": 41.38,
      "choice_id": "John E. Brooks",
      "party_lines": null
     },
     {
      "name": "Shannon R. Fredericks",
-     "votes": 30988,
+     "votes": 35629,
      "party": "REP",
-     "pct": 58.23,
+     "pct": 58.62,
      "choice_id": "Shannon R. Fredericks",
      "party_lines": {
-      "REP": 28617,
-      "CONSERVATIVE": 2371
+      "REP": 32906,
+      "CONSERVATIVE": 2723
      }
     }
    ],
@@ -725,31 +725,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Dean Tarulli",
-     "votes": 22189,
+     "votes": 24205,
      "party": null,
-     "pct": 47.44,
+     "pct": 47.27,
      "choice_id": "Dean Tarulli",
      "party_lines": null
     },
     {
      "name": "Paolo A. Pironi",
-     "votes": 24588,
+     "votes": 26999,
      "party": "REP",
-     "pct": 52.56,
+     "pct": 52.73,
      "choice_id": "Paolo A. Pironi",
      "party_lines": {
-      "REP": 22643,
-      "CONSERVATIVE": 1945
+      "REP": 24812,
+      "CONSERVATIVE": 2187
      }
     }
    ],
@@ -768,31 +768,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Kim Keiserman",
-     "votes": 26439,
+     "votes": 27640,
      "party": null,
-     "pct": 52.11,
+     "pct": 52.37,
      "choice_id": "Kim Keiserman",
      "party_lines": null
     },
     {
      "name": "David Hassid",
-     "votes": 24300,
+     "votes": 25142,
      "party": "REP",
-     "pct": 47.89,
+     "pct": 47.63,
      "choice_id": "David Hassid",
      "party_lines": {
-      "REP": 23002,
-      "CONSERVATIVE": 1298
+      "REP": 23800,
+      "CONSERVATIVE": 1342
      }
     }
    ],
@@ -811,31 +811,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Sunita J. Lofters",
-     "votes": 19636,
+     "votes": 21137,
      "party": null,
-     "pct": 39.82,
+     "pct": 39.86,
      "choice_id": "Sunita J. Lofters",
      "party_lines": null
     },
     {
      "name": "John K. Mikulin",
-     "votes": 29679,
+     "votes": 31891,
      "party": "REP",
-     "pct": 60.18,
+     "pct": 60.14,
      "choice_id": "John K. Mikulin",
      "party_lines": {
-      "REP": 27041,
-      "CONSERVATIVE": 2638
+      "REP": 29053,
+      "CONSERVATIVE": 2838
      }
     }
    ],
@@ -854,34 +854,34 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Noah Burroughs",
-     "votes": 26807,
+     "votes": 29796,
      "party": "DEM",
-     "pct": 89.74,
+     "pct": 89.45,
      "choice_id": "Noah Burroughs",
      "party_lines": {
-      "DEM": 26037,
-      "WFP": 770
+      "DEM": 28935,
+      "WFP": 861
      }
     },
     {
      "name": "Charlene Jackson",
-     "votes": 3066,
+     "votes": 3516,
      "party": "REP",
-     "pct": 10.26,
+     "pct": 10.55,
      "choice_id": "Charlene Jackson",
      "party_lines": {
-      "REP": 2710,
-      "CONSERVATIVE": 356
+      "REP": 3115,
+      "CONSERVATIVE": 401
      }
     }
    ],
@@ -900,31 +900,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Colleen Connaughton",
-     "votes": 19911,
+     "votes": 21514,
      "party": null,
-     "pct": 41.02,
+     "pct": 41.35,
      "choice_id": "Colleen Connaughton",
      "party_lines": null
     },
     {
      "name": "Edward P. Ra",
-     "votes": 28634,
+     "votes": 30517,
      "party": "REP",
-     "pct": 58.98,
+     "pct": 58.65,
      "choice_id": "Edward P. Ra",
      "party_lines": {
-      "REP": 26244,
-      "CONSERVATIVE": 2390
+      "REP": 27957,
+      "CONSERVATIVE": 2560
      }
     }
    ],
@@ -943,31 +943,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Meir Fischer",
-     "votes": 18454,
+     "votes": 19569,
      "party": null,
-     "pct": 38.49,
+     "pct": 39.11,
      "choice_id": "Meir Fischer",
      "party_lines": null
     },
     {
      "name": "Eric Ari Brown",
-     "votes": 29491,
+     "votes": 30467,
      "party": "REP",
-     "pct": 61.51,
+     "pct": 60.89,
      "choice_id": "Eric Ari Brown",
      "party_lines": {
-      "REP": 27710,
-      "CONSERVATIVE": 1781
+      "REP": 28607,
+      "CONSERVATIVE": 1860
      }
     }
    ],
@@ -986,31 +986,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Judy A. Griffin",
-     "votes": 32387,
+     "votes": 33551,
      "party": null,
-     "pct": 60.47,
+     "pct": 60.77,
      "choice_id": "Judy A. Griffin",
      "party_lines": null
     },
     {
      "name": "Irene V. Villacci",
-     "votes": 21169,
+     "votes": 21657,
      "party": "REP",
-     "pct": 39.53,
+     "pct": 39.23,
      "choice_id": "Irene V. Villacci",
      "party_lines": {
-      "REP": 19273,
-      "CONSERVATIVE": 1896
+      "REP": 19710,
+      "CONSERVATIVE": 1947
      }
     }
    ],
@@ -1029,34 +1029,34 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Michaelle C. Solages",
-     "votes": 29436,
+     "votes": 31979,
      "party": "DEM",
-     "pct": 69.26,
+     "pct": 68.89,
      "choice_id": "Michaelle C. Solages",
      "party_lines": {
-      "DEM": 28268,
-      "WFP": 1168
+      "DEM": 30695,
+      "WFP": 1284
      }
     },
     {
      "name": "Robert G. Inzerillo",
-     "votes": 13063,
+     "votes": 14443,
      "party": "REP",
-     "pct": 30.74,
+     "pct": 31.11,
      "choice_id": "Robert G. Inzerillo",
      "party_lines": {
-      "REP": 11952,
-      "CONSERVATIVE": 1111
+      "REP": 13207,
+      "CONSERVATIVE": 1236
      }
     }
    ],
@@ -1075,38 +1075,38 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Joe Scianablo",
-     "votes": 141674,
+     "votes": 152995,
      "party": null,
-     "pct": 51.72,
+     "pct": 51.79,
      "choice_id": "Joe Scianablo",
      "party_lines": null
     },
     {
      "name": "John R. Ferretti",
-     "votes": 131515,
+     "votes": 141585,
      "party": "REP",
-     "pct": 48.01,
+     "pct": 47.93,
      "choice_id": "John R. Ferretti",
      "party_lines": {
-      "REP": 121372,
-      "CONSERVATIVE": 10143
+      "REP": 130641,
+      "CONSERVATIVE": 10944
      }
     },
     {
      "name": "Martin Oliner",
-     "votes": 742,
+     "votes": 814,
      "party": null,
-     "pct": 0.27,
+     "pct": 0.28,
      "choice_id": "Martin Oliner",
      "party_lines": null
     }
@@ -1126,31 +1126,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Joylette E. Williams",
-     "votes": 137619,
+     "votes": 148730,
      "party": null,
-     "pct": 50.32,
+     "pct": 50.43,
      "choice_id": "Joylette E. Williams",
      "party_lines": null
     },
     {
      "name": "Kate Murray",
-     "votes": 135883,
+     "votes": 146192,
      "party": "REP",
-     "pct": 49.68,
+     "pct": 49.57,
      "choice_id": "Kate Murray",
      "party_lines": {
-      "REP": 125024,
-      "CONSERVATIVE": 10859
+      "REP": 134465,
+      "CONSERVATIVE": 11727
      }
     }
    ],
@@ -1169,31 +1169,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Sean Michael McCarthy",
-     "votes": 40675,
+     "votes": 42498,
      "party": null,
-     "pct": 48.8,
+     "pct": 48.94,
      "choice_id": "Sean Michael McCarthy",
      "party_lines": null
     },
     {
      "name": "Jennifer S. DeSena",
-     "votes": 42676,
+     "votes": 44335,
      "party": "REP",
-     "pct": 51.2,
+     "pct": 51.06,
      "choice_id": "Jennifer S. DeSena",
      "party_lines": {
-      "REP": 39910,
-      "CONSERVATIVE": 2766
+      "REP": 41440,
+      "CONSERVATIVE": 2895
      }
     }
    ],
@@ -1212,31 +1212,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "James T. Hoyle",
-     "votes": 42094,
+     "votes": 46104,
      "party": null,
-     "pct": 37.67,
+     "pct": 37.42,
      "choice_id": "James T. Hoyle",
      "party_lines": null
     },
     {
      "name": "Joseph S. Saladino",
-     "votes": 69638,
+     "votes": 77118,
      "party": "REP",
-     "pct": 62.33,
+     "pct": 62.58,
      "choice_id": "Joseph S. Saladino",
      "party_lines": {
-      "REP": 63955,
-      "CONSERVATIVE": 5683
+      "REP": 70760,
+      "CONSERVATIVE": 6358
      }
     }
    ],
@@ -1255,31 +1255,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Shreya Gupta",
-     "votes": 44306,
+     "votes": 48532,
      "party": null,
-     "pct": 39.98,
+     "pct": 39.71,
      "choice_id": "Shreya Gupta",
      "party_lines": null
     },
     {
      "name": "Richard L. LaMarca",
-     "votes": 66527,
+     "votes": 73698,
      "party": "REP",
-     "pct": 60.02,
+     "pct": 60.29,
      "choice_id": "Richard L. LaMarca",
      "party_lines": {
-      "REP": 61113,
-      "CONSERVATIVE": 5414
+      "REP": 67663,
+      "CONSERVATIVE": 6035
      }
     }
    ],
@@ -1298,31 +1298,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Scott M. Davis",
-     "votes": 18084,
+     "votes": 18678,
      "party": null,
-     "pct": 71.38,
+     "pct": 71.65,
      "choice_id": "Scott M. Davis",
      "party_lines": null
     },
     {
      "name": "Edward J. Lino",
-     "votes": 7251,
+     "votes": 7392,
      "party": "REP",
-     "pct": 28.62,
+     "pct": 28.35,
      "choice_id": "Edward J. Lino",
      "party_lines": {
-      "REP": 6551,
-      "CONSERVATIVE": 700
+      "REP": 6679,
+      "CONSERVATIVE": 713
      }
     }
    ],
@@ -1341,31 +1341,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Viviana L. Russell",
-     "votes": 12681,
+     "votes": 13401,
      "party": null,
-     "pct": 72.23,
+     "pct": 72.45,
      "choice_id": "Viviana L. Russell",
      "party_lines": null
     },
     {
      "name": "Lamont E. Johnson",
-     "votes": 4875,
+     "votes": 5097,
      "party": "REP",
-     "pct": 27.77,
+     "pct": 27.55,
      "choice_id": "Lamont E. Johnson",
      "party_lines": {
-      "REP": 4445,
-      "CONSERVATIVE": 430
+      "REP": 4647,
+      "CONSERVATIVE": 450
      }
     }
    ],
@@ -1384,34 +1384,34 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Carrié Solages",
-     "votes": 17835,
+     "votes": 19003,
      "party": "DEM",
-     "pct": 73.01,
+     "pct": 73.53,
      "choice_id": "Carrié Solages",
      "party_lines": {
-      "DEM": 17189,
-      "WFP": 646
+      "DEM": 18311,
+      "WFP": 692
      }
     },
     {
      "name": "Kadeem M. Brown",
-     "votes": 6592,
+     "votes": 6840,
      "party": "REP",
-     "pct": 26.99,
+     "pct": 26.47,
      "choice_id": "Kadeem M. Brown",
      "party_lines": {
-      "REP": 6012,
-      "CONSERVATIVE": 580
+      "REP": 6235,
+      "CONSERVATIVE": 605
      }
     }
    ],
@@ -1430,31 +1430,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Michael J. Pentola",
-     "votes": 12849,
+     "votes": 13819,
      "party": null,
-     "pct": 44.97,
+     "pct": 45.59,
      "choice_id": "Michael J. Pentola",
      "party_lines": null
     },
     {
      "name": "Patrick Mullaney",
-     "votes": 15721,
+     "votes": 16490,
      "party": "REP",
-     "pct": 55.03,
+     "pct": 54.41,
      "choice_id": "Patrick Mullaney",
      "party_lines": {
-      "REP": 14478,
-      "CONSERVATIVE": 1243
+      "REP": 15171,
+      "CONSERVATIVE": 1319
      }
     }
    ],
@@ -1473,31 +1473,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Olena Nicks",
-     "votes": 12481,
+     "votes": 13853,
      "party": null,
-     "pct": 68.07,
+     "pct": 69.0,
      "choice_id": "Olena Nicks",
      "party_lines": null
     },
     {
      "name": "Moshe E. Hill",
-     "votes": 5855,
+     "votes": 6225,
      "party": "REP",
-     "pct": 31.93,
+     "pct": 31.0,
      "choice_id": "Moshe E. Hill",
      "party_lines": {
-      "REP": 5398,
-      "CONSERVATIVE": 457
+      "REP": 5736,
+      "CONSERVATIVE": 489
      }
     }
    ],
@@ -1516,31 +1516,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Debra S. Mulé",
-     "votes": 15526,
+     "votes": 17335,
      "party": null,
-     "pct": 71.42,
+     "pct": 72.03,
      "choice_id": "Debra S. Mulé",
      "party_lines": null
     },
     {
      "name": "Benjamin Jackson",
-     "votes": 6212,
+     "votes": 6730,
      "party": "REP",
-     "pct": 28.58,
+     "pct": 27.97,
      "choice_id": "Benjamin Jackson",
      "party_lines": {
-      "REP": 5671,
-      "CONSERVATIVE": 541
+      "REP": 6136,
+      "CONSERVATIVE": 594
      }
     }
    ],
@@ -1559,31 +1559,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Douglas J. Segan",
-     "votes": 7452,
+     "votes": 7683,
      "party": null,
-     "pct": 28.99,
+     "pct": 29.17,
      "choice_id": "Douglas J. Segan",
      "party_lines": null
     },
     {
      "name": "Howard J. Kopel",
-     "votes": 18254,
+     "votes": 18652,
      "party": "REP",
-     "pct": 71.01,
+     "pct": 70.83,
      "choice_id": "Howard J. Kopel",
      "party_lines": {
-      "REP": 17446,
-      "CONSERVATIVE": 808
+      "REP": 17825,
+      "CONSERVATIVE": 827
      }
     }
    ],
@@ -1602,31 +1602,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Joy Jankunas",
-     "votes": 10387,
+     "votes": 11656,
      "party": null,
-     "pct": 38.46,
+     "pct": 38.73,
      "choice_id": "Joy Jankunas",
      "party_lines": null
     },
     {
      "name": "John J. Giuffre",
-     "votes": 16618,
+     "votes": 18443,
      "party": "REP",
-     "pct": 61.54,
+     "pct": 61.27,
      "choice_id": "John J. Giuffre",
      "party_lines": {
-      "REP": 15155,
-      "CONSERVATIVE": 1463
+      "REP": 16815,
+      "CONSERVATIVE": 1628
      }
     }
    ],
@@ -1645,31 +1645,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Juleigh Chin",
-     "votes": 13256,
+     "votes": 13982,
      "party": null,
-     "pct": 50.2,
+     "pct": 50.16,
      "choice_id": "Juleigh Chin",
      "party_lines": null
     },
     {
      "name": "Scott P. Strauss",
-     "votes": 13150,
+     "votes": 13895,
      "party": "REP",
-     "pct": 49.8,
+     "pct": 49.84,
      "choice_id": "Scott P. Strauss",
      "party_lines": {
-      "REP": 12080,
-      "CONSERVATIVE": 1070
+      "REP": 12751,
+      "CONSERVATIVE": 1144
      }
     }
    ],
@@ -1688,31 +1688,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Skylar A. Epstein",
-     "votes": 10350,
+     "votes": 10907,
      "party": null,
-     "pct": 38.54,
+     "pct": 39.0,
      "choice_id": "Skylar A. Epstein",
      "party_lines": null
     },
     {
      "name": "Mazi Melesa Pilip",
-     "votes": 16508,
+     "votes": 17062,
      "party": "REP",
-     "pct": 61.46,
+     "pct": 61.0,
      "choice_id": "Mazi Melesa Pilip",
      "party_lines": {
-      "REP": 15668,
-      "CONSERVATIVE": 840
+      "REP": 16197,
+      "CONSERVATIVE": 865
      }
     }
    ],
@@ -1731,31 +1731,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Delia M. DeRiggi Whitton",
-     "votes": 16323,
+     "votes": 17082,
      "party": null,
-     "pct": 61.45,
+     "pct": 61.33,
      "choice_id": "Delia M. DeRiggi Whitton",
      "party_lines": null
     },
     {
      "name": "John Canning",
-     "votes": 10238,
+     "votes": 10769,
      "party": "REP",
-     "pct": 38.55,
+     "pct": 38.67,
      "choice_id": "John Canning",
      "party_lines": {
-      "REP": 9435,
-      "CONSERVATIVE": 803
+      "REP": 9944,
+      "CONSERVATIVE": 825
      }
     }
    ],
@@ -1774,31 +1774,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Michael Vanunu",
-     "votes": 12636,
+     "votes": 14384,
      "party": null,
-     "pct": 44.57,
+     "pct": 44.42,
      "choice_id": "Michael Vanunu",
      "party_lines": null
     },
     {
      "name": "Michael J. Giangregorio",
-     "votes": 15713,
+     "votes": 17995,
      "party": "REP",
-     "pct": 55.43,
+     "pct": 55.58,
      "choice_id": "Michael J. Giangregorio",
      "party_lines": {
-      "REP": 14538,
-      "CONSERVATIVE": 1175
+      "REP": 16661,
+      "CONSERVATIVE": 1334
      }
     }
    ],
@@ -1817,31 +1817,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Christina M. Lemyre",
-     "votes": 12596,
+     "votes": 13254,
      "party": null,
-     "pct": 46.09,
+     "pct": 46.24,
      "choice_id": "Christina M. Lemyre",
      "party_lines": null
     },
     {
      "name": "Thomas McKevitt",
-     "votes": 14732,
+     "votes": 15411,
      "party": "REP",
-     "pct": 53.91,
+     "pct": 53.76,
      "choice_id": "Thomas McKevitt",
      "party_lines": {
-      "REP": 13471,
-      "CONSERVATIVE": 1261
+      "REP": 14091,
+      "CONSERVATIVE": 1320
      }
     }
    ],
@@ -1860,31 +1860,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Cynthia Nuñez",
-     "votes": 17030,
+     "votes": 17893,
      "party": null,
-     "pct": 65.96,
+     "pct": 65.88,
      "choice_id": "Cynthia Nuñez",
      "party_lines": null
     },
     {
      "name": "Anthony B. Capone",
-     "votes": 8789,
+     "votes": 9265,
      "party": "REP",
-     "pct": 34.04,
+     "pct": 34.12,
      "choice_id": "Anthony B. Capone",
      "party_lines": {
-      "REP": 8009,
-      "CONSERVATIVE": 780
+      "REP": 8451,
+      "CONSERVATIVE": 814
      }
     }
    ],
@@ -1903,31 +1903,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "David Louis Boldt Smith",
-     "votes": 10119,
+     "votes": 11381,
      "party": null,
-     "pct": 35.7,
+     "pct": 35.22,
      "choice_id": "David Louis Boldt Smith",
      "party_lines": null
     },
     {
      "name": "Kayla Lianne Knight",
-     "votes": 18224,
+     "votes": 20929,
      "party": "REP",
-     "pct": 64.3,
+     "pct": 64.78,
      "choice_id": "Kayla Lianne Knight",
      "party_lines": {
-      "REP": 16706,
-      "CONSERVATIVE": 1518
+      "REP": 19200,
+      "CONSERVATIVE": 1729
      }
     }
    ],
@@ -1946,31 +1946,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Jared Behr",
-     "votes": 14710,
+     "votes": 15872,
      "party": null,
-     "pct": 55.44,
+     "pct": 55.2,
      "choice_id": "Jared Behr",
      "party_lines": null
     },
     {
      "name": "Olivia G. Pfeifer",
-     "votes": 11823,
+     "votes": 12882,
      "party": "REP",
-     "pct": 44.56,
+     "pct": 44.8,
      "choice_id": "Olivia G. Pfeifer",
      "party_lines": {
-      "REP": 10941,
-      "CONSERVATIVE": 882
+      "REP": 11909,
+      "CONSERVATIVE": 973
      }
     }
    ],
@@ -1989,31 +1989,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Ryan J. Johnson",
-     "votes": 9888,
+     "votes": 11584,
      "party": null,
-     "pct": 41.84,
+     "pct": 41.26,
      "choice_id": "Ryan J. Johnson",
      "party_lines": null
     },
     {
      "name": "Rose Marie Walker",
-     "votes": 13744,
+     "votes": 16492,
      "party": "REP",
-     "pct": 58.16,
+     "pct": 58.74,
      "choice_id": "Rose Marie Walker",
      "party_lines": {
-      "REP": 12501,
-      "CONSERVATIVE": 1243
+      "REP": 14975,
+      "CONSERVATIVE": 1517
      }
     }
    ],
@@ -2032,31 +2032,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Graham Musynske",
-     "votes": 11179,
+     "votes": 11514,
      "party": null,
-     "pct": 40.03,
+     "pct": 40.29,
      "choice_id": "Graham Musynske",
      "party_lines": null
     },
     {
      "name": "Samantha A. Goetz",
-     "votes": 16751,
+     "votes": 17064,
      "party": "REP",
-     "pct": 59.97,
+     "pct": 59.71,
      "choice_id": "Samantha A. Goetz",
      "party_lines": {
-      "REP": 15580,
-      "CONSERVATIVE": 1171
+      "REP": 15866,
+      "CONSERVATIVE": 1198
      }
     }
    ],
@@ -2075,31 +2075,31 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Christine Barlow",
-     "votes": 9427,
+     "votes": 10510,
      "party": null,
-     "pct": 30.95,
+     "pct": 30.67,
      "choice_id": "Christine Barlow",
      "party_lines": null
     },
     {
      "name": "James D. Kennedy",
-     "votes": 21027,
+     "votes": 23763,
      "party": "REP",
-     "pct": 69.05,
+     "pct": 69.33,
      "choice_id": "James D. Kennedy",
      "party_lines": {
-      "REP": 19286,
-      "CONSERVATIVE": 1741
+      "REP": 21801,
+      "CONSERVATIVE": 1962
      }
     }
    ],
@@ -2118,150 +2118,43 @@
    "vote_for": 8,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Richard Ambro",
-     "votes": 425112,
+     "votes": 458097,
      "party": "DEM",
-     "pct": 11.89,
+     "pct": 47.57,
      "choice_id": "Richard Ambro",
      "party_lines": {
-      "DEM": 230038,
-      "REP": 195074
+      "DEM": 247806,
+      "REP": 210291
      }
     },
     {
      "name": "Anthony R. Portesy",
-     "votes": 29270,
+     "votes": 31813,
      "party": null,
-     "pct": 0.82,
+     "pct": 3.3,
      "choice_id": "Anthony R. Portesy",
      "party_lines": null
     },
     {
      "name": "Leonard D. Steinman",
-     "votes": 438926,
+     "votes": 473124,
      "party": "DEM",
-     "pct": 12.27,
+     "pct": 49.13,
      "choice_id": "Leonard D. Steinman",
      "party_lines": {
-      "DEM": 223204,
-      "REP": 193933,
-      "CONSERVATIVE": 21789
-     }
-    },
-    {
-     "name": "Mary E. Porter",
-     "votes": 234395,
-     "party": null,
-     "pct": 6.55,
-     "choice_id": "Mary E. Porter",
-     "party_lines": null
-    },
-    {
-     "name": "Kelly A. Reape",
-     "votes": 220369,
-     "party": "REP",
-     "pct": 6.16,
-     "choice_id": "Kelly A. Reape",
-     "party_lines": {
-      "REP": 197243,
-      "CONSERVATIVE": 23126
-     }
-    },
-    {
-     "name": "Joy M. Watson",
-     "votes": 439784,
-     "party": "DEM",
-     "pct": 12.3,
-     "choice_id": "Joy M. Watson",
-     "party_lines": {
-      "DEM": 225768,
-      "REP": 192321,
-      "CONSERVATIVE": 21695
-     }
-    },
-    {
-     "name": "Stephen L. Ukeiley",
-     "votes": 225425,
-     "party": null,
-     "pct": 6.3,
-     "choice_id": "Stephen L. Ukeiley",
-     "party_lines": null
-    },
-    {
-     "name": "Karen M. Wilutis",
-     "votes": 219490,
-     "party": "REP",
-     "pct": 6.14,
-     "choice_id": "Karen M. Wilutis",
-     "party_lines": {
-      "REP": 196354,
-      "CONSERVATIVE": 23136
-     }
-    },
-    {
-     "name": "Eric Sachs",
-     "votes": 230143,
-     "party": null,
-     "pct": 6.43,
-     "choice_id": "Eric Sachs",
-     "party_lines": null
-    },
-    {
-     "name": "John Iliou",
-     "votes": 215928,
-     "party": "REP",
-     "pct": 6.04,
-     "choice_id": "John Iliou",
-     "party_lines": {
-      "REP": 193332,
-      "CONSERVATIVE": 22596
-     }
-    },
-    {
-     "name": "William D. Wexler",
-     "votes": 225181,
-     "party": null,
-     "pct": 6.3,
-     "choice_id": "William D. Wexler",
-     "party_lines": null
-    },
-    {
-     "name": "James A. McDonaugh",
-     "votes": 222555,
-     "party": "REP",
-     "pct": 6.22,
-     "choice_id": "James A. McDonaugh",
-     "party_lines": {
-      "REP": 199235,
-      "CONSERVATIVE": 23320
-     }
-    },
-    {
-     "name": "John Kelly",
-     "votes": 228713,
-     "party": null,
-     "pct": 6.4,
-     "choice_id": "John Kelly",
-     "party_lines": null
-    },
-    {
-     "name": "Mary Kate Mullen",
-     "votes": 221140,
-     "party": "REP",
-     "pct": 6.18,
-     "choice_id": "Mary Kate Mullen",
-     "party_lines": {
-      "REP": 197872,
-      "CONSERVATIVE": 23268
+      "DEM": 240403,
+      "REP": 209028,
+      "CONSERVATIVE": 23693
      }
     }
    ],
@@ -2280,36 +2173,36 @@
    "vote_for": 2,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Ellen R. Greenberg",
-     "votes": 445155,
+     "votes": 479921,
      "party": "DEM",
-     "pct": 50.61,
+     "pct": 50.6,
      "choice_id": "Ellen R. Greenberg",
      "party_lines": {
-      "DEM": 228815,
-      "REP": 194794,
-      "CONSERVATIVE": 21546
+      "DEM": 246533,
+      "REP": 209989,
+      "CONSERVATIVE": 23399
      }
     },
     {
      "name": "Ayesha Keri Brantley",
-     "votes": 434463,
+     "votes": 468495,
      "party": "DEM",
-     "pct": 49.39,
+     "pct": 49.4,
      "choice_id": "Ayesha Keri Brantley",
      "party_lines": {
-      "DEM": 226402,
-      "REP": 187088,
-      "CONSERVATIVE": 20973
+      "DEM": 243981,
+      "REP": 201701,
+      "CONSERVATIVE": 22813
      }
     }
    ],
@@ -2328,48 +2221,48 @@
    "vote_for": 3,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Tricia M. Ferrell",
-     "votes": 259305,
+     "votes": 279831,
      "party": "DEM",
-     "pct": 34.11,
+     "pct": 34.12,
      "choice_id": "Tricia M. Ferrell",
      "party_lines": {
-      "DEM": 141081,
-      "REP": 106183,
-      "CONSERVATIVE": 12041
+      "DEM": 152563,
+      "REP": 114246,
+      "CONSERVATIVE": 13022
      }
     },
     {
      "name": "Michael W. Alpert",
-     "votes": 250376,
+     "votes": 270087,
      "party": "DEM",
-     "pct": 32.94,
+     "pct": 32.93,
      "choice_id": "Michael W. Alpert",
      "party_lines": {
-      "DEM": 132368,
-      "REP": 106032,
-      "CONSERVATIVE": 11976
+      "DEM": 143071,
+      "REP": 114060,
+      "CONSERVATIVE": 12956
      }
     },
     {
      "name": "Lauren Doddato Goldman",
-     "votes": 250415,
+     "votes": 270233,
      "party": "DEM",
      "pct": 32.95,
      "choice_id": "Lauren Doddato Goldman",
      "party_lines": {
-      "DEM": 134951,
-      "REP": 103520,
-      "CONSERVATIVE": 11944
+      "DEM": 145888,
+      "REP": 111410,
+      "CONSERVATIVE": 12935
      }
     }
    ],
@@ -2388,36 +2281,36 @@
    "vote_for": 2,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "Lisa M. Petrocelli",
-     "votes": 76193,
+     "votes": 79312,
      "party": "DEM",
      "pct": 51.17,
      "choice_id": "Lisa M. Petrocelli",
      "party_lines": {
-      "DEM": 39864,
-      "REP": 33105,
-      "CONSERVATIVE": 3224
+      "DEM": 41642,
+      "REP": 34296,
+      "CONSERVATIVE": 3374
      }
     },
     {
      "name": "William P. Bodkin",
-     "votes": 72723,
+     "votes": 75699,
      "party": "DEM",
      "pct": 48.83,
      "choice_id": "William P. Bodkin",
      "party_lines": {
-      "DEM": 37625,
-      "REP": 31952,
-      "CONSERVATIVE": 3146
+      "DEM": 39293,
+      "REP": 33113,
+      "CONSERVATIVE": 3293
      }
     }
    ],
@@ -2436,24 +2329,24 @@
    "vote_for": 1,
    "final": false,
    "reporting": {
-    "units_reporting": 1042,
-    "units_total": 1083,
+    "units_reporting": null,
+    "units_total": null,
     "pct": null,
-    "text": "Countywide, 1042 of 1083 precincts reported",
-    "as_percent": false
+    "text": null,
+    "as_percent": true
    },
-   "feed_updated_at": "2026-11-03T23:55:59-05:00",
+   "feed_updated_at": "2026-11-16T11:38:35-05:00",
    "choices": [
     {
      "name": "David W. Wright",
-     "votes": 109335,
+     "votes": 120466,
      "party": "DEM",
      "pct": 100.0,
      "choice_id": "David W. Wright",
      "party_lines": {
-      "DEM": 49710,
-      "REP": 53337,
-      "CONSERVATIVE": 6288
+      "DEM": 54354,
+      "REP": 59086,
+      "CONSERVATIVE": 7026
      }
     }
    ],
@@ -2461,10 +2354,10 @@
    "uncontested": false
   }
  ],
- "contests_hash": "db0fa4721e0f6aa8",
- "status": "error",
- "message": "ValueError: Nassau's results page has no text (words drawn as vector paths); keeping last results\nTraceback (most recent call last):\n  File \"/Users/christopher/code/wfp-lab/scrapers/elex/run.py\", line 40, in pull\n    result.contests = source.pull(fetch)\n                      ~~~~~~~~~~~^^^^^^^\n  File \"/Users/christopher/code/wfp-lab/scrapers/elex/counties/ny.py\", line 270, in pull\n    raise ValueError(\"Nassau's results page has no text (words drawn as vector paths); keeping last results\")\nValueError: Nassau's results page has no text (words drawn as vector paths); keeping last results\n",
- "last_attempt_at": "2026-11-15T17:35:58+00:00",
- "fetched_at": "2026-11-04T15:53:14+00:00",
- "contests_changed_at": "2026-11-04T15:37:42+00:00"
+ "contests_hash": "cf6449e00cd63577",
+ "status": "ok",
+ "message": "",
+ "last_attempt_at": "2026-11-16T17:58:05+00:00",
+ "fetched_at": "2026-11-16T17:58:05+00:00",
+ "contests_changed_at": "2026-11-16T17:58:05+00:00"
 }

@@ -59,6 +59,7 @@ See also [election-results-scraper-plan.md](election-results-scraper-plan.md) (d
 | Nov 13, 1:52pm | 1,085 | 879 | (none new; 142 counts changed; no flips) |
 | Nov 15, 12:34pm | 1,085 | 880 | (none new; 331 counts changed; Caitlin Quinn flips to leading; Oregon held at Nov 13) |
 | Nov 16, 12:54pm | 1,085 | 880 | (none new; Lancaster NE re-entered from the Nov 13 final count) |
+| Nov 16, 12:56pm | 1,085 | 880 | (none new; 54 counts changed; Oregon and Nassau readable again) |
 
 Still missing at 2:50pm Nov 11: Middlesex (NJ). Bexar, Dallas, Tarrant and Marin read again from Nov 11 (see "Nov 11, 2:50pm" below).
 
@@ -938,6 +939,22 @@ Sites that block scripts, read in the browser and entered in `manual_entries.csv
 - Rematched with `run --sources manual` (run 20261116T175407Z). Totals unchanged: 1,085 races with results, WFP
   leading 880.
 
+### Nov 16, 12:56pm: Oregon and Nassau back
+
+- All 85 sources ran (run 20261116T175634Z). Only Middlesex NJ is still unpublished (no Nov 3 election on Clarity).
+- Oregon served full pages again: 554 contests, the same as its last good pull (Nov 13), so the empty-page check
+  did its job and Oregon is current again.
+- Nassau's results page has readable text again, after showing only vector shapes since about Nov 10. Its pull is
+  complete (53 contests, as on election night) and feeds the NY district sums again.
+- 1,085 races with results, WFP leading 880 (unchanged). 54 counts changed: Oregon 32, NY district sums 6,
+  Connecticut 5, Pennsylvania 5, Maryland 4, Florida 1, Nassau 1. No flips and no status changes.
+- Closing: Bob Fernandez (CT HD-48) 52 ahead (was 58).
+- Widening: Nafisa Fai (Washington County OR at-large) 460 ahead (was 363); Kipperlyn Sinclair (Washington County
+  OR D4) 1,533 ahead (was 1,502); Heather Buch (Lane County East Commissioner) 221 ahead (was 213); Pat Halpin (NY-2)
+  7,916 behind (was 6,259), with Nassau's current count summed in.
+- Still very close and unchanged: Steven Kung (Monterey Park) 4 behind, Kyle Fendrich (Dutchess LD-15) 6 behind,
+  Jonathan Bradner (OH HD-29) 19 behind.
+
 ---
 
 ## Feed quirks worth remembering
@@ -980,7 +997,7 @@ Sites that block scripts, read in the browser and entered in `manual_entries.csv
 | Michigan SoS results | Cloudflare challenge to scripts; Wayne posted last | Entered by hand: state's 82 counties plus Wayne's TotalVote share |
 | Los Angeles County | Ballot and counts come from separate calls | `GetElectionData` for the ballot, `GetCounterData` for votes |
 | Multnomah County (OR) | Ranked-choice contests have no votes in the state feed | County tabulation JSON; last-round totals |
-| Nassau County (NY) | From ~Nov 10 the results page has no text (vector shapes) | Reported as an error; election-night results kept |
+| Nassau County (NY) | From ~Nov 10 to Nov 16 the results page had no text (vector shapes) | Reported as an error; election-night results kept until it was readable again |
 | Florida results file host | Expired TLS certificate (Nov 11) | Certificate check skipped for that host only (approved Nov 11); logged as TLS NOT VERIFIED |
 | Oregon | Vote by mail; precincts-reporting stays at 0 while votes come in | Shown as reported; worth replacing with a count or hiding |
 | California Clarity counties | Statewide props carried as the county's own complete contests | Numbered propositions marked partial; matcher prefers the state's contest |
@@ -1017,8 +1034,6 @@ Sites that block scripts, read in the browser and entered in `manual_entries.csv
 - Lancaster County NE (Randall Ritnour) is hand-entered from the Nov 13 final unofficial report; re-enter once the
   county certifies.
 - Boulder mayor and Phoenix District 4 are hand-entered (Nov 6 and Nov 10 reports); re-enter when they update.
-- Oregon is held at its Nov 13 counts while its site serves empty pages (from Nov 15); it updates again once a full
-  pull succeeds.
 - Middlesex NJ still shows no Nov 3 election on Clarity, and its county site blocks scripts; Shantell Cherry
   (Piscataway Ward 1) and the county's share of NJ House races wait on it.
 - Massachusetts is entered by hand (AP as of about 7–10am Nov 4) and only updates when re-entered; Q5 and the
